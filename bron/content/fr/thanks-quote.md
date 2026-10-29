@@ -18,6 +18,7 @@ sum:
   stack_1: 1 pile de {per}
   stack_n: '{n} piles de {per}'
   pcs: pièces
+  pcs_1: pièce
   change: Une erreur ou un complément ? Écrivez-nous à
   mail_subject: Complément à ma demande de devis
 next:

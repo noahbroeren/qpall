@@ -18,6 +18,7 @@ sum:
   stack_1: 1 pila da {per}
   stack_n: '{n} pile da {per}'
   pcs: pezzi
+  pcs_1: pezzo
   change: Qualcosa non va o volete aggiungere qualcosa? Scriveteci a
   mail_subject: Integrazione alla mia richiesta di preventivo
 next:

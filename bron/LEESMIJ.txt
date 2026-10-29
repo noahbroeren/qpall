@@ -687,3 +687,34 @@ UPDATE 22 (28 oktober 2026, audit voor livegang)
   DATASHEETS: tools/datasheets.py ruimt oude pdf's niet op. build.py laat nu datasheets weg van artikelen
   die niet meer op de site staan (anders wint het oude bestand van de 301). Verwijder ze bij gelegenheid ook
   uit data/datasheets (o.a. q-pall-qp4048mb6rr-cd-*.pdf).
+
+UPDATE 23 (29 oktober 2026, formulieren en bedankpagina's)
+  BUG TAAL NA VERSTUREN: na het offerteformulier werd de site Duits en kwamen de aanvragen met Duitse
+  koppen binnen. Oorzaak: de formulieren offerte, contact en sollicitatie stonden in alle zes talen met
+  data-netlify op de site; Netlify registreert per naam maar één formulier (hier het Duitse) en gaf na
+  versturen dat bedankadres terug en gebruikte die labels in de e-mails.
+  NU: alleen de Nederlandse pagina's hebben data-netlify (Netlify kent elk formulier dus één keer, met
+  Nederlandse labels). site.js verstuurt alle drie de formulieren in alle talen op de achtergrond
+  (fetch POST naar "/") en opent daarna de bedankpagina in de taal van de bezoeker (action van het
+  formulier). Lukt dat niet (of geen JavaScript), dan gaat het formulier gewoon naar Netlify.
+  Veld 'taal' zegt in welke taal de aanvraag is gedaan. Form detection in Netlify moet aan blijven.
+  Oude inzendingen in Netlify houden hun Duitse koppen; nieuwe komen binnen met de Nederlandse.
+  OFFERTE, PRODUCTEN: de losse velden product-N, aantal-N en stapels-N zijn weg. Eén veld 'producten'
+  met per regel artikelnummer, Nederlandse naam en aantal, bijv. "1. QP1208MB3RR – Kunststof pallet
+  ... – 450 pallets" (accessoires: "– 2 stuks"). Een gekozen artikel begint op één volle stapel (was
+  alleen een grijze placeholder, waardoor het aantal leeg binnenkwam en op de bedankpagina ontbrak).
+  Transport en frequentie gaan in het Nederlands mee (de bezoeker ziet ze in de eigen taal); de
+  vacaturenaam in 'sollicitatie' ook. Akkoordvinkje stuurt 'ja' in plaats van 'on'.
+  BEDANKPAGINA'S: /bedankt/ (contact) en /vacatures/bedankt/ (sollicitatie) gebruiken nu dezelfde opzet
+  als de offerte-bedankpagina (templates/thanks.html): donkere kop, "Wat gebeurt er nu?" in stappen,
+  contactkaart en vier kaarten. Sollicitatie: Sabine met oudshoorn@qpall.com als contactpersoon en
+  kaarten naar Over Q-Pall, Duurzaamheid, Ons team en Nieuws (front matter more.cards). Teksten in
+  content/<taal>/thanks.md en thanks-apply.md (next, contact, more). Bedankpagina offerte: "1 stuk"
+  in plaats van "1 stuks" (front matter sum.pcs_1).
+  LANDEN: het veld Land in het offerteformulier biedt nu alle landen (243, in zes talen) in plaats van
+  alleen de landen met een dealer. Lijst: data/countries.json, gemaakt met tools/countries.py (Babel
+  en iso-codes; alleen opnieuw draaien als de lijst moet veranderen). Typen van een ander land kan nog
+  steeds.
+  GETEST: alle drie de formulieren in alle zes talen (offerte, contact, sollicitatie met cv): juiste
+  bedankpagina in de eigen taal, velden en aantallen goed, dataLayer-events generate_lead en
+  job_application, en de terugval als het versturen op de achtergrond mislukt.

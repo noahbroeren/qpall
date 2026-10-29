@@ -482,7 +482,7 @@ page('job-inside-sales', {'nl': 'vacatures/commercieel-medewerker-binnendienst/'
                           'it': 'lavora-con-noi/addetto-commerciale-interno/', 'es': 'empleo/comercial-ventas-internas/'}, tpl='job', parent='careers', priority=0.5)
 # thank-you page after the application form (update 20)
 page('thanks-apply', {'nl': 'vacatures/bedankt/', 'en': 'careers/thank-you/', 'de': 'karriere/danke/', 'fr': 'carrieres/merci/',
-                      'it': 'lavora-con-noi/grazie/', 'es': 'empleo/gracias/'}, tpl='page', parent='careers', noindex=True)
+                      'it': 'lavora-con-noi/grazie/', 'es': 'empleo/gracias/'}, tpl='thanks', parent='careers', noindex=True)
 page('calc', {'nl': 'laadcalculator/', 'en': 'load-calculator/', 'de': 'ladungsrechner/', 'fr': 'calculateur-de-chargement/',
               'it': 'calcolatore-di-carico/', 'es': 'calculadora-de-carga/'}, tpl='calc', priority=0.6)
 page('transport', {'nl': 'transport-aanmelden/', 'en': 'register-a-transport/', 'de': 'transport-anmelden/', 'fr': 'enregistrer-un-transport/',
@@ -490,7 +490,7 @@ page('transport', {'nl': 'transport-aanmelden/', 'en': 'register-a-transport/', 
 page('contact', {'nl': 'contact/', 'en': 'get-in-touch/', 'de': 'kontakt/', 'fr': 'contact/', 'it': 'contatti/', 'es': 'contacto/'}, tpl='form', priority=0.6, form='contact')
 page('quote', {'nl': 'offerte-aanvraag/', 'en': 'request-for-quotation/', 'de': 'angebot-anfordern/', 'fr': 'demande-de-devis/', 'it': 'richiesta-di-preventivo/',
                'es': 'solicitar-presupuesto/'}, tpl='form', priority=0.6, form='quote')
-page('thanks', {'nl': 'bedankt/', 'en': 'thank-you/', 'de': 'danke/', 'fr': 'merci/', 'it': 'grazie/', 'es': 'gracias/'}, tpl='page', noindex=True)
+page('thanks', {'nl': 'bedankt/', 'en': 'thank-you/', 'de': 'danke/', 'fr': 'merci/', 'it': 'grazie/', 'es': 'gracias/'}, tpl='thanks', noindex=True)
 # thank-you page after the quote form (update 12): summary of the request, next steps, contact person
 page('thanks-quote', {'nl': 'offerte-aanvraag/bedankt/', 'en': 'request-for-quotation/thank-you/', 'de': 'angebot-anfordern/danke/',
                       'fr': 'demande-de-devis/merci/', 'it': 'richiesta-di-preventivo/grazie/', 'es': 'solicitar-presupuesto/gracias/'},

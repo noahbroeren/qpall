@@ -37,9 +37,28 @@
     }
     if (f && f.name === 'sollicitatie') sset('qp-lead', 'apply');
   }, true);
-  d.addEventListener('submit', function (e) {   // bubble phase: after the quote form has filled in the stacks per line
+  d.addEventListener('submit', function (e) {   // bubble phase: after the quote form has filled in its product list
     var f = e.target;
     if (f && (f.name === 'offerte' || f.name === 'contact') && !e.defaultPrevented) toHubSpot(f);
+  });
+  // Send the three forms to Netlify in the background, then open the thank-you page in the visitor's language (update 23).
+  // Netlify knows each form once, from the Dutch page (only that page carries data-netlify): its Dutch labels head the
+  // e-mails. A normal post would get the thank-you page of that Dutch form back, whatever the page language was.
+  d.addEventListener('submit', function (e) {
+    var f = e.target, nm = f && f.getAttribute && f.getAttribute('name');
+    if (e.defaultPrevented || ['offerte', 'contact', 'sollicitatie'].indexOf(nm) < 0 || !w.fetch || !w.FormData) return;
+    e.preventDefault();
+    var btn = f.querySelector('button[type=submit]');
+    if (btn) btn.disabled = true;
+    var fd = new FormData(f), multi = (f.getAttribute('enctype') || '').indexOf('multipart') === 0;
+    var opts = multi ? { method: 'POST', body: fd }
+      : { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body: new URLSearchParams(fd).toString() };
+    fetch('/', opts).then(function (r) {
+      if (!r.ok) throw new Error('form ' + r.status);
+      location.href = f.getAttribute('action');
+    }).catch(function () {
+      HTMLFormElement.prototype.submit.call(f);   // fallback: the normal post (thank-you page in Dutch)
+    });
   });
   // HubSpot (update 19): the quote and contact form also go to a HubSpot form via the Forms API (v3), next to Netlify.
   // Only when HUBSPOT_FORMS in site_config.py has a form GUID. Sent fields: firstname, lastname, email, company, phone,
@@ -55,11 +74,7 @@
     var fields = [['firstname', name.shift() || ''], ['lastname', name.join(' ')], ['email', get('email')], ['company', get('bedrijf')], ['phone', get('telefoon')]];
     if (f.name === 'offerte') {
       fields.push(['country', get('land')], ['zip', get('postcode')], ['city', get('plaats')]);
-      [].forEach.call(f.querySelectorAll('[name^="product-"]'), function (el) {
-        var i = el.name.slice(8), p = (el.value || '').trim(); if (!p) return;
-        var st = get('stapels-' + i);
-        lines.push(p + ': ' + (get('aantal-' + i) || '?') + (st ? ' (' + st + ')' : ''));
-      });
+      if (get('producten')) lines.push(get('producten'));
       [['Transport', 'transport'], ['Leverdatum', 'leverdatum'], ['Frequentie', 'frequentie']].forEach(function (k) { var v = get(k[1]); if (v) lines.push(k[0] + ': ' + v); });
     }
     var msg = get('bericht'); if (msg) lines.push((lines.length ? '\n' : '') + msg);
@@ -562,7 +577,8 @@
       var fix = function () {
         var s = stepOf(), v = parseInt(inp.value, 10) || 0;
         inp.step = s; inp.min = s; inp.placeholder = s;
-        if (v > 0 && v % s) inp.value = Math.ceil(v / s) * s;
+        if (!v && prodIn.value.trim()) inp.value = s;   // a chosen product starts at one full stack (was only a placeholder)
+        else if (v > 0 && v % s) inp.value = Math.ceil(v / s) * s;
         show();
       };
       $$('.qty-b', box).forEach(function (b) {
@@ -595,19 +611,25 @@
     trSync();
     // on sending: the stack count per line for sales, and a summary for the thank-you page (this browser tab only)
     qf.addEventListener('submit', function () {
-      var items = [];
-      lines.forEach(function (l, i) {
-        var p = $('input[list]', l), q = $('[data-qty] input', l), h = $('input[type=hidden][name^="stapels"]', l);
+      var items = [], out = [];
+      lines.forEach(function (l) {
+        var p = $('input[list]', l), q = $('[data-qty] input', l);
         if (!p || !p.value.trim()) return;
         var s = stackOf(p.value), v = parseInt(q.value, 10) || 0, o = OPT[p.value];
-        var st = s > 1 && v ? (v / s) + ' x ' + s : '';
-        if (h) h.value = st;
-        items.push({ p: p.value, q: v, st: s > 1 && v ? v / s : 0, per: s, url: o ? o.dataset.url || '' : '', img: o ? o.dataset.img || '' : '' });
+        var acc = !(o && !o.hasAttribute('data-acc'));
+        var unit = acc ? (v === 1 ? 'stuk' : 'stuks') : (v === 1 ? 'pallet' : 'pallets');   // sales reads Dutch, whatever the page language
+        out.push((out.length + 1) + '. ' + (o && o.dataset.nl ? o.dataset.nl : p.value.trim()) + (v ? ' – ' + v + ' ' + unit : ''));
+        items.push({ p: p.value, q: v, st: s > 1 && v ? v / s : 0, per: s, acc: acc, url: o ? o.dataset.url || '' : '', img: o ? o.dataset.img || '' : '' });
       });
-      var val = function (n) { var e = qf.elements[n]; if (!e) return ''; if (e.length && !e.tagName) { var c = [].filter.call(e, function (x) { return x.checked; })[0]; return c ? c.value : ''; } return e.value || ''; };
+      if (qf.elements.producten) qf.elements.producten.value = out.join('\n');
+      var val = function (n) { var e = qf.elements[n]; return e && e.value || ''; };
+      var lab = function (n) {   // a chosen option as the visitor read it (the sent value is Dutch, for sales)
+        var c = qf.querySelector('input[name="' + n + '"]:checked'), sp = c && c.nextElementSibling;
+        return c ? (sp ? sp.textContent.trim() : c.value) : '';
+      };
       try {
         sessionStorage.setItem('qp-quote', JSON.stringify({ items: items, name: val('naam'), company: val('bedrijf'), email: val('email'), country: val('land'),
-          zip: trMode() === 'self' ? '' : [val('postcode'), val('plaats')].filter(Boolean).join(' '), date: val('leverdatum'), freq: val('frequentie'), transport: val('transport'), mode: trMode(), ts: Date.now() }));
+          zip: trMode() === 'self' ? '' : [val('postcode'), val('plaats')].filter(Boolean).join(' '), date: val('leverdatum'), freq: lab('frequentie'), transport: lab('transport'), mode: trMode(), ts: Date.now() }));
       } catch (e) {}
     });
   }
@@ -628,7 +650,8 @@
       (q.items || []).forEach(function (it) {
         var parts = it.p.split(' – '), sku = parts[0], name = parts.slice(1).join(' – ') || '';
         var stacks = it.st ? (it.st === 1 ? D.lStack1 : D.lStackn).replace('{n}', nf(it.st)).replace('{per}', nf(it.per)) : '';
-        var qty = it.q ? nf(it.q) + ' ' + (it.per > 1 ? D.lPallets : D.lPcs) : '';
+        var pcs = it.acc != null ? it.acc : it.per <= 1;
+        var qty = it.q ? nf(it.q) + ' ' + (pcs ? (it.q === 1 ? D.lPcs1 || D.lPcs : D.lPcs) : D.lPallets) : '';
         var title = it.url ? '<a href="' + esc(it.url) + '">' + esc(name || sku) + '</a>' : esc(name || sku);
         ul.insertAdjacentHTML('beforeend', '<li>' + (it.img ? '<img src="' + esc(it.img) + '" alt="" width="96" height="64" loading="lazy" decoding="async">' : '<span class="ty-noimg"></span>') +
           '<span class="ty-it"><b>' + title + '</b><small>' + esc(name ? sku : '') + '</small></span><span class="ty-qty"><b>' + esc(qty) + '</b><small>' + esc(stacks) + '</small></span></li>');

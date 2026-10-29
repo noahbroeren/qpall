@@ -1260,6 +1260,9 @@ def fmt_date(d, lang):
 
 
 # ---- careers + vacancy pages (update 20) ----
+# every country in the six languages for the quote form (data/countries.json, made by tools/countries.py; update 23)
+_cpath = os.path.join(ROOT, 'data', 'countries.json')
+COUNTRIES_ALL = json.load(open(_cpath, encoding='utf-8')) if os.path.exists(_cpath) else None
 CAREERS_CONTACT = 'sabine-oudshoorn'          # contact person for applications (TEAM key)
 CAREERS_EMAIL = 'oudshoorn@qpall.com'
 JOB_HERO = 'office-sales'                     # vacancy page: hero photo (Noah's office photo) + photo strip below the tasks
@@ -1292,11 +1295,11 @@ def careers_ctx(pid, lang, fm):
         d['jobs'] = job_pages(lang)
         d['hero_photo'] = CAREERS_HERO
         d['gallery'] = [{'src': n, 'alt': t['apply']['gallery_alt'][i]} for n, i in CAREERS_GALLERY]
-        d['job_value'] = t['apply']['open_job']
+        d['job_value'] = T['nl']['apply']['open_job']   # HR reads Dutch, whatever the page language (update 23)
     else:
         d['photos'] = [{'src': n, 'alt': t['apply'][k][i]} for n, k, i in JOB_PHOTOS]
         d['hero_photo'] = JOB_HERO
-        d['job_value'] = fm['job']['title']
+        d['job_value'] = CONTENT['nl'].get(pid, {}).get('fm', {}).get('job', {}).get('title') or fm['job']['title']
     return d
 
 
@@ -1439,16 +1442,20 @@ def render_page(pid, lang):
                 seen.add(v['sku'])
                 st = STACKS.get(v['sku'])
                 a = sku2m.get(v['sku'], m)
-                opts.append({'v': f"{v['sku']} – {m['name'][lang]}", 'acc': False, 'stack': st['stack'] if st else 1,
+                opts.append({'v': f"{v['sku']} – {m['name'][lang]}", 'nl': f"{v['sku']} – {m['name']['nl']}", 'acc': False, 'stack': st['stack'] if st else 1,
                              'url': a['url'][lang], 'img': a['img_sm']})
         um = MODEL_BY_ID[ULTRA_MODELS[0]]     # Ultra pallet as one line (QP1210H), so ?sku=QP1210H from the Ultra page is recognised
         opts.append({'v': f"{ULTRA_SKU} – Ultra pallet", 'acc': False, 'stack': (STACKS.get(um['variants'][0]['sku']) or {}).get('stack', 1),
                      'url': url('ultra', lang), 'img': um['img_sm']})
-        opts += [{'v': f"{a['sku']} – {acc_item(a, lang)['name']}", 'acc': True, 'stack': 1, 'url': acc_item(a, lang).get('url', ''), 'img': ''}
+        opts += [{'v': f"{a['sku']} – {acc_item(a, lang)['name']}", 'nl': f"{a['sku']} – {acc_item(a, 'nl')['name']}", 'acc': True, 'stack': 1, 'url': acc_item(a, lang).get('url', ''), 'img': ''}
                  for a in ACCS]   # accessories: per piece
         extra['product_opts'] = opts
         extra['stack'] = 1
-        extra['countries'] = sorted({COUNTRY[c][lang] for c in COUNTRY})
+        extra['t_nl'] = T['nl']   # radio values in Dutch for sales; the visitor sees the own language (update 23)
+        extra['countries'] = list(COUNTRIES_ALL[lang].values()) if COUNTRIES_ALL else sorted({COUNTRY[c][lang] for c in COUNTRY})
+    if tpl == 'thanks' and pid == 'thanks-apply':     # application: Sabine instead of the sales team (update 23)
+        extra['ty_people'] = [p for p in team_ctx(lang) if p['key'] == CAREERS_CONTACT]
+        extra['ty_email'] = CAREERS_EMAIL
     if tpl in ('careers', 'job'):
         extra.update(careers_ctx(pid, lang, fm))
         if tpl == 'job' and fm.get('job') and not fm['job'].get('closed'):

@@ -18,6 +18,7 @@ sum:
   stack_1: 1 Stapel zu {per}
   stack_n: '{n} Stapel zu {per}'
   pcs: Stück
+  pcs_1: Stück
   change: Stimmt etwas nicht oder möchten Sie etwas ergänzen? Schreiben Sie uns an
   mail_subject: Ergänzung zu meiner Angebotsanfrage
 next:

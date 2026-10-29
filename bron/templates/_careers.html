@@ -20,7 +20,7 @@
 {%- endmacro %}
 
 {% macro apply_form(ui, t, urls, action, job_value, cv_max, lang, show_job=True) -%}
-<form class="form-card cr-form" name="sollicitatie" method="POST" action="{{ action }}" enctype="multipart/form-data" data-netlify="true" netlify-honeypot="bot-field" data-apply data-cv-max="{{ cv_max }}" data-cv-big="{{ ui.cv_big }}" data-sending="{{ ui.sending }}">
+<form class="form-card cr-form" name="sollicitatie" method="POST" action="{{ action }}" enctype="multipart/form-data"{% if lang == 'nl' %} data-netlify="true" netlify-honeypot="bot-field"{% endif %} data-apply data-cv-max="{{ cv_max }}" data-cv-big="{{ ui.cv_big }}" data-sending="{{ ui.sending }}">
   <input type="hidden" name="form-name" value="sollicitatie">
   <input type="hidden" name="taal" value="{{ lang }}">
   <input type="hidden" name="vacature" value="{{ job_value }}">
@@ -39,7 +39,7 @@
       <small class="cr-file-hint">{{ M.icon('doc') }}{{ ui.cv_hint }}</small>
     </div>
     <div class="field full"><label for="a-msg">{{ ui.motivation }} <small>({{ ui.optional }})</small></label><textarea id="a-msg" name="motivatie" rows="4" placeholder="{{ ui.motivation_ph }}"></textarea></div>
-    <label class="check full"><input type="checkbox" name="akkoord" required><span>{{ t.form_consent }} <a href="{{ urls.privacy }}">{{ t.legal_privacy if lang == 'de' else t.legal_privacy|lower }}</a>.</span></label>
+    <label class="check full"><input type="checkbox" name="akkoord" value="ja" required><span>{{ t.form_consent }} <a href="{{ urls.privacy }}">{{ t.legal_privacy if lang == 'de' else t.legal_privacy|lower }}</a>.</span></label>
     <div class="full"><button class="btn btn-primary" type="submit">{{ ui.send }}{{ M.icon('arrow') }}</button></div>
   </div>
 </form>

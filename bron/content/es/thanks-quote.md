@@ -18,6 +18,7 @@ sum:
   stack_1: 1 pila de {per}
   stack_n: '{n} pilas de {per}'
   pcs: unidades
+  pcs_1: unidad
   change: ¿Algo no es correcto o quiere añadir algo? Escríbanos a
   mail_subject: Ampliación de mi solicitud de presupuesto
 next:

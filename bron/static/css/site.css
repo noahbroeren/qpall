@@ -2034,6 +2034,7 @@ picture>source{display:none}   /* with display:contents the <source> would other
 .ty-person .btn-outline:hover{border-color:#fff}
 .ty-person .btn{justify-content:center;width:100%}
 .ty-hours{margin:0;font-size:.8rem;color:rgba(255,255,255,.6);text-align:center}
+.ty-more h2 strong{white-space:nowrap}   /* "Q-Pall" never breaks at its hyphen (update 23) */
 .ty-cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px;list-style:none;margin:0;padding:0}
 .ty-link{display:flex;flex-direction:column;gap:6px;height:100%;padding:22px;border:1px solid var(--line);border-radius:var(--r-q);background:#fff;color:var(--text);text-decoration:none;transition:border-color .2s,box-shadow .2s}
 .ty-link:hover{border-color:var(--orange);box-shadow:0 18px 40px -28px rgba(29,28,76,.45)}

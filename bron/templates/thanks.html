@@ -1,14 +1,15 @@
 {% extends 'base.html' %}
 {% import '_macros.html' as M with context %}
-{# Thank-you page after the quote form (update 12). The summary is filled by site.js from what this browser tab sent
-   (sessionStorage 'qp-quote'); without it the page shows the general text only. #}
+{# Thank-you pages (update 12; contact and application since update 23). The quote summary (front matter 'sum') is filled
+   by site.js from what this browser tab sent (sessionStorage 'qp-quote'); without it the page shows the general text only.
+   'more.cards' (optional) replaces the four default cards; ty_people / ty_email (build.py) replace the sales team. #}
 {% set F = page.fm %}
 {% block main %}
 <header class="phero phero-dark ty-hero">
   {{ M.qbg('oranje', 'phero-q', '(min-width:1101px) 900px, (min-width:721px) 760px, 560px', eager=True) }}
   <div class="wrap phero-in ty-hero-in">
     <p class="eyebrow eyebrow-light">{{ page.eyebrow }}</p>
-    <h1 data-ty-h1 data-named="{{ F.h1_named }}">{{ page.h1|bold }}</h1>
+    <h1{% if F.h1_named %} data-ty-h1 data-named="{{ F.h1_named }}"{% endif %}>{{ page.h1|bold }}</h1>
     <p class="lead">{{ page.lead_html }}</p>
   </div>
 </header>
@@ -16,8 +17,8 @@
 <section class="section ty-sec">
   <div class="wrap ty-grid">
     <div class="ty-main">
-      <div class="ty-card ty-sum" data-ty-sum hidden
-           data-l-pallets="{{ t.stack_unit }}" data-l-stack1="{{ F.sum.stack_1 }}" data-l-stackn="{{ F.sum.stack_n }}" data-l-pcs="{{ F.sum.pcs }}">
+      {% if F.sum %}<div class="ty-card ty-sum" data-ty-sum hidden
+           data-l-pallets="{{ t.stack_unit }}" data-l-stack1="{{ F.sum.stack_1 }}" data-l-stackn="{{ F.sum.stack_n }}" data-l-pcs="{{ F.sum.pcs }}" data-l-pcs1="{{ F.sum.pcs_1 or F.sum.pcs }}">
         <h2 class="ty-h">{{ M.icon('task') }}{{ F.sum.h }}</h2>
         <ul class="ty-items" data-ty-items></ul>
         <dl class="ty-facts" data-ty-facts>
@@ -30,7 +31,7 @@
           <div data-k="email"><dt>{{ F.sum.email }}</dt><dd></dd></div>
         </dl>
         <p class="ty-change">{{ M.icon('info') }}<span>{{ F.sum.change }} <a href="mailto:{{ company.email }}?subject={{ F.sum.mail_subject|urlencode }}">{{ company.email }}</a></span></p>
-      </div>
+      </div>{% endif %}
 
       <div class="ty-card ty-next">
         <h2 class="ty-h">{{ M.icon('clock') }}{{ F.next.h }}</h2>
@@ -43,7 +44,7 @@
     <aside class="ty-side">
       <div class="ty-card ty-person">
         <p class="ty-person-h">{{ F.contact.h }}</p>
-        <ul class="ty-people">{% for p in team %}
+        <ul class="ty-people">{% for p in (ty_people or team) %}
           <li class="ty-person-in">
             <span class="cp-photo"><img src="{{ p.photo }}" alt="" width="64" height="64" loading="lazy" decoding="async"></span>
             <p class="cp-txt"><b>{{ p.name }}</b> <span>{{ p.role }}</span></p>
@@ -51,7 +52,7 @@
         </ul>
         <p class="ty-person-t">{{ F.contact.t }}</p>
         <a class="btn btn-primary btn-block" href="tel:{{ company.phone_href }}">{{ M.icon('phone') }}{{ company.phone }}</a>
-        <a class="btn btn-outline btn-block" href="mailto:{{ company.email }}">{{ M.icon('mail') }}{{ company.email }}</a>
+        {% set ty_mail = ty_email or company.email %}<a class="btn btn-outline btn-block" href="mailto:{{ ty_mail }}">{{ M.icon('mail') }}{{ ty_mail }}</a>
         <p class="ty-hours">{{ t.hours_1 }} · {{ t.hours_2 }}</p>
       </div>
     </aside>
@@ -62,10 +63,14 @@
   <div class="wrap">
     {{ M.sec_head(None, F.more.h, None, 'ty-more-h') }}
     <ul class="ty-cards">
+      {% if F.more.cards %}{% for c in F.more.cards %}
+      <li><a class="ty-link" href="{{ urls[c.id] }}"><b>{{ c.t }}</b><span>{{ c.d }}</span><em>{{ t.read_more }}{{ M.icon('arrow') }}</em></a></li>{% endfor %}
+      {% else %}
       <li><a class="ty-link" href="{{ urls.calc }}"><b>{{ F.more.calc_t }}</b><span>{{ F.more.calc_d }}</span><em>{{ t.read_more }}{{ M.icon('arrow') }}</em></a></li>
       <li><a class="ty-link" href="/{{ catalog.url.lstrip('/') }}" download><b>{{ F.more.cat_t }}</b><span>{{ F.more.cat_d }} {{ catalog.meta }}</span><em>{{ t.mm_catalog }}{{ M.icon('download') }}</em></a></li>
       <li><a class="ty-link" href="{{ urls.knowledge }}"><b>{{ F.more.kb_t }}</b><span>{{ F.more.kb_d }}</span><em>{{ t.read_more }}{{ M.icon('arrow') }}</em></a></li>
       <li><a class="ty-link" href="{{ urls.transport }}"><b>{{ F.more.tr_t }}</b><span>{{ F.more.tr_d }}</span><em>{{ t.read_more }}{{ M.icon('arrow') }}</em></a></li>
+      {% endif %}
     </ul>
   </div>
 </section>

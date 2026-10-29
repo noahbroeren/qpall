@@ -18,6 +18,7 @@ sum:
   stack_1: 1 stapel van {per}
   stack_n: '{n} stapels van {per}'
   pcs: stuks
+  pcs_1: stuk
   change: Klopt er iets niet of wilt u iets toevoegen? Mail ons via
   mail_subject: Aanvulling op mijn offerteaanvraag
 next:

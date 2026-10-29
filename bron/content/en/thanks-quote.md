@@ -18,6 +18,7 @@ sum:
   stack_1: 1 stack of {per}
   stack_n: '{n} stacks of {per}'
   pcs: pcs
+  pcs_1: pc
   change: Anything wrong or something to add? Email us at
   mail_subject: Addition to my quote request
 next:
