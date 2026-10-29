@@ -271,5 +271,9 @@
 <script type="application/json" id="i18n">{{ js_i18n|tojson }}</script>
 <script src="/assets/js/site.js?v={{ v }}" defer></script>
 {% if calc %}<script src="/assets/js/calc.js?v={{ calc.v }}" defer></script>
+{% endif %}{% if hubspot.id %}
+<!-- Start of HubSpot Embed Code (actief op {{ hubspot.hosts }}, na toestemming voor marketingcookies: site.js zet hem aan) -->
+<script type="text/plain" id="hs-script-loader" data-hs-hosts="{{ hubspot.hosts }}" async defer src="https://js-{{ hubspot.region }}.hs-scripts.com/{{ hubspot.id }}.js"></script>
+<!-- End of HubSpot Embed Code -->
 {% endif %}</body>
 </html>

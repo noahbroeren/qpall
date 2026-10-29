@@ -689,18 +689,21 @@
     });
     d.dispatchEvent(new CustomEvent('qp:external'));
   };
-  // HubSpot tracking code (HUBSPOT_ID, production only, after consent for marketing). The GTM container may load the same
-  // code (its HubSpot tag); then this one is skipped.
+  // HubSpot tracking code (update 24): the embed code stands on every page before </body> as type="text/plain" (#hs-script-loader).
+  // After consent for marketing it is switched on, on the hosts in its data-hs-hosts (site_config HUBSPOT_HOSTS: qpall.com and
+  // the test sites). On production the GTM container may load the same code (its HubSpot tag); then this one is skipped.
   var loadHubSpot = function () {
-    var id = html.getAttribute('data-hs');
-    if (!PROD || !id || w.__qpHs) return;
+    var ph = d.getElementById('hs-script-loader');
+    if (w.__qpHs || !ph || ph.type !== 'text/plain') return;
+    if ((ph.getAttribute('data-hs-hosts') || '').split(' ').indexOf(location.hostname) < 0) return;
     w.__qpHs = true;
-    setTimeout(function () {
-      if (d.getElementById('hs-script-loader') || d.querySelector('script[src*="hs-scripts.com/' + id + '"]')) return;
-      var sc = d.createElement('script'); sc.id = 'hs-script-loader'; sc.async = true; sc.defer = true;
-      sc.src = 'https://js-' + (html.getAttribute('data-hs-region') || 'eu1') + '.hs-scripts.com/' + encodeURIComponent(id) + '.js';
-      d.body.appendChild(sc);
-    }, 2500);
+    var on = function () {
+      var other = [].some.call(d.querySelectorAll('script[src*="hs-scripts.com/"]'), function (s) { return s !== ph && s.type !== 'text/plain'; });
+      if (other || !ph.parentNode) return;
+      var sc = d.createElement('script'); sc.async = true; sc.defer = true; sc.src = ph.src;
+      ph.parentNode.replaceChild(sc, ph); sc.id = 'hs-script-loader';
+    };
+    if (PROD && html.getAttribute('data-gtm')) setTimeout(on, 2500); else on();   // production: GTM first
   };
   var applyConsent = function () {
     if (consent && consent.external) loadExternal();

@@ -24,8 +24,11 @@ GTM_ID = 'GTM-MNRQ33'            # container van iClicks (update 19); bevat o.a.
 # voor qpall.com ingericht (Cookiebot controleert het domein). Op productie vraagt Cookiebot (uit de container) om
 # toestemming en verbergt de site de eigen cookiemelding; komt Cookiebot niet binnen 5 s, dan toont de site toch de eigen melding.
 PROD_HOSTS = ['qpall.com', 'www.qpall.com']
-# HubSpot (portal 25981072, EU): trackingcode op alle pagina's van de productiesite, na toestemming voor marketing.
-# De GTM-container laadt dezelfde HubSpot-code al (tag 122): site.js laadt hem alleen zelf als hij er na de toestemming nog niet is.
+# HubSpot (portal 25981072, EU): de trackingcode (embed code van HubSpot) staat op elke pagina net voor </body>, eerst als
+# type="text/plain". site.js zet hem aan na toestemming voor marketing, op de hostnamen in HUBSPOT_HOSTS (update 24: ook
+# de testsites, zodat bezoeken en formulieren daar te testen zijn). Op productie laadt de GTM-container dezelfde code al
+# (tag 122): site.js laadt hem dan alleen zelf als hij er na de toestemming nog niet is.
+HUBSPOT_HOSTS = PROD_HOSTS + ['qpall.netlify.app', 'staging.qpall.com']
 HUBSPOT_ID = '25981072'
 HUBSPOT_REGION = 'eu1'
 # Offerte- en contactformulier ook naar HubSpot (Forms API v3, naast Netlify). Vul de form-GUID's in van twee formulieren in

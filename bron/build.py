@@ -11,7 +11,7 @@ from urllib.parse import quote_plus
 from jinja2 import Environment, FileSystemLoader, select_autoescape, pass_context
 from markupsafe import Markup, escape
 
-from site_config import (NOINDEX_ALL, GTM_ID, PROD_HOSTS, HUBSPOT_ID, HUBSPOT_REGION, HUBSPOT_FORMS, SKU_COLOUR, SB_CROP, ARTICLE_RECOMMEND, LANG_REGION, KB_ITEMS, KB_CATS, DOMAIN, LANGS, X_DEFAULT, PAGES, SIZES, SIZE_BY_KEY, TYPES, TYPE_BY_KEY, CLASSES, SECTORS, COMPANY,
+from site_config import (NOINDEX_ALL, GTM_ID, PROD_HOSTS, HUBSPOT_HOSTS, HUBSPOT_ID, HUBSPOT_REGION, HUBSPOT_FORMS, SKU_COLOUR, SB_CROP, ARTICLE_RECOMMEND, LANG_REGION, KB_ITEMS, KB_CATS, DOMAIN, LANGS, X_DEFAULT, PAGES, SIZES, SIZE_BY_KEY, TYPES, TYPE_BY_KEY, CLASSES, SECTORS, COMPANY,
                          LOCATIONS, FACTORIES, COUNTRY, REDIRECTS, CATALOG_FILES, catalog_size, PRICE_VALID_UNTIL, BUILD_DATE,
                          LOCALE, HTML_LANG, LANG_NAME, TRANSPORT_SITES, OG_PAGES, GUIDES, PREFIX, NEWS_ITEMS, TEAM, TEAM_BY, TEAM_BY_NAME, AUTHORS, KB_SIDE_EXTRA, LAUNCH_DATE)
 from i18n import T, MISSING
@@ -468,7 +468,8 @@ env = Environment(loader=FileSystemLoader(os.path.join(ROOT, 'templates')), auto
 env.globals['site_noindex'] = NOINDEX_ALL
 env.globals['gtm_id'] = GTM_ID
 env.globals['prod_hosts'] = ' '.join(PROD_HOSTS)
-env.globals['hubspot'] = {'id': HUBSPOT_ID, 'region': HUBSPOT_REGION, 'forms': {k: v for k, v in HUBSPOT_FORMS.items() if v}}
+env.globals['hubspot'] = {'id': HUBSPOT_ID, 'region': HUBSPOT_REGION, 'hosts': ' '.join(HUBSPOT_HOSTS),
+                         'forms': {k: v for k, v in HUBSPOT_FORMS.items() if v}}
 env.filters['bold'] = bold_filter
 # soft hyphens at the compound boundary for the few long words that sit in narrow boxes on a phone
 SHY = {k: v.replace('|', '\u00ad') for k, v in {

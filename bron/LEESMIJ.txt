@@ -718,3 +718,16 @@ UPDATE 23 (29 oktober 2026, formulieren en bedankpagina's)
   GETEST: alle drie de formulieren in alle zes talen (offerte, contact, sollicitatie met cv): juiste
   bedankpagina in de eigen taal, velden en aantallen goed, dataLayer-events generate_lead en
   job_application, en de terugval als het versturen op de achtergrond mislukt.
+
+UPDATE 24 (29 oktober 2026, HubSpot-trackingcode)
+  De HubSpot-trackingcode (embed code, portal 25981072, js-eu1.hs-scripts.com) staat nu op elke pagina net voor
+  </body>, zoals HubSpot het vraagt. Hij staat er als type="text/plain" en wordt pas actief na toestemming voor
+  marketingcookies (Cookiebot op productie, de eigen cookiemelding op de testsites: "Alles accepteren"). Daarvoor
+  plaatst HubSpot geen cookies (AVG).
+  Actief op de hostnamen in HUBSPOT_HOSTS (site_config.py): qpall.com, www.qpall.com en, om te testen,
+  qpall.netlify.app en staging.qpall.com. Voorheen alleen op qpall.com, dus op de testsites kwam niets in HubSpot.
+  Op productie laadt de GTM-container (tag 122) dezelfde code mogelijk al; dan laadt de site hem niet nog een keer.
+  TESTEN: open de testsite in een privévenster, klik "Alles accepteren", en controleer in de ontwikkelaarstools
+  (Netwerk) dat 25981072.js laadt. Bezoeken komen in HubSpot onder het domein van de testsite.
+  Let op: wie geen toestemming geeft, wordt niet gevolgd, en formulieren gaan dan ook niet via de trackingcode naar
+  HubSpot. Elke inzending in HubSpot kan alleen via HUBSPOT_FORMS (formulier-ID's, Forms API), zie update 19.
