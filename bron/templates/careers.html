@@ -1,0 +1,64 @@
+{% extends 'base.html' %}
+{% import '_macros.html' as M with context %}
+{% import '_careers.html' as CR with context %}
+{% set K = page.fm %}
+{% block main %}
+<header class="phero cr-hero">
+  <div class="wrap cr-hero-in">
+    <div class="cr-hero-txt">
+      {{ M.crumbs(crumbs) }}
+      <p class="eyebrow">{{ page.eyebrow }}</p>
+      <h1>{{ page.h1|bold }}</h1>
+      <p class="lead">{{ page.lead_html }}</p>
+      <div class="phero-actions">
+        <a class="btn btn-primary" href="#vacatures">{{ K.hero.cta }}{{ M.icon('arrow') }}</a>
+        <a class="btn btn-outline" href="#solliciteren">{{ K.hero.cta2 }}</a>
+      </div>
+    </div>
+    <figure class="cr-hero-fig">
+      {{ CR.photo(hero_photo, ui.hero_alt, '(min-width:1000px) 560px, 92vw', 'cr-hero-img', eager=True) }}
+    </figure>
+  </div>
+</header>
+
+
+<section class="section" id="vacatures" aria-labelledby="jobs-h">
+  <div class="wrap">
+    {{ M.sec_head(K.jobs.eyebrow, K.jobs.title, None, 'jobs-h') }}
+    <ul class="cr-jobs">{% for j in jobs %}
+      <li><a class="cr-job" href="{{ j.url }}">
+        <span class="cr-job-main"><b class="cr-job-t">{{ j.title }}</b><span class="cr-job-l">{{ j.lead }}</span>
+          <span class="cr-job-facts">{% for f in j.facts %}<span>{{ M.icon(f.icon) }}{{ f.text }}</span>{% endfor %}</span></span>
+        <span class="btn btn-primary btn-sm cr-job-go">{{ K.jobs.more }}{{ M.icon('arrow') }}</span>
+      </a></li>{% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section bg-soft" aria-labelledby="why-h">
+  <div class="wrap">
+    {{ M.sec_head(K.why.eyebrow, K.why.title, None, 'why-h') }}
+    <ul class="cr-cards cr-cards-4">{% for i in K.why['items'] %}<li><span class="why-ico">{{ M.icon(i.icon) }}</span><b>{{ i.title }}</b><span>{{ i.text }}</span></li>{% endfor %}</ul>
+  </div>
+</section>
+
+<section class="section" aria-labelledby="gal-h">
+  <div class="wrap">
+    {{ M.sec_head(K.gallery.eyebrow, K.gallery.title, K.gallery.caption, 'gal-h') }}
+    <div class="cr-mosaic">{% for p in gallery %}{{ CR.photo(p.src, p.alt, '(min-width:1000px) 640px, 92vw' if loop.first else '(min-width:1000px) 320px, 46vw') }}{% endfor %}</div>
+  </div>
+</section>
+
+<section class="section bg-soft cr-apply" id="solliciteren" aria-labelledby="apply-h">
+  <div class="wrap cr-apply-in">
+    <div>
+      <h2 id="apply-h">{{ K.open.title|bold }}</h2>
+      <p class="lead">{{ K.open.lead }}</p>
+      {{ CR.apply_form(ui, t, urls, apply_url, job_value, cv_max, lang, show_job=False) }}
+    </div>
+    <aside class="cr-apply-side" id="contactpersoon">
+      {{ CR.contact_card(contact, ui, K.contact_text, company) }}
+    </aside>
+  </div>
+</section>
+{% endblock %}

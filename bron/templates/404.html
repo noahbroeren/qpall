@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% import '_macros.html' as M with context %}
+{% block main %}
+<header class="phero phero-dark phero-404">
+  {{ M.qbg(qcolor|default('oranje'), 'phero-q', '(min-width:1101px) 900px, (min-width:721px) 760px, 560px', eager=True) }}
+  <div class="wrap phero-in">
+    <p class="eyebrow eyebrow-light">404</p>
+    <h1>{{ t.notfound_title }}</h1>
+    <p class="lead">{{ t.notfound_text }}</p>
+    <div class="phero-actions">
+      <a class="btn btn-primary" href="{{ urls.pallets }}">{{ t.nav_pallets }}{{ M.icon('arrow') }}</a>
+      <a class="btn btn-ghost-light" href="{{ urls.home }}">{{ t.breadcrumb_home }}</a>
+      <a class="btn btn-ghost-light" href="{{ urls.contact }}">{{ t.nav_contact }}</a>
+      <button class="btn btn-ghost-light" type="button" data-open-search>{{ M.icon('search') }}{{ t.search }}</button>
+    </div>
+  </div>
+</header>
+<section class="section-sm"><div class="wrap"><ul class="tile-grid tg-3">{% for s in nav.sizes %}<li><a class="ptile" href="{{ s.url }}"><span class="ptile-img"><img src="{{ s.img }}" alt="{{ s.alt }}" width="320" height="213" loading="lazy"></span><span class="ptile-txt"><b>{{ s.label }}</b> <small>{{ s.nick }}</small></span>{{ M.icon('arrow') }}</a></li>{% endfor %}</ul></div></section>
+{% endblock %}

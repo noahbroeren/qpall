@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{% import '_macros.html' as M with context %}
+{% block main %}
+{% call M.phero(page, crumbs) %}
+  <ol class="tr-steps">{% for s in t.tr_steps %}<li><span>{{ loop.index }}</span>{{ s }}</li>{% endfor %}</ol>
+{% endcall %}
+<section class="section-sm transport" data-sb="{{ sb_url }}" data-sb-crop="{{ sb_crop }}" data-pagefind-ignore>
+  <div class="wrap tr-stack">
+    <div class="tr-top">
+      <div class="tr-top-head"><h2 class="tr-h">{{ t.tr_choose }}</h2><p class="muted small">{{ t.tr_choose_lead }}</p></div>
+      <div class="tr-sites" role="tablist" aria-label="{{ t.tr_choose }}">
+        {% for s in sites %}<button type="button" role="tab" class="tr-site" id="trs-{{ s.id }}" data-site="{{ s.id }}" data-loc="{{ s.loc }}" data-cat="{{ s.cat }}" data-direct="{{ s.direct }}" aria-selected="{{ 'true' if loop.first else 'false' }}" aria-controls="tr-panel"{% if not loop.first %} tabindex="-1"{% endif %}>
+          {{ M.flag(('uk' if s.cc == 'UK' else s.cc|lower)) }}<span><b>{{ s.name|replace('Q-Pall ', '') }}</b> <small>{{ s.country }}</small></span>{% if s.hol %}<i class="tr-dot" title="{{ s.hol.name }}"></i>{% endif %}
+        </button>{% endfor %}
+      </div>
+      {% if sites|selectattr('hol')|list %}<p class="tr-legend"><i class="tr-dot" aria-hidden="true"></i>{{ t.tr_legend }}</p>{% endif %}
+    </div>
+    <div class="tr-main" id="tr-panel" role="tabpanel">
+      {% for s in sites %}
+      <div class="tr-info" data-site-info="{{ s.id }}"{% if not loop.first %} hidden{% endif %}>
+        <div class="tr-info-head"><p class="eyebrow">{{ t.tr_booking_for }}</p><h2>{{ s.name }}</h2></div>
+        <div class="tr-facts">
+          <div class="tr-fact">
+            <p class="tr-fact-h">{{ M.icon('pin') }}{{ t.tr_address }}</p>
+            <address>{{ s.addr[0] }}<br>{{ s.addr[1] }}<br>{{ s.addr[2] }}<br>{{ s.country }}</address>
+            <a class="link-arrow tr-route" href="{{ s.route }}" target="_blank" rel="noopener">{{ t.tr_route }}{{ M.icon('external') }}</a>
+          </div>
+          <div class="tr-fact">
+            <p class="tr-fact-h">{{ M.icon('clock') }}{{ t.tr_hours }}</p>
+            <dl class="tr-hours">{% for h in s.hours_rows %}<div><dt>{{ h.days }}</dt><dd>{{ h.times }}</dd></div>{% endfor %}</dl>
+            <p class="tr-fact-note">{{ t.tr_hours_note }}</p>
+          </div>
+          <div class="tr-fact">
+            <p class="tr-fact-h">{{ M.icon('calendar') }}{{ t.tr_holidays_h }}</p>
+            {% if s.hol %}<p class="tr-hol"><b>{{ s.hol.name }}</b><span>{{ s.hol.period }}</span><span class="tr-note-status">{{ s.hol.status }}</span></p>{% else %}<p class="tr-hol tr-hol-ok">{{ M.icon('checkc') }}{{ t.tr_none }}</p>{% endif %}
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+      <div class="sb-wrap" id="sb-wrap">
+        <div class="ext-ph sb-consent"><p>{{ t.tr_consent }}</p><button class="btn btn-primary btn-sm" type="button" data-sb-load>{{ M.icon('calendar') }}{{ t.tr_consent_btn }}</button></div>
+        <div class="sb-frame" id="sb-frame"></div>
+      </div>
+      <p class="small"><a class="link-arrow" href="{{ sites[0].direct }}" target="_blank" rel="noopener" data-sb-direct>{{ t.tr_open_new }}{{ M.icon('external') }}</a></p>
+    </div>
+  </div>
+</section>
+{{ M.calc_section(t, calc, urls.quote, t.anchor.calc, t.calc_eyebrow_tr, t.calc_title_tr, t.calc_lead_tr) }}
+{% if body %}<section class="section bg-soft"><div class="wrap layout"><div class="prose">{{ body }}</div><aside class="aside"><div class="aside-card aside-contact"><h2>{{ t.contact_title }}</h2><ul class="contact-list"><li>{{ M.icon('phone') }}<a href="tel:{{ company.phone_href }}">{{ company.phone }}</a></li><li>{{ M.icon('mail') }}<a href="mailto:{{ company.email }}">{{ company.email }}</a></li><li>{{ M.icon('clock') }}<span>{{ t.hours_1 }}<br>{{ t.hours_2 }}</span></li></ul></div></aside></div></section>{% endif %}
+{% if page.faq %}{{ M.faq_section(page.faq, lang, t, soft=False) }}{% endif %}
+{% endblock %}

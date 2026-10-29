@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% import '_macros.html' as M with context %}
+{% block main %}
+{% call M.phero(page, crumbs) %}{% endcall %}
+<section class="section">
+  <div class="wrap">
+    <div class="kb-filter" role="group" aria-label="{{ t.filters }}" data-kb-filter>
+      <button class="chip is-on" type="button" data-cat="all" aria-pressed="true">{{ t.kb_cat.all }}</button>
+      {% for c, label in kb_cats %}<button class="chip" type="button" data-cat="{{ c }}" aria-pressed="false">{{ label }}</button>{% endfor %}
+    </div>
+    <div class="kb-grid kb-index">
+      {% for g in guides %}{{ M.kcard(g, loop.index, t, feat=loop.first) }}{% endfor %}
+    </div>
+    {{ M.cat_band(catalog, t.mm_catalog, t.mm_catalog_edition ~ ' · ' ~ catalog.meta, t.top_catalog) }}
+  </div>
+</section>
+{% if body %}<section class="section bg-soft"><div class="wrap"><div class="prose prose-narrow">{{ body }}</div></div></section>{% endif %}
+{% endblock %}

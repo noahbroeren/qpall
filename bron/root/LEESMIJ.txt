@@ -1,0 +1,165 @@
+Q-PALL WEBSITE  ·  qpall.com
+Statisch websitepakket voor Netlify  ·  build oktober 2026
+======================================================================
+
+INHOUD VAN DIT PAKKET
+----------------------------------------------------------------------
+6 talen, elk met eigen URL's: Nederlands op de root, /en/, /de/, /fr/,
+/it/ en /es/. Per taal 152 indexeerbare pagina's + 404 + bedankpagina.
+
+  Kunststof pallets   overzicht (landingspagina voor advertenties), 9 maat-
+                      pagina's, 7 typepagina's en 3 draagklassen (light,
+                      medium, heavy) met slimme filters (maat, klasse,
+                      statische / dynamische / stellingbelasting, dek, onderzijde)
+  Productpagina's     131 artikelnummers per taal, elk een eigen pagina: foto's +
+                      maattekening, belasting, productielocatie of "op aanvraag",
+                      vergelijkbare uitvoeringen (met link),
+                      downloads (technische datasheet in de eigen taal,
+                      PPWR-conformiteitsverklaring, productcatalogus)
+  Overig              toebehoren (5), gebruikte pallets, Ultra pallet, 7 sectoren,
+                      kennisbank (10 artikelen in 5 onderwerpen, o.a. PPWR),
+                      over Q-Pall (7, met Ons team),
+                      productcatalogus, dealers, vacatures, transport aanmelden
+                      (SimplyBook, 12 locaties), contact, offerte, privacy,
+                      cookies, algemene voorwaarden
+
+Bestanden in de root
+  index.html, 404.html          homepage en foutpagina (elke taal heeft een eigen 404)
+  netlify.toml                  beveiligingsheaders en caching (de Content-Security-
+                                Policy staat als meta-tag in elke pagina)
+  _redirects                    oude URL's -> nieuwe pagina's (301), 404 per taal
+  robots.txt, sitemap.xml       sitemap met hreflang (6 talen + x-default) en foto's
+  site.webmanifest, favicons, og-image.jpg
+  assets/                       css, js, Poppins (zelf gehost), afbeeldingen,
+                                og/ (deelafbeeldingen: elke pagina en elk product
+                                in elke taal, 160 x 6 talen),
+                                sb/ (frame voor de SimplyBook-agenda)
+  pagefind/                     zoekindex voor alle pagina's (6 talen)
+  downloads/                    productcatalogus per taal, datasheets per artikel per
+                                taal, PPWR-conformiteitsverklaringen
+  LEESMIJ.txt                   dit bestand (online afgeschermd met een 404)
+
+
+1. ONLINE ZETTEN OP NETLIFY
+----------------------------------------------------------------------
+a) Pak qpall-website.zip uit.
+b) app.netlify.com > Add new site > Deploy manually > sleep de map
+   "qpall-website" (de map waarin index.html staat) in het venster.
+c) Formulieren: Site configuration > Forms > "Enable form detection" en
+   daarna één keer opnieuw deployen. Netlify vindt drie formulieren:
+     offerte      (offerteaanvraag, alle talen)
+     contact      (contact, alle talen)
+     sollicitatie (vacatures, alle talen, met cv)
+   Stel per formulier een e-mailmelding in: Forms > Form notifications >
+   Email notification > info@qpall.com (of de juiste afdeling);
+   sollicitatie > oudshoorn@qpall.com.
+d) Domein: Domain management > Add domain > qpall.com als primair
+   domein, www.qpall.com als alias (netlify.toml stuurt www door naar qpall.com).
+   HTTPS wordt automatisch aangemaakt.
+   Voeg ook de zes oude landendomeinen toe als alias (met en zonder www):
+   qpall-kunststof-pallets.nl, qpall-kunststoff-paletten.de,
+   qpall-palettes-plastique.fr, qpall-paletas-de-plastico.es,
+   qpall-plastic-pallets.com en qpall-pallet-in-plastica.it. _redirects stuurt
+   elke URL daarop in één stap (301) naar de categoriepagina in de eigen taal.
+e) Test na livegang:
+   - een offerte versturen (komt hij binnen?)
+   - transport aanmelden: cookies "externe diensten" accepteren, een locatie
+     kiezen en controleren of de juiste SimplyBook-agenda verschijnt
+   - de dealerkaart op /internationale-dealers/
+   - het zoekvenster (vergrootglas): zoek op "1200 x 800" en op "PPWR"
+   - de downloads (catalogus en datasheet) in een paar talen
+
+
+2. VOOR EN DIRECT NA DE OVERSTAP (SEO)
+----------------------------------------------------------------------
+LET OP: de site staat nu op NOINDEX (zoekmachines nemen niets op, ook de
+prijzen niet). Elke pagina heeft <meta name="robots" content="noindex,
+nofollow"> en netlify.toml stuurt "X-Robots-Tag: noindex, nofollow" mee.
+Bij livegang op qpall.com (en als sales de prijzen heeft goedgekeurd):
+in het bronpakket in site_config.py NOINDEX_ALL = False zetten, opnieuw
+bouwen en de nieuwe map deployen. Pas daarna de sitemap indienen.
+
+Redirects: _redirects bevat een 301 voor alle 1.608 URL's van de oude
+qpall.com (sitemap van 19-10-2026, alle talen, ook pdf's en de oude
+transportpagina's) en voor 175 oudere URL's die Google nog kent (Search
+Console, 16 maanden, export 21-10-2026). Getest: elk van de 1.783 oude URL's
+eindigt met hooguit één 301 op een bestaande pagina.
+De downloads (datasheets, PPWR-verklaringen, catalogi) hebben ook na de
+livegang "X-Robots-Tag: noindex": Google toont de productpagina, niet de pdf.
+De vijf nieuwsartikelen (o.a. het HDPE 2-artikel, dat veel Italiaans verkeer
+trekt) staan op precies dezelfde URL als op de oude site.
+Vóór het omzetten van de DNS:
+  * Komen er nog pagina's bij op de oude site, draai dan in het bronpakket
+    tools/redirects_qpall.py opnieuw (zie LEESMIJ.txt in het bronpakket).
+Direct na livegang:
+  * Search Console: sitemap https://qpall.com/sitemap.xml indienen.
+  * Rich Results Test op een productpagina met prijs: Product + Offer +
+    BreadcrumbList + FAQ.
+  * Volg 2 tot 4 weken het rapport "Pagina's" voor 404's.
+
+
+3. NOG AANVULLEN OF LATEN CONTROLEREN
+----------------------------------------------------------------------
+[ ] Algemene voorwaarden: de volledige tekst staat nu op de pagina (de officiële
+    Engelse tekst, in alle talen, met een inleiding per taal). De pdf
+    files/q-pall-bv-terms-and-conditions.pdf is opnieuw opgemaakt uit dezelfde
+    tekst; wilt u liever de originele pdf, vervang dan het bestand in
+    root/files/ van het bronpakket. Let op: in de originele tekst ontbreekt
+    artikel 15.5 (15.4 springt naar 15.6); dat is zo overgenomen.
+[ ] Transport aanmelden, Veghel: op de oude site stonden laad- en lostijden
+    vanaf dinsdag (geen maandag). Graag controleren.
+[ ] Vertalingen DE/FR/IT/ES: volledig vertaald met vaste terminologie per taal.
+    Laat bij voorkeur een native collega of dealer de belangrijkste pagina's
+    (home, kunststof pallets, offerte) nalezen.
+[ ] Productielocatie: 42 artikelnummers hebben in de productdata geen "Huidige
+    locatie" en tonen "Op aanvraag".
+[ ] Productfoto's: per artikelnummer gecontroleerd (matrijs 1./2./3. ... zien er
+    verschillend uit). Alle 131 artikelen tonen een foto van precies die uitvoering
+    (de foto die in het PIM of op qpall.com aan het artikelnummer hangt, of die Q-Pall
+    heeft aangeleverd). Elke datasheet toont twee foto's van hetzelfde artikel
+    (onderkant of een ander aanzicht); 13 artikelen hebben er nog maar een.
+    Website en datasheets gebruiken dezelfde foto's. Wat er per artikel nog
+    ontbreekt staat in de checklist (pdf).
+[ ] Kleuren: de hygiënische, cleanroom- en H1-pallets tonen hun kleur per
+    artikelnummer (QPH1208HP3RR-CDB = blauw, -CDG = grijs, ECO = zwart enz.).
+    Graag nalopen; aanpassen in SKU_COLOUR in site_config.py van het bronpakket.
+[ ] Technische tekeningen: alle 131 artikelen hebben een tekening in de datasheet.
+    102 de CAD-tekening van hun eigen matrijs (bovenaanzicht + beide zijaanzichten),
+    de 13 hygiënische en cleanroompallets de zijaanzichten van de producent, 14
+    pallets met klikbare onderlatten de tekening van de 9-pootjespallet met de onderlat
+    eronder, en EUROPAL800RR en RECYPAL1210RR de maatschets van de producent.
+[ ] Bestellen per volle stapel: het aantal per stapel verschilt per pallet (15, 16,
+    17, 23, 45, 80, 100 of 200; uit "palletmaten voor calculator.docx"). Staat op de
+    productpagina, in de datasheet en in het offerteformulier (stappen van één stapel).
+    Voor hygiënische, CP-, cleanroom- en enkele andere artikelen is het aantal
+    afgeleid van een vergelijkbaar artikel: laten bevestigen (lijst in de oplevering).
+[ ] Prijzen: vanafprijzen uit de prijslijst (excl. btw en transport) bij 83
+    artikelnummers; de rest toont "prijs op aanvraag". Laat sales bevestigen dat dit
+    publiek mag. Datasheets bevatten bewust geen prijzen.
+[ ] Laat de belangrijkste cijfers checken: 4 miljoen pallets per jaar,
+    34.500 ton gerecycled kunststof in 2025, 200+ mensen in onze productieketen,
+    6 fabrieken (Chesterfield sinds 2026; sinds update 14 ook in de gestructureerde
+    data en llms.txt), EcoVadis Bronze oktober 2026 (het enige logo in de
+    footer).
+[ ] SimplyBook: zet bij Custom features "Google Translate" en "Multiple
+    bookings" (winkelwagen) uit. De site verbergt die strook nu zelf; na het
+    uitzetten SB_CROP in site_config.py op 0 zetten en opnieuw bouwen.
+[ ] Privacyverklaring, cookieverklaring en algemene voorwaarden juridisch laten
+    nalezen.
+[ ] Cookiebanner: de site plaatst zelf geen tracking. Externe diensten
+    (SimplyBook-agenda, dealerkaart) laden pas na toestemming. Google Tag Manager:
+    vul GTM_ID in site_config.py in en bouw opnieuw; GTM laadt dan pas na
+    toestemming voor "Statistiek" en de Content-Security-Policy past zich aan.
+    Conversies: dataLayer-events generate_lead (offerte/contact), phone_click,
+    email_click (zie LEESMIJ in het bronpakket).
+[ ] LAUNCH_DATE in site_config.py op de livegangdatum zetten (datePublished van de
+    zeven kennisbankgidsen) en opnieuw bouwen.
+
+
+4. BIJWERKEN
+----------------------------------------------------------------------
+De site wordt gegenereerd uit het bronpakket (qpall-website-bron.zip):
+prijzen in data/prijzen.csv, productdata in input/, teksten in content/<taal>
+(Markdown). Na een wijziging ./bouwen.sh draaien en de nieuwe map
+"qpall-website" opnieuw naar Netlify slepen. Zie LEESMIJ.txt in het
+bronpakket. Het bronpakket zelf hoort niet op de webserver.

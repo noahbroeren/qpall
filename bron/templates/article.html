@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+{% import '_macros.html' as M with context %}
+{% block main %}
+{% call M.phero(page, crumbs) %}
+  {% if news %}
+  <div class="article-meta">{% if page.fm.tag %}<span class="am-tag">{{ page.fm.tag }}</span>{% endif %}{% if published_txt %}<span>{{ M.icon('calendar') }}<time datetime="{{ page.fm.published }}">{{ published_txt }}</time></span>{% endif %}{% if show_updated %}<span>{{ t.updated }}: {{ updated_txt }}</span>{% endif %}{% if page.fm.reading %}<span>{{ M.icon('clock') }}{{ page.fm.reading }} {{ t.min_read }}</span>{% endif %}{% if author %}{{ M.byline(author, t) }}{% else %}<span>{{ M.icon('users') }}{{ page.fm.author or 'Q-Pall' }}</span>{% endif %}</div>
+  {% else %}
+  <div class="article-meta">{% if page.fm.reading %}<span>{{ M.icon('clock') }}{{ page.fm.reading }} {{ t.min_read }}</span>{% endif %}<span>{{ M.icon('calendar') }}{{ t.updated }}: {{ updated_txt }}</span>{% if author %}{{ M.byline(author, t) }}{% else %}<span>{{ M.icon('users') }}Q-Pall</span>{% endif %}</div>
+  {% endif %}
+{% endcall %}
+<section class="section">
+  <div class="wrap layout art">
+    <div class="art-main">
+      {% if cover %}<figure class="news-cover{% if cover.svg %} is-svg{% endif %}"><img src="{{ cover.src }}"{% if cover.srcset %} srcset="{{ cover.srcset }}" sizes="(min-width:1100px) 760px, 92vw"{% endif %} alt="{{ cover.alt }}" width="1200" height="{{ 750 if cover.svg else 675 }}" fetchpriority="high" decoding="async">{% if cover.caption %}<figcaption>{{ cover.caption }}</figcaption>{% endif %}</figure>{% endif %}
+      {% if toc|length > 1 %}<details class="toc-m"><summary>{{ t.on_page }}{{ M.icon('chev') }}</summary><ol>{% for id, txt in toc %}<li><a href="#{{ id }}">{{ txt }}</a></li>{% endfor %}</ol></details>{% endif %}
+      <article class="prose">{{ body }}</article>
+      {% if author %}{{ M.author_box(author, t) }}{% endif %}
+    </div>
+    <aside class="aside art-aside">
+      {% if toc|length > 1 %}<nav class="aside-card toc" aria-label="{{ t.on_page }}"><h2>{{ t.on_page }}</h2><ol>{% for id, txt in toc %}<li><a href="#{{ id }}">{{ txt }}</a></li>{% endfor %}</ol></nav>{% endif %}
+      {% if news %}
+      <nav class="aside-card aside-nav kb-side" aria-label="{{ t.nav_label.news }}"><h2>{{ t.nav_label.news }}</h2><ul>{% for g in news_side %}<li><a href="{{ g.url }}"{% if g.id == page_id %} aria-current="page"{% endif %}>{{ g.title }}</a></li>{% endfor %}</ul><a class="link-arrow kb-side-all" href="{{ urls.news }}">{{ t.news_all }}{{ M.icon('arrow') }}</a></nav>
+      {% else %}
+      <nav class="aside-card aside-nav kb-side" aria-label="{{ t.nav_label.knowledge }}"><h2>{{ t.nav_label.knowledge }}</h2><ul>{% for g in kb_list %}<li><a href="{{ g.url }}"{% if g.id == page_id %} aria-current="page"{% endif %}>{{ g.title }}</a></li>{% endfor %}</ul></nav>
+      {% endif %}
+      {{ M.aside_cta(t, urls, company) }}
+      {{ M.catalog_card(t, catalog) }}
+    </aside>
+  </div>
+</section>
+{% if recommend %}
+<section class="section bg-soft" aria-labelledby="rec-h" data-pagefind-ignore>
+  <div class="wrap">
+    {{ M.sec_head(None, recommend_title, None, 'rec-h', urls.pallets, t.all_pallets_link) }}
+    <div class="grid-products cols-4">{% for r in recommend %}{{ M.pcard(r, t, lang, loop.index) }}{% endfor %}</div>
+  </div>
+</section>
+{% endif %}
+{% if page.faq %}{{ M.faq_section(page.faq, lang, t, soft=not recommend) }}{% endif %}
+{% if news_more %}
+<section class="section{% if not page.faq or recommend %} bg-soft{% endif %}" aria-labelledby="nm-h" data-pagefind-ignore>
+  <div class="wrap">
+    {{ M.sec_head(None, t.news_more, None, 'nm-h', urls.news, t.news_all) }}
+    <ul class="news-grid news-grid-3">{% for n in news_more %}<li>{{ M.ncard(n, t) }}</li>{% endfor %}</ul>
+  </div>
+</section>
+{% endif %}
+{% endblock %}

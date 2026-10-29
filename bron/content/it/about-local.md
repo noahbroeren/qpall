@@ -1,0 +1,39 @@
+---
+id: about-local
+title: "Produzione locale in 6 stabilimenti europei – Q-Pall"
+description: "Q-Pall produce pallet in plastica a Balk, Ribe, Marktoberdorf, Nantes, Lleida e Chesterfield. Entro 600 km dal cliente: meno trasporti e meno CO2."
+eyebrow: "Act global, produce local"
+h1: "**Produzione** locale"
+lead: "Produciamo in sei stabilimenti distribuiti in tutta Europa. Così siamo quasi sempre entro 600 chilometri dai nostri clienti. Questo fa risparmiare trasporti, costi e CO2."
+---
+
+## Perché produrre localmente?
+
+Un camion medio trasporta circa 500 pallet. Sulle lunghe distanze, questo significa soprattutto trasportare aria. Il trasporto è la principale fonte di emissioni di CO2 nella filiera dei pallet. Più vicino a voi produciamo, meno chilometri di trasporto servono.
+
+## Gli stampi viaggiano, i pallet no
+
+Lo stampo è l’attrezzatura in cui stampiamo a iniezione un pallet. Invece di trasportare pallet in tutta Europa, installiamo lo stampo nello stabilimento più vicino a voi. Un solo trasporto dello stampo fa risparmiare molti camion carichi di pallet. È questo che intendiamo con *act global, produce local*: una gamma europea, prodotta localmente.
+
+## I nostri siti produttivi
+
+- **Balk (Paesi Bassi)**, in Frisia.
+- **Ribe (Danimarca).**
+- **Marktoberdorf (Germania)**, in Baviera.
+- **Nantes (Francia).**
+- **Lleida (Spagna).**
+- **Chesterfield (Regno Unito)**, il nostro sesto e più recente stabilimento.
+
+La nostra sede centrale, il centro operativo europeo e il magazzino si trovano a **Veghel**, nel Brabante Settentrionale. Ritirate o consegnate in proprio? [Registrate in anticipo il vostro trasporto](@transport).
+
+## Cosa significa per voi
+
+- **Costi di trasporto più bassi.** Pagate meno per il trasporto, perché la distanza è breve.
+- **Meno CO2.** Meno chilometri significano emissioni più basse nel vostro Scope 3.
+- **Consegna rapida.** In ogni stabilimento teniamo a magazzino i modelli più richiesti.
+- **Continuità delle forniture.** Per molti stampi disponiamo di un secondo sito produttivo. Se una macchina si guasta da qualche parte, la vostra consegna prosegue senza problemi.
+- **Materia prima dalla regione.** Per quanto possibile, acquistiamo la plastica riciclata nella zona intorno allo stabilimento.
+
+## Personalizzazione vicino a voi
+
+State avviando un progetto più grande con un modello modificato? Allora possiamo collocare lo stampo nello stabilimento più vicino a voi. Scoprite di più sulla [personalizzazione](@about-custom). Per ogni prodotto sul nostro sito potete inoltre vedere in quali siti viene prodotto.

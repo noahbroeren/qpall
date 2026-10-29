@@ -1,0 +1,266 @@
+{#- Technical datasheet (A4, PDF via tools/datasheets.py). Two pages by design:
+    page 1 = product (top and bottom photo), loads, specifications and the similar versions (other articles of the
+             same pallet, with a link to their page);
+    page 2 = the technical drawing (top view + both side views from the CAD drawing, or the schematic one),
+    test conditions and tolerances. When page 1 is too long the versions table moves to the top of page 2
+    and the drawing gets the remaining height. The script fills in "page x / y". -#}
+{% macro footer() -%}
+<footer class="ftr">
+  <p class="ftr-co"><b>{{ company.legal }}</b><span class="sep"></span>{{ company.street }}, {{ company.zip }} {{ company.city }}, {{ company_country }}<span class="sep"></span><a href="tel:{{ company.phone_href }}">{{ company.phone }}</a><span class="sep"></span><a href="mailto:{{ company.email }}">{{ company.email }}</a></p>
+  <p class="ftr-url"><a href="{{ product_url }}">{{ product_url }}</a></p>
+  <p class="ftr-disc">{{ t.ds_disclaimer }}</p>
+  <p class="ftr-pg">{{ t.ds_page }} <b><span class="pg-x">1</span> / <span class="pg-y">1</span></b></p>
+</footer>
+{%- endmacro %}
+{% macro doc_id() -%}
+<div class="hdr-top">
+  <div class="hdr-logo">{{ logo }}</div>
+  <div class="hdr-doc"><b>{{ t.ds_title }}</b><span>{{ edition }}</span></div>
+</div>
+{%- endmacro %}
+<!doctype html>
+<html lang="{{ html_lang }}">
+<head>
+<meta charset="utf-8">
+<title>{{ name }} | {{ t.ds_title }} | Q-Pall</title>
+<meta name="author" content="{{ company.legal }}">
+<meta name="description" content="{{ t.ds_title }} · {{ name }}">
+<style>
+{{ font_css }}
+@page{size:A4;margin:0}
+/* text colours are navy with alpha: Chromium embeds a font copy per text RGB colour, so fewer colours = smaller PDF */
+:root{--navy:#1D1C4C;--orange:#F37321;--light:#94C24A;--medium:#2DAFE6;--heavy:#A7328A;--soft:#F3F3F3;--line:#E3E3EA;--text:rgba(29,28,76,.8);--muted:rgba(29,28,76,.6);--m:15mm}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:#fff}
+body{font-family:Poppins,Arial,sans-serif;font-size:7.6pt;line-height:1.45;color:var(--text);-webkit-print-color-adjust:exact;print-color-adjust:exact;font-variant-numeric:tabular-nums;font-kerning:normal}
+b,strong{font-weight:600}
+.page{position:relative;width:210mm;height:297mm;overflow:hidden;break-after:page;background:#fff;display:flex;flex-direction:column}
+.page:last-child{break-after:auto}
+
+/* header: navy band with the 3D Q in the colour of the load class, as on the website */
+.hdr{flex:none;position:relative;background:var(--navy) no-repeat right top / cover;color:#fff;padding:9mm var(--m) 8.5mm}
+.hdr-top{display:flex;align-items:center;gap:5mm}
+.hdr-logo svg{display:block;height:9.5mm;width:auto}
+.hdr-doc{padding-left:5mm;border-left:.3mm solid rgba(255,255,255,.28);line-height:1.25}
+.hdr-doc b{display:block;font-size:9.6pt;font-weight:600}
+.hdr-doc span{display:block;margin-top:.6mm;font-size:6.8pt;color:rgba(255,255,255,.7)}
+.hdr-prod{margin-top:9mm;max-width:124mm}
+.eyebrow{display:flex;align-items:center;gap:2.4mm;font-size:6.9pt;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}
+.eyebrow::before{content:"";width:6mm;height:.35mm;background:var(--orange)}
+.nt{text-transform:none;letter-spacing:.06em}
+h1{margin-top:2.4mm;font-size:16.5pt;font-weight:600;line-height:1.2;letter-spacing:-.005em;color:#fff;text-wrap:balance}
+.tags{display:flex;flex-wrap:wrap;gap:1.6mm;margin-top:3.6mm}
+.chip,.badge{display:inline-flex;align-items:center;height:5.2mm;padding:0 2.8mm;border-radius:99px;font-size:6.7pt;font-weight:500;line-height:1;white-space:nowrap}
+.chip{background:rgba(255,255,255,.13);color:#fff}
+.badge{color:#fff;font-weight:700;font-size:6.3pt;letter-spacing:.1em;text-transform:uppercase}
+.badge-light{background:var(--light)}.badge-medium{background:var(--medium)}.badge-heavy{background:var(--heavy)}
+/* follow-up pages: same band, slimmer, with the product name */
+.hdr-sm{padding:7mm var(--m) 6.5mm}
+.hdr-sm .hdr-prod{margin-top:5.5mm}
+.hdr-sm h1{margin-top:1.4mm;font-size:11.5pt}
+
+/* body: between header and footer */
+.body{flex:1 1 auto;min-height:0;position:relative;display:flex;flex-direction:column;gap:6mm;padding:7mm var(--m) 0;overflow:hidden}
+.flow{flex:none}
+
+/* page 1: two columns */
+.cols{display:grid;grid-template-columns:1fr 1fr;column-gap:7mm}
+.col-l,.col-r{display:flex;flex-direction:column;gap:4.4mm;min-width:0}
+.photo{position:relative;flex:1 1 0;min-height:52mm;border:.3mm solid var(--line);border-radius:2.6mm 8mm 2.6mm 2.6mm;background:#fff;overflow:hidden}
+.photo + .photo{border-radius:2.6mm}
+.photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain}
+.photo small{position:absolute;left:2.6mm;bottom:2mm;font-size:5.8pt;color:var(--muted)}
+.photo .ph-l{position:absolute;left:2.8mm;top:2.4mm;z-index:1;display:inline-flex;align-items:center;height:4.6mm;padding:0 2.4mm;border-radius:99px;background:var(--soft);font-size:6pt;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--navy)}
+.flag{display:inline-block;width:3.4mm;height:3.4mm;border-radius:50%;flex:none}
+.locf{display:inline-flex;align-items:center;gap:1.4mm;white-space:nowrap}
+
+/* load box (site signature: one large corner) */
+.load{display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:auto auto auto;background:var(--navy);border-radius:2.6mm 8mm 2.6mm 2.6mm;color:#fff}
+.load div{position:relative;grid-row:span 3;display:grid;grid-template-rows:subgrid;row-gap:0;padding:4mm 3mm 3.8mm 3.6mm}
+.load div + div::before{content:"";position:absolute;left:0;top:4mm;bottom:4mm;width:.25mm;background:rgba(255,255,255,.16)}
+.load b{display:block;font-size:16pt;font-weight:700;line-height:1;letter-spacing:-.01em;white-space:nowrap}
+.load b em{font-style:normal;font-size:8.5pt;font-weight:700;color:var(--orange);margin-left:.8mm}
+.load span{display:block;margin-top:2.2mm;font-size:6.9pt;font-weight:500;line-height:1.25;color:rgba(255,255,255,.92)}
+.load small{display:block;margin-top:.6mm;font-size:5.9pt;line-height:1.3;color:rgba(255,255,255,.58)}
+.load .na b{color:rgba(255,255,255,.38)}
+
+/* spec tables */
+.gh{font-size:6.6pt;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--navy);margin-bottom:1.6mm;display:flex;align-items:center;gap:2mm}
+.gh::before{content:"";width:2.4mm;height:.7mm;background:var(--orange);border-radius:1px;flex:none}
+/* tables: every row paints its own (rounded) background, so there are no seams between cells */
+.spec,.vt{display:grid;border-collapse:separate}
+.spec tbody,.vt thead,.vt tbody{display:contents}
+.spec tr,.vt tr{display:grid;grid-column:1/-1;grid-template-columns:subgrid;border-radius:1.2mm}
+.spec th,.spec td,.vt th,.vt td{display:block}
+.spec{grid-template-columns:fit-content(50%) minmax(0,1fr);border-bottom:.3mm solid var(--line);padding-bottom:.9mm}
+.spec th,.spec td{padding:1.15mm 2.4mm;font-size:7.3pt;line-height:1.35}
+.spec th{text-align:left;font-weight:400;color:var(--text);padding-right:4mm}
+.spec td{text-align:right;font-weight:500;color:var(--navy);text-wrap:balance}
+.spec tr:nth-child(odd){background:var(--soft)}
+
+/* versions table */
+.vers .gh{margin-bottom:2mm}
+.vt{font-size:7.2pt;line-height:1.35}
+.vt-7{grid-template-columns:repeat(7,auto)}
+.vt-8{grid-template-columns:repeat(8,auto)}
+.vt thead tr{background:var(--navy)}
+.vt th{color:#fff;font-size:6.1pt;font-weight:600;letter-spacing:.08em;text-transform:uppercase;text-align:left;padding:1.7mm 2.4mm;white-space:nowrap}
+.vt td{padding:1.5mm 2.4mm;color:var(--navy)}
+.vt tbody tr:nth-child(even){background:var(--soft)}
+.vt .r{text-align:right;white-space:nowrap}
+.vt .sku{font-weight:600;white-space:nowrap}
+.vt .sku a{color:var(--navy);text-decoration:none;border-bottom:.25mm solid rgba(243,115,33,.75)}
+.vt .cur td{background:#E9E9F2}
+.vt .here{display:table;margin-top:.7mm;padding:.3mm 1.6mm;border-radius:99px;background:var(--navy);color:#fff;font-size:5.6pt;font-weight:600;letter-spacing:.04em}
+.vt th{white-space:normal}
+.vt-8 th,.vt-8 td{padding-left:2mm;padding-right:2mm}
+.vt .loc{font-weight:500}
+.vt i{font-style:normal;font-weight:400;color:var(--text)}
+.vt .req{font-weight:400;color:var(--muted)}
+.vt .nw{white-space:nowrap}
+.note{margin-top:2.2mm;font-size:6.3pt;line-height:1.4;color:var(--muted)}
+
+/* page 2: the drawing takes the free height */
+.draw{flex:1 1 auto;min-height:60mm;display:flex;flex-direction:column;border:.3mm solid var(--line);border-radius:2.6mm 8mm 2.6mm 2.6mm;padding:5mm 6mm 3mm}
+.draw .gh{flex:none}
+.draw-art{flex:1 1 auto;min-height:0;position:relative;margin:2mm 0 3mm}
+.draw-art img,.draw-art svg{position:absolute;inset:0;width:100%;height:100%;object-fit:contain}
+
+.draw p{flex:none;padding-top:2mm;border-top:.3mm solid var(--line);font-size:6.2pt;color:var(--muted)}
+.draw-art svg{left:11%;width:78%}
+
+/* test conditions and tolerances */
+.conds ul{list-style:none;display:grid;grid-template-columns:1fr 1fr 2fr;gap:3mm}
+.conds ul.two{grid-template-columns:1fr 2fr}
+.conds li{display:flex;gap:2.2mm;padding:3mm 3.2mm;border-radius:2.2mm;background:var(--soft);font-size:6.8pt;line-height:1.4;color:var(--navy)}
+.conds svg{flex:none;width:3.6mm;height:3.6mm;margin-top:.1mm}
+
+/* fallback when page 1 is a few mm too long: slightly tighter rhythm before anything moves to page 2 */
+.tight .p1 .body{gap:4.6mm}
+.tight .col-r,.tight .col-l{gap:3.4mm}
+.tight .spec th,.tight .spec td{padding-top:.85mm;padding-bottom:.85mm}
+.tight .vt td{padding-top:1.2mm;padding-bottom:1.2mm}
+
+/* footer */
+.ftr{flex:none;margin:0 var(--m) 13mm;display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:6mm;padding-top:2.8mm;border-top:.3mm solid var(--line)}
+.body + .ftr{margin-top:6mm}
+.ftr p{line-height:1.45}
+.ftr-co,.ftr-url{grid-column:1/-1}
+.ftr-co{font-size:6.5pt;color:var(--navy)}
+.ftr-co b{font-weight:600}
+.ftr .sep{display:inline-block;width:.8mm;height:.8mm;border-radius:50%;background:var(--orange);margin:0 1.8mm;vertical-align:middle;position:relative;top:-.2mm}
+.ftr-url{font-size:6.1pt;color:var(--navy);font-weight:500;margin-top:.4mm;white-space:nowrap;overflow:hidden}
+.ftr a{color:inherit;text-decoration:none}
+.ftr-disc{font-size:6pt;color:var(--muted);margin-top:.4mm}
+.ftr-pg{align-self:end;font-size:6.5pt;color:var(--muted);white-space:nowrap;text-align:right}
+.ftr-pg b{color:var(--navy);font-weight:600}
+</style>
+</head>
+<body>
+{{ flags }}
+<section class="page p1">
+  <header class="hdr" style="background-image:url({{ hdr_art }})">
+    {{ doc_id() }}
+    <div class="hdr-prod">
+      <p class="eyebrow"><span><span class="nt">{{ size_label }}</span> · {{ size_nick }}</span></p>
+      <h1>{{ name_html }}</h1>
+      <div class="tags"><span class="badge badge-{{ m.class }}">{{ m.class }}</span>{% for c in chips %}<span class="chip">{{ c }}</span>{% endfor %}</div>
+    </div>
+  </header>
+  <main class="body">
+    <div class="flow cols">
+      <div class="col-l">
+        {% for ph in photos %}
+        <figure class="photo">
+          {% if ph.label %}<span class="ph-l">{{ ph.label }}</span>{% endif %}
+          <img src="{{ ph.src }}" alt="{{ name }}{% if ph.label %} – {{ ph.label }}{% endif %}">
+          {% if loop.first and not m.img_exact %}<small>{{ t.img_illustr }}</small>{% endif %}
+        </figure>
+        {% endfor %}
+      </div>
+      <div class="col-r">
+        <div class="load" role="group" aria-label="{{ t.group_load }}">
+          <div><b>{{ X.static_big }}<em>kg</em></b><span>{{ t.static_l }}</span><small>{{ t.load_cap_static }}</small></div>
+          <div><b>{{ X.dynamic_big }}<em>kg</em></b><span>{{ t.dynamic_l }}</span><small>{{ t.load_cap_dynamic }}</small></div>
+          {% if m.racking %}<div><b>{{ X.racking_big }}<em>kg</em></b><span>{{ t.racking_l }}</span><small>{{ t.load_cap_racking }}</small></div>
+          {% else %}<div class="na"><b>–</b><span>{{ t.racking_l }}</span><small>{{ t.not_rackable }}</small></div>{% endif %}
+        </div>
+        {% for g in groups %}
+        <div class="grp">
+          <h2 class="gh">{{ g[0] }}</h2>
+          <table class="spec"><tbody>{% for r in g[1] %}<tr><th scope="row">{{ r[0] }}</th><td>{{ r[1] }}</td></tr>{% endfor %}</tbody></table>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    {% if variants %}
+    <div class="flow vers">
+      <h2 class="gh">{{ t.ds_variants }}</h2>
+      <table class="vt vt-{{ 8 if m.multicol else 7 }}">
+        <thead><tr><th>{{ t.art_nr }}</th>{% if m.multicol %}<th>{{ t.colour }}</th>{% endif %}<th>{{ t.location }}</th><th>{{ t.dims }} (mm)</th><th class="r">{{ t.weight }}</th><th class="r">{{ t.static }}</th><th class="r">{{ t.dynamic }}</th><th class="r">{{ t.racking }}</th></tr></thead>
+        <tbody>{% for v in variants %}<tr{% if v.current %} class="cur"{% endif %}><td class="sku">{% if v.current %}{{ v.sku }}<span class="here">{{ t.ds_this }}</span>{% else %}<a href="{{ v.abs_url }}">{{ v.sku }}</a>{% endif %}</td>{% if m.multicol %}<td>{{ v.colour }}</td>{% endif %}<td>{% if v.loc_html %}{{ v.loc_html }}{% else %}<span class="req">{{ t.loc_req }}</span>{% endif %}</td><td class="nw">{{ v.dims }}</td><td class="r">{{ v.weight }}</td><td class="r">{{ v.static }}</td><td class="r">{{ v.dynamic }}</td><td class="r">{{ v.racking }}</td></tr>{% endfor %}</tbody>
+      </table>
+      <p class="note">{{ t.ds_sim_note }} {{ t.variant_note }}</p>
+    </div>
+    {% endif %}
+  </main>
+  {{ footer() }}
+</section>
+
+<section class="page p2">
+  <header class="hdr hdr-sm" style="background-image:url({{ hdr_art }})">
+    {{ doc_id() }}
+    <div class="hdr-prod">
+      <p class="eyebrow"><span><span class="nt">{{ size_label }}</span> · {{ size_nick }}</span></p>
+      <h1>{{ name_html }}</h1>
+    </div>
+  </header>
+  <main class="body">
+    <figure class="flow draw">
+      <h2 class="gh">{{ t.drawing }}</h2>
+      <div class="draw-art">{% if cad %}<img src="{{ cad }}" alt="{{ t.drawing }} – {{ name }}">{% else %}{{ drawing }}{% endif %}</div>
+      <p>{{ (t.ds_cad_sketch if cad_sketch else (t.ds_cad_sides if cad_sides else (t.ds_cad_runner if cad_runner else t.ds_cad))) if cad else t.drawing_note }}</p>
+    </figure>
+    <section class="flow conds" aria-label="{{ t.ds_disc_h }}">
+      <h2 class="gh">{{ t.ds_disc_h }}</h2>
+      <ul{% if not rackable %} class="two"{% endif %}>
+        {% for k in (('ds_disc_1', 'ds_disc_2', 'ds_disc_3') if rackable else ('ds_disc_2', 'ds_disc_3')) %}<li><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="11" fill="#F37321"/><path d="M7 12.4l3.2 3.2L17 8.8" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg><span>{{ t[k] }}</span></li>{% endfor %}
+      </ul>
+    </section>
+  </main>
+  {{ footer() }}
+</section>
+<script>
+window.dsLayout = function () {
+  // schematic drawing: tight viewBox so it uses the full box
+  document.querySelectorAll('.draw svg').forEach(function (s) {
+    var b = s.getBBox(), p = 4;
+    s.setAttribute('viewBox', (b.x - p) + ' ' + (b.y - p) + ' ' + (b.width + 2 * p) + ' ' + (b.height + 2 * p));
+  });
+  var p1 = document.querySelector('.p1'), p2 = document.querySelector('.p2');
+  var b1 = p1.querySelector('.body'), b2 = p2.querySelector('.body');
+  function over(b) { return b.scrollHeight > b.clientHeight + 1; }
+  var tight = false, moved = false;
+  // a few mm too long: tighten the rhythm; still too long: normal rhythm and the versions table moves to page 2
+  if (over(b1)) { document.body.classList.add('tight'); tight = true; }
+  if (tight && over(b1)) {
+    document.body.classList.remove('tight'); tight = false;
+    var vers = b1.querySelector('.vers');
+    if (vers) { b2.prepend(vers); moved = true; }
+  }
+  var pages = document.querySelectorAll('.page');
+  pages.forEach(function (p) {
+    var u = p.querySelector('.ftr-url'), fs = 6.1;
+    while (u.scrollWidth > u.clientWidth + .5 && fs > 4.6) { fs -= .1; u.style.fontSize = fs.toFixed(1) + 'pt'; }
+  });
+  pages.forEach(function (p, i) { p.querySelector('.pg-x').textContent = i + 1; p.querySelector('.pg-y').textContent = pages.length; });
+  var o = [];
+  if (over(b1)) o.push(1);
+  if (over(b2)) o.push(2);
+  var art = p2.querySelector('.draw-art').getBoundingClientRect();
+  return {pages: pages.length, overflow: o, stuck: false, tight: tight, moved: moved, drawH: Math.round(art.height * 25.4 / 96)};
+};
+</script>
+</body>
+</html>

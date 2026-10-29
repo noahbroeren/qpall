@@ -1,0 +1,46 @@
+{# Careers + vacancy page building blocks (update 20): contact card, application form, photo #}
+{% import "_macros.html" as M with context %}
+{% macro photo(name, alt, sizes, cls='', eager=False) -%}
+<img{% if cls %} class="{{ cls }}"{% endif %} src="/assets/img/photos/{{ name }}-1200.webp" srcset="/assets/img/photos/{{ name }}-640.webp 640w, /assets/img/photos/{{ name }}-1200.webp 1200w" sizes="{{ sizes }}" alt="{{ alt }}" width="1200" height="900"{% if eager %} fetchpriority="high"{% else %} loading="lazy"{% endif %} decoding="async">
+{%- endmacro %}
+
+{% macro contact_card(p, ui, text, company) -%}
+<div class="cr-person">
+  <p class="cr-person-h">{{ ui.contact }}</p>
+  <div class="cr-person-in">
+    <span class="cp-photo cr-person-photo"><img src="{{ p.photo }}" alt="{{ p.name }}" width="160" height="160" loading="lazy" decoding="async"></span>
+    <p class="cr-person-name"><b>{{ p.name }}</b><span>{{ p.role }}</span></p>
+  </div>
+  <p class="cr-person-t">{{ text }}</p>
+  <ul class="cr-person-links">
+    <li><a href="mailto:{{ p.email }}">{{ M.icon('mail') }}{{ p.email }}</a></li>
+    <li><a href="tel:{{ company.phone_href }}">{{ M.icon('phone') }}{{ company.phone }}</a></li>
+  </ul>
+</div>
+{%- endmacro %}
+
+{% macro apply_form(ui, t, urls, action, job_value, cv_max, lang, show_job=True) -%}
+<form class="form-card cr-form" name="sollicitatie" method="POST" action="{{ action }}" enctype="multipart/form-data" data-netlify="true" netlify-honeypot="bot-field" data-apply data-cv-max="{{ cv_max }}" data-cv-big="{{ ui.cv_big }}" data-sending="{{ ui.sending }}">
+  <input type="hidden" name="form-name" value="sollicitatie">
+  <input type="hidden" name="taal" value="{{ lang }}">
+  <input type="hidden" name="vacature" value="{{ job_value }}">
+  <p class="hp"><label>Bot <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+  {% if show_job %}<p class="cr-form-job">{{ M.icon('work') }}<span>{{ ui.job_for }}: <b>{{ job_value }}</b></span></p>{% endif %}
+  <div class="form-grid">
+    <div class="field"><label for="a-first">{{ ui.first }} <small>({{ t.form_required }})</small></label><input id="a-first" name="voornaam" required autocomplete="given-name"></div>
+    <div class="field"><label for="a-last">{{ ui.last }} <small>({{ t.form_required }})</small></label><input id="a-last" name="achternaam" required autocomplete="family-name"></div>
+    <div class="field"><label for="a-email">{{ t.form_email }} <small>({{ t.form_required }})</small></label><input id="a-email" name="email" type="email" required autocomplete="email"></div>
+    <div class="field"><label for="a-phone">{{ t.form_phone }} <small>({{ t.form_required }})</small></label><input id="a-phone" name="telefoon" type="tel" required autocomplete="tel"></div>
+    <div class="field"><label for="a-city">{{ ui.city }} <small>({{ ui.optional }})</small></label><input id="a-city" name="woonplaats" autocomplete="address-level2"></div>
+    <div class="field"><label for="a-li">{{ ui.linkedin }} <small>({{ ui.optional }})</small></label><input id="a-li" name="linkedin" type="url" inputmode="url" placeholder="https://www.linkedin.com/in/…" autocomplete="url"></div>
+    <div class="field full cr-file">
+      <label for="a-cv">{{ ui.cv }} <small>({{ t.form_required }})</small></label>
+      <input id="a-cv" name="cv" type="file" required accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document">
+      <small class="cr-file-hint">{{ M.icon('doc') }}{{ ui.cv_hint }}</small>
+    </div>
+    <div class="field full"><label for="a-msg">{{ ui.motivation }} <small>({{ ui.optional }})</small></label><textarea id="a-msg" name="motivatie" rows="4" placeholder="{{ ui.motivation_ph }}"></textarea></div>
+    <label class="check full"><input type="checkbox" name="akkoord" required><span>{{ t.form_consent }} <a href="{{ urls.privacy }}">{{ t.legal_privacy if lang == 'de' else t.legal_privacy|lower }}</a>.</span></label>
+    <div class="full"><button class="btn btn-primary" type="submit">{{ ui.send }}{{ M.icon('arrow') }}</button></div>
+  </div>
+</form>
+{%- endmacro %}

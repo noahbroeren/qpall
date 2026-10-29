@@ -1,0 +1,97 @@
+{% extends 'base.html' %}
+{% import '_macros.html' as M with context %}
+{% block main %}
+{% call M.phero(page, crumbs) %}{% endcall %}
+<section class="section-sm form-sec">
+  <div class="wrap layout">
+    <div>
+      {% if form == 'quote' %}
+      <form class="form-card" id="quoteform" name="offerte" method="POST" action="{{ urls['thanks-quote'] }}" data-netlify="true" netlify-honeypot="bot-field">
+        <input type="hidden" name="form-name" value="offerte">
+        <input type="hidden" name="taal" value="{{ lang }}">
+        <p class="hp"><label>Bot <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+        <fieldset class="fstep">
+          <legend><span class="fstep-n">1</span>{{ t.form_step_products }}</legend>
+          <p class="fstep-q">{{ t.form_products }}</p>
+          <p class="fstep-hint">{{ t.form_sku_hint }}</p>
+          <p class="fstep-stack">{{ M.icon('nest') }}<span>{{ t.form_stack_hint }}</span></p>
+          <div class="lines">
+            {% for i in range(1, 7) %}<div class="line"{% if i > 1 %} hidden{% endif %}>
+              <div class="field"><label for="prod-{{ i }}">{{ t.form_product }} {{ i }}</label><input id="prod-{{ i }}" name="product-{{ i }}" list="productlist" placeholder="{{ t.form_choose }}" autocomplete="off"></div>
+              <div class="field field-qty"><label for="qty-{{ i }}">{{ t.form_qty_pallets }}</label>
+                <div class="qty" data-qty><button class="qty-b" type="button" data-d="-1" aria-label="{{ t.qty_less }}">−</button><input id="qty-{{ i }}" name="aantal-{{ i }}" type="number" min="1" step="1" placeholder="1" inputmode="numeric"><button class="qty-b" type="button" data-d="1" aria-label="{{ t.qty_more }}">+</button></div>
+                <small class="qty-n" aria-live="polite" data-one="{{ t.qty_stack_1 }}" data-many="{{ t.qty_stack_n }}"></small><small class="qty-per" data-t="{{ t.qty_per_stack }}"></small><input type="hidden" name="stapels-{{ i }}"></div>
+              <button class="rm icon-btn" type="button" aria-label="{{ t.form_remove }}"{% if i == 1 %} hidden{% endif %}>{{ M.icon('close') }}</button>
+            </div>{% endfor %}
+          </div>
+          <button class="add-line link" type="button">{{ t.form_add }}</button>
+          <datalist id="productlist">{% for o in product_opts %}<option value="{{ o.v }}"{% if o.acc %} data-acc{% endif %} data-stack="{{ o.stack }}" data-url="{{ o.url }}"{% if o.img %} data-img="{{ o.img }}"{% endif %}>{% endfor %}</datalist>
+          <div class="field mt-3"><span class="label">{{ t.form_freq }}</span><div class="radios">
+            <label class="fopt"><input type="radio" name="frequentie" value="{{ t.freq_once }}"><span>{{ t.freq_once }}</span></label>
+            <label class="fopt"><input type="radio" name="frequentie" value="{{ t.freq_regular }}"><span>{{ t.freq_regular }}</span></label>
+            <label class="fopt"><input type="radio" name="frequentie" value="{{ t.freq_year }}"><span>{{ t.freq_year }}</span></label>
+          </div></div>
+        </fieldset>
+        <fieldset class="fstep">
+          <legend><span class="fstep-n">2</span>{{ t.form_step_delivery }}</legend>
+          <div class="field"><span class="label">{{ t.form_transport }}</span><div class="radios" data-transport>
+            <label class="fopt"><input type="radio" name="transport" value="{{ t.tr_deliver }}" data-mode="deliver" checked><span>{{ t.tr_deliver }}</span></label>
+            <label class="fopt"><input type="radio" name="transport" value="{{ t.tr_self }}" data-mode="self"><span>{{ t.tr_self }}</span></label>
+          </div></div>
+          <p class="fstep-stack fstep-self" data-self-note hidden>{{ M.icon('info') }}<span>{{ t.tr_self_note }}</span></p>
+          <div class="form-grid mt-3">
+            <div class="field" data-deliver-only><label for="q-country">{{ t.form_country }}</label><input id="q-country" name="land" list="countrylist" autocomplete="country-name"><datalist id="countrylist">{% for c in countries %}<option value="{{ c }}">{% endfor %}</datalist></div>
+            <div class="field" data-deliver-only><label for="q-zip">{{ t.form_zip }}</label><input id="q-zip" name="postcode" autocomplete="postal-code"></div>
+            <div class="field" data-deliver-only><label for="q-city">{{ t.form_city }}</label><input id="q-city" name="plaats" autocomplete="address-level2"></div>
+            <div class="field"><label for="q-date" data-deliver="{{ t.form_date }}" data-self="{{ t.form_date_self }}">{{ t.form_date }}</label><input id="q-date" name="leverdatum" type="date"></div>
+          </div>
+        </fieldset>
+        <fieldset class="fstep">
+          <legend><span class="fstep-n">3</span>{{ t.form_step_contact }}</legend>
+          <div class="form-grid">
+            <div class="field"><label for="q-company">{{ t.form_company }} <small>({{ t.form_required }})</small></label><input id="q-company" name="bedrijf" required autocomplete="organization"></div>
+            <div class="field"><label for="q-name">{{ t.form_name }} <small>({{ t.form_required }})</small></label><input id="q-name" name="naam" required autocomplete="name"></div>
+            <div class="field"><label for="q-email">{{ t.form_email }} <small>({{ t.form_required }})</small></label><input id="q-email" name="email" type="email" required autocomplete="email"></div>
+            <div class="field"><label for="q-phone">{{ t.form_phone }}</label><input id="q-phone" name="telefoon" type="tel" autocomplete="tel"></div>
+            <div class="field full"><label for="q-msg">{{ t.form_msg }}</label><textarea id="q-msg" name="bericht" rows="4"></textarea></div>
+            <label class="check full"><input type="checkbox" name="akkoord" required><span>{{ t.form_consent }} <a href="{{ urls.privacy }}">{{ t.legal_privacy if lang == 'de' else t.legal_privacy|lower }}</a>.</span></label>
+            <div class="full"><button class="btn btn-primary" type="submit">{{ t.form_send }}{{ M.icon('arrow') }}</button></div>
+          </div>
+        </fieldset>
+      </form>
+      {% elif form == 'contact' %}
+      <form class="form-card" name="contact" method="POST" action="{{ urls.thanks }}" data-netlify="true" netlify-honeypot="bot-field">
+        <input type="hidden" name="form-name" value="contact">
+        <input type="hidden" name="taal" value="{{ lang }}">
+        <p class="hp"><label>Bot <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+        <div class="form-grid">
+          <div class="field"><label for="c-name">{{ t.form_name }} <small>({{ t.form_required }})</small></label><input id="c-name" name="naam" required autocomplete="name"></div>
+          <div class="field"><label for="c-company">{{ t.form_company }}</label><input id="c-company" name="bedrijf" autocomplete="organization"></div>
+          <div class="field"><label for="c-email">{{ t.form_email }} <small>({{ t.form_required }})</small></label><input id="c-email" name="email" type="email" required autocomplete="email"></div>
+          <div class="field"><label for="c-phone">{{ t.form_phone }}</label><input id="c-phone" name="telefoon" type="tel" autocomplete="tel"></div>
+          <div class="field full"><label for="c-msg">{{ t.form_msg }} <small>({{ t.form_required }})</small></label><textarea id="c-msg" name="bericht" rows="6" required></textarea></div>
+          <label class="check full"><input type="checkbox" name="akkoord" required><span>{{ t.form_consent }} <a href="{{ urls.privacy }}">{{ t.legal_privacy if lang == 'de' else t.legal_privacy|lower }}</a>.</span></label>
+          <div class="full"><button class="btn btn-primary" type="submit">{{ t.form_send_msg }}{{ M.icon('arrow') }}</button></div>
+        </div>
+      </form>
+      {% endif %}
+      {% if body %}<div class="prose mt-5">{{ body }}</div>{% endif %}
+    </div>
+    <aside class="aside">
+      {% if form == 'quote' %}
+      <div class="aside-card"><h2>{{ t.quote_side_title }}</h2><ol class="steps">{% for s in t.quote_steps %}<li>{{ s }}</li>{% endfor %}</ol></div>
+      {% endif %}
+      <div class="aside-card aside-contact"><h2>{{ t.contact_title }}</h2>
+        <ul class="contact-list">
+          <li>{{ M.icon('phone') }}<a href="tel:{{ company.phone_href }}">{{ company.phone }}</a></li>
+          <li>{{ M.icon('mail') }}<a href="mailto:{{ company.email }}">{{ company.email }}</a></li>
+          <li>{{ M.icon('pin') }}<span>{{ company.legal }}<br>{{ company.street }}<br>{{ company.zip }} {{ company.city }}</span></li>
+          <li>{{ M.icon('clock') }}<span>{{ t.hours_1 }}<br>{{ t.hours_2 }}</span></li>
+        </ul>
+      </div>
+      {{ M.catalog_card(t, catalog) }}
+    </aside>
+  </div>
+</section>
+{% if page.faq %}{{ M.faq_section(page.faq, lang, t) }}{% endif %}
+{% endblock %}

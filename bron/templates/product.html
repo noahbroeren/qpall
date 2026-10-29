@@ -1,0 +1,161 @@
+{% extends 'base.html' %}
+{% import '_macros.html' as M with context %}
+{% block main %}
+<div class="pdp">
+  <div class="wrap">
+    {{ M.crumbs(crumbs) }}
+    <div class="pdp-grid">
+      <div class="gallery" data-gallery>
+        <div class="g-main">
+          <div class="pc-badges">{{ M.badge_class(m.class) }}{% if m.is_new %}<span class="badge badge-new">{{ t.mm_new }}</span>{% endif %}</div>
+          {% for g in m.gallery %}
+          <figure class="g-slide{% if loop.first %} is-active{% endif %}" id="g-{{ loop.index }}">
+            <img src="{{ g.md }}" srcset="{{ g.md }} 960w, {{ g.lg }} 1600w" sizes="(min-width:1000px) 600px, 92vw" alt="{{ m.name[lang] }}{% if not loop.first %} – {{ t.photo_n.format(n=loop.index) }}{% endif %}" data-lg="{{ g.lg }}" width="960" height="640"{% if loop.first %} fetchpriority="high" data-pagefind-meta="image[src]"{% else %} loading="lazy"{% endif %} decoding="async">
+          </figure>
+          {% endfor %}
+          <figure class="g-slide g-draw" id="g-draw">{{ drawing }}</figure>
+          {% if not m.img_exact %}<span class="g-note">{{ t.img_illustr }}</span>{% endif %}
+          {% if m.gallery %}<button class="g-zoom" type="button" data-lb-open aria-label="{{ t.zoom_photo }}" title="{{ t.zoom_photo }}">{{ M.icon('zoom') }}</button>{% endif %}
+        </div>
+        <div class="g-thumbs" role="tablist" aria-label="{{ t.photo }}">
+          {% for g in m.gallery %}<button class="g-thumb" type="button" role="tab" aria-selected="{{ 'true' if loop.first else 'false' }}" aria-controls="g-{{ loop.index }}" aria-label="{{ t.photo_n.format(n=loop.index) }}"><img src="{{ g.sm }}" alt="{{ m.name[lang] }} – {{ t.photo_n.format(n=loop.index) }}" width="320" height="213" loading="lazy"></button>{% endfor %}
+          <button class="g-thumb g-thumb-draw" type="button" role="tab" aria-selected="false" aria-controls="g-draw" aria-label="{{ t.drawing }}"><span>{{ t.drawing }}</span></button>
+        </div>
+      </div>
+
+      <div class="pdp-info">
+        <p class="eyebrow">{{ m.size_label }} · {{ size_nick }}</p>
+        <h1>{{ m.name[lang] }}</h1>
+        <p class="pdp-sku">{{ t.art_nr }}: <b>{{ m.sku }}</b>{% if variants|length > 1 %} <a href="#{{ anchors.var }}">{{ (t.sim_versions_1 if variants|length == 2 else t.sim_versions_n).format(n=variants|length - 1) }}</a>{% endif %}</p>
+        {% if X.sub %}<div class="pdp-tags">{% for b in X.sub %}<span class="chip">{{ b }}</span> {% endfor %}</div>{% endif %}
+        {% if X.intro %}<p class="pdp-intro">{{ X.intro }}</p>{% endif %}
+
+        {{ M.loadbox(m, X, t) }}
+
+        <dl class="kspecs">
+          <div><dt>{{ t.dims }}</dt><dd>{{ X.dims }}</dd></div>
+          <div><dt>{{ t.weight }}</dt><dd>{{ X.weight }}</dd></div>
+          <div><dt>{{ t.deck }}</dt><dd>{{ X.deck_label }}</dd></div>
+          <div><dt>{{ t.bottom }}</dt><dd>{{ X.support }}</dd></div>
+        </dl>
+
+        <div class="pdp-loc">
+          <span class="pdp-loc-h">{{ M.icon('factory') }}{{ t.locations if m.locations|length > 1 else t.location }}</span>
+          <span class="pdp-loc-v">{% if X.loc_items %}{% for c in X.loc_items %}<span class="loc-chip">{{ M.flag(c.cc) }}{{ c.label }}</span>{% endfor %}{% else %}<span class="loc-chip loc-req">{{ t.loc_req }}</span>{% endif %}</span>
+        </div>
+
+        <div class="pdp-loc pdp-stack">
+          <span class="pdp-loc-h">{{ M.icon('nest') }}{{ t.stack_only }}</span>
+          <span class="pdp-loc-v"><span class="loc-chip stack-chip">{{ X.stack_per }}</span>{% if X.stack_height %}<span class="stack-h">{{ X.stack_height }}</span>{% endif %}</span>
+        </div>
+
+        <div class="pricebox">
+          <div class="pb-price">{% if m.price_from %}<small>{{ t.from_cap }} · {{ t.per_piece }} · {{ t.excl_vat }}</small><b>{{ X.price }}</b>{% else %}<small>{{ t.price }}</small><b class="req">{{ t.on_request }}</b>{% endif %}</div>
+          <a class="btn btn-primary" href="{{ urls.quote }}?sku={{ m.sku|urlencode }}">{{ t.quote_this }}{{ M.icon('arrow') }}</a>
+        </div>
+        <p class="pb-note">{% if m.price_from %}{{ t.price_note }}{% if m.moq_on_request %} {{ t.moq_note }}{% endif %}{% else %}{{ t.reply_1day }}.{% endif %}</p>
+
+        <div class="pdp-actions">
+          <a href="{{ X.datasheet }}" download>{{ M.icon('download') }}{{ t.dl_datasheet }}</a>
+          <a href="tel:{{ company.phone_href }}">{{ M.icon('phone') }}{{ company.phone }}</a>
+          <label class="pc-cmp"><input type="checkbox" value="{{ m.id }}" data-cmp='{{ m.cmp[lang]|tojson|forceescape }}'><span>{{ t.compare }}</span></label>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<nav class="subnav" aria-label="{{ m.name[lang] }}" data-pagefind-ignore>
+  <div class="wrap subnav-in">
+    <a href="#{{ anchors.desc }}">{{ t.sec_desc }}</a>
+    <a href="#{{ anchors.specs }}">{{ t.sec_specs }}</a>
+    {% if variants|length > 1 %}<a href="#{{ anchors.var }}">{{ t.sec_var }}</a>{% endif %}
+    <a href="#{{ anchors.calc }}">{{ t.sec_calc }}</a>
+    <a href="#{{ anchors.dl }}">{{ t.sec_dl }}</a>
+    <a href="#{{ anchors.compare }}">{{ t.sec_compare }}</a>
+  </div>
+</nav>
+
+<section class="section pdp-sec" id="{{ anchors.desc }}" aria-labelledby="h-desc">
+  <div class="wrap pdp-desc">
+    <div class="desc-side">
+      <p class="eyebrow">{{ t.sec_desc }}</p>
+      <h2 id="h-desc">{{ t.desc_h2 }}</h2>
+      {% if desc_secs|selectattr('title')|list|length > 1 %}<ol class="desc-toc">{% for d in desc_secs %}{% if d.title %}<li><a href="#desc-{{ loop.index }}"><span>{{ '%02d' % loop.index }}</span>{{ d.title }}</a></li>{% endif %}{% endfor %}</ol>{% endif %}
+    </div>
+    <div class="desc-body">
+      {% for d in desc_secs %}<div class="dsec" id="desc-{{ loop.index }}"><span class="dsec-n" aria-hidden="true">{{ '%02d' % loop.index }}</span><div class="dsec-c">{% if d.title %}<h3>{{ d.title }}</h3>{% endif %}<div class="prose">{{ d.html }}</div></div></div>{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section bg-soft pdp-sec" id="{{ anchors.specs }}" aria-labelledby="h-specs">
+  <div class="wrap">
+    {{ M.sec_head(t.sec_specs, t.ds_title, None, 'h-specs') }}
+    <div class="spec-groups">
+      {% for grp in spec_rows %}
+      <div class="spec-card">
+        <h3>{{ grp[0] }}</h3>
+        <table class="spec-table"><tbody>{% for r in grp[1] %}<tr><th scope="row">{{ r[0]|shy }}</th><td>{{ r[1]|shy }}</td></tr>{% endfor %}</tbody></table>
+      </div>
+      {% endfor %}
+    </div>
+    <p class="spec-note small muted"><b>{{ t.test_h }}.</b> {{ t.ds_disc_1 }} {{ t.ds_disc_3 }}</p>
+  </div>
+</section>
+
+{% if variants|length > 1 %}
+<section class="section pdp-sec" id="{{ anchors.var }}" aria-labelledby="h-var">
+  <div class="wrap">
+    {{ M.sec_head(t.sec_var, t.ds_variants, t.loc_note, 'h-var') }}
+    <div class="table-scroll"><table class="data-table var-table">
+      <thead><tr><th>{{ t.art_nr }}</th>{% if m.multicol %}<th>{{ t.colour }}</th>{% endif %}<th>{{ t.location }}</th><th>{{ t.dims }}</th><th>{{ t.weight }}</th><th>{{ t.static }}</th><th>{{ t.dynamic }}</th><th>{{ t.racking }}</th><th class="r">{{ t.price }}</th></tr></thead>
+      <tbody>{% for v in variants %}<tr{% if v.current %} class="is-current" aria-current="page"{% endif %}><td>{% if v.current %}<b>{{ v.sku }}</b><span class="var-here">{{ t.this_page }}</span>{% else %}<a class="var-sku" href="{{ v.url }}">{{ v.sku }}</a><a class="var-quote" href="{{ v.url }}">{{ t.view_short }}{{ M.icon('arrow') }}</a>{% endif %}</td>{% if m.multicol %}<td>{{ v.colour }}</td>{% endif %}<td>{% if v.loc %}<span class="loc-inline">{{ M.flag(v.cc|lower) }}{{ v.loc }}</span>{% else %}<span class="muted">{{ t.loc_req }}</span>{% endif %}</td><td>{{ v.dims }}</td><td>{{ v.weight }}</td><td>{{ v.static }}</td><td>{{ v.dynamic }}</td><td>{{ v.racking }}</td><td class="r">{{ v.price }}</td></tr>{% endfor %}</tbody>
+    </table></div>
+    <p class="small muted mt-2">{{ t.variant_note }}</p>
+  </div>
+</section>
+{% endif %}
+
+{{ M.load_section(t, load, urls.calc ~ ('?pallet=' ~ load.sku|urlencode if load.sku else '') ~ '#' ~ anchors.calc, anchors.calc) }}
+
+<section class="section bg-soft pdp-sec" id="{{ anchors.dl }}" aria-labelledby="h-dl">
+  <div class="wrap">
+    {{ M.sec_head(t.sec_dl, t.sec_dl, None, 'h-dl') }}
+    <div class="dl-grid">
+      {% for d in downloads %}<a class="dl dl-{{ d.kind }}" href="{{ d.url }}" download>{{ M.booklet(catalog, 'dl-book', {'cat': 'catalogus', 'ds': 'datasheet', 'ppwr': 'ppwr'}[d.kind]) }}<span><b>{{ d.label|shy }}</b> <small>{{ d.meta }}</small></span>{{ M.icon('download') }}</a>{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section pdp-sec pdp-similar" id="{{ anchors.compare }}" aria-labelledby="h-cmp" data-pagefind-ignore>
+  <div class="wrap">
+    <div class="sec-head car-head">
+      <div><p class="eyebrow">{{ t.sec_compare }}</p><h2 id="h-cmp">{{ t.similar_title }}</h2></div>
+      <div class="car-tools">
+        <a class="link-arrow" href="{{ size_url }}">{{ all_in_size }}{{ M.icon('arrow') }}</a>
+        <div class="car-nav"><button class="car-btn" type="button" data-car-prev aria-label="{{ t.prev }}">{{ M.icon('prev') }}</button><button class="car-btn" type="button" data-car-next aria-label="{{ t.next }}">{{ M.icon('next') }}</button></div>
+      </div>
+    </div>
+    <div class="carousel" data-carousel>
+      <div class="car-track" tabindex="0" aria-label="{{ t.similar_title }}">{% for x in similar %}{{ M.pcard(x, t, lang, loop.index) }}{% endfor %}</div>
+    </div>
+    <div class="see-also"><span>{{ t.see_also }}</span>{% for s in see_also %}<a class="chip" href="{{ s.url }}">{{ s.label }}</a>{% endfor %}</div>
+  </div>
+</section>
+
+{% if m.gallery %}
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="{{ m.name[lang] }}" hidden data-pagefind-ignore>
+  <button class="lb-btn lb-close" type="button" data-lb-close aria-label="{{ t.close }}">{{ M.icon('close') }}</button>
+  <button class="lb-btn lb-nav lb-prev" type="button" data-lb-prev aria-label="{{ t.prev }}">{{ M.icon('prev') }}</button>
+  <figure class="lb-fig"><img alt="" decoding="async"></figure>
+  <button class="lb-btn lb-nav lb-next" type="button" data-lb-next aria-label="{{ t.next }}">{{ M.icon('next') }}</button>
+  <p class="lb-cap" aria-live="polite"></p>
+</div>
+{% endif %}
+
+<div class="sticky-cta" data-pagefind-ignore>
+  <div class="pc-price">{% if m.price_from %}<small>{{ t.sticky_from }} · {{ t.excl_vat }}</small><b>{{ X.price }}</b>{% else %}<b class="req">{{ t.on_request }}</b>{% endif %}</div>
+  <a class="btn btn-primary btn-sm" href="{{ urls.quote }}?sku={{ m.sku|urlencode }}">{{ t.cta_quote }}</a>
+</div>
+{% endblock %}

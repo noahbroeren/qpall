@@ -1,0 +1,90 @@
+{% extends 'base.html' %}
+{% import '_macros.html' as M with context %}
+{% import '_careers.html' as CR with context %}
+{% set J = page.fm %}
+{% block main %}
+<header class="phero cr-hero">
+  <div class="wrap cr-hero-in">
+    <div class="cr-hero-txt">
+      {{ M.crumbs(crumbs) }}
+      <p class="eyebrow">{{ page.eyebrow }}</p>
+      <h1>{{ page.h1|bold }}</h1>
+      <p class="lead">{{ page.lead_html }}</p>
+      <dl class="kspecs cr-kspecs">{% for f in J.hero.facts %}<div><dt>{{ M.icon(f.icon) }}{{ f.label }}</dt><dd>{{ f.text }}</dd></div>{% endfor %}</dl>
+      <div class="phero-actions">
+        <a class="btn btn-primary" href="#solliciteren">{{ J.hero.cta }}{{ M.icon('arrow') }}</a>
+        <a class="btn btn-outline" href="#contactpersoon">{{ J.hero.cta2 }}</a>
+      </div>
+      <p class="cr-note">{{ M.icon('clock') }}{{ J.hero.note }}</p>
+    </div>
+    <figure class="cr-hero-fig">
+      {{ CR.photo(hero_photo, ui.hero_alt, '(min-width:1000px) 560px, 92vw', 'cr-hero-img', eager=True) }}
+    </figure>
+  </div>
+</header>
+
+<section class="section" aria-labelledby="tasks-h">
+  <div class="wrap">
+    {{ M.sec_head(J.tasks.eyebrow, J.tasks.title, J.tasks.lead, 'tasks-h') }}
+    <ul class="cr-cards cr-cards-5">{% for i in J.tasks['items'] %}<li><span class="why-ico">{{ M.icon(i.icon) }}</span><b>{{ i.title }}</b><span>{{ i.text }}</span></li>{% endfor %}</ul>
+  </div>
+</section>
+
+<section class="section-sm cr-strip-sec" aria-label="{{ J.photos_caption }}">
+  <div class="wrap">
+    <figure class="cr-strip">
+      {% for p in photos %}{{ CR.photo(p.src, p.alt, '(min-width:1000px) 320px, 46vw') }}{% endfor %}
+      <figcaption>{{ J.photos_caption }}</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="section bg-soft" aria-labelledby="profile-h">
+  <div class="wrap cr-two">
+    <div class="cr-panel">
+      <h2 id="profile-h">{{ J.profile.title|bold }}</h2>
+      <ul class="cr-checks">{% for i in J.profile['items'] %}<li>{{ M.icon('checkc') }}<span>{{ i }}</span></li>{% endfor %}</ul>
+      <p class="cr-callout">{{ J.profile.note }}</p>
+    </div>
+    <div class="cr-panel">
+      <h2>{{ J.offer.title|bold }}</h2>
+      <ul class="cr-offer">{% for i in J.offer['items'] %}<li><span class="why-ico">{{ M.icon(i.icon) }}</span><span><b>{{ i.title }}</b>{{ i.text }}</span></li>{% endfor %}</ul>
+    </div>
+  </div>
+</section>
+
+<section class="section cr-about" aria-labelledby="why-h">
+  <div class="wrap cr-about-in">
+    <div>
+      <p class="eyebrow eyebrow-light">{{ J.why.eyebrow }}</p>
+      <h2 id="why-h">{{ J.why.title|bold }}</h2>
+      <p>{{ J.why.text }}</p>
+      <a class="link-arrow cr-about-link" href="{{ urls.about }}">{{ J.why.link }}{{ M.icon('arrow') }}</a>
+    </div>
+    <ul class="cr-stats">{% for s in stats %}<li><b>{{ s.num }}</b><span>{{ s.label }}</span></li>{% endfor %}</ul>
+  </div>
+</section>
+
+<section class="section-sm" aria-labelledby="proc-h">
+  <div class="wrap">
+    <h2 class="cr-h-c" id="proc-h">{{ J.process.title|bold }}</h2>
+    <ol class="cr-steps">{% for s in J.process.steps %}<li><span class="cr-step-n">{{ loop.index }}</span><b>{{ s.title }}</b><span>{{ s.text }}</span></li>{% endfor %}</ol>
+  </div>
+</section>
+
+<section class="section bg-soft cr-apply" id="solliciteren" aria-labelledby="apply-h">
+  <div class="wrap cr-apply-in">
+    <div>
+      <h2 id="apply-h">{{ J.apply.title|bold }}</h2>
+      <p class="lead">{{ J.apply.lead }}</p>
+      {{ CR.apply_form(ui, t, urls, apply_url, job_value, cv_max, lang) }}
+    </div>
+    <aside class="cr-apply-side" id="contactpersoon">
+      {{ CR.contact_card(contact, ui, J.contact_text, company) }}
+    </aside>
+  </div>
+</section>
+
+{% if page.faq %}{{ M.faq_section(page.faq, lang, t, soft=False) }}{% endif %}
+
+{% endblock %}

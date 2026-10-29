@@ -1,0 +1,689 @@
+Q-PALL WEBSITE  ·  BRONPAKKET (generator)
+======================================================================
+Uit deze map wordt de complete website gegenereerd in ../qpall-website.
+Dit pakket hoort NIET op de webserver; alleen de map qpall-website gaat
+naar Netlify.
+
+EENMALIG INSTALLEREN
+  Python 3.10 of nieuwer, daarna:
+    pip install -r requirements.txt
+    python -m playwright install chromium     (voor datasheets en OG-beelden)
+  Node.js (18 of nieuwer) voor de zoekfunctie (Pagefind, via npx).
+
+BOUWEN
+  Mac/Linux:   ./bouwen.sh
+  Windows:     python tools\products.py
+               python tools\datasheets.py
+               python tools\og.py
+               python build.py
+               npx -y pagefind@1.3.0 --site ..\qpall-website --output-subdir pagefind
+               python tools\check.py
+  Resultaat: ../qpall-website (wordt bij elke build opnieuw opgebouwd).
+
+  Sneller tijdens het werken aan teksten:
+    QP_SKIP_MEDIA=1 ./bouwen.sh          slaat datasheets en OG-beelden over
+    QP_KEEP_IMAGES=1 python3 build.py    slaat het opnieuw maken van foto's over
+  LET OP: draai Pagefind altijd na build.py, anders werkt het zoeken naar
+  pagina's niet (productzoeken werkt dan nog wel).
+
+  tools/check.py controleert alle pagina's in 6 talen: kapotte links, titels
+  <= 60 tekens, meta descriptions 120-156 tekens, canonical, hreflang (6 talen
+  + x-default, wederkerig), html lang, og:image, dubbele titels en JSON-LD.
+  Doel: "problems: 0".
+
+TALEN EN URL'S
+  nl op de root, en/ de/ fr/ it/ es/ met eigen URL's per taal (site_config.py).
+  x-default = Engels. Elke taal heeft eigen teksten, alt-teksten, 404-pagina,
+  OG-beelden, datasheets, productcatalogus en zoekindex.
+  Duits: de typepagina "Exportpaletten" heet "Einwegpaletten"
+  (/de/kunststoffpaletten/einwegpaletten/, oude URL wordt doorgestuurd).
+
+WAT STAAT WAAR
+  input/pim-export.xlsx      PIM-export (afmetingen, gewichten, draagvermogens,
+                             artikelnummers).
+  input/producten-6-talen.xlsx  producttitels en SEO-teksten in 6 talen, materiaal
+                             en "Huidige locatie" (leidende productielocatie).
+                             Geen locatie = "Op aanvraag" op de site.
+  input/ppwr/                EU-conformiteitsverklaringen (PPWR) per palletgroep;
+                             worden automatisch aan de juiste modellen gekoppeld.
+  data/prijzen.csv           prijzen per artikelnummer (excl. btw). Lege prijs =
+                             "prijs op aanvraag".
+  site_config.py             bedrijfsgegevens, fabrieken (6 + Veghel), transport-
+                             locaties voor SimplyBook (incl. kerstsluiting), maten,
+                             types, sectoren, alle pagina-URL's per taal en de
+                             catalogusbestanden per taal.
+  content/<taal>/            alle teksten in Markdown met een kop (YAML). Links naar
+                             andere pagina's schrijf je als (@pagina-id), naar een
+                             product als (@p:model-id).
+  content/TRANSLATION_BRIEF.md  vertaalregels en terminologie per taal.
+  i18n/<taal>.json           vaste interfaceteksten (knoppen, labels, filters).
+  productcopy.py             automatische productnamen, titels en meta's per taal.
+  templates/                 HTML-sjablonen (Jinja2); datasheet.html = PDF-sjabloon.
+  static/                    CSS, JavaScript, lettertypen, logo's, SimplyBook-frame.
+  input/catalogus/           productcatalogus per taal (PDF).
+  input/photos/<model-id>/   productfoto's 1.webp .. 4.webp (1800 x 1200, wit);
+                             input/photos.json geeft per model aantal en "exact".
+  input/hero/                vrijstaande pallets (light, medium, heavy) voor de
+                             homepage-hero en de deelafbeeldingen (OG), met een
+                             donkere schaduw (geen witte waas op de donkere hero).
+                             Gemaakt met tools/hero_cutouts.py uit de productfoto
+                             van HERO_MODELS / HERO_PHOTO (build.py). Alleen opnieuw
+                             draaien als een heromodel of -foto verandert
+                             (pip install "rembg[cpu]" opencv-python-headless).
+                             promo.png = de antislip-pallet in het promoblok op de
+                             homepage (zelfde behandeling, EXTRA in hero_cutouts.py).
+  input/brand/               sfeerfoto's (photo-<naam>.webp): o.a. office (vacatures,
+                             menu Over Q-Pall), retail, beverage, robot, pooling
+                             (sectoren), sector-chemical / sector-food / sector-pharma
+                             (alleen op de pagina Sectoren; menu en homepage tonen
+                             daar het gekleurde vlak), mould (over-ons-blok homepage),
+                             local (lokaal produceren), custom (maatwerk),
+                             warehouse / stackup / regrind (nieuws), hq-corner /
+                             hq-aerial / hq-terrace (hoofdkantoor Veghel).
+                             Alt-teksten: i18n photo_alt / sector_alt en img_alt in
+                             content/<taal>/news-*.md en home.md (about).
+                             Ronde 10: office, pooling (kantoor/magazijn Veghel) en
+                             mould, local, custom, warehouse, regrind (fabriek Balk)
+                             komen uit de fotoshoots van Q-Pall (Drive, 2000 px breed).
+  FOOTER (ronde 11): onder het adres in Veghel staan KvK- en btw-nummer
+                             (COMPANY['coc'] en ['vat'], labels i18n coc_label/vat_label;
+                             ook in de Organization-JSON-LD). Het 100%-recyclelogo staat
+                             niet meer in de footer; kolom "Op type" eindigt met
+                             "Alle kunststof pallets".
+  input/brand/badges/        footerlogo's: recycled-100.png, ecovadis-bronze-2025.svg,
+                             ecovadis-silver-2023.svg. python3 tools/badges.py maakt
+                             static/img/brand/badge-*.webp (alleen bij een nieuw logo).
+  input/acc-photos/          foto's van de toebehoren (collar, lid, freezer, drip,
+                             grating = gegalvaniseerd rooster, grid = kunststof rooster).
+                             Een bestand met het artikelnummer als naam (bijv.
+                             qpfsi1208-blue.webp) wint van de algemene foto.
+                             Palletranden en deksels: bronfoto's staan in
+                             input/raw/acc-sku/ (uit "Q-Pall fotos per SKU"); draai
+                             python3 tools/acc_sku_photos.py om ze uit te snijden en
+                             gelijk op te maken.
+  input/drive-photos/<model-id>/  originele productfoto's (1 = hoofdfoto). Draai
+                             python3 tools/drive_photos.py en opnieuw bouwen.
+  input/catalogus-mockup.png de foto van het catalogusboekje; basis voor de drie
+                             boekjes hieronder.
+  input/mockups/             de drie boekjes (catalogus oranje, PPWR groen, technische
+                             datasheet lichtblauw) + hun platte voorkanten. Gemaakt met
+                             tools/booklets.py (zelfde foto, belichting en randen; teksten
+                             staan bovenin dat script). De site toont ze overal waar een
+                             catalogus, datasheet of conformiteitsverklaring staat.
+  input/brand/q/             de Q-Pall "Q op ondergrond"-artwork (oranje, paars, groen,
+                             blauw). tools/q_backgrounds.py maakt er transparante
+                             achtergronden van (static/img/q/) voor de homepage-hero,
+                             de PPWR-sectie, de footer en de paginakoppen (light =
+                             groen, medium = blauw, heavy = paars, overig oranje).
+                             Alleen opnieuw draaien als de artwork verandert.
+  static/img/brand/recycle-100.svg  de "100%"-recyclesticker (Recyclebaar ontwerp).
+  input/brand/photo-seaturtle.webp  uitsnede van de originele zeeschildpad.
+  data/datasheets/           gegenereerde technische datasheets (tools/datasheets.py).
+  data/og/                   gegenereerde deelafbeeldingen (tools/og.py): voor ELKE
+                             pagina in elke taal een eigen beeld van 1200 x 630,
+                             in de stijl van de homepage-hero (navy, de 3D-Q in de
+                             klassekleur, Poppins, foto/pallet/productkaart rechts).
+                             Productpagina's: data/og/<taal>/p-<model-id>.jpg met
+                             naam, maat en de drie belastingen. Opnieuw draaien na
+                             nieuwe teksten, foto's of modellen (duurt ca. 15 min):
+                             python3 tools/og.py  (of --page <id> / --lang nl).
+                             Welk beeld bij welke pagina hoort: PAGE_VISUAL in og.py.
+  data/lastmod.json          per pagina de datum waarop titel, description of tekst
+                             (<main>) voor het laatst veranderde; bouwen werkt dit
+                             bij en zet het als <lastmod> in sitemap.xml. Menu,
+                             footer en deelbeelden tellen niet mee.
+  root/                      bestanden die 1-op-1 in de root van de site komen
+                             (LEESMIJ.txt, files/q-pall-bv-terms-and-conditions.pdf,
+                             assets/img/news/hdpe-2.svg).
+  data/terms-en.md           de algemene voorwaarden (officiële Engelse tekst, zoals
+                             gedeponeerd bij de KvK). De pagina Algemene voorwaarden
+                             toont deze tekst in alle 6 talen ([[terms]]) met een
+                             inleiding per taal; tools/terms_pdf.py maakt er de pdf
+                             van (zelfde pad als op de oude site).
+  data/oude-site/            alle URL's van de oude qpall.com (sitemap 19-10-2026).
+  tools/redirects_qpall.py   maakt data/redirects-extra.txt: een 301 voor elke oude
+                             URL naar de best passende nieuwe pagina (producten op
+                             artikelnummer, nieuws op onderwerp, pdf's, transport).
+  tools/redirects_check.py   controleert na het bouwen dat elke oude URL op een
+                             bestaande pagina eindigt (doel: "failing: 0").
+  data/redirects-extra.txt   gegenereerd door redirects_qpall.py; komt bovenaan in
+                             _redirects.
+  data/oude-site/gsc-16-maanden.txt  oudere URL's die Google nog kent (Search Console,
+                             16 maanden, en het rapport Interne links, 21-10-2026).
+  tools/redirects_gsc.py     maakt daar data/redirects-gsc.txt van (komt direct na
+                             redirects-extra.txt). redirects_check.py test beide
+                             lijsten. Nieuwe 404's uit Search Console: pad toevoegen
+                             aan gsc-16-maanden.txt en beide tools opnieuw draaien.
+  tools/redirects-maken.py   (oud) losse product-URL's koppelen aan modelpagina's.
+  tools/check_translation.py controleert een vertaling tegen het Engels.
+
+LAADCALCULATOR (productpagina's en Transport aanmelden)
+  static/calc/engine.js      de rekenmotor en palletgegevens uit Noahs
+                             calculator-embed.html (origineel in
+                             input/raw/calculator/), letterlijk overgenomen.
+                             Pallets of limieten aanpassen: alleen hier.
+  static/calc/ui.js          de weergave in huisstijl (stappen, kaarten, resultaat).
+                             build_assets.py plakt beide samen tot /assets/js/calc.js;
+                             alleen pagina's met de calculator laden dat bestand.
+                             Teksten: i18n calc_ui (6 talen) en calc_* (sjablonen).
+  tools/calc_defaults.py     rekent met dezelfde motor per pallet uit hoeveel er in
+                             een vrachtwagen 13,6 m, mega-trailer, 20 ft en 40 ft HC
+                             passen (zoveel mogelijk, zonder onderlatten) en schrijft
+                             data/calc-defaults.json. Opnieuw draaien na een
+                             wijziging in engine.js.
+  Laadcalculatorpagina: onder de tool staat een tabel "Standaardladingen per
+  palletformaat" (build.calc_table: het bereik per maat over de modellen op de
+  site, nestbaar en stapelbaar apart). De vaste getallen in de tekst en de FAQ
+  van content/<taal>/calc.md (33 europallets, 495-598, 1.485 ...) komen uit
+  calc-defaults.json; na een nieuwe calc_defaults.py-run die tekst nalopen.
+  Update 12: op de productpagina staat GEEN calculator meer, alleen de vier
+  standaardladingen (vrachtwagen, mega-trailer, 20 ft, 40 ft HC) en een blok "Andere
+  lading berekenen?" met een knop naar /laadcalculator/?pallet=<artikel>: de
+  laadcalculatorpagina opent dan met die pallet al gekozen (static/calc/ui.js).
+  Productpagina's tonen die standaardlading. Staat het model zelf niet in de
+  calculator, dan rekent de site met een vergelijkbaar artikel met dezelfde maat en
+  vrijwel dezelfde hoogte (max. 3 mm verschil; zie calc_for_model in build.py) en
+  staat dat onder de cijfers. Nestbare modellen zonder eigen gegevens krijgen geen
+  standaardlading, alleen de calculator.
+
+ELK ARTIKELNUMMER EEN EIGEN PAGINA (ronde 9, oktober 2026)
+  Elk artikelnummer (134) heeft een eigen productpagina, productkaart, datasheet,
+  deelafbeelding en offerte-optie. De PIM-export kent 92 modellen ("families");
+  build.py splitst die in artikelen (FAMILIES -> MODELS, functie _items):
+  - het hoofdartikel van een model houdt de oude URL en het id van het model;
+  - de andere artikelen krijgen id = artikelnummer in kleine letters (2.QP1208MB3RR
+    -> 2-qp1208mb3rr) en een URL met het artikelnummer erachter. Botst dat id
+    met een model-id, dan komt er -art achter (QP1210LB9FR -> qp1210lb9fr-art).
+  - titel en meta-omschrijving noemen het artikelnummer, zodat er geen dubbele
+    titels zijn (productcopy.py, sku_title).
+  Het blok "Vergelijkbare uitvoeringen en productielocaties" op de productpagina en
+  in de datasheet toont de andere artikelnummers van hetzelfde model, met link.
+  Oude productlinks van qpall.com gaan naar de pagina van precies dat artikelnummer
+  (tools/redirects_qpall.py).
+
+PRODUCTFOTO'S EN DATASHEETS
+  Website en datasheet gebruiken dezelfde foto's: input/photos/<id>/1.webp, 2.webp ...
+  <id> is het id van een artikel of van een model. Een artikel zonder eigen map
+  gebruikt de foto's van zijn model. In input/photos.json staat per fotoset of de
+  foto het artikel precies toont: "exact" geldt alleen voor de eigen set; met
+  "for": [ids] gelden de foto's ook voor andere artikelen (bijv. dezelfde matrijs).
+  Anders toont de site "Afbeelding ter illustratie". Artikelen van één model komen
+  vaak uit verschillende matrijzen (1./2./3. ... in het artikelnummer) en zien er
+  anders uit; daarom kreeg elk artikel waar mogelijk foto's van zijn eigen matrijs
+  (de QP-nummers in de fotomappen van "Q-Pall fotos per SKU", zie
+  input/drive-photos/BRON.txt). Een foto vervangen of toevoegen:
+    1. Zet de foto's in input/drive-photos/<id>/ als 1.jpg, 2-onderkant.jpg, 3.jpg ...
+       (1 = hoofdfoto, vrijstaand op wit of transparant; een naam met "onder" of
+       "bottom" is de onderkant).
+    2. python3 tools/drive_photos.py <id>   (maakt de fotoset 1800 x 1200 en zet
+       hem in input/photos.json op "exact").
+    3. python3 tools/datasheets.py --model <id>   (datasheet in 6 talen), daarna
+       opnieuw bouwen.
+  De datasheet toont de bovenkant en, als die er is, de onderkant ("bottom" in
+  input/photos.json) onder elkaar. Wat er per artikelnummer nog ontbreekt staat in
+  "Q-Pall checklist per artikelnummer.xlsx" (22 oktober 2026).
+
+TECHNISCHE TEKENINGEN IN DE DATASHEET (oktober 2026)
+  Pagina 2 van de datasheet toont het bovenaanzicht en beide zijaanzichten uit de
+  CAD-tekening (Google Drive, mappen per matrijs). Elk artikelnummer heeft zijn eigen
+  tekening: input/cad/<artikel-id>.png (navy op transparant). Welke pdf bij welk
+  artikel hoort staat in input/cad/map.json (en leesbaar in input/cad/BRON.txt),
+  handmatige correcties in input/cad/overrides.json. De matrijs volgt uit het
+  voorvoegsel, bijv. 1208M: 1.=QP03, 2.=QP11, 3.=QP27, 4.=QP29, 5.=QP31.
+  Opnieuw maken: python3 tools/cad_views.py <map-met-pdfs> [drive-id of artikel-id ...]
+  Tonen de maten blokjes of rare tekens, dan mist de pdf zijn lettertype (o.a.
+  matrijs 22, 24, 25, 26 en 30): eerst python3 tools/cad_fontfix.py <pdf>.
+  Zonder eigen png toont de datasheet de schematische tekening met de maten van het
+  artikel (een tekening van een andere matrijs kan andere maten hebben). De
+  productpagina op de site houdt bewust de schematische tekening (wens Noah).
+  De datasheet zet foto's en tekening kleiner om (tools/datasheets.py: PHOTO_W,
+  CAD_MAX_W, HDR_W), zodat een pdf rond 200-300 KB blijft.
+  Toleranties staan niet op de tekeningen (wens Noah, ronde 10): tools/cad_clean.py
+  haalt bij het maken van de png de tolerantie achter een maat weg (+1/-3, ±5,
+  ±0,50), het ovaal (keurmaatkader) eromheen en radiusmaten zoals R30 met hun
+  aanwijslijn. Het werkt op de tekst en lijnen in de pdf zelf; lijnen van de
+  tekening die eronder doorlopen blijven staan. Controle per pdf:
+  python3 tools/cad_clean.py <tekening.pdf> [uit.png] (rood = gaat weg).
+  Uitzetten voor één tekening: "keep_tolerances": true in input/cad/overrides.json.
+  Onderaan pagina 2 staan de testvoorwaarden (i18n: ds_disc_h, ds_disc_1..3):
+  stellingbelasting getest met zakken van 25 kg op basis van een conventionele
+  palletstelling; maattolerantie +5/-5 mm, gewichtstolerantie +5/-5 %; test met
+  gelijkmatig verdeelde, stabiele en homogene belasting met zakgoed, vooraf
+  vastgestelde periode, 20 °C. Dezelfde tekst (ds_disc_1 + ds_disc_3) staat op de
+  productpagina onder de specificaties en in het kennisbankartikel over belasting.
+  De productielocatie in de datasheet staat met vlag (dezelfde vlaggen als de site,
+  uit templates/_sprite.svg).
+
+ALLEEN PER VOLLE STAPEL (update 12: aantal per pallet)
+  Pallets worden alleen per volle stapel verkocht. Hoeveel pallets een stapel is,
+  verschilt per pallet (bijv. 600 x 400: 200, nestbaar light: 45, medium: 16-17,
+  heavy: 15). Bron: input/stapels/palletmaten voor calculator.docx (aantal per
+  palletplaats op een tautliner = de stapel; de combi-waarde staat ernaast in de data).
+  python3 tools/stapels.py koppelt elk artikelnummer en schrijft data/stapels.json:
+  eerst het artikel zelf (het voorvoegsel 2./3. telt niet), dan de lijst "Pallets met
+  dezelfde waarde", dan een vergelijkbaar artikel (zelfde maat, klasse, onderzijde en
+  hoogte binnen 3 mm; ook de -CD-versie van een open pallet). De script-uitvoer noemt
+  welke artikelen via "vergelijkbaar" een aantal kregen: laten bevestigen.
+  Het aantal staat op de productpagina ("45 pallets per stapel" + stapelmaat), in de
+  datasheet (regel "Bestellen per stapel") en in het offerteformulier: elk artikel in de
+  keuzelijst heeft zijn eigen stapelgrootte, het aantal gaat in stappen van één stapel,
+  met "1 stapel = n pallets" en "= n stapels" eronder. Bij het verzenden gaat per regel
+  ook "stapels-n" mee (bijv. "2 x 45"). Accessoires gaan per stuk.
+  Nieuw docx-bestand: in input/stapels/ zetten, tools/stapels.py, tools/datasheets.py, bouwen.
+
+KLEUREN PER UITVOERING
+  Modellen met meerdere kleurversies (bijv. QPH1208HP3RR-CDB: blauw, grijs CDG en
+  zwart ECO) tonen de kleur per artikelnummer in de specificaties en de
+  uitvoeringentabel. De kleuren staan in SKU_COLOUR in site_config.py.
+
+NIEUW MODEL OF MODEL WEG
+  Komt automatisch uit de PIM-export: één pagina per artikelnummer (zie "Elk
+  artikelnummer een eigen pagina"). Verdwijnt een artikel, dan maakt
+  tools/redirects_qpall.py een redirect naar het model of de maatpagina; anders met
+  de hand in data/redirects-extra.txt. Nieuwe artikelen krijgen automatisch een
+  datasheet in 6 talen.
+
+NIEUWS
+  Overzicht /nieuws/ (en/news, de/aktuelles, fr/actualites, it/notizie,
+  es/noticias) staat in het hoofdmenu. De artikelen staan in site_config.py
+  (NEWS_ITEMS: URL per taal + foto) en in content/<taal>/news-*.md (datum in
+  'published', eventueel 'author'). Ze houden de URL van de oude site, dus
+  geen redirect nodig; de nieuwste staat bovenaan. Nieuw bericht: voeg een regel
+  toe aan NEWS_ITEMS en zet 6 tekstbestanden in content/. Het HDPE-artikel
+  toont sinds ronde 10 een foto van gerecycled maalgoed (photos/regrind) in
+  plaats van de illustratie uit tools/news_art.py.
+
+  Ronde 11 (oktober 2026): alle overige nieuwsberichten van qpall.com zijn
+  overgezet (47 artikelen, samen 52, in 6 talen; het Duitse ESD-artikel is nieuw
+  vertaald). Ze houden hun oude URL; de redirects voor die URL's zijn uit
+  data/redirects-extra.txt gehaald (tools/redirects_qpall.py: GROUP). De volgorde
+  op /nieuws/ is de volgorde van NEWS_ITEMS (= het oude nieuwsoverzicht, het
+  herschreven PE-HD 2-artikel bovenaan). Alleen artikelen waarvan de oude site een
+  datum toonde hebben 'published'; zonder datum toont de site geen datum (ook niet
+  in de JSON-LD). Omslagfoto's: input/brand/photo-n-<naam>.webp (16:10; foto's van
+  de oude site, of een productfoto/eigen beeld waar het oude beeld te klein was of
+  Nederlandse tekst had). Afbeeldingen in de tekst: root/assets/img/news/ (als
+  <figure class="prose-fig"> in de Markdown). Knoppen in een tekst:
+  [tekst](@contact){: .btn .btn-primary} met {: .btn-row} op de regel eronder.
+  Het overzicht toont 12 berichten in het raster; de rest komt na "Meer nieuws
+  tonen" (alle links staan wel in de HTML). De zijbalk van een artikel toont de 8
+  nieuwste berichten en "Alle nieuwsberichten".
+
+BEDANKPAGINA NA OFFERTE (update 12)
+  Het offerteformulier stuurt naar /offerte-aanvraag/bedankt/ (page 'thanks-quote',
+  templates/thanks.html, teksten in content/<taal>/thanks-quote.md). Die toont wat de
+  klant net heeft aangevraagd (producten met foto en link, pallets en stapels,
+  leverland, postcode, datum, frequentie; uit sessionStorage van hetzelfde tabblad),
+  de stappen "Wat gebeurt er nu?", de contactpersonen (TEAM) en vier handige
+  links. Zonder die gegevens (bijv. direct geopend) blijft de samenvatting weg.
+  Het contactformulier gaat naar de gewone bedankpagina (/bedankt/).
+
+METEN (GA4 via Google Tag Manager, update 12)
+  De site zet altijd deze dataLayer-gebeurtenissen klaar (geen cookies, er gaat niets
+  weg zolang er geen GTM is):
+    generate_lead  lead_type "offerte" of "contact": op de bedankpagina na het verzenden
+                   (één keer per verzending)
+    phone_click / email_click  klik op een tel:- of mailto:-link
+  PDF-downloads meet GA4 zelf (file_download); die telt niet als conversie.
+  GTM_ID in site_config.py (leeg = geen GTM). Ingevuld laadt GTM pas na toestemming voor
+  "Statistiek" in de cookiebanner, en de Content-Security-Policy staat dan
+  googletagmanager.com / google-analytics.com toe. iClicks zet in GA4 de key events op
+  generate_lead (offerte en contact), phone_click en email_click.
+
+GESTRUCTUREERDE DATA EN LLMS.TXT (update 12)
+  Organization-blok op elke pagina (zelfde @id), volgens de bestanden van iClicks:
+  teksten per taal in data/schema-organization.json, gegevens in COMPANY (KvK, btw,
+  LinkedIn, YouTube, award, AVK Group). Zes productielocaties, Chesterfield (GB)
+  inbegrepen (ORG_SITES in build.py; update 14). Contactpagina: ContactPage-blok. root/llms.txt = het
+  llms.txt-bestand van de actielijst (EcoVadis bijgewerkt naar oktober 2026).
+  Publicatiedatums: de vijf oude artikelen hebben hun oorspronkelijke datum
+  ('published', Publicatiedatums kennisartikelen Q-Pall.xlsx of de datum van het oude
+  CMS, de vroegste) en 'updated' 2026-10-19. De zeven kennisbankgidsen krijgen de
+  livegangdatum: LAUNCH_DATE in site_config.py OP DE DAG VAN LIVEGANG INVULLEN.
+
+UPDATE 13 (oktober 2026)
+  TEAM EN AUTEURS: TEAM in site_config.py = Sabine Oudshoorn en John van Boesschoten
+  (Business Development): naam, foto, functie, korte bio, knowsAbout per taal en
+  'linkedin' (sameAs, nu leeg: persoonlijke LinkedIn-URL invullen als die bekend is).
+  Foto's: vrijgestaande uitsnede, vierkant, gelijke kadering (static/img/team/,
+  originelen in input/team/). Ze staan op de homepage ("Praat met een specialist"),
+  op de bedankpagina en op de nieuwe pagina Ons team (/over-q-pall/team/, page
+  'about-team', in Over Q-Pall-menu, footer en zijbalk). AUTHORS koppelt de
+  kennisbankartikelen afwisselend aan Sabine en John; nieuws met 'author' = een
+  TEAM-naam krijgt ook de auteur. Artikel: byline met foto boven, auteursblok onder
+  de tekst; Article.author = Person met @id
+  https://www.qpall.com/over-q-pall/team/#voornaam-achternaam (zelfde @id in alle talen,
+  sjabloon iClicks), publisher blijft de organisatie. Teampagina: Person-blokken.
+  VIRGIN: hygiënische pallets (en cleanroom/H1) = virgin kunststof, alle andere
+  Q-Pall pallets = gerecycled. Overal zo verwoord (mat_hyg, FAQ's, sectoren,
+  duurzaamheid, begrippenlijst, PE-HD 2-artikel, llms.txt).
+  OFFERTEFORMULIER: stap 2 "Hoe wilt u de pallets ontvangen?": Bezorgen door Q-Pall
+  of Zelf transport regelen (ophalen). Bij ophalen verdwijnen land en postcode (ze
+  worden niet verstuurd) en heet de datum "Gewenste ophaaldatum". Netlify-veld
+  'transport'. De bedankpagina toont dan de ophaalteksten (d_self/t_self in
+  thanks-quote.md).
+  ULTRA PALLET: offerteknop = ?sku=QP1210H; het formulier heeft daarvoor de regel
+  "QP1210H – Ultra pallet" (stapel 15). De Ultra-pagina heeft een Product-blok
+  (AggregateOffer over QP1210HP3R-AO en QP1210HP6R-AO).
+  404: geen canonical, geen og:url en geen hreflang.
+  LANDENDOMEINEN: COUNTRY_DOMAINS in site_config.py; elke URL op die zes domeinen
+  gaat met één 301 naar de categoriepagina in de eigen taal (bovenaan _redirects).
+  Voeg de domeinen (met en zonder www) in Netlify toe als domain alias.
+
+UPDATE 14 (oktober 2026)
+  QP76114LB9RR EN QP76114LB9RR-CD van de site gehaald (Noah, 27-10-2026: staan niet
+  op qpall.com, geen matrijsnummer, dubbel met QP76114LB3RR(-CD)). Ze blijven in het
+  PIM staan; tools/products.py slaat ze over via EXCLUDE (pas na de foto-terugval,
+  zodat hun foto's voor andere modellen beschikbaar blijven). Hun 12 productpagina's
+  en 12 datasheets gaan met een 301 naar QP76114LB3RR(-CD) (bovenaan REDIRECTS in
+  site_config.py). De sector Chemie raadt nu QP76114LB3RR aan.
+  ZES FABRIEKEN: ORG_SITES (build.py), data/schema-organization.json (locaties en
+  omschrijving per taal) en root/llms.txt noemen nu ook Chesterfield (GB). De
+  nieuwsberichten over lokaal produceren zeggen nu zes landen. Het persbericht over
+  de grote order (news-mega-order) noemt bewust nog vijf locaties: historisch bericht.
+
+UPDATE 15 (oktober 2026)
+  QPW1210HP5RR-CDG van de site (Noah): EXCLUDE_VARIANTS in tools/products.py (de rij gaat
+  eruit vóór het groeperen; QPW1210HP5RR-CD blijft). Pagina's en datasheets: 301 naar
+  QPW1210HP5RR-CD (bovenaan REDIRECTS).
+  HYGIENISCH: de H1-europallet krijgt het type hygiënisch (tools/products.py). Alles op de
+  typepagina hygiënisch telt als hygiënisch en dus virgin kunststof (is_hyg in build.py),
+  ook QPH1210HP3RR (in het PIM "industriepallet").
+  TEKENINGEN: input/cad-zij/<artikel-id>.png = alleen zij- en kopaanzicht (geen
+  bovenaanzicht), voor de 13 hygiënische en cleanroompallets. tools/datasheets.py gebruikt
+  ze als er geen volledige tekening in input/cad/ staat; onderschrift ds_cad_sides.
+  De leverancier wordt nergens op de site genoemd.
+  FOTO'S: nieuwe of aangevulde fotosets (input/drive-photos, daarna tools/drive_photos.py)
+  uit de PIM-export (assets_afbeelding_27102026_1121.xlsx), de foto's van qpall.com en de
+  fotobibliotheek (originelen in hoge resolutie waar die hetzelfde beeld zijn). Regel van
+  Noah: een foto die in het PIM of op qpall.com aan een artikelnummer hangt, klopt voor dat
+  artikel. Een bestand met "onder" in de naam is de onderkant (ook op de datasheet).
+  N.QP1210LB3RR-CD deelt de foto's van 2.QP1210LB3RR-CD ('for' in input/photos.json).
+  LAADCALCULATOR: 0,1 m marge in de lengte (was al zo) én nu ook in de hoogte (MARGIN_H in
+  static/calc/engine.js), niet in de breedte (anders passen er geen 3 europallets naast
+  elkaar). Vrachtwagens veranderen niet (de vaste stapelhoogtes passen binnen de marge);
+  containers wel: data/calc-defaults.json opnieuw berekend (tools/calc_defaults.py).
+  Volle stapels displaypallets (2,20 m) passen daardoor niet meer in een 20 ft container.
+  Teksten: calc_ui.note, calc_note, calc_tbl.note en calc.md (6 talen).
+
+UPDATE 16 (oktober 2026)
+  TEKENINGEN: nieuwe tekeningen uit de Drive-map met alle tekeningen (map.json + tools/cad_views.py):
+  N.QP1210LB9FR(-CD) (matrijs 15, hoekribben 10 mm), QP1111MB3R-SSB (QP1111MR 3R-S),
+  QP1140MB3R-PAS en QP1140MB6R-PAS (matrijs 19, "pas"). QP1140MB6RR = kopie van 2.QP1140MB6RR
+  (zelfde pallet, zelfde hoogte).
+  KLIKRUNNER-PALLETS (light met onderlatten, LB3RR): de tekening is die van de bijbehorende
+  9-pootjespallet (zelfde voorvoegsel en dek) met de klikbare onderlat eronder, op dezelfde
+  schaal. Onderlat: QPRUN1200L low (1200 x 800 / 1200 x 1000) of Skid QP1111L / QP1140L /
+  QP1212L. Maken: tools/cad_runner_views.py (uitsnede onderlat -> input/cad/runner-views/),
+  tools/cad_runner_compose.py (samenvoegen; lijst onderaan het script, input/cad/runner.json
+  geeft het onderschrift ds_cad_runner).
+  DATASHEET: pallets die niet in een stelling mogen (rackable = false) hebben bij
+  "Testvoorwaarden en toleranties" geen blok over de stellingbelasting; de twee andere blokken
+  vullen de rij (templates/datasheet.html, ul.two).
+
+UPDATE 17 (oktober 2026)
+  FOTO'S: tien foto's van 600 x 300 px vervangen door hetzelfde beeld in hoge resolutie uit
+  de fotobibliotheek (input/drive-photos/BRON.txt, blok "update 17"): 2.QP1208LB9FR(-CD),
+  4.QP1210HB3RR, 4.QP1210HB5RR, QP1311HB5R (bovenkant) en de onderkant van QP1208MB3RR.
+  Alleen waar het aantoonbaar dezelfde foto is; 3.QP1208MB3RR-CD niet (andere opname).
+  SEO-TEKSTEN: in input/producten-6-talen.xlsx stonden bij 25 artikelen verouderde getallen
+  (stellingbelasting 700/750 kg waar het PIM 750/650 kg zegt, gewicht 16,5 kg waar het
+  PIM 17,5 of 16,7 kg zegt), in alle zes talen gelijk rechtgezet (150 cellen). Controle na
+  elke PIM-wijziging: python3 tools/seo_check.py (moet "0 artikel(en)" melden).
+  TEKSTEN: typefouten uit een spellingscontrole over de gebouwde site (6 talen) hersteld,
+  o.a. Hygienepalette (DE), contattarci en perché (IT), Contáctenos (ES), rollenbanen en
+  levenscyclus (NL), recycelbar (DE).
+
+HOMEPAGE
+  Bij "Praat met een specialist" (duurzaamheidsblok) staan de twee
+  contactpersonen uit TEAM in site_config.py (zie TEAM EN AUTEURS). "Onderdeel van de AVK Group" linkt
+  naar COMPANY['group_url'] (filter grouplink in build.py); /over-q-pall/ heeft een
+  zin met dezelfde link. Titel en meta description van homepage en
+  categoriepagina komen uit de SEO-actielijst; [[from_price]] in titel of
+  description wordt bij het bouwen de laagste vanafprijs (data/prijzen.csv).
+  tools/check.py staat voor die zes categoriepagina's descriptions tot 160 tekens toe.
+  De productkaart in de hero toont geen prijs meer, alleen de belastingen en
+  "Bekijk pallet" (oktober 2026).
+  Teksten in content/<taal>/home.md. Volgorde: hero met palletzoeker en
+  kerncijfers, intro, "Zes fabrieken. Altijd één dichtbij." (fabriekskaart),
+  assortiment, antislip-promo, draagklassen, #yourbestpal, sectoren,
+  duurzaamheid, PPWR, kennisbank, over Q-Pall, veelgestelde vragen.
+  Hero: vrijstaande pallet per draagklasse (input/hero/); de Q en het
+  kleurverloop volgen de gekozen klasse (light groen, medium blauw, heavy paars).
+  Draagklassen: elke klasse een eigen kleur (rand, verloop, knop).
+  Fabriekskaart: klik op een fabriek (op de kaart of in de lijst) en de
+  600 km-straal licht op (static/js/site.js).
+  Snelheid (PageSpeed): de Q-achtergronden en de hero-pallets zijn AVIF met
+  WebP als reserve (tools/q_backgrounds.py, build_assets.build_hero). Alleen de
+  medium-Q en -pallet laden direct; light en heavy (en de catalogusplaatjes in
+  het menu) hebben data-defer en komen na het laden van de pagina binnen
+  (site.js), of meteen bij de eerste muis-/tikbeweging. De lettertypen 300,
+  400, 600 en 700 worden vooraf geladen (geen verspringende tekst).
+  Sectoren: alle tegels op de homepage en het megamenu Sectoren tonen een foto
+  (NAV_SECTOR_IMG in build.py; chemie, voeding en farma: photos/sector-<key>).
+  De foto met de oranje palletstapels in een magazijn (photo-stacks) is op
+  verzoek van Noah overal verwijderd (oktober 2026) en mag niet terugkomen.
+
+PRODUCTFOTO VERGROTEN
+  Op de productpagina opent een klik op de foto (of op het vergrootglas
+  rechtsboven) de foto schermvullend: pijltjes of vegen voor de volgende foto,
+  Esc of het kruisje om te sluiten; op een computer toont nog een klik de foto
+  op ware grootte. Code: templates/product.html (#lightbox), static/js/site.js.
+
+LANGE WOORDEN
+  Op telefoons breken koppen en smalle labels automatisch af met een
+  afbreekstreepje. Voor een paar lange samenstellingen in smalle vakken
+  (Stellingbelasting, Voedingsmiddelenindustrie, Konformitätserklärung ...)
+  staat het afbreekpunt vast in build.py (SHY, filter |shy in de templates).
+
+ARTIKELNUMMERS
+  Productkaarten, productpagina's en de hero tonen het artikelnummer; de kaart
+  toont ook de productielocatie met vlag. In het offerteformulier kiest of typt de klant een
+  artikelnummer (alle uitvoeringen en accessoires); ?sku=<artikelnummer> in
+  de link vult het formulier vooraf in.
+
+TRANSPORT AANMELDEN (SIMPLYBOOK)
+  De 12 locaties staan in site_config.py (TRANSPORT_SITES): naam, land,
+  SimplyBook-locatie- en categorie-ID, adres, laad- en lostijden en een
+  eventuele feestdagenregel. Per locatie toont de pagina adres + routelink,
+  laad- en lostijden en feestdagen. ?locatie=<id> of #<id> kiest de locatie
+  (gebruikt door de redirects van de oude transportpagina's).
+  De agenda laadt pas na toestemming voor externe diensten (cookiebanner) en
+  draait in een eigen frame (static/sb/frame.html + static/js/sb-frame.js)
+  met de officiële SimplyBook-widgetcode in Q-Pall-kleuren. De locaties staan
+  boven de agenda, zodat de agenda de volle breedte heeft.
+  SimplyBook toont boven de stappen een Google Translate-taalkeuze en een
+  winkelwagen (functies die in het SimplyBook-account aan staan). De site
+  verbergt die strook door de agenda SB_CROP pixels omhoog te schuiven
+  (site_config.py, nu 160). Zet je in SimplyBook bij "Custom features" de
+  functies Google Translate en Multiple bookings uit, zet SB_CROP dan op 0.
+
+KENNISBANK
+  Ronde 11: blok 11 op /kennisbank/ is het PE-HD 2-nieuwsartikel (KB_ITEMS) en de
+  zijbalk van de kennisbankartikelen toont onderaan het PE-HD 2-artikel en de
+  begrippenlijst (KB_SIDE_EXTRA, label i18n kb_side_glossary).
+  Volgorde en onderwerp van de artikelen staan in site_config.py (KB_ITEMS,
+  onderwerpen KB_CATS: kopen, techniek, export, regelgeving, duurzaamheid).
+  Het eerste artikel is het uitgelichte (blauwe) blok. Onder elk artikel staan
+  4 passende pallets: ARTICLE_RECOMMEND in site_config.py.
+  Onderaan elke productpagina staat een carrousel met 10 vergelijkbare pallets
+  (zelfde maat eerst, dan draagklasse, type, dek en onderzijde; zie
+  similar_models in build.py; uitvoeringen van hetzelfde model staan in het blok
+  "Vergelijkbare uitvoeringen"). Het artikel over belasting (about-load) heeft
+  drie illustraties (statisch, dynamisch, stelling): [[loadill:static]] enz. in de
+  tekst, getekend in templates/_load_ill.html met teksten uit i18n (load_ill).
+  De stellingillustratie (ronde 10) is een conventionele palletstelling schuin van
+  voren: twee pallets waarvan de drie onderlatten dwars over de voorste en achterste
+  ligger liggen, zonder doorbuigen. Die tekening wordt berekend door
+  python3 tools/rack_ill.py (3D-blokken -> SVG tussen RACK-START/RACK-END).
+  De inhoudsopgave
+  ("Op deze pagina") wordt automatisch gemaakt uit de ##-koppen.
+
+ICONEN, VLAGGEN EN KAART
+  Alle iconen zijn Google Material Symbols (Outlined, gewicht 400, 24px: de
+  standaardinstelling op fonts.google.com/icons), als SVG. De vormen staan in
+  data/material-icons.json; tools/icons.py maakt daar templates/_sprite.svg
+  van, samen met de ronde vlaggen. Alleen nodig als je iconen of vlaggen
+  toevoegt:  python3 tools/icons.py
+  De lichte Europakaart met fabrieken en 600 km leverstraal (homepage) komt uit
+  tools/map_light.py (bron: input/land-50m.json) en staat in
+  data/europe-map-light.svg. Opnieuw maken na een wijziging van fabrieken:
+    python3 tools/map_light.py
+
+BEVEILIGING (CSP)
+  De Content-Security-Policy staat als meta-tag bovenin templates/base.html.
+  Alleen het SimplyBook-frame (static/sb/frame.html) heeft een eigen, ruimere
+  policy, zodat de agenda-widget altijd kan laden. Voeg je een externe dienst
+  toe (bijv. analytics), breid dan de meta-tag in base.html uit.
+
+ZOEKMACHINES (NOINDEX)
+  Zolang NOINDEX_ALL = True in site_config.py staat, krijgt elke pagina
+  <meta name="robots" content="noindex, nofollow"> en stuurt Netlify voor elk
+  bestand (ook pdf's) "X-Robots-Tag: noindex, nofollow" mee. Er komt dan niets
+  in Google, ook geen prijzen. Bij livegang: NOINDEX_ALL = False en opnieuw
+  bouwen. tools/check.py controleert titels, descriptions en canonicals ook
+  zolang de noindex aan staat.
+  De technische datasheets en andere downloads (/downloads/*) houden ook na de
+  livegang "X-Robots-Tag: noindex" (netlify.toml), zodat Google de productpagina
+  toont en niet de pdf. robots.txt sluit alleen /pagefind/ uit; de bedankpagina's
+  hebben zelf een noindex.
+
+BELANGRIJKE TOOLS NA DEZE RONDE (oktober 2026)
+  python3 tools/cad_views.py       tekeningen (boven + 2 zijaanzichten) voor de datasheets
+  python3 tools/cad_fontfix.py     tekening-pdf zonder ingesloten lettertype leesbaar maken
+  python3 tools/cad_clean.py       controle: welke toleranties/radiusmaten weggaan (rood)
+  python3 tools/badges.py          footerlogo's (gerecycled, EcoVadis) naar webp
+  python3 tools/rack_ill.py        stellingillustratie kennisbank (3D-aanzicht)
+  python3 tools/datasheets.py      alle datasheets (822 pdf's, ca. 8 minuten)
+  python3 tools/news_art.py        illustratie HDPE-artikel (+ OG-bron)
+  python3 tools/hero_cutouts.py    vrijstaande heropallets (rembg nodig)
+  python3 tools/calc_defaults.py   standaardladingen laadcalculator
+  python3 tools/map_light.py       interactieve fabriekskaart
+  python3 tools/terms_pdf.py       pdf algemene voorwaarden
+  python3 tools/redirects_qpall.py redirects oude site (sitemap)
+  python3 tools/redirects_gsc.py   redirects oudere URL's uit Search Console,
+                                   daarna bouwen en
+  python3 tools/redirects_check.py <site-map>
+  python3 tools/og.py              deelafbeeldingen voor alle pagina's
+
+UPDATE 18 (oktober 2026)
+  TEKENINGEN 760 x 1140 (CP5): tekeningen van de producent in Nantes (open en gesloten dek, CATIA-pdf)
+  in map.json als cp5-1140x760-open / cp5-1140x760-closed; vakken en weggehaalde stukken
+  (merknaam en webadressen op de zijkant, sectiepijl A, stukje isometrie) in overrides.json.
+  De producent wordt nergens genoemd. QP76114LB3RR(-CD) = 9-pootjespallet + onderlat:
+  tools/cad_runner_cp5.py maakt runner-views/runner_cp5.png uit de onderlat-pdf (alleen een
+  ingesloten afbeelding: uitsnijden, merknaam/logo/bestelnummer weg, 3x vergroot); in
+  tools/cad_runner_compose.py staat de onderlat midden onder de pallet (1163 mm, pallet 1140)
+  en wordt de pallet gemeten op de maatlijn 1140 (PBAND).
+  Open vraag A16: statisch 2.000 (producent) of 2.500 kg (PIM), gewichten met onderlatten,
+  hoogte LB3RR 158 vs LB3RR-CD 150, breedte 764 op de tekening.
+
+UPDATE 19 (oktober 2026)
+  VAN DE SITE: N.QP1210LB9FR, N.QP1210LB3RR en N.QP1210LB9FR-CD (Noah): EXCLUDE_VARIANTS in
+  tools/products.py, 301 naar 2.QP1210LB9FR / 2.QP1210LB3RR / 2.QP1210LB9FR-CD (pagina's en datasheets,
+  bovenaan REDIRECTS); in data/redirects-extra.txt de oude-site-doelen meteen naar die pallets gezet
+  (bij opnieuw draaien van tools/redirects_qpall.py: controleer dat het zo blijft). input/cad/
+  n-qp1210lb9fr-cd.png blijft: het is de basis van de tekening van N.QP1210LB3RR-CD (qp1210lb3rr-cd).
+  tools/cad_views.py slaat artikelen over die niet meer op de site staan.
+  DATASHEETFOTO'S: altijd twee foto's van hetzelfde artikel: de onderkant als die er is (labels
+  Bovenkant/Onderkant), anders de tweede foto zonder labels (QPH1208HR3R-ECOR, QPH1208HP3RR-CDGR).
+  Nieuw: foto's QP1140MB6RR en QP1208LB9FR (Noah), onderkant QPH1208HR3RR-ECO.
+  TEKENINGEN: QP1212MB3RR/MB6RR (AVK-tekening QP1212MR, overrides.json: vakken, notities "Average
+  wallthickness" en revisieletter weg). EUROPAL800RR en RECYPAL1210RR: maatschets van de producent
+  (foto met maten) in input/cad/<id>.png, lijst input/cad/sketch.json, onderschrift ds_cad_sketch, als
+  JPEG in de datasheet (geen navy-palet). De naam van de producent staat niet in de uitsnede.
+  Alle 131 artikelen hebben nu een tekening.
+  VACATURE: eigen pagina job-inside-sales (content/<taal>/job-inside-sales.md) onder /vacatures/, met
+  JobPosting (front matter 'job'; vervuld: 'closed: true' of pagina weghalen met 301). Foto's uit de
+  fotoshoot (input/brand/photo-office-*.webp); PAGE_DUO kan per pagina alt/onderschrift kiezen.
+  FOTOSHOOT: 'team' (vacatures), 'office-open' (vacature), 'custom-logo' (maatwerk), 'recycled-input' en
+  'pallet-detail' (duurzaamheid, PAGE_DUO_AT 'h2:2' = voor de tweede kop). Overige shootfoto's staan niet
+  in het pakket (zip van Noah, 28-10-2026).
+  HOMEPAGE: blok "Cases" (home.md 'cases', 6 talen): kaart per klant, link naar het nieuwsbericht.
+  Duurzaamheid: EcoVadis-badge naast de EcoVadis-alinea (static/img/brand/badge-ecovadis-bronze-2026-320.webp).
+  KLEIN: geen glow meer bij hover op de draagklassen, geen iconen in "Handig in de tussentijd" op de
+  bedankpagina, offerteformulier: postcode en plaats als twee velden (Netlify: 'postcode', 'plaats').
+  TRACKING (productie): GTM_ID = GTM-MNRQ33 in site_config.py. De GTM-snippet staat bovenaan <head> (en
+  noscript na <body>) maar start alleen op PROD_HOSTS (www.qpall.com, qpall.com), niet op de testsite.
+  De container (iClicks) bevat Cookiebot, GA4 via sst.qpall.com, Google Ads, LinkedIn Insight, Leadinfo en
+  HubSpot. Op productie vraagt Cookiebot om toestemming; de eigen cookiemelding blijft verborgen en volgt
+  Cookiebot (voorkeuren = externe diensten, marketing = HubSpot). Komt Cookiebot niet binnen 5 s, dan
+  verschijnt de eigen melding en stuurt die een Consent Mode-update. Footerknop Cookie-instellingen opent
+  Cookiebot. HubSpot (HUBSPOT_ID 25981072, eu1) laadt site.js na toestemming voor marketing, alleen als
+  de GTM-tag hem nog niet heeft geladen. Met GTM is de CSP ruimer (https: en inline scripts, nodig voor
+  GTM-tags). Cookie- en privacyverklaring beschrijven dit (6 talen; juridisch laten nalezen).
+  FORMULIEREN NAAR HUBSPOT: HUBSPOT_FORMS = {'offerte': '<form-GUID>', 'contact': '<form-GUID>'} in
+  site_config.py. Dan stuurt site.js elke aanvraag ook naar de HubSpot Forms API v3 (api-eu1.hsforms.com),
+  naast Netlify. Het HubSpot-formulier (legacy-type) moet precies deze velden hebben: firstname, lastname,
+  email, company, phone, message; offerte ook country, zip, city. Producten, aantallen, transport, datum,
+  frequentie en taal komen samen in 'message'. Daarna bouwen en een testaanvraag sturen.
+
+UPDATE 20 (oktober 2026)
+  MENU: "Over Q-Pall" toont nu Ons team in plaats van de laadcalculator; de laadcalculator staat in de
+  bovenbalk (naast Transport aanmelden).
+  VACATURES: eigen opmaak. templates/careers.html (/vacatures/) en templates/job.html (vacaturepagina),
+  bouwstenen in templates/_careers.html. Teksten in de front matter van content/<taal>/careers.md en
+  job-inside-sales.md (hero, tasks, profile, offer, why, process, apply, faq); interfaceteksten in
+  i18n 'apply'. Foto's: JOB_HERO, JOB_PHOTOS, CAREERS_HERO, CAREERS_GALLERY in build.py (fotoshoot:
+  input/brand/photo-careers-*.webp). Kerncijfers komen uit de homepage (home.md 'stats').
+  SOLLICITEREN: Netlify-formulier 'sollicitatie' (multipart, cv pdf/Word max. CV_MAX_MB = 5 MB; Netlify
+  max. 8 MB per inzending), velden voornaam, achternaam, email, telefoon, woonplaats, linkedin, cv,
+  motivatie, vacature, taal. Bedankpagina 'thanks-apply' (/vacatures/bedankt/, noindex) met dataLayer-event
+  job_application. MELDING NAAR SABINE INSTELLEN IN NETLIFY (Form submission notifications, formulier
+  'sollicitatie' -> oudshoorn@qpall.com). Contactpersoon: CAREERS_CONTACT / CAREERS_EMAIL in build.py.
+  JobPosting: directApply true (front matter job.direct_apply), beschrijving uit de gestructureerde tekst;
+  vul job.valid_through in zodra de einddatum bekend is. Nieuwe vacature: kopie van job-inside-sales.md
+  + page(..., tpl='job', parent='careers') in site_config.py; hij verschijnt vanzelf op /vacatures/.
+  TRANSPORT: frame.html haalt widget.js en sb-frame.js tegelijk op (preload) en maakt vooraf verbinding
+  met SimplyBook; de pagina toont een laadstatus tot de agenda geladen is (bericht qpSbReady). Locatie-
+  uitleg: laadopties (bv. container laden) verschillen per locatie; Veghel heeft geen containeroptie,
+  Balk wel (instelling in SimplyBook).
+  TOEGANKELIJKHEID: --muted iets donkerder (#6B6A82, contrast 4,7:1 op lichtgrijs); taalknop heeft een
+  toegankelijke naam met de zichtbare taal erin.
+
+UPDATE 21 (oktober 2026)
+  DOMEIN: primair domein is qpall.com zonder www (besluit Noah). DOMAIN in site_config.py en tools/check.py,
+  canonicals, hreflang, sitemap, robots.txt, JSON-LD en llms.txt gebruiken qpall.com; netlify.toml stuurt
+  www.qpall.com/* met een 301 naar qpall.com. In Netlify: qpall.com primair, www.qpall.com als alias.
+  VACATURE: kerngegevens (locatie, uren, niveau, talen) als specificatielijst zoals op de productpagina
+  (kspecs) in plaats van pillen; front matter hero.facts heeft nu ook 'label'. Contactbadge op de foto
+  weg. "Starter of ervaren"-vak met oranje rand rondom. /vacatures/: blok met kerncijfers weg.
+
+UPDATE 22 (28 oktober 2026, audit voor livegang)
+  BUG FILTERS: de filters, sortering, filterchips en "Meer laden" op alle productoverzichten deden niets
+  meer. Oorzaak: static/js/site.js had twee keer 'var apply' in dezelfde functie (lijstfilter en
+  cookietoestemming van update 21); de tweede overschreef de eerste. De cookiefunctie heet nu
+  applyConsent. Ook een dubbele 'var esc' op de bedankpagina weggehaald. Controle op dubbele
+  var-namen: node met acorn (zie audit), resultaat nu 0.
+  PRODUCTEN: QP4048MB6RR-CD van de site (EXCLUDE_VARIANTS in tools/products.py), pagina's (6 talen) en
+  datasheets met een 301 naar QP4048MB3RR-CD (REDIRECTS bovenaan site_config.py). 130 artikelen.
+  FOTO'S ONDERKANT (input/drive-photos/<id>/2-onderkant.*, daarna tools/drive_photos.py <id>):
+  QP1212LB3RR <- onderkant van QP1111LB3RR; 4.QP1210MB3RR, 4.QP1210MB3RR-CD <- 3.QP1210MB3RR;
+  4.QP1210MB5RR, 4.QP1210MB5RR-CD <- 3.QP1210MB5RR; 4.QP1210MB3R-CD-AO <- 3.QP1210MB3RR;
+  4.QP1210MB5R-CD-AO <- 3.QP1210MB5RR. Nog zonder 2e foto: 3.QP1140MB6R-PAS, QP1140MB6R-PAS,
+  QP1140MB6R-PAS-CP9, 2.QP1208MB3RR-CD, QPH1210HR5RR-CD (Noah komt hierop terug).
+  BOVENBALK: Internationale dealers, Transport aanmelden, Laadcalculator en Vacatures staan vet
+  (aria-current) op hun eigen pagina; Vacatures ook op de vacature- en bedankpagina.
+  AANTAL MODELLEN: op de site stonden twee getallen ("ruim 90" en "ruim 130"). Overal gelijkgetrokken
+  naar "zo'n 130" (nl), "around 130" (en), "rund 130" (de), "environ 130" (fr), "circa 130" (it),
+  "unos 130" (es): home, over-q-pall, maatwerk, begrippenlijst, meta van /kunststof-pallets/,
+  data/schema-organization.json en root/llms.txt. (130 artikelen = 89 unieke ontwerpen.)
+  KOPPEN: de koppen in de zijbalk (Op deze pagina, Nieuws, Kennisbank, Offerte aanvragen, menu's)
+  zijn h2 in plaats van h3 (geen sprong h1 -> h3 meer); in 13 nieuwsberichten zonder h2 zijn de
+  h3-koppen h2 geworden. news-logistics-update: de handmatige inhoudsopgave met dubbele bolletjes
+  weg (de zijbalk heeft er al een); EN: lege kop "Executive summary" vervangen door een "In short"-blok.
+  KRUIMELPAD: Belasting van pallets en de Begrippenlijst hangen nu onder Kennisbank (parent
+  'knowledge'), zoals het menu en de zijbalk al deden. De URL's blijven gelijk.
+  ZOEKEN: elk product toont het artikelnummer in de zoekresultaten (de vijf uitvoeringen van
+  bijv. QP1208MB3RR zijn nu te onderscheiden). De Engelse voorwaardentekst en de auteursfoto's
+  tellen niet meer mee in de zoekindex (data-pagefind-ignore).
+  DEALERS: onder de dealerkaart een link "Open de dealerkaart in een nieuw venster" (i18n
+  'dealer_open_new', 6 talen), zodat de kaart ook zonder cookietoestemming bereikbaar is.
+  MOBIEL: tabel "Standaardladingen" op de laadcalculator viel rechts weg (min-width 520 px van
+  .table-scroll table won); specialistenkaart op de homepage krijgt onder 1180 px de tekst op een eigen
+  rij (lange Duitse woorden); kerncijfer "4 millions" past op 360 px.
+  TECHNIEK: GTM-noscript-iframe heeft een title; Permissions-Policy zonder het verouderde
+  'interest-cohort' (gaf een consolemelding in Chrome).
+  DATASHEETS: tools/datasheets.py ruimt oude pdf's niet op. build.py laat nu datasheets weg van artikelen
+  die niet meer op de site staan (anders wint het oude bestand van de 301). Verwijder ze bij gelegenheid ook
+  uit data/datasheets (o.a. q-pall-qp4048mb6rr-cd-*.pdf).

@@ -1,0 +1,18 @@
+# Python 3.10+  ·  installeren: pip install -r requirements.txt
+Jinja2>=3.1
+MarkupSafe>=2.1
+Markdown>=3.5
+PyYAML>=6.0
+Pillow>=10.0
+numpy>=1.26
+openpyxl>=3.1
+# alleen nodig voor tools/europe_map.py (kaart opnieuw genereren)
+shapely>=2.0
+# datasheets (tools/datasheets.py), OG-afbeeldingen (tools/og.py) en screenshots:
+# pip install playwright && python -m playwright install chromium
+playwright>=1.40
+# alleen nodig voor tools/news_art.py (illustratie HDPE-artikel: Poppins-letters als paden)
+fonttools>=4.40
+brotli>=1.1
+# alleen nodig voor tools/hero_cutouts.py (vrijstaande heropallets opnieuw maken):
+# pip install "rembg[cpu]" opencv-python-headless

@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' https://*.simplybook.it; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.simplybook.it; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: https:; font-src 'self' data: https:; connect-src 'self' https://*.simplybook.it; frame-src https://*.simplybook.it; base-uri 'self'; object-src 'none'">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Q-Pall · transport</title>
+<style>html,body{margin:0;padding:0;background:#F8F8FA;font-family:Poppins,system-ui,sans-serif;overflow:hidden}body{display:flow-root}iframe{display:block;width:100%!important;border:0;margin-top:calc(var(--qp-crop,0px) * -1)!important}</style>
+<!-- update 20: connect to SimplyBook and fetch both scripts at once (they still run in order: the widget writes its iframe with document.write) -->
+<link rel="preconnect" href="https://avkplasticsbv.simplybook.it">
+<link rel="preload" href="https://widget.simplybook.it/v2/widget/widget.js" as="script">
+<link rel="preload" href="/assets/js/sb-frame.js" as="script">
+</head>
+<body>
+<script src="https://widget.simplybook.it/v2/widget/widget.js"></script>
+<script src="/assets/js/sb-frame.js"></script>
+</body>
+</html>

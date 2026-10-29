@@ -1,0 +1,268 @@
+{% macro icon(name, cls='') -%}
+<svg class="ico {{ cls }}" aria-hidden="true" focusable="false"><use href="#i-{{ name }}"/></svg>
+{%- endmacro %}
+
+{% macro flag(code) -%}
+<svg class="flag" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><use href="#f-{{ code }}"/></svg>
+{%- endmacro %}
+
+{% macro jsonld(obj) -%}
+<script type="application/ld+json">{{ obj|tojson }}</script>
+{%- endmacro %}
+
+{% macro crumbs(items, light=False) -%}
+<nav aria-label="{{ t.aria_crumbs }}" class="crumbs-nav" data-pagefind-ignore><ol class="crumbs{% if light %} crumbs-light{% endif %}">
+{%- for c in items %}<li>{% if loop.last %}<span aria-current="page">{{ c.label }}</span>{% else %}<a href="{{ c.url }}">{{ c.label }}</a>{% endif %}</li>{% endfor -%}
+</ol></nav>
+{%- endmacro %}
+
+{% macro sec_head(eyebrow, title, lead=None, id=None, link=None, link_label=None, light=False, center=False) -%}
+<div class="sec-head{% if center %} sec-head-c{% endif %}">
+  <div>
+    {% if eyebrow %}<p class="eyebrow{% if light %} eyebrow-light{% endif %}">{{ eyebrow }}</p>{% endif %}
+    <h2{% if id %} id="{{ id }}"{% endif %}>{{ title|bold }}</h2>
+  </div>
+  {% if lead or link %}<div class="sec-head-r">{% if lead %}<p class="lead">{{ lead }}</p>{% endif %}{% if link %}<a class="link-arrow" href="{{ link }}">{{ link_label }}{{ icon('arrow') }}</a>{% endif %}</div>{% endif %}
+</div>
+{%- endmacro %}
+
+{# Q background: AVIF (≈ 10-50 KB) with a WebP fallback. defer=True leaves out src/srcset (data-* instead):
+   site.js loads it after the page has loaded, so it never competes with the visible content. #}
+{% macro qbg(color, cls='', sizes='(min-width:1100px) 1100px, 120vw', eager=False, defer=False) -%}
+{%- set q = '/assets/img/q/q-' ~ color -%}
+{%- set a = 'data-srcset' if defer else 'srcset' -%}
+<picture class="qbg-pic"><source type="image/avif" {{ a }}="{{ q }}-600.avif 600w, {{ q }}-900.avif 900w, {{ q }}-1200.avif 1200w, {{ q }}-1800.avif 1800w" sizes="{{ sizes }}" width="1800" height="1584"><img class="qbg {{ cls }}" {{ 'data-src' if defer else 'src' }}="{{ q }}-900.webp" {{ a }}="{{ q }}-900.webp 900w, {{ q }}-1200.webp 1200w, {{ q }}-1800.webp 1800w" sizes="{{ sizes }}" alt="{{ t.q_alt }}" aria-hidden="true" width="1800" height="1584"{% if not eager and not defer %} loading="lazy"{% endif %}{% if defer %} data-defer{% endif %} decoding="async"></picture>
+{%- endmacro %}
+
+{% macro class_mark(c) -%}
+<span class="cmark cmark-{{ c.key }}" aria-hidden="true"><span class="cmark-name">{{ c.name }}</span><span class="cmark-bars">{% for i in range(3) %}<i{% if i < c.level %} class="on"{% endif %}></i>{% endfor %}</span></span>
+{%- endmacro %}
+
+{% macro booklet(catalog, cls='', kind='catalogus', defer=False) -%}
+{%- set b = '/assets/img/booklets/' ~ kind -%}
+<img class="booklet {{ cls }}" {{ 'data-src' if defer else 'src' }}="{{ b }}-240.webp" {{ 'data-srcset' if defer else 'srcset' }}="{{ b }}-120.webp 120w, {{ b }}-240.webp 240w, {{ b }}-480.webp 480w" sizes="120px" alt="{{ t.booklet_alt[kind] if kind in t.booklet_alt else t.booklet_alt.catalogus }}" width="240" height="249"{% if defer %} data-defer{% else %} loading="lazy"{% endif %} decoding="async">
+{%- endmacro %}
+
+{% macro serie(c, t, cta) -%}
+<article class="serie c-{{ c.key }}">
+  <div class="serie-head">
+    <span class="badge badge-{{ c.key }}">{{ c.name }}</span>
+  </div>
+  <h3 class="serie-name">{{ c.title }}</h3>
+  <p>{{ c.text }}</p>
+  <dl class="serie-stats">
+    <div><dt>{{ t.static_l }}</dt><dd>{{ t.upto }} {{ c.static }} kg</dd></div>
+    <div><dt>{{ t.dynamic_l }}</dt><dd>{{ t.upto }} {{ c.dynamic }} kg</dd></div>
+    <div><dt>{{ t.racking_l }}</dt><dd>{{ (t.upto ~ ' ' ~ c.racking ~ ' kg') if c.racking else '–' }}</dd></div>
+  </dl>
+  <p class="serie-foot"><span>{{ c.count_txt }}</span><b>{{ (t.from ~ ' ' ~ c.price_txt) if c.price_txt else t.on_request }}</b></p>
+  <a class="btn btn-sm serie-btn" href="{{ c.url }}">{{ cta }} {{ c.name }}{{ icon('arrow') }}</a>
+</article>
+{%- endmacro %}
+
+{% macro kcard(g, n, t, feat=False) -%}
+<a class="kc{% if feat %} kc-feat{% endif %}" href="{{ g.url }}" data-cat="{{ g.cat }}"><span class="kc-n">{{ '%02d' % n }}</span> <span class="kc-tag">{{ g.cat_label }}</span> <b class="kc-t">{{ g.title }}</b> <span class="kc-p">{{ g.lead }}</span> <span class="kc-f"><span>{% if g.reading %}{{ g.reading }} {{ t.min_read }}{% endif %}</span> <em>{{ t.read_more }}{{ icon('arrow') }}</em></span></a>
+{%- endmacro %}
+
+{% macro ncard(n, t) -%}
+<a class="ncard" href="{{ n.url }}">
+  <span class="ncard-img{% if n.img.endswith('.svg') %} is-svg{% endif %}"><img src="{{ n.img }}"{% if n.srcset %} srcset="{{ n.srcset }}" sizes="(min-width:1100px) 380px, (min-width:700px) 45vw, 92vw"{% endif %} alt="{{ n.img_alt }}" width="640" height="400" loading="lazy" decoding="async"></span>
+  <span class="ncard-body">
+    <span class="ncard-meta"><span class="ncard-tag">{{ n.tag }}</span>{% if n.date %}<time datetime="{{ n.date }}">{{ n.date_txt }}</time>{% endif %}</span>
+    <b class="ncard-t">{{ n.title }}</b>
+    <span class="ncard-p">{{ n.lead }}</span>
+    <em class="ncard-more">{{ t.read_more }}{{ icon('arrow') }}</em>
+  </span>
+</a>
+{%- endmacro %}
+
+{% macro cat_band(catalog, title, text, cta) -%}
+<a class="cat-band" href="{{ catalog.url }}" download>
+  <img class="cat-band-img" src="/assets/img/booklets/catalogus-240.webp" srcset="/assets/img/booklets/catalogus-240.webp 240w, /assets/img/booklets/catalogus-480.webp 480w" sizes="140px" alt="{{ t.booklet_alt.catalogus }}" width="240" height="249" loading="lazy" decoding="async">
+  <span class="cat-band-txt"><b>{{ title|bold }}</b> <small>{{ text }}</small></span>
+  <span class="btn btn-primary">{{ icon('download') }}{{ cta }}</span>
+</a>
+{%- endmacro %}
+
+{% macro badge_class(cls) -%}<span class="badge badge-{{ cls }}">{{ cls }}</span>{%- endmacro %}
+
+{% macro pcard(m, t, lang, order=0) -%}
+{% set X = m.txt[lang] %}
+<article class="pcard" data-size="{{ m.size }}" data-cls="{{ m.class }}" data-deck="{{ m.deck }}" data-base="{{ m.support.type }}"
+ data-rack="{{ m.racking[1] if m.racking else 0 }}" data-dyn="{{ m.dynamic[1] }}" data-static="{{ m.static[1] }}" data-weight="{{ m.weight[0] }}"
+ data-price="{{ m.price_from or '' }}" data-order="{{ order }}" data-fnest="{{ 1 if 'nestable' in m.types else 0 }}" data-frack="{{ 1 if m.rackable else 0 }}"
+ data-fexport="{{ 1 if 'export' in m.types else 0 }}" data-fhyg="{{ 1 if 'hygienic' in m.types else 0 }}" data-fantislip="{{ 1 if m.antislip else 0 }}" data-fprice="{{ 1 if m.price_from else 0 }}">
+  <a class="pc-img" href="{{ m.url[lang] }}" tabindex="-1" aria-hidden="true">
+    <img src="{{ m.img_url }}" srcset="{{ m.img_sm }} 320w, {{ m.img_url }} 640w" sizes="(min-width:1200px) 300px, (min-width:700px) 45vw, 92vw" alt="{{ m.name[lang] }}" width="640" height="427" loading="lazy" decoding="async">
+  </a>
+  <div class="pc-badges">{{ badge_class(m.class) }}{% if m.is_new %}<span class="badge badge-new">{{ t.mm_new }}</span>{% endif %}</div>
+  <div class="pc-body">
+    <span class="pc-size">{{ m.size_label }}</span>
+    <h3 class="pc-title"><a href="{{ m.url[lang] }}">{{ m.name[lang] }}</a></h3>
+    <span class="pc-sku">{{ t.art_nr_short }} {{ m.sku_txt }}</span>
+    <span class="pc-loc">{% if X.loc_items %}{{ flag(X.loc_items[0].cc) }}{{ X.loc_items[0].label }}{% else %}{{ icon('factory') }}{{ t.pc_loc_req }}{% endif %}</span>
+    <dl class="pc-specs">
+      <div><dt>{{ t.static }}</dt><dd>{{ X.static_short }}</dd></div>
+      <div><dt>{{ t.dynamic }}</dt><dd>{{ X.dynamic_short }}</dd></div>
+      <div><dt>{{ t.racking }}</dt><dd{% if not m.racking %} class="na"{% endif %}>{{ X.racking_short }}</dd></div>
+    </dl>
+    <div class="pc-foot">
+      <div class="pc-price">{% if m.price_from %}<small>{{ t.from_cap }} · {{ t.excl_vat }}</small><b>{{ X.price }}</b>{% else %}<span class="req">{{ t.on_request }}</span>{% endif %}</div>
+      <label class="pc-cmp"><input type="checkbox" value="{{ m.id }}" data-cmp='{{ m.cmp[lang]|tojson|forceescape }}'><span>{{ t.compare }}</span></label>
+    </div>
+  </div>
+</article>
+{%- endmacro %}
+
+{% macro faq(items, lang) -%}
+<div class="faq">
+{%- for f in items %}
+  <details{% if loop.first %} open{% endif %}><summary><span>{{ f.q }}</span><i>{{ icon('plus') }}</i></summary><div class="faq-a">{{ f.a_html }}</div></details>
+{%- endfor %}
+</div>
+{%- endmacro %}
+
+{% macro faq_section(items, lang, t, title=None, soft=True) -%}
+<section class="section{% if soft %} bg-soft{% endif %}" aria-labelledby="faq-h">
+  <div class="wrap faq-wrap">
+    <div class="faq-side"><p class="eyebrow">FAQ</p><h2 id="faq-h">{{ (title or t.faq_title)|bold }}</h2></div>
+    {{ faq(items, lang) }}
+  </div>
+</section>
+{%- endmacro %}
+
+{% macro phero(page, crumbs_items, dark=False) -%}
+<header class="phero{% if dark %} phero-dark{% endif %}">
+  {% if dark %}{{ qbg('oranje', 'phero-q', '(min-width:1101px) 900px, (min-width:721px) 760px, 560px', eager=True) }}{% endif %}
+  <div class="wrap phero-in">
+    {{ crumbs(crumbs_items, light=dark) }}
+    {% if page.eyebrow %}<p class="eyebrow{% if dark %} eyebrow-light{% endif %}">{{ page.eyebrow }}</p>{% endif %}
+    <h1>{{ page.h1|bold }}</h1>
+    {% if page.tagline %}<p class="phero-tag"><span>{{ page.tagline|bold }}</span></p>{% endif %}
+    {% if page.lead %}<p class="lead">{{ page.lead_html }}</p>{% endif %}
+    {{ caller() if caller else '' }}
+  </div>
+</header>
+{%- endmacro %}
+
+{% macro mega_sm(id, title, lead, img, feature_label, feature_url) -%}
+<div class="mega mega-sm" id="{{ id }}">
+  <div class="wrap mega-sm-in">
+    <div class="mega-sm-main">
+      <p class="mega-h">{{ title }}</p>
+      <ul class="mlinks">{{ caller() }}</ul>
+    </div>
+    <a class="mega-feature" href="{{ feature_url }}">
+      <img src="{{ img }}" alt="{{ feature_label }}" width="640" height="427" loading="lazy" decoding="async">
+      <span class="mega-feature-txt"><span>{{ lead }}</span> <b>{{ feature_label }}{{ icon('arrow') }}</b></span>
+    </a>
+  </div>
+</div>
+{%- endmacro %}
+
+{% macro loadbox(m, X, t, compact=False) -%}
+<div class="loadbox{% if compact %} loadbox-sm{% endif %}" role="group" aria-label="{{ t.group_load }}">
+  <div class="lb-item"><b>{{ X.static_big }}<em>kg</em></b> <span>{{ t.static_l|shy }}</span><small>{{ t.load_cap_static }}</small></div>
+  <div class="lb-item"><b>{{ X.dynamic_big }}<em>kg</em></b> <span>{{ t.dynamic_l|shy }}</span><small>{{ t.load_cap_dynamic }}</small></div>
+  <div class="lb-item{% if not m.racking %} is-na{% endif %}">{% if m.racking %}<b>{{ X.racking_big }}<em>kg</em></b>{% else %}<b>–</b>{% endif %}<span>{{ t.racking_l|shy }}</span><small>{{ t.load_cap_racking if m.racking else t.not_rackable }}</small></div>
+</div>
+{%- endmacro %}
+
+{% macro aside_cta(t, urls, company) -%}
+<div class="aside-card aside-cta">
+  <h2>{{ t.cta_quote }}</h2>
+  <p>{{ t.reply_1day }}.</p>
+  <a class="btn btn-primary btn-block" href="{{ urls.quote }}">{{ t.cta_quote }}{{ icon('arrow') }}</a>
+  <a class="aside-phone" href="tel:{{ company.phone_href }}">{{ icon('phone') }}{{ company.phone }}</a>
+</div>
+{%- endmacro %}
+
+{% macro catalog_card(t, catalog) -%}
+<a class="aside-card cat-card" href="{{ catalog.url }}" download>{{ booklet(catalog, 'cat-card-book') }}<span><b>{{ t.mm_catalog }}</b> <small>{{ t.mm_catalog_edition }}<br>{{ catalog.meta }}</small></span></a>
+{%- endmacro %}
+
+{# ---------- load calculator ---------- #}
+{% macro qv_sprite() -%}
+<svg class="qv-sprite" width="0" height="0" aria-hidden="true" focusable="false"><defs>
+<g id="qv-cab"><path d="M127 56V23.5a5 5 0 0 1 5-5h15.2c3.2 0 5.6 1.8 6.6 4.9l3.7 11.6c.3.9.5 1.9.5 2.9V56z" style="fill:var(--qv-fill,#fff)"/><path d="M132.5 24h12.6c1.2 0 2.2.7 2.6 1.9l2.6 8.1h-17.8z"/></g>
+<g id="qv-w"><circle r="6.5" style="fill:var(--qv-fill,#fff)"/><circle r="1.7" fill="currentColor" stroke="none"/></g>
+<g id="qv-ws"><circle r="5.5" style="fill:var(--qv-fill,#fff)"/><circle r="1.5" fill="currentColor" stroke="none"/></g>
+<symbol id="qv-taut" viewBox="0 0 168 76"><g fill="none" stroke="currentColor" stroke-linejoin="round" stroke-linecap="round"><path d="M3 67h162" opacity=".28"/><rect x="6" y="16" width="113" height="40" rx="2.5" style="fill:var(--qv-fill,#fff)"/><path d="M119 51h8"/><use href="#qv-cab"/><use href="#qv-w" x="24" y="60.5"/><use href="#qv-w" x="39" y="60.5"/><use href="#qv-w" x="54" y="60.5"/><use href="#qv-w" x="136" y="60.5"/><use href="#qv-w" x="152" y="60.5"/></g></symbol>
+<symbol id="qv-mega" viewBox="0 0 168 76"><g fill="none" stroke="currentColor" stroke-linejoin="round" stroke-linecap="round"><path d="M3 67h162" opacity=".28"/><rect x="6" y="5" width="113" height="53" rx="2.5" style="fill:var(--qv-fill,#fff)"/><path d="M119 51h8"/><use href="#qv-cab"/><use href="#qv-ws" x="24" y="61.5"/><use href="#qv-ws" x="37" y="61.5"/><use href="#qv-ws" x="50" y="61.5"/><use href="#qv-w" x="136" y="60.5"/><use href="#qv-w" x="152" y="60.5"/></g></symbol>
+<symbol id="qv-combi" viewBox="0 0 168 76"><g fill="none" stroke="currentColor" stroke-linejoin="round" stroke-linecap="round"><path d="M3 67h162" opacity=".28"/><rect x="6" y="16" width="55" height="40" rx="2.5" style="fill:var(--qv-fill,#fff)"/><path d="M61 51h9"/><rect x="70" y="16" width="53" height="40" rx="2.5" style="fill:var(--qv-fill,#fff)"/><use href="#qv-cab"/><use href="#qv-w" x="20" y="60.5"/><use href="#qv-w" x="47" y="60.5"/><use href="#qv-w" x="96" y="60.5"/><use href="#qv-w" x="111" y="60.5"/><use href="#qv-w" x="152" y="60.5"/></g></symbol>
+<symbol id="qv-cont" viewBox="0 0 168 76"><g fill="none" stroke="currentColor" stroke-linejoin="round" stroke-linecap="round"><path d="M3 67h162" opacity=".28"/><rect x="8" y="13" width="152" height="54" rx="2" style="fill:var(--qv-fill,#fff)"/><path d="M8 19h152M8 61h152"/><path d="M19 23v34M29.5 23v34M40 23v34M50.5 23v34M61 23v34M71.5 23v34M82 23v34M92.5 23v34M103 23v34M113.5 23v34M124 23v34M134.5 23v34M145 23v34" opacity=".42"/></g></symbol>
+<symbol id="qv-c20" viewBox="0 0 168 76"><g fill="none" stroke="currentColor" stroke-linejoin="round" stroke-linecap="round"><path d="M3 67h162" opacity=".28"/><rect x="46" y="18" width="76" height="49" rx="2" style="fill:var(--qv-fill,#fff)"/><path d="M46 24h76M46 61h76"/><path d="M56.5 28v29M66 28v29M75.5 28v29M84 28v29M93.5 28v29M102.5 28v29M112 28v29" opacity=".42"/></g></symbol>
+</defs></svg>
+{%- endmacro %}
+
+{% macro calc_widget(t, calc, quote) -%}
+<div class="qpc" id="qpc" data-sku="{{ calc.sku }}" data-size="{{ calc.size }}" data-quote="{{ quote }}">
+  <ol class="qpc-steps" id="qpc-steps" aria-label="{{ t.calc_steps }}"></ol>
+  <div class="qpc-main" id="qpc-main" aria-live="polite"><p class="qpc-hint qpc-nojs">{{ t.calc_nojs }}</p></div>
+  <div class="qpc-engine" hidden>
+    <select id="trailerSelect" aria-hidden="true" tabindex="-1">{% for v in ['tautliner', 'mega', 'combi77', 'combi78', 'container20', 'container20hc', 'container40', 'container40hc', 'container45', 'container45hc', 'container45pw'] %}<option value="{{ v }}"></option>{% endfor %}</select>
+    <input type="number" id="trailerPercentage" value="100" aria-hidden="true" tabindex="-1">
+    <select id="strategySelect" aria-hidden="true" tabindex="-1"><option value="fair_split"></option></select>
+    <div id="palletRowsContainer"></div>
+    <section class="qpc-config"></section>
+    <section id="runnersSection"><div id="dynamicRunnerSelections"></div></section>
+    <section id="resultsSection"><pre id="outputResult"></pre><div id="altPlanSection"><pre id="altOutputResult"></pre></div></section>
+  </div>
+</div>
+<script type="application/json" id="qpc-data">{{ calc.data|tojson }}</script>
+{%- endmacro %}
+
+{# the same calculator block everywhere (product pages, transport, the calculator page) #}
+{% macro load_section(t, calc, calc_url, sid) -%}
+{# product page: standard loads per vehicle, no calculator; the calculator page opens with this pallet selected #}
+<section class="section bg-navy calc-sec load-sec" id="{{ sid }}" aria-labelledby="h-calc" data-pagefind-ignore>
+  {{ qv_sprite() }}
+  <div class="wrap">
+    {{ sec_head(t.calc_eyebrow, t.calc_title, t.load_lead if calc.std else t.load_lead_nostd, 'h-calc', light=True) }}
+    {% if calc.std %}
+    <div class="calc-std">
+      <ul class="calc-std-list">{% for v in calc.std %}<li class="calc-std-i"><svg class="qv" viewBox="0 0 168 76" aria-hidden="true"><use href="#qv-{{ v.icon }}"/></svg><span class="calc-std-n">{% if v.n %}<b>{{ v.n }}</b> {{ t.calc_pallets }}{% else %}<b class="calc-std-no">{{ t.calc_nofit }}</b>{% endif %}</span><span class="calc-std-l">{{ v.label }}</span></li>{% endfor %}</ul>
+      <p class="calc-std-note">{{ calc.note }}</p>
+    </div>
+    {% endif %}
+    <div class="load-more">
+      <span class="load-more-ico" aria-hidden="true">{{ icon('truck') }}</span>
+      <p><b>{{ t.load_more_q }}</b> <span>{{ t.load_more_t }}</span></p>
+      <a class="btn btn-primary" href="{{ calc_url }}">{{ t.load_more_btn }}{{ icon('arrow') }}</a>
+    </div>
+  </div>
+</section>
+{%- endmacro %}
+
+{% macro calc_section(t, calc, quote, sid, eyebrow=None, title=None, lead=None) -%}
+<section class="section bg-navy calc-sec{% if not title %} calc-sec-bare{% endif %}" id="{{ sid }}"{% if title %} aria-labelledby="h-calc"{% else %} aria-label="{{ t.nav_calc }}"{% endif %} data-pagefind-ignore>
+  {{ qv_sprite() }}
+  <div class="wrap">
+    {% if title %}{{ sec_head(eyebrow, title, lead, 'h-calc', light=True) }}{% else %}<h2 class="sr-only">{{ t.nav_calc }}</h2>{% endif %}
+    {% if calc.std %}
+    <div class="calc-std">
+      <ul class="calc-std-list">{% for v in calc.std %}<li class="calc-std-i"><svg class="qv" viewBox="0 0 168 76" aria-hidden="true"><use href="#qv-{{ v.icon }}"/></svg><span class="calc-std-n">{% if v.n %}<b>{{ v.n }}</b> {{ t.calc_pallets }}{% else %}<b class="calc-std-no">{{ t.calc_nofit }}</b>{% endif %}</span><span class="calc-std-l">{{ v.label }}</span></li>{% endfor %}</ul>
+      <p class="calc-std-note">{{ calc.note }}</p>
+    </div>
+    {% endif %}
+    <div class="calc-card">{{ calc_widget(t, calc, quote) }}</div>
+  </div>
+</section>
+{%- endmacro %}
+
+{# author of a knowledge-base article (update 13): byline in the hero and a box below the text #}
+{% macro byline(a, t) -%}
+<a class="am-author" href="{{ a.url }}" data-pagefind-ignore><span class="cp-photo"><img src="{{ a.photo }}" alt="" width="28" height="28" decoding="async"></span>{{ t.author_by }} <b>{{ a.name }}</b></a>
+{%- endmacro %}
+
+{% macro author_box(a, t) -%}
+<div class="author-box" data-pagefind-ignore>
+  <span class="cp-photo"><img src="{{ a.photo }}" alt="{{ a.name }}" width="88" height="88" loading="lazy" decoding="async"></span>
+  <div class="ab-txt">
+    <p class="ab-by">{{ t.author_by }}</p>
+    <p class="ab-name"><b>{{ a.name }}</b> <span>{{ a.role }}</span></p>
+    <p class="ab-bio">{{ a.bio }}</p>
+    <a class="link-arrow" href="{{ a.url }}">{{ t.author_more }}{{ icon('arrow') }}</a>
+  </div>
+</div>
+{%- endmacro %}

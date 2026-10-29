@@ -1,0 +1,49 @@
+---
+id: news-auchan
+title: "Auchan setzt 50.000 smarte Paletten mit IBM ein – Q-Pall"
+description: "Händler Auchan führt in ganz Frankreich 50.000 smarte Heavy-Duty-Europaletten von Q-Pall ein, mit IoT von IBM: Standort, Temperatur und Stöße im Blick."
+eyebrow: "Aktuelles"
+tag: "Kundenprojekt"
+crumb: "Auchan setzt smarte Paletten ein"
+h1: "Auchan setzt **50.000 smarte Q-Pall Paletten** ein, gemeinsam mit IBM"
+lead: "Der Händler Auchan führt in ganz Frankreich 50.000 smarte Heavy-Duty-Europaletten aus recyceltem Kunststoff ein. Mit IoT-Technologie von IBM wird jede Palette zur Datenquelle für die Lieferkette."
+img_alt: "Familie mit Einkaufswagen in einem Supermarktgang"
+reading: 3
+published: '2025-12-12'
+updated: '2026-10-19'
+---
+> **Kurz gesagt**
+>
+> * Auchan setzt in ganz Frankreich 50.000 smarte Heavy-Duty-Europaletten von Q-Pall ein.
+> * Die Paletten bestehen aus recyceltem Kunststoff und sind mit IoT-Technologie von IBM ausgestattet.
+> * Sie messen Standort, Temperatur und Stöße und schlagen bei Abweichungen Alarm.
+> * Geschätzte Einsparung: 21.328 Tonnen CO2 in acht Jahren.
+
+## Von der Holzpalette zur smarten Palette
+
+Der Wechsel von Holzpaletten zu smarten Kunststoffpaletten ist kein Konzept mehr, sondern Realität. Der Händler Auchan führt in ganz Frankreich 50.000 unserer smarten [Heavy-Duty](@class-heavy)-Europaletten aus recyceltem Kunststoff ein. Das Projekt trägt zum Ziel von Auchan bei, die Scope-3-Emissionen bis 2030 um 25 % zu senken.
+
+## Vom Ladungsträger zum Datenpunkt
+
+Eine Palette ist nicht mehr nur ein Träger, sondern auch eine Datenquelle. Die Paletten wurden in Zusammenarbeit mit IBM Consulting entwickelt und liefern Echtzeit-Einblick in die Lieferkette. Diese „Smart Green Pallet“ misst unter anderem:
+
+* **Standort:** genau wissen, wo sich die Waren befinden.
+* **Temperatur:** sicherstellen, dass Frischeprodukte im richtigen Zustand bleiben.
+* **Stöße:** sehen, wo und wann Waren falsch behandelt werden.
+
+Bei Temperaturschwankungen oder harten Stößen schlägt das System sofort Alarm, sodass Teams rechtzeitig eingreifen können.
+
+## Umweltwirkung: die Zahlen
+
+Bei Q-Pall zeigen wir seit Jahren, dass Kunststoff in geschlossenen Systemen Umweltvorteile gegenüber Holz hat. Die Zahlen von Auchan bestätigen das. Der Umstieg spart schätzungsweise **21.328 Tonnen CO2 in acht Jahren**. Zwei Faktoren sind dafür entscheidend:
+
+* **Lebensdauer:** Unsere Paletten halten deutlich länger als Holzpaletten und sind vollständig recycelbar.
+* **Weniger Verschwendung:** Durch die Überwachung gehen weniger Lebensmittel verloren. Lebensmittelverschwendung macht rund 5 % der Logistikemissionen aus.
+
+## Ein erfolgreiches Pilotprojekt
+
+Dem vollständigen Rollout ging ein Pilotprojekt mit 10.000 Paletten in zwei Lagern voraus. Die Ergebnisse: besseres Tracking, mehr Sicherheit dank des geringeren Gewichts und eine höhere Logistikqualität.
+
+## Wer folgt?
+
+Wir sind stolz darauf, gemeinsam mit IBM die Grundlage für diesen Schritt zu legen. Auchan setzt den Standard für eine transparente, resiliente und nachhaltige Lieferkette, und wir laden andere Händler ein, diesem Beispiel zu folgen. Sehen Sie sich unsere Lösungen für den [Handel](@sector-retail) und für [Pooling](@sector-pooling) an oder [nehmen Sie Kontakt auf](@contact).

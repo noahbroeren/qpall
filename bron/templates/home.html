@@ -1,0 +1,249 @@
+{% extends 'base.html' %}
+{% import '_macros.html' as M with context %}
+{% block main %}
+{% set H = page.fm %}
+<section class="hero" data-hc="medium" aria-labelledby="hero-h">
+  {# the medium Q shows on load; light and heavy are fetched after the page has loaded (site.js, data-defer) #}
+  {% for k, c in [('light', 'groen'), ('medium', 'blauw'), ('heavy', 'paars')] %}{{ M.qbg(c, 'hero-q hero-q-' ~ k ~ (' is-on' if k == 'medium' else ''), '(min-width:1101px) 940px, (min-width:721px) 900px, 640px', eager=(k == 'medium'), defer=(k != 'medium')) }}{% endfor %}
+  <div class="wrap hero-in">
+    <div class="hero-txt">
+      <a class="hero-badge" href="{{ urls['type-antislip'] }}"><span class="badge badge-new">{{ t.mm_new }}</span>{{ H.hero.badge }}{{ M.icon('arrow') }}</a>
+      <p class="eyebrow eyebrow-light">{{ H.hero.eyebrow }}</p>
+      <h1 id="hero-h">{{ H.hero.h1|bold }}</h1>
+      <p class="lead">{{ H.hero.lead }}</p>
+      <div class="hero-ctas">
+        <a class="btn btn-primary" href="{{ urls.pallets }}">{{ H.hero.cta1 }}{{ M.icon('arrow') }}</a>
+        <a class="btn btn-ghost-light" href="{{ urls.quote }}">{{ H.hero.cta2 }}</a>
+      </div>
+    </div>
+    <div class="hero-vis" data-hero>
+      <div class="hc-switch" role="tablist" aria-label="{{ t.hero_switch }}">
+        {% for h in hero %}<button type="button" role="tab" class="hsw c-{{ h.key }}" data-cls="{{ h.key }}" aria-selected="{{ 'true' if h.key == 'medium' else 'false' }}"><i></i>{{ h.name }}</button>{% endfor %}
+      </div>
+      <div class="hv-stage">
+        {% for h in hero %}
+        <a class="hero-slide{% if h.key == 'medium' %} is-active{% endif %}" data-slide data-cls="{{ h.key }}" href="{{ h.url }}" aria-label="{{ h.title }}"{% if h.key != 'medium' %} tabindex="-1"{% endif %}>
+          {% set ss = h.img ~ '-640.webp 640w, ' ~ h.img ~ '-960.webp 960w, ' ~ h.img ~ '-1280.webp 1280w' %}
+          {% set sa = ss|replace('.webp', '.avif') %}
+          {% if h.key == 'medium' %}<picture><source type="image/avif" srcset="{{ sa }}" sizes="(min-width:1100px) 620px, 94vw" width="{{ h.w }}" height="{{ h.h }}"><img src="{{ h.img }}-960.webp" srcset="{{ ss }}" sizes="(min-width:1100px) 620px, 94vw" alt="{{ h.title }}" width="{{ h.w }}" height="{{ h.h }}" fetchpriority="high" decoding="async"></picture>
+          {%- else %}<picture><source type="image/avif" data-srcset="{{ sa }}" sizes="(min-width:1100px) 620px, 94vw" width="{{ h.w }}" height="{{ h.h }}"><img data-src="{{ h.img }}-960.webp" data-srcset="{{ ss }}" sizes="(min-width:1100px) 620px, 94vw" alt="{{ h.title }}" width="{{ h.w }}" height="{{ h.h }}" data-defer decoding="async"></picture>{% endif %}
+        </a>
+        {% endfor %}
+      </div>
+      {% for h in hero %}
+      <div class="hv-box{% if h.key == 'medium' %} is-active{% endif %}" data-slide data-cls="{{ h.key }}">
+        <div class="hv-badges"><span class="badge badge-{{ h.key }}">{{ h.name }}</span>{% if h.new %}<span class="badge badge-new">{{ t.mm_new }}</span>{% endif %}</div>
+        <a class="hv-name" href="{{ h.url }}" tabindex="-1">{{ h.title }}</a>
+        <p class="hv-sku">{{ t.art_nr_short }} {{ h.sku }}</p>
+        <dl class="hv-loads">
+          <div><dt>{{ t.static_l }}</dt><dd>{{ h.static }} kg</dd></div>
+          <div><dt>{{ t.dynamic_l }}</dt><dd>{{ h.dynamic }} kg</dd></div>
+          <div><dt>{{ t.racking_l }}</dt><dd>{% if h.racking %}{{ h.racking }} kg{% else %}–{% endif %}</dd></div>
+        </dl>
+        <div class="hv-foot">
+          <span class="hv-more">{{ t.view_product }}</span>
+          <a class="hv-go" href="{{ h.url }}" tabindex="-1" aria-label="{{ h.title }}">{{ M.icon('arrow') }}</a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<div class="wrap finder-wrap">
+  <form class="finder" id="finder" action="{{ urls.pallets }}" role="search" aria-label="{{ H.finder.title }}">
+    <span class="finder-title">{{ M.icon('search') }}{{ H.finder.title }}</span>
+    <label class="finder-f"><span>{{ H.finder.size }}</span><select name="size"><option value="">{{ H.finder.any_size }}</option>{% for s in nav.sizes %}<option value="{{ s.key }}">{{ s.label }} · {{ s.nick }}</option>{% endfor %}</select></label>
+    <label class="finder-f"><span>{{ H.finder.cls }}</span><select name="cls"><option value="">{{ H.finder.any_cls }}</option><option value="light">Light</option><option value="medium">Medium</option><option value="heavy">Heavy</option></select></label>
+    <label class="finder-f"><span>{{ H.finder.static }}</span><select name="static"><option value="">{{ H.finder.any_static }}</option>{% for v in [1000, 2500, 5000, 7500] %}<option value="{{ v }}">≥ {{ v|kg }}</option>{% endfor %}</select></label>
+    <label class="finder-f"><span>{{ H.finder.use }}</span><select name="use"><option value="">{{ H.finder.use_any }}</option><option value="rack">{{ H.finder.use_rack }}</option><option value="export">{{ H.finder.use_export }}</option><option value="hyg">{{ H.finder.use_hygiene }}</option><option value="nest">{{ H.finder.use_nest }}</option></select></label>
+    <button class="btn btn-primary" type="submit">{{ H.finder.button }}{{ M.icon('arrow') }}</button>
+  </form>
+</div>
+
+<div class="wrap">
+  <ul class="stats">{% for s in H.stats %}<li class="stat"><b>{{ s.num }}</b> <span>{{ s.label }}</span></li>{% endfor %}</ul>
+</div>
+
+<section class="section intro" aria-labelledby="intro-h">
+  <div class="wrap intro-in">
+    <div class="intro-words" aria-hidden="true">{% for w in H.intro.strike %}<span class="strike">{{ w }}</span>{% endfor %}<span class="final">{{ H.intro.final }}</span></div>
+    <div class="intro-txt">
+      <p class="eyebrow">{{ H.intro.eyebrow }}</p>
+      <h2 id="intro-h">{{ H.intro.title|bold }}</h2>
+      <p class="lead">{{ H.intro.text }}</p>
+      <ul class="points">{% for p in H.intro.points %}<li>{{ M.icon(p.icon) }}<span><b>{{ p.t }}</b> {{ p.d }}</span></li>{% endfor %}</ul>
+      <a class="link-arrow" href="{{ urls.about }}">{{ H.intro.cta }}{{ M.icon('arrow') }}</a>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-soft local-sec" aria-labelledby="local-h">
+  <div class="wrap local">
+    <div class="local-txt">
+      <p class="eyebrow">{{ H.local.eyebrow }}</p>
+      <h2 id="local-h">{{ H.local.title|bold }}</h2>
+      <p class="lead">{{ H.local.lead }}</p>
+      <p class="local-note">{{ H.local.note }}</p>
+      <button class="hq-row plant-btn" type="button" data-fac="V" aria-pressed="false"><span class="hq-mark" aria-hidden="true">{{ M.icon('hq') }}</span><span><b>Veghel</b> <small>{{ t.footer_hq }}</small></span></button>
+      <ul class="plant-list">
+        {% for f in factories %}<li><button class="plant-btn" type="button" data-fac="{{ f.code }}" aria-pressed="false">{{ M.flag(f.cc|lower) }}<span><b>{{ f.name }}</b> <small>{{ f.country }}</small></span></button></li>{% endfor %}
+      </ul>
+      <div class="btn-row"><a class="btn btn-navy" href="{{ urls['about-local'] }}">{{ H.local.cta }}{{ M.icon('arrow') }}</a><a class="btn btn-outline" href="{{ urls.transport }}">{{ t.top_transport }}</a></div>
+    </div>
+    <figure class="map-card" data-map>
+      {{ eu_map }}
+      <figcaption class="map-legend"><span><i class="lg-plant"></i>{{ t.map_factory }}</span><span><i class="lg-hq"></i>{{ t.map_hq }}</span><span><i class="lg-r"></i>{{ t.map_radius }}</span></figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="section" aria-labelledby="range-h">
+  <div class="wrap">
+    {{ M.sec_head(H.range.eyebrow, H.range.title, H.range.lead, 'range-h') }}
+    <div class="seg" role="tablist" aria-label="{{ H.range.eyebrow }}">
+      <button type="button" role="tab" aria-selected="true" aria-controls="rt-sizes" id="rtb-sizes">{{ H.range.tab_sizes }}</button>
+      <button type="button" role="tab" aria-selected="false" aria-controls="rt-types" id="rtb-types" tabindex="-1">{{ H.range.tab_types }}</button>
+    </div>
+    <div class="range-panel" id="rt-sizes" role="tabpanel" aria-labelledby="rtb-sizes">
+      <ul class="tile-grid tg-3">
+        {% for s in nav.sizes %}<li><a class="ptile" href="{{ s.url }}"><span class="ptile-img"><img src="{{ s.img }}" alt="{{ s.alt }}" width="320" height="213" loading="lazy" decoding="async"></span><span class="ptile-txt"><b>{{ s.label }}</b> <small>{{ s.nick }}</small></span>{{ M.icon('arrow') }}</a></li>{% endfor %}
+      </ul>
+    </div>
+    <div class="range-panel" id="rt-types" role="tabpanel" aria-labelledby="rtb-types" hidden>
+      <ul class="tile-grid tg-4">
+        {% for ty in nav.types %}<li><a class="ptile" href="{{ ty.url }}"><span class="ptile-img"><img src="{{ ty.img }}" alt="{{ ty.alt }}" width="320" height="213" loading="lazy" decoding="async">{% if ty.new %}<span class="badge badge-new">{{ t.mm_new }}</span>{% endif %}</span><span class="ptile-txt"><b>{{ ty.label }}</b> <small>{{ ty.sub }}</small></span>{{ M.icon('arrow') }}</a></li>{% endfor %}
+        <li><a class="ptile" href="{{ nav.ultra.url }}"><span class="ptile-img"><img src="{{ nav.ultra.img }}" alt="{{ nav.ultra.alt }}" width="320" height="213" loading="lazy" decoding="async"></span><span class="ptile-txt"><b>{{ nav.ultra.label }}</b> <small>{{ nav.ultra.sub }}</small></span>{{ M.icon('arrow') }}</a></li>
+      </ul>
+    </div>
+    <div class="center mt-5"><a class="btn btn-navy" href="{{ urls.pallets }}">{{ H.range.all }}{{ M.icon('arrow') }}</a></div>
+  </div>
+</section>
+
+<section class="section bg-soft promo-sec" aria-labelledby="promo-h">
+  <div class="wrap">
+    <div class="promo">
+      {{ M.qbg('blauw', 'promo-q', '(min-width:1101px) 760px, (min-width:721px) 700px, 520px') }}
+      <div class="promo-txt">
+        <span class="badge badge-new">{{ t.mm_new }}</span>
+        <h2 id="promo-h">{{ H.promo.title|bold }}</h2>
+        <p class="lead">{{ H.promo.text }}</p>
+        <ul class="checks checks-light promo-points">{% for p in H.promo.points %}<li>{{ M.icon('checkc') }}{{ p }}</li>{% endfor %}</ul>
+        <a class="btn btn-primary" href="{{ urls['type-antislip'] }}">{{ H.promo.cta }}{{ M.icon('arrow') }}</a>
+      </div>
+      <a class="promo-img" href="{{ urls['type-antislip'] }}" tabindex="-1"><picture><source type="image/avif" srcset="/assets/img/hero/promo-640.avif 640w, /assets/img/hero/promo-960.avif 960w, /assets/img/hero/promo-1280.avif 1280w" sizes="(min-width:1100px) 560px, 92vw" width="1562" height="729"><img src="/assets/img/hero/promo-960.webp" srcset="/assets/img/hero/promo-640.webp 640w, /assets/img/hero/promo-960.webp 960w, /assets/img/hero/promo-1280.webp 1280w" sizes="(min-width:1100px) 560px, 92vw" alt="{{ H.promo.img_alt }}" width="1562" height="729" loading="lazy" decoding="async"></picture></a>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-navy" aria-labelledby="cls-h">
+  <div class="wrap">
+    {{ M.sec_head(H.classes.eyebrow, H.classes.title, H.classes.lead, 'cls-h', light=True) }}
+    <div class="series">
+      {% for c in nav.classes %}{{ M.serie(c, t, H.classes.cta) }}{% endfor %}
+    </div>
+    <p class="classes-note">{{ H.classes.note }} <a href="{{ urls['about-load'] }}">{{ t.load_more }}</a></p>
+  </div>
+</section>
+
+<section class="section bestpal" aria-label="#yourbestpal">
+  <div class="wrap">
+    <p class="bestpal-h">{{ H.bestpal.title|bold }}</p>
+  </div>
+</section>
+
+<section class="section bg-soft" aria-labelledby="ind-h">
+  <div class="wrap">
+    {{ M.sec_head(H.sectors.eyebrow, H.sectors.title, H.sectors.lead, 'ind-h', urls.sectors, t.mm_feature_sectors) }}
+    <ul class="bento">
+      {% for s in sector_tiles %}
+      <li class="bento-{{ s.key }}">
+        <a class="btile{% if s.img %} btile-photo{% else %} btile-type{% endif %}" href="{{ s.url }}">
+          {% if s.img %}<img src="{{ s.img }}-640.webp" srcset="{{ s.img }}-640.webp 640w, {{ s.img }}-1200.webp 1200w" sizes="(min-width:1000px) 600px, 92vw" alt="{{ t.sector_alt[s.key] }}" width="640" height="427" loading="lazy" decoding="async">{% else %}<span class="btile-big">{{ s.big }}</span>{% endif %}
+          <span class="btile-txt"><b>{{ s.label|shy }}</b> <small>{{ s.sub }}</small></span>
+        </a>
+      </li>
+      {% endfor %}
+      <li class="bento-ask"><a class="btile btile-ask" href="{{ urls.contact }}"><span class="btile-big">{{ H.sectors.ask_big }}</span><span class="btile-txt"><b>{{ H.sectors.ask }}</b> <small>{{ H.sectors.ask_sub }}</small></span></a></li>
+    </ul>
+  </div>
+</section>
+
+{% if cases %}
+<section class="section cases-sec" aria-labelledby="cases-h">
+  <div class="wrap">
+    {{ M.sec_head(H.cases.eyebrow, H.cases.title, H.cases.lead, 'cases-h', urls.news, H.cases.more) }}
+    <ul class="news-grid news-grid-3 cases">{% for n in cases %}<li>{{ M.ncard(n, t) }}</li>{% endfor %}</ul>
+  </div>
+</section>
+
+{% endif %}<section class="section sustain" aria-labelledby="sus-h">
+  <div class="wrap">
+    <div class="sustain-top">
+      <figure class="sustain-img"><img src="/assets/img/photos/seaturtle-1200.webp" srcset="/assets/img/photos/seaturtle-640.webp 640w, /assets/img/photos/seaturtle-1200.webp 1200w, /assets/img/photos/seaturtle-1600.webp 1600w" sizes="(min-width:1000px) 640px, 92vw" alt="{{ H.sustain.img_alt }}" width="1200" height="960" loading="lazy" decoding="async"></figure>
+      <div class="sustain-txt">
+        <p class="eyebrow">{{ H.sustain.eyebrow }}</p>
+        <h2 id="sus-h">{{ H.sustain.title|bold }}</h2>
+        <p class="lead">{{ H.sustain.lead }}</p>
+        <a class="btn btn-navy" href="{{ urls['about-sustainability'] }}">{{ H.sustain.cta }}{{ M.icon('arrow') }}</a>
+      </div>
+    </div>
+    <div class="cycle">
+      <ol class="cycle-steps">
+        {% for s in H.sustain.steps %}<li><span class="cs-n">0{{ loop.index }}</span><span class="cs-ico">{{ M.icon(s.icon) }}</span><b>{{ s.t }}</b><span class="cs-d">{{ s.d }}</span></li>{% endfor %}
+      </ol>
+      <div class="cycle-cta">
+        <p class="cycle-cta-txt"><b>{{ H.sustain_cta.t }}</b> <span>{{ H.sustain_cta.d }}</span></p>
+        <div class="cycle-cta-person">
+          <span class="cp-duo">{% for p in team %}<span class="cp-photo"><img src="{{ p.photo }}" alt="" width="64" height="64" loading="lazy" decoding="async"></span>{% endfor %}</span>
+          <p class="cp-txt">{% for p in team %}<b>{{ p.name }}</b>{% endfor %} <span>{{ team[0].role }}</span></p>
+        </div>
+        <a class="btn btn-navy" href="{{ urls.contact }}">{{ H.sustain_cta.btn }}{{ M.icon('arrow') }}</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-navy ppwr" aria-labelledby="ppwr-h">
+  {{ M.qbg('paars', 'ppwr-q', '(min-width:721px) 980px, 700px') }}
+  <div class="wrap ppwr-grid">
+    <div>
+      <p class="eyebrow eyebrow-light">{{ H.ppwr.eyebrow }}</p>
+      <h2 id="ppwr-h">{{ H.ppwr.title|bold }}</h2>
+      <p class="lead">{{ H.ppwr.text }}</p>
+      <a class="btn btn-light" href="{{ urls['guide-ppwr'] }}">{{ H.ppwr.cta }}{{ M.icon('arrow') }}</a>
+    </div>
+    <ul class="docs">
+      {% set doc_links = [urls['guide-ppwr'], urls.pallets, catalog.url, urls['about-sustainability']] %}
+      {% set doc_imgs = ['ppwr', 'datasheet', 'catalogus', None] %}
+      {% for d in H.ppwr.docs %}<li><a class="doc" href="{{ doc_links[loop.index0] }}"{% if loop.index0 == 2 %} download{% endif %}><span class="doc-img">{% if doc_imgs[loop.index0] %}{{ M.booklet(catalog, 'doc-book', doc_imgs[loop.index0]) }}{% else %}<img class="doc-sticker" src="/assets/img/brand/recycle-100.svg" alt="{{ t.recycle_alt }}" width="80" height="77" loading="lazy" decoding="async">{% endif %}</span><span><b>{{ d.t|shy }}</b> <small>{{ d.d }}</small></span>{{ M.icon('download' if loop.index0 == 2 else 'arrow') }}</a></li>{% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section" aria-labelledby="kb-h">
+  <div class="wrap">
+    {{ M.sec_head(H.knowledge.eyebrow, H.knowledge.title, None, 'kb-h', urls.knowledge, t.knowledge_more) }}
+    <div class="kb-grid kb-home">
+      {% for g in guides[:3] %}{{ M.kcard(g, loop.index, t) }}{% endfor %}
+    </div>
+    {{ M.cat_band(catalog, H.catalog.title, H.catalog.text, H.catalog.cta) }}
+  </div>
+</section>
+
+<section class="section bg-navy about-sec" aria-labelledby="about-h">
+  <div class="wrap about-in">
+    <figure class="about-img"><img src="/assets/img/photos/mould-1200.webp" srcset="/assets/img/photos/mould-640.webp 640w, /assets/img/photos/mould-1200.webp 1200w" sizes="(min-width:1000px) 560px, 92vw" alt="{{ H.about.img_alt }}" width="1200" height="800" loading="lazy" decoding="async"></figure>
+    <div class="about-txt">
+      <p class="eyebrow eyebrow-light">{{ H.about.eyebrow }}</p>
+      <h2 id="about-h">{{ H.about.title|bold }}</h2>
+      <p class="lead">{{ H.about.text }}</p>
+      <ul class="checks checks-light">{% for p in H.about.points %}<li>{{ M.icon('checkc') }}<span>{{ p|grouplink }}</span></li>{% endfor %}</ul>
+      <div class="btn-row"><a class="btn btn-primary" href="{{ urls.about }}">{{ H.about.cta }}{{ M.icon('arrow') }}</a><a class="btn btn-ghost-light" href="{{ urls.careers }}">{{ H.about.cta2 }}</a></div>
+    </div>
+  </div>
+</section>
+
+{{ M.faq_section(page.faq, lang, t) }}
+
+{% endblock %}

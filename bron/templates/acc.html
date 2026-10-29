@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+{% import '_macros.html' as M with context %}
+{% block main %}
+{% call M.phero(page, crumbs) %}{% endcall %}
+{% if acc_cats %}
+<section class="section-sm">
+  <div class="wrap">
+    <ul class="tile-grid tg-3">
+      {% for c in acc_cats %}<li><a class="ptile ptile-acc" href="{{ c.url }}"><span class="ptile-img">{% if c.img %}<img src="{{ c.img }}" alt="{{ c.label }}" width="640" height="400" loading="lazy">{% else %}{{ c.ph }}{% endif %}</span><span class="ptile-txt"><b>{{ c.label }}</b> <small>{{ c.sub }}</small></span>{{ M.icon('arrow') }}</a></li>{% endfor %}
+    </ul>
+  </div>
+</section>
+{% endif %}
+{% if items %}
+<section class="section-sm" aria-labelledby="acc-h">
+  <div class="wrap">
+    {{ M.sec_head(None, t.acc_spec_title, None, 'acc-h') }}
+    <div class="acc-grid">
+      {% for a in items %}
+      <article class="acard" id="{{ a.anchor }}">
+        <div class="a-img">{% if a.img %}<img src="{{ a.img }}" alt="{{ a.name }}" width="640" height="427" loading="lazy">{% else %}{{ a.ph }}{% endif %}</div>
+        <div class="a-body">
+          <h3>{{ a.name }}</h3>
+          <dl>{% for r in a.rows %}<div><dt>{{ r[0] }}</dt><dd>{{ r[1] }}</dd></div>{% endfor %}</dl>
+          <div class="pc-foot">
+            <div class="pc-price">{% if a.price %}<small>{{ t.from_cap }} · {{ t.excl_vat }}{% if a.per_piece %} · {{ t.per_piece }}{% endif %}</small><b>{{ a.price }}</b>{% else %}<span class="req">{{ t.on_request }}</span>{% endif %}</div>
+            <a class="btn btn-outline btn-sm" href="{{ urls.quote }}?sku={{ a.sku|urlencode }}">{{ t.cta_quote }}</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+<section class="section bg-soft">
+  <div class="wrap layout">
+    <div class="prose">{{ body }}</div>
+    <aside class="aside">
+      {% if side_nav %}<div class="aside-card aside-nav"><h2>{{ side_nav.title }}</h2><ul>{% for r in side_nav.links %}<li><a href="{{ r.url }}"{% if r.current %} aria-current="page"{% endif %}>{{ r.label }}</a></li>{% endfor %}</ul></div>{% endif %}
+      {{ M.aside_cta(t, urls, company) }}
+    </aside>
+  </div>
+</section>
+{% if page.faq %}{{ M.faq_section(page.faq, lang, t, soft=False) }}{% endif %}
+{% endblock %}

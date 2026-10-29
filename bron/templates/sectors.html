@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% import '_macros.html' as M with context %}
+{% block main %}
+{% call M.phero(page, crumbs) %}{% endcall %}
+<section class="section">
+  <div class="wrap">
+    <ul class="sector-list">
+      {% for s in sector_cards %}
+      <li><a class="scard" href="{{ s.url }}">
+        <span class="scard-img{% if not s.img %} scard-type c-{{ s.key }}{% endif %}">{% if s.img %}<img src="{{ s.img }}-640.webp" alt="{{ t.sector_alt[s.key] }}" width="640" height="400" loading="lazy" decoding="async">{% else %}{{ M.icon(s.icon) }}{% endif %}</span>
+        <span class="scard-body"><b>{{ s.label|shy }}</b> <small>{{ s.sub }}</small> <span>{{ s.lead }}</span><span class="link-arrow">{{ t.read_more }}{{ M.icon('arrow') }}</span></span>
+      </a></li>
+      {% endfor %}
+      {% if sector_ask %}<li><a class="scard scard-ask" href="{{ sector_ask.url }}"><span class="scard-img scard-type"><span class="scard-big">{{ sector_ask.big }}</span></span> <span class="scard-body"><b>{{ sector_ask.title }}</b> <span>{{ sector_ask.sub }}</span> <span class="link-arrow">{{ t.nav_contact }}{{ M.icon('arrow') }}</span></span></a></li>{% endif %}
+    </ul>
+  </div>
+</section>
+{% if body %}<section class="section bg-soft"><div class="wrap"><div class="prose prose-narrow">{{ body }}</div></div></section>{% endif %}
+{% if page.faq %}{{ M.faq_section(page.faq, lang, t, soft=not body) }}{% endif %}
+{% endblock %}

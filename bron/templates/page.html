@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+{% import '_macros.html' as M with context %}
+{% block main %}
+{% if page_id == 'catalog' %}
+<header class="phero">
+  <div class="wrap phero-in phero-grid">
+    <div>
+      {{ M.crumbs(crumbs) }}
+      {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
+      <h1>{{ page.h1|bold }}</h1>
+      {% if page.lead %}<p class="lead">{{ page.lead_html }}</p>{% endif %}
+      <div class="phero-actions"><a class="btn btn-primary" href="{{ catalog.url }}" download>{{ M.icon('download') }}{{ t.download_catalog }}</a><span class="chip">{{ catalog.meta }}</span></div>
+    </div>
+    <img class="phero-mock" src="/assets/img/booklets/catalogus-480.webp" srcset="/assets/img/booklets/catalogus-480.webp 480w, /assets/img/booklets/catalogus-800.webp 800w" sizes="(min-width:900px) 380px, 220px" alt="{{ t.mm_catalog }}" width="480" height="498" fetchpriority="high">
+  </div>
+</header>
+{% else %}
+{% call M.phero(page, crumbs) %}
+  {% if page_id == 'ultra' %}<div class="phero-actions"><a class="btn btn-primary" href="{{ urls.quote }}?sku={{ ultra_sku }}">{{ t.cta_quote }}{{ M.icon('arrow') }}</a></div>{% endif %}
+{% endcall %}
+{% endif %}
+
+{% if recommend %}
+<section class="section-sm" aria-labelledby="rec-h" data-pagefind-ignore>
+  <div class="wrap">
+    {{ M.sec_head(None, recommend_title, None, 'rec-h') }}
+    <div class="grid-products cols-{{ 2 if recommend|length <= 2 else (3 if recommend|length in (3, 6, 9) else 4) }}">{% for r in recommend %}{{ M.pcard(r, t, lang, loop.index) }}{% endfor %}</div>
+  </div>
+</section>
+{% endif %}
+
+<section class="section{% if recommend %} bg-soft{% endif %}">
+  <div class="wrap layout">
+    <div class="prose">
+      {% if page_photo %}<figure class="page-photo"><img src="{{ page_photo.src }}-1200.webp" srcset="{{ page_photo.src }}-640.webp 640w, {{ page_photo.src }}-1200.webp 1200w" sizes="(min-width:1000px) 760px, 92vw" alt="{{ page_photo.alt }}" width="1200" height="675" decoding="async"></figure>{% endif %}
+      {% if toc %}<details class="toc-m"><summary>{{ t.on_page }}{{ M.icon('chev') }}</summary><ul class="toc-list">{% for id, txt in toc %}<li><a href="#{{ id }}">{{ txt }}</a></li>{% endfor %}</ul></details>{% endif %}
+      {% if team_cards %}<div class="team-grid">{% for p in team_cards %}
+        <section class="team-card" id="{{ p.key }}" aria-labelledby="{{ p.key }}-h">
+          <span class="cp-photo tc-photo"><img src="{{ p.photo }}" alt="{{ p.name }}" width="160" height="160" decoding="async"></span>
+          <div class="tc-txt"><h2 class="tc-name" id="{{ p.key }}-h">{{ p.name }}</h2><p class="tc-role">{{ p.role }}</p><p class="tc-bio">{{ p.bio }}</p>{% if p.linkedin %}<a class="link-arrow" href="{{ p.linkedin }}" rel="noopener" target="_blank">LinkedIn{{ M.icon('arrow') }}</a>{% endif %}</div>
+        </section>{% endfor %}
+      </div>{% endif %}
+      {{ body }}
+    </div>
+    <aside class="aside">
+      {% if toc %}<nav class="aside-card toc toc-terms" aria-label="{{ t.on_page }}"><h2>{{ t.on_page }}</h2><ul class="toc-list">{% for id, txt in toc %}<li><a href="#{{ id }}">{{ txt }}</a></li>{% endfor %}</ul></nav>{% endif %}
+      {% if side_nav %}<div class="aside-card aside-nav"><h2>{{ side_nav.title }}</h2><ul>{% for r in side_nav.links %}<li><a href="{{ r.url }}"{% if r.current %} aria-current="page"{% endif %}>{{ r.label }}</a></li>{% endfor %}</ul></div>{% endif %}
+      {% if page_id not in ['privacy','cookies','terms','thanks','thanks-apply'] %}{{ M.aside_cta(t, urls, company) }}{% endif %}
+      {% if page_id not in ['catalog','privacy','cookies','terms','thanks','thanks-apply'] %}{{ M.catalog_card(t, catalog) }}{% endif %}
+    </aside>
+  </div>
+</section>
+
+{% if page.faq %}{{ M.faq_section(page.faq, lang, t, soft=not recommend) }}{% endif %}
+{% endblock %}

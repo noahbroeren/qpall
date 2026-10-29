@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+{% import '_macros.html' as M with context %}
+{% block main %}
+{% call M.phero(page, crumbs) %}{% endcall %}
+<section class="section news-index">
+  <div class="wrap">
+    {% set first = news_items[0] %}
+    <a class="ncard ncard-feat" href="{{ first.url }}">
+      <span class="ncard-img{% if first.img.endswith('.svg') %} is-svg{% endif %}"><img src="{{ first.img }}"{% if first.srcset %} srcset="{{ first.srcset }}" sizes="(min-width:1100px) 640px, 92vw"{% endif %} alt="{{ first.img_alt }}" width="640" height="400" fetchpriority="high" decoding="async"></span>
+      <span class="ncard-body">
+        <span class="ncard-meta"><span class="badge badge-new">{{ t.news_latest }}</span><span class="ncard-tag">{{ first.tag }}</span>{% if first.date %}<time datetime="{{ first.date }}">{{ first.date_txt }}</time>{% endif %}</span>
+        <b class="ncard-t">{{ first.title }}</b>
+        <span class="ncard-p">{{ first.lead }}</span>
+        <em class="ncard-more">{{ t.read_more }}{{ M.icon('arrow') }}</em>
+      </span>
+    </a>
+    <ul class="news-grid" data-news-grid>
+      {% for n in news_items[1:] %}<li{% if loop.index > 12 %} class="is-more"{% endif %}>{{ M.ncard(n, t) }}</li>
+      {% endfor %}
+    </ul>
+    {% if news_items|length > 13 %}<div class="news-more-row"><button class="btn btn-outline" type="button" data-news-more>{{ t.news_show_more }} <span class="nm-count">({{ news_items|length - 13 }})</span>{{ M.icon('arrow') }}</button></div>{% endif %}
+    <div class="news-foot">
+      <p>{{ t.news_kb_hint }}</p>
+      <a class="btn btn-outline" href="{{ urls.knowledge }}">{{ t.nav_label.knowledge }}{{ M.icon('arrow') }}</a>
+    </div>
+  </div>
+</section>
+{% if body %}<section class="section bg-soft"><div class="wrap"><div class="prose prose-narrow">{{ body }}</div></div></section>{% endif %}
+{% endblock %}

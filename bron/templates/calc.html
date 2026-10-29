@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% import '_macros.html' as M with context %}
+{% block main %}
+{% call M.phero(page, crumbs) %}{% endcall %}
+{{ M.calc_section(t, calc, urls.quote, t.anchor.calc) }}
+{% if calc_table and calc_table.rows %}
+<section class="section std-sec" aria-labelledby="std-h">
+  <div class="wrap">
+    {{ M.sec_head(t.calc_tbl.eyebrow, t.calc_tbl.title, t.calc_tbl.lead, 'std-h') }}
+    <div class="table-scroll"><table class="data-table std-table">
+      <thead><tr><th scope="col">{{ t.calc_tbl.size }}</th><th scope="col">{{ t.calc_tbl.kind }}</th>{% for c in calc_table.cols %}<th scope="col" class="r">{{ c }}</th>{% endfor %}</tr></thead>
+      <tbody>{% for r in calc_table.rows %}<tr{% if r.span %} class="std-first"{% endif %}>{% if r.span %}<th scope="rowgroup" rowspan="{{ r.span }}"><b>{{ r.size }}</b>{% if r.nick %}<small>{{ r.nick }}</small>{% endif %}</th>{% endif %}<td class="k">{{ r.kind }}</td>{% for c in r.cells %}<td class="r{% if not c %} na{% endif %}" data-label="{{ calc_table.cols[loop.index0] }}">{{ c or t.calc_tbl.nofit }}</td>{% endfor %}</tr>{% endfor %}</tbody>
+    </table></div>
+    <p class="std-note">{{ t.calc_tbl.note }}</p>
+  </div>
+</section>
+{% endif %}
+{% if body %}
+<section class="section bg-soft">
+  <div class="wrap layout">
+    <div class="prose">{{ body }}</div>
+    <aside class="aside">{{ M.aside_cta(t, urls, company) }}</aside>
+  </div>
+</section>
+{% endif %}
+{% if page.faq %}{{ M.faq_section(page.faq, lang, t, soft=False) }}{% endif %}
+{% endblock %}
