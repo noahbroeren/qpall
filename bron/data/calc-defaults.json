@@ -1,0 +1,224 @@
+{
+ "QP6040MB4F": {
+  "tautliner": 5200,
+  "mega": 5200,
+  "container20": 0,
+  "container40hc": 4000
+ },
+ "QP6040HB4F": {
+  "tautliner": 5200,
+  "mega": 5200,
+  "container20": 0,
+  "container40hc": 4000
+ },
+ "QP6080LR3RR": {
+  "tautliner": 3300,
+  "mega": 3300,
+  "container20": 0,
+  "container40hc": 2300
+ },
+ "QP6080M6FR": {
+  "tautliner": 2640,
+  "mega": 2640,
+  "container20": 0,
+  "container40hc": 1840
+ },
+ "QP6080HB6FR": {
+  "tautliner": 2640,
+  "mega": 2640,
+  "container20": 0,
+  "container40hc": 1840
+ },
+ "QP76114LB9FR": {
+  "tautliner": 1575,
+  "mega": 1925,
+  "container20": 615,
+  "container40hc": 1410
+ },
+ "QP76114LB3RR": {
+  "tautliner": 525,
+  "mega": 630,
+  "container20": 195,
+  "container40hc": 450
+ },
+ "QP1111LB9FR": {
+  "tautliner": 1080,
+  "mega": 1320,
+  "container20": 450,
+  "container40hc": 1040
+ },
+ "QP1111LB3RR": {
+  "tautliner": 360,
+  "mega": 432,
+  "container20": 130,
+  "container40hc": 300
+ },
+ "QP1111MB3R-AS": {
+  "tautliner": 408,
+  "mega": 456,
+  "container20": 140,
+  "container40hc": 320
+ },
+ "QP1111HB3RR": {
+  "tautliner": 360,
+  "mega": 408,
+  "container20": 130,
+  "container40hc": 300
+ },
+ "QP1140LB9FR": {
+  "tautliner": 990,
+  "mega": 1210,
+  "container20": 450,
+  "container40hc": 1040
+ },
+ "QP1140LB3RR": {
+  "tautliner": 330,
+  "mega": 396,
+  "container20": 130,
+  "container40hc": 300
+ },
+ "QP1140MB3RR": {
+  "tautliner": 352,
+  "mega": 396,
+  "container20": 130,
+  "container40hc": 300
+ },
+ "QP1140HB3RR": {
+  "tautliner": 330,
+  "mega": 374,
+  "container20": 130,
+  "container40hc": 300
+ },
+ "QP1140MB3R-PAS": {
+  "tautliner": 374,
+  "mega": 418,
+  "container20": 140,
+  "container40hc": 320
+ },
+ "QP1208LB9FR": {
+  "tautliner": 1485,
+  "mega": 1815,
+  "container20": 451,
+  "container40hc": 1081
+ },
+ "QP1208LB9FR-FOLIE": {
+  "tautliner": 1320,
+  "mega": 1320,
+  "container20": 440,
+  "container40hc": 920
+ },
+ "QP1208LB3RR": {
+  "tautliner": 495,
+  "mega": 594,
+  "container20": 143,
+  "container40hc": 345
+ },
+ "QP1208MB3RR": {
+  "tautliner": 561,
+  "mega": 627,
+  "container20": 154,
+  "container40hc": 391
+ },
+ "QP1208HB3RR": {
+  "tautliner": 495,
+  "mega": 594,
+  "container20": 143,
+  "container40hc": 345
+ },
+ "EUROPAL800RR": {
+  "tautliner": 598,
+  "mega": 598,
+  "container20": 140,
+  "container40hc": 320
+ },
+ "QP1210LB9FR": {
+  "tautliner": 1170,
+  "mega": 1430,
+  "container20": 410,
+  "container40hc": 940
+ },
+ "QP1210LB9FR-FOLIE": {
+  "tautliner": 1040,
+  "mega": 1040,
+  "container20": 400,
+  "container40hc": 800
+ },
+ "QP1210LB3RR": {
+  "tautliner": 390,
+  "mega": 468,
+  "container20": 130,
+  "container40hc": 300
+ },
+ "QP1210MB3RR": {
+  "tautliner": 442,
+  "mega": 494,
+  "container20": 140,
+  "container40hc": 320
+ },
+ "QP1210HB3RR": {
+  "tautliner": 390,
+  "mega": 468,
+  "container20": 130,
+  "container40hc": 300
+ },
+ "QP1210HP3R-AO": {
+  "tautliner": 390,
+  "mega": 442,
+  "container20": 130,
+  "container40hc": 300
+ },
+ "RECYCPAL1210RR": {
+  "tautliner": 506,
+  "mega": 506,
+  "container20": 56,
+  "container40hc": 144
+ },
+ "QP1212LB9FR": {
+  "tautliner": 990,
+  "mega": 1210,
+  "container20": 180,
+  "container40hc": 468
+ },
+ "QP1212LB3RR": {
+  "tautliner": 330,
+  "mega": 396,
+  "container20": 82,
+  "container40hc": 257
+ },
+ "QP1212MB3RR": {
+  "tautliner": 352,
+  "mega": 396,
+  "container20": 82,
+  "container40hc": 257
+ },
+ "QP1212HB3RR": {
+  "tautliner": 330,
+  "mega": 374,
+  "container20": 82,
+  "container40hc": 255
+ },
+ "QP4048MB3RR": {
+  "tautliner": 442,
+  "mega": 494,
+  "container20": 140,
+  "container40hc": 320
+ },
+ "QP1311MB3R-AS": {
+  "tautliner": 340,
+  "mega": 380,
+  "container20": 120,
+  "container40hc": 290
+ },
+ "QP1311HB3R-AS": {
+  "tautliner": 300,
+  "mega": 360,
+  "container20": 112,
+  "container40hc": 272
+ },
+ "QP1311HB3R": {
+  "tautliner": 300,
+  "mega": 360,
+  "container20": 112,
+  "container40hc": 272
+ }
+}

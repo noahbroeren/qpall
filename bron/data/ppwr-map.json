@@ -1,0 +1,656 @@
+{
+ "1.QP1111MB3R-AS": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "1.QP1140MB3R-PAS": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "1.QP1208MB3RR": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "2.QP1111MB3R-AS": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "2.QP1140MB3RR": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "2.QP1208MB3RR": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "2.QP1210MB3RR": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "3.QP1111MB3R-AS": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "3.QP1140MB3R-PAS": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "3.QP1140MB3RR": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "3.QP1208MB3RR": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "3.QP1210MB3RR": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "4.QP1208MB3RR": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "4.QP1210MB3RR": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "5.QP1208MB3RR": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "QP1111MB3R-SSB": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "QP1140MB3R-PAS": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "QP1212MB3RR": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "QP4048MB3RR": [
+  {
+   "pg": "001",
+   "file": "QPALL_PPWR_EU_DoC_PG-001_V02.pdf"
+  }
+ ],
+ "1.QP1111MB6R-AS": [
+  {
+   "pg": "002",
+   "file": "QPALL_PPWR_EU_DoC_PG-002_V02.pdf"
+  }
+ ],
+ "1.QP1140MB6R-PAS": [
+  {
+   "pg": "002",
+   "file": "QPALL_PPWR_EU_DoC_PG-002_V02.pdf"
+  }
+ ],
+ "2.QP1111MB6R-AS": [
+  {
+   "pg": "002",
+   "file": "QPALL_PPWR_EU_DoC_PG-002_V02.pdf"
+  }
+ ],
+ "2.QP1140MB6RR": [
+  {
+   "pg": "002",
+   "file": "QPALL_PPWR_EU_DoC_PG-002_V02.pdf"
+  }
+ ],
+ "3.QP1111MB6R-AS": [
+  {
+   "pg": "002",
+   "file": "QPALL_PPWR_EU_DoC_PG-002_V02.pdf"
+  }
+ ],
+ "3.QP1140MB6R-PAS": [
+  {
+   "pg": "002",
+   "file": "QPALL_PPWR_EU_DoC_PG-002_V02.pdf"
+  }
+ ],
+ "3.QP1140MB6RR": [
+  {
+   "pg": "002",
+   "file": "QPALL_PPWR_EU_DoC_PG-002_V02.pdf"
+  }
+ ],
+ "QP1140MB6R-PAS": [
+  {
+   "pg": "002",
+   "file": "QPALL_PPWR_EU_DoC_PG-002_V02.pdf"
+  }
+ ],
+ "QP1140MB6RR": [
+  {
+   "pg": "002",
+   "file": "QPALL_PPWR_EU_DoC_PG-002_V02.pdf"
+  }
+ ],
+ "QP1212MB6RR": [
+  {
+   "pg": "002",
+   "file": "QPALL_PPWR_EU_DoC_PG-002_V02.pdf"
+  }
+ ],
+ "QP4048MB6RR": [
+  {
+   "pg": "002",
+   "file": "QPALL_PPWR_EU_DoC_PG-002_V02.pdf"
+  }
+ ],
+ "2.QP1208HB3RR": [
+  {
+   "pg": "003",
+   "file": "QPALL_PPWR_EU_DoC_PG-003_V02.pdf"
+  }
+ ],
+ "2.QP1210HB3RR": [
+  {
+   "pg": "003",
+   "file": "QPALL_PPWR_EU_DoC_PG-003_V02.pdf"
+  }
+ ],
+ "2.QP1311HB3R-AS": [
+  {
+   "pg": "003",
+   "file": "QPALL_PPWR_EU_DoC_PG-003_V02.pdf"
+  }
+ ],
+ "3.QP1210HB3RR": [
+  {
+   "pg": "003",
+   "file": "QPALL_PPWR_EU_DoC_PG-003_V02.pdf"
+  }
+ ],
+ "4.QP1210HB3RR": [
+  {
+   "pg": "003",
+   "file": "QPALL_PPWR_EU_DoC_PG-003_V02.pdf"
+  }
+ ],
+ "4.QP1311HB3R": [
+  {
+   "pg": "003",
+   "file": "QPALL_PPWR_EU_DoC_PG-003_V02.pdf"
+  }
+ ],
+ "QP1111HB3RR": [
+  {
+   "pg": "003",
+   "file": "QPALL_PPWR_EU_DoC_PG-003_V02.pdf"
+  }
+ ],
+ "QP1140HB3RR": [
+  {
+   "pg": "003",
+   "file": "QPALL_PPWR_EU_DoC_PG-003_V02.pdf"
+  }
+ ],
+ "QP1210HP3R-AO": [
+  {
+   "pg": "003",
+   "file": "QPALL_PPWR_EU_DoC_PG-003_V02.pdf"
+  }
+ ],
+ "QP1212HB3RR": [
+  {
+   "pg": "003",
+   "file": "QPALL_PPWR_EU_DoC_PG-003_V02.pdf"
+  }
+ ],
+ "1.QP1208LB9FR": [
+  {
+   "pg": "004",
+   "file": "QPALL_PPWR_EU_DoC_PG-004_V02.pdf"
+  }
+ ],
+ "1.QP1210LB9FR": [
+  {
+   "pg": "004",
+   "file": "QPALL_PPWR_EU_DoC_PG-004_V02.pdf"
+  }
+ ],
+ "2.QP1208LB9FR": [
+  {
+   "pg": "004",
+   "file": "QPALL_PPWR_EU_DoC_PG-004_V02.pdf"
+  }
+ ],
+ "2.QP1210LB9FR": [
+  {
+   "pg": "004",
+   "file": "QPALL_PPWR_EU_DoC_PG-004_V02.pdf"
+  }
+ ],
+ "3.QP1208LB9FR": [
+  {
+   "pg": "004",
+   "file": "QPALL_PPWR_EU_DoC_PG-004_V02.pdf"
+  }
+ ],
+ "QP1111LB9FR": [
+  {
+   "pg": "004",
+   "file": "QPALL_PPWR_EU_DoC_PG-004_V02.pdf"
+  }
+ ],
+ "QP1140LB9FR": [
+  {
+   "pg": "004",
+   "file": "QPALL_PPWR_EU_DoC_PG-004_V02.pdf"
+  }
+ ],
+ "QP1208LB9FR": [
+  {
+   "pg": "004",
+   "file": "QPALL_PPWR_EU_DoC_PG-004_V02.pdf"
+  }
+ ],
+ "QP1210LB9FR": [
+  {
+   "pg": "004",
+   "file": "QPALL_PPWR_EU_DoC_PG-004_V02.pdf"
+  }
+ ],
+ "QP1212LB9FR": [
+  {
+   "pg": "004",
+   "file": "QPALL_PPWR_EU_DoC_PG-004_V02.pdf"
+  }
+ ],
+ "2.QP1208MB3RR-CD": [
+  {
+   "pg": "005",
+   "file": "QPALL_PPWR_EU_DoC_PG-005_V02.pdf"
+  }
+ ],
+ "2.QP1210MB3RR-CD": [
+  {
+   "pg": "005",
+   "file": "QPALL_PPWR_EU_DoC_PG-005_V02.pdf"
+  }
+ ],
+ "3.QP1208MB3RR-CD": [
+  {
+   "pg": "005",
+   "file": "QPALL_PPWR_EU_DoC_PG-005_V02.pdf"
+  }
+ ],
+ "4.QP1208MB3RR-CD": [
+  {
+   "pg": "005",
+   "file": "QPALL_PPWR_EU_DoC_PG-005_V02.pdf"
+  }
+ ],
+ "4.QP1210MB3R-CD-AO": [
+  {
+   "pg": "005",
+   "file": "QPALL_PPWR_EU_DoC_PG-005_V02.pdf"
+  }
+ ],
+ "4.QP1210MB3RR-CD": [
+  {
+   "pg": "005",
+   "file": "QPALL_PPWR_EU_DoC_PG-005_V02.pdf"
+  }
+ ],
+ "5.QP1208MB3R-CD-AO": [
+  {
+   "pg": "005",
+   "file": "QPALL_PPWR_EU_DoC_PG-005_V02.pdf"
+  }
+ ],
+ "5.QP1208MB3RR-CD": [
+  {
+   "pg": "005",
+   "file": "QPALL_PPWR_EU_DoC_PG-005_V02.pdf"
+  }
+ ],
+ "QP4048MB3RR-CD": [
+  {
+   "pg": "005",
+   "file": "QPALL_PPWR_EU_DoC_PG-005_V02.pdf"
+  }
+ ],
+ "1.QP1208LB3RR": [
+  {
+   "pg": "006",
+   "file": "QPALL_PPWR_EU_DoC_PG-006_V02.pdf"
+  }
+ ],
+ "2.QP1208LB3RR": [
+  {
+   "pg": "006",
+   "file": "QPALL_PPWR_EU_DoC_PG-006_V02.pdf"
+  }
+ ],
+ "2.QP1210LB3RR": [
+  {
+   "pg": "006",
+   "file": "QPALL_PPWR_EU_DoC_PG-006_V02.pdf"
+  }
+ ],
+ "3.QP1208LB3RR": [
+  {
+   "pg": "006",
+   "file": "QPALL_PPWR_EU_DoC_PG-006_V02.pdf"
+  }
+ ],
+ "QP1111LB3RR": [
+  {
+   "pg": "006",
+   "file": "QPALL_PPWR_EU_DoC_PG-006_V02.pdf"
+  }
+ ],
+ "QP1140LB3RR": [
+  {
+   "pg": "006",
+   "file": "QPALL_PPWR_EU_DoC_PG-006_V02.pdf"
+  }
+ ],
+ "QP1212LB3RR": [
+  {
+   "pg": "006",
+   "file": "QPALL_PPWR_EU_DoC_PG-006_V02.pdf"
+  }
+ ],
+ "2.QP1208HB3RR-CD": [
+  {
+   "pg": "007",
+   "file": "QPALL_PPWR_EU_DoC_PG-007_V02.pdf"
+  }
+ ],
+ "2.QP1210HB3RR-CD": [
+  {
+   "pg": "007",
+   "file": "QPALL_PPWR_EU_DoC_PG-007_V02.pdf"
+  }
+ ],
+ "2.QP1311HB3R-SCD": [
+  {
+   "pg": "007",
+   "file": "QPALL_PPWR_EU_DoC_PG-007_V02.pdf"
+  }
+ ],
+ "QP1111HB3RR-CD": [
+  {
+   "pg": "007",
+   "file": "QPALL_PPWR_EU_DoC_PG-007_V02.pdf"
+  }
+ ],
+ "QP1140HB3RR-CD": [
+  {
+   "pg": "007",
+   "file": "QPALL_PPWR_EU_DoC_PG-007_V02.pdf"
+  }
+ ],
+ "QP1212HB3RR-CD": [
+  {
+   "pg": "007",
+   "file": "QPALL_PPWR_EU_DoC_PG-007_V02.pdf"
+  }
+ ],
+ "2.QP1210HB6RR": [
+  {
+   "pg": "008",
+   "file": "QPALL_PPWR_EU_DoC_PG-008_V02.pdf"
+  }
+ ],
+ "2.QP1311HB6R-S": [
+  {
+   "pg": "008",
+   "file": "QPALL_PPWR_EU_DoC_PG-008_V02.pdf"
+  }
+ ],
+ "QP1111HB6RR": [
+  {
+   "pg": "008",
+   "file": "QPALL_PPWR_EU_DoC_PG-008_V02.pdf"
+  }
+ ],
+ "QP1140HB6RR": [
+  {
+   "pg": "008",
+   "file": "QPALL_PPWR_EU_DoC_PG-008_V02.pdf"
+  }
+ ],
+ "QP1210HP6R-AO": [
+  {
+   "pg": "008",
+   "file": "QPALL_PPWR_EU_DoC_PG-008_V02.pdf"
+  }
+ ],
+ "QP1212HB6RR": [
+  {
+   "pg": "008",
+   "file": "QPALL_PPWR_EU_DoC_PG-008_V02.pdf"
+  }
+ ],
+ "2.QP1210HB6RR-CD": [
+  {
+   "pg": "009",
+   "file": "QPALL_PPWR_EU_DoC_PG-009_V02.pdf"
+  }
+ ],
+ "2.QP1311HB6R-SCD": [
+  {
+   "pg": "009",
+   "file": "QPALL_PPWR_EU_DoC_PG-009_V02.pdf"
+  }
+ ],
+ "QP1111HB6RR-CD": [
+  {
+   "pg": "009",
+   "file": "QPALL_PPWR_EU_DoC_PG-009_V02.pdf"
+  }
+ ],
+ "QP1140HB6RR-CD": [
+  {
+   "pg": "009",
+   "file": "QPALL_PPWR_EU_DoC_PG-009_V02.pdf"
+  }
+ ],
+ "QP1212HB6RR-CD": [
+  {
+   "pg": "009",
+   "file": "QPALL_PPWR_EU_DoC_PG-009_V02.pdf"
+  }
+ ],
+ "1.QP1208LB9FR-CD": [
+  {
+   "pg": "010",
+   "file": "QPALL_PPWR_EU_DoC_PG-010_V02.pdf"
+  }
+ ],
+ "1.QP1210LB9FR-CD": [
+  {
+   "pg": "010",
+   "file": "QPALL_PPWR_EU_DoC_PG-010_V02.pdf"
+  }
+ ],
+ "2.QP1208LB9FR-CD": [
+  {
+   "pg": "010",
+   "file": "QPALL_PPWR_EU_DoC_PG-010_V02.pdf"
+  }
+ ],
+ "2.QP1210LB9FR-CD": [
+  {
+   "pg": "010",
+   "file": "QPALL_PPWR_EU_DoC_PG-010_V02.pdf"
+  }
+ ],
+ "3.QP1208LB9FR-CD": [
+  {
+   "pg": "010",
+   "file": "QPALL_PPWR_EU_DoC_PG-010_V02.pdf"
+  }
+ ],
+ "QP-RUN-H": [
+  {
+   "pg": "011",
+   "file": "QPALL_PPWR_EU_DoC_PG-011_V02.pdf"
+  }
+ ],
+ "QP-RUN-L": [
+  {
+   "pg": "011",
+   "file": "QPALL_PPWR_EU_DoC_PG-011_V02.pdf"
+  }
+ ],
+ "QPRUN1111": [
+  {
+   "pg": "011",
+   "file": "QPALL_PPWR_EU_DoC_PG-011_V02.pdf"
+  }
+ ],
+ "QPRUN1140": [
+  {
+   "pg": "011",
+   "file": "QPALL_PPWR_EU_DoC_PG-011_V02.pdf"
+  }
+ ],
+ "QPRUN1212": [
+  {
+   "pg": "011",
+   "file": "QPALL_PPWR_EU_DoC_PG-011_V02.pdf"
+  }
+ ],
+ "2.QP1208LB3RR-CD": [
+  {
+   "pg": "012",
+   "file": "QPALL_PPWR_EU_DoC_PG-012_V02.pdf"
+  }
+ ],
+ "2.QP1210LB3RR-CD": [
+  {
+   "pg": "012",
+   "file": "QPALL_PPWR_EU_DoC_PG-012_V02.pdf"
+  }
+ ],
+ "3.QP1208LB3RR-CD": [
+  {
+   "pg": "012",
+   "file": "QPALL_PPWR_EU_DoC_PG-012_V02.pdf"
+  }
+ ],
+ "QP1208LB3RR-CD": [
+  {
+   "pg": "012",
+   "file": "QPALL_PPWR_EU_DoC_PG-012_V02.pdf"
+  }
+ ],
+ "3.QP1210HB5RR": [
+  {
+   "pg": "013",
+   "file": "QPALL_PPWR_EU_DoC_PG-013_V02.pdf"
+  }
+ ],
+ "4.QP1210HB5RR": [
+  {
+   "pg": "013",
+   "file": "QPALL_PPWR_EU_DoC_PG-013_V02.pdf"
+  }
+ ],
+ "4.QP1311HB5R": [
+  {
+   "pg": "013",
+   "file": "QPALL_PPWR_EU_DoC_PG-013_V02.pdf"
+  }
+ ],
+ "4.QP1210MB5R-CD-AO": [
+  {
+   "pg": "014",
+   "file": "QPALL_PPWR_EU_DoC_PG-014_V02.pdf"
+  }
+ ],
+ "4.QP1210MB5RR-CD": [
+  {
+   "pg": "014",
+   "file": "QPALL_PPWR_EU_DoC_PG-014_V02.pdf"
+  }
+ ],
+ "3.QP1210MB5RR": [
+  {
+   "pg": "015",
+   "file": "QPALL_PPWR_EU_DoC_PG-015_V02.pdf"
+  }
+ ],
+ "4.QP1210MB5RR": [
+  {
+   "pg": "015",
+   "file": "QPALL_PPWR_EU_DoC_PG-015_V02.pdf"
+  }
+ ],
+ "QP6080LR3RR": [
+  {
+   "pg": "016",
+   "file": "QPALL_PPWR_EU_DoC_PG-016_V02.pdf"
+  }
+ ],
+ "QP6040MB4F": [
+  {
+   "pg": "017",
+   "file": "QPALL_PPWR_EU_DoC_PG-017_V02.pdf"
+  }
+ ],
+ "QP6080HB6FR": [
+  {
+   "pg": "018",
+   "file": "QPALL_PPWR_EU_DoC_PG-018_V02.pdf"
+  }
+ ],
+ "QP6080M6FR": [
+  {
+   "pg": "019",
+   "file": "QPALL_PPWR_EU_DoC_PG-019_V02.pdf"
+  }
+ ],
+ "QP4048MB6RR-CD": [
+  {
+   "pg": "020",
+   "file": "QPALL_PPWR_EU_DoC_PG-020_V02.pdf"
+  }
+ ]
+}
