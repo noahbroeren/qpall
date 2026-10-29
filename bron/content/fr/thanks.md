@@ -4,6 +4,7 @@ title: Merci pour votre message – Q-Pall
 description: Merci pour votre demande. Nous avons bien reçu votre message et Q-Pall vous recontacte en général sous un jour ouvré au sujet de votre question ou devis.
 eyebrow: Message reçu
 h1: Merci, **nous avons bien reçu votre message**
+h1_named: Merci, {name} ! **Nous avons bien reçu votre message.**
 lead: Nous vous répondons en général sous un jour ouvré. C’est urgent ? Appelez-nous au +31 (0)413 353 111.
 next:
   h: Et maintenant ?

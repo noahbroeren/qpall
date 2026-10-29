@@ -4,6 +4,7 @@ title: Vielen Dank für Ihre Nachricht – Q-Pall
 description: Vielen Dank für Ihre Anfrage an Q-Pall. Wir haben Ihre Nachricht erhalten und melden uns meist innerhalb eines Werktags zu Ihrer Frage oder Angebotsanfrage.
 eyebrow: Nachricht erhalten
 h1: Vielen Dank, **wir haben Ihre Nachricht erhalten**
+h1_named: Vielen Dank, {name}! **Wir haben Ihre Nachricht erhalten.**
 lead: Wir melden uns in der Regel innerhalb eines Werktags bei Ihnen. Eilt es? Rufen Sie uns an unter +31 (0)413 353 111.
 next:
   h: Wie geht es weiter?

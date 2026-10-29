@@ -4,6 +4,7 @@ title: Bedankt voor uw bericht – Q-Pall
 description: Bedankt voor uw aanvraag bij Q-Pall. We hebben uw bericht goed ontvangen en nemen meestal binnen één werkdag contact met u op over uw vraag of offerte.
 eyebrow: Bericht ontvangen
 h1: Bedankt, **we hebben uw bericht ontvangen**
+h1_named: Bedankt, {name}! **We hebben uw bericht ontvangen.**
 lead: We nemen meestal binnen één werkdag contact met u op. Heeft u haast? Bel ons op +31 (0)413 353 111.
 next:
   h: Wat gebeurt er nu?

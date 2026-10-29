@@ -4,6 +4,7 @@ title: Grazie per la vostra candidatura – Q-Pall
 description: Grazie per esservi candidati in Q-Pall. Abbiamo ricevuto la vostra candidatura e il CV e vi contatteremo il prima possibile per i prossimi passi.
 eyebrow: Candidatura ricevuta
 h1: Grazie per **la vostra candidatura**
+h1_named: Grazie, {name}! **La vostra candidatura è arrivata.**
 lead: Abbiamo ricevuto la vostra candidatura. Sabine vi contatterà il prima possibile. Avete una domanda nel frattempo? Chiamateci al +31 (0)413 353 111.
 next:
   h: Cosa succede ora?

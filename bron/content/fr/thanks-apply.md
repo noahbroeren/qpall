@@ -4,6 +4,7 @@ title: Merci pour votre candidature – Q-Pall
 description: Merci pour votre candidature chez Q-Pall. Nous avons bien reçu vos informations et votre CV, et vous contacterons dès que possible.
 eyebrow: Candidature reçue
 h1: Merci pour **votre candidature**
+h1_named: Merci, {name} ! **Votre candidature est bien arrivée.**
 lead: Nous avons bien reçu votre candidature. Sabine vous contactera dès que possible. Une question d’ici là ? Appelez-nous au +31 (0)413 353 111.
 next:
   h: Et maintenant ?

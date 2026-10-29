@@ -36,6 +36,11 @@
       sset('qp-lead', f.name === 'offerte' ? 'quote' : 'contact');
     }
     if (f && f.name === 'sollicitatie') sset('qp-lead', 'apply');
+    if (f && (f.name === 'contact' || f.name === 'sollicitatie')) {   // update 25: first name for the thank-you heading
+      var nf = f.elements[f.name === 'contact' ? 'naam' : 'voornaam'];
+      var fn = nf && nf.value ? nf.value.trim().split(/\s+/)[0] : '';
+      sset('qp-name', fn ? JSON.stringify({ f: f.name, n: fn, ts: Date.now() }) : null);
+    }
   }, true);
   d.addEventListener('submit', function (e) {   // bubble phase: after the quote form has filled in its product list
     var f = e.target;
@@ -668,6 +673,17 @@
       });
       if (!(q.items || []).length) ul.hidden = true;
       tySum.hidden = false;
+    }
+  }
+
+  /* ---------- thank-you page after the contact or application form: first name in the heading (update 25) ---------- */
+  var tyH1 = $('[data-ty-h1]');
+  if (tyH1 && !tySum) {
+    var tyName = null;
+    try { tyName = JSON.parse(sget('qp-name') || 'null'); } catch (e) {}
+    var tyForm = { 'thanks': 'contact', 'thanks-apply': 'sollicitatie' }[PID];
+    if (tyName && tyName.n && tyName.f === tyForm && Date.now() - (tyName.ts || 0) < 6 * 3600 * 1000) {
+      tyH1.innerHTML = esc(tyH1.dataset.named).replace('{name}', esc(tyName.n)).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
     }
   }
 

@@ -731,3 +731,10 @@ UPDATE 24 (29 oktober 2026, HubSpot-trackingcode)
   (Netwerk) dat 25981072.js laadt. Bezoeken komen in HubSpot onder het domein van de testsite.
   Let op: wie geen toestemming geeft, wordt niet gevolgd, en formulieren gaan dan ook niet via de trackingcode naar
   HubSpot. Elke inzending in HubSpot kan alleen via HUBSPOT_FORMS (formulier-ID's, Forms API), zie update 19.
+
+UPDATE 25 (29 oktober 2026, naam op de bedankpagina's)
+  Net als na de offerteaanvraag noemt de bedankpagina na het contactformulier en na een sollicitatie nu de voornaam:
+  "Bedankt, Piet! We hebben uw bericht ontvangen." en "Bedankt, Sanne! Je sollicitatie is binnen." (6 talen,
+  front matter h1_named in content/<taal>/thanks.md en thanks-apply.md). site.js bewaart bij het versturen alleen de
+  voornaam in sessionStorage 'qp-name' (contact: eerste woord van 'naam', sollicitatie: 'voornaam'), maximaal 6 uur
+  en alleen in dat tabblad. Zonder verstuurd formulier blijft de gewone kop staan.
