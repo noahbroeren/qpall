@@ -742,3 +742,10 @@ UPDATE 25 (29 oktober 2026, naam op de bedankpagina's)
   "Bedankt! Uw offerteaanvraag is binnen." / "Bedankt! We hebben uw bericht ontvangen." / "Bedankt! Je sollicitatie
   is binnen." (DE overal "Danke!"). De intro van de sollicitatie-bedankpagina begint nu met Sabine (de zin "We hebben je
   sollicitatie goed ontvangen" herhaalde de kop).
+
+UPDATE 26 (29 oktober 2026, afbeeldingen voor de bevestigingsmails)
+  root/assets/email/ (staat op de site onder /assets/email/): logo-wit.png, kop-q.jpg en kop-q-mobiel.jpg (grote
+  oranje Q achter de kop), voet-q.png, icoon-telefoon.png, icoon-mail.png, ecovadis.png, linkedin.png en per artikel
+  een kleine productfoto p/<artikelnummer>.jpg (jpg, want Outlook toont geen webp). De productfoto's maak je opnieuw
+  met: python3 tools/email_assets.py ../qpall-website (na build.py), daarna build.py nog een keer.
+  De mails zelf staan als template in Brevo (nog niet gekoppeld aan de site).
