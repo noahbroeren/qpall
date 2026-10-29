@@ -1,0 +1,60 @@
+
+# 20 oktober 2026: hoofdfoto uit "Q-Pall fotos per SKU 2026-10-14" (eigen foto per artikelnummer)
+qp1140mb6r-pas-cp9	QP1140MB6R-PAS-CP9_cp9-pallet-1140x1140x150-open-dek-6-onderlatten-middelzwaar_01.webp
+qp1140hb3rr-cp3	QP1140HB3RR-CP3_cp3-pallet-1140x1140x165-open-dek-3-onderlatten-zwaar_02.webp
+qp1140hb6rr-cp9	QP1140HB6RR-CP9_cp9-pallet-1140x1140x165-open-dek-6-onderlatten-zwaar_02.webp
+h1-europallet	H1-Europallet_h1-europallet-1200x800x160-open-dek-3-onderlatten-zwaar_02.webp
+qpw1208hp3rr-cd	QPW1208HP3RR-CD_kunststof-cleanroompallet-1200x800x160-gesloten-dek-3-onderlatten-zwaar_02.png
+qp4048mb3rr-cd	QP4048MB3RR-CD_kunststof-pallet-1220x1020x150-gesloten-dek-3-onderlatten-middelzwaar_01.jpg
+qp4048mb6rr-cd	QP4048MB6RR-CD_kunststof-pallet-1220x1020x150-gesloten-dek-6-onderlatten-middelzwaar_01.jpg
+qp1210mb3rr-cp1	2.QP1210MB3RR-CP1_cp1-pallet-1200x1000x150-open-dek-3-onderlatten-middelzwaar_02.webp
+qph1210hr5rr-cd	QPH1210HR5RR-CD_kunststof-pallet-1200x1000x160-gesloten-dek-5-onderlatten-zwaar_01.webp
+qp1210hb3rr-cp1	2.QP1210HB3RR-CP1_cp1-pallet-1200x1000x158-open-dek-3-onderlatten-zwaar_02.webp
+qp1210hb6rr-cp6	2.QP1210HB6RR-CP6_cp6-pallet-1200x1000x158-open-dek-6-onderlatten-zwaar_02.webp
+qph1210hp3rr	QPH1210HP3RR_industriele-pallet-1200x1000x160-open-dek-3-onderlatten-zwaar_02.webp
+qpw1210hp3rr-cd	QPW1210HP3RR-CD_kunststof-cleanroompallet-1200x1000x160-gesloten-dek-3-onderlatten-zwaar_02.png
+qpw1210hp5rr-cd	QPW1210HP5RR-CD_kunststof-cleanroompallet-1200x1000x160-gesloten-dek-5-onderlatten-zwaar_02.png
+qp1210mb5r-cd-ao	4.QP1210MB5R-CD-AO_kunststof-pallet-1200x1000x150-gesloten-dek-5-onderlatten-middelzwaar_01.webp
+
+# 22 oktober 2026: foto's per artikelnummer, gekozen op matrijs (QP-nummer van de fotomap in "Q-Pall fotos per SKU")
+2-qp1208lb3rr	3.QP1208LB3RR_kunststof-pallet-1200x800x160-open-dek-3-onderlatten-licht_06.jpg
+2-qp1208lb3rr	3.QP1208LB3RR_kunststof-pallet-1200x800x160-open-dek-3-onderlatten-licht_09.jpg
+2-qp1208lb3rr	3.QP1208LB3RR_kunststof-pallet-1200x800x160-open-dek-3-onderlatten-licht_07.jpg
+2-qp1208lb3rr-cd	3.QP1208LB3RR-CD_kunststof-pallet-1200x800x158-gesloten-dek-3-onderlatten-licht_08.jpg
+2-qp1208lb3rr-cd	3.QP1208LB3RR-CD_kunststof-pallet-1200x800x158-gesloten-dek-3-onderlatten-licht_07.jpg
+qp1210lb9fr	2.QP1210LB9FR_kunststof-pallet-1200x1000x150-open-dek-9-pootjes-licht_07.jpg
+qp1210lb9fr	2.QP1210LB9FR-CD_kunststof-pallet-1200x1000x150-gesloten-dek-9-pootjes-licht_05.jpg
+qp1210lb9fr-cd	2.QP1210LB9FR-CD_kunststof-pallet-1200x1000x150-gesloten-dek-9-pootjes-licht_06.jpg
+qp1210mb3rr	3.QP1210MB3RR_kunststof-pallet-1200x1000x150-open-dek-3-onderlatten-middelzwaar_04.jpg
+qp1210mb3rr	2.QP1210MB3RR_kunststof-pallet-1200x1000x150-open-dek-3-onderlatten-middelzwaar_05.jpg
+2-qp1210mb3rr-cd	2.QP1210HB3RR-CD_kunststof-pallet-1200x1000x158-gesloten-dek-3-onderlatten-zwaar_03.jpg
+2-qp1210mb3rr-cd	2.QP1210HB3RR-CD_kunststof-pallet-1200x1000x158-gesloten-dek-3-onderlatten-zwaar_02.jpg
+2-qp1210mb3rr-cd	2.QP1210HB3RR-CD_kunststof-pallet-1200x1000x158-gesloten-dek-3-onderlatten-zwaar_04.jpg
+2-qp1210hb3rr	2.QP1210HB3RR_kunststof-pallet-1200x1000x158-open-dek-3-onderlatten-zwaar_07.jpg
+2-qp1210hb3rr	2.QP1210HB3RR_kunststof-pallet-1200x1000x158-open-dek-3-onderlatten-zwaar_08.jpg
+2-qp1210hb3rr	2.QP1210HB3RR_kunststof-pallet-1200x1000x158-open-dek-3-onderlatten-zwaar_09.jpg
+2-qp1208mb3rr	1.QP1208MB3RR_kunststof-pallet-1200x800x145-open-dek-3-onderlatten-middelzwaar_09.jpg
+2-qp1208mb3rr	1.QP1208MB3RR_kunststof-pallet-1200x800x145-open-dek-3-onderlatten-middelzwaar_10.png
+3-qp1208mb3rr	1.QP1208MB3RR_kunststof-pallet-1200x800x145-open-dek-3-onderlatten-middelzwaar_06.png
+3-qp1208mb3rr	1.QP1208MB3RR_kunststof-pallet-1200x800x145-open-dek-3-onderlatten-middelzwaar_05.png
+4-qp1210mb3rr	3.QP1210MB3RR_kunststof-pallet-1200x1000x150-open-dek-3-onderlatten-middelzwaar_01.png
+qp1210mb5rr	3.QP1210MB5RR_kunststof-pallet-1200x1000x150-open-dek-5-onderlatten-middelzwaar_03.png
+qp1210mb5rr	3.QP1210MB5RR_kunststof-pallet-1200x1000x150-open-dek-5-onderlatten-middelzwaar_02.png
+4-qp1210mb5rr	3.QP1210MB5RR_kunststof-pallet-1200x1000x150-open-dek-5-onderlatten-middelzwaar_01.png
+
+# update 17: hogere resolutie uit de fotobibliotheek (zelfde foto)
+2-qp1208lb9fr	2.QP1208LB9FR_kunststof-pallet-1200x800x149-open-dek-9-pootjes-licht_01.jpg
+2-qp1208lb9fr	2.QP1208LB9FR_kunststof-pallet-1200x800x149-open-dek-9-pootjes-licht_02.jpg
+2-qp1208lb9fr-cd	2.QP1208LB9FR-CD_kunststof-pallet-1200x800x149-gesloten-dek-9-pootjes-licht_01.jpg
+2-qp1208lb9fr-cd	2.QP1208LB9FR-CD_kunststof-pallet-1200x800x149-gesloten-dek-9-pootjes-licht_02.jpg
+4-qp1210hb3rr	4.QP1210HB3RR_kunststof-pallet-1200x1000x160-open-dek-3-onderlatten-zwaar_01.jpg
+4-qp1210hb3rr	4.QP1210HB3RR_kunststof-pallet-1200x1000x160-open-dek-3-onderlatten-zwaar_06.webp
+4-qp1210hb5rr	4.QP1210HB5RR_kunststof-pallet-1200x1000x160-open-dek-5-onderlatten-zwaar_06.jpg
+4-qp1210hb5rr	4.QP1210HB5RR_kunststof-pallet-1200x1000x160-open-dek-5-onderlatten-zwaar_09.webp
+qp1311hb5r	4.QP1311HB5R_kunststof-pallet-1300x1100x160-open-dek-5-onderlatten-zwaar_01.jpg
+qp1208mb3rr	1.QP1208MB3RR_kunststof-pallet-1200x800x145-open-dek-3-onderlatten-middelzwaar_03.jpg
+
+# update 19 (Noah 28-10-2026)
+qp1140mb6rr-art	qp1140mb6rr.webp, qp1140mr6rr-1-2000x1000-1.webp (onderkant)
+qp1208lb9fr-art	qp1208lb9fr.webp, kunststof-pallet-800-1200-qp1208lr9fr-b.webp (onderkant)
+qph1208hr3rr-eco	onderkant aangeleverd door Noah

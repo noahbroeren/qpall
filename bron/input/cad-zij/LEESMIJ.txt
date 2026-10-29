@@ -1,0 +1,3 @@
+Tekeningen met alleen de zij- en kopaanzichten (geen bovenaanzicht), per artikel-id.
+De datasheet gebruikt ze als er geen volledige tekening in input/cad/ staat; onderschrift: ds_cad_sides.
+Bron: technische tekening van de producent, zonder merk- of modelnamen (niet noemen op de site).
