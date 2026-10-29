@@ -738,3 +738,7 @@ UPDATE 25 (29 oktober 2026, naam op de bedankpagina's)
   front matter h1_named in content/<taal>/thanks.md en thanks-apply.md). site.js bewaart bij het versturen alleen de
   voornaam in sessionStorage 'qp-name' (contact: eerste woord van 'naam', sollicitatie: 'voornaam'), maximaal 6 uur
   en alleen in dat tabblad. Zonder verstuurd formulier blijft de gewone kop staan.
+  KOPPEN GELIJK: de drie bedankpagina's hebben nu dezelfde opbouw en leestekens, met en zonder naam:
+  "Bedankt! Uw offerteaanvraag is binnen." / "Bedankt! We hebben uw bericht ontvangen." / "Bedankt! Je sollicitatie
+  is binnen." (DE overal "Danke!"). De intro van de sollicitatie-bedankpagina begint nu met Sabine (de zin "We hebben je
+  sollicitatie goed ontvangen" herhaalde de kop).

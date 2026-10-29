@@ -3,7 +3,7 @@ id: thanks
 title: Thank you for your message – Q-Pall
 description: Thank you for your enquiry to Q-Pall. We have received your message and will usually contact you within one working day about your question or quote.
 eyebrow: Message received
-h1: Thank you, **we have received your message**
+h1: Thank you! **We have received your message.**
 h1_named: Thank you, {name}! **We have received your message.**
 lead: We will usually get back to you within one working day. In a hurry? Call us on +31 (0)413 353 111.
 next:

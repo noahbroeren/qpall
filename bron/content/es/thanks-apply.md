@@ -3,9 +3,9 @@ id: thanks-apply
 title: Gracias por su candidatura – Q-Pall
 description: Gracias por postularse en Q-Pall. Hemos recibido sus datos y su CV, y nos pondremos en contacto con usted lo antes posible.
 eyebrow: Candidatura recibida
-h1: Gracias por **su candidatura**
+h1: ¡Gracias! **Su candidatura ha llegado.**
 h1_named: ¡Gracias, {name}! **Su candidatura ha llegado.**
-lead: Hemos recibido su candidatura. Sabine se pondrá en contacto con usted lo antes posible. ¿Tiene alguna pregunta mientras tanto? Llámenos al +31 (0)413 353 111.
+lead: Sabine se pondrá en contacto con usted lo antes posible. ¿Tiene alguna pregunta mientras tanto? Llámenos al +31 (0)413 353 111.
 next:
   h: ¿Qué pasa ahora?
   steps:

@@ -3,9 +3,9 @@ id: thanks-apply
 title: Vielen Dank für Ihre Bewerbung – Q-Pall
 description: Vielen Dank für Ihre Bewerbung bei Q-Pall. Wir haben Ihre Daten erhalten und melden uns so schnell wie möglich bei Ihnen.
 eyebrow: Bewerbung erhalten
-h1: Vielen Dank für **Ihre Bewerbung**
+h1: Danke! **Ihre Bewerbung ist eingegangen.**
 h1_named: Danke, {name}! **Ihre Bewerbung ist eingegangen.**
-lead: 'Wir haben Ihre Bewerbung erhalten. Sabine meldet sich so schnell wie möglich bei Ihnen. Haben Sie in der Zwischenzeit eine Frage? Rufen Sie uns an: +31 (0)413 353 111.'
+lead: 'Sabine meldet sich so schnell wie möglich bei Ihnen. Haben Sie in der Zwischenzeit eine Frage? Rufen Sie uns an: +31 (0)413 353 111.'
 next:
   h: Wie geht es weiter?
   steps:

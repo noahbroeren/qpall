@@ -3,9 +3,9 @@ id: thanks-apply
 title: Bedankt voor je sollicitatie – Q-Pall
 description: Bedankt voor je sollicitatie bij Q-Pall. We hebben je gegevens goed ontvangen en nemen zo snel mogelijk contact met je op.
 eyebrow: Sollicitatie ontvangen
-h1: Bedankt voor **je sollicitatie**
+h1: Bedankt! **Je sollicitatie is binnen.**
 h1_named: Bedankt, {name}! **Je sollicitatie is binnen.**
-lead: We hebben je sollicitatie goed ontvangen. Sabine neemt zo snel mogelijk contact met je op. Heb je in de tussentijd een vraag? Bel ons op +31 (0)413 353 111.
+lead: Sabine neemt zo snel mogelijk contact met je op. Heb je in de tussentijd een vraag? Bel ons op +31 (0)413 353 111.
 next:
   h: Zo gaat het verder
   steps:
