@@ -1,0 +1,10 @@
+# Alle zoekmachines en AI-assistenten (GPTBot, ClaudeBot, PerplexityBot, Google-Extended) mogen de site lezen
+User-agent: *
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+User-agent: Google-Extended
+Allow: /
+Disallow: /pagefind/
+
+Sitemap: https://qpall.com/sitemap.xml
