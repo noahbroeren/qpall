@@ -1,7 +1,7 @@
 ---
 id: class-heavy
 title: "Schwerlast-Kunststoffpaletten – bis 2.000 kg Regalbelastung"
-description: "Schwerlast-Kunststoffpaletten: 7.500 kg statisch, bis 2.200 kg dynamisch und bis 2.000 kg im Regal. Offenes oder geschlossenes Deck, 3 bis 6 Kufen."
+description: "Schwerlast-Kunststoffpaletten: bis 7.500 kg statisch, bis 2.200 kg dynamisch und bis 2.000 kg im Regal. Offenes oder geschlossenes Deck, 3 bis 6 Kufen."
 eyebrow: "Lastklasse Heavy"
 h1: "**Schwerlast**-Kunststoffpaletten"
 lead: "Für schwere Lasten, hohe Regale und jahrelangen intensiven Einsatz. Es gibt [[count]] Heavy-Modelle, darunter Hygiene-, CP- und Poolpaletten."

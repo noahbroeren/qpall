@@ -1,7 +1,7 @@
 ---
 id: sector-retail
 title: "Palets de plástico para distribución y supermercados"
-description: "Palets de plástico para distribución: expositores y europalets que van del almacén al lineal sin reembalar. Ligeros, higiénicos, reutilizables y con IoT."
+description: "Palets de plástico para distribución: expositores y europalets que van del almacén al lineal sin reembalar. Ligeros, fáciles de limpiar y reutilizables."
 eyebrow: "Sector"
 h1: "Palets de plástico para la **distribución**"
 lead: "En la distribución, la logística debe ser rápida, limpia y sostenible. Con los palets expositores, los productos llegan al lineal sin reembalar, y los europalets duran muchos viajes."
@@ -10,7 +10,7 @@ faq:
   - q: "¿Qué ventaja tienen los palets expositores en la tienda?"
     a: "Un palet expositor se carga en el centro de distribución y va directamente a la tienda. No hace falta reembalar. Esto ahorra tiempo en la tienda y garantiza una presentación cuidada."
   - q: "¿Se pueden rastrear los palets de plástico?"
-    a: "Sí. Junto con Auchan e IBM, estamos poniendo en circulación en Francia 50.000 palets inteligentes con tecnología IoT para detectar ubicación, temperatura y golpes. Contacte con nosotros si quiere saber más sobre los palets inteligentes."
+    a: "Sí. Junto con Auchan e IBM, pusimos en circulación en Francia [50.000 palets inteligentes](@news-auchan) con tecnología IoT para detectar ubicación, temperatura y golpes. Contacte con nosotros si quiere saber más sobre los palets inteligentes."
   - q: "¿Son más caros los palets de plástico que los de madera en la distribución?"
     a: "Por unidad, a menudo sí. Por viaje, normalmente no. Los palets de plástico duran mucho más, sufren menos daños y no necesitan reparaciones. Más información en nuestra [guía de precios](@guide-prices)."
 ---

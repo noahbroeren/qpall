@@ -1,31 +1,57 @@
 ---
 id: news-choosing-size
-title: "Choisir la bonne taille de palette : les points à vérifier"
-description: "Type de charge, conditionnement, exigences d’hygiène : voici les points à vérifier pour déterminer la bonne taille de palette pour vos marchandises."
+title: "Choisir la bonne taille de palette – Q-Pall"
+description: "Quelle taille de palette vous faut-il ? Découvrez comment le chargement, le transport, le stockage et l’automatisation déterminent le bon format de palette."
 eyebrow: "Actualités"
 tag: "Conseils"
 crumb: "Choisir la bonne taille de palette"
 h1: "Choisir la bonne taille de palette : **les points à vérifier**"
-lead: "Type de charge, conditionnement, exigences d’hygiène : voici les points à vérifier pour déterminer la bonne taille de palette pour vos marchandises."
-img_alt: "Choisir la bonne taille de palette : les points à vérifier"
+lead: "Quelle taille de palette vous faut-il ? Cela dépend de votre chargement, de votre transport, de votre mode de stockage et d’une éventuelle automatisation. Voici les points à vérifier pour choisir le bon format."
+img_alt: "Palette plastique noire à plateau ajouré sur trois semelles"
 reading: 3
+faq:
+- q: "Quelle est la taille de palette la plus utilisée ?"
+  a: "En Europe, c’est l’europalette de 1200 x 800 mm. Dans l’industrie et au Royaume-Uni, le format 1200 x 1000 mm est très répandu."
+- q: "Quelle taille de palette convient à un conteneur maritime ?"
+  a: "Pour les conteneurs maritimes, les palettes carrées de 1100 x 1100 mm et les palettes de 760 x 1140 mm sont pratiques. Le format le mieux adapté dépend du type de conteneur."
+- q: "Q-Pall peut-elle fabriquer une palette dans une taille spéciale ?"
+  a: "Non, nous ne concevons pas de palettes entièrement nouvelles. Avec environ 130 modèles en neuf formats, il existe généralement une taille adaptée. Nous adaptons en revanche des modèles existants, par exemple avec un logo ou votre propre couleur."
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-Lorsque vous avez besoin de palettes, il est important de faire le bon choix. Ce choix dépend d’un certain nombre d’aspects. Bien entendu l’usage prévu des palettes fait partie de ce processus de choix. Lorsque vous choisissez des palettes en plastique par exemple il est possible de choisir une palette hygiénique spéciale. Un autre point à garder à l’esprit est la capacité de charge. Et vous devez choisir la bonne taille de palette. Mais à quoi devez-vous faire attention lorsque vous déterminez la bonne taille ?
+> **En bref**
+>
+> * La bonne taille de palette dépend d’abord de votre chargement : sa nature, son conditionnement et ses dimensions.
+> * Le format doit aussi convenir à vos camions, conteneurs et rayonnages.
+> * Dans un entrepôt automatisé, les palettes doivent avoir exactement les dimensions pour lesquelles les systèmes sont réglés.
+> * Q-Pall propose environ 130 modèles en neuf formats, du 600 x 400 au 1300 x 1100 mm.
 
-## Quelle est la charge de la palette ?
+Quand vous avez besoin de palettes, vous voulez faire le bon choix. À quoi serviront les palettes, quel est le poids du chargement et la palette doit-elle par exemple être hygiénique ? Et quelle taille vous faut-il ? C’est cette dernière question que nous traitons ici. Vous trouverez tous les formats standard dans notre aperçu des [formats de palettes](@guide-sizes).
 
-La première chose à déterminer est à quoi les palettes vont être utilisés. Quelle est la charge qu’elles vont porter ? S’agit-il de boîtes, de big-bags, de tonneaux contenant des liquides, ou de produits réfrigérés, et l’hygiène fait-elle partie des exigences ? Cela détermine largement le type de palette dont vous avez besoin. En fonction de la charge, vous déterminez la taille adéquate. Comment la charge est-elle conditionnée et quelles sont ses dimensions ? Chaque type de palette est disponible dans différentes tailles, il y a ainsi toujours une taille correspondant à vos besoins.
+## Que va porter la palette ?
 
-## Les palettes sont-elles utilisées dans un stockage automatisé ?
+Déterminez d’abord ce que les palettes vont porter. S’agit-il de cartons, de conteneurs, de big bags ou de fûts de liquide ? Ou de produits réfrigérés pour lesquels l’hygiène est une exigence ? Cela détermine en grande partie le type de palette dont vous avez besoin.
 
-Si les palettes en plastique sont utilisées dans un environnement dans lequel les processus de stockage et de transport sont automatisés, il est important que la taille des palettes corresponde à cela. Dans un entrepôt automatisé, cela permet d’éviter des dysfonctionnements liés à la taille et à la forme dans le processus. Par conséquent, assurez-vous de choisir la taille souhaitée la plus commune, afin que tout ce que vous stockez dans cet environnement aille sur les palettes. Cela vous évite beaucoup de travail.
+Regardez ensuite le conditionnement : comment le chargement est-il emballé et quelles sont ses dimensions ? Choisissez un format sur lequel l’emballage repose bien. Les big bags et les fûts sont par exemple souvent posés sur une palette carrée de 1140 x 1140 ou 1200 x 1200 mm.
 
-## Comment les palettes sont-elles stockées ?
+## Le format convient-il à votre transport ?
 
-Les palettes en plastique sont utilisées pour le transport, mais de nombreux clients les utilisent également pour le stockage de marchandises et de produits. Un aspect essentiel est ensuite la manière dont celles-ci sont stockées. Sur le sol, dans un certain type de rayonnage pour palettes, ou à l’extérieur ? Il est important de prendre cela en compte. Est-il par exemple nécessaire d’empiler les palettes et quelles tailles conviennent pour cela ? Notre personnel et les distributeurs Q-Pall peuvent bien entendu – grâce à leurs années d’expérience et leur connaissance approfondie du marché et des évolutions – vous apporter le bon conseil produit.
+Les palettes doivent aussi tenir dans vos camions, remorques et conteneurs. En Europe, le [1200 x 800 mm](@size-1200x800) est le format standard : l’europalette. Dans l’industrie et au Royaume-Uni, le 1200 x 1000 mm est courant. Pour les conteneurs maritimes, les formats 1100 x 1100 et 760 x 1140 mm sont pratiques. Combien de palettes tiennent dans votre camion ou votre conteneur ? Faites le calcul avec notre [calculateur de chargement](@calc).
 
-## Sur mesure
+## Les palettes seront-elles utilisées dans un entrepôt automatisé ?
 
-Il existe une vaste gamme de palettes, avec une palette spécifique pour chaque application. La gamme inclut plus de 100 produits, qui sont disponibles dans différentes tailles et couleurs. Si la palette en plastique que vous voulez n’est pas disponible, il est également possible de la faire faire sur mesure. En plus de son programme standard de palettes en plastique, Q-Pall crée des palettes en plastique personnalisées sur la base des spécifications client.
+Travaillez-vous avec du stockage et du transport automatisés, comme des convoyeurs à rouleaux, des AGV ou des transstockeurs ? Les palettes doivent alors correspondre exactement aux dimensions pour lesquelles ces systèmes sont réglés. Une palette dont la taille ou la forme s’écarte peut arrêter le processus.
 
-Pour résumer, des palettes en plastique sont disponibles pour tous les types de charge dans différentes tailles. Vous voulez savoir quelles palettes ou autres produits sont adaptés à votre cas ? N’hésitez pas à nous contacter pour de plus amples informations. Nous serons heureux de vous aider !
+Choisissez donc un format qui convient à la majeure partie de ce que vous stockez dans cet environnement. Les palettes plastique ont des dimensions fixes et ne se déforment pas sous l’effet de l’humidité. Pour en savoir plus, consultez [les palettes plastique pour l’automatisation](@guide-automation).
+
+## Comment les palettes seront-elles stockées ?
+
+De nombreux clients utilisent les palettes non seulement pour le transport, mais aussi pour le stockage. Le mode de stockage compte alors. Les palettes sont-elles posées au sol, dans un rayonnage à palettes ou en extérieur ? Faut-il les gerber, et quels formats s’y prêtent ? Pour le stockage en rayonnage, vérifiez aussi la charge admissible en rayonnage du modèle. Nos spécialistes et nos distributeurs vous conseillent volontiers sur le bon modèle.
+
+## Notre gamme et le sur-mesure
+
+Notre gamme compte environ 130 modèles en neuf formats, du 600 x 400 au 1300 x 1100 mm, dans trois classes de charge : Light, Medium et Heavy. Il existe donc presque toujours une taille adaptée.
+
+Nous ne concevons pas de palettes entièrement nouvelles. Nous adaptons en revanche des modèles existants, par exemple avec un logo, votre propre couleur, un marquage ou une autre composition de matière. Pour en savoir plus, consultez [les palettes plastique sur mesure](@about-custom).
+
+Vous souhaitez savoir quel format et quel modèle conviennent à votre chargement ? [Demandez un devis](@quote) : vous recevrez généralement un prix sur mesure sous un jour ouvré.

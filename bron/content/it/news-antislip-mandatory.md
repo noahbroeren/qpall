@@ -1,25 +1,67 @@
 ---
 id: news-antislip-mandatory
 title: "Pallet antiscivolo: sono obbligatori? – Q-Pall"
-description: "Un carico che scivola può danneggiare la merce e creare rischi per la salute. Scoprite come funzionano i pallet antiscivolo e se sono davvero obbligatori."
+description: "I pallet antiscivolo sono obbligatori? No, ma il carico deve essere fissato in modo sicuro. Scoprite quando conviene un pallet antiscivolo e quali esistono."
 eyebrow: "Notizie"
 tag: "Normativa"
-crumb: "Pallet antiscivolo: sono obbligatori?"
+crumb: "Pallet antiscivolo: obbligatori?"
 h1: "Pallet antiscivolo: **sono obbligatori?**"
-lead: "Un carico che scivola può danneggiare la merce e creare rischi per la salute. Scoprite come funzionano i pallet antiscivolo e se sono davvero obbligatori."
-img_alt: "Pallet antiscivolo: sono obbligatori?"
-reading: 2
+lead: "Un carico liscio può scivolare su un pallet. Un pallet antiscivolo è quindi obbligatorio? No, ma spesso è una scelta sensata. Vi spieghiamo quando l’antiscivolo aiuta e quali pallet antiscivolo esistono."
+img_alt: "Pallet in plastica nero su tre slitte con strisce antiscivolo arancioni sul piano superiore"
+reading: 3
+faq:
+- q: "I pallet antiscivolo sono obbligatori per legge?"
+  a: "No, i pallet antiscivolo non sono un obbligo di legge. Il carico deve però essere fissato in modo sicuro durante il trasporto e lo stoccaggio. Un pallet antiscivolo aiuta, soprattutto con imballaggi lisci."
+- q: "Come funziona il piano antiscivolo di un pallet?"
+  a: "Il piano superiore contiene strisce di un materiale simile alla gomma (TPE). Creano un attrito supplementare tra pallet e carico, che così scivola meno facilmente."
+- q: "Con un pallet antiscivolo serve ancora il film estensibile?"
+  a: "Spesso sì, ma in quantità minore. L’antiscivolo tiene meglio il carico al suo posto, così bastano meno avvolgimenti. Quanto film vi serve dipende dal carico e dal trasporto."
+published: '2022-01-09'
+updated: '2026-11-02'
 ---
-I pallet in plastica sono progettati per il trasporto e l’immagazzinamento di merci e prodotti. I pallet sono utilizzati in modo che il carico non si danneggi. Ma nel caso di un carico scivoloso sui pallet in plastica, c’è il rischio che la merce si danneggi o che siano rilasciate delle sostanze e questo può essere un pericolo per la salute se qualcuno accidentalmente ne entra in contatto. Il carico scivoloso potrebbe muoversi sui pallet. Questo si può evitare utilizzando dei pallet antiscivolo. Come funzionano esattamente e sono obbligatori?
+> **In breve**
+>
+> * I pallet antiscivolo non sono un obbligo di legge.
+> * Il carico deve però restare stabile sul pallet durante il trasporto e lo stoccaggio. Ne siete responsabili.
+> * L’antiscivolo è utile soprattutto con imballaggi lisci, carichi di valore o pericolosi e processi rapidi con rulliere o AGV.
+> * Q-Pall ha pallet antiscivolo nella gamma standard: pallet Medium da 1200 x 800 e 1200 x 1000 mm e l’Ultra pallet Heavy.
 
-## Movimento del carico
+Un pallet deve far arrivare la merce integra. Ma se vi si appoggia un carico liscio, questo può scivolare durante il trasporto o lo stoccaggio. Ne derivano danni e, con alcuni prodotti, possono fuoriuscire sostanze pericolose per la salute. Un pallet antiscivolo aiuta a evitarlo. Ma siete obbligati a usare pallet antiscivolo?
 
-L’obiettivo dei pallet è quello di fornire un buono spazio di stoccaggio e un trasporto sicuro. Ci sono pallet specifici per diverse tipologie di carico. Ma potrebbe essere comunque necessario prendere delle precauzioni per assicurarsi che il carico non si muova sul pallet in maniera non intenzionale. I prodotti imballati, che per loro natura sono molto scivolosi, possono scivolare quando sono messi su un pallet in plastica. Questo fa sì che sia meglio avere un pallet, specialmente la parte a diretto contatto con la merce, che offra attrito per prevenire lo scivolamento del carico. Per questa ragione, sono stati sviluppati dei pallet antiscivolo. Questo pallet ha uno strato che offre attrito in modo che il carico rimanga al suo posto.
+## Perché il carico scivola su un pallet
 
-## Obbligatorio o no?
+I prodotti confezionati con una superficie liscia, come scatole lisce, vassoi, sacchi o casse, scivolano facilmente sul piano superiore di un pallet. Succede soprattutto in frenata e in curva, durante la movimentazione con il carrello elevatore e sulle rulliere. Un carico che scivola provoca:
 
-Cosa c’è da sapere sull’obbligatorietà di utilizzare dei pallet antiscivolo? Non è legalmente richiesto l’utilizzo. Ma a volte il carico del pallet ha un valore importante o danni alla merce può causare dei pericoli per la salute. In questi casi è consigliabile utilizzare la tipologia di pallet corretta. Scegliere un pallet con uno strato che rende particolarmente impossibile lo spostamento. La responsabilità della giusta attenzione al trasporto e allo stoccaggio sono affidati alla persona che acquista od organizza la spedizione.
+* **Danni.** I prodotti danneggiati sono invendibili.
+* **Pericoli.** Un carico che cade può ferire il personale. Con le sostanze pericolose, un imballaggio danneggiato può perdere.
+* **Fermi.** In un magazzino automatizzato, una sola scatola spostata può fermare un’intera linea.
 
-## Pallet su misura con uno strato antiscivolo
+## I pallet antiscivolo sono obbligatori?
 
-I pallet con uno strato su misura sono fatti su misura. Questo significa che offriamo dei pallet speciali, personalizzati alle necessità del cliente. Q-Pall offre questi pallet assieme all’offerta standard dei pallet in plastica. Offriamo una consulenza per mostrare qual è il prodotto migliore per le necessità del cliente e una delle opzioni è usare uno strato antiscivolo su tutti i pallet necessari. Vuoi avere maggiori informazioni sui nostri pallet e sulle diverse opzioni su come installare gli strati antiscivolo? O hai altre domande sulla gamma dei nostri prodotti? Contattaci per maggiori informazioni. Ci piace aiutare i clienti fornendo consulenze personali!
+No. Non esiste alcun obbligo di legge di usare pallet antiscivolo. Un carico deve però restare stabile durante il trasporto e lo stoccaggio. Chi trasporta merci o le fa trasportare deve garantirlo.
+
+Potete farlo con film estensibile, cinghie, un pallet adatto o una combinazione di questi mezzi. Il vostro carico è di valore, o un danno crea un pericolo? Allora un pallet antiscivolo è senz’altro consigliato.
+
+## Quando conviene un pallet antiscivolo?
+
+* **Imballaggi lisci.** Scatole, vassoi, sacchi e casse che scivolano facilmente.
+* **Carichi di valore o fragili.** Quando ogni danno costa subito denaro.
+* **Sostanze pericolose.** Quando un imballaggio danneggiato è un rischio per le persone e l’ambiente.
+* **Processi rapidi e automatizzati.** Sulle rulliere e con gli [AGV](@guide-automation) il carico deve restare stabile, anche a velocità più elevate.
+
+Un vantaggio in più: poiché il carico resta meglio sul pallet, spesso vi serve meno film estensibile.
+
+## Come funziona un pallet antiscivolo?
+
+Il piano superiore di un pallet antiscivolo contiene strisce di un materiale simile alla gomma (TPE). Creano un attrito supplementare tra pallet e carico, così scatole e casse si spostano meno facilmente. L’[Ultra pallet](@ultra) ha l’antiscivolo anche sul lato inferiore. In questo modo anche il pallet stesso scivola meno facilmente sulle forche o su una rulliera.
+
+## I pallet antiscivolo di Q-Pall
+
+I pallet antiscivolo fanno parte della nostra gamma standard. La nuova generazione di [pallet Medium antiscivolo](@type-antislip) ha un piano superiore chiuso con strisce antiscivolo integrate:
+
+* **1200 x 800 mm** su 3 slitte.
+* **1200 x 1000 mm** su 3 o 5 slitte.
+
+Per le applicazioni gravose e i pool c’è l’Ultra pallet Heavy da 1200 x 1000 mm, con antiscivolo sopra e sotto. Come abbiamo sviluppato i pallet Medium antiscivolo lo leggete in [innovazione nel grip](@news-antislip-grip).
+
+Volete sapere quale pallet antiscivolo è adatto al vostro carico e al vostro processo? [Richiedete un preventivo](@quote): di norma riceverete un prezzo su misura entro un giorno lavorativo.

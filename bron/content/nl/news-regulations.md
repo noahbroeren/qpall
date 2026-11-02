@@ -1,33 +1,85 @@
 ---
 id: news-regulations
-title: "De regelgeving rondom kunststof pallets – Q-Pall"
-description: "Welke regels gelden er voor kunststof pallets? Lees hoe MVO en de Carbon Footprint van invloed zijn op de keuze voor kunststof pallets in uw bedrijf."
+title: "Welke regels gelden voor kunststof pallets? – Q-Pall"
+description: "Welke regels gelden er voor kunststof pallets? Een overzicht van de PPWR, zware metalen en XRF-analyse, ISPM 15 bij export en de CO₂-voetafdruk."
 eyebrow: "Nieuws"
 tag: "Regelgeving"
-crumb: "De regelgeving rondom kunststof pallets"
-h1: "De regelgeving **rondom kunststof pallets**"
-lead: "Welke regels gelden er voor kunststof pallets? Lees hoe MVO en de Carbon Footprint van invloed zijn op de keuze voor kunststof pallets in uw bedrijf."
-img_alt: "De regelgeving rondom kunststof pallets"
+crumb: "Regels voor kunststof pallets"
+h1: "Welke regels gelden er **voor kunststof pallets**?"
+lead: "Bij de keuze tussen houten en kunststof pallets tellen niet alleen prijs en kwaliteit. Ook wetgeving en duurzaamheidseisen spelen mee. Dit zijn de regels die voor kunststof pallets het belangrijkst zijn."
+img_alt: "Brochure van Q-Pall over herbruikbare pallets en de Europese PPWR"
 reading: 3
+faq:
+- q: "Geldt de PPWR ook voor kunststof pallets?"
+  a: "Ja. Pallets zijn transportverpakking en vallen sinds 12 augustus 2026 onder de Europese verpakkingsverordening PPWR, of ze nu van hout of kunststof zijn."
+- q: "Hebben kunststof pallets een ISPM 15-stempel nodig?"
+  a: "Nee. ISPM 15 geldt alleen voor verpakkingen van massief hout. Kunststof pallets hebben geen behandeling of stempel nodig, ook niet bij export buiten de EU."
+- q: "Hoe controleert Q-Pall op zware metalen?"
+  a: "We toetsen onze pallets aan de stoffen uit de RoHS-richtlijn. Dat doen we met röntgenfluorescentie (XRF), een snelle meting die het materiaal niet beschadigt."
+published: '2022-01-12'
+updated: '2026-11-02'
 ---
-Bij de aanschaf van pallets heeft u de keuze uit houten of kunststof (plastic) pallets. Het aanbod van [kunststof pallets](@pallets) ter vervanging van houten pallets, vloeit voort uit de ontwikkelingen rondom duurzaamheid, kostenefficiëntie en milieutechnische overwegingen. De maatschappij gaat steeds bewuster om met de omgeving. Ook bedrijven en organisaties zijn hiermee bezig. [Kunststof pallets](@pallets) passen daar goed bij. Maar wat is de **regelgeving rondom kunststof pallets**?
+> **In het kort**
+>
+> * Sinds 12 augustus 2026 geldt de Europese verpakkingsverordening PPWR. Pallets zijn transportverpakking en vallen eronder.
+> * De PPWR begrenst zware metalen: lood, cadmium, kwik en zeswaardig chroom samen maximaal 100 mg/kg.
+> * We toetsen onze pallets aan de stoffen uit de RoHS-richtlijn, met röntgenfluorescentie (XRF).
+> * ISPM 15 geldt alleen voor houten verpakkingen. Kunststof pallets vallen er niet onder.
+> * Veel inkopers wegen naast prijs en kwaliteit ook de CO₂-voetafdruk van een pallet mee.
 
-## Maatschappelijk verantwoord ondernemen (MVO)
+## Waarom regels meetellen bij uw palletkeuze
 
-Bedrijven en organisaties houden bij de inkoop van hun producten rekening met het milieu. Deze bedrijven ondernemen duurzaam; ze gaan verantwoord om met het milieu. Dit valt - naast allerlei andere aspecten - onder maatschappelijk verantwoord ondernemen (MVO). Binnen MVO is ook de Carbon Footprint in het leven geroepen, als een maatstaf die industriële bedrijven en organisaties kunnen gebruiken. Deze Carbon Footprint heeft invloed op de kunststof pallet industrie. Uiteraard vindt ook Q-Pall MVO uiterst belangrijk.
+Bij de aanschaf van pallets kiest u tussen hout en kunststof. Die keuze gaat al lang niet meer alleen over prijs. Bedrijven letten bij hun inkoop steeds meer op duurzaamheid, kostenefficiëntie en milieu-impact, als onderdeel van maatschappelijk verantwoord ondernemen (MVO).
 
-## Wat is de Carbon Footprint?
+Ook de wetgever stelt eisen, vooral aan verpakkingen. Hieronder leest u welke regels voor kunststof pallets het belangrijkst zijn en hoe wij daarmee omgaan.
 
-Het klimaat op aarde wordt beïnvloed door de uitstoot van broeikasgassen. De milieu-impact van kunststof pallets wordt bepaald door de **carbonfootprint** van deze producten te berekenen. Bij het bepalen van de carbonfootprint worden de kooldioxide equivalenten die nodig zijn voor het vervaardigen van een pallet - uitgedrukt in kilogram (kg CO2 eq.) - berekend. De meeste CO2 uitstoot komt voort uit de winning van grondstoffen, transport en de productie van eindfabricaten. Voor klanten die producten met elkaar willen vergelijken is de carbonfootprint steeds vaker een vereiste beslissingsparameter, naast de gebruikelijke beoordelingscriteria zoals prijs en kwaliteit.
+## De PPWR: Europese regels voor verpakking
 
-### Q-Pall en de Carbon Footprint
+Voor verpakkingen is de PPWR de belangrijkste Europese regel: de verpakkingsverordening (Verordening (EU) 2025/40). Ze is van kracht sinds februari 2025 en van toepassing sinds 12 augustus 2026. Pallets zijn transportverpakking, dus de regels gelden ook voor uw pallets.
 
-Q-Pall gebruikt de resultaten van de carbonfootprint analyse als nulmeting en uitgangspunt voor het verbeteren van de milieuprestaties van haar producten. Door strenge ontwerpdoelstellingen voor energie- en materiaalefficiëntie wil Q-Pall de uitstoot van broeikasgassen minimaliseren. Er zijn ***Environmental Product Declaration*** (EPD) documenten beschikbaar voor alle typen kunststof pallets.
+De hoofdpunten voor pallets:
 
-## Restriction of Hazardous Substances
+* **Hergebruik.** Vanaf 2030 moet minimaal 40% van de transportverpakking binnen de EU herbruikbaar zijn.
+* **Recyclebaarheid.** Vanaf 2030 moeten verpakkingen recyclebaar zijn in klasse A, B of C. Klasse C betekent minimaal 70%.
+* **Documentatie.** De fabrikant stelt een EU-conformiteitsverklaring op. Voor de meeste van onze modellen downloadt u die direct op de productpagina.
 
-De RoHS (Restriction of Hazardous Substances) richtlijn wordt door Q-Pall gebruikt om te bevestigen dat haar producten in overeenstemming zijn met de richtlijn. De materialen die staan omschreven in de RoHS zijn lood (Pb), kwik (Hg), cadmium (Cd), zeswaardig Chroom (CrVI), polybrominated biphenyls (PBB) en polybrominated diphenylethers (PBDE). Deze analyse vindt plaats met behulp van X-Ray fluorescence (XRF).
+Wat dit precies betekent voor uw pallets, leest u in onze gids [PPWR en kunststof pallets](@guide-ppwr).
 
-## X-Ray fluorescence
+## Zware metalen: RoHS en XRF-analyse
 
-X-Ray fluorescence (XRF) is een snelle en niet-destructieve manier om elementen te analyseren in verschillende materialen zoals plastics, metaal of aarde. XRF-analyse combineert een hoge nauwkeurigheid en precisie met een efficiënte monstervoorbereiding voor de analyse van de elementen Beryllium (Be) tot Uranium (U) tot op ‘part per million’ (PPM) niveau. Deze analyse is nodig om te bepalen of de producten vallen binnen de richtlijnen met betrekking tot Restriction of Hazardous Substances. Q-Pall heeft duurzaamheid tot één van de speerpunten gemaakt voor haar organisatie. Dit sluit aan bij de regelgeving die van toepassing is. Zo wordt vaak gebruikgemaakt van gerecyclede grondstoffen. Wilt u meer weten over de regelgeving rondom [(plastic) pallets](@pallets) en hoe Q-Pall deze in de bedrijfsvoering heeft geïntegreerd? Of heeft u andere vragen met betrekking tot ons uitgebreide assortiment? Neem gerust contact met ons op, wij helpen u graag verder en geven u vrijblijvende informatie.
+De PPWR stelt een grens aan zware metalen in verpakkingen. Lood, cadmium, kwik en zeswaardig chroom mogen samen niet meer zijn dan 100 mg/kg.
+
+Daarnaast gebruiken we de RoHS-richtlijn (Restriction of Hazardous Substances) om te bevestigen dat onze pallets aan de eisen van die richtlijn voldoen. RoHS beperkt onder meer deze stoffen:
+
+* lood (Pb), kwik (Hg) en cadmium (Cd)
+* zeswaardig chroom (CrVI)
+* polybroombifenylen (PBB) en polybroomdifenylethers (PBDE)
+
+### Hoe werkt XRF?
+
+Röntgenfluorescentie (X-Ray Fluorescence, XRF) is een snelle methode om elementen te meten in materialen zoals kunststof, metaal of aarde. Het materiaal blijft daarbij heel. XRF meet nauwkeurig de elementen van beryllium (Be) tot uranium (U), tot op ppm-niveau (parts per million).
+
+Zo zien we of onze pallets binnen de grenswaarden blijven. Juist bij gerecycled kunststof is die controle belangrijk, omdat het materiaal uit verschillende afvalstromen komt.
+
+## ISPM 15: niet voor kunststof pallets
+
+ISPM 15 is een internationale fytosanitaire norm. Hij beschermt de plantgezondheid: insecten en plantenziekten mogen niet met houten verpakkingen de grens over. Houten pallets voor export moeten daarom behandeld zijn, meestal met hitte, en een officieel stempel dragen.
+
+Kunststof pallets vallen niet onder ISPM 15. U gebruikt ze zonder behandeling of stempel, ook voor [export](@type-export) buiten de EU. Meer hierover leest u in [ISPM 15: exporteren zonder stempel](@guide-ispm).
+
+## MVO en de CO₂-voetafdruk
+
+Niet alles is wet. Veel bedrijven stellen vanuit MVO zelf eisen aan hun inkoop. De CO₂-voetafdruk is daarbij een veelgebruikte maatstaf. Die geeft de uitstoot van broeikasgassen weer die nodig is om een pallet te maken, uitgedrukt in kilogram CO₂-equivalent (kg CO₂-eq). De meeste uitstoot ontstaat bij de winning van grondstoffen, het transport en de productie.
+
+Voor klanten die producten vergelijken, is de CO₂-voetafdruk steeds vaker een beslissende factor, naast prijs en kwaliteit.
+
+### Q-Pall en de CO₂-voetafdruk
+
+We gebruiken de resultaten van onze CO₂-analyse als nulmeting en als uitgangspunt om de milieuprestaties van onze pallets te verbeteren. Met strenge ontwerpdoelen voor energie- en materiaalefficiëntie houden we de uitstoot zo laag mogelijk. Daarbij helpen twee keuzes:
+
+* **Gerecycled materiaal.** Onze standaardpallets maken we van bijna 100% gerecycled kunststof.
+* **Korte afstanden.** We produceren in zes fabrieken in Europa, dicht bij onze klanten. Lees meer over [lokaal produceren](@about-local).
+
+In oktober 2026 behaalden we opnieuw de bronzen medaille van EcoVadis.
+
+Wilt u weten welke documentatie we voor uw palletmodel hebben, of hoe we op zware metalen testen? [Neem contact met ons op](@contact).

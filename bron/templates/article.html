@@ -40,7 +40,7 @@
 {% if news_more %}
 <section class="section{% if not page.faq or recommend %} bg-soft{% endif %}" aria-labelledby="nm-h" data-pagefind-ignore>
   <div class="wrap">
-    {{ M.sec_head(None, t.news_more, None, 'nm-h', urls.news, t.news_all) }}
+    {{ M.sec_head(None, t.news_rel, None, 'nm-h', urls.news, t.news_all) }}
     <ul class="news-grid news-grid-3">{% for n in news_more %}<li>{{ M.ncard(n, t) }}</li>{% endfor %}</ul>
   </div>
 </section>

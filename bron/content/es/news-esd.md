@@ -1,25 +1,80 @@
 ---
 id: news-esd
 title: "¿Qué son los palets ESD? – Q-Pall"
-description: "ESD significa descarga electrostática. Conozca qué son los palets ESD, cuándo son importantes y por qué se usan con cargas como líquidos, polvos o gases."
+description: "ESD significa descarga electrostática. Descubra qué son los palets ESD de plástico, cómo disipan la carga estática y cuándo los necesita."
 eyebrow: "Noticias"
 tag: "Conocimiento"
-crumb: "¿Qué son los palets ESD?"
+crumb: "Palets ESD"
 h1: "¿Qué son **los palets ESD**?"
-lead: "ESD significa descarga electrostática. Conozca qué son los palets ESD, cuándo son importantes y por qué se usan con cargas como líquidos, polvos o gases."
-img_alt: "¿Qué son los palets ESD?"
+lead: "ESD significa descarga electrostática. Los palets ESD disipan la carga estática de forma controlada, protegen la electrónica sensible y reducen el riesgo de chispas cerca de sustancias inflamables."
+img_alt: "Escala de resistividad de los materiales: aislante, antiestático, disipativo y conductor"
 reading: 3
+faq:
+- q: "¿Qué significa ESD?"
+  a: "ESD significa electrostatic discharge, en español descarga electrostática: la descarga repentina de electricidad estática, como la pequeña descarga que a veces nota al tocar el pomo de una puerta."
+- q: "¿Qué son los plásticos ESD?"
+  a: "Plásticos con aditivos conductores o disipativos, como el negro de carbono. Estos reducen la resistencia eléctrica, de modo que la carga estática fluye de forma controlada en lugar de producir una chispa."
+- q: "¿Cómo se hace antiestático un plástico?"
+  a: "Añadiendo aditivos que reducen la resistencia superficial. Los aditivos antiestáticos evitan que la carga se acumule. Los aditivos conductores, como el negro de carbono, además disipan la carga de forma activa y hacen que el plástico sea seguro frente a las ESD."
+- q: "¿Qué diferencia hay entre antiestático y ESD?"
+  a: "Un palet antiestático evita sobre todo que la carga se acumule y atraiga polvo. Un palet ESD disipa la carga de forma activa y controlada. Si hay riesgo de explosión o electrónica muy sensible, elija un palet ESD."
+published: '2022-01-11'
+updated: '2026-11-02'
 ---
-Los palets desempeñan un papel importante en el transporte y almacenamiento de varias mercancías y materias primas. Debido a que la carga de un palet puede cambiar considerablemente, existen distintos tipos de palets. Por ejemplo, los palets de plástico para el transporte o almacenamiento de productos frescos son muy diferentes de los que se utilizan para líquidos, polvos o gases. En particular, para los últimos tipos de carga, hay palets ESD especiales. ¿Qué son los palets ESD y cuándo son importantes?
+> **En resumen**
+>
+> * ESD es la sigla inglesa de electrostatic discharge: descarga electrostática.
+> * El plástico común conduce mal la electricidad. Por fricción, un palet de plástico puede cargarse de electricidad estática.
+> * Una descarga no controlada puede dañar la electrónica o provocar una chispa cerca de gases, polvos o líquidos inflamables.
+> * Los palets ESD son de plástico con aditivos conductores, como el negro de carbono. Estos disipan la carga de forma controlada.
+> * Q-Pall puede fabricar palets de HDPE o PP con negro de carbono, adaptando un modelo existente.
+
+Los palets transportan todo tipo de mercancías y materias primas. Como las mercancías varían mucho, existen distintos tipos de palets. Un palet para productos frescos debe cumplir requisitos distintos a los de un palet para electrónica o para líquidos, polvos o gases inflamables.
+
+Para este último grupo existen los **palets ESD**: palets de plástico con protección frente a las descargas electrostáticas. ¿Qué son y cuándo los necesita?
 
 ## ¿Qué significa ESD?
 
-ESD es una abreviatura que significa **Descarga Electroestática**. Mucha gente está expuesta regularmente a descargas electroestáticas. Si se quita un suéter por la cabeza, la fricción entre el suéter y la cabeza - u otros tejidos - genera una carga estática. Esta se descarga entre las partes del mismo suéter y, de esta forma, provoca un efecto de chispas. O si se levanta de una silla, toca un marco de acero y recibe una descarga mínima. Esa descarga es la que le ‘descarga’. Le puede sobresaltar, pero no dañar. Las descargas también pueden ocurrir a causa de la fricción entre tipos de plástico, tales como el del palet de plástico y el embalaje de la carga. Si el contenido de la carga está formado por líquidos, polvos o gases, esto origina un riesgo de explosión.
+ESD es la sigla de **electrostatic discharge**, en español descarga electrostática. Todo el mundo conoce el fenómeno. Se quita un jersey por la cabeza y oye un chisporroteo: la fricción ha generado una carga estática, que se descarga enseguida.
 
-### Palets de plástico y ESD
+O se levanta de una silla, toca el marco metálico de una puerta y siente una pequeña descarga. En ese momento, usted se descarga. Puede asustarle un poco, pero no es peligroso.
 
-Los palets de plástico pueden causar fricción y formar una carga estática. Por eso es importante eliminar esta carga estática de manera controlada. Porque si la carga - que se encuentra en los palets - contiene sustancias con riesgo de explosión, esto puede tener consecuencias molestas, e incluso muy peligrosas. Las pequeñas chispas que se liberan de una descarga estática no controlada pueden causar la explosión de gases, polvos o líquidos peligrosos. También puede causar daños en las placas de circuitos que hay en todos los tipos de sistemas electrónicos.
+Con electrónica sensible o sustancias inflamables es distinto. Ahí, una descarga tan pequeña sí puede causar daños.
 
-### Palets seguros ESD
+## Palets de plástico y carga estática
 
-Sin la protección ESD, los productos de los palets podrían sufrir daños o puede haber riesgo de explosión. Para cierto tipo de cargas - que son sensibles a ESD - es importante comprobar cuidadosamente el tipo de palet adecuado. El palet seguro ESD está hecho de plásticos conductores que eliminan la electricidad estática de manera controlada. Estos palets se utilizan para la protección contra los primeros fallos o daños a causa de descargas eléctricas en diversos usos. Q-Pall puede producir y distribuir palets basados en **HDPE o resina de polímero PP** con productos especiales de **negro de carbón**. Estos palets garantizan una descarga controlada. ¿Le gustaría saber más sobre los palets seguros ESD? O, ¿tiene cualquier otra pregunta referente a nuestro sector? No dude en ponerse en contacto con nosotros. Nos complace poder ayudarle.
+El plástico es por naturaleza un aislante: conduce mal la carga eléctrica. La fricción entre plásticos distintos, por ejemplo entre el palet y el embalaje de la mercancía, puede generar una carga. Esta permanece en la superficie hasta que se descarga de golpe.
+
+Por eso, la carga estática debe disiparse de forma controlada. Solo es posible si el material del palet deja fluir la carga.
+
+## Los riesgos de una descarga no controlada
+
+* **Riesgo de explosión.** Una pequeña chispa puede inflamar gases, polvos o líquidos inflamables.
+* **Daños en la electrónica.** Las placas de circuito y los componentes pueden fallar de inmediato. A veces el daño no se ve al principio y las averías aparecen más tarde.
+
+Sin protección ESD, se arriesga a tener productos dañados o incluso una situación peligrosa. Por eso, con mercancías sensibles a las ESD, compruebe bien qué palet es adecuado.
+
+## ¿Qué hace que un plástico sea seguro frente a las ESD?
+
+Que un material retenga o disipe la carga depende de su resistencia eléctrica. Cuanto menor es la resistencia, mejor puede fluir la carga. A grandes rasgos hay cuatro niveles:
+
+* **Aislante.** El plástico común. La carga se queda donde está.
+* **Antiestático.** La carga se acumula más despacio y fluye poco a poco.
+* **Disipativo.** La carga se evacua de forma uniforme y controlada.
+* **Conductor.** La carga se evacua de inmediato.
+
+Un plástico se vuelve seguro frente a las ESD cuando se le añaden aditivos conductores, como el negro de carbono. Estos reducen la resistencia, de modo que la carga fluye a través del palet de forma controlada en lugar de producir una chispa. Encontrará más términos técnicos en nuestro [glosario](@about-glossary).
+
+## ¿ESD o antiestático?
+
+Un palet antiestático evita sobre todo que la carga se acumule y que el palet atraiga polvo. Un palet ESD va un paso más allá: disipa la carga de forma activa y controlada. Más información sobre el primero en [palets antiestáticos: funcionamiento y ventajas](@news-antistatic).
+
+La resistencia necesaria depende de su proceso y de las normas de seguridad aplicables. Defínala con su responsable de seguridad.
+
+## Palets ESD de Q-Pall
+
+Q-Pall puede fabricar palets a base de HDPE o PP con aditivos especiales de negro de carbono. Estos palets aseguran una descarga controlada. Están pensados para aplicaciones con electrónica sensible o sustancias inflamables, por ejemplo en la [industria química](@sector-chemical).
+
+Una versión ESD es una adaptación del material de un modelo de palet existente. Forma parte de nuestros [palets personalizados](@about-custom) y está pensada para proyectos de cierta envergadura.
+
+¿Quiere saber si un palet ESD se adapta a su mercancía y a su proceso? [Póngase en contacto con nosotros](@contact) y estudiaremos juntos las posibilidades.

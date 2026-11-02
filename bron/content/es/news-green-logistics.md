@@ -1,45 +1,68 @@
 ---
 id: news-green-logistics
-title: "La clave del futuro de la logística verde – Q-Pall"
-description: "Más ligeros que los de madera, los palets de plástico aligeran la carga y pueden reducir el consumo de combustible. Vea su papel en la logística verde."
+title: "Logística verde: el papel de los palets de plástico – Q-Pall"
+description: "¿Qué papel tienen los palets de plástico en la logística verde? Peso y combustible, vida útil, reciclaje, producción local y coste por viaje."
 eyebrow: "Noticias"
 tag: "Sostenibilidad"
-crumb: "La clave del futuro de la logística verde"
-h1: "La clave del **futuro de la logística verde**"
-lead: "Más ligeros que los de madera, los palets de plástico aligeran la carga y pueden reducir el consumo de combustible. Vea su papel en la logística verde."
-img_alt: "La clave del futuro de la logística verde"
-reading: 4
+crumb: "Palets y logística verde"
+h1: "Logística verde: **el papel de los palets de plástico**"
+lead: "Las empresas se juzgan cada vez más por su impacto ambiental. Un elemento que a menudo se pasa por alto es el palet. Así contribuyen los palets de plástico a una logística más verde."
+img_alt: "Tres cubos de madera con símbolos de cooperación, la Tierra y el reciclaje sobre triturado de plástico de colores"
+reading: 3
+faq:
+- q: "¿Qué es la logística verde?"
+  a: "La logística verde (green logistics) es una logística con el menor impacto ambiental posible: menos emisiones, menos residuos y un uso más eficiente de los recursos. La elección de los palets también influye."
+- q: "¿Los palets de plástico son más ligeros que los de madera?"
+  a: "A menudo sí, según el tipo. Los palets Light son mucho más ligeros que la madera. Los palets Heavy pesan de 17 a 28 kg, más o menos lo mismo que un europalet de madera de unos 25 kg."
+- q: "¿Cómo contribuye la producción local a la logística verde?"
+  a: "En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Producimos en seis fábricas europeas, de modo que casi todos los clientes están a menos de 600 kilómetros de una fábrica."
+published: '2023-09-11'
+updated: '2026-11-02'
 ---
-## El papel de las paletas de plástico en la logística verde
+> **En resumen**
+>
+> * La logística verde busca menos emisiones y residuos en el transporte y el almacenaje. El palet también cuenta.
+> * Los palets de plástico suelen ser más ligeros que los de madera, sobre todo en la clase Light. Eso ahorra combustible.
+> * Duran muchos años y después son totalmente reciclables.
+> * Nuestros palets estándar son de plástico reciclado casi al 100%: 34.500 toneladas en 2025.
+> * La producción local en seis fábricas europeas limita el transporte de los propios palets.
 
-En una era donde la sostenibilidad se ha convertido en una palabra de moda y las empresas son cada vez más responsables de su impacto ambiental, la logística verde juega un papel crucial. La búsqueda de operaciones más respetuosas con el medio ambiente en el sector logístico tiene varias facetas, desde un transporte eficiente hasta una gestión inteligente de almacenes. Un componente a menudo pasado por alto pero esencial en este rompecabezas es la elección de paletas. Las paletas de plástico ofrecen varias ventajas ecológicas que contribuyen a una cadena de suministro más verde. En este blog, discutimos cómo las paletas de plástico pueden ser una valiosa adición a tu estrategia de logística verde.
+## ¿Qué es la logística verde?
 
-### Menos peso, menos combustible
+La logística verde, o *green logistics*, busca una logística con menos impacto en el medio ambiente. Abarca desde el transporte eficiente hasta la gestión inteligente del almacén. Las empresas se juzgan cada vez más por su impacto ambiental, también por parte de sus clientes y socios de la cadena de suministro.
 
-A diferencia de sus contrapartes de madera, las paletas de plástico son significativamente más ligeras. Esto reduce el peso total de la carga y puede llevar a una reducción significativa en el consumo de combustible durante el transporte. Menos combustible significa menos emisiones, lo que permite a tu empresa reducir su huella ecológica.
+Un elemento que a menudo se pasa por alto es la elección de los palets. Los palets de plástico ofrecen varias ventajas que contribuyen a una cadena de suministro más verde.
 
-### Reciclables
+## Menos peso, menos combustible
 
-Al final de su ciclo de vida, las paletas de plástico pueden reciclarse fácilmente. Se pueden triturar y luego convertir de nuevo en nuevos productos de plástico, minimizando el uso de nuevos materiales primas. Esta es una ventaja significativa sobre las paletas de madera, que a menudo terminan como residuos o combustible para centrales eléctricas, con todos los efectos ambientales asociados.
+Los palets de plástico suelen ser más ligeros que los de madera, según el tipo. Sobre todo los [palets Light](@class-light) pesan mucho menos. Una tara menor significa más carga por viaje y menos combustible, y por tanto menos emisiones.
 
-### Reutilizables y duraderas
+En aplicaciones pesadas, la diferencia es menor. Un palet de plástico Heavy pesa de 17 a 28 kg, un europalet de madera unos 25 kg. La ventaja está entonces sobre todo en la larga vida útil y el peso constante, porque el plástico no absorbe humedad.
 
-Las paletas de plástico son más robustas y tienen una vida útil más larga que las paletas de madera. Son más resistentes al desgaste, al daño del agua y a otras formas de degradación. Como resultado, pueden reutilizarse múltiples veces, lo que lleva a menos desperdicio y una menor necesidad de nuevas paletas.
+## Duraderos y reutilizables
 
-### Higiénicas y seguras
+Los palets de plástico son robustos y duran muchos años, mucho más que un palet de madera medio. Resisten el desgaste, la humedad y los golpes. Por eso se pueden reutilizar muchísimas veces, lo que supone menos residuos y menos palets nuevos.
 
-Las paletas de plástico son más fáciles de limpiar y desinfectar, minimizando el riesgo de contaminación cruzada de productos. En un momento en que la higiene y la seguridad son de suma importancia, esto no puede subestimarse.
+Incluso cuando un palet deja de circular en su empresa, a menudo sigue siendo perfectamente utilizable. Con [Q-Used](@used), los palets revisados tienen una segunda vida.
 
-### Ahorro de costos
+## Reciclables al final de su vida útil
 
-Aunque el costo inicial de las paletas de plástico puede ser mayor que el de las paletas de madera, los costos operativos a lo largo de su vida útil suelen ser más bajos. La durabilidad y reutilización de las paletas de plástico pueden llevar a ahorros de costos significativos a largo plazo.
+Al final de su vida útil, los palets de plástico son totalmente reciclables. Se trituran y se transforman en nuevos productos, como nuevos palets. Así se necesita menos materia prima nueva. Vea cómo funciona en [el reciclaje de palets de plástico](@news-recycling).
 
-### Q-Pall - un paso más allá
+Los palets de madera suelen triturarse o quemarse al final de su vida útil, con las emisiones que ello conlleva.
 
-Cuando se trata de reducir la huella ecológica en la logística, damos un paso más ya que el 99% de nuestras paletas están hechas de plástico reciclado. Esto nos permite consumir alrededor de 30,000 toneladas de plástico reciclado anualmente. Esto no solo respalda la economía circular sino que también contribuye directamente a abordar el problema global del plástico. Al usar material reciclado, Q-Pall ayuda a reducir la cantidad de residuos plásticos que de otro modo terminarían en océanos, vertederos o incineradoras. Es un ejemplo de cómo las empresas, a través de enfoques innovadores, no solo pueden hacer que sus operaciones sean más sostenibles, sino que también tienen un impacto positivo en los problemas ambientales globales.
+## Fáciles de limpiar
 
-### Conclusión
+Los palets de plástico no absorben humedad y se limpian con facilidad. Eso ayuda a evitar que se ensucien las mercancías. Para el contacto directo con alimentos existen [palets higiénicos](@type-hygienic) de plástico virgen.
 
-La logística verde es más que una tendencia; es una necesidad en el mundo empresarial moderno. El uso de paletas de plástico puede marcar una diferencia significativa en tus esfuerzos de sostenibilidad. Desde el ahorro de peso y combustible hasta la durabilidad y la reciclabilidad, las paletas de plástico ofrecen una serie de ventajas que encajan en una estrategia de logística más verde y sostenible.
+## Menor coste por viaje
 
-Al hacer el cambio a paletas de plástico, tu empresa no solo contribuye a un planeta más limpio, sino que también puede disfrutar de ahorros en costos y eficiencia operativa. Es una situación en la que todos ganan y que vale la pena considerar en cualquier enfoque de logística verde.
+En la compra, los palets de plástico suelen ser más caros que los de madera. Sin embargo, a lo largo de toda su vida útil el coste por viaje suele ser menor, gracias a su larga duración y a la reutilización. Así, las opciones más verdes y los costes más bajos van de la mano.
+
+## Q-Pall: un paso más allá
+
+Fabricamos nuestros palets estándar con plástico reciclado casi al 100%. En 2025 procesamos 34.500 toneladas de plástico reciclado, unos 1.475 camiones completos. Esto ayuda a reducir la cantidad de residuos plásticos que, de otro modo, acabarían en vertederos, incineradoras o en los océanos.
+
+Además, producimos [localmente](@about-local), en seis fábricas repartidas por Europa. En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Como casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall, las distancias de transporte son cortas.
+
+¿Quiere saber qué palets encajan mejor en su logística verde? [Solicite un presupuesto](@quote). Normalmente recibirá un precio a medida en un día laborable.

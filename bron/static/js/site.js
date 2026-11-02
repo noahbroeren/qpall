@@ -598,6 +598,25 @@
       prodIn.addEventListener('change', fix);
       fix();
     });
+    // from the load calculator (update 28): ?items=SKU:qty,SKU:qty fills the lines (rounded up to full stacks) and
+    // ?note= puts the calculated load in the message field
+    var findOpt = function (code) {
+      code = code.toUpperCase();
+      return $$('#productlist option').map(function (o) { return o.value; }).filter(function (v) { return v.toUpperCase().indexOf(code + ' – ') === 0; })[0];
+    };
+    var calcItems = (qs.get('items') || '').split(',').map(function (x) { var p = x.split(':'); return { o: findOpt((p[0] || '').trim()), n: parseInt(p[1], 10) || 0 }; })
+      .filter(function (x) { return x.o; }).slice(0, lines.length);
+    if (calcItems.length) {
+      calcItems.forEach(function (x, i) {
+        var l = lines[i], pin = $('input[list]', l), qin = $('[data-qty] input', l);
+        l.hidden = false; pin.value = x.o; pin.dispatchEvent(new Event('change'));
+        if (qin && x.n) { qin.value = x.n; qin.dispatchEvent(new Event('change')); }
+      });
+      if (visible() >= lines.length) addBtn.hidden = true;
+      prod = null;
+    }
+    var note = qs.get('note'), msg = $('#q-msg');
+    if (note && msg && !msg.value) msg.value = note.slice(0, 1500);
     if (prod) {
       $('#prod-1').value = prod;
       $('#prod-1').dispatchEvent(new Event('change'));

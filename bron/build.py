@@ -122,6 +122,52 @@ def _items(fam):
 MODELS = [it for fam in FAMILIES for it in _items(fam)]
 for _l in LANGS:
     PC.assign_titles(MODELS, _l)
+
+
+def _fix_names():
+    """Update 28. (1) Sizes in the order of their category (760 x 1140, 600 x 800), also in the meta title and text, so a
+    product never reads '1140 x 760' under the heading '760 x 1140 mm'. URLs (slugs) stay as they are.
+    (2) Every product name (= H1) unique: articles that shared a name get what tells them apart: the colour (hygienic
+    pallets), else the factory when that is unique within the group, else the article number."""
+    import re as _re
+    for m in MODELS:
+        sz = SIZE_BY_KEY[m['size']]
+        if sz['L'] == m['W'] and sz['W'] == m['L'] and m['L'] != m['W']:
+            a, b = m['L'], m['W']
+            for l in LANGS:
+                m['name'][l] = m['name'][l].replace(f"{a} x {b}", f"{b} x {a}", 1)
+                m['meta_title'][l] = m['meta_title'][l].replace(f"{a}x{b}", f"{b}x{a}", 1).replace(f"{a} x {b}", f"{b} x {a}", 1)
+                if m.get('seo6') and m['seo6'].get(l):
+                    m['seo6'][l] = m['seo6'][l].replace(f"{a}x{b}", f"{b}x{a}").replace(f"{a} x {b}", f"{b} x {a}")
+    groups = {}
+    for m in MODELS:
+        groups.setdefault(m['name']['nl'], []).append(m)
+    for nm, ms in groups.items():
+        if len(ms) < 2:
+            continue
+        cols = [SKU_COLOUR.get(m['sku']) for m in ms]
+        locs = [m['locations'][0] if len(m['locations']) == 1 else None for m in ms]
+        for m, c, lc in zip(ms, cols, locs):
+            if all(cols) and len(set(cols)) == len(cols):
+                suf = {l: T[l]['col_' + c] for l in LANGS}
+            elif lc and locs.count(lc) == 1:
+                suf = {l: LOCATIONS[lc]['name'] for l in LANGS}
+            else:
+                suf = {l: m['sku'] for l in LANGS}
+            for l in LANGS:
+                m['name'][l] = f"{m['name'][l]} – {suf[l]}"
+    for l in LANGS:      # safety net: anything still double gets its article number
+        seen = {}
+        for m in MODELS:
+            seen.setdefault(m['name'][l], []).append(m)
+        for nm, ms in seen.items():
+            if len(ms) > 1:
+                for m in ms:
+                    if m['sku'] not in m['name'][l]:
+                        m['name'][l] = f"{m['name'][l]} – {m['sku']}"
+
+
+_fix_names()
 FAMILY_BY_ID = {f['id']: f for f in FAMILIES}
 
 
@@ -561,8 +607,11 @@ def build_nav(lang):
         rk = [m['racking'][1] for m in ms if m['racking']]
         classes.append({'key': c['key'], 'name': c['name'], 'title': t['class_title'][c['key']], 'sub': t['class_sub'][c['key']],
                         'text': t['class_text'][c['key']], 'url': url('class-' + c['key'], lang), 'level': i + 1,
-                        'count': len(ms), 'count_txt': mcount(len(ms), lang), 'price': min_price(ms),
-                        'price_txt': fmt_price(min_price(ms), lang) if min_price(ms) else None,
+                        # from-price of the europallet 1200 x 800 in this class: the lowest price of a class was a small
+                        # display pallet (medium 'from € 3,41'), which made medium look cheaper than light (update 28)
+                        'count': len(ms), 'count_txt': mcount(len(ms), lang), 'price': min_price([m for m in ms if m['size'] == '1200x800']),
+                        'price_txt': fmt_price(min_price([m for m in ms if m['size'] == '1200x800']), lang) if min_price([m for m in ms if m['size'] == '1200x800']) else None,
+                        'price_lbl': t['size_nick']['1200x800'],
                         'static': fmt_int(max(m['static'][1] for m in ms), lang), 'dynamic': fmt_int(max(m['dynamic'][1] for m in ms), lang),
                         'racking': fmt_int(max(rk), lang) if rk else None,
                         'img_h': round(HERO_SIZE.get(c['key'], (960, 450))[1] * 640 / 960),
@@ -596,6 +645,35 @@ def is_hyg(m):
     """Hygienic article (virgin plastic, own colour): hygienic, cleanroom and H1 pallets, plus every article on the
     hygienic type page (e.g. QPH1210HP3RR, which the PIM calls an industrial pallet)."""
     return m['special'] in ('hygienic', 'cleanroom', 'h1') or 'hygienic' in (m.get('types') or [])
+
+
+# Hygienic, H1 and cleanroom pallets are made of virgin plastic. The shared product copy says
+# "like all Q-Pall pallets it is made of recycled plastic"; correct that sentence for those models (update 28).
+_HYG_MATERIAL = {
+    'nl': ("Zoals alle pallets van Q-Pall is hij gemaakt van gerecycled kunststof, neemt hij geen vocht op en heeft hij geen",
+           "Anders dan onze standaardpallets is hij gemaakt van virgin (nieuw) kunststof in een eigen kleur. Hij neemt geen vocht op en heeft geen"),
+    'en': ("Like all Q-Pall pallets, it consists of recycled plastic, does not absorb moisture",
+           "Unlike our standard pallets, it is made of virgin plastic in its own colour. It does not absorb moisture"),
+    'de': ("Wie alle Paletten von Q-Pall besteht sie aus recyceltem Kunststoff, nimmt keine Feuchtigkeit auf",
+           "Anders als unsere Standardpaletten besteht sie aus Neuware in einer eigenen Farbe. Sie nimmt keine Feuchtigkeit auf"),
+    'fr': ("Comme toutes les palettes Q-Pall, elle est fabriquée en plastique recyclé.",
+           "Contrairement à nos palettes standard, elle est fabriquée en plastique vierge, dans une couleur propre."),
+    'it': ("Come tutti i pallet Q-Pall, è realizzato in plastica riciclata, non assorbe umidità",
+           "A differenza dei nostri pallet standard, è realizzato in plastica vergine in un colore proprio. Non assorbe umidità"),
+    'es': ("Como todos los palets de Q-Pall, está fabricado con plástico reciclado, no absorbe humedad",
+           "A diferencia de nuestros palets estándar, está fabricado con plástico virgen en un color propio. No absorbe humedad"),
+}
+for _m in MODELS:
+    if is_hyg(_m) and _m.get('seo6'):
+        _m['seo6'] = dict(_m['seo6'])
+        for _l, (_old, _new) in _HYG_MATERIAL.items():
+            if _m['seo6'].get(_l):
+                _m['seo6'][_l] = _m['seo6'][_l].replace(_old, _new)
+            _tx = (_m.get('txt') or {}).get(_l)       # the page texts were already made from seo6
+            if isinstance(_tx, dict):
+                for _k, _v in list(_tx.items()):
+                    if isinstance(_v, str) and _old in _v:
+                        _tx[_k] = _v.replace(_old, _new)
 
 
 # Organization (every page, via the same @id) and ContactPage texts per language, as supplied by iClicks (23-10-2026):
@@ -919,10 +997,26 @@ def facets_for(ms, lang):
     return f
 
 
+def rec_sort_key(m):
+    """'Recommended' order of the product overviews (update 28): what most visitors come for first.
+    Standard europallets 1200 x 800 (light, medium, heavy), then standard 1200 x 1000, then the special versions of
+    those two sizes (hygienic, H1, CP, Ultra, US), then the other sizes from small to large."""
+    std = m['special'] in (None, 'industrial')
+    if m['size'] == '1200x800':
+        tier = 0 if std else 2
+    elif m['size'] == '1200x1000':
+        tier = 1 if std else 3
+    else:
+        tier = 4 + SIZE_ORDER[m['size']]
+    # One card per family first (the anchor article); the other factories/versions of that pallet follow after the
+    # whole range, so the first rows show the choice between light, medium and heavy instead of six near-identical cards.
+    return (0 if m.get('is_anchor', True) else 1, tier, CLASS_ORDER[m['class']]) + model_sort_key(m)[2:] + (m.get('sib_order', 0),)
+
+
 def render_listing(pid, lang):
     t = T[lang]
     spec = PAGES[pid]['listing']
-    ms = listing_models(spec)
+    ms = sorted(listing_models(spec), key=rec_sort_key)
     p = min_price(ms)
     ctx = {'count': len(ms), 'price_from': p}
     page = page_obj(pid, lang, ctx)
@@ -947,7 +1041,7 @@ def render_listing(pid, lang):
     check_meta(pid, lang, fm['title'], fm['description'])
     ctx2 = base_ctx(pid, lang, fm['title'], fm['description'], section='pallets', jsonld=jl, tpl='listing')
     ctx2.update(page=page, crumbs=crumbs, models=ms, hero_stats=stats, groups=groups, body=body, facets=facets_for(ms, lang),
-                is_main=(pid == 'pallets'), listing_key=next(iter(spec), None), listing_val=next(iter(spec.values()), None),
+                news_rel=related_news(pid, lang), is_main=(pid == 'pallets'), listing_key=next(iter(spec), None), listing_val=next(iter(spec.values()), None),
                 qcolor={'class-light': 'groen', 'class-medium': 'blauw', 'class-heavy': 'paars'}.get(pid, 'oranje'))
     return env.get_template('listing.html').render(**ctx2)
 
@@ -1051,6 +1145,12 @@ def calc_for_model(m):
         s_ = CALC_ALIAS.get(s_, s_)
         if s_ in CALC_P:
             return s_, True
+    # closed-deck version (-CD) of a pallet the calculator knows: same footprint, legs and nesting, so the open-deck
+    # article is a fair comparison (update 28: the truck block of these pallets was empty)
+    for s_ in [m['base']] + [re.sub(r'^\w\.', '', v['sku']) for v in m['variants']]:
+        s2 = re.sub(r'-CD$', '', s_)
+        if s2 != s_ and s2 in CALC_P and abs(CALC_P[s2]['h'] - m['H']) <= 10:
+            return s2, False
     if 'nestable' in m['types']:
         return None, False
     cl, best = m['class'][0].upper(), None
@@ -1065,11 +1165,13 @@ def calc_for_model(m):
 
 
 def calc_data(lang):
+    """Calculator catalogue per language: the site name of each calculator article ('n') and the site article number
+    ('s') that the result's quote button puts in the quote form (update 28; the anchor article of the family first)."""
     names = {}
-    for x in MODELS:
+    for x in sorted(MODELS, key=lambda x: (0 if x.get('is_anchor', True) else 1, model_sort_key(x))):
         c, exact = calc_for_model(x)
         if c and exact and c not in names:
-            names[c] = {'n': x['name'][lang]}
+            names[c] = {'n': x['name'][lang], 's': x['sku']}
     return {'t': T[lang]['calc_ui'], 'nick': T[lang]['size_nick'], 'cat': names}
 
 
@@ -1108,10 +1210,11 @@ def calc_table(lang):
 
 def calc_ctx(lang, m=None):
     t = T[lang]
-    out = {'sku': '', 'size': '', 'std': [], 'note': '', 'data': calc_data(lang), 'v': CALC_V}
+    out = {'sku': '', 'site': '', 'size': '', 'std': [], 'note': '', 'data': calc_data(lang), 'v': CALC_V}
     if m is None:
         return out
     c, exact = calc_for_model(m)
+    out['site'] = m['sku']     # the quote button of the calculator on this product page uses this article number
     out['size'] = CALC_SIZE.get((m['L'], m['W'])) or CALC_SIZE.get((m['W'], m['L'])) or ''
     if c:
         out['sku'] = c
@@ -1159,7 +1262,8 @@ def render_product(m, lang):
     ctx.update(m=m, X=X, crumbs=crumbs, drawing=svg, spec_rows=spec_rows, variants=variants, same=same, downloads=downloads,
                size_url=url('size-' + m['size'], lang), all_in_size=t['all_in_size'].format(size=m['size_label']),
                cmp_title=t['compare_same_size'].format(size=m['size_label']), see_also=see, size_nick=t['size_nick'][m['size']],
-               anchors=t['anchor'], hyg=hyg, similar=similar_models(m), desc_secs=desc_sections(X['desc_html']), load=calc_ctx(lang, m))
+               anchors=t['anchor'], hyg=hyg, similar=similar_models(m), desc_secs=desc_sections(X['desc_html']), load=calc_ctx(lang, m),
+               news_rel=related_news(pid, lang, m))
     return env.get_template('product.html').render(**ctx)
 
 
@@ -1212,7 +1316,7 @@ def news_img(pid, w=640):
     return '/assets/img/' + img, None
 
 
-NEWS_WIDE = {'stackup': False, 'warehouse': False}   # source photos smaller than 1200 px: no 1200w candidate
+NEWS_WIDE = {'stackup': False, 'warehouse': False, 'beverage': False}   # source photos smaller than 1200 px: no 1200w candidate
 for _f in glob.glob(os.path.join(ROOT, 'input/brand/photo-n-*.webp')):         # migrated news covers (update 11)
     from PIL import Image as _Im2
     NEWS_WIDE[os.path.basename(_f)[6:-5]] = _Im2.open(_f).width >= 1200
@@ -1229,7 +1333,89 @@ def news_list(lang):
         out.append({'id': pid, 'url': url(pid, lang), 'title': plain(fm['h1']), 'lead': fm['lead'], 'tag': fm.get('tag', ''),
                     'date': d.isoformat() if d else None, 'date_txt': fmt_date(d, lang) if d else None, 'img': src, 'srcset': srcset,
                     'img_alt': fm.get('img_alt', ''), 'reading': fm.get('reading'), 'author': fm.get('author')})
+    # newest first by publication date (update 28: the old dates are back); an undated article keeps its place in the
+    # old overview, i.e. it takes the date of the article above it
+    prev = '9999'
+    for n in out:
+        n['_eff'] = n['date'] or prev
+        prev = n['_eff']
+    out.sort(key=lambda n: n['_eff'], reverse=True)
     return out
+
+
+# Related news per page (update 28): guides, sectors, product categories and about pages link to the stories that
+# belong with them. Products get theirs from their type and class (related_news()).
+RELATED_NEWS = {
+    'pallets': ['news-which-pallet', 'news-choosing-pallet', 'news-hdpe'],
+    'guide-ppwr': ['news-ppwr', 'news-recycling', 'news-economical'],
+    'guide-ispm': ['news-regulations', 'news-euro-export', 'news-price-wood'],
+    'guide-wood': ['news-price-wood', 'news-why-plastic', 'news-environment'],
+    'guide-prices': ['news-price-wood', 'news-economical', 'news-which-pallet'],
+    'guide-sizes': ['news-choosing-size', 'news-euro-export', 'news-medium-4840'],
+    'guide-choose': ['news-which-pallet', 'news-choosing-pallet', 'news-hdpe'],
+    'guide-automation': ['news-process', 'news-stackup', 'news-choosing-size'],
+    'sector-food': ['news-haccp', 'news-h1', 'news-cleaning'],
+    'sector-beverage': ['news-mega-order', 'news-horeca', 'news-poolpallet'],
+    'sector-chemical': ['news-esd', 'news-antistatic', 'news-regulations'],
+    'sector-pharma': ['news-covid', 'news-cleaning', 'news-esd'],
+    'sector-logistics': ['news-logistics-update', 'news-future-logistics', 'news-green-logistics'],
+    'sector-pooling': ['news-poolpallet', 'news-mega-order', 'news-durability'],
+    'sector-retail': ['news-auchan', 'news-industries', 'news-bestpal-mpackaging'],
+    'type-hygienic': ['news-h1', 'news-haccp', 'news-cleaning'],
+    'type-export': ['news-euro-export', 'news-brexit', 'news-regulations'],
+    'type-nestable': ['news-stacking', 'news-euro-export', 'news-which-pallet'],
+    'type-antislip': ['news-antislip-grip', 'news-antislip-mandatory', 'news-damage'],
+    'type-cp': ['news-regulations', 'news-esd', 'news-industries'],
+    'type-display': ['news-industries', 'news-auchan', 'news-choosing-size'],
+    'type-block': ['news-heavy-range', 'news-stacking', 'news-damage'],
+    'class-light': ['news-euro-export', 'news-stacking', 'news-which-pallet'],
+    'class-medium': ['news-medium-gen3', 'news-antislip-grip', 'news-medium-4840'],
+    'class-heavy': ['news-heavy-range', 'news-heavy-family', 'news-poolpallet'],
+    'size-1200x800': ['news-medium-gen3', 'news-euro-export', 'news-choosing-size'],
+    'size-1200x1000': ['news-medium-4840', 'news-poolpallet', 'news-choosing-size'],
+    'about-sustainability': ['news-ecovadis-silver', 'news-recycling', 'news-scopac'],
+    'about-local': ['news-local', 'news-local-resilience', 'news-local-sustainability'],
+    'about-custom': ['news-stackup', 'news-process', 'news-which-pallet'],
+    'about-load': ['news-stacking', 'news-damage', 'news-heavy-range'],
+    'used': ['news-qused', 'news-used-types', 'news-recycling'],
+    'ultra': ['news-poolpallet', 'news-heavy-range', 'news-mega-order'],
+}
+
+
+def related_news(pid, lang, m=None):
+    """Up to three news items that belong with a page (RELATED_NEWS, or for a product its type and class).
+    A news article gets articles with the same tag first."""
+    allnews = news_list(lang)
+    by_id = {n['id']: n for n in allnews}
+    if m is not None:
+        ids = []
+        if is_hyg(m):
+            ids += ['news-h1', 'news-haccp', 'news-cleaning']
+        if m['antislip']:
+            ids += ['news-antislip-grip', 'news-antislip-mandatory']
+        if m['special'] == 'us':
+            ids += ['news-medium-4840']
+        if m['special'] == 'pool':
+            ids += ['news-poolpallet']
+        if 'export' in m['types'] or 'nestable' in m['types']:
+            ids += ['news-euro-export', 'news-stacking']
+        ids += {'light': ['news-which-pallet'], 'medium': ['news-medium-gen3'], 'heavy': ['news-heavy-range']}[m['class']]
+        ids += ['news-hdpe', 'news-choosing-pallet']
+    elif pid in RELATED_NEWS:
+        ids = RELATED_NEWS[pid]
+    elif pid.startswith('size-'):
+        ids = ['news-choosing-size', 'news-which-pallet', 'news-hdpe']
+    elif pid in by_id:
+        tag = by_id[pid]['tag']
+        ids = [n['id'] for n in allnews if n['tag'] == tag and n['id'] != pid] + [n['id'] for n in allnews]
+    else:
+        return []
+    out, seen = [], {pid}
+    for i in ids:
+        if i in by_id and i not in seen:
+            seen.add(i)
+            out.append(by_id[i])
+    return out[:3]
 
 
 def add_toc(html):
@@ -1368,8 +1554,9 @@ def render_page(pid, lang):
             if pid not in [n['id'] for n in side]:
                 side = side[:7] + [n for n in allnews if n['id'] == pid]
             extra['news_side'] = side
-            extra['news_more'] = [n for n in allnews if n['id'] != pid][:3]
+            extra['news_more'] = related_news(pid, lang)
         else:
+            extra['news_more'] = related_news(pid, lang)
             extra['kb_list'] = [g for g in guides_list(lang) if g['guide']] + kb_side_extra(lang)
             extra['guides'] = [g for g in guides_list(lang) if g['id'] != pid][:3]
     if fm.get('job') and not fm['job'].get('closed'):
@@ -1474,6 +1661,8 @@ def render_page(pid, lang):
         extra.update(careers_ctx(pid, lang, fm))
         if tpl == 'job' and fm.get('job') and not fm['job'].get('closed'):
             jl = [x for x in jl if x.get('@type') != 'JobPosting'] + [job_ld(pid, lang, fm, job_description_html(fm))]
+    if tpl == 'page':
+        extra['news_rel'] = related_news(pid, lang) if (pid in RELATED_NEWS or pid.startswith('sector-')) else []
     check_meta(pid, lang, fm['title'], fm['description'])
     ctx = base_ctx(pid, lang, fm['title'], fm['description'], section=section_of(pid), noindex=noindex, jsonld=jl, tpl=tpl)
     ctx.update(page=page, crumbs=crumbs, body=body, side_nav=side_nav_for(pid, lang), **extra)

@@ -1,23 +1,42 @@
 ---
 id: news-ecovadis-silver
-title: "Q-Pall achieves EcoVadis Silver Medal – Q-Pall"
-description: "Q-Pall received the EcoVadis Silver Medal on 15 April 2023, placing it among the top 20% of the most sustainable companies worldwide. Read what this means."
+title: "EcoVadis Silver Medal in April 2023 – Q-Pall"
+description: "In April 2023, Q-Pall achieved the EcoVadis Silver Medal, placing it in the top 20% of companies assessed. Read what this meant and what followed."
 eyebrow: "News"
 tag: "Sustainability"
-crumb: "Q-Pall achieves EcoVadis Silver Medal"
-h1: "Q-Pall achieves **EcoVadis Silver Medal**"
-lead: "Q-Pall, a leading producer of plastic pallets, is pleased to announce that the company has received the prestigious EcoVadis Silver Medal on April 15, 2023. Thanks to this recognition, Q-Pall now ranks among the top 20% of the most sustainable companies worldwide."
-img_alt: "Q-Pall achieves EcoVadis Silver Medal"
+crumb: "EcoVadis Silver in 2023"
+h1: "Q-Pall achieved the **EcoVadis Silver Medal** in 2023"
+lead: "On 15 April 2023, Q-Pall received the EcoVadis Silver Medal. This placed Q-Pall among the top 20% of the companies EcoVadis assesses worldwide."
+img_alt: "EcoVadis Silver Medal 2023 badge (Sustainability Rating)"
 reading: 2
+published: '2023-04-26'
+updated: '2026-11-02'
 ---
-EcoVadis is an international assessment platform that evaluates companies on their environmental, social, and ethical performance. It is an independent and reliable indicator of a company's sustainability performance, recognized worldwide by customers and partners.
+> **In short**
+>
+> * On 15 April 2023, Q-Pall received the EcoVadis Silver Medal.
+> * This placed Q-Pall in the top 20% of companies assessed by EcoVadis.
+> * EcoVadis independently assesses companies on their environmental, social and ethical performance.
+> * In 2025 and in October 2026, Q-Pall achieved the Bronze Medal.
 
-This Silver Medal attests to Q-Pall's ongoing efforts to reduce its ecological footprint, take social responsibility, and maintain high ethical standards in its operations. The company has consistently worked on improving its production processes and strengthening its commitment to sustainability.
+## What is EcoVadis?
 
-Q-Pall's management is particularly proud of this recognition and sees it as a confirmation of the effectiveness of the measures the company has taken to make a positive contribution to people and the environment. Q-Pall is determined to further strengthen its sustainability efforts and aims to achieve even better results in the field of sustainability and corporate social responsibility in the future.
+EcoVadis is an international assessment platform. It rates companies on their performance in the areas of environment, social conditions and ethics. Customers and partners around the world use the rating as an independent measure of a supplier’s sustainability.
 
-## About Q-Pall
+## Silver in April 2023
 
-Q-Pall is an innovative producer of high-quality plastic pallets with a strong focus on sustainability and circularity. The company offers a wide range of pallet solutions for various industries, including logistics, food, pharmaceuticals, and retail. Q-Pall takes pride in its environmentally friendly production processes, the use of recycled materials, and the long lifespan of its pallets, minimizing waste and preserving natural resources.
+In April 2023, Q-Pall achieved the EcoVadis Silver Medal. This placed Q-Pall in the top 20% of the companies assessed.
 
-For more information about Q-Pall and its sustainability initiatives, please visit qpall.com or contact John van Boesschoten via [boesschoten@qpall.com](mailto:boesschoten@qpall.com) or +31624506309.
+The medal recognised our work to reduce our ecological footprint, take social responsibility and maintain high ethical standards. Much of that lies in the way we make pallets:
+
+* **Recycled plastic.** We make our standard pallets from nearly 100% recycled plastic.
+* **Local production.** We produce as close to the customer as possible, so less transport is needed. Read more about [local production](@about-local).
+* **A long service life.** A plastic pallet lasts for many years. After that, we take it back and grind it into raw material for new pallets.
+
+Q-Pall’s management saw the medal as confirmation that the measures taken were working, and as an incentive to keep improving in the field of sustainability and corporate social responsibility.
+
+## Bronze in 2025 and 2026
+
+After the 2023 Silver Medal, Q-Pall achieved the EcoVadis Bronze Medal in 2025. In October 2026, this was followed by Bronze once again, placing us in the top 35% of companies assessed. On the [sustainability](@about-sustainability) page, you can read how we work on sustainable [plastic pallets](@pallets), from raw material to recycling.
+
+Do you need information about Q-Pall for a supplier assessment or your own sustainability reporting? [Get in touch with us](@contact).

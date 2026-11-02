@@ -1,23 +1,55 @@
 ---
 id: news-medium-4840
-title: "Medium plastic pallets 48\" x 40\" for the US market – Q-Pall"
-description: "Q-Pall's QP4048M series of 48 x 40 inch medium plastic pallets for the US market has rounded corners, bevelled inside corners and stackable ridges."
+title: "Medium plastic pallets 48 x 40 inch for the US – Q-Pall"
+description: "The QP4048M is a 48 x 40 inch (1220 x 1020 mm) medium plastic pallet for the North American market, available with an open or closed deck."
 eyebrow: "News"
 tag: "Product"
-crumb: "Medium plastic pallets 48\" x 40\" for the"
-h1: "Medium plastic pallets **48\" x 40\" for the US market**"
-lead: "For the US market Q-Pall specially designed the QP4048M series which again excel in an optimal balance between price and performance. Plastic pallets demand in the US is driven by consumer interest in the use of plastic pallets because of their performance qualities."
-img_alt: "Medium plastic pallets 48\" x 40\" for the US market"
+crumb: "Medium pallet 48 x 40 inch"
+h1: "Medium plastic pallets **48 x 40 inch for the US market**"
+lead: "For the North American market, Q-Pall developed the QP4048M: a 48 x 40 inch (1220 x 1020 mm) medium plastic pallet with a good balance between price and performance."
+img_alt: "Black medium plastic pallet with an open deck on three runners"
 reading: 2
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-The 1020 (40″) x 1220 (48″) mm pallets come with a number of improved features. Rounded corners for a smooth transition, which in turn is good for automated transport systems. This minimises the risk of pallets being stuck or damaged, which happens often to wooden pallets.
+> **In short**
+>
+> * The QP4048M is a 48 x 40 inch (1220 x 1020 mm) medium plastic pallet, the most widely used pallet size in North America.
+> * Rounded corners and bevelled inside corners ensure smooth handling in conveyor systems and when working with forklifts.
+> * Stacking ridges in the four corners make stacking easy and safe.
+> * The pallet is available with an open or closed deck, on 3 or 6 runners.
+> * Load capacity: 6,000 kg static and 1,500 kg dynamic.
 
-Bevelled inside corners of the entire pallet profile prevent forks on forklifts getting stuck, which would interrupt the logistics process and cause additional costs. This means a huge safety advantage, because the pallets can move more easily without dragging them across the floor. The improved sturdiness with newly designed corner pins is completely unique. Special stackable ridges in the four corners of the pallet allow for easy and safe stacking.
+## A pallet for the North American market
 
-The plastic pallet range is available with either an open or a closed top deck. The pallet with a 90% closed top deck can also be used as a hygienic pallet, because the optimal conditions are observed during the entire processing.
+For the North American market, Q-Pall developed the QP4048M, a series of [medium plastic pallets](@class-medium) with a good balance between price and performance. The 48 x 40 inch size (1220 x 1020 mm) matches the most widely used pallet in the United States and Canada.
 
-The unique design of open and closed top decks also means that the new pallet can be cleaned easily and quickly. And like all other medium plastic pallets, this newly developed pallet is strong, robust, and offers a reliable and consistent performance.
+This makes the pallet slightly larger than the [industrial pallet of 1200 x 1000 mm](@size-1200x1000). In the US, demand for plastic pallets grew because companies value their performance.
 
-Bjorn Oosterhof, CEO of Q-Pall, says, “Our plastic pallets have been the favourite choice for many companies since our start in 2005. We have seen an extremely demand driven by consumer interest in the use of plastic pallets in the US because of their performance qualities. They are resistant to contamination caused by bacteria and other pathogens and can be cleaned easily. Plastic pallets are also seen as being environmentally friendly, as they can be recycled once they have reached the end of their life span.”
+Plastic pallets also fall outside [ISPM 15](@guide-ispm), the export rules for wooden packaging material. No heat treatment or stamp is needed.
 
-The pallet measurements are 1220 mm (48″) (L) x 1020 mm (40″) (W) x 150 mm (H) and the pallet is available with 3 or 6 runners. The default colour is black, but other colours, customisation or logos are also possible. The pallets are also available with an anti-skid deck, with or without stackable ridge. The pallet is also available in ESD version and with a fire-delaying coating.
+## Smooth handling in automated systems
+
+The corners of the pallet are rounded. As a result, the pallet runs smoothly on conveyors and through [automated systems](@guide-automation). The risk of a pallet getting stuck or damaged is lower. With wooden pallets, this happens more often.
+
+## Safe forklift handling
+
+The inside corners are bevelled along the entire pallet profile. This stops forklift forks from catching. It prevents interruptions in the logistics process and extra costs.
+
+It is also safer: the pallet is easy to move without dragging it across the floor. Newly designed corner pins make the pallet extra sturdy. Stacking ridges in the four corners let you stack the pallets easily and safely.
+
+## Versions and load capacity
+
+* **Deck.** Open or closed. Both versions are quick and easy to clean.
+* **Runners.** Three or six.
+* **Anti-slip.** Also available with an anti-slip deck, with or without stacking ridges.
+* **Colour and logo.** Black as standard; another colour or your own logo is possible.
+* **Special versions.** On request in an ESD version and in a flame-retardant version.
+
+All versions carry 6,000 kg static and 1,500 kg dynamic. In racking, the open-deck pallet carries 750 kg and the closed-deck pallet 1,375 kg.
+
+## Why plastic in the US
+
+Bjorn Oosterhof, co-founder and director of Q-Pall: "Our plastic pallets have been the favourite choice of many companies since our start in 2005. In the US we saw very strong demand, driven by interest in plastic pallets because of their specific qualities. They are easy to clean and are seen as environmentally friendly, because they can be recycled at the end of their life."
+
+Shipping to the United States or Canada? [Request a quote](@quote) for the QP4048M; you will usually receive a tailored price within one working day.

@@ -26,7 +26,7 @@ La logística consiste en un flujo eficiente de mercancías desde la producción
 - **Menos combustible y CO2**, y totalmente reciclables.
 - **Dimensiones fijas** para los sistemas automatizados.
 - **Menos mantenimiento:** sin reparaciones de tablas sueltas.
-- **Higiénicos y seguros:** sin humedad, bacterias, astillas ni bordes afilados.
+- **Limpios y seguros:** no absorben humedad, se limpian fácilmente y no tienen astillas ni bordes afilados.
 - **Más fáciles de apilar** y con ahorro de espacio.
 
 ## Nuestros palets recomendados

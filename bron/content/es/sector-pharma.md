@@ -21,7 +21,7 @@ En la industria farmacéutica, todo gira en torno a evitar la contaminación y p
 
 ## ¿Por qué palets de plástico?
 
-- **No porosos:** las bacterias y la humedad no tienen cabida.
+- **No porosos:** los palets no absorben humedad y se limpian fácilmente.
 - **Lavables y fáciles de limpiar** con agua, a alta presión o con productos de limpieza.
 - **Sin astillas ni bordes afilados.**
 - **Disponibles con antideslizante**, para mayor estabilidad en superficies mojadas o inclinadas.

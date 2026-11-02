@@ -1,25 +1,70 @@
 ---
 id: news-antistatic
-title: "Het gemak en de voordelen van antistatische pallets – Q-Pall"
-description: "Wrijving tussen verpakking en pallet kan statische lading veroorzaken. Ontdek hoe antistatische kunststof pallets problemen met uw artikelen voorkomen."
+title: "Antistatische pallets: werking en voordelen – Q-Pall"
+description: "Wrijving tussen verpakking en pallet kan statische lading opbouwen. Lees hoe antistatische kunststof pallets werken en wat ze voor uw producten betekenen."
 eyebrow: "Nieuws"
 tag: "Kennis"
-crumb: "Het gemak en de voordelen van"
-h1: "Het gemak en de voordelen van **antistatische pallets**"
-lead: "Wrijving tussen verpakking en pallet kan statische lading veroorzaken. Ontdek hoe antistatische kunststof pallets problemen met uw artikelen voorkomen."
-img_alt: "Het gemak en de voordelen van antistatische pallets"
+crumb: "Antistatische pallets"
+h1: "Antistatische pallets: **werking en voordelen**"
+lead: "Door wrijving tussen verpakking en pallet kan statische lading ontstaan. Die trekt stof aan en kan gevoelige elektronica beschadigen. Antistatische kunststof pallets gaan dat tegen."
+img_alt: "Stapel zwarte kunststof pallets met een barcodelabel"
 reading: 3
+faq:
+- q: "Wat is een antistatische pallet?"
+  a: "Een kunststof pallet met antistatische additieven. Die verlagen de oppervlakteweerstand van het kunststof, zodat de pallet minder statisch geladen raakt en minder stof aantrekt."
+- q: "Wat doet een antistatisch additief?"
+  a: "Het verlaagt de oppervlakteweerstand van het kunststof en verhoogt zo de geleiding. Lading die door wrijving ontstaat, vloeit daardoor weg in plaats van zich op te bouwen."
+- q: "Is een antistatische pallet hetzelfde als een ESD-pallet?"
+  a: "Nee. Een antistatische pallet gaat vooral het opbouwen van lading en het aantrekken van stof tegen. Een ESD-veilige pallet bevat geleidende additieven, zoals carbon black, en voert lading actief en gecontroleerd af."
+published: '2022-01-09'
+updated: '2026-11-02'
 ---
-Plastic pallets, ook wel [kunststof pallets](@pallets) genoemd, worden gebruikt om goederen en producten op een juiste manier te vervoeren en op te slaan. U kiest de pallet met zorg zodat de lading niet wordt aangetast, op welke manier dan ook. De kwaliteit mag niet achteruit gaan. Maar soms kan het gebeuren dat de lading op de pallet statische geladen wordt door de wrijving tussen de verpakking en kunststof pallet. En dit kan voor problemen zorgen. U kunt kiezen voor **anti-statische pallets**. Wat zijn dit precies en wat betekent dat voor uw artikelen?
+> **In het kort**
+>
+> * Door wrijving met de verpakking kan een kunststof pallet statisch geladen raken.
+> * Statische lading trekt stof aan, kan gevoelige elektronica beschadigen en geeft schokjes.
+> * Antistatische additieven verlagen de oppervlakteweerstand van het kunststof. Daardoor bouwt lading zich minder op en vloeit ze weg.
+> * Q-Pall voegt deze additieven toe als aanpassing op een bestaand palletmodel, afgestemd op uw toepassing.
+> * Is er explosiegevaar of werkt u met zeer gevoelige elektronica? Kies dan een ESD-veilige pallet.
 
-## Statische lading
+[Kunststof pallets](@pallets) gebruikt u om goederen veilig te vervoeren en op te slaan. U kiest de pallet met zorg, zodat de kwaliteit van de lading niet achteruitgaat.
 
-Wat is statische lading en hoe ontstaat dit? Voorwerpen die van kunststof zijn vervaardigd en die contact maken, kunnen licht statisch opgeladen worden. De wrijving, hoe miniem ook, zorgt ervoor dat de voorwerpen elektrostatisch geladen worden. Zo ontstaat er een statische spanning die voor problemen kan zorgen. In het dagelijks leven kunnen bepaalde materialen, zoals kleding, opgeladen worden tijdens het zitten op de bank. De kunststoffen die in de kleding en bank zijn verwerkt, zorgen voor elektrische lading. Deze lading verdwijnt bij het aanraken van een ander soort materiaal. U ervaart dit als een kleine elektrische schok bij aanraking. Bij [kunststof pallets](@pallets) zorgt de combinatie van de lading en pallet dat deze statisch geladen wordt. Iets wat weer ontlaadt zodra er contact wordt gemaakt met een andere stof. Of door contact met degene die de lading aanpakt. Gevolg kan zijn dat de lading in kwaliteit achteruit gaat of zelfs onherstelbaar beschadigd.
+Toch kan de lading op de pallet statisch geladen raken door wrijving tussen de verpakking en de kunststof pallet. Dat kan problemen geven.
 
-## Gevolgen van statische elektriciteit
+Een oplossing is een **antistatische pallet**. Wat is dat precies en wat betekent het voor uw producten?
 
-De gevolgen van *statische lading* lopen uiteen. Allereerst trekken statisch geladen voorwerpen stof aan. Dit betekent dat de stof die aanwezig is in de ruimte, eenvoudig hecht aan de pallet en de lading. Dit kan zeer onwenselijk zijn omdat het gevolgen kan hebben voor de kwaliteit of de houdbaarheid van de lading. Daarnaast kan statische elektriciteit onherstelbare schade aanrichten. Aan elektronische apparatuur zoals computerhardware. De gevolgen hiervan kunnen uiteenlopen van totale defecten tot aan lichte beschadigingen met nauwelijks merkbaar effect. Toch kan dit vaak door veroudering op lange termijn onverklaarbare klachten en storingen veroorzaken. Bovendien bestaat het gevaar dat iemand een elektrische schok kan krijgen als de apparatuur statisch is geladen.
+## Hoe ontstaat statische lading?
 
-## Q-Pall anti-statische pallets
+Voorwerpen van kunststof die met elkaar in contact komen, kunnen licht statisch geladen raken. De wrijving, hoe klein ook, zorgt voor een elektrische spanning.
 
-Q-Pall **anti-statische pallets** worden voorzien van een gebalanceerde combinatie synergetische anti- statische additieven die de oppervlaktegeleiding van polyetheen direct verminderen. Het evenwicht tussen de snelle en gecontroleerde migrerende antistatische additieven hebben niet alleen een snel antistatische effect, maar ook een langdurige bescherming tegen aantrekking van stof en andere ongemakken door elektrostatische lading. Ze worden op maat gemaakt, naar uw specificaties. Samen met u kijken we waarnaar gewenst is. Daarmee weet u zeker dat uw producten op de meest veilige manier worden getransporteerd en opgeslagen. Wilt u meer weten over de mogelijkheden om pallets van een anti-statisch additief te voorzien? Of heeft u andere vragen met betrekking tot ons assortiment en de mogelijkheden? Neem dan gerust contact met ons op voor meer informatie. Wij helpen u graag verder met persoonlijk advies.
+U kent het uit het dagelijks leven. Na een tijd op de bank is uw kleding soms geladen door de kunststoffen in de stof en de bekleding. Raakt u daarna iets aan, dan voelt u een klein schokje: de lading ontlaadt zich.
+
+Bij kunststof pallets werkt het net zo. De combinatie van lading en pallet bouwt spanning op. Die ontlaadt zich zodra er contact is met een ander materiaal of met de persoon die de lading aanpakt.
+
+## Gevolgen van statische lading
+
+* **Stof.** Statisch geladen voorwerpen trekken stof aan. Het stof in de ruimte hecht zich aan de pallet en de lading, wat de kwaliteit of de houdbaarheid van de lading kan aantasten.
+* **Schade aan elektronica.** Statische elektriciteit kan elektronische apparatuur, zoals computerhardware, onherstelbaar beschadigen. Soms is het effect eerst nauwelijks merkbaar, maar ontstaan er later onverklaarbare storingen.
+* **Schokjes.** Medewerkers kunnen een schok krijgen als ze geladen producten of apparatuur aanraken.
+
+## Hoe werkt een antistatische pallet?
+
+Gewoon kunststof geleidt slecht. Lading die op het oppervlak ontstaat, blijft daar zitten. Een antistatische pallet bevat additieven die dat veranderen.
+
+Deze **antistatische additieven** verlagen de oppervlakteweerstand van het kunststof. Het oppervlak geleidt daardoor beter, zodat lading wegvloeit in plaats van zich op te bouwen.
+
+We gebruiken een gebalanceerde combinatie van additieven. Een deel werkt snel, een ander deel komt gecontroleerd en geleidelijk naar het oppervlak. Samen zorgen ze voor een snel antistatisch effect en een langdurige bescherming tegen stof en andere hinder van statische lading.
+
+## Antistatisch of ESD-veilig?
+
+Antistatisch en ESD-veilig lijken op elkaar, maar zijn niet hetzelfde. Een antistatische pallet gaat vooral het opbouwen van lading en het aantrekken van stof tegen. Een ESD-veilige pallet bevat geleidende additieven, zoals carbon black, en voert lading actief en gecontroleerd af.
+
+Werkt u met brandbare stoffen of zeer gevoelige elektronica? Lees dan [wat ESD-veilige pallets zijn](@news-esd).
+
+## Antistatische pallets op maat
+
+Antistatische pallets maken we op basis van uw specificaties. Daarvoor passen we het materiaal van een bestaand palletmodel aan: we ontwerpen geen compleet nieuwe pallet. Samen met u bekijken we welk model en welke uitvoering bij uw producten passen.
+
+Zo'n aanpassing valt onder [maatwerk](@about-custom) en is bedoeld voor grotere projecten. Twijfelt u nog over het type pallet? Lees dan eerst [de juiste kunststof pallet kiezen](@guide-choose).
+
+Wilt u weten of een antistatische uitvoering zinvol is voor uw producten? [Neem contact met ons op](@contact) voor persoonlijk advies.

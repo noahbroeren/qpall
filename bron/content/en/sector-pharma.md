@@ -21,7 +21,7 @@ In the pharmaceutical industry, everything revolves around preventing contaminat
 
 ## Why plastic pallets?
 
-- **Non-porous:** bacteria and moisture do not stand a chance.
+- **Non-porous:** the pallets do not absorb moisture and are easy to clean.
 - **Washable and cleanable** with water, high pressure or cleaning agents.
 - **Splinter-free, with no sharp edges.**
 - **Anti-slip available**, for stability on wet or sloping surfaces.

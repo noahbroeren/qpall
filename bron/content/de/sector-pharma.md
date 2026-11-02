@@ -21,7 +21,7 @@ In der Pharmaindustrie dreht sich alles darum, Kontamination zu verhindern und P
 
 ## Warum Kunststoffpaletten?
 
-- **Porenfrei:** Bakterien und Feuchtigkeit haben keine Chance.
+- **Porenfrei:** Die Paletten nehmen keine Feuchtigkeit auf und sind leicht zu reinigen.
 - **Abwaschbar und reinigungsfähig** mit Wasser, Hochdruck oder Reinigungsmitteln.
 - **Splitterfrei, ohne scharfe Kanten.**
 - **Mit Antirutsch erhältlich**, für Stabilität auf nassen oder geneigten Flächen.

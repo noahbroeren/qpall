@@ -1,25 +1,37 @@
 ---
 id: news-sitl-2025
-title: "Q-Pall op SITL 2025: samen bouwen aan logistiek – Q-Pall"
-description: "Q-Pall staat samen met partner BacLand op SITL 2025 in Parijs. Ontdek daar onze light, medium en heavy pallets rond het thema Connecting Our Intelligence."
+title: "Q-Pall op SITL 2025 in Parijs: een terugblik – Q-Pall"
+description: "Op SITL 2025 in Parijs toonde Q-Pall samen met partner BacLand light, medium en heavy kunststof pallets, onder het thema Connecting Our Intelligence."
 eyebrow: "Nieuws"
 tag: "Evenement"
 crumb: "Q-Pall op SITL 2025"
 h1: "Q-Pall op SITL 2025: **samen bouwen aan de toekomst van logistiek**"
-lead: "De wereld van logistiek verandert razendsnel. Aangedreven door wereldwijde uitdagingen en de noodzaak voor slimme, duurzame oplossingen, staan we op een belangrijk kruispunt. Bij Q-Pall zien we dit niet als een obstakel, maar als dé kans om voorop te lopen."
-img_alt: "Q-Pall op SITL 2025: samen bouwen aan de toekomst van logistiek"
-reading: 1
+lead: "Op SITL 2025 in Parijs stond Q-Pall samen met partner BacLand. Onder het thema 'Connecting Our Intelligence' lieten we zien hoe slim ontwerp, gerecycled kunststof en lokale productie samenkomen in onze pallets."
+img_alt: "3D-impressie van de Q-Pall-beursstand met een groot scherm met een zeeschildpad en de tekst 'Pallets with a purpose'"
+reading: 2
+updated: '2026-11-02'
 ---
-Daarom zijn we trots om onze deelname aan **SITL 2025 in Parijs** aan te kondigen, met als inspirerend thema: **“Connecting Our Intelligence.”**
+> **In het kort**
+>
+> * Q-Pall stond op SITL 2025 in Parijs, de vakbeurs voor transport en logistiek, samen met partner BacLand.
+> * Het thema was "Connecting Our Intelligence".
+> * We toonden ons assortiment in drie belastingklassen: light, medium en heavy.
+> * Centraal stonden slim ontwerp, gerecycled kunststof en lokale productie.
 
-Samen met onze vertrouwde partner **BacLand** tonen we hoe intelligent design, circulaire materialen en lokale productie samenkomen in onze innovatieve palletoplossingen.
+## Wat we lieten zien
 
-Van **[lichte pallets](@class-light) voor efficiënte distributie**, tot **heavy duty modellen** voor de zwaarste toepassingen — en alles daartussenin. Ontdek bij ons het volledige assortiment:
+De logistiek verandert snel. Bedrijven zoeken slimme en duurzame oplossingen, en daar hoort ook de pallet bij. Op SITL 2025 lieten we samen met onze partner BacLand zien hoe slim ontwerp, gerecycled kunststof en lokale productie samenkomen in onze pallets.
 
-- [**Light Pallets**](@class-light)
-- [**Medium Pallets**](@class-medium)
-- [**Heavy Pallets**](@class-heavy)
+Op de stand stond ons assortiment in drie belastingklassen, van lichte pallets voor distributie tot modellen voor de zwaarste toepassingen:
 
-Of je nu CO₂ wilt reduceren, processen wilt automatiseren of simpelweg slimmer wilt vervoeren — ons team helpt je graag verder.
+* **Light.** [Lichte kunststof pallets](@class-light), vaak nestbaar. Voor export, eenmalig gebruik en distributie.
+* **Medium.** [Medium kunststof pallets](@class-medium) zijn de allrounders voor intern transport en lichte stellingbelasting.
+* **Heavy.** [Heavy duty pallets](@class-heavy) zijn gemaakt voor zwaar gebruik, hoge dynamische lasten en palletstellingen, tot 7.500 kg statisch.
 
-Bezoek ons op SITL 2025 en laten we samen werken aan de toekomst van logistiek.
+## Het verhaal achter de stand
+
+Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE en PP. We produceren ze in zes fabrieken verspreid over Europa, zodat bijna elke klant binnen 600 kilometer van een fabriek zit. Matrijzen reizen, pallets niet: we plaatsen de matrijs in de fabriek die het dichtst bij de klant ligt. Lees meer over [lokaal produceren](@about-local).
+
+Bezoekers konden met ons team praten over hun eigen vraagstukken: CO₂-uitstoot verlagen, processen automatiseren of slimmer transporteren. Kunststof pallets zijn maatvast en hebben een constant gewicht. Dat maakt ze geschikt voor [automatisering en AGV's](@guide-automation).
+
+Wilt u verder praten over de pallets die we op SITL 2025 lieten zien, of over uw eigen palletvraag? [Neem contact met ons op](@contact), dan denken we graag met u mee.

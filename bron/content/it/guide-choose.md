@@ -54,4 +54,6 @@ Il pallet tornerà indietro? Allora conviene un pallet più pesante che dura mol
 
 ## Serve aiuto?
 
+Preferite avere tutto su carta? Nel [catalogo prodotti](@catalog) trovate la nostra gamma standard con misure e valori di carico, in PDF da scaricare.
+
 I nostri specialisti sono a vostra disposizione. Diteci cosa trasportate, come lo stoccate e quanti pallet vi servono. Vi consiglieremo il modello più adatto a voi. [Richiedete un preventivo](@quote) o [contattateci](@contact).

@@ -11,7 +11,7 @@ faq:
   - q: "Quelle est la différence entre une palette export et une palette Europe ?"
     a: "La palette Europe désigne un format (1200 x 800 mm) et est souvent destinée à revenir. Une palette export est conçue pour un aller simple : aussi légère que possible, assez solide pour le transport et sans les contraintes de l’ISPM 15. Une palette plastique 1200 x 800 mm peut être les deux à la fois."
   - q: "Les palettes export conviennent-elles au rayonnage à palettes ?"
-    a: "Non. Nos palettes export sont des palettes Light destinées au transport et au stockage au sol. Elles supportent 2.500 kg en statique et 1.000 kg en dynamique, mais ne sont pas prévues pour le stockage en rayonnage."
+    a: "Non. Nos palettes export sont des palettes Light destinées au transport et au stockage au sol. Elles supportent jusqu’à 2.500 kg en statique et 1.000 kg en dynamique, mais ne sont pas prévues pour le stockage en rayonnage."
   - q: "Quels formats de palettes export sont disponibles ?"
     a: "Nous fabriquons des palettes export en 600 x 800, 760 x 1140, 1100 x 1100, 1140 x 1140, 1200 x 800, 1200 x 1000 et 1200 x 1200 mm. Vous trouverez ainsi un format adapté à chaque conteneur et à chaque marché."
 ---

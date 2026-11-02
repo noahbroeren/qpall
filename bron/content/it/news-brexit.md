@@ -1,36 +1,63 @@
 ---
 id: news-brexit
-title: "Pallet in plastica: import ed export dopo la Brexit – Q-Pall"
-description: "Dopo la Brexit mancano pallet in legno adatti all’export britannico verso l’UE. Scoprite perché i pallet in plastica Q-Pall possono essere la soluzione."
+title: "Brexit: pallet in plastica e Regno Unito – Q-Pall"
+description: "Dopo la Brexit i pallet in legno negli scambi con il Regno Unito devono rispettare l’ISPM 15, quelli in plastica no. Q-Pall produce anche a Chesterfield."
 eyebrow: "Notizie"
 tag: "Supply chain"
-crumb: "Pallet in plastica"
-h1: "Pallet in plastica: **una soluzione per import ed export dopo la Brexit**"
-lead: "Dopo la Brexit mancano pallet in legno adatti all’export britannico verso l’UE. Scoprite perché i pallet in plastica Q-Pall possono essere la soluzione."
-img_alt: "Pallet in plastica: una soluzione per import ed export dopo la Brexit"
+crumb: "I pallet dopo la Brexit"
+h1: "Brexit e pallet: **cosa vale negli scambi con il Regno Unito?**"
+lead: "Dopo la Brexit, per i pallet il Regno Unito è un paese fuori dall’UE. I pallet in legno devono quindi rispettare l’ISPM 15, quelli in plastica no. E Q-Pall produce pallet in plastica nel Regno Unito stesso, a Chesterfield."
+img_alt: "Cartello in stile metropolitana di Londra con la scritta Brexit, davanti a una bandiera britannica"
 reading: 3
+faq:
+- q: "I pallet in legno per il Regno Unito devono rispettare l’ISPM 15?"
+  a: "Sì. Dalla fine del periodo di transizione, il 31 dicembre 2020, i pallet in legno negli scambi tra l’UE e il Regno Unito devono essere trattati e timbrati secondo l’ISPM 15, in entrambe le direzioni."
+- q: "I pallet in plastica hanno bisogno di un timbro ISPM 15 per il Regno Unito?"
+  a: "No. L’ISPM 15 vale solo per gli imballaggi in legno massiccio. I pallet in plastica non richiedono trattamenti né timbri, nemmeno per le spedizioni da e verso il Regno Unito."
+- q: "Quale formato di pallet è diffuso nel Regno Unito?"
+  a: "Nel Regno Unito si usa molto il pallet industriale da 1200 x 1000 mm. Produciamo i nostri pallet da esportazione anche nei formati 1200 x 1000 mm e 1200 x 800 mm."
+published: '2022-01-13'
+updated: '2026-11-02'
 ---
-23 giugno 2016. Per la maggior parte delle persone non è una data particolarmente speciale. Tuttavia, questa giornata in cui venne ufficializzata la Brexit potrebbe avere enormi risvolti sia per le importazioni che per le esportazioni da e per la Gran Bretagna! Un motivo importante è la mancanza di pedane di carico di legno adeguate presso i produttori britannici che esportano nell'Unione Europea. Qui in basso puoi leggere le motivazioni esatte, e perché le pedane di carico di plastica Q-Pall possono essere la soluzione.
+> **In breve**
+>
+> * Il Regno Unito è uscito dall’UE il 31 gennaio 2020. Il periodo di transizione è durato fino al 31 dicembre 2020.
+> * Da allora i pallet in legno negli scambi tra l’UE e il Regno Unito devono rispettare l’ISPM 15: trattati e timbrati.
+> * I pallet in plastica non rientrano nell’ISPM 15 e non richiedono trattamenti né timbri.
+> * Q-Pall ha uno stabilimento a Chesterfield e produce quindi anche nel Regno Unito stesso.
 
-## Pallet non adeguati presso gli esportatori britannici
+## Dal referendum all’uscita
 
-Sembra un piccolo dettaglio insignificante all’interno della ben più enorme vicenda della Brexit alla quale dobbiamo assistere ogni giorno, da mesi. Tuttavia, alla disponibilità di pallet di legno sufficientemente adeguati per l'esportazione nell'Unione europea non aveva ancora pensato nessuno. E questo potrebbe avere conseguenze enormi. Qual è il problema adesso?
+Il 23 giugno 2016 il Regno Unito ha votato per lasciare l’Unione europea. Il 31 gennaio 2020 è uscito dall’UE. È seguito un periodo di transizione fino al 31 dicembre 2020, durante il quale valevano ancora le vecchie regole.
 
-I pallet di legno provenienti dall'estero dell'Unione Europea sono soggetti a requisiti diversi rispetto ai pallet di legno utilizzati per il trasporto all'interno dei paesi dell'Unione. E questo diventerà un fattore molto rilevante non appena la Gran Bretagna lascerà l'Unione Europea. Questi requisiti più rigidi possono essere relativi alla salute dei consumatori, ad esempio. I pallet al di fuori dell'UE devono essere sottoposti a trattamenti per garantire la sicurezza sanitaria. Ogni pallet deve anche avere un marchio di garanzia che mostra il possesso dei requisiti. Sembra che solo ora (!) gli esportatori britannici si siano accorti di non avere abbastanza pallet, e questo significa che gran parte dell'esportazione è in pericolo. E in larga misura le esportazioni britanniche sono le importazioni dei paesi dell'Unione Europea. Quindi magari la cosa sorprenderà anche te.
+Dalla fine di quel periodo di transizione, per gli scambi commerciali il Regno Unito è un paese fuori dall’UE. Questo ha conseguenze per le merci, ma anche per i pallet su cui viaggiano.
 
-## Quanto è grande questo problema?
+## Cosa significa la Brexit per i pallet in legno
 
-Per dare un'idea della portata del problema: ogni anno decine di milioni di pallet vengono trasportati dalla Gran Bretagna all'Unione Europea. E la maggior parte di questi pallet non soddisfa i requisiti europei relativi ai pallet provenienti dal di fuori dell'UE. Su questi pallet vengono trasportati moltissimi prodotti. Dobbiamo pensare ai prodotti alimentari, alle apparecchiature elettroniche e anche a prodotti come le medicine. Naturalmente ci sono dei pallets adatti in Gran Bretagna, ma non in quantità sufficiente per tutti gli esportatori britannici. Si teme quindi che molti esportatori britannici, non avendo i pallet adeguati, andranno in bancarotta. Quindi è un problema abbastanza grande.
+Per gli imballaggi in legno nel trasporto internazionale vale la norma ISPM 15. La norma tutela la salute delle piante: insetti e malattie delle piante non devono attraversare i confini con il legno. Un pallet in legno deve quindi essere trattato, di solito con il calore, e recare un timbro ufficiale.
 
-## La soluzione: pallet in plastica Q-Pall
+All’interno dell’UE l’ISPM 15 di solito non è obbligatoria. Dopo la Brexit, però, la norma vale per i pallet in legno negli scambi tra l’UE e il Regno Unito, in entrambe le direzioni. Un pallet senza il trattamento o il timbro corretto può causare ritardi, la restituzione della spedizione o persino la sua distruzione.
 
-Q-Pall produce pallets in plastica in diversi stabilimenti europei da molti anni, rispettando i severi parametri della relativa legislazione europea. Non produciamo solo pallet in plastica, ma gestiamo anche la distribuzione e la vendita. Il nostro assortimento di pallet in plastica attualmente comprende più di 150 prodotti diversi. Ecco perché abbiamo i pallet giusti per quasi tutte le applicazioni. O altrimenti, siamo in grado di produrne uno su misura per te. In base al nostro impegno per la Responsabilità Sociale d'Impresa (RSI), ci assumiamo anche la responsabilità di riciclare i pallet in plastica prodotti da noi. Grazie alla sostenibilità dei nostri pallet, in realtà risulterà anche un risparmio sulle spese.
+Prima della Brexit si temeva che gli esportatori britannici non avessero abbastanza pallet in legno trattati. Molti dei pallet che circolavano tra il Regno Unito e l’UE non rispettavano l’ISPM 15. Per le aziende su entrambe le sponde della Manica era un rischio concreto.
 
-La convenienza dei nostri pallet in plastica in un colpo d'occhio:
+## Pallet in plastica: niente ISPM 15
 
-- Grande assortimento di pallet in plastica
-- Fanno risparmiare e sono più duraturi rispetto ai pallet di legno
-- Rispettano i severi parametri europei
-- Q-Pall cura l'intera catena, dalla progettazione, fino alla produzione e alla distribuzione
+L’ISPM 15 vale solo per il materiale da imballaggio in legno massiccio. I pallet in plastica non vi rientrano. Non richiedono trattamento termico né timbro, qualunque sia la destinazione della vostra spedizione. Per una spiegazione completa leggete [ISPM 15: esportare senza timbro](@guide-ispm).
 
-Vuoi saperne di più sulle nostre opzioni nel settore dei pallet in plastica? Oppure hai altre domande riguardo il nostro assortimento? Non esitare a contattarci. Saremo lieti di aiutarti.
+Cosa vi offre negli scambi con il Regno Unito:
+
+* **Nessun trattamento né certificato.** Per il pallet stesso non dovete organizzare nulla.
+* **Nessun ritardo causato dal pallet.** Un pallet in plastica non viene respinto per un timbro mancante o errato.
+* **Leggero e spesso incastrabile.** I nostri [pallet da esportazione](@type-export) hanno una portata statica fino a 2.500 kg e da vuoti si incastrano l’uno nell’altro.
+* **Il formato giusto.** Nel Regno Unito è diffuso il pallet industriale da [1200 x 1000 mm](@size-1200x1000).
+* **Circolare.** I nostri pallet standard sono in plastica riciclata e a fine vita sono completamente riciclabili.
+
+## Q-Pall produce anche nel Regno Unito
+
+Q-Pall produce pallet in plastica in sei stabilimenti: Balk (Paesi Bassi), Ribe (Danimarca), Marktoberdorf (Germania), Nantes (Francia), Lleida (Spagna) e Chesterfield (Regno Unito). Quasi ogni cliente si trova entro 600 chilometri da uno dei nostri stabilimenti.
+
+Il nostro approccio: gli stampi viaggiano, i pallet no. Installiamo lo stampo nello stabilimento più vicino al cliente. Per i clienti nel Regno Unito può essere lo stabilimento di Chesterfield: trasporti brevi e nessun passaggio di confine per i pallet stessi. Scoprite di più sulla [produzione locale](@about-local).
+
+Vi servono quantità più piccole? Rivolgetevi a un [rivenditore vicino a voi](@dealers). Nel Regno Unito collaboriamo, tra gli altri, con il rivenditore Goplasticpallets.com.
+
+Esportate nel Regno Unito o avete sede lì? [Richiedete un preventivo](@quote): di solito riceverete un prezzo su misura entro un giorno lavorativo.

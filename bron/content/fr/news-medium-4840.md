@@ -1,33 +1,55 @@
 ---
 id: news-medium-4840
-title: "Palettes plastique Medium 48\" x 40\" pour le marché américain"
-description: "QP4048M, palette Medium de 1020 x 1220 mm pour le marché nord-américain : coins arrondis, coins intérieurs biseautés et bon équilibre prix-performances."
+title: "Palettes plastique Medium 48 x 40 pouces – Q-Pall"
+description: "La QP4048M est une palette plastique Medium de 48 x 40 pouces (1220 x 1020 mm) pour le marché nord-américain, à plateau ajouré ou fermé."
 eyebrow: "Actualités"
 tag: "Produit"
-crumb: "Palettes plastique Medium 48\" x 40\" pour"
-h1: "Palettes plastique Medium **48\" x 40\" pour le marché américain**"
-lead: "Q-Pall élargit sa gamme avec le QP4048M, une série de palettes spécialement conçue pour le marché nord-américain. Ces palettes offrent un équilibre optimal entre prix et performances, ce qui répond à la demande croissante de palettes en plastique aux États-Unis."
-img_alt: "Palettes plastique Medium 48\" x 40\" pour le marché américain"
-reading: 2
+crumb: "Palette Medium 48 x 40 pouces"
+h1: "Palettes plastique Medium **48 x 40 pouces pour le marché américain**"
+lead: "Pour le marché nord-américain, Q-Pall a développé la QP4048M : une palette plastique Medium de 48 x 40 pouces (1220 x 1020 mm), avec un bon équilibre entre prix et performances."
+img_alt: "Palette plastique Medium noire à plateau ajouré sur trois semelles"
+reading: 3
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-## Fonctionnalités améliorées pour une logistique fluide
+> **En bref**
+>
+> * La QP4048M est une palette plastique Medium de 48 x 40 pouces (1220 x 1020 mm), la taille de palette la plus utilisée en Amérique du Nord.
+> * Des coins arrondis et des angles intérieurs biseautés facilitent le passage dans les convoyeurs et la manutention au chariot élévateur.
+> * Des nervures de gerbage aux quatre coins rendent l’empilage simple et sûr.
+> * La palette existe avec un plateau ajouré ou fermé, sur 3 ou 6 semelles.
+> * Capacité de charge : 6.000 kg en statique et 1.500 kg en dynamique.
 
-Les palettes de 1020 x 1220 mm sont équipées de coins arrondis qui assurent une transition en douceur, idéale pour les systèmes de transport automatisés. Cela réduit au minimum le risque de blocage et de dommages, contrairement aux palettes en bois.
+## Une palette pour le marché nord-américain
 
-## Sécurité et efficacité
+Pour le marché nord-américain, Q-Pall a développé la QP4048M, une série de [palettes plastique Medium](@class-medium) offrant un bon équilibre entre prix et performances. Le format de 48 x 40 pouces (1220 x 1020 mm) correspond à la palette la plus utilisée aux États-Unis et au Canada.
 
-Les coins intérieurs biseautés empêchent les fourches des chariots élévateurs de rester coincées, ce qui optimise le processus logistique et permet d'économiser des coûts supplémentaires. Cela offre un avantage considérable en matière de sécurité et améliore le mouvement des palettes.
+La palette est donc un peu plus grande que la [palette industrielle de 1200 x 1000 mm](@size-1200x1000). Aux États-Unis, la demande de palettes plastique a augmenté, car les entreprises apprécient leurs performances.
 
-## Conception empilable et hygiénique
+Les palettes plastique ne relèvent pas non plus de la norme [ISPM 15](@guide-ispm), qui encadre l’export des emballages en bois. Aucun traitement thermique ni marquage n’est donc nécessaire.
 
-Des nervures empilables spéciales dans les coins des palettes permettent un empilage facile et sûr. Les palettes sont disponibles avec un dessus ouvert ou fermé, la version fermée pouvant également servir de palette hygiénique. La conception des palettes assure un nettoyage rapide et facile. Elles sont solides, robustes et offrent des performances fiables.
+## Un passage fluide dans les systèmes automatisés
 
-## Écologiques et durables
+Les coins de la palette sont arrondis. La palette circule ainsi sans à-coups sur les convoyeurs et dans les [systèmes automatisés](@guide-automation). Le risque qu’elle se coince ou s’abîme est plus faible. Avec les palettes en bois, cela arrive plus souvent.
 
-Bjorn Oosterhof, PDG de Q-Pall, souligne les avantages des palettes en plastique, notamment leur résistance aux bactéries et leur facilité de nettoyage. De plus, les palettes en plastique sont considérées comme respectueuses de l'environnement car elles sont recyclables.
+## Une manutention sûre au chariot élévateur
 
-## Différentes options disponibles
+Les angles intérieurs sont biseautés sur tout le profil de la palette. Les fourches d’un chariot élévateur ne s’y accrochent donc pas. Cela évite les interruptions du processus logistique et les coûts supplémentaires.
 
-Les dimensions des palettes sont de 1220 mm x 1020 mm x 150 mm et peuvent être livrées avec 3 ou 6 supports. Outre la couleur noire standard, des adaptations, des logos et d'autres options de couleur sont possibles. Les palettes sont également disponibles avec une surface antidérapante, avec ou sans nervures empilables, et dans une version ESD avec revêtement ignifuge.
+C’est aussi plus sûr : la palette se déplace facilement sans traîner sur le sol. Des tenons d’angle de conception nouvelle rendent la palette particulièrement solide. Grâce aux nervures de gerbage aux quatre coins, vous empilez les palettes facilement et en toute sécurité.
 
-Avec l'introduction des palettes en plastique QP4048M, Q-Pall continue de répondre à la demande croissante de solutions de palettes de haute qualité sur le marché nord-américain.
+## Versions et capacité de charge
+
+* **Plateau.** Ajouré ou fermé. Les deux versions se nettoient rapidement et facilement.
+* **Semelles.** Trois ou six.
+* **Antidérapant.** Également disponible avec un plateau antidérapant, avec ou sans nervures de gerbage.
+* **Couleur et logo.** Noir en standard ; une autre couleur ou votre propre logo est possible.
+* **Versions spéciales.** Sur demande en version ESD et en version ignifugée.
+
+Toutes les versions portent 6.000 kg en statique et 1.500 kg en dynamique. En rayonnage, la palette à plateau ajouré porte 750 kg et celle à plateau fermé 1.375 kg.
+
+## Pourquoi le plastique aux États-Unis
+
+Bjorn Oosterhof, cofondateur et directeur de Q-Pall : « Nos palettes plastique sont le choix préféré de nombreuses entreprises depuis notre création en 2005. Aux États-Unis, nous avons constaté une très forte demande, portée par l’intérêt pour les palettes plastique en raison de leurs qualités spécifiques. Elles se nettoient facilement et sont considérées comme respectueuses de l’environnement, car elles peuvent être recyclées en fin de vie. »
+
+Vous expédiez vers les États-Unis ou le Canada ? [Demandez un devis](@quote) pour la QP4048M ; vous recevrez en général un prix sur mesure sous un jour ouvré.

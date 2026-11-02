@@ -1,19 +1,50 @@
 ---
 id: news-medium-gen3
-title: "Novità: pallet Medium 1200 x 800 di terza generazione"
-description: "Il pallet Medium 1200 x 800 di terza generazione è in plastica riciclata al 100%, con piano aperto o chiuso e carico su scaffalatura fino a 750 kg."
+title: "Pallet Medium 1200 x 800: la terza generazione – Q-Pall"
+description: "Nel 2023 Q-Pall ha lanciato la terza generazione del suo pallet in plastica Medium 1200 x 800 mm: riciclato quasi al 100%, con piano aperto o chiuso."
 eyebrow: "Notizie"
 tag: "Prodotto"
-crumb: "Novità: pallet Medium 1200 x 800 di"
-h1: "Novità: **il pallet in plastica Medium 1200 x 800 di terza generazione**"
-lead: "Il pallet Medium 1200 x 800 di terza generazione è in plastica riciclata al 100%, con piano aperto o chiuso e carico su scaffalatura fino a 750 kg."
-img_alt: "Novità: il pallet in plastica Medium 1200 x 800 di terza generazione"
-reading: 3
+crumb: "Pallet Medium, 3ª generazione"
+h1: "La terza generazione del **pallet in plastica Medium 1200 x 800**"
+lead: "Nel 2023 Q-Pall ha lanciato la terza generazione del suo pallet in plastica Medium da 1200 x 800 mm. Il pallet è in plastica riciclata quasi al 100% e porta fino a 750 kg su scaffale."
+img_alt: "Pallet in plastica Medium 1200 x 800 mm, metà con piano aperto e metà con piano chiuso, con la scritta Racking load: 750 kg"
+reading: 2
+published: '2023-03-09'
+updated: '2026-11-02'
 ---
-Vi presentiamo il nuovo pallet in plastica per carichi medi da 1200 x 800 mm, la nostra terza generazione realizzata con materiale riciclato al 100%. Questo prodotto ecologico è ora disponibile sia con piano superiore aperto che chiuso ed è progettato per trasportare un carico di scaffalatura fino a 750 kg. Utilizzando materiale riciclato nel processo di produzione, riduciamo la quantità di rifiuti che altrimenti finirebbero in discarica. Ciò significa che non solo il pallet è ecologico, ma contribuisce anche a ridurre l'impatto ambientale dello smaltimento dei rifiuti. Le dimensioni del pallet lo rendono perfetto per l'utilizzo in diversi settori, tra cui quello alimentare e delle bevande, farmaceutico, logistico e manifatturiero. Le dimensioni di 1200 x 800 mm sono quelle standard utilizzate in molti Paesi e sono compatibili con la maggior parte delle attrezzature per la movimentazione dei pallet. La natura media di questo pallet lo rende ideale per le applicazioni che richiedono un pallet in grado di sostenere una quantità moderata di peso, senza sacrificare la durata o la resistenza. La capacità di carico in scaffalatura di 500 kg per il piano aperto e di 750 kg per la versione chiusa lo rende perfetto per l'uso nei sistemi di scaffalatura del magazzino, consentendo alle aziende di massimizzare lo spazio di stoccaggio senza preoccuparsi della rottura o del cedimento dei pallet. Oltre a essere ecologico, il pallet è anche estremamente resistente. Realizzato in materiale riciclato di alta qualità, è resistente all'umidità, alle sostanze chimiche e ai raggi UV. Ciò significa che può essere utilizzato in una varietà di ambienti ed è adatto sia all'interno che all'esterno. Il design del piano superiore aperto e chiuso offre ulteriore flessibilità alle aziende. Il design del piano superiore aperto consente un facile accesso ai prodotti e alle merci trasportate, rendendolo ideale per le applicazioni che richiedono frequenti operazioni di carico e scarico. Il design del piano superiore chiuso offre una maggiore protezione alle merci trasportate ed è ideale per le applicazioni in cui è essenziale l'integrità dei prodotti. In conclusione, l'introduzione del nuovo pallet in plastica per impieghi medi da 1200 x 800 mm, realizzato con materiale riciclato al 100%, rappresenta una grande novità per il mercato. Questo prodotto ecologico offre alle aziende una soluzione di imballaggio responsabile dal punto di vista ambientale, oltre ad essere resistente e flessibile. La capacità di carico del pallet, pari a un massimo di 750 kg, lo rende ideale per i sistemi di scaffalatura del magazzino, mentre il design aperto e chiuso del piano superiore offre ulteriore flessibilità alle aziende.
+> **In breve**
+>
+> * Nel 2023 Q-Pall ha lanciato la terza generazione del suo pallet in plastica Medium da 1200 x 800 mm.
+> * Il pallet è realizzato in plastica riciclata quasi al 100%.
+> * Esiste una versione con piano aperto (QP1208MB3RR) e una con piano chiuso (QP1208MB3RR-CD), entrambe su tre slitte.
+> * Su scaffale il pallet porta fino a 500 kg con piano aperto e fino a 750 kg con piano chiuso.
+> * Il pallet non assorbe umidità e resiste a molte sostanze chimiche.
 
-[Pallet in plastica 1200 x 800 3 listelli medium ponte aperto](@p:qp1208mb3rr){: .btn .btn-primary}
-{: .btn-row}
+## La misura dell’europallet in versione Medium
 
-[Pallet in plastica 1200 x 800 3 listelli ponte chiuso medium](@p:qp1208mb3rr-cd){: .btn .btn-primary}
-{: .btn-row}
+1200 x 800 mm è la misura dell’europallet. È una misura standard usata in molti paesi e compatibile con la maggior parte di transpallet, carrelli elevatori e altre attrezzature di movimentazione. Scoprite tutti i [pallet in plastica 1200 x 800 mm](@size-1200x800).
+
+La terza generazione è un [pallet Medium](@class-medium): il più versatile per trasporto interno, distribuzione e stoccaggio leggero su scaffale. Il pallet porta un peso medio senza rinunciare a resistenza e durata.
+
+## Piano aperto o chiuso
+
+* **Piano aperto (QP1208MB3RR).** Il piano aperto è più leggero e lascia defluire l’umidità. È adatto alle applicazioni con carichi e scarichi frequenti.
+* **Piano chiuso (QP1208MB3RR-CD).** Il piano chiuso offre una superficie piana e continua per prodotti piccoli, sacchi e scatole. Protegge meglio il carico ed è facile da pulire.
+
+## Portata
+
+Il pallet misura 1200 x 800 x 145 mm e porta 5.000 kg in statica. Su scaffalatura porta-pallet la versione con piano aperto porta fino a 500 kg e quella con piano chiuso fino a 750 kg. Potete quindi usare il pallet anche nelle scaffalature di magazzino.
+
+Questi valori valgono per un carico distribuito in modo uniforme. Approfondite l’argomento nella pagina sulla [portata dei pallet in plastica](@about-load).
+
+## In plastica riciclata
+
+Il pallet è realizzato in plastica riciclata quasi al 100%, una miscela di HDPE e PP. Così la plastica che altrimenti sarebbe un rifiuto ha una nuova vita. A fine vita il pallet è completamente riciclabile: lo ritiriamo e lo trasformiamo di nuovo in materia prima per nuovi pallet. Scoprite il nostro approccio alla [sostenibilità](@about-sustainability).
+
+## Dove usare il pallet
+
+Il pallet non assorbe umidità e resiste a molte sostanze chimiche. È adatto a molti settori, dalla logistica e dalla produzione all’industria alimentare e delle bevande.
+
+Un pallet in plastica riciclata non è destinato al contatto diretto con gli alimenti. Per questo uso offriamo [pallet igienici](@type-hygienic) in plastica vergine.
+
+Volete sapere quale versione si adatta meglio al vostro processo? [Richiedete un preventivo](@quote); di solito riceverete un prezzo su misura entro un giorno lavorativo.

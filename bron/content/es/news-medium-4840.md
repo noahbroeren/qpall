@@ -1,33 +1,55 @@
 ---
 id: news-medium-4840
-title: "Palets de plástico Medium 48\" x 40\" para EE. UU. – Q-Pall"
-description: "El QP4048M de Q-Pall es un palet de plástico Medium de 1020 x 1220 mm para EE. UU., con esquinas redondeadas para sistemas automatizados y diseño apilable."
+title: "Palets de plástico Medium 48 x 40 para EE. UU. – Q-Pall"
+description: "El QP4048M es un palet de plástico Medium de 48 x 40 pulgadas (1220 x 1020 mm) para el mercado norteamericano, con superficie abierta o cerrada."
 eyebrow: "Noticias"
 tag: "Producto"
-crumb: "Palets de plástico Medium 48\" x 40\" para"
-h1: "Palets de plástico Medium **48\" x 40\" para el mercado de EE. UU.**"
-lead: "Q-Pall amplía su gama con el QP4048M, una serie de palets diseñados especialmente para el mercado norteamericano. Estos palets ofrecen un equilibrio óptimo entre precio y rendimiento, respondiendo a la creciente demanda de palets de plástico en los Estados Unidos."
-img_alt: "Palets de plástico Medium 48\" x 40\" para el mercado de EE. UU."
-reading: 2
+crumb: "Palet Medium 48 x 40 pulgadas"
+h1: "Palets de plástico Medium **48 x 40 pulgadas para el mercado de EE. UU.**"
+lead: "Para el mercado norteamericano, Q-Pall desarrolló el QP4048M: un palet de plástico Medium de 48 x 40 pulgadas (1220 x 1020 mm) con un buen equilibrio entre precio y prestaciones."
+img_alt: "Palet de plástico Medium negro con superficie abierta sobre tres patines"
+reading: 3
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-## Funciones mejoradas para una logística fluida
+> **En resumen**
+>
+> * El QP4048M es un palet de plástico Medium de 48 x 40 pulgadas (1220 x 1020 mm), el tamaño de palet más utilizado en Norteamérica.
+> * Las esquinas redondeadas y los ángulos interiores biselados facilitan el paso por sistemas de transporte y el trabajo con carretillas elevadoras.
+> * Los nervios de apilado en las cuatro esquinas hacen que apilar sea fácil y seguro.
+> * El palet está disponible con superficie abierta o cerrada, sobre 3 o 6 patines.
+> * Capacidad de carga: 6.000 kg de carga estática y 1.500 kg de carga dinámica.
 
-Los palets de 1020 x 1220 mm están equipados con esquinas redondeadas que permiten una transición sin problemas, ideal para sistemas de transporte automatizados. Esto minimiza el riesgo de bloqueo y daños, a diferencia de los palets de madera.
+## Un palet para el mercado norteamericano
 
-## Seguridad y eficiencia
+Para el mercado norteamericano, Q-Pall desarrolló el QP4048M, una serie de [palets de plástico Medium](@class-medium) con un buen equilibrio entre precio y prestaciones. El tamaño de 48 x 40 pulgadas (1220 x 1020 mm) corresponde al palet más utilizado en Estados Unidos y Canadá.
 
-Las esquinas interiores biseladas evitan que las horquillas de las carretillas elevadoras queden atrapadas, optimizando así el proceso logístico y ahorrando costos adicionales. Esto proporciona una ventaja significativa en cuanto a seguridad y mejora el movimiento de los palets.
+Por eso, el palet es algo más grande que el [palet industrial de 1200 x 1000 mm](@size-1200x1000). En Estados Unidos, la demanda de palets de plástico creció porque las empresas valoran sus prestaciones.
 
-## Diseño apilable e higiénico
+Además, los palets de plástico no están sujetos a la norma [ISPM 15](@guide-ispm), que regula la exportación de embalajes de madera. Por tanto, no necesitan tratamiento térmico ni sello.
 
-Ranuras apilables especiales en las esquinas de los palets permiten un apilamiento fácil y seguro. Los palets están disponibles con una parte superior abierta o cerrada, y la versión cerrada también puede utilizarse como palet higiénico. El diseño de los palets permite una limpieza rápida y sencilla. Son resistentes, robustos y ofrecen un rendimiento fiable.
+## Paso fluido por sistemas automatizados
 
-## Ecológicos y duraderos
+Las esquinas del palet son redondeadas. Así, el palet circula sin problemas por cintas transportadoras y [sistemas automatizados](@guide-automation). El riesgo de que se atasque o se dañe es menor. Con los palets de madera, esto ocurre con más frecuencia.
 
-Bjorn Oosterhof, CEO de Q-Pall, destaca las ventajas de los palets de plástico, incluida su resistencia a las bacterias y su facilidad de limpieza. Además, los palets de plástico se consideran respetuosos con el medio ambiente, ya que son reciclables.
+## Trabajo seguro con la carretilla elevadora
 
-## Diversas opciones disponibles
+Los ángulos interiores están biselados en todo el perfil del palet. De este modo, las horquillas de la carretilla no se enganchan. Esto evita interrupciones en el proceso logístico y costes adicionales.
 
-Las dimensiones de los palets son de 1220 mm x 1020 mm x 150 mm y se pueden suministrar con 3 o 6 soportes. Además del color negro estándar, se pueden realizar adaptaciones, logotipos y otras opciones de color. Los palets también están disponibles con una superficie antideslizante, con o sin nervios apilables, y en una versión ESD con revestimiento ignífugo.
+También es más seguro: el palet se mueve con facilidad sin arrastrarse por el suelo. Unos pernos de esquina de nuevo diseño hacen que el palet sea especialmente robusto. Con los nervios de apilado en las cuatro esquinas, usted apila los palets de forma fácil y segura.
 
-Con la introducción de los palets de plástico QP4048M, Q-Pall continúa satisfaciendo la creciente demanda de soluciones de palets de alta calidad en el mercado norteamericano.
+## Versiones y capacidad de carga
+
+* **Superficie.** Abierta o cerrada. Ambas versiones se limpian de forma rápida y sencilla.
+* **Patines.** Tres o seis.
+* **Antideslizante.** También disponible con superficie antideslizante, con o sin nervios de apilado.
+* **Color y logotipo.** Negro de serie; es posible otro color o su propio logotipo.
+* **Versiones especiales.** Bajo pedido en versión ESD y en versión ignífuga.
+
+Todas las versiones soportan 6.000 kg de carga estática y 1.500 kg de carga dinámica. En estantería, el palet con superficie abierta soporta 750 kg y el de superficie cerrada 1.375 kg.
+
+## Por qué el plástico en Estados Unidos
+
+Bjorn Oosterhof, cofundador y director de Q-Pall: «Nuestros palets de plástico han sido la opción preferida de muchas empresas desde nuestros inicios en 2005. En Estados Unidos vimos una demanda muy fuerte, impulsada por el interés en los palets de plástico gracias a sus cualidades específicas. Son fáciles de limpiar y se consideran respetuosos con el medio ambiente, porque pueden reciclarse al final de su vida útil».
+
+¿Envía a Estados Unidos o Canadá? [Solicite un presupuesto](@quote) para el QP4048M; normalmente recibirá un precio a medida en un día laborable.

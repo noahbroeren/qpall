@@ -26,7 +26,7 @@ Logistics is about an efficient flow of goods from production to consumer. Suppl
 - **Less fuel and CO2**, and fully recyclable.
 - **Fixed dimensions** for automated systems.
 - **Less maintenance:** no repairs to loose boards.
-- **Hygienic and safe:** no moisture, bacteria, splinters or sharp edges.
+- **Clean and safe:** they do not absorb moisture, are easy to clean and have no splinters or sharp edges.
 - **Easier to stack** and space-saving.
 
 ## Our recommended pallets

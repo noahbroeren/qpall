@@ -1,45 +1,79 @@
 ---
 id: news-damage
 title: "9 erreurs qui endommagent les palettes plastique – Q-Pall"
-description: "Tourner trop tôt, rouler trop bas, jeter les palettes : 9 erreurs courantes qui endommagent palettes plastique et chargement. Sensibilisez vos équipes."
+description: "Tourner trop tôt, rouler trop bas, jeter ou surcharger les palettes : 9 erreurs qui endommagent palettes plastique et chargement, et comment les éviter."
 eyebrow: "Actualités"
 tag: "Conseils"
-crumb: "9 erreurs qui endommagent les palettes"
+crumb: "9 erreurs qui abîment les palettes"
 h1: "9 erreurs **qui endommagent les palettes plastique**"
-lead: "Assurez-vous toujours que les fourches soient complétement dégagées de la palette en plastique avant de tourner."
-img_alt: "9 erreurs qui endommagent les palettes plastique"
-reading: 2
+lead: "Les palettes plastique sont solides et durent longtemps. Pourtant, les dommages viennent souvent des mêmes erreurs : en conduisant le chariot élévateur et en évaluant mal la charge."
+img_alt: "Illustration d’une palette plastique noire chargée de cartons sur la fourche d’un chariot élévateur, avec un niveau à bulle au-dessus"
+reading: 3
+faq:
+- q: "Quel écartement faut-il entre les fourches d’un chariot élévateur ?"
+  a: "En règle générale, l’entraxe des fourches correspond à environ 60 % de la largeur de la palette. La charge reste ainsi stable sur les fourches."
+- q: "Quelle charge s’applique quand je gerbe des palettes chargées ?"
+  a: "La charge statique de la palette du bas. Cette palette porte le poids de toutes les palettes chargées situées au-dessus, et ce total doit rester dans la limite de la charge statique."
+- q: "Que faire d’une palette plastique endommagée ?"
+  a: "Retirez-la de la circulation, car une palette endommagée peut céder sous la charge. En fin de vie, une palette plastique est entièrement recyclable. Q-Pall reprend les palettes pour les recycler."
+published: '2022-01-12'
+updated: '2026-11-02'
 ---
-## 1. Tourner avant que les fourches ne soient complétement dégagées de la palette
+> **En bref**
+>
+> * La plupart des dommages aux palettes plastique surviennent lors de la conduite d’un chariot élévateur ou d’un transpalette.
+> * Faites attention à la position, à la longueur et à l’écartement des fourches.
+> * Chaque palette possède trois valeurs de charge : statique, dynamique et en rayonnage.
+> * Ces valeurs s’appliquent à une charge répartie uniformément.
 
-## 2. Transporter des palettes plastique trop bas
+Les palettes plastique sont solides et durent de nombreuses années. Pourtant, nous constatons toujours les mêmes erreurs sur le terrain, qui endommagent la palette et le chargement. La plupart sont faciles à éviter : passez-les donc en revue avec vos équipes.
 
-En transportant trop bas, il y a des chances que la palette et la charge touchent le sol, par exemple lorsque l’on passe un seuil ou sur un terrain irrégulier. Le fait de monter et descendre d’une rampe peut également mener à des problèmes.
+## Erreurs lors de la conduite du chariot élévateur
 
-## 3. « Jeter » ou faire glisser inutilement les palettes, ou les laisser traîner
+### 1. Tourner avant que les fourches soient sorties de la palette
 
-Le fait de laisser les palettes traîner engendre des situations dangereuses et augmente les chances d’accidents. En les jetant et en les faisant glisser inutilement sur le sol, les palettes plastique sont également souvent endommagées en pratique.
+Ne tournez qu’une fois les fourches complètement dégagées de la palette. Si vous tournez plus tôt, les fourches heurtent l’intérieur de la palette. Celle-ci peut alors être endommagée ou déplacée.
 
-## 4. Fourches non horizontales et charge trop loin sur les fourches
+### 2. Transporter la palette trop bas
 
-En vous assurant que les fourches du chariot élévateur soient horizontales lorsque vous chargez et déchargez, levez et placez les palettes plastique, vous prévenez des dommages inutiles sur les palettes.
+Si vous roulez trop bas, la palette et sa charge peuvent toucher le sol, par exemple sur un seuil ou un terrain irrégulier. Monter ou descendre une rampe peut aussi vite mal tourner.
 
-## 5. Bonne longueur des fourches
+### 3. Jeter les palettes, les laisser traîner ou les faire glisser au sol
 
-Lorsque les fourches sont trop longues et dépassent excessivement à l’arrière, il y a des chances pour que la charge en dessous soit endommagée. Si toutefois la charge est placée trop loin à l’extrémité des fourches, il existe des chances de retournement de la charge et d’endommager les palettes plastique.
+Les palettes qui traînent créent des situations dangereuses et provoquent des accidents. Les jeter ou les faire glisser inutilement au sol les endommage en outre. Empilez donc soigneusement les palettes vides.
 
-## 6. Bonne distance entre des fourches
+### 4. Fourches non horizontales
 
-La distance entre les fourches est également importante pour transporter la charge avec stabilité. La distance entre les fourches doit être d’environ 60% de la largeur de la palette en plastique.
+Veillez à ce que les fourches soient horizontales lors de l’entrée et de la sortie de la palette, du levage et de la dépose. Vous évitez ainsi des dommages inutiles aux palettes.
 
-## 7. Mauvais gerbage des palettes plastique dans les rayonnages pour palettes
+### 5. Mauvaise longueur de fourches
 
-La charge de gerbage est la charge maximale d’une palette dans un rayonnage à palette sans plaques d’insertion en une charge de palette répartie de manière homogène. Les palettes sont testées avec une charge répartie de manière homogène de sacs de 25 kg.
+Si les fourches sont trop longues et dépassent largement à l’arrière, la charge située derrière peut elle aussi être endommagée. Si, au contraire, la charge repose trop loin sur la pointe des fourches, elle risque de basculer. La palette plastique est alors endommagée elle aussi.
 
-## 8. Hypothèse de charge statique incorrecte
+### 6. Mauvais écartement des fourches
 
-La charge statique est la charge maximale d’une palette lorsqu’elle est placée sur une surface homogène. S’il y a plusieurs palettes empilées, le poids total détermine la charge sur la palette inférieure.
+Pour une charge stable, l’entraxe des fourches compte aussi. Il doit correspondre à environ 60 % de la largeur de la palette.
 
-## 9. Charge dynamique trop élevée sur les palettes plastique
+## Erreurs liées à la charge et au stockage
 
-La charge dynamique est la charge maximale d’une palette au cours d’un transport par chariot élévateur ou un transpalette en une charge harmonieusement répartie de la palette.
+Chaque palette plastique possède trois valeurs de charge. Elles s’appliquent à une charge répartie uniformément et figurent pour chaque modèle sur sa page produit. Pour en savoir plus, consultez notre page sur [la capacité de charge des palettes plastique](@about-load).
+
+### 7. Mauvaise utilisation en rayonnage à palettes
+
+La charge en rayonnage est le poids maximal que porte une palette dans un rayonnage à palettes sans platelage. La palette repose alors uniquement sur deux lisses. C’est souvent la plus faible des trois valeurs.
+
+Les palettes Light ne sont pas destinées au rayonnage. Choisissez plutôt une palette Medium ou [Heavy](@class-heavy) et placez-la avec ses semelles perpendiculaires aux lisses. Nous testons la charge en rayonnage avec une charge répartie uniformément de sacs de 25 kg.
+
+### 8. Mal évaluer la charge statique
+
+La charge statique est le poids maximal que porte une palette lorsqu’elle est immobile sur un sol plat. Lors du [gerbage de palettes chargées](@news-stacking), la palette du bas porte le poids de toutes les palettes situées au-dessus. Ce total doit rester dans la limite de la charge statique.
+
+### 9. Charge trop lourde pendant le transport
+
+La charge dynamique est le poids maximal que porte une palette en mouvement, par exemple sur un chariot élévateur ou un transpalette. En raison des accélérations, des freinages et des petits chocs, cette valeur est inférieure à la charge statique. Faites donc particulièrement attention au poids lorsque vous déplacez la palette.
+
+## Éviter les dommages commence par le bon choix
+
+Vous évitez déjà beaucoup de dommages en choisissant une palette adaptée à votre utilisation : au sol, en mouvement ou en rayonnage. Choisissez une palette dont les valeurs de charge dépassent largement le poids de votre charge la plus lourde. Pour vous aider, lisez [choisir la bonne palette plastique](@guide-choose).
+
+Vous ne savez pas quelles valeurs de charge votre application exige ? [Contactez-nous](@contact), nous ferons le calcul avec vous.

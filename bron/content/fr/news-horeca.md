@@ -1,33 +1,62 @@
 ---
 id: news-horeca
-title: "Des palettes pour l’hôtellerie-restauration – Q-Pall"
-description: "Rugueux, le bois peut produire des esquilles. Découvrez pourquoi les palettes plastique, lisses et plates, conviennent mieux à l’hôtellerie-restauration."
+title: "Palettes plastique pour l’hôtellerie-restauration – Q-Pall"
+description: "Palettes pour l’hôtellerie-restauration : pourquoi le plastique convient mieux que le bois, comment les nettoyer et quels accessoires utiliser au froid."
 eyebrow: "Actualités"
 tag: "Conseils"
-crumb: "Des palettes pour"
-h1: "Des palettes **pour l’hôtellerie-restauration**"
-lead: "Rugueux, le bois peut produire des esquilles. Découvrez pourquoi les palettes plastique, lisses et plates, conviennent mieux à l’hôtellerie-restauration."
-img_alt: "Des palettes pour l’hôtellerie-restauration"
+crumb: "Palettes hôtellerie-restauration"
+h1: "Palettes plastique **pour l’hôtellerie-restauration**"
+lead: "Dans l’hôtellerie-restauration, vous transportez et stockez denrées et boissons, souvent au froid. Les palettes plastique s’y prêtent bien : sans échardes, elles n’absorbent pas l’humidité et se nettoient facilement."
+img_alt: "Bouteilles de boisson orange sur une ligne de production"
 reading: 3
+faq:
+- q: "Pourquoi les palettes plastique conviennent-elles à l’hôtellerie-restauration ?"
+  a: "Les palettes plastique ne produisent pas d’échardes, n’absorbent pas l’humidité et se nettoient facilement. La saleté ne peut pas s’incruster dans le matériau, contrairement au bois poreux."
+- q: "Peut-on poser des aliments directement sur une palette plastique ?"
+  a: "Pour le contact direct avec les aliments, le plastique vierge est la norme. C’est pourquoi nos palettes hygiéniques sont en plastique vierge. Nos autres palettes sont en plastique recyclé et destinées aux produits emballés."
+- q: "Puis-je commander seulement quelques palettes ?"
+  a: "Nous livrons par pile complète, par exemple 45 palettes emboîtables ou 17 palettes Medium. Il vous en faut moins ? Un [distributeur près de chez vous](@dealers) peut alors vous aider."
+published: '2022-01-12'
+updated: '2026-11-02'
 ---
-Dans l’industrie hôtelière, des denrées alimentaires et d’autres produits de restauration sont transportés et stockés. Lorsqu’un stockage réfrigéré est nécessaire, c’est avec un peu de chance effectué de la bonne manière. Les meubles de rangement, étagères, chambres d’entreposage pour produits congelés, caisses pour produits surgelés et réfrigérateurs jouent un rôle important dans cela. Mais les palettes aussi. Il existe toutefois de multiples possibilités, et nous en parlons ci-dessous.
+> **En bref**
+>
+> * Les palettes en bois sont rugueuses, peuvent produire des échardes et absorbent l’humidité. Ce n’est pas souhaitable dans l’hôtellerie-restauration.
+> * Les palettes plastique sont planes et lisses, n’absorbent pas l’humidité et se nettoient facilement.
+> * Les aliments sont-ils en contact direct avec la palette, ou travaillez-vous selon l’HACCP ? Choisissez alors une palette hygiénique en plastique vierge.
+> * Avec des rehausses de palette et un couvercle, vous transformez une palette en caisse fermée.
+> * Des espaceurs de congélation entre les couches permettent à votre chargement de congeler plus vite et de façon plus homogène.
 
-## Palettes plastique versus palettes en bois
+Les palettes pour l’hôtellerie-restauration sont soumises à rude épreuve : humidité, froid, liquides renversés et nettoyages fréquents. Denrées, boissons et autres fournitures sont transportées et stockées dans des entrepôts, des chambres froides et des congélateurs. Découvrez pourquoi les palettes plastique y sont bien adaptées et quels accessoires facilitent le travail.
 
-Les palettes sont traditionnellement faites en bois. Mais une palette en bois n’est pas vraiment souhaitable dans le secteur de la restauration. Elle est rugueuse et peut engendrer des esquilles. C’est la raison pour laquelle les palettes plastique sont particulièrement adaptées au secteur de la restauration. Le matériau de la palette en plastique est plat et lisse. Cela signifie que contrairement aux palettes en bois, qui sont naturellement poreuses, la saleté ne peut pas s’accumuler dans des palettes plastique. L’humidité, la saleté et les bactéries peuvent facilement rester dans les petits espaces. Cela fait de la palette en bois un nid idéal pour des insectes et d’autres nuisibles. Ce qui n’est vraiment pas souhaitable dans le secteur de la restauration !
+## Palettes plastique ou palettes en bois dans l’hôtellerie-restauration ?
 
-## Nettoyage des palettes
+Traditionnellement, les palettes sont en bois. Dans l’hôtellerie-restauration, une palette en bois n’est pourtant pas idéale : elle est rugueuse et des échardes peuvent s’en détacher. Le bois est en outre poreux par nature. L’humidité, la saleté et les bactéries restent facilement dans les petits joints et interstices, et les insectes et autres nuisibles peuvent s’y installer.
 
-Dans le secteur de la restauration, il existe un risque de fuite des produits de restauration. Les palettes utilisées pour transporter des produits ou qui servent de rangement peuvent ainsi devenir très sales. Ce n’est pas un problème avec une palette en plastique. Elles sont faciles à nettoyer et non poreuses. Les moisissures, bactéries, insectes et nuisibles ne restent pas après le nettoyage. En utilisant également des bacs récepteurs, vous évitez que les liquides n’engendrent une charge humide intégrale. Cela fait gagner du temps de nettoyage. Vous avez besoin d’une palette qui soit davantage hygiénique ? Alors il existe même des palettes hygiéniques spéciales. Celles-ci sont particulièrement adaptées dans un environnement HACCP car elles sont fabriquées de manière à être complètement lisses.
+Les palettes plastique n’ont pas ces inconvénients. Leur surface est plane et lisse, si bien que la saleté ne peut pas s’incruster dans le matériau. Le plastique n’absorbe pas l’humidité, se nettoie facilement et ne contient pas de clous.
 
-## Palette devenant une caisse
+## Nettoyer les palettes après une fuite
 
-Les palettes plastique destinées au secteur de la restauration peuvent parfaitement être associées à des rehausses pour palette en plastique. En empilant plusieurs rehausses, vous créez une caisse de la hauteur de votre choix. Vous pouvez protéger encore mieux les produits vulnérables en associant les palettes et les rehausses pour palette à des couvercles de palette en plastiques. De cette manière, vous pouvez facilement transformer votre palette en caisse fermée. Les couvercles sont solides et se ferment parfaitement. Vos produits sont désormais protégés contre les dommages de manière optimale.
+En restauration, il arrive qu’un contenant fuie : une bouteille, un seau ou un emballage de sauce. Les palettes utilisées pour le transport et le stockage peuvent alors être bien sales. Une palette plastique se nettoie facilement, car le matériau n’est pas poreux.
 
-## Séparateurs de surgélation
+Utilisez-vous aussi un bac de rétention ? Il recueille les liquides qui fuient avant qu’ils ne mouillent le reste du chargement. Vous gagnez ainsi un temps de nettoyage précieux.
 
-Les produits surgelés sont très courants dans le secteur de la restauration. Lorsque l’on travaille avec ceux-ci, les séparateurs de surgélation sont une solution idéale facile à associer aux palettes plastique. Ils sont conçus pour supporter les températures de surgélation et supportent le poids des produits surgelés. Ce produit possède des éléments surélevés avec des trous, qui laissent l’air froid passer entre les produits. Cela permet aux aliments de surgeler rapidement et de manière harmonieuse, quel que soit le nombre de produit que vous stockez.
+## Palettes hygiéniques pour le contact alimentaire et l’HACCP
 
-## Stockage des bouteilles en plastique
+Nous fabriquons nos palettes standard en plastique recyclé. Elles sont destinées aux produits emballés, pas au contact direct avec les aliments. Les aliments sont-ils posés directement sur la palette, ou travaillez-vous dans un environnement HACCP aux exigences strictes ? Choisissez alors une [palette hygiénique](@type-hygienic). Elle est fabriquée en plastique vierge (neuf) et entièrement lisse, ce qui permet de la nettoyer rapidement et à fond.
 
-Vous transportez et/ou stockez régulièrement des bouteilles en plastique ? Alors les supports de bouteille d’eau sont une solution idéale. Ces palettes vous permettent de transporter et de stocker des bouteilles d’eau aussi efficacement que possible. Cela maintient les bouteilles d’eau fermement en place et les empêche de tomber. Pour résumer : les palettes plastique sont idéales dans le secteur de la restauration à diverses fins. Vous voulez savoir quelles palettes ou autres produits seraient adaptés à votre cas ? N’hésitez pas nous contacter pour de plus amples informations. Nous serons heureux de vous aider.
+## De la palette à la caisse fermée
+
+Les palettes plastique se combinent facilement avec des [rehausses de palette](@acc-collars). En empilant plusieurs rehausses, vous créez une caisse dont vous choisissez vous-même la hauteur. Ajoutez un couvercle en plastique, et vous obtenez une caisse fermée. La poussière et la saleté restent dehors, et les marchandises fragiles sont mieux protégées contre les dommages.
+
+## Espaceurs de congélation pour la chambre froide
+
+Les produits surgelés sont très courants dans l’hôtellerie-restauration. Les [espaceurs de congélation (freezer spacers)](@acc-freezer) sont alors un complément pratique aux palettes plastique. Ils sont conçus pour les températures de congélation et supportent le poids des marchandises congelées.
+
+Vous placez les espaceurs entre les couches de cartons. Grâce aux parties surélevées percées d’ouvertures, l’air froid circule entre les marchandises. Tout le chargement congèle ainsi rapidement et de façon homogène, même si vous stockez beaucoup à la fois.
+
+## Des boissons stables sur la palette
+
+Transportez-vous ou stockez-vous régulièrement des boissons en caisses, en packs ou en bouteilles ? Sur une surface lisse, un tel chargement peut glisser. Une palette à [plateau antidérapant](@type-antislip) maintient mieux le chargement en place, ce qui limite les risques de chute.
+
+En résumé, les palettes plastique conviennent à de nombreux usages dans l’hôtellerie-restauration. Vous souhaitez savoir quelles palettes et quels accessoires conviennent à votre cuisine, votre entrepôt ou votre chambre froide ? [Contactez-nous](@contact), nous vous conseillerons volontiers.

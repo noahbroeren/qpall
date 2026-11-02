@@ -1,29 +1,50 @@
 ---
 id: news-hq
-title: "Nouveau siège européen pour Q-Pall – Q-Pall"
-description: "Le nouveau siège européen de Q-Pall à Veghel, le long de l’A50, est achevé. Il abrite aussi un hall de production, conçu et construit dans une démarche RSE."
+title: "Nouveau siège européen à Veghel – Q-Pall"
+description: "Début 2022, Q-Pall a achevé son nouveau siège européen à Veghel : bureaux et entrepôt le long de l’A50, conçus dans une démarche RSE et sobre en énergie."
 eyebrow: "Actualités"
 tag: "Entreprise"
-crumb: "Nouveau siège européen pour Q-Pall"
-h1: "Nouveau siège européen **pour Q-Pall**"
-lead: "Le nouveau siège européen de Q-Pall à Veghel, le long de l’A50, est achevé. Il abrite aussi un hall de production, conçu et construit dans une démarche RSE."
-img_alt: "Nouveau siège européen pour Q-Pall"
-reading: 3
+crumb: "Nouveau siège à Veghel"
+h1: "Nouveau siège européen **pour Q-Pall** à Veghel"
+lead: "Début 2022, la construction du nouveau siège européen de Q-Pall à Veghel a été achevée. Le bâtiment situé le long de l’A50 réunit bureaux et entrepôt et a été conçu dans une démarche de responsabilité sociétale des entreprises."
+img_alt: "Le siège de Q-Pall à Veghel : un bâtiment gris foncé avec un avant-toit orange et de grandes façades vitrées"
+reading: 2
+published: '2022-01-19'
+updated: '2026-11-02'
 ---
-La construction du nouveau siège de Q-Pall est terminée. Le nouveau site de Veghel est situé le long de l'autoroute A50. En plus du nouveau siège social européen, le nouveau bâtiment contient également un nouveau hall de production. Q-Pall est l’un des leaders mondiaux sur le marché des palettes plastique. Le nouveau site est nécessaire pour le développement de cette entreprise fondée en 2005 et il offre également de belles *opportunités de responsabilité sociale des entreprises (RSE)*, ce qui est particulièrement important pour Q-Pall.
+> **En bref**
+>
+> * Début 2022, le nouveau siège européen de Q-Pall à Veghel, le long de l’A50, était achevé.
+> * Le bâtiment abrite le siège, le centre opérationnel européen et un entrepôt de stockage.
+> * Des pieux de fondation existants, une pompe à chaleur et des panneaux solaires l’ont rendu économe en matériaux et en énergie.
+> * Les palettes elles-mêmes sont fabriquées dans six usines en Europe, au plus près du client.
 
-## LE NOUVEL IMMEUBLE
+## Un nouveau siège le long de l’A50
 
-Cette volonté de RSE de Q-Pall se traduit par exemple dans la conception et la construction du nouveau siège et du nouveau hall industriel. Sur le site de construction il y avait déjà des fondations dont on a tenu compte lors de la conception du site. On a ainsi non seulement réalisé des économies sur la construction, mais on a également évité une utilisation inutile de matériaux. En outre, la nouvelle construction permet à Q-Pall de franchir des étapes importantes dans le domaine de la RSE. Ainsi, on va installer une pompe à chaleur et des panneaux solaires sur le toit et le nouvel immeuble aura pratiquement une consommation d’énergie quasi nulle.
+Début 2022, Q-Pall a achevé la construction de son nouveau siège européen à Veghel. Le bâtiment est situé directement le long de l’autoroute A50. Outre le siège et le centre opérationnel européen, Q-Pall y a gagné un nouvel entrepôt de stockage. Vous venez vous-même charger ou décharger des palettes à Veghel ? [Prenez rendez-vous pour votre transport](@transport).
 
-La conception de l’immeuble est épurée et simple, mais grâce aux grandes fenêtres, aux grandes saillies et aux protections solaires totalement intégrées dans la façade, par exemple, ce sera un très beau bâtiment. C’est une étape supplémentaire importante franchie par Q-Pall dans son désir de produire des palettes plastique durables de manière efficace.
+Ce nouveau site était nécessaire pour permettre à l’entreprise, fondée en 2005, de poursuivre sa croissance. La construction offrait en même temps des opportunités en matière de responsabilité sociétale des entreprises (RSE), un sujet qui compte beaucoup pour Q-Pall.
 
-## Q-PALL ET LES PALETTES PLASTIQUE
+## Une construction durable
 
-Q-Pall est un acteur européen important dans le domaine de la fabrication de matériaux de conditionnement en plastique et plus précisément de palettes plastique. L’une des caractéristiques de Q-Pall est de produire autant que possible les palettes plastique là où l’on a besoin de palettes. C’est uniquement possible en transportant les moules avec lesquelles on fabrique les palettes dans un site de production local. En transportant seulement ces moules, on réalise des économies considérables en kilomètres de transport et dès lors en émissions de CO2 et de camions.
+Cette démarche RSE se retrouve dans la conception et la construction du bâtiment. Des pieux de fondation étaient déjà présents sur le terrain, et la conception en a tenu compte. Cela a permis de réduire les coûts de construction et d’éviter **une utilisation inutile de matériaux**.
 
-Un exemple concret : si l’on produisait des palettes plastique aux Pays-Bas qui seraient destinées au marché français, cela signifierait de nombreux camions remplis qui devraient faire de longs allers-retours en direction du sud. En transportant exclusivement le moule en France et en produisant les palettes localement, on réalise des économies énormes en kilomètres de transport et donc en émissions de CO2. Pour le moment, il y a des sites de production à Balk (NL), à Ringe et à Marktoberdorf (D), à Ribe (DK) et à Nantes (F).
+Le bâtiment a en outre été équipé d’une pompe à chaleur et de panneaux solaires sur le toit. Il a été conçu pour être pratiquement neutre en énergie. Pour en savoir plus sur notre démarche, consultez la page [développement durable](@about-sustainability).
 
-## Q-PALL GERE TOUTE LA CHAINE
+Le design est épuré et sobre. De grandes baies vitrées, de larges avancées de toit et des protections solaires intégrées à la façade donnent au bâtiment son caractère.
 
-Q-Pall produit non seulement des palettes plastique, mais elle se charge aussi de la conception, de la distribution et de la vente. L’entreprise de Veghel est donc active à tous les niveaux de la chaine ce qui permet à tous les éléments de s’imbriquer parfaitement les uns dans les autres. Une autre caractéristique importante des palettes plastique est que l’on peut les recycler entièrement à la fin de leur durée de vie. Les ***palettes plastique utilisées*** servent alors de matière première pour les nouvelles palettes. De plus, le plastique que l’on récupère dans les océans, la célèbre soupe de plastique, est une partie de plus en plus importante de la matière première utilisée. C’est aussi un bel exemple des mesures que Q-Pall prend dans le cadre de la Responsabilité Sociale des Entreprises.
+## Produire au plus près du client
+
+Q-Pall fabrique uniquement des palettes plastique. Notre particularité est de les produire au plus près du client. Ce ne sont pas les palettes qui voyagent, mais les moules qui servent à les fabriquer. Nous installons un moule dans l’usine la plus proche du client. Nous économisons ainsi de nombreux kilomètres de transport, des coûts et des émissions de CO₂.
+
+Un exemple : si des palettes destinées au marché français sont fabriquées aux Pays-Bas, de nombreux camions pleins doivent faire de longs allers-retours vers le sud. Si seul le moule part vers notre usine de Nantes, la plupart de ces trajets deviennent inutiles.
+
+Q-Pall produit dans six usines : Balk (Pays-Bas), Ribe (Danemark), Marktoberdorf (Allemagne), Nantes (France), Lleida (Espagne) et Chesterfield (Royaume-Uni). Presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine. En savoir plus sur la [production locale](@about-local).
+
+## Toute la chaîne entre nos mains
+
+Q-Pall ne se charge pas seulement de la production, mais aussi de la conception, de la distribution et de la vente des palettes. Comme nous sommes actifs sur toute la chaîne, tous les maillons s’articulent bien entre eux.
+
+Nos palettes standard sont fabriquées à partir de plastique recyclé à près de 100 %. En fin de vie, elles sont entièrement recyclables : nous les reprenons et les broyons pour en faire la matière première de nouvelles palettes. Les palettes encore en bon état connaissent une seconde vie grâce à [Q-Used](@used).
+
+Vous voulez savoir quelle palette plastique convient à votre application ? [Contactez-nous](@contact).

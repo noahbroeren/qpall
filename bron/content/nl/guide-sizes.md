@@ -33,11 +33,11 @@ De internationale norm ISO 6780 noemt zes palletmaten die wereldwijd veel worden
 
 ## Kleine formaten voor retail
 
-De **halve europallet** van [600 x 800 mm](@size-600x800) en de **kwart europallet** van [600 x 400 mm](@size-600x400) zijn populair als displaypallet in supermarkten. Twee halve of vier kwart pallets vullen precies één europallet.
+De **halve europallet** van [600 x 800 mm](@size-600x800) en de **kwart europallet** van [600 x 400 mm](@size-600x400) zijn populair als displaypallet in supermarkten. Twee halve of vier kwartpallets vullen precies één europallet.
 
 ## CP-formaten voor de chemie
 
-De chemische industrie werkt met negen CP-formaten. De belangrijkste zijn CP1 en CP6 (1200 x 1000 mm), CP3 en CP9 (1140 x 1140 mm), CP5 (760 x 1140 mm) en CP7 (1300 x 1100 mm). Zie [CP pallets](@type-cp).
+De chemische industrie werkt met negen CP-formaten. De belangrijkste zijn CP1 en CP6 (1200 x 1000 mm), CP3 en CP9 (1140 x 1140 mm), CP5 (760 x 1140 mm) en CP7 (1300 x 1100 mm). Zie [CP-pallets](@type-cp).
 
 ## Hoogte en vrije insteekhoogte
 

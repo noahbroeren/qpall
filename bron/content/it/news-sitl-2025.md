@@ -1,25 +1,37 @@
 ---
 id: news-sitl-2025
-title: "Q-Pall al SITL 2025: il futuro della logistica – Q-Pall"
-description: "Q-Pall partecipa alla SITL 2025 di Parigi con BacLand. Venite a scoprire i pallet Light, Medium e Heavy, tra design intelligente e materiali riciclati."
+title: "Q-Pall al SITL 2025 di Parigi: il resoconto – Q-Pall"
+description: "Al SITL 2025 di Parigi Q-Pall ha presentato con il partner BacLand pallet in plastica Light, Medium e Heavy, sul tema Connecting Our Intelligence."
 eyebrow: "Notizie"
 tag: "Evento"
 crumb: "Q-Pall al SITL 2025"
 h1: "Q-Pall al SITL 2025: **costruiamo insieme il futuro della logistica**"
-lead: "Il mondo della logistica sta cambiando rapidamente. Le sfide globali e la crescente esigenza di soluzioni sostenibili e intelligenti ci spingono verso una nuova direzione. Per Q-Pall, è il momento di guidare il cambiamento."
-img_alt: "Q-Pall al SITL 2025: costruiamo insieme il futuro della logistica"
-reading: 1
+lead: "Q-Pall ha partecipato al SITL 2025 di Parigi insieme al partner BacLand. Sul tema «Connecting Our Intelligence» abbiamo mostrato come design intelligente, plastica riciclata e produzione locale si incontrano."
+img_alt: "Rendering 3D dello stand Q-Pall con un grande schermo che mostra una tartaruga marina e la scritta «Pallets with a purpose»"
+reading: 2
+updated: '2026-11-02'
 ---
-Siamo quindi entusiasti di annunciare la nostra partecipazione alla **SITL 2025 a Parigi**, con il tema ispiratore: **“Connecting Our Intelligence.”**
+> **In breve**
+>
+> * Q-Pall ha partecipato al SITL 2025 di Parigi, la fiera del trasporto e della logistica, insieme al partner BacLand.
+> * Il tema era «Connecting Our Intelligence».
+> * Abbiamo presentato la nostra gamma in tre classi di carico: Light, Medium e Heavy.
+> * Al centro c’erano design intelligente, plastica riciclata e produzione locale.
 
-Insieme al nostro fidato partner **BacLand**, presenteremo soluzioni innovative che uniscono design intelligente, materiali riciclati e produzione locale.
+## Cosa abbiamo presentato
 
-Dalle **palette leggere per una distribuzione efficiente**, fino alle **soluzioni heavy duty** per le applicazioni più estreme — scopri la nostra gamma completa:
+La logistica cambia in fretta. Le aziende cercano soluzioni intelligenti e sostenibili, e il pallet ne fa parte. Al SITL 2025, insieme al nostro partner BacLand, abbiamo mostrato come design intelligente, plastica riciclata e produzione locale si incontrano nei nostri pallet.
 
-- **Light Pallets**
-- **Medium Pallets**
-- **Heavy Pallets**
+Allo stand abbiamo presentato la nostra gamma in tre classi di carico, dai pallet leggeri per la distribuzione ai modelli per gli impieghi più gravosi:
 
-Che si tratti di ridurre le emissioni di CO₂, ottimizzare i processi o rendere la logistica più intelligente — siamo qui per aiutarti.
+* **Light.** I [pallet in plastica Light](@class-light) sono leggeri e spesso incastrabili. Per esportazione, spedizioni una tantum e distribuzione.
+* **Medium.** I [pallet in plastica Medium](@class-medium) sono i più versatili per la movimentazione interna e i carichi leggeri su scaffalatura.
+* **Heavy.** I [pallet in plastica Heavy](@class-heavy) sono pensati per l’uso intensivo, carichi dinamici elevati e scaffalature porta-pallet, fino a 7.500 kg in statico.
 
-Vieni a trovarci alla SITL 2025. Costruiamo insieme il futuro della logistica.
+## La storia dietro lo stand
+
+Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%, una miscela di HDPE e PP. Li produciamo in sei stabilimenti distribuiti in Europa, così quasi ogni cliente si trova a meno di 600 chilometri da uno stabilimento. Gli stampi viaggiano, i pallet no: installiamo lo stampo nello stabilimento più vicino al cliente. Scoprite di più sulla nostra [produzione locale](@about-local).
+
+I visitatori hanno potuto parlare con il nostro team delle loro esigenze: ridurre le emissioni di CO₂, automatizzare i processi o trasportare in modo più efficiente. I pallet in plastica hanno dimensioni stabili e un peso costante. Per questo sono adatti all’[automazione e agli AGV](@guide-automation).
+
+Volete parlare dei pallet presentati al SITL 2025 o delle vostre esigenze di pallet? [Contattateci](@contact), saremo lieti di consigliarvi.

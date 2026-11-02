@@ -21,7 +21,7 @@ compare:
   dealer_cta: "Apri la mappa dei rivenditori"
   direct_t: "Direttamente da Q-Pall"
   direct:
-    - "Per volumi per pila o per camion completo"
+    - "Per pila completa o per camion completo"
     - "Pallet personalizzati con il vostro logo o colore"
     - "Consegna dallo stabilimento più vicino a voi"
 ---

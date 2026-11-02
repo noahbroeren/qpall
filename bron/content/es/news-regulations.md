@@ -1,33 +1,85 @@
 ---
 id: news-regulations
-title: "La normativa sobre los palets de plástico – Q-Pall"
-description: "¿Qué normas se aplican a los palets de plástico? Descubra cómo la responsabilidad social corporativa y la huella de carbono influyen en su elección."
+title: "¿Qué normas se aplican a los palets de plástico? – Q-Pall"
+description: "¿Qué normas se aplican a los palets de plástico? Un resumen: el PPWR, metales pesados y análisis XRF, la ISPM 15 en exportación y la huella de carbono."
 eyebrow: "Noticias"
 tag: "Normativa"
-crumb: "La normativa sobre los palets de plástico"
-h1: "La normativa **sobre los palets de plástico**"
-lead: "¿Qué normas se aplican a los palets de plástico? Descubra cómo la responsabilidad social corporativa y la huella de carbono influyen en su elección."
-img_alt: "La normativa sobre los palets de plástico"
-reading: 3
+crumb: "Normativa de palets de plástico"
+h1: "¿Qué normas se aplican **a los palets de plástico**?"
+lead: "Al elegir entre palets de madera y de plástico, no solo cuentan el precio y la calidad. La legislación y los requisitos de sostenibilidad también influyen. Estas son las normas más importantes para los palets de plástico."
+img_alt: "Folleto de Q-Pall sobre palets reutilizables y el PPWR europeo"
+reading: 4
+faq:
+- q: "¿El PPWR se aplica a los palets de plástico?"
+  a: "Sí. Los palets son envases de transporte y, desde el 12 de agosto de 2026, están sujetos al reglamento europeo de envases (PPWR), sean de madera o de plástico."
+- q: "¿Necesitan los palets de plástico un sello ISPM 15?"
+  a: "No. La ISPM 15 solo se aplica a los envases de madera maciza. Los palets de plástico no necesitan tratamiento ni sello, tampoco para exportar fuera de la UE."
+- q: "¿Cómo controla Q-Pall los metales pesados?"
+  a: "Comprobamos nuestros palets respecto a las sustancias de la directiva RoHS. Lo hacemos mediante fluorescencia de rayos X (XRF), una medición rápida que no daña el material."
+published: '2022-01-12'
+updated: '2026-11-02'
 ---
-Cuando vaya a comprar pallets, puede elegir entre pallets de madera o de plástico. La opción de sustituir los pallets de madera por los de plástico surge a partir de los desarrollos en sostenibilidad, eficiencia de gastos y cuestiones medioambientales. La sociedad es cada vez más consciente en lo que se refiere al medio ambiente. Las organizaciones también se involucran más en este tema. Los pallets de plástico encajan perfectamente en este desarrollo. Pero, ¿qué regulaciones se aplican a los pallets (de plástico)?
+> **En resumen**
+>
+> * Desde el 12 de agosto de 2026 se aplica el reglamento europeo de envases PPWR. Los palets son envases de transporte y están sujetos a él.
+> * El PPWR limita los metales pesados: plomo, cadmio, mercurio y cromo hexavalente, en conjunto, como máximo 100 mg/kg.
+> * Comprobamos nuestros palets respecto a las sustancias de la directiva RoHS, mediante fluorescencia de rayos X (XRF).
+> * La ISPM 15 solo se aplica a los envases de madera. Los palets de plástico no están sujetos a ella.
+> * Muchos compradores tienen en cuenta la huella de carbono de un palet, además del precio y la calidad.
 
-## Responsabilidad social corporativa (RSC)
+## Por qué la normativa cuenta al elegir palets
 
-Las empresas y las organizaciones tienen en cuenta el medio ambiente al adquirir los productos. Estas empresas están involucradas en un negocio sostenible; tratan el medio ambiente con responsabilidad. Esto, además de otros aspectos, forma parte de la responsabilidad social corporativa (RSC). Dentro del campo de la RSC, la Huella de carbono es la referencia que se ha establecido para las empresas industriales y las organizaciones. Esta huella de carbono influye en la industria de los pallets de plástico. Por supuesto, Q-Pall también considera la RSC de gran importancia.
+Al comprar palets, usted elige entre madera y plástico. Hace tiempo que esa elección no depende solo del precio. Las empresas tienen cada vez más en cuenta la sostenibilidad, la rentabilidad y el impacto ambiental de sus compras, como parte de su responsabilidad social corporativa (RSC).
 
-## ¿Qué es la huella de carbono?
+El legislador también fija requisitos, sobre todo para los envases. A continuación puede leer qué normas son las más importantes para los palets de plástico y cómo las aplicamos.
 
-El clima de la Tierra se ve afectado por las emisiones de gases de efecto invernadero. El impacto medioambiental de los pallets de plástico se determina al calcular la huella de carbono de estos productos. Al determinar la huella de carbono, se calcula la cantidad de equivalente de dióxido de carbono necesaria para fabricar un pallet, expresada en kilogramos (kg CO2 eq.). La mayoría de las emisiones de CO2 resultan de la extracción de la materia prima, el transporte y la producción de los productos finales. Para los clientes que quieran comprar productos, la huella de carbono es un factor cada vez más decisivo, además de los criterios habituales, como pueden ser el precio y la calidad.
+## El PPWR: normas europeas para los envases
 
-## Q-Pall y la huella de carbono
+Para los envases, la norma europea más importante es el PPWR, el reglamento europeo de envases (Reglamento (UE) 2025/40). Entró en vigor en febrero de 2025 y se aplica desde el 12 de agosto de 2026. Los palets son envases de transporte, por lo que las normas también afectan a sus palets.
 
-Q-Pall utiliza los resultados del análisis de la huella de carbono como medición de cero y punto de inicio para la mejora del desempeño ambiental de sus productos. Gracias a los importantes objetivos de diseño para mejorar la eficiencia de energía y materiales, Q-Pall pretende reducir al máximo las emisiones de gases de efecto invernadero. Los documentos de la declaración ambiental del producto (DAP) están disponibles para todos los tipos de pallets de plástico.
+Los puntos principales para los palets:
 
-## Restricción de sustancias peligrosas
+* **Reutilización.** A partir de 2030, al menos el 40% de los envases de transporte dentro de la UE debe ser reutilizable.
+* **Reciclabilidad.** A partir de 2030, los envases deben ser reciclables en grado A, B o C. El grado C equivale al menos al 70%.
+* **Documentación.** El fabricante elabora una declaración UE de conformidad. Para la mayoría de nuestros modelos puede descargarla directamente en la página del producto.
 
-Q-Pall utiliza la norma de restricción de sustancias peligrosas, o RoHS por sus siglas en inglés, para confirmar que sus productos cumplen con las directrices. Los materiales descritos en la RoHS son el plomo (Pb), mercurio (Hg), cadmio (Cd), cromo hexavalente (CrVI), bifenilos polibromados (PBB) y difeniléteres polibromados (PBDE). El análisis se realiza mediante la fluorescencia de rayos X (XRF).
+Lo que esto supone en detalle para sus palets lo explicamos en nuestra guía [El PPWR y los palets de plástico](@guide-ppwr).
 
-## Fluorescencia de rayos X
+## Metales pesados: RoHS y análisis XRF
 
-La fluorescencia de rayos X (XRF) es una forma rápida y no destructiva de analizar elementos de diversos materiales como plásticos, metales o tierra. El análisis de XRF combina un alto nivel de precisión y exactitud con una preparación de muestras eficiente para el análisis de los elementos entre el berilio (Be) y el uranio (U), a nivel de partes por millón (PPM). Este análisis es necesario para determinar si los productos cumplen con las directrices relacionadas con la restricción de sustancias peligrosas. Q-Pall ha hecho de la sostenibilidad uno de los pilares de su organización. Por ello cumple con todas las normativas aplicables. Por ejemplo, Q-Pall utiliza frecuentemente materias primas recicladas. ¿Le gustaría obtener más información acerca de las normativas aplicables a los pallets (de plástico) y cómo Q-Pall las ha integrado en su negocio? ¿O bien tiene otras preguntas relativas a nuestra extensa gama? No dude en contactar con nosotros, estaremos encantados de ayudarle y proporcionarle información gratuita.
+El PPWR fija un límite para los metales pesados en los envases. El plomo, el cadmio, el mercurio y el cromo hexavalente no pueden superar en conjunto los 100 mg/kg.
+
+Además, utilizamos la directiva RoHS (Restriction of Hazardous Substances) para confirmar que nuestros palets cumplen los requisitos de esa directiva. La RoHS restringe, entre otras, estas sustancias:
+
+* plomo (Pb), mercurio (Hg) y cadmio (Cd)
+* cromo hexavalente (CrVI)
+* polibromobifenilos (PBB) y polibromodifeniléteres (PBDE)
+
+### ¿Cómo funciona el XRF?
+
+La fluorescencia de rayos X (X-Ray Fluorescence, XRF) es un método rápido para medir los elementos presentes en materiales como el plástico, el metal o la tierra. El material permanece intacto. El XRF mide con precisión los elementos desde el berilio (Be) hasta el uranio (U), hasta el nivel de ppm (partes por millón).
+
+Así comprobamos que nuestros palets se mantienen dentro de los valores límite. Este control es especialmente importante en el plástico reciclado, porque el material procede de distintos flujos de residuos.
+
+## ISPM 15: no para los palets de plástico
+
+La ISPM 15 es una norma fitosanitaria internacional. Protege la sanidad vegetal: los insectos y las enfermedades de las plantas no deben cruzar fronteras con los envases de madera. Por eso, los palets de madera para exportación deben estar tratados, normalmente con calor, y llevar un sello oficial.
+
+Los palets de plástico no están sujetos a la ISPM 15. Puede utilizarlos sin tratamiento ni sello, también para la [exportación](@type-export) fuera de la UE. Más información en [ISPM 15: exportar sin sello](@guide-ispm).
+
+## RSC y huella de carbono
+
+No todo es cuestión de ley. Muchas empresas fijan sus propios requisitos de compra dentro de su RSC. La huella de carbono es un indicador muy utilizado. Expresa las emisiones de gases de efecto invernadero necesarias para fabricar un palet, en kilogramos de CO₂ equivalente (kg CO₂e). La mayor parte de las emisiones procede de la extracción de materias primas, el transporte y la producción.
+
+Para los clientes que comparan productos, la huella de carbono es cada vez más un factor decisivo, junto al precio y la calidad.
+
+### Q-Pall y la huella de carbono
+
+Utilizamos los resultados de nuestro análisis de huella de carbono como medición de referencia y como punto de partida para mejorar el comportamiento ambiental de nuestros palets. Con objetivos de diseño estrictos en eficiencia energética y de materiales, mantenemos las emisiones lo más bajas posible. Nos ayudan dos decisiones:
+
+* **Material reciclado.** Fabricamos nuestros palets estándar con plástico reciclado casi al 100%.
+* **Distancias cortas.** Producimos en seis fábricas en Europa, cerca de nuestros clientes. Más información sobre la [producción local](@about-local).
+
+En octubre de 2026 volvimos a obtener la medalla de bronce de EcoVadis.
+
+¿Quiere saber qué documentación tenemos para su modelo de palet o cómo controlamos los metales pesados? [Póngase en contacto con nosotros](@contact).

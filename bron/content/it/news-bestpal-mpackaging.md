@@ -1,49 +1,63 @@
 ---
 id: news-bestpal-mpackaging
 title: "#YourBestPal sotto i riflettori: M-Packaging Belgio – Q-Pall"
-description: "Nella serie #YourBestPal vi presentiamo M-Packaging, azienda belga fondata nel 2020 che con Muller Pallets offre pallet in legno e in plastica."
+description: "Nella serie #YourBestPal, la belga M-Packaging ha parlato della vendita di pallet in plastica a clienti di farmaceutica, alimentare, logistica e chimica."
 eyebrow: "Notizie"
 tag: "Caso cliente"
-crumb: "#YourBestPal sotto i riflettori"
+crumb: "#YourBestPal: M-Packaging"
 h1: "#YourBestPal sotto i riflettori: **M-Packaging Belgio**"
-lead: "Nella serie #YourBestPal vi presentiamo M-Packaging, azienda belga fondata nel 2020 che con Muller Pallets offre pallet in legno e in plastica."
-img_alt: "#YourBestPal sotto i riflettori: M-Packaging Belgio"
+lead: "Nel luglio 2025 M-Packaging è stata protagonista della nostra serie #YourBestPal. Il rivenditore belga ha raccontato i suoi clienti, i pallet che scelgono e la collaborazione con Q-Pall."
+img_alt: "Uomo tra una cassa di legno piena di rifiuti di plastica e una pila di pallet in plastica neri con strisce arancioni"
 reading: 3
+published: '2025-07-24'
+updated: '2026-11-02'
 ---
-## Presentati brevemente e presenta M-Packaging
+> **In breve**
+>
+> * M-Packaging è stata fondata nel 2020 e vende soprattutto pallet in plastica. È un rivenditore di Q-Pall in Belgio.
+> * Con la società sorella Muller Pallets fornisce anche pallet in legno nuovi e usati.
+> * I suoi clienti operano soprattutto nei settori farmaceutico, alimentare, logistico e chimico.
+> * I più richiesti: 1200 x 800 e 1200 x 1000 mm, nelle versioni light, medium e heavy.
+> * M-Packaging apprezzava soprattutto la qualità costante, la disponibilità a magazzino, la comunicazione rapida e la flessibilità della pianificazione.
 
-M-Packaging è stata fondata nel 2020 e ci occupiamo principalmente della vendita di pallet in plastica. Insieme alla nostra azienda sorella Muller Pallets, attiva nella vendita di pallet in legno nuovi e usati, possiamo offrire ai nostri clienti l’intera gamma di pallet in legno e plastica. I nostri anni di esperienza nei pallet in legno ci hanno insegnato che i pallet in legno e plastica sono un “match made in heaven”.
+## Legno e plastica sotto lo stesso tetto
 
-## Quali sono le principali esigenze dei vostri clienti e in quali mercati siete attivi?
+M-Packaging è stata fondata nel 2020 e si occupa soprattutto della vendita di pallet in plastica. La società sorella Muller Pallets vende pallet in legno nuovi e usati. Insieme offrono ai clienti sia pallet in legno sia pallet in plastica. M-Packaging è uno dei nostri [rivenditori](@dealers) in Belgio.
 
-Siamo attivi principalmente nei settori farmaceutico, alimentare, logistico e chimico, sia con i nostri pallet in legno che in plastica. L’obiettivo è fornire ai nostri clienti i pallet che i loro clienti desiderano ricevere. Siamo quindi spesso in contatto diretto con la produzione e il reparto sviluppo prodotto. I nostri clienti vogliono soprattutto un pallet in plastica che soddisfi sempre i loro requisiti di qualità e non provochi interruzioni. Il fatto che questi pallet siano prodotti al 100 % con materiale riciclato e siano a loro volta riciclabili rafforza solo la loro convinzione di aver trovato il partner giusto.
+«La nostra lunga esperienza con i pallet in legno ci ha insegnato che pallet in legno e pallet in plastica sono un ‘match made in heaven’», spiega M-Packaging.
 
-## Com’è la vostra collaborazione con Q‑Pall?
+## Clienti con standard di qualità elevati
 
-Q‑Pall è sempre disponibile a condividere nuove idee e a verificare se possiamo soddisfare le richieste dei nostri clienti. Grazie al contatto diretto, agiscono molto rapidamente e i nostri clienti se ne sono accorti.
+M-Packaging rifornisce soprattutto aziende dei settori farmaceutico, alimentare, logistico e chimico. L’obiettivo è fornire ai clienti i pallet che i loro stessi clienti vogliono ricevere. Per questo M-Packaging è spesso in contatto diretto con la produzione e lo sviluppo prodotto di Q-Pall.
 
-## In quali situazioni Q‑Pall si è dimostrato davvero #yourbestpal?
+Questi clienti vogliono soprattutto un pallet in plastica che rispetti sempre i loro requisiti di qualità e non causi guasti. Secondo M-Packaging, il fatto che i pallet siano realizzati in plastica riciclata quasi al 100% e siano a loro volta riciclabili a fine vita li conferma nella loro scelta. Per saperne di più, visitate la nostra pagina sulla [sostenibilità](@about-sustainability).
 
-Da Q‑Pall sono sempre pronti a rivedere e adeguare la pianificazione per aiutare i clienti. Recentemente hanno avuto un problema tecnico e hanno cercato una soluzione finché il nostro cliente non è stato soddisfatto e ha comunque potuto ricevere la consegna nei tempi previsti. Spostare gli stampi da un sito produttivo all’altro per risolvere il problema del cliente per loro non è un’eccezione. In questo modo cerchiamo anche di ridurre le nostre emissioni di CO₂ perché produciamo i pallet dove sono maggiormente richiesti.
+## Pensare insieme e reagire in fretta
 
-## Cosa apprezzate di più dei prodotti Q‑Pall?
+Secondo M-Packaging, Q-Pall era sempre pronta a ragionare insieme su nuovi sviluppi e domande dei clienti. Grazie al contatto diretto Q-Pall poteva reagire rapidamente, e se ne accorgevano anche i clienti di M-Packaging.
 
-Qualità stabile, prodotto con materiale 100 % riciclato (e a sua volta riciclabile), ampio stock, tempi di risposta rapidi, buona comunicazione, sempre disponibili a collaborare. What’s not to like?
+«In Q-Pall sono sempre disposti a rivedere la pianificazione della produzione e, se possibile, ad adattarla per aiutare i clienti.» Quando Q-Pall ha avuto un problema tecnico, l’azienda ha cercato una soluzione finché il cliente non è stato soddisfatto. Così quel cliente ha potuto ricevere la merce in tempo.
 
-## Qual è il pallet Q‑Pall che utilizzate più spesso – e perché?
+Se necessario, Q-Pall sposta a tale scopo uno stampo in un altro sito produttivo. Questo riduce anche le emissioni di CO₂, perché i pallet vengono prodotti dove sono più richiesti. Scoprite di più sulla [produzione locale](@about-local).
 
-Le dimensioni di pallet più utilizzate sono 800×1200 mm e 1000×1200 mm, sia in versione light che medium e heavy. Ma sappi che in totale possiamo offrire una decina di dimensioni diverse. I nostri clienti danno grande importanza alla sostenibilità e sono quindi felici che i nostri pallet siano perfettamente riciclabili al termine del loro ciclo di vita.
+## I pallet più utilizzati
 
-## In che modo Q‑Pall vi aiuta a sorprendere o assistere ulteriormente i clienti?
+I formati più utilizzati da M-Packaging sono [1200 x 800 mm](@size-1200x800) e [1200 x 1000 mm](@size-1200x1000), nelle versioni light, medium e heavy. M-Packaging fornisce anche altri formati di pallet.
 
-Una qualità buona e stabile è molto importante. Inoltre, la maggior parte degli articoli è sempre disponibile a magazzino e qualsiasi modifica alla programmazione di produzione è sempre negoziabile. Questo migliora la nostra flessibilità verso i clienti.
+I clienti di M-Packaging danno molta importanza alla sostenibilità. Per questo erano contenti che i pallet siano completamente riciclabili a fine vita.
 
-## Cosa vi aspettate dal mercato nei prossimi anni?
+## Cosa apprezza di più M-Packaging
 
-Poiché offriamo sia pallet in legno sia in plastica, abbiamo diverse alternative per i nostri clienti. Questo mix di prodotti diventerà molto importante nei prossimi anni. Operiamo in un mercato molto volatile e rispondiamo rapidamente stringendo le giuste partnership.
+«Qualità costante, prodotti con materiale riciclato quasi al 100% e a loro volta riciclabili, ampia disponibilità a magazzino, tempi di risposta rapidi, buona comunicazione e sempre pronti a pensare insieme a noi. What’s not to like?»
 
-## Cosa significa per voi #YourBestPal?
+M-Packaging ha anche ricordato che la maggior parte degli articoli era disponibile a magazzino e che una modifica della pianificazione della produzione era sempre discutibile. Questo rendeva l’azienda più flessibile verso i propri clienti.
 
-Un fornitore che collabora, è flessibile e comunica bene e rapidamente: tutte caratteristiche che sperimentiamo quotidianamente con i nostri clienti.
+## Uno sguardo al mercato
 
-Infine: cosa consigliereste ad altre aziende in cerca del partner pallet ideale? Se cerchi un fornitore di pallet di qualità, sostenibile, inventivo e affidabile, che comunica in modo chiaro e rapido, sei nel posto giusto.
+Poiché M-Packaging offre pallet sia in legno sia in plastica, dispone di diverse alternative per i clienti. Nel 2025 l’azienda prevedeva che questo mix di prodotti sarebbe diventato sempre più importante negli anni successivi. Il mercato è volatile e M-Packaging risponde stringendo le giuste partnership.
+
+## Cosa significa #YourBestPal
+
+Per M-Packaging, #YourBestPal significa un fornitore che ragiona insieme a voi, è flessibile e comunica bene e in fretta. Il consiglio alle aziende che cercano un partner per i pallet: «Cercate un fornitore di pallet di qualità, sostenibile, innovativo e affidabile, che comunichi in modo rapido e chiaro? Allora siete nel posto giusto.»
+
+Volete sapere quale pallet in plastica è adatto alla vostra applicazione? [Richiedete un preventivo](@quote): di solito riceverete un prezzo su misura entro un giorno lavorativo.

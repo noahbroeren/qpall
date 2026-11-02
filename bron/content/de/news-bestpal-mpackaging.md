@@ -1,49 +1,63 @@
 ---
 id: news-bestpal-mpackaging
 title: "#YourBestPal im Rampenlicht: M-Packaging Belgien – Q-Pall"
-description: "M-Packaging aus Belgien verkauft seit 2020 Kunststoffpaletten und bietet mit Muller Pallets auch Holzpaletten an. Lesen Sie das Interview."
+description: "In unserer Reihe #YourBestPal berichtete M-Packaging aus Belgien über den Verkauf von Kunststoffpaletten an Kunden aus Pharma, Food, Logistik und Chemie."
 eyebrow: "Aktuelles"
 tag: "Kundenprojekt"
-crumb: "#YourBestPal im Rampenlicht"
+crumb: "#YourBestPal: M-Packaging"
 h1: "#YourBestPal im Rampenlicht: **M-Packaging Belgien**"
-lead: "M-Packaging aus Belgien verkauft seit 2020 Kunststoffpaletten und bietet mit Muller Pallets auch Holzpaletten an. Lesen Sie das Interview."
-img_alt: "#YourBestPal im Rampenlicht: M-Packaging Belgien"
+lead: "Im Juli 2025 stand M-Packaging im Mittelpunkt unserer Reihe #YourBestPal. Der belgische Händler berichtete über seine Kunden, ihre Palettenwahl und die Zusammenarbeit mit Q-Pall."
+img_alt: "Mann zwischen einer Holzkiste voller Kunststoffabfall und einem Stapel schwarzer Kunststoffpaletten mit orangefarbenen Streifen"
 reading: 3
+published: '2025-07-24'
+updated: '2026-11-02'
 ---
-## Stell dich und M-Packaging kurz vor
+> **Kurz gesagt**
+>
+> * M-Packaging wurde 2020 gegründet und verkauft vor allem Kunststoffpaletten. Das Unternehmen ist Händler von Q-Pall in Belgien.
+> * Über die Schwesterfirma Muller Pallets liefert es auch neue und gebrauchte Holzpaletten.
+> * Die Kunden kommen vor allem aus Pharma, Lebensmittelindustrie, Logistik und Chemie.
+> * Am gefragtesten: 1200 x 800 und 1200 x 1000 mm, in Light, Medium und Heavy.
+> * M-Packaging schätzte vor allem die gleichbleibende Qualität, den Lagerbestand, die schnelle Kommunikation und die flexible Planung.
 
-M-Packaging wurde 2020 gegründet und wir konzentrieren uns hauptsächlich auf den Verkauf von [Kunststoffpaletten](@pallets). Zusammen mit unserem Schwesterunternehmen Muller Pallets, das im Verkauf von neuen und gebrauchten Holzpaletten tätig ist, können wir unseren Kunden das vollständige Sortiment an Holz‑ und Kunststoffpaletten anbieten. Unsere langjährige Erfahrung im Bereich Holzpaletten hat uns gelehrt, dass Holz‑ und Kunststoffpaletten ein „match made in heaven“ sind.
+## Holz und Kunststoff unter einem Dach
 
-## Was sind die Hauptbedürfnisse eurer Kunden und in welchen Märkten seid ihr aktiv?
+M-Packaging wurde 2020 gegründet und konzentriert sich vor allem auf den Verkauf von Kunststoffpaletten. Die Schwesterfirma Muller Pallets verkauft neue und gebrauchte Holzpaletten. Gemeinsam bieten sie ihren Kunden sowohl Holz- als auch Kunststoffpaletten an. M-Packaging ist einer unserer [Händler](@dealers) in Belgien.
 
-Wir sind vor allem in den Bereichen Pharma, Lebensmittel, Logistik und Chemie aktiv – sowohl mit unseren Holz‑ als auch Kunststoffpaletten. Ziel ist es, unseren Kunden genau die Paletten zu liefern, die deren Abnehmer wünschen. Deshalb stehen wir oft in direktem Kontakt mit unserer Produktion und unserer Abteilung für Produktentwicklung. Unsere Kunden wünschen sich in erster Linie eine Kunststoffpalette, die jederzeit ihren Qualitätsanforderungen entspricht und keine Störungen verursacht. Dass diese Paletten aus 100 % recyceltem Material hergestellt sind und selbst wieder recycelbar sind, bestärkt sie nur in ihrer Überzeugung, den richtigen Partner gefunden zu haben.
+„Unsere langjährige Erfahrung mit Holzpaletten hat uns gelehrt, dass Holz- und Kunststoffpaletten ein ‚Match made in heaven‘ sind“, so M-Packaging.
 
-## Wie sieht eure Zusammenarbeit mit Q‑Pall aus?
+## Kunden mit hohen Qualitätsansprüchen
 
-Q‑Pall denkt stets mit bei neuen Entwicklungen und prüft, ob wir die Anforderungen unserer Kunden erfüllen können. Durch den direkten Kontakt agieren sie sehr schnell und das ist unseren Kunden nicht entgangen.
+M-Packaging beliefert vor allem Unternehmen aus der Pharmaindustrie, der Lebensmittelindustrie, der Logistik und der Chemie. Ziel ist es, den Kunden genau die Paletten zu liefern, die deren eigene Kunden erhalten möchten. Dafür steht M-Packaging oft in direktem Kontakt mit der Produktion und der Produktentwicklung von Q-Pall.
 
-## In welchen Situationen hat sich Q‑Pall wirklich als #yourbestpal erwiesen?
+Diese Kunden wollen vor allem eine Kunststoffpalette, die ihre Qualitätsanforderungen jederzeit erfüllt und keine Störungen verursacht. Dass die Paletten aus fast 100 % recyceltem Kunststoff bestehen und am Ende ihrer Lebensdauer selbst recycelbar sind, bestärkt sie laut M-Packaging in ihrer Wahl. Mehr dazu lesen Sie auf unserer Seite zur [Nachhaltigkeit](@about-sustainability).
 
-Bei Q‑Pall sind sie immer bereit, den Zeitplan zu überarbeiten und nach Möglichkeit anzupassen, um den Kunden zu helfen. Kürzlich gab es ein technisches Problem und sie suchten solange nach einer Lösung, bis unser Kunde zufrieden war und dennoch pünktlich beliefert werden konnte. Formen von einem Produktionsstandort zum anderen zu verlagern, um das Problem des Kunden zu lösen, ist für sie keine Ausnahme. Dadurch versuchen wir auch, unsere CO₂‑Emissionen zu reduzieren, da wir die Paletten dort produzieren, wo sie am meisten nachgefragt werden.
+## Mitdenken und schnell reagieren
 
-## Was schätzt ihr am meisten an Q‑Pall Produkten?
+Laut M-Packaging dachte Q-Pall bei neuen Entwicklungen und Kundenfragen immer mit. Dank des direkten Kontakts konnte Q-Pall schnell reagieren, und das merkten auch die Kunden von M-Packaging.
 
-Stabile Qualität, produziert aus 100 % recyceltem Material (und selbst recycelbar), großer Lagerbestand, schnelle Reaktionszeit, gute Kommunikation, immer bereit mitzudenken. What’s not to like?
+„Q-Pall ist immer bereit, die Produktionsplanung zu überprüfen und, wo möglich, anzupassen, um Kunden zu helfen.“ Als Q-Pall einmal ein technisches Problem hatte, suchte das Unternehmen so lange nach einer Lösung, bis der Kunde zufrieden war. So konnte dieser Kunde trotzdem pünktlich beliefert werden.
 
-## Welche Q‑Pall Palette verwendet ihr am häufigsten – und warum?
+Bei Bedarf verlegt Q-Pall dafür ein Werkzeug an einen anderen Produktionsstandort. Das senkt auch den CO₂-Ausstoß, weil die Paletten dort hergestellt werden, wo sie am meisten gefragt sind. Mehr über [lokale Produktion](@about-local).
 
-Am häufigsten verwendet werden die Palettenmaße 800 × 1200 mm und 1000 × 1200 mm, jeweils in leichter, mittlerer und schwerer Ausführung. Insgesamt können wir jedoch etwa zehn verschiedene Palettengrößen anbieten. Unsere Kunden legen großen Wert auf Nachhaltigkeit und freuen sich deshalb, dass unsere Paletten am Ende ihres Lebenszyklus perfekt recycelbar sind.
+## Die meistgenutzten Paletten
 
-## Wie hilft euch Q‑Pall, Kunden zu überraschen oder weiterzuhelfen?
+Die Maße, die M-Packaging am häufigsten einsetzt, sind [1200 x 800 mm](@size-1200x800) und [1200 x 1000 mm](@size-1200x1000), jeweils in Light, Medium und Heavy. Daneben liefert M-Packaging auch andere Palettenmaße.
 
-Gute und stabile Qualität ist sehr wichtig. Außerdem sind die meisten Artikel immer vorrätig und Produktionsplanänderungen sind stets verhandelbar. Dies verbessert unsere Flexibilität gegenüber den Kunden.
+Nachhaltigkeit ist den Kunden von M-Packaging wichtig. Deshalb freuten sie sich, dass die Paletten am Ende ihrer Lebensdauer vollständig recycelbar sind.
 
-## Was erwartet ihr vom Markt in den kommenden Jahren?
+## Was M-Packaging am meisten schätzt
 
-Da wir sowohl Holz‑ als auch Kunststoffpaletten anbieten, haben wir verschiedene Alternativen für unsere Kunden. Diese Produktmischung wird in den kommenden Jahren sehr wichtig sein. Wir agieren in einem sehr volatilen Markt und reagieren schnell, indem wir die richtigen Partnerschaften eingehen.
+„Gleichbleibende Qualität, hergestellt aus fast 100 % recyceltem Material und selbst recycelbar, ein großer Lagerbestand, schnelle Reaktionszeiten, gute Kommunikation und immer bereit mitzudenken. What’s not to like?“
 
-## Was bedeutet für euch #YourBestPal?
+M-Packaging erwähnte außerdem, dass die meisten Artikel auf Lager waren und eine Änderung der Produktionsplanung immer besprochen werden konnte. Das machte das Unternehmen gegenüber den eigenen Kunden flexibler.
 
-Ein Lieferant, der mitdenkt, flexibel ist und gut sowie schnell kommuniziert – all das erleben wir im täglichen Miteinander mit unseren Kunden.
+## Blick auf den Markt
 
-Abschließend: Was würdet ihr anderen Unternehmen empfehlen, die auf der Suche nach dem richtigen Palettenpartner sind? Wenn du auf der Suche nach einem hochwertigen, nachhaltigen, ideenreichen und zuverlässigen Palettenlieferanten bist, der schnell und klar kommuniziert, bist du hier genau richtig.
+Da M-Packaging sowohl Holz- als auch Kunststoffpaletten anbietet, hat das Unternehmen für seine Kunden verschiedene Alternativen. 2025 erwartete es, dass dieser Produktmix in den folgenden Jahren immer wichtiger wird. Der Markt ist volatil, und M-Packaging reagiert darauf mit den richtigen Partnerschaften.
+
+## Was #YourBestPal bedeutet
+
+Für M-Packaging bedeutet #YourBestPal einen Lieferanten, der mitdenkt, flexibel ist und gut und schnell kommuniziert. Der Rat an Unternehmen, die einen Palettenpartner suchen: „Suchen Sie einen hochwertigen, nachhaltigen, innovativen und zuverlässigen Palettenlieferanten, der schnell und klar kommuniziert? Dann sind Sie hier an der richtigen Adresse.“
+
+Möchten Sie wissen, welche Kunststoffpalette zu Ihrer Anwendung passt? [Fordern Sie ein Angebot an](@quote), dann erhalten Sie meist innerhalb eines Werktags einen Preis nach Maß.

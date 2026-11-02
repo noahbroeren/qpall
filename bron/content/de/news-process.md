@@ -11,8 +11,15 @@ lead: "Vier Eigenschaften, die den Unterschied machen zwischen einer Palette, di
 img_alt: "Roboter greift eine Kunststoffpalette in der Produktion in Balk"
 reading: 4
 published: '2026-05-26'
-updated: '2026-10-19'
+updated: '2026-11-02'
 ---
+> **Kurz gesagt**
+>
+> * Viele kleine Vorfälle in der Logistik lassen sich auf die Eigenschaften der Palette zurückführen.
+> * Vier Eigenschaften zählen wirklich: nicht porös, keine Splitter, ein konstantes Gewicht und konstante Maße.
+> * Sie sorgen für weniger Ausschuss, weniger Schäden, eine verlässliche Tara und weniger Störungen in automatisierten Anlagen.
+> * Kunststoffpaletten fallen außerdem nicht unter ISPM 15, die Exportregeln für Verpackungsholz.
+
 In den meisten Unternehmen ist die Palette das stillste Glied der Kette. Niemand legt eine Kennzahl für sie fest, niemand erwähnt sie im Jahresbericht. Sie steht unter der Ladung, und das war's.
 
 Bis etwas schiefgeht. Ein Splitter in der Hand oder im Produkt. Ein Holzbrett, das für den Sensor eines FTS knapp zu schmal ist. Eine Ladung, die auf der Waage 3 Kilo mehr wiegt als auf dem Lieferschein. Ein Schimmelfleck auf einer Palette, die gerade aus dem Außenlager kommt. Ein Zollbeamter, der nach der ISPM 15-Kennzeichnung fragt.
@@ -21,9 +28,11 @@ Keiner dieser Vorfälle ist unabhängig von der Palette. Alle lassen sich auf di
 
 ## 1. Nicht porös
 
-Eine Palette, die keine Feuchtigkeit aufnimmt, nimmt auch keinen Schimmel, keine Gerüche und keine Bakterien auf. In der Lebensmittelverarbeitung, Pharma, Kühlketten und Reinräumen ist das kein Vorteil, sondern eine Voraussetzung.
+Eine Palette, die keine Feuchtigkeit aufnimmt, gibt Schimmel und Gerüchen keine Chance, in das Material einzudringen. Außerdem lässt sie sich gut reinigen. In der Lebensmittelverarbeitung, Pharma, Kühlketten und Reinräumen ist das kein Vorteil, sondern eine Voraussetzung.
 
 Auch außerhalb dieser Branchen zählt es. Eine Sendung trockener Güter auf einer feuchten Holzpalette ist eine Reklamation in Vorbereitung. Ein Produkt auf einer Palette, die Gerüche oder Rückstände aufgenommen hat, kommt als Retoure zurück.
+
+Kommt Ihre Ladung direkt mit Lebensmitteln in Kontakt, oder arbeiten Sie im Reinraum? Dann wählen Sie [Hygienepaletten](@type-hygienic) aus Neuware. Unsere Paletten aus recyceltem Kunststoff sind nicht für den direkten Kontakt mit Lebensmitteln bestimmt.
 
 **Was es bringt:** weniger Ausschuss, weniger Retouren und weniger Diskussionen mit Ihrem Kunden über den Zustand der Palette.
 
@@ -59,4 +68,6 @@ Die Palette ist nicht der wichtigste Teil Ihrer Logistikkette. Aber sie ist Teil
 
 Die Frage ist also nicht, welches Material besser ist. Die Frage ist, welche Eigenschaften Ihr Prozess braucht und was es Ihnen bringt, wenn diese nicht mehr schwanken.
 
-Bei Q-Pall fertigen wir Paletten aus recyceltem Kunststoff. Nicht porös, splitterfrei, konstant in Gewicht und Maß, mit [PPWR](@guide-ppwr)-Dokumentation und frei von ISPM 15. Noch unentschieden zwischen Holz und Kunststoff? Lesen Sie [Kunststoff- oder Holzpaletten](@guide-wood).
+Bei Q-Pall fertigen wir unsere Standardpaletten aus recyceltem Kunststoff. Nicht porös, splitterfrei, konstant in Gewicht und Maß, mit [PPWR](@guide-ppwr)-Dokumentation und frei von ISPM 15. Noch unentschieden zwischen Holz und Kunststoff? Lesen Sie [Kunststoff- oder Holzpaletten](@guide-wood).
+
+Möchten Sie wissen, welche Palette am besten zu Ihrem Prozess passt? [Nehmen Sie Kontakt mit uns auf](@contact), wir beraten Sie gern.

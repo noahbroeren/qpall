@@ -15,7 +15,7 @@ faq:
   - q: "Wie schnell erhalte ich eine Antwort?"
     a: "In der Regel innerhalb eines Werktags. Sie suchen einen Preis? [Fordern Sie ein Angebot an](@quote). Dort geben Sie direkt die Paletten und Mengen ein, sodass wir Ihnen schneller einen individuellen Preis senden können."
   - q: "Kann ich auch eine kleine Anzahl Paletten bestellen?"
-    a: "Q-Pall beliefert hauptsächlich Unternehmen und arbeitet mit Mengen, oft pro Stapel oder pro Lkw-Ladung. Für kleinere Mengen verweisen wir Sie gern an einen [Händler in Ihrer Nähe](@dealers)."
+    a: "Q-Pall beliefert Unternehmen und verkauft immer pro vollem Stapel, zum Beispiel 17 Medium- oder 45 nestbare Paletten. Größere Aufträge liefern wir per Lkw-Ladung. Für kleinere Mengen verweisen wir Sie gern an einen [Händler in Ihrer Nähe](@dealers)."
   - q: "Ich komme zum Laden oder Entladen. Muss ich mich anmelden?"
     a: "Ja, bitte. Buchen Sie vorab ein Zeitfenster über [Transport anmelden](@transport), möglichst mindestens einen Werktag im Voraus. So steht Ihre Ladung bereit und Sie sind schnell wieder unterwegs."
   - q: "Ich möchte bei Q-Pall arbeiten. Wo finde ich die Stellenangebote?"

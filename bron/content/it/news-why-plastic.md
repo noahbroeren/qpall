@@ -1,29 +1,61 @@
 ---
 id: news-why-plastic
 title: "Perché le aziende scelgono i pallet in plastica – Q-Pall"
-description: "Facili da usare e disponibili in ogni forma e misura: scoprite i 3 motivi principali per cui le aziende passano dai pallet in legno a quelli in plastica."
+description: "I pallet in plastica non marciscono, non si scheggiano, si puliscono bene e durano anni. I tre motivi principali per cui le aziende abbandonano il legno."
 eyebrow: "Notizie"
 tag: "Approfondimento"
-crumb: "Perché le aziende scelgono i pallet in"
+crumb: "Perché i pallet in plastica?"
 h1: "Perché le aziende **scelgono i pallet in plastica**"
-lead: "Facili da usare e disponibili in ogni forma e misura: scoprite i 3 motivi principali per cui le aziende passano dai pallet in legno a quelli in plastica."
-img_alt: "Perché le aziende scelgono i pallet in plastica"
-reading: 3
+lead: "I pallet in plastica non marciscono, non si scheggiano, si puliscono facilmente e durano molti anni. Ecco i tre motivi principali per cui le aziende passano dal legno alla plastica."
+img_alt: "Magazziniere con un transpallet elettrico accanto a una pila di pallet in plastica blu"
+reading: 2
+faq:
+- q: "I pallet in plastica costano più di quelli in legno?"
+  a: "All’acquisto di solito sì. Ma un pallet in plastica dura molto di più e non va riparato né trattato. Per questo, per viaggio, la plastica risulta spesso più conveniente."
+- q: "I pallet in plastica sono più leggeri di quelli in legno?"
+  a: "Spesso sì, ma dipende dal tipo. I pallet Light sono molto più leggeri del legno. Un pallet in plastica Heavy pesa da 17 a 28 kg, un europallet in legno circa 25 kg."
+- q: "I pallet in plastica sono davvero sostenibili?"
+  a: "Sì, se durano a lungo e poi vengono riciclati. I nostri pallet standard sono realizzati in plastica riciclata quasi al 100% e a fine vita sono completamente riciclabili."
+published: '2021-12-10'
+updated: '2026-11-02'
 ---
-## 3 motivi per utilizzare pallet in plastica
+> **In breve**
+>
+> * **Pratici:** niente marciume, schegge o chiodi, facili da pulire e nessun trattamento ISPM 15 per l’esportazione.
+> * **Convenienti:** l’acquisto costa più del legno, ma il costo per viaggio è spesso più basso.
+> * I pallet in plastica usati di **Q-Used** costano fino al 40% in meno di quelli nuovi.
+> * **Sostenibili:** i nostri pallet standard sono in plastica riciclata quasi al 100% e completamente riciclabili.
 
-**Chiunque trasporti merci o abbia la necessità di immagazzinarle in un deposito, normalmente fa uso di pallet. Tali pedane dall’aspetto elementare sono state progettate proprio per impilare e trasportare comodamente beni e merci. Oltre a quelli in legno, sul mercato oggi sono disponibili anche pallet in plastica. Ne esistono di ogni sorta, forma e dimensioni e presentano diversi vantaggi rispetto ai pallet in legno. Scopri i 3 motivi principali per i quali dovresti immediatamente passare ai pallet in plastica!**
+## Legno o plastica?
 
-## 1.I pallet in plastica sono facili da usare
+Chi trasporta o immagazzina merci usa i pallet. Oltre ai pallet in legno esistono pallet in plastica di molte forme, tipi e misure. Rispetto al legno hanno alcuni vantaggi evidenti.
 
-Rispetto a quelli in legno, i pallet in plastica offrono una serie di vantaggi. Per esempio, sotto molti aspetti, sono più facili da usare. A differenza di quelli in legno, i pallet in plastica, per esempio, non si rovinano, né si scheggiano. Inoltre sono più eleganti e belli a vedersi, e richiedono minore manutenzione. Inoltre, i pallet in plastica sono facili da pulire, e non richiedono l’effettuazione di trattamenti antiparassitari prima che avvenga il trasporto. Per questi motivi, essi sono molto più igienici e quindi perfettamente adatti per i trasporto di generi alimentari.
+Ecco i tre più importanti. Per un confronto completo leggete [pallet in plastica o in legno?](@guide-wood)
 
-## 2. Una scelta di natura economica
+## I pallet in plastica sono pratici
 
-Non è solamente per la loro facilità d’uso che le aziende optano sempre più spesso per i **pallet in plastica**, frequentemente infatti tale scelta è motivata anche da vantaggi di natura economica. In primo luogo, è possibile scegliere tra pallet nuovi oppure usati. Se scegliete i nuovi, essi saranno prodotti appositamente per la vostra azienda così avrete la possibilità di sceglierne la forma, la dimensione e tra i diversi colori che più fanno al caso vostro. In molti frangenti, tuttavia, è più conveniente scegliere pallet già usati, che sono naturalmente molto più economici. I pallet in plastica sono costituiti da un unico pezzo, ecco perché non si deteriorano facilmente. Durando molto a lungo anche i **pallet di seconda mano** sono solitamente di qualità elevata.
+La plastica non marcisce e non si scheggia. Non ci sono assi allentate o chiodi che possano danneggiare il carico o le macchine. Per questo i pallet in plastica richiedono poca manutenzione.
 
-## 3.I pallet in plastica sono una scelta eco-sostenibile
+Non assorbono umidità e si puliscono facilmente. Ogni pallet dello stesso modello ha le stesse misure e lo stesso peso, il che evita fermi negli impianti automatizzati. Inoltre i pallet in plastica sono spesso più leggeri del legno, a seconda del tipo.
 
-Quindi, abbiamo detto finora che i pallet in plastica sono un’**alternativa conveniente economicamente e che sono più semplici da utilizzare rispetto a quelli in legno**. Ciò premesso, tuttavia, sono in molti a individuare nella plastica una delle cause principali dell’inquinamento ambientale. Eppure, le ricerche dimostrano che i pallet in plastica non sono una cattiva opzione per l’ambiente, anzi rappresentano sicuramente una scelta migliore rispetto a quelli in legno. Molti dei pallet in plastica nuovi sono infatti realizzati con materiale riciclato. Pertanto, la produzione e la realizzazione di questi pallet ha scarso impatto in termini ambientali. Inoltre, a fine vita utile, almeno l’80% dei pallet in plastica può essere riutilizzato. Scegliendo i pallet in plastica pertanto si consegue un reale beneficio per l’ambiente!
+Per l’esportazione non serve alcun trattamento antiparassitario, perché i pallet in plastica non rientrano nell’ISPM 15. Lavorate con alimenti non confezionati? Allora scegliete un pallet igienico in plastica vergine.
 
-Vuoi ricevere maggiori informazioni sull’utilizzo dei pallet in plastica? Contattaci senza impegno e ti forniremo ulteriori informazioni e consigli fatti su misura per te!
+## I pallet in plastica sono convenienti
+
+Al pezzo, un pallet in plastica costa spesso più di uno in legno. Ma dura molti anni, non va riparato e non danneggia il carico. Per questo, per viaggio, la plastica risulta spesso più conveniente.
+
+Approfondite il tema in [quanto costa un pallet in plastica?](@guide-prices)
+
+Se scegliete pallet nuovi, potete scegliere tra circa 130 modelli in nove formati. Volete pallet riconoscibili? Con le [soluzioni su misura](@about-custom) adattiamo un modello esistente, per esempio con il vostro logo o un colore dedicato.
+
+Conta soprattutto il budget? Allora scegliete [pallet in plastica usati](@used): con Q-Used vendiamo pallet ispezionati che costano fino al 40% in meno di quelli nuovi. Poiché i pallet in plastica durano a lungo, sono spesso ancora in buone condizioni.
+
+## I pallet in plastica sono una scelta sostenibile
+
+Molti associano la plastica all’inquinamento. Per i pallet la situazione è diversa. Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%, una miscela di HDPE e PP ricavata tra l’altro da vecchie cassette, tappi e imballaggi.
+
+Un pallet in plastica dura molti anni. A fine vita è completamente riciclabile: lo ritiriamo e lo maciniamo per ottenere materia prima per nuovi pallet. Inoltre produciamo in sei stabilimenti in Europa, vicino ai nostri clienti.
+
+Scoprite di più sul nostro approccio alla [sostenibilità](@about-sustainability).
+
+Volete sapere cosa possono fare i pallet in plastica per la vostra azienda? [Richiedete un preventivo](@quote): di solito ricevete un prezzo su misura entro un giorno lavorativo.

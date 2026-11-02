@@ -7,7 +7,7 @@ h1: "Kunststof **displaypallets**"
 lead: "Van distributiecentrum naar schap zonder ompakken. Onze displaypallets zijn licht, nestbaar en leverbaar in kwart- en halve europalletformaat."
 faq:
   - q: "Wat is een displaypallet?"
-    a: "Een displaypallet is een kleine pallet, meestal een kwart of een halve europallet, waarop producten direct in de winkel worden gepresenteerd. De pallet wordt in het DC beladen en met een dolly of handpallettruck op de winkelvloer gezet."
+    a: "Een displaypallet is een kleine pallet, meestal een kwart of een halve europallet, waarop producten direct in de winkel worden gepresenteerd. De pallet wordt in het distributiecentrum (DC) beladen en met een dolly of handpallettruck op de winkelvloer gezet."
   - q: "Welke formaten displaypallets zijn er?"
     a: "We hebben displaypallets van 600 x 400 mm (kwart europallet) en 600 x 800 mm (halve europallet), in light, medium en heavy."
   - q: "Hoe worden displaypallets verpakt?"

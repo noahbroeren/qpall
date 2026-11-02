@@ -26,7 +26,7 @@ La logistique, c’est un flux de marchandises efficace, de la production jusqu�
 - **Moins de carburant et de CO2**, et entièrement recyclables.
 - **Des dimensions fixes** pour les systèmes automatisés.
 - **Moins d’entretien :** aucune réparation de planches détachées.
-- **Hygiéniques et sûres :** ni humidité, ni bactéries, ni échardes, ni arêtes vives.
+- **Propres et sûres :** elles n’absorbent pas l’humidité, se nettoient facilement et n’ont ni échardes ni arêtes vives.
 - **Plus faciles à gerber** et peu encombrantes.
 
 ## Nos palettes recommandées

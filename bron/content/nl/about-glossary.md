@@ -73,7 +73,7 @@ Losse onderlatten die u zonder gereedschap onder een nestbare pallet met 9 pootj
 ### Nestbare pallets
 Pallets die leeg in elkaar schuiven, waardoor een stapel lege pallets veel minder ruimte inneemt. Zie [nestbare pallets](@type-nestable).
 
-### Onderlatten (runners)
+### Onderlatten
 De doorlopende latten aan de onderkant van een pallet. Ze bepalen de stabiliteit en geschiktheid voor rollenbanen en stellingen. Er zijn uitvoeringen met 3, 5 of 6 onderlatten. Bij 6 onderlatten spreken we ook wel van een rondloper.
 
 ### Pootjes

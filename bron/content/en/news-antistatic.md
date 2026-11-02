@@ -1,25 +1,70 @@
 ---
 id: news-antistatic
-title: "The convenience and benefits of anti-static pallets – Q-Pall"
-description: "Friction between packaging and a plastic pallet can build up static charge. Read what anti-static pallets are and how they protect your products."
+title: "Anti-static pallets: benefits and how they work – Q-Pall"
+description: "Friction between packaging and a pallet can build up static charge. Find out how anti-static plastic pallets work and what they mean for your products."
 eyebrow: "News"
 tag: "Know-how"
-crumb: "The convenience and benefits of"
-h1: "The convenience and benefits of **anti-static pallets**"
-lead: "Friction between packaging and a plastic pallet can build up static charge. Read what anti-static pallets are and how they protect your products."
-img_alt: "The convenience and benefits of anti-static pallets"
+crumb: "Anti-static pallets"
+h1: "Anti-static pallets: **benefits and how they work**"
+lead: "Friction between packaging and pallet can create static charge. It attracts dust and can damage sensitive electronics. Anti-static plastic pallets counter this."
+img_alt: "Stack of black plastic pallets with a barcode label"
 reading: 3
+faq:
+- q: "What is an anti-static pallet?"
+  a: "A plastic pallet with anti-static additives. These lower the surface resistance of the plastic, so the pallet builds up less static charge and attracts less dust."
+- q: "What does an anti-static additive do?"
+  a: "It lowers the surface resistance of the plastic and so increases its conductivity. Charge created by friction flows away instead of building up."
+- q: "Is an anti-static pallet the same as an ESD pallet?"
+  a: "No. An anti-static pallet mainly counters charge build-up and dust attraction. An ESD-safe pallet contains conductive additives, such as carbon black, and actively dissipates charge in a controlled way."
+published: '2022-01-09'
+updated: '2026-11-02'
 ---
-Plastic pallets are used to store and transport goods and products correctly. You carefully select a pallet so that the product is not damaged, in any way whatsoever. The quality is not allowed to suffer. But sometimes the load on the pallet may become electrically charged because of the friction between the packaging and the plastic pallet. And this can cause problems. You can choose anti-static pallets. What are these exactly, and what does it mean for your products?
+> **In short**
+>
+> * Friction with the packaging can give a plastic pallet a static charge.
+> * Static charge attracts dust, can damage sensitive electronics and gives people small shocks.
+> * Anti-static additives lower the surface resistance of the plastic. As a result, less charge builds up and it flows away.
+> * Q-Pall adds these additives as an adaptation of an existing pallet model, tailored to your application.
+> * Is there a risk of explosion, or do you work with very sensitive electronics? Then choose an ESD-safe pallet.
 
-## Static charge
+You use [plastic pallets](@pallets) to transport and store goods safely. You choose the pallet carefully so that the quality of the load does not suffer.
 
-What is a static charge, and how is it created? Objects made from plastic that make contact, can receive a light static charge. The friction, no matter how small, means the objects can become electrostatically charged. This creates static tension, which may cause problems. In your daily life, certain materials, such as clothing, can become charged when sitting on a sofa. The synthetics woven into the clothes and sofa create an electric charge. This charge disappears when touching another type of material. You experience a small electric shock upon touching something. With plastic pallets, the combination of the load and the pallet creates a static charge. Something that is discharged when there is contact with another material or through contact with the person unloading. The result may be that the load quality diminishes, or may even damage it irreparably.
+Even so, the load on the pallet can become statically charged through friction between the packaging and the plastic pallet. This can cause problems.
 
-## Consequences of static electricity
+One solution is an **anti-static pallet**. What exactly is it, and what does it mean for your products?
 
-The consequences of a static charge vary. Firstly, statically charged object attract dust. This means that the dust present in the room will simply attach itself to the pallet and the load. This can be highly undesirable, because it can affect the quality or storage life of the load. Static electricity can also cause irreparable damage to electronic equipment such as computer hardware. The results of this can vary from total defects to light damage with barely noticeable effects. With age, this may still result in inexplicable complaints and defects in the long run. There is also the danger of someone receiving an electric shock if the equipment is statically charged.
+## How does static charge build up?
 
-## Q-Pall anti-static pallets
+Plastic objects that come into contact with each other can become slightly statically charged. Friction, however slight, creates an electrical voltage.
 
-Q-Pall anti-static pallets are fitted with a balanced combination of synergistic anti-static additives that directly reduce surface conduction of polyethene. The balance between the fast and controlled migrating anti-static additives not only have a quick antistatic effect, but also provide long-term protection against attracting dust and other inconveniences resulting from electrostatic charges. They are custom-made to your specifications. Together, we look at what is desirable. This way, you can be certain your products are transported and stored the safest way possible. Would you like to know more about the options to fit pallets with an anti-static additive? Or do you have other questions regarding our product range and our options? Then please contact us for more information. We would love to help you by providing personal advice.
+You know it from everyday life. After a while on the sofa, your clothes can become charged by the synthetic fibres in the fabric and upholstery. When you then touch something, you feel a small shock: the charge discharges.
+
+Plastic pallets work the same way. The combination of load and pallet builds up a voltage. This discharges as soon as there is contact with another material or with the person handling the load.
+
+## Consequences of static charge
+
+* **Dust.** Statically charged objects attract dust. Dust in the room sticks to the pallet and the load, which can affect the quality or shelf life of the load.
+* **Damage to electronics.** Static electricity can cause irreparable damage to electronic equipment, such as computer hardware. Sometimes the effect is barely noticeable at first, but unexplained faults appear later.
+* **Shocks.** Staff can get a shock when they touch charged products or equipment.
+
+## How does an anti-static pallet work?
+
+Ordinary plastic is a poor conductor. Charge that builds up on the surface stays there. An anti-static pallet contains additives that change this.
+
+These **anti-static additives** lower the surface resistance of the plastic. The surface conducts better, so charge flows away instead of building up.
+
+We use a balanced combination of additives. Some work quickly, while others migrate to the surface gradually and in a controlled way. Together they provide a fast anti-static effect and long-lasting protection against dust and other effects of static charge.
+
+## Anti-static or ESD-safe?
+
+Anti-static and ESD-safe are similar, but they are not the same. An anti-static pallet mainly counters charge build-up and dust attraction. An ESD-safe pallet contains conductive additives, such as carbon black, and actively dissipates charge in a controlled way.
+
+Do you work with flammable substances or very sensitive electronics? Then read [what ESD-safe pallets are](@news-esd).
+
+## Custom anti-static pallets
+
+We make anti-static pallets to your specifications. To do so, we adapt the material of an existing pallet model: we do not design a completely new pallet. Together with you, we look at which model and version suit your products.
+
+Such an adaptation falls under [custom pallets](@about-custom) and is intended for larger projects. Still unsure about the type of pallet? Then first read [choosing the right plastic pallet](@guide-choose).
+
+Would you like to know whether an anti-static version makes sense for your products? [Get in touch](@contact) for personal advice.

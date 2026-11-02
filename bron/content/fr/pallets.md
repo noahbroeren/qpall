@@ -15,7 +15,7 @@ faq:
   - q: "Combien coûte une palette plastique ?"
     a: "Pour la plupart des palettes standard, nous affichons un prix de départ indicatif à l’unité, HT et hors transport. Votre prix final dépend de la quantité, du site de production et de la livraison. Vous trouverez un aperçu des prix par format dans notre [guide des prix des palettes plastique](@guide-prices)."
   - q: "Puis-je commander une seule palette ?"
-    a: "Q-Pall livre principalement les entreprises et travaille avec des volumes, souvent par pile ou par camion complet. Pour de plus petites quantités, nous vous orientons volontiers vers un [distributeur près de chez vous](@dealers)."
+    a: "Q-Pall livre les entreprises et vend toujours par pile complète, par exemple 17 palettes Medium ou 45 palettes emboîtables. Les commandes plus importantes sont livrées par camion complet. Pour de plus petites quantités, nous vous orientons volontiers vers un [distributeur près de chez vous](@dealers)."
 classes:
   eyebrow: "Classes de charge"
   title: "Light, Medium **ou Heavy ?**"
@@ -41,7 +41,7 @@ why:
 
 ## Des palettes plastique pour chaque application
 
-Q-Pall développe et produit exclusivement des palettes plastique, et ce depuis 2005. Cette spécialisation se retrouve dans la gamme : plus de quatre-vingt-dix modèles en neuf formats, de la compacte [palette display 600 x 400 mm](@size-600x400) à la grande [1300 x 1100 mm pour l’industrie chimique](@size-1300x1100). Chaque modèle est conçu pour une mission précise : transport, stockage, export, pooling ou logistique automatisée.
+Q-Pall développe et produit exclusivement des palettes plastique, et ce depuis 2005. Cette spécialisation se retrouve dans la gamme : environ 130 modèles en neuf formats, de la compacte [palette display 600 x 400 mm](@size-600x400) à la grande [1300 x 1100 mm pour l’industrie chimique](@size-1300x1100). Chaque modèle est conçu pour une mission précise : transport, stockage, export, pooling ou logistique automatisée.
 
 ### Choisissez d’abord le format
 
@@ -54,3 +54,5 @@ Chaque palette possède trois valeurs de charge : statique (au sol), dynamique (
 ### Plateau ajouré ou fermé, pieds ou semelles
 
 Un **plateau ajouré** est plus léger et laisse passer l’humidité et l’air. Un **plateau fermé** se nettoie plus facilement et offre une surface plane aux petits emballages. Les palettes sur **9 pieds** sont souvent emboîtables et idéales pour l’export. Les palettes sur **3, 5 ou 6 semelles** sont plus stables sur les convoyeurs à rouleaux et compatibles avec le rayonnage.
+
+Vous préférez tout avoir sur papier ? Le [catalogue produits](@catalog) présente notre gamme standard avec dimensions et valeurs de charge, en PDF à télécharger.

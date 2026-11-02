@@ -15,7 +15,7 @@ faq:
   - q: "Wat kost een kunststof pallet?"
     a: "Bij de meeste standaardpallets tonen we een indicatieve vanafprijs per stuk, exclusief btw en transport. Uw uiteindelijke prijs hangt af van aantal, productielocatie en levering. Een overzicht van prijzen per formaat vindt u in onze [prijsgids voor kunststof pallets](@guide-prices)."
   - q: "Kan ik één pallet bestellen?"
-    a: "Q-Pall levert vooral aan bedrijven en werkt met volumes, vaak per stapel of per vrachtwagen. Voor kleinere aantallen verwijzen we u graag naar een [dealer bij u in de buurt](@dealers)."
+    a: "Q-Pall levert aan bedrijven en verkoopt altijd per volle stapel, bijvoorbeeld 17 medium of 45 nestbare pallets. Grotere orders leveren we per vrachtwagen. Voor kleinere aantallen verwijzen we u graag naar een [dealer bij u in de buurt](@dealers)."
 classes:
   eyebrow: "Draagklassen"
   title: "Light, medium **of heavy?**"
@@ -41,7 +41,7 @@ why:
 
 ## Kunststof pallets voor elke toepassing
 
-Q-Pall ontwikkelt en produceert alleen kunststof pallets, al sinds 2005. Die focus ziet u terug in het assortiment: meer dan negentig modellen in negen formaten, van de compacte [displaypallet van 600 x 400 mm](@size-600x400) tot de grote [1300 x 1100 mm voor de chemie](@size-1300x1100). Elk model is ontworpen voor een duidelijke taak: transport, opslag, export, pooling of geautomatiseerde logistiek.
+Q-Pall ontwikkelt en produceert alleen kunststof pallets, al sinds 2005. Die focus ziet u terug in het assortiment: zo'n 130 modellen in negen formaten, van de compacte [displaypallet van 600 x 400 mm](@size-600x400) tot de grote [1300 x 1100 mm voor de chemie](@size-1300x1100). Elk model is ontworpen voor een duidelijke taak: transport, opslag, export, pooling of geautomatiseerde logistiek.
 
 ### Kies eerst op afmeting
 
@@ -49,8 +49,10 @@ Het formaat bepaalt of de pallet past in uw stellingen, vrachtwagens en containe
 
 ### Kies daarna op draagvermogen
 
-Elke pallet heeft drie belastingswaarden: statisch (op de vloer), dynamisch (tijdens transport met heftruck of pompwagen) en stellingbelasting (op twee liggers in een palletstelling). Op onze pagina over [de belasting van kunststof pallets](@about-load) leggen we het verschil uit.
+Elke pallet heeft drie belastingwaarden: statisch (op de vloer), dynamisch (tijdens transport met heftruck of pompwagen) en stellingbelasting (op twee liggers in een palletstelling). Op onze pagina over [de belasting van kunststof pallets](@about-load) leggen we het verschil uit.
 
 ### Open of gesloten dek, pootjes of onderlatten
 
 Een **open dek** is lichter en laat vocht en lucht door. Een **gesloten dek** is makkelijker te reinigen en geeft kleine verpakkingen een vlakke ondergrond. Pallets met **9 pootjes** zijn vaak nestbaar en ideaal voor export. Pallets met **3, 5 of 6 onderlatten** zijn stabieler op rollenbanen en geschikt voor stellingen.
+
+Liever alles op papier? In de [productcatalogus](@catalog) staat ons standaardassortiment met maten en belastingwaarden, als pdf om te downloaden.

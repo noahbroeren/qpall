@@ -15,7 +15,7 @@ faq:
   - q: "How quickly will I get a reply?"
     a: "Usually within one working day. Looking for a price? [Request a quote](@quote). There you can enter the pallets and quantities straight away, so we can send you a tailored price sooner."
   - q: "Can I order a small number of pallets?"
-    a: "Q-Pall mainly supplies businesses and works with volumes, often per stack or per truckload. For smaller quantities, we will gladly refer you to a [dealer near you](@dealers)."
+    a: "Q-Pall supplies businesses and always sells per full stack, for example 17 medium or 45 nestable pallets. Larger orders are delivered per truckload. For smaller quantities, we will gladly refer you to a [dealer near you](@dealers)."
   - q: "I am coming to load or unload. Do I need to register?"
     a: "Yes, please. Book a time slot in advance via [register a transport](@transport), preferably at least one working day ahead. That way your load is ready and you are quickly back on the road."
   - q: "I would like to work at Q-Pall. Where can I find the vacancies?"

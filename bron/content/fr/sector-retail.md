@@ -1,7 +1,7 @@
 ---
 id: sector-retail
 title: "Palettes plastique pour la grande distribution – Q-Pall"
-description: "Palettes plastique pour la distribution : display et Europe, de l’entrepôt au rayon sans reconditionner. Légères, hygiéniques, réutilisables, aussi en IoT."
+description: "Palettes plastique pour la distribution : display et Europe, de l’entrepôt au rayon sans reconditionner. Légères, faciles à nettoyer et réutilisables."
 eyebrow: "Secteur"
 h1: "Palettes plastique pour **la grande distribution**"
 lead: "Dans la grande distribution, la logistique doit être rapide, propre et durable. Avec les palettes display, les produits vont en rayon sans reconditionnement, et les palettes Europe durent de nombreuses rotations."
@@ -10,7 +10,7 @@ faq:
   - q: "Quel est l’avantage des palettes display en magasin ?"
     a: "Une palette display est chargée au centre de distribution et va directement en magasin. Aucun reconditionnement n’est nécessaire. Cela fait gagner du temps en magasin et garantit une présentation soignée."
   - q: "Les palettes plastique peuvent-elles être suivies ?"
-    a: "Oui. Avec Auchan et IBM, nous déployons en France 50.000 palettes intelligentes dotées de la technologie IoT pour la localisation, la température et la détection des chocs. Contactez-nous si vous souhaitez en savoir plus sur les palettes intelligentes."
+    a: "Oui. Avec Auchan et IBM, nous avons déployé en France [50.000 palettes intelligentes](@news-auchan) dotées de la technologie IoT pour la localisation, la température et la détection des chocs. Contactez-nous si vous souhaitez en savoir plus sur les palettes intelligentes."
   - q: "Dans la grande distribution, les palettes plastique sont-elles plus chères que le bois ?"
     a: "À l’unité, souvent oui. Par rotation, généralement pas. Les palettes plastique durent beaucoup plus longtemps, sont moins endommagées et ne nécessitent aucune réparation. Pour en savoir plus, consultez notre [guide des prix](@guide-prices)."
 ---

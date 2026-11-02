@@ -1,63 +1,85 @@
 ---
 id: news-euro-export
-title: "Wat is het verschil tussen europallets en exportpallets?"
-description: "Europallet of exportpallet? Lees wanneer u kiest voor een herbruikbare europallet en wanneer een exportpallet voor één transporttraject de beste keuze is."
+title: "Europallet of exportpallet: wat is het verschil? – Q-Pall"
+description: "Europallet of exportpallet? Lees wanneer u kiest voor een herbruikbare europallet en wanneer een lichte exportpallet voor één reis de beste keuze is."
 eyebrow: "Nieuws"
 tag: "Kennis"
-crumb: "Wat is het verschil tussen europallets"
+crumb: "Europallet of exportpallet"
 h1: "Wat is het verschil tussen **europallets en exportpallets**?"
-lead: "Europallet of exportpallet? Lees wanneer u kiest voor een herbruikbare europallet en wanneer een exportpallet voor één transporttraject de beste keuze is."
-img_alt: "Wat is het verschil tussen europallets en exportpallets?"
-reading: 5
+lead: "Een europallet is gemaakt om vaak mee te gaan, een exportpallet voor één reis. Welke past bij uw zending? Dit zijn de verschillen, en wat kunststof pallets daaraan toevoegen."
+img_alt: "Gele zeecontainer half bedekt met de Europese vlag, naast een blauwe container"
+reading: 4
+faq:
+- q: "Wat is het verschil tussen een europallet en een exportpallet?"
+  a: "Een europallet is een gestandaardiseerde pallet van 1200 x 800 mm voor herhaald gebruik. Een exportpallet is gemaakt voor één reis en blijft bij de ontvanger. Een kunststof pallet van 1200 x 800 mm kan allebei zijn."
+- q: "Kunnen kunststof europallets in het EPAL-ruilsysteem?"
+  a: "Nee. Het ruilsysteem draait om houten europallets met een officieel stempel. Onze kunststof pallets hebben dezelfde maat, maar zitten niet in het EPAL- of Europool-ruilsysteem."
+- q: "Heeft een kunststof exportpallet een ISPM 15-stempel nodig?"
+  a: "Nee. ISPM 15 geldt alleen voor verpakkingen van massief hout. Kunststof pallets hebben geen behandeling of stempel nodig, ook niet bij export buiten de EU."
 published: '2026-02-24'
+updated: '2026-11-02'
 author: "John van Boesschoten"
 ---
-Bij Q-Pall produceren wij uitsluitend [kunststof pallets](@pallets) die niet alleen duurzaam en licht van gewicht zijn, maar ook volledig recyclebaar. Vanuit onze ervaring weten we: wie kiest voor de juiste palletoplossing, creëert langdurige voordelen voor de gehele toeleveringsketen.
+> **In het kort**
+>
+> * Een europallet meet 1200 x 800 mm en is gemaakt voor herhaald gebruik in Europese ketens.
+> * Een exportpallet is gemaakt voor één reis, bijvoorbeeld buiten de EU, en blijft bij de ontvanger.
+> * Een kunststof pallet van 1200 x 800 mm kan allebei zijn: een herbruikbare europallet of een lichte exportpallet.
+> * Kunststof pallets hebben geen ISPM 15-behandeling nodig, maar zitten niet in het EPAL- of Europool-ruilsysteem.
 
-## Exportpallet of europallet – welke is voor u geschikt?
+Bij Q-Pall maken we alleen kunststof pallets. Ze gaan lang mee en zijn aan het einde van hun leven volledig recyclebaar. Onze ervaring is: wie de juiste pallet kiest, heeft daar in de hele keten profijt van.
 
-De beslissing hangt af van hoe u de pallet wilt inzetten. Een [europallet](@size-1200x800) – gestandaardiseerd en wijdverspreid – is een essentieel onderdeel voor meervoudig gebruik in pan-Europese transporten. Ze biedt constante kwaliteit, is uitwisselbaar en jarenlang herbruikbaar.
+## Europallet of exportpallet: welke past bij u?
 
-De [exportpallet](@type-export) is daarentegen de beste keuze wanneer deze bedoeld is voor een enkel transporttraject. Typische toepassingen zijn export buiten de EU of leveringen waarbij het retourneren van de pallet niet is gepland.
+De keuze hangt af van hoe u de pallet gebruikt. Een [europallet](@size-1200x800) is gestandaardiseerd en wijdverspreid. Hij is gemaakt voor herhaald gebruik in Europese transporten: constante kwaliteit, uitwisselbaar en jarenlang bruikbaar.
 
-Als producent van kunststof pallets kennen wij beide toepassingsgebieden door en door. Onze oplossingen combineren de voordelen van beide varianten. Ze zijn licht, betrouwbaar en optimaliseren uw processen – of het nu gaat om een enkele exportzending of een circulair systeem.
+Een [exportpallet](@type-export) is de beste keuze voor één transporttraject. Denk aan export buiten de EU of aan leveringen waarbij de pallet niet terugkomt.
 
-## Focus op exportpallets: eigenschappen en toepassingen
+| | Europallet | Exportpallet |
+|---|---|---|
+| Gebruik | Herhaald gebruik, in een ruilsysteem of eigen kringloop | Eén reis, de pallet blijft bij de ontvanger |
+| Afmeting | 1200 x 800 mm | Verschillende maten, ook 1200 x 800 mm |
+| Van hout | EPAL-stempel; voor export buiten de EU ook ISPM 15 | Voor export buiten de EU behandeld en gestempeld volgens ISPM 15 |
+| Van kunststof (Q-Pall) | Light, medium of heavy; niet in het EPAL-ruilsysteem | Altijd light, vaak nestbaar; geen ISPM 15 nodig |
 
-Exportpallets zijn kostenefficiënt, snel leverbaar en specifiek ontworpen voor transporten met een enkele reis. Ze worden vaak ingezet in de bouw, bij speciale leveringen of in de wereldwijde export. Wanneer een retourstroom economisch onrendabel is, is dit type pallet de meest pragmatische oplossing.
+## De europallet: de standaard in Europese logistiek
 
-Onze kunststof exportpallets presteren echter aanzienlijk beter dan men wellicht verwacht. Bij correct gebruik kunnen ze meermaals worden ingezet. Ze zijn ongevoelig voor vocht, absorberen schokken beter dan hout en bieden optimale voedselveiligheid. Hierdoor zijn ze ook uitermate geschikt voor de voedingsmiddelen- of farmaceutische industrie.
+Bijna geen onderdeel van de keten is zo vertrouwd als de europallet. Magazijnen, palletstellingen, vrachtwagens en orderpickprocessen zijn ingericht op 1200 x 800 mm. De houten europallet valt onder de richtlijnen van de European Pallet Association (EPAL) en is herkenbaar aan het EPAL-stempel. Hij is van alle kanten met een heftruck op te pakken.
 
-### Exportvereisten en de voordelen van exportpallets
+Wij maken geen houten pallets, wel kunststof pallets in precies dit formaat. Ze passen in dezelfde stellingen, vrachtwagens en rollenbanen. Daarnaast rotten ze niet, splinteren ze niet en nemen ze geen vocht op. Onze heavy pallets in dit formaat dragen tot 7.500 kg statisch.
 
-Voor export buiten Europa bieden ze duidelijke voordelen. Exportpallets hoeven niet retour, wat de logistiek vereenvoudigt. Ze verlagen de administratieve lasten bij de douane en besparen transportkosten. Bovendien vereisen houten pallets vaak een speciale behandeling volgens ISPM 15 – bij kunststof vervalt deze eis volledig.
+## Europoolpallets en het palletruilsysteem
 
-Onze kunststof pallets voldoen aan alle typische exporteisen. Ze bevatten geen organische resten, zijn resistent tegen schimmels en eenvoudig te reinigen. Vooral bij gevoelige goederen zijn ze het betrouwbare alternatief – stabiel genoeg voor belastingen tot 1000 kg of meer (afhankelijk van het model) en veilig in de omgang.
+Het open ruilsysteem in Europa draait om de houten Europoolpallet. Bedrijven die regelmatig pallets uitwisselen, profiteren van een constante beschikbaarheid en lagere kosten. Een beschadigde pallet wordt gerepareerd en weer gebruikt, en dat draagt bij aan de circulaire economie.
 
-### Directe vergelijking: exportpallets vs. europallets
+Kunststof pallets van Q-Pall zitten niet in het EPAL- of Europool-ruilsysteem. Ze hebben dezelfde maat, maar u kunt ze niet ruilen tegen een houten pallet met stempel. Kunststof europallets worden daarom vooral gebruikt in gesloten kringlopen, in [pools](@sector-pooling), voor intern transport en voor export.
 
-Exportpallets en europallets verschillen op diverse punten. Europallets worden gemaakt van hout of kunststof. De eerste variant is gestandaardiseerd, vaak uitwisselbaar en heeft een lange levensduur. Deze opties vallen onder de strenge richtlijnen van de European Pallet Association (EPAL) en zijn eenvoudig te herkennen aan de EPAL-stempel.
+## Exportpallets: licht en gemaakt voor één reis
 
-Met hun standaardafmetingen van 1200 × 800 mm zijn ze ideaal voor een naadloze integratie in de logistiek en magazijnbeheer. De exportpallet in deze afmeting heeft geen stempel. Deze is vaak kostenefficiënter en flexibeler. Exportpallets worden niet geretourneerd, maar blijven bij de ontvanger.
+Exportpallets zijn kostenefficiënt, snel leverbaar en gemaakt voor transport in één richting. Ze worden vaak ingezet in de bouw, bij speciale leveringen en voor export wereldwijd. Is een retourstroom niet rendabel, dan is een exportpallet de meest praktische oplossing.
 
-Hierdoor zijn ze uitermate geschikt voor eenmalige leveringen of wereldwijde zendingen. Maatvaste kunststof europallets combineren vele voordelen: ze zijn compatibel met bestaande systemen, lichtgewicht, robuust en vaak herbruikbaar – echter zonder deel te nemen aan het EPAL-ruilsysteem.
+Onze kunststof exportpallets zijn altijd light pallets. Ze presteren beter dan u misschien verwacht:
 
-Pallets in europallet-afmetingen kunnen overigens prima worden uitgevoerd als exportpallets. Dit zijn dan geen officiële europallets volgens de EPAL-norm, maar transportpallets die simpelweg dezelfde maatvoering van 1200 × 800 mm hanteren.
+* **Ze wegen weinig**, vanaf 2,7 kg. Dat scheelt in vrachtkosten.
+* **Ze zijn vaak nestbaar.** Leeg schuift u ze in elkaar.
+* **Ze dragen 2.500 kg statisch en 1.000 kg dynamisch.** Ze zijn bedoeld voor transport en vloeropslag, niet voor palletstellingen.
+* **Ze nemen geen vocht op** en vangen schokken beter op dan hout.
+* **Ze gaan vaker mee.** Bij zorgvuldig gebruik kunt u ze meerdere keren inzetten.
 
-Deze pallets – bijvoorbeeld van kunststof of eenvoudige houten varianten – zijn specifiek ontworpen voor de export. Ze zijn ideaal wanneer goederen worden verzonden zonder dat er een retourtransport of een ruil in de palletpool is voorzien. Ze combineren zo de praktische standaardmaat met de flexibiliteit van een exportzending.
+### Export buiten de EU: geen ISPM 15
 
-Bij Q-Pall combineren we het beste van beide werelden: onze kunststof pallets voldoen aan de standaardafmetingen van de europallet en bieden tegelijkertijd de praktische voordelen van een exportpallet. Ze zijn licht, stabiel en dragen bij aan uw duurzaamheidsstrategie – zonder concessies te doen aan kwaliteit of milieuvriendelijkheid.
+Voor export buiten de EU moeten houten pallets meestal behandeld en gestempeld zijn volgens [ISPM 15](@guide-ispm). Die norm beschermt de plantgezondheid tegen insecten en plantenziekten in hout. Kunststof pallets vallen er niet onder. U hoeft dus geen behandeling of certificaat te regelen. En omdat een exportpallet niet terug hoeft, wordt uw logistiek eenvoudiger.
 
-## De europallet als gestandaardiseerde oplossing in de logistiek
+### Exportpallets in europalletmaat
 
-Bijna geen enkel onderdeel in de toeleveringsketen is zo vertrouwd als de europallet. Ze is een essentieel onderdeel van de dagelijkse logistiek en staat garant voor betrouwbaarheid, belastbaarheid en een perfecte pasvorm. In veel magazijnen en wagenparken is ze simpelweg onmisbaar. Haar afmetingen zijn afgestemd op de Europese markt en het draagvermogen is ongeëvenaard.
+Een pallet van 1200 x 800 mm kan ook een exportpallet zijn. Het is dan geen officiële europallet volgens de EPAL-norm, maar een transportpallet met dezelfde maat. Zo combineert u de praktische standaardmaat met de vrijheid van een eenmalige zending: de pallet blijft gewoon bij de ontvanger.
 
-Daarnaast is ze van alle kanten toegankelijk voor heftrucks, wat de handling vereenvoudigt. Hoewel wij geen houten pallets produceren, hebben we bij Q-Pall kunststof alternatieven ontwikkeld die qua formaat en functionaliteit identiek zijn. Onze pallets bieden echter extra voordelen: ze rotten niet, splinteren niet en nemen geen vocht op.
+### Levensmiddelen en farma
 
-Zo blijven uw goederen optimaal beschermd en behoudt u de hoogste hygiënestandaarden in uw processen.
+Onze exportpallets zijn van gerecycled kunststof. Ze zijn eenvoudig te reinigen en bevatten geen organische resten, maar ze zijn niet bedoeld voor direct contact met levensmiddelen. Voor toepassingen met strenge hygiëne-eisen, zoals in de voedingsmiddelen- en farmaceutische industrie, hebben we [hygiënische pallets](@type-hygienic) van virgin kunststof.
 
-## Europoolpallets en hun rol in het palletruilsysteem
+## Het beste van beide werelden
 
-Het open ruilsysteem in Europa is gebaseerd op de Europoolpallet. Bedrijven die regelmatig pallets uitwisselen, profiteren van een constante beschikbaarheid en dalende kosten. Als een pallet beschadigd raakt, kan deze worden gerepareerd en hergebruikt. Dit is een substantiële bijdrage aan de circulaire economie.
+Bij Q-Pall combineren we beide toepassingen. U kiest een kunststof pallet in het formaat van de europallet: als herbruikbare pallet voor uw eigen kringloop of als lichte exportpallet voor één reis. Aan het einde van zijn leven is elke pallet volledig recyclebaar.
 
-Onze kunststof pallets integreren moeiteloos in dit systeem. Ze voldoen aan de gestandaardiseerde afmetingen, bieden een constante kwaliteit en zijn onderhoudsarm. Ze splinteren niet, zijn makkelijker te reinigen en behouden hun maatvaste vorm, zelfs bij intensieve belasting. Zo profiteert u van de voordelen van het klassieke palletruilsysteem – met minder operationele inspanning en aanzienlijk betere hygiëne.
+Twijfelt u welke pallet bij uw zendingen past? [Vraag een offerte aan](@quote) en vermeld uw bestemming en lading. U ontvangt meestal binnen één werkdag een prijs op maat.

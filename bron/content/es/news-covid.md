@@ -1,17 +1,39 @@
 ---
 id: news-covid
-title: "Los palets de plástico Q-Pall en la entrega de vacunas COVID"
-description: "El palet 1208 HR 5R de Q-Pall cumplió las especificaciones de una gran farmacéutica y ayudó a llevar vacunas COVID a Argentina, China y Corea del Sur."
+title: "Palets de plástico para vacunas COVID – Q-Pall"
+description: "A través de nuestro socio británico Goplasticpallets.com, Q-Pall suministró palets de plástico para transportar vacunas COVID, por ejemplo a Argentina."
 eyebrow: "Noticias"
 tag: "Caso de cliente"
-crumb: "Los palets de plástico Q-Pall en la"
+crumb: "Palets para vacunas COVID"
 h1: "Los palets de plástico Q-Pall **en la entrega de vacunas COVID**"
-lead: "Nuestros palets deben soportar mucho a diario. Viajan por todo el mundo y ven los productos más hermosos en revisión. Pero la tarea más importante y especial hasta ahora ha sido contribuir a la entrega de las vacunas COVID."
-img_alt: "Los palets de plástico Q-Pall en la entrega de vacunas COVID"
-reading: 1
+lead: "Una de las mayores farmacéuticas del mundo buscaba un palet que cumpliera requisitos estrictos para transportar vacunas COVID. Nuestro 1208 HR 5R encajaba a la perfección y pudimos entregar rápidamente."
+img_alt: "Palet de plástico negro con superficie abierta sobre patines"
+reading: 2
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-A través de nuestro socio en el Reino Unido, Goplasticpallets.com, recibimos en octubre una solicitud de una de las farmacéuticas más grandes del mundo. La demanda no era estándar. Se hicieron solicitudes específicas para un palet que cumpliera con todas las estrictas especificaciones. Nuestro Qpall 1208 HR 5R encajó perfectamente dentro de las especificaciones y pudimos entregar rápidamente.
+> **En resumen**
+>
+> * A través de nuestro socio británico Goplasticpallets.com, una gran farmacéutica nos pidió palets para transportar vacunas COVID.
+> * La empresa tenía requisitos estrictos y poco habituales para el palet.
+> * Nuestro 1208 HR 5R cumplía exactamente las especificaciones y estaba disponible con rapidez.
+> * Otros proveedores de vacunas siguieron con sus propios pedidos.
+> * Los palets viajaron, entre otros destinos, a América, Argentina, China y Corea del Sur.
 
-Nuestros palets fueron encargados para transportar la vacuna COVID. Y después de que otros proveedores de vacunas escucharon sobre esta solución adecuada, pronto siguieron nuevos pedidos. Los palets viajaron a América, Argentina, China y Corea del Sur.
+## Un encargo especial
 
-Las vacunas pudieron ser entregadas rápidamente en todo el mundo, en parte gracias al tiempo de entrega rápido y a la correcta especificación de nuestro palet. ¡Y estamos muy orgullosos de eso!
+Nuestros [palets de plástico](@pallets) soportan mucho cada día. Viajan por todo el mundo y transportan los productos más variados. Uno de sus encargos más especiales fue el transporte de vacunas COVID.
+
+## Una solicitud con requisitos estrictos
+
+La solicitud llegó a través de Goplasticpallets.com, nuestro [socio y distribuidor en el Reino Unido](@news-goplastic). Una de las mayores [empresas farmacéuticas](@sector-pharma) del mundo buscaba un palet que cumpliera todas sus estrictas especificaciones. No era una solicitud estándar.
+
+Nuestro Q-Pall 1208 HR 5R se ajustaba exactamente a esas especificaciones. Además, pudimos entregar los palets con rapidez.
+
+## De un cliente a más proveedores de vacunas
+
+A nuestros palets de plástico se les confió el transporte de las vacunas. Cuando otros proveedores de vacunas conocieron esta solución, pronto llegaron nuevos pedidos. Los palets viajaron, entre otros destinos, a América, Argentina, China y Corea del Sur.
+
+En parte gracias a la entrega rápida y a la especificación adecuada del palet, las vacunas pudieron distribuirse rápidamente por todo el mundo. Estamos orgullosos de ello.
+
+¿Busca un palet que deba cumplir requisitos específicos? [Póngase en contacto con nosotros](@contact) y estudiaremos qué modelo se adapta a su aplicación.

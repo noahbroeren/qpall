@@ -1,35 +1,68 @@
 ---
 id: news-which-pallet
 title: "Welche Kunststoffpalette passt am besten zu Ihnen? – Q-Pall"
-description: "Größe, Belastung, Einsatzzweck: Dieser Ratgeber zeigt alle Optionen, damit Sie die Kunststoffpalette finden, die zu Ihren Anforderungen passt."
+description: "Welche Kunststoffpalette passt zu Ihnen? Vier Fragen zu Größe, Belastung, Einsatz und Qualitätsanforderungen, dazu die gängigsten Palettentypen."
 eyebrow: "Aktuelles"
 tag: "Wissen"
-crumb: "Welche Kunststoffpalette passt am besten"
+crumb: "Welche Kunststoffpalette passt?"
 h1: "Welche Kunststoffpalette **passt am besten zu Ihnen?**"
-lead: "Größe, Belastung, Einsatzzweck: Dieser Ratgeber zeigt alle Optionen, damit Sie die Kunststoffpalette finden, die zu Ihren Anforderungen passt."
-img_alt: "Welche Kunststoffpalette passt am besten zu Ihnen?"
+lead: "Mit vier Fragen zu Größe, Belastung, Einsatz und Qualitätsanforderungen sehen Sie schnell, welche Kunststoffpalette zu Ihnen passt. Danach stellen wir die gängigsten Typen vor."
+img_alt: "Schwarze nestbare Kunststoffpalette mit offenem Deck auf neun Füßen"
 reading: 2
+faq:
+- q: "Welche Kunststoffpalette wird am häufigsten verwendet?"
+  a: "In Europa ist es die Palette 1200 x 800 mm, das Format der Europalette. Für den Export wählen viele Kunden eine nestbare Light-Palette, für den internen Einsatz eine Medium- oder Heavy-Palette mit Kufen."
+- q: "Kann eine Light-Palette ins Palettenregal?"
+  a: "Nein. Light-Paletten sind für Transport, Export und Bodenlagerung gedacht. Für ein Palettenregal wählen Sie eine Medium- oder Heavy-Palette mit Kufen und einer Regalbelastung, die zu Ihrer Ladung passt."
+- q: "Wird jede Palette geprüft?"
+  a: "Wir prüfen jedes Palettenmodell, nicht jede einzelne Palette. Die Belastungswerte, die wir je Modell angeben, gelten für eine gleichmäßig verteilte Last."
+published: '2022-01-13'
+updated: '2026-11-02'
 ---
-Paletten werden für verschiedene Zwecke verwendet. Daher sind [Kunststoffpaletten](@pallets) in einer breiten Palette von Optionen erhältlich, die entwickelt wurden, damit die Paletten in jeder Anwendung optimal funktionieren. Überlegen Sie, Paletten zu kaufen? Dann ist es wichtig, dass Sie sich die Zeit nehmen, um eine Reihe von Faktoren zu berücksichtigen. Dadurch können Sie sicherstellen, dass Sie die richtige Kunststoffpalette für all Ihre Anforderungen wählen. Um Sie bei dieser Entscheidung zu begleiten, beschreibt dieser Artikel alle Optionen.
+> **Kurz gesagt**
+>
+> * Beginnen Sie mit vier Fragen: welche **Größe**, welche **Belastung**, **Einweg- oder Mehrwegeinsatz** und welche **Qualitätsanforderungen**.
+> * Light-Paletten sind für Export und Bodenlagerung gedacht. Medium- und Heavy-Paletten eignen sich auch für den innerbetrieblichen Transport und Palettenregale.
+> * Gängige Typen sind Displaypaletten, Einwegpaletten für den Export, CP-Paletten und Hygienepaletten.
+> * Wir prüfen jedes Palettenmodell. Die Belastungswerte gelten für eine gleichmäßig verteilte Last.
 
-## Zweck der Palette
+## Vier Fragen vorab
 
-Bevor Sie eine Kaufentscheidung treffen, müssen Sie sich zunächst fragen, für welchen Zweck die Kunststoffpaletten zum Einsatz kommt. Bedenken Sie unter anderem die folgenden Fragen:
+Kunststoffpaletten werden für viele verschiedene Zwecke eingesetzt. Deshalb gibt es viele Ausführungen, jede für eine bestimmte Anwendung gemacht. Wenn Sie vorab vier Fragen beantworten, wählen Sie schneller und vermeiden eine Palette, die nicht passt.
 
-- Welche **Größe** sollen die Paletten haben?
-- Welcher **Belastung** müssen die Paletten standhalten?
-- Müssen die Paletten für den **einmaligen Gebrauch** oder eine **Mehrfachnutzung** geeignet sein?
-- Müssen die Paletten spezifische **Qualitätsstandards** erfüllen?
+### Welche Größe brauchen Sie?
 
-Es gibt für jede spezifische Anforderung die passende Kunststoffpalette. Paletten mit unterschiedlichen Größen, Tragfähigkeiten, Materialien und Qualitätsstandards. Gut zu wissen: Alle unsere Paletten wurden ausführlich und individuell getestet, über insgesamt 7 Tage. Somit können Sie sicher sein, dass Sie die höchste Qualität erhalten!
+Die Größe ergibt sich aus Ihrer Ladung und Ihrem Prozess. Achten Sie auf die Maße Ihrer Kartons, Säcke oder Fässer sowie auf Ihre Regale, Lkw und Container.
 
-## Am häufigsten verwendete Kunststoffpaletten
+In Europa ist 1200 x 800 mm die gängigste Größe. Wir fertigen Paletten in neun Größen, von 600 x 400 bis 1300 x 1100 mm.
 
-Wie bereits erwähnt, sind die Möglichkeiten in Bezug auf die Paletten endlos. Für jeden Bedarf Ihres Unternehmens gibt es eine geeignete Palette. Aber wie finden Sie die richtige Kunststoffpalette nach Ihren Wünschen und Bedürfnisse? Im Folgenden haben wir die am häufigsten verwendeten Kunststoffpaletten aufgelistet:
+### Welche Last muss die Palette tragen?
 
-1. [**Displaypaletten**](@type-display); in erster Linie für den Transport oder zur Nutzung in Geschäften und Supermärkten geeignet.
-2. [**Einwegpaletten**](@type-export); vor allem für den Produktexport ins Ausland geeignet.
-3. [**Chemiepaletten**](@type-cp); hervorragend geeignet für den Einsatz in verschiedenen Sektoren und Branchen und in vielen verschiedenen Ausführungen erhältlich.
-4. [**Hygienepaletten**](@type-hygienic); auch als „Lebensmittelpalette“ bekannt, weil diese vor allem in der Lebensmittelindustrie verwendet wird. Die Oberfläche dieser Palette ist besonders glatt, um eine bessere Hygiene zu gewährleisten.
+Jede Palette hat drei Belastungswerte: statisch (ruhend auf dem Boden), dynamisch (beim Bewegen) und im Regal. Wählen Sie eine Palette, deren Wert für Ihren Einsatz deutlich über Ihrer schwersten Ladung liegt. Mehr dazu lesen Sie unter [Tragfähigkeit von Kunststoffpaletten](@about-load).
 
-Ist die Kunststoffpalette Ihrer Wahl nicht aufgeführt? Dann besuchen Sie bitte unsere Webseite. Dort finden Sie eine vollständige Übersicht über alle Arten von Kunststoffpaletten und deren Eigenschaften. Möchten Sie mehr über Kunststoffpaletten erfahren? Oder haben Sie Fragen zu unserem Produktsortiment und den Optionen? Dann kontaktieren Sie uns bitte für weitere Informationen. Wir helfen Ihnen gerne mit einer persönlichen Beratung weiter!
+### Einweg- oder Mehrwegeinsatz?
+
+Geht die Palette nur einmal auf die Reise, zum Beispiel beim Export? Dann ist eine Light-Palette, oft nestbar, meist die günstigste Wahl. Kommt die Palette immer wieder zurück, lohnt sich eine Medium- oder Heavy-Palette, die viele Jahre hält.
+
+### Gelten besondere Qualitätsanforderungen?
+
+Manche Branchen stellen zusätzliche Anforderungen, etwa an Hygiene, Rutschfestigkeit oder Abmessungen. Für den direkten Kontakt mit Lebensmitteln ist eine Palette aus Neuware nötig. Unsere Standardpaletten fertigen wir aus recyceltem Kunststoff.
+
+## Jedes Modell wird geprüft
+
+Um zu wissen, was eine Palette tragen kann, prüfen wir jedes Palettenmodell. Das geschieht mit einer gleichmäßig verteilten Last über einen festgelegten Zeitraum.
+
+Die Belastungswerte jedes Modells gelten daher für eine gleichmäßig verteilte Last. Eine Punktlast oder eine ungleiche Verteilung verringert die nutzbare Tragfähigkeit.
+
+## Die gängigsten Typen
+
+Für fast jede Anwendung gibt es eine passende Kunststoffpalette. Diese Typen kommen am häufigsten vor:
+
+* **Displaypalette.** Eine kleine Palette in 600 x 400 oder 600 x 800 mm. Sie gelangt ohne Umpacken vom Distributionszentrum auf die Verkaufsfläche. Zu den [Displaypaletten](@type-display).
+* **Einwegpalette für den Export.** Eine leichte Palette für Sendungen ins Ausland. Kunststoffpaletten fallen nicht unter ISPM 15, Behandlung und Stempel sind also nicht nötig. Zu den [Einwegpaletten](@type-export).
+* **CP-Palette.** Die Kunststoffversion der Chemiepalette, für Sackware, Fässer, Octabins und Big Bags. Auch außerhalb der Chemie wird sie viel eingesetzt.
+* **Hygienepalette.** Eine glatte Palette aus Neuware für die Lebensmittel- und Pharmaindustrie, die sich gut reinigen lässt. Zu den [Hygienepaletten](@type-hygienic).
+
+Möchten Sie Schritt für Schritt auswählen? In unserem Ratgeber [die richtige Kunststoffpalette wählen](@guide-choose) finden Sie sechs Schritte und eine Entscheidungstabelle.
+
+Wissen Sie schon, was Sie brauchen? [Fordern Sie ein Angebot an](@quote), dann erhalten Sie meist innerhalb eines Werktags einen Preis nach Maß.

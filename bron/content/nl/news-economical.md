@@ -1,37 +1,75 @@
 ---
 id: news-economical
-title: "Economisch vandaag, duur morgen: kies de juiste pallets"
-description: "Kunststof pallets van RIC code 7 lijken voordelig, maar zijn dat niet altijd. Lees waarom de soort kunststof bepalend is voor recycleerbaarheid en kosten."
+title: "RIC-code 7: economisch vandaag, duur morgen – Q-Pall"
+description: "Kunststof pallets met RIC-code 7 lijken voordelig, maar wat zit erin en kunt u ze recyclen? Waarom de soort kunststof telt voor kosten en de PPWR."
 eyebrow: "Nieuws"
 tag: "Kennis"
 crumb: "Economisch vandaag, duur morgen"
 h1: "Economisch vandaag, duur morgen: **kies de juiste pallets**"
-lead: "Kunststof pallets van RIC code 7 lijken voordelig, maar zijn dat niet altijd. Lees waarom de soort kunststof bepalend is voor recycleerbaarheid en kosten."
-img_alt: "Economisch vandaag, duur morgen: kies de juiste pallets"
-reading: 4
+lead: "Een kunststof pallet met RIC-code 7 lijkt in aanschaf voordelig, maar kan later geld kosten. Waarom de soort kunststof telt voor recycling, regels en uw kosten."
+img_alt: "Zwarte kunststof pallet met open dek op drie onderlatten"
+reading: 3
+faq:
+- q: "Wat betekent RIC-code 7 op een kunststof product?"
+  a: "Code 7 is de verzamelcategorie voor 'overige' kunststoffen: materialen die niet onder code 1 tot en met 6 vallen, of combinaties van kunststoffen. De code zegt dus weinig over de precieze samenstelling."
+- q: "Zijn kunststof pallets met code 7 slecht te recyclen?"
+  a: "Vaak wel. Veel recyclingbedrijven zijn niet ingericht op deze 'overige' kunststoffen. Vraag daarom altijd naar de samenstelling en naar wat er aan het einde van de levensduur met de pallet gebeurt."
+- q: "Waarvan zijn de pallets van Q-Pall gemaakt?"
+  a: "Onze standaardpallets zijn van gerecycled kunststof, een mix van HDPE (2) en PP (5). Alleen onze hygiënische pallets, H1-pallets en cleanroompallets zijn van virgin kunststof. Aan het einde van hun leven zijn onze pallets volledig recyclebaar."
+published: '2023-10-09'
+updated: '2026-11-02'
 ---
-In onze vorige blogpost hebben we meer uitgelegd over de Resin Identification Codes (RIC's) voor kunststoffen en hun essentiële rol in het creëren van een duurzame toekomst. Als het gaat om logistiek, opslag en verzending zijn pallets een onmisbaar hulpmiddel. Traditioneel gemaakt van hout, kiezen steeds meer bedrijven voor [plastic pallets](@pallets) vanwege hun duurzaamheid, levensduur, hygiëne en recycleerbaarheid. Echter, niet alle [kunststof pallets](@pallets) zijn gelijk gemaakt. Het begrijpen van het soort plastic dat in hun constructie wordt gebruikt, is essentieel voor het waarborgen van de recycleerbaarheid.
+> **In het kort**
+>
+> * De RIC-code in het driehoekje laat zien van welke kunststof een product is gemaakt. Code 7 staat voor 'overige' kunststoffen en combinaties.
+> * Bij code 7 weet u vaak niet precies wat erin zit, en recycling is lastig.
+> * Dat kan later geld kosten, bijvoorbeeld bij de afvoer. Onder de PPWR moet verpakking vanaf 2030 bovendien recyclebaar zijn.
+> * Vraag bij de aankoop naar de samenstelling en naar wat er aan het einde van de levensduur met de pallet gebeurt.
+> * Onze standaardpallets zijn van gerecycled HDPE (2) en PP (5). We nemen ze terug voor recycling.
 
-## Economisch vandaag, morgen duur
+## Een lage prijs is niet het hele verhaal
 
-Een categorie waar u wellicht twee keer over wilt nadenken, zijn pallets gemaakt van kunststoffen met de Resin Identification Code (RIC) van 7, vaak gemarkeerd met een "7" in een driehoekig pijlsymbool. Op het eerste gezicht lijken [kunststof pallets](@pallets) gemaakt van RIC code 7 kunststoffen een kosteneffectieve optie voor uw bedrijf te zijn. De aanvankelijke aankoopprijs kan erg verleidelijk zijn, vooral voor organisaties die direct kosten willen verlagen. Het is echter cruciaal om verder te kijken dan de aanvankelijke besparingen en de langetermijngevolgen te overwegen. Hoewel deze pallets vooraf goedkoper kunnen zijn, komen ze vaak met verborgen kosten, vooral als het gaat om recycling. Veel recyclingfaciliteiten zijn niet uitgerust om RIC code 7 kunststoffen te verwerken, wat kan leiden tot potentiële afvalkosten of zelfs regelgevende boetes in de toekomst. Wat vandaag misschien een koopje lijkt, kan in de toekomst een kostbare fout blijken te zijn, die zowel uw bottom-line als uw ecologische voetafdruk beïnvloedt.
+Bij logistiek, opslag en verzending zijn pallets onmisbaar. Steeds meer bedrijven kiezen voor kunststof pallets, omdat ze lang meegaan, goed te reinigen zijn en kunnen worden gerecycled. Maar kunststof pallets zijn niet allemaal hetzelfde.
 
-## Wat betekent RIC code 7?
+Een pallet van een kunststof met RIC-code 7 lijkt soms een voordelige keuze. De aanschafprijs is aantrekkelijk, zeker als u snel kosten wilt besparen. Kijk toch verder dan de aanschaf, want de echte kosten komen vaak later.
 
-Het Resin Identification Code-systeem, oorspronkelijk gemaakt om te helpen bij recycling, categoriseert kunststoffen in zeven verschillende types op basis van hun materiaalsamenstelling. Terwijl codes 1 tot 6 overeenkomen met specifieke, duidelijk gedefinieerde soorten plastic, dient code 7 als een algemene categorie voor "andere" kunststoffen. Dit kunnen materialen zijn die niet in de andere categorieën passen of zijn samengesteld uit meerdere soorten hars.
+## Wat betekent RIC-code 7?
 
-## Waarom zou u zich zorgen moeten maken?
+De Resin Identification Code (RIC) is een systeem van zeven codes. Ze laten zien van welke kunststof een product is gemaakt. Codes 1 tot en met 6 staan voor zes veelgebruikte kunststoffen, zoals HDPE (2) en PP (5).
 
-1. Gebrek aan transparantie Aangezien code 7 een algemene categorie is, geeft het niet veel informatie over wat het plastic eigenlijk bevat. Dit gebrek aan transparantie kan problematisch zijn voor bedrijven die bepaalde veiligheids- of hygiënenormen vereisen, aangezien sommige code 7 kunststoffen mogelijk schadelijke toevoegingen of chemicaliën bevatten.
-2. Beperkte recycleerbaarheid Een van de belangrijke nadelen van RIC code 7 kunststoffen is dat ze vaak niet recyclebaar zijn of moeilijk te recyclen. In veel rechtsgebieden zijn recyclingfaciliteiten niet uitgerust om deze "andere" kunststoffen te verwerken. Daardoor kunnen deze pallets aan het einde van hun levenscyclus in stortplaatsen terechtkomen, wat bijdraagt aan milieudegradatie.
-3. Kostenfactor De recycling uitdaging die vaak gepaard gaat met RIC 7 kunststoffen kan ook potentiële toekomstige kosten voor uw bedrijf betekenen. Met de groeiende druk op duurzaamheid en recycling kan het kiezen voor niet-recyclebare pallets in de toekomst leiden tot afvalkosten of zelfs regelgevende boetes.
+Code 7 is een verzamelcategorie voor 'overige' kunststoffen. Dat zijn materialen die niet in de andere groepen passen, of combinaties van meerdere kunststoffen. Meer over alle zeven codes leest u in [RIC-codes van kunststoffen](@news-ric).
 
-## Wat zijn de alternatieven?
+## Waarom code 7 aandacht verdient
 
-Als u zich zorgen maakt over de mogelijke problemen met RIC 7 plastic pallets, overweeg dan pallets gemaakt van kunststoffen met andere RIC-codes zoals PET (1) of HDPE (2). Deze materialen worden niet alleen veel gerecycled, maar zijn ook sterk, duurzaam en veilig voor verschillende toepassingen. Veel bedrijven produceren specifiek pallets met deze duurzamere en transparanter samengestelde kunststoffen, waardoor het voor u gemakkelijker wordt om een geïnformeerde keuze te maken.
+### Onbekende samenstelling
 
-## Conclusie
+Code 7 zegt weinig over wat er echt in het materiaal zit. Sommige kunststoffen in deze groep kunnen toevoegingen bevatten die u liever niet in uw keten heeft. Dat is lastig als u moet voldoen aan eisen voor veiligheid of hygiëne.
 
-Hoewel plastic pallets een reeks voordelen bieden ten opzichte van hun houten tegenhangers, is het essentieel om te weten met welk soort plastic u te maken heeft. Pallets gemaakt van RIC code 7 kunststoffen brengen een reeks zorgen met zich mee, variërend van beperkte recycleerbaarheid tot mogelijke veiligheidsproblemen. Als een bewuste koper moet u deze factoren overwegen en mogelijk op zoek gaan naar alternatieven die niet alleen beter zijn voor uw bedrijfsvoering, maar ook voor de planeet.
+### Beperkt recyclebaar
 
-Als het gaat om het maken van een milieuvriendelijke keuze voor uw materiaal behandelingsbehoeften, biedt Q-Pall een geruststellende oplossing. Alle Q-Pall plastic pallets worden uitsluitend gemaakt van kunststoffen met de Resin Identification Code (RIC) van 2, ook bekend als High-Density Polyethylene (HDPE). Dit materiaal staat algemeen bekend om zijn hoge recycleerbaarheid, wat ervoor zorgt dat deze pallets gemakkelijk kunnen worden ingezameld, verwerkt en omgezet in nieuwe producten aan het einde van hun levenscyclus. Door RIC code 2 kunststoffen te gebruiken, biedt Q-Pall niet alleen duurzame en betrouwbare pallets, maar garandeert het ook de circulariteit van hun producten. Kiezen voor Q-Pall betekent dat u kiest voor een duurzame, langetermijnoplossing die verspilling minimaliseert en de hulpbronnenefficiëntie maximaliseert, waardoor uw bedrijfspraktijken in lijn zijn met de principes van de circulaire economie.
+Kunststoffen met code 7 zijn vaak moeilijk of niet te recyclen. Veel recyclingbedrijven zijn er niet op ingericht. Zulke pallets eindigen daardoor vaak op de stort of in de verbrandingsoven, in plaats van als grondstof voor nieuwe producten.
+
+### Kosten op termijn
+
+Een pallet die niet te recyclen is, kost geld bij de afvoer. Ook de regels worden strenger. Sinds 12 augustus 2026 geldt de Europese verpakkingsverordening PPWR, en pallets vallen daaronder als transportverpakking.
+
+Vanaf 2030 moet verpakking recyclebaar zijn in klasse A, B of C. Klasse C betekent minimaal 70%.
+
+Hoe meer u daar nu al rekening mee houdt, hoe minder verrassingen later. Lees meer in [PPWR en kunststof pallets](@guide-ppwr).
+
+## Waar let u op bij de aankoop?
+
+* **Vraag naar de samenstelling.** Een goede leverancier vertelt u van welke kunststoffen de pallet is gemaakt.
+* **Vraag wat er aan het einde gebeurt.** Neemt de leverancier de pallets terug, en worden ze weer grondstof?
+* **Vraag om documentatie.** Onder de PPWR kunt u de fabrikant vragen om een conformiteitsverklaring.
+* **Reken in kosten per omloop.** Een pallet die vele jaren meegaat en daarna wordt gerecycled, is per omloop vaak voordeliger. Zie ook [wat een kunststof pallet kost](@guide-prices).
+
+## Waarvan maken wij onze pallets?
+
+Onze standaardpallets maken we van bijna 100% gerecycled kunststof: een mix van HDPE (code 2) en PP (code 5). In onze light pallets zit daarnaast LDPE (code 4). Het zijn allemaal polyolefinen, kunststoffen die zich in de recycling vergelijkbaar gedragen.
+
+Aan het einde van hun leven zijn onze pallets volledig recyclebaar. We nemen ze terug en vermalen ze tot grondstof voor nieuwe pallets. Gebruikte pallets in goede staat krijgen via Q-Used een tweede leven.
+
+Bij onze modellen vindt u de PPWR-verklaring als download op de productpagina. Meer over onze aanpak leest u op de pagina [duurzaamheid](@about-sustainability).
+
+Wilt u weten welke pallet bij uw proces past, en wat die per omloop kost? [Vraag een offerte aan](@quote), dan ontvangt u meestal binnen één werkdag een prijs op maat.

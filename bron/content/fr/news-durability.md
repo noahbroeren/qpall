@@ -1,27 +1,61 @@
 ---
 id: news-durability
 title: "Comment nous garantissons la durabilité de nos palettes"
-description: "Matériaux recyclés, réduction des émissions de CO2 et procédés économes en énergie : voici comment Q-Pall garantit la durabilité de ses palettes plastique."
+description: "People, Planet, Profit : comment Q-Pall garantit la durabilité de ses palettes plastique, entre production locale, plastique recyclé et moins de déchets."
 eyebrow: "Actualités"
 tag: "Durabilité"
-crumb: "Comment nous garantissons la durabilité"
+crumb: "Durabilité de nos palettes"
 h1: "Comment nous garantissons **la durabilité de nos palettes plastique**"
-lead: "Matériaux recyclés, réduction des émissions de CO2 et procédés économes en énergie : voici comment Q-Pall garantit la durabilité de ses palettes plastique."
-img_alt: "Comment nous garantissons la durabilité de nos palettes plastique"
-reading: 4
+lead: "Une entreprise durable conjugue People, Planet et Profit. Voici comment nous garantissons la durabilité de nos palettes plastique : de la matière première au transport, jusqu’à l’évaluation indépendante."
+img_alt: "Vue aérienne d’un polder avec des éoliennes au bord de l’eau"
+reading: 3
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-**La durabilité est un concept qui joue un rôle de plus en plus important dans le monde des affaires. Il ne s'agit plus uniquement de réaliser des bénéfices. Bien sûr, le profit reste une partie essentielle des activités commerciales, mais pas à n'importe quel prix. Une entreprise durable ou socialement responsable prend en compte les aspects humains, environnementaux et économiques. Cela est également connu sous le nom de People, Planet et Profit. Nos processus de production et les matériaux que nous utilisons s'inscrivent dans une démarche de développement durable. Comment garantissons-nous la durabilité de nos palettes en plastique ?**
+> **En bref**
+>
+> * Une entreprise durable tient compte de l’humain, de l’environnement et de l’économie : People, Planet et Profit.
+> * Nous produisons localement dans six usines européennes. Le moule voyage, pas les palettes.
+> * Nous fabriquons nos palettes standard en plastique recyclé à près de 100 % : 34.500 tonnes en 2025.
+> * En production, nous misons sur une conception allégée, moins de pertes de matière et la réutilisation des chutes de production.
+> * EcoVadis évalue nos performances de manière indépendante. En octobre 2026, nous avons de nouveau obtenu le bronze.
 
-## Réduction des émissions de CO2
+## Qu’est-ce qu’une entreprise durable ?
 
-La production et la distribution de nos **palettes en plastique** nécessitent de l'énergie, et l'utilisation de cette énergie génère des gaz résiduels. Cela est principalement dû à la combustion de combustibles fossiles tels que le charbon, le pétrole et le gaz. L'un de ces gaz est le CO2, également appelé gaz à effet de serre. L'émission de ce gaz contribue au changement climatique, entraînant le réchauffement climatique. Ce réchauffement provoque la fonte des glaces polaires et, par conséquent, l'élévation du niveau des mers. Pour lutter contre cela, Q-PALL se concentre sur la réduction des émissions de CO2 pendant le transport. Le transport représente en effet 80 % des émissions de CO2 de cette industrie. Ainsi, les palettes sont produites à l'endroit où elles sont nécessaires en déplaçant le moule des palettes requises vers le site de production européen le plus proche. Cette méthode de production réduit considérablement les kilomètres parcourus et donc les émissions de CO2. Un avantage supplémentaire est que les coûts de transport sont également minimisés.
+La durabilité joue un rôle de plus en plus important dans le monde de l’entreprise. Faire des bénéfices reste important, mais pas à n’importe quel prix. Dans une démarche durable ou de responsabilité sociétale, une entreprise tient compte des aspects humains, naturels et économiques : People, Planet et Profit.
 
-## Palettes en plastique fabriquées à partir de matériaux recyclés
+Nos procédés de production et la matière que nous utilisons s’inscrivent dans cette démarche. Voici comment nous garantissons la durabilité de nos palettes plastique.
 
-Un autre aspect important du développement durable est la réduction des déchets plastiques. Le « continent de plastique » — cette accumulation massive de déchets plastiques flottant dans les océans — est un problème bien connu. Ces déchets menacent les animaux marins, ainsi que les plantes et les coraux. La prise de conscience de ce problème est désormais généralisée, et l'inaction n'est plus une option ! Une **palette en plastique** est durable à bien des égards, notamment parce que [le plastique peut être recyclé](@about) efficacement. Chez Q-PALL, le recyclage des matériaux joue un rôle central dans nos activités, et cela fonctionne. Lors de la création de l'entreprise, l'objectif était de recycler 90 % du plastique. Cet objectif a été largement dépassé, puisque 98 % de nos palettes sont désormais fabriquées à partir de matériaux recyclés. De plus, nous soutenons des projets qui sensibilisent au problème des déchets plastiques.
+## Moins de CO₂ grâce à la production locale
 
-## Accent sur la réduction
+Produire et transporter des palettes consomme de l’énergie. La combustion de combustibles fossiles comme le charbon, le pétrole et le gaz libère du CO₂. Ce gaz à effet de serre contribue au réchauffement climatique.
 
-Dans les divers processus de production, Q-PALL accorde une attention particulière à son **empreinte écologique**. Cela est particulièrement important car la matière première du produit, le plastique, peut avoir un impact négatif sur l'environnement. La recherche et la compréhension de notre empreinte écologique fournissent des informations qui nous aident à améliorer encore davantage l'écoresponsabilité de nos produits, y compris des palettes. Nous cherchons continuellement des moyens de minimiser les émissions de gaz à effet de serre. Cela passe par des objectifs de conception stricts pour atteindre des normes élevées en matière d'efficacité énergétique et matérielle. Lors de l'élargissement de notre gamme de palettes en plastique, nous nous concentrons sur des conceptions légères, une réduction des pertes de rendement et la réutilisation des composants et des rebuts de production. Ces efforts permettent de réduire la consommation d'eau et d'énergie, les émissions de CO2 et les déchets.
+Dans le secteur de la palette, la majeure partie des émissions de CO₂ provient du transport. Un camion rempli de palettes transporte surtout de l’air. C’est pourquoi nous installons le moule d’une palette dans l’usine la plus proche du client. Ainsi, les palettes elles-mêmes n’ont pas à parcourir de longues distances.
 
-Ces trois piliers garantissent que Q-PALL produit de manière durable et fournit des palettes durables. Vous souhaitez en savoir plus ? Ou avez-vous d'autres questions sur notre gamme ? N'hésitez pas à nous contacter. Nous serons ravis de vous aider !
+Nous produisons dans six usines : à Balk, Ribe, Marktoberdorf, Nantes, Lleida et Chesterfield. Presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine Q-Pall. Cela économise beaucoup de kilomètres, d’émissions de CO₂ et de frais de transport. Pour en savoir plus, voyez notre page [production locale](@about-local).
+
+## Des palettes en plastique recyclé
+
+Autre point important : réduire les déchets plastiques. Le « continent de plastique » dans les océans menace les animaux, les plantes et les coraux. Les palettes plastique sont durables à plusieurs titres, notamment parce que le plastique se réutilise bien.
+
+C’est pourquoi le recyclage joue un grand rôle chez Q-Pall. À la création de l’entreprise en 2005, l’objectif était de réutiliser 90 % du plastique. Cet objectif est largement dépassé : nous fabriquons nos palettes standard en plastique recyclé à près de 100 %, un mélange de PEHD et de PP.
+
+En 2025, nous avons transformé 34.500 tonnes de plastique recyclé, soit environ 1.475 camions pleins. En fin de vie, nos palettes sont entièrement recyclables. Nous soutenons aussi des projets qui sensibilisent au problème des déchets plastiques.
+
+## Moins de consommation en production
+
+En production aussi, nous surveillons notre empreinte écologique. Mieux la connaître nous aide à améliorer encore la performance environnementale de nos palettes. Nous plaçons la barre haut, avec des objectifs de conception stricts en matière d’efficacité énergétique et d’efficacité matière.
+
+Pour les nouvelles palettes, nous misons surtout sur :
+
+* **Une conception allégée.** Il faut moins de matière par palette.
+* **Moins de pertes de matière.** Nous limitons les rebuts et les pertes en production.
+* **La réutilisation de pièces et de chutes de production.** Les restes de matière retournent dans le processus.
+
+Nous réduisons ainsi la consommation d’eau et d’énergie, l’utilisation de matière, les émissions de CO₂ et les déchets. Notre [bâtiment de Veghel](@news-hq), qui accueille le siège, le centre opérationnel européen et le stockage, dispose notamment d’une pompe à chaleur et de panneaux solaires.
+
+## Une évaluation indépendante
+
+Nous faisons évaluer nos performances en matière de durabilité de manière indépendante par EcoVadis. En avril 2023, nous avons obtenu la [médaille d’argent](@news-ecovadis-silver). La médaille de bronze a suivi en 2025, et nous l’avons de nouveau obtenue en octobre 2026. Elle nous place parmi les 35 % des entreprises les mieux évaluées. Pour en savoir plus, consultez notre page [développement durable](@about-sustainability).
+
+C’est ainsi que nous produisons de manière durable et livrons des palettes durables. Vous souhaitez savoir ce que cela signifie pour votre chaîne logistique ou votre rapport de durabilité ? [Contactez-nous](@contact).

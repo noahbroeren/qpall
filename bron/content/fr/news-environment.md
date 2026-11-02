@@ -1,25 +1,67 @@
 ---
 id: news-environment
 title: "Palettes plastique et environnement : ce qu’il faut savoir"
-description: "Empreinte carbone, émissions de CO2, responsabilité écologique : tout ce qu’il faut savoir sur l’impact environnemental des palettes plastique face au bois."
+description: "Les palettes plastique sont-elles compatibles avec une démarche durable ? Empreinte carbone, plastique recyclé, réemploi, recyclage et PPWR : l’essentiel."
 eyebrow: "Actualités"
 tag: "Durabilité"
 crumb: "Palettes plastique et environnement"
 h1: "Palettes plastique et environnement : **ce qu’il faut savoir**"
-lead: "Empreinte carbone, émissions de CO2, responsabilité écologique : tout ce qu’il faut savoir sur l’impact environnemental des palettes plastique face au bois."
-img_alt: "Palettes plastique et environnement : ce qu’il faut savoir"
+lead: "De plus en plus d’entreprises tiennent compte de l’impact environnemental dans le choix de leurs palettes. D’où vient l’empreinte carbone d’une palette plastique, et comment faire un choix éclairé ?"
+img_alt: "Deux empreintes de pas en herbe sur fond blanc"
 reading: 3
+faq:
+- q: "Qu’est-ce que l’empreinte carbone ?"
+  a: "L’empreinte carbone mesure les émissions de gaz à effet de serre, exprimées en kilogrammes d’équivalent CO₂. Pour une palette, la matière première, la production et le transport entrent notamment en compte."
+- q: "Les palettes plastique sont-elles durables ?"
+  a: "Oui, si elles servent longtemps et sont ensuite recyclées. Nos palettes sont fabriquées en plastique recyclé à près de 100 %, durent de nombreuses années et sont entièrement recyclables en fin de vie. De plus, nous produisons localement, ce qui réduit les transports."
+- q: "Le PPWR s’applique-t-il aussi aux palettes ?"
+  a: "Oui. Les palettes sont des emballages de transport et relèvent du règlement européen sur les emballages, applicable depuis le 12 août 2026. Q-Pall fournit pour chaque modèle une déclaration PPWR à télécharger sur la page produit."
+published: '2022-01-09'
+updated: '2026-11-02'
 ---
-Lors du choix de palettes, vous regardez d’abord quelle est la palette dont vous avez besoin et quelle est sa fonction. Vous avez également le choix entre des palettes en bois et des palettes plastique. Ce choix dépend très souvent de la responsabilité écologique de l’entreprise. Cette philosophie est de plus en plus souvent un thème important pour les entreprises. Et les palettes plastique dans tout cela ? Nous allons aborder tout ce que vous devez savoir sur les palettes plastique et les préoccupations environnementales.
+> **En bref**
+>
+> * Pour choisir une palette, la fonction compte, mais de plus en plus aussi l’impact environnemental.
+> * L’empreinte carbone d’une palette provient surtout de la matière première, de la production et du transport.
+> * Nous fabriquons nos palettes standard en plastique recyclé à près de 100 %, dans six usines proches de nos clients.
+> * Le réemploi et le recyclage en fin de vie réduisent encore l’impact.
+> * Depuis le 12 août 2026, le règlement européen sur les emballages (PPWR) s’applique, aux palettes aussi.
 
-## Empreinte carbone
+## Choisir ses palettes en pensant à l’environnement
 
-L’environnement est un thème important. Nous sommes de plus en plus conscients de notre influence sur l’environnement et les changements climatiques qui en découlent. Les émissions de CO2, de carbone jouent ici un rôle important. Parmi tous les gaz à effet de serre que l’homme émet, le CO2 est le plus important. L’empreinte carbone est la **mesure de l’émission de CO2 lors de l’utilisation de carburants fossiles** dans la circulation, le transport aérien, le transport, la production d’électricité, le chauffage, etc. Depuis un certain temps, le sujet des gaz à effet de serre est très sensible dans de nombreuses entreprises. L’émission de gaz à effet de serre influe sur le climat de la terre, aussi bien sur la terre que dans la mer et dans l’air. **Pour avoir une bonne idée de l’impact écologique des palettes plastique, on a décidé de calculer l’empreinte carbone de ces produits.** En déterminant l’empreinte carbone, on calcule les équivalents en dioxyde de carbone nécessaires pour fabriquer une palette, exprimés en kilogramme (kg CO2 eq.). La majeure partie des émissions de CO2 provient de l’extraction de matières premières, du transport et de la production de produits finis.
+Pour choisir vos palettes, vous regardez d’abord à quoi elles doivent servir et quelle fonction elles doivent remplir. Vous choisissez ensuite entre le bois et le plastique. Ce choix est de plus en plus lié à la responsabilité sociétale des entreprises (RSE).
 
-## Empreinte carbone et Q-Pall
+Pour de nombreuses entreprises, l’impact environnemental des produits est désormais un critère de décision à part entière, à côté du prix et de la qualité. Cela vaut aussi pour les supports de charge comme les palettes. Voici d’où vient cet impact et comment le limiter.
 
-Q-Pall est consciente de son influence sur l’environnement et ce parce que l’avenir de l’environnement détermine l’avenir de la planète et donc des hommes. De plus, l’empreinte carbone est de plus en plus souvent un paramètre de décision requis, en plus de critères tels que le prix et la qualité, pour les entreprises qui comparent des produits entre eux. Cela joue naturellement aussi pour les palettes plastique. Q-Pall utilise les résultats de l’analyse de l’empreinte carbone des palettes plastique comme référence et comme point de départ pour améliorer les performances environnementales de ses produits. L’innovation est importante, y compris dans le développement de nouveaux types de palettes. La prise en compte de la durabilité y joue certainement un grand rôle. Grâce à des objectifs de conception stricts en termes d’efficience énergétique et matérielle, Q-Pall veut minimiser l’émission de gaz à effet de serre. Des documents relatifs à la déclaration environnementale de produit (EPD) sont disponibles pour tous les types de palettes.
+## Qu’est-ce que l’empreinte carbone ?
 
-## Réutiliser est durable
+L’empreinte carbone, ou *carbon footprint*, mesure les émissions de gaz à effet de serre, dont le CO₂ est le principal. Le CO₂ est surtout émis par l’utilisation de combustibles fossiles, par exemple pour le transport, l’électricité et le chauffage.
 
-Si la RSE est un élément essentiel de votre gestion, vous pouvez choisir des palettes plastique usagées. En réutilisant des palettes, on gaspille moins de matières premières ; une considération importante au niveau de la RSE. Dès lors, le choix d’une palette en plastique usagée est un choix logique. C’est peut-être un élément à prendre en considération lors du choix de palettes usagées. Les palettes usagées sont disponibles en différents modèles et variantes Si vous voulez en savoir plus sur les palettes plastique et leur relation avec les préoccupations environnementales, ou si vous avez d’autres questions sur notre assortiment et les possibilités, n’hésitez pas à prendre contact avec nous pour de plus amples informations. Nous nous ferons un plaisir de vous donner des conseils personnalisés !
+Pour un produit comme une palette, tous les gaz à effet de serre nécessaires à sa fabrication sont convertis en kilogrammes d’équivalent CO₂ (kg CO₂e). La plupart des émissions proviennent de l’extraction des matières premières, du transport et de la production.
+
+## D’où viennent les émissions d’une palette ?
+
+* **Matière première.** Extraire et produire des matières premières neuves demande beaucoup d’énergie. Nous fabriquons nos palettes standard en plastique recyclé à près de 100 %, un mélange de PEHD et de PP. Nous remplaçons ainsi la matière neuve par du plastique qui existe déjà.
+* **Production.** Pour le développement de nouvelles palettes, nous appliquons des objectifs de conception stricts en matière d’efficacité énergétique et d’efficacité matière.
+* **Transport.** Dans le secteur de la palette, la majeure partie des émissions de CO₂ provient du transport. C’est pourquoi nous produisons [localement](@about-local), dans six usines réparties à travers l’Europe. Presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine Q-Pall.
+* **Fin de vie.** En fin de vie, nos palettes sont entièrement recyclables. La matière devient la matière première de nouvelles palettes.
+
+## Comment Q-Pall utilise l’empreinte carbone
+
+Q-Pall est conscient de son impact sur l’environnement. Nous avons calculé l’empreinte carbone des palettes plastique et utilisons le résultat comme état de référence : le point de départ pour améliorer la performance environnementale de nos produits. Cela joue aussi un grand rôle dans le développement de nouvelles palettes.
+
+Nos performances en matière de durabilité sont en outre évaluées de manière indépendante par EcoVadis. En octobre 2026, nous avons de nouveau obtenu la médaille de bronze, qui nous place parmi les 35 % des entreprises les mieux évaluées. Pour en savoir plus, consultez notre page [développement durable](@about-sustainability).
+
+## Le réemploi, un choix durable
+
+La RSE occupe une place importante dans votre entreprise ? Pensez aussi aux palettes plastique d’occasion. En réutilisant des palettes, on gaspille le moins possible de matières premières.
+
+Avec [Q-Used](@used), nous proposons des palettes plastique d’occasion contrôlées, dans différents modèles. Elles coûtent jusqu’à 40 % de moins que des palettes neuves. L’offre varie : demandez-nous le stock actuel.
+
+## Ce que change le PPWR
+
+La législation exige elle aussi davantage d’attention pour l’environnement. Le règlement européen sur les emballages (PPWR) est entré en vigueur en février 2025 et s’applique depuis le 12 août 2026. Les palettes sont des emballages de transport : elles sont donc concernées.
+
+À partir de 2030, les emballages devront être recyclables en classe A, B ou C, la classe C correspondant à au moins 70 %. Q-Pall fournit pour chaque modèle une déclaration PPWR à télécharger sur la page produit. Pour en savoir plus, lisez notre guide [PPWR et palettes plastique](@guide-ppwr).
+
+Vous souhaitez savoir quelle palette convient à votre application et à vos objectifs de durabilité ? [Contactez-nous](@contact), nous vous conseillons volontiers.

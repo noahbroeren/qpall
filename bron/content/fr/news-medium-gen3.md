@@ -1,19 +1,50 @@
 ---
 id: news-medium-gen3
-title: "Nouvelle palette Medium 1200 x 800 de 3e génération – Q-Pall"
-description: "La palette plastique Medium 1200 x 800 de 3e génération, en matériaux 100 % recyclés, existe en version ouverte ou fermée et supporte 750 kg en rack."
+title: "Palette plastique Medium 1200 x 800 : 3e génération – Q-Pall"
+description: "En 2023, Q-Pall a lancé la troisième génération de sa palette plastique Medium 1200 x 800 mm : recyclée à près de 100 %, à plateau ajouré ou fermé."
 eyebrow: "Actualités"
 tag: "Produit"
-crumb: "Nouvelle palette Medium 1200 x 800 de 3e"
-h1: "Nouveau : **la palette plastique Medium 1200 x 800 de 3e génération**"
-lead: "La palette plastique Medium 1200 x 800 de 3e génération, en matériaux 100 % recyclés, existe en version ouverte ou fermée et supporte 750 kg en rack."
-img_alt: "Nouveau : la palette plastique Medium 1200 x 800 de 3e génération"
-reading: 3
+crumb: "Palette Medium, 3e génération"
+h1: "La troisième génération de **palette plastique Medium 1200 x 800**"
+lead: "En 2023, Q-Pall a lancé la troisième génération de sa palette plastique Medium de 1200 x 800 mm. Elle est fabriquée en plastique recyclé à près de 100 % et porte jusqu’à 750 kg en rayonnage."
+img_alt: "Palette plastique Medium 1200 x 800 mm, moitié à plateau ajouré et moitié à plateau fermé, avec le texte Racking load: 750 kg"
+reading: 2
+published: '2023-03-09'
+updated: '2026-11-02'
 ---
-Nous vous présentons la nouvelle palette plastique 1200 x 800 mm pour charges moyennes, notre troisième génération fabriquée à partir de matériaux 100 % recyclés. Ce produit respectueux de l'environnement est désormais disponible en version ouverte ou fermée, et est conçu pour supporter une charge de rayonnage allant jusqu'à 750 kg. Avec des matériaux recyclés dans le processus de production, nous réduisons la quantité de déchets qui auraient autrement fini dans les décharges. Cela signifie que non seulement la palette est écologique, mais qu'elle contribue également à réduire l'impact environnemental de l'élimination des déchets. Les dimensions de la palette la rendent idéale pour une utilisation dans une variété d'industries, y compris l'alimentation et les boissons, les produits pharmaceutiques, la logistique et la fabrication. La taille de 1200 x 800 mm est une taille standard utilisée dans de nombreux pays et est compatible avec la plupart des équipements de manutention de palettes. La nature moyenne de cette palette la rend idéale pour les applications qui nécessitent une palette pour supporter un poids modéré, sans sacrifier la durabilité ou la solidité. La capacité de charge de 500 kg pour verser plateau ouvert et de 750 kg pour verser plateau fermé la rend idéale pour les systèmes de rayonnage d'entrepôt, ce qui permet aux entreprises de maximiser l'espace de stockage sans craindre que les palettes ne se cassent ou ne se détériorent. En plus d'être respectueuse de l'environnement, la palette est extrêmement durable. Fabriquée à partir de matériaux recyclés de haute qualité, elle résiste à l'humidité, aux produits chimiques et aux rayons UV. Cela signifie qu'elle peut être utilisée dans une grande variété d'environnements et qu'elle convient aussi bien à l'intérieur qu'à l'extérieur. Les conceptions ouvertes et fermées du pont supérieur offrent une flexibilité supplémentaire aux entreprises. La conception ouverte du pont supérieur permet d'accéder facilement aux produits et aux marchandises transportés, ce qui en fait la solution idéale pour les applications nécessitant des chargements et des déchargements fréquents. Le modèle à pont supérieur fermé offre une protection supplémentaire aux marchandises transportées et est idéal pour les applications où l'intégrité des produits est essentielle. En conclusion, l'introduction de la nouvelle palette plastique 1200 x 800 mm à usage moyen, fabriquée à partir de matériaux 100 % recyclés, est un excellent ajout au marché. Ce produit écologique offre aux entreprises une solution d'emballage respectueuse de l'environnement, tout en étant durable et flexible. La capacité de charge maximale de 750 kg de la palette la rend idéale pour les systèmes de rayonnage d'entrepôt, et les modèles à plateau supérieur ouvert ou fermé offrent une flexibilité supplémentaire aux entreprises.
+> **En bref**
+>
+> * En 2023, Q-Pall a lancé la troisième génération de sa palette plastique Medium de 1200 x 800 mm.
+> * La palette est fabriquée en plastique recyclé à près de 100 %.
+> * Il existe une version à plateau ajouré (QP1208MB3RR) et une version à plateau fermé (QP1208MB3RR-CD), toutes deux sur trois semelles.
+> * En rayonnage, la palette porte jusqu’à 500 kg avec plateau ajouré et jusqu’à 750 kg avec plateau fermé.
+> * La palette n’absorbe pas l’humidité et résiste à de nombreux produits chimiques.
 
-[Palette plastique 1200 x 800 3 semelles medium pont supérieur ouvert](@p:qp1208mb3rr){: .btn .btn-primary}
-{: .btn-row}
+## Le format europalette en version Medium
 
-[Palette plastique 1200 x 800 3 semelles plateau fermé medium](@p:qp1208mb3rr-cd){: .btn .btn-primary}
-{: .btn-row}
+1200 x 800 mm est le format de l’europalette. C’est un format standard utilisé dans de nombreux pays et compatible avec la plupart des transpalettes, chariots élévateurs et autres équipements de manutention. Découvrez toutes les [palettes plastique 1200 x 800 mm](@size-1200x800).
+
+La troisième génération est une [palette Medium](@class-medium) : la polyvalente pour le transport interne, la distribution et le stockage léger en rayonnage. Elle porte un poids moyen, sans rien sacrifier en solidité ni en durée de vie.
+
+## Plateau ajouré ou fermé
+
+* **Plateau ajouré (QP1208MB3RR).** Le plateau ajouré est plus léger et laisse l’humidité s’écouler. Il convient aux applications avec des chargements et déchargements fréquents.
+* **Plateau fermé (QP1208MB3RR-CD).** Le plateau fermé offre une surface plane et continue pour les petits produits, les sacs et les cartons. Il protège davantage la charge et se nettoie facilement.
+
+## Capacité de charge
+
+La palette mesure 1200 x 800 x 145 mm et porte 5.000 kg en statique. En rayonnage à palettes, la version à plateau ajouré porte jusqu’à 500 kg et la version à plateau fermé jusqu’à 750 kg. Vous pouvez donc aussi l’utiliser dans des rayonnages d’entrepôt.
+
+Ces valeurs s’appliquent à une charge répartie uniformément. Pour en savoir plus, consultez notre page sur [la capacité de charge des palettes plastique](@about-load).
+
+## Fabriquée en plastique recyclé
+
+La palette est fabriquée en plastique recyclé à près de 100 %, un mélange de HDPE et de PP. Du plastique qui serait sinon un déchet trouve ainsi une nouvelle vie. En fin de vie, la palette est entièrement recyclable : nous la reprenons et la transformons en matière première pour de nouvelles palettes. Découvrez notre démarche en matière de [durabilité](@about-sustainability).
+
+## Où utiliser cette palette
+
+La palette n’absorbe pas l’humidité et résiste à de nombreux produits chimiques. Elle convient à de nombreux secteurs, de la logistique et de l’industrie à l’agroalimentaire et aux boissons.
+
+Une palette en plastique recyclé n’est pas destinée au contact direct avec les denrées alimentaires. Pour cet usage, nous proposons des [palettes hygiéniques](@type-hygienic) en plastique vierge.
+
+Vous souhaitez savoir quelle version convient le mieux à votre processus ? [Demandez un devis](@quote) ; vous recevrez en général un prix sur mesure sous un jour ouvré.

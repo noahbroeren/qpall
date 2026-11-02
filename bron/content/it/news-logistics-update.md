@@ -1,48 +1,55 @@
 ---
 id: news-logistics-update
 title: "Aggiornamento: logistica globale e pallet Q-Pall – Q-Pall"
-description: "Gli sviluppi in Medio Oriente pesano sulla logistica globale. Leggete come Q-Pall garantisce la fornitura grazie alla produzione locale in Europa."
+description: "Come ha gestito Q-Pall la pressione sulla logistica globale a marzo 2026? Produzione europea, affidabilità, costi di trasporto e scorte di sicurezza."
 eyebrow: "Notizie"
 tag: "Supply chain"
-crumb: "Aggiornamento"
+crumb: "Aggiornamento logistica marzo 2026"
 h1: "Aggiornamento sulla **logistica globale** e sui pallet in plastica Q-Pall"
-lead: "Gli sviluppi in Medio Oriente pesano sulla logistica globale. Leggete come Q-Pall garantisce la fornitura grazie alla produzione locale in Europa."
-img_alt: "Aggiornamento sulla logistica globale e sui pallet in plastica Q-Pall"
-reading: 3
+lead: "A marzo 2026 gli sviluppi in Medio Oriente hanno messo sotto pressione la logistica globale. Q-Pall ha continuato a consegnare in modo affidabile grazie a produzione e acquisti in Europa. I costi di trasporto però sono saliti."
+img_alt: "Alte pile di pallet in plastica arancioni in un magazzino"
+reading: 2
 published: '2026-03-26'
+updated: '2026-11-02'
 ---
 > **In breve**
 >
-> Le catene di approvvigionamento globali stanno subendo una forte pressione a causa degli sviluppi geopolitici in Medio Oriente. Tuttavia, Q-Pall mantiene una posizione stabile e un'elevata affidabilità della fornitura grazie alla produzione locale in Europa. Per salvaguardare l'efficienza operativa, consigliamo alle aziende di rivedere le scorte di sicurezza, mentre gestiamo in modo trasparente l'aumento dei costi di trasporto per garantire una partnership duratura.
+> * A marzo 2026 gli sviluppi in Medio Oriente hanno messo sotto pressione la logistica globale e i mercati delle materie prime.
+> * Q-Pall produce e acquista interamente in Europa ed è quindi rimasta un fornitore affidabile.
+> * Le tariffe di trasporto sono aumentate in modo netto. Gli aumenti dimostrabili li abbiamo trasferiti in modo trasparente.
+> * Abbiamo aumentato le nostre scorte di sicurezza e consigliato ai clienti di rivedere le proprie.
 
 ## Impatto sulla logistica globale
 
-I recenti sviluppi in Medio Oriente e il loro impatto sulla logistica globale e sui mercati delle materie prime non sono certo passati inosservati. La situazione si evolve rapidamente e sta già avendo un effetto tangibile sulla disponibilità, sui tempi di consegna e sui costi lungo l'intera supply chain.
+Nella primavera del 2026 gli sviluppi in Medio Oriente hanno avuto un impatto evidente sulla logistica globale e sui mercati delle materie prime. La situazione cambiava rapidamente. Disponibilità, tempi di consegna e costi sono finiti sotto pressione lungo l’intera supply chain.
 
 ## Una posizione europea stabile
 
-Allo stesso tempo, desideriamo sottolineare che attualmente Q-Pall opera da una posizione relativamente stabile. La nostra produzione e il nostro approvvigionamento avvengono interamente in Europa.
+In quel periodo Q-Pall ha operato da una posizione relativamente stabile. La nostra produzione e i nostri acquisti avvengono interamente in Europa: realizziamo i nostri pallet in [sei stabilimenti in tutta Europa](@about-local) e acquistiamo il materiale riciclato il più possibile nella regione.
 
-> "Questo ci rende meno dipendenti dai flussi intercontinentali di materie prime e ci permette di reagire più rapidamente ai cambiamenti, qualora necessario."
+> «Questo ci rende molto meno dipendenti dai flussi intercontinentali di materie prime e ci permette di reagire più rapidamente ai cambiamenti, quando necessario.»
+
+Perché la produzione locale rende la filiera più resiliente? Lo spieghiamo nell’articolo sulla [produzione locale come pilastro della resilienza della supply chain](@news-local).
 
 ## Pressione sui trasporti e scorte di sicurezza
 
-Riscontriamo tuttavia una crescente pressione sui trasporti e le tariffe di trasporto sono ormai aumentate in modo significativo. Laddove questi costi aumentino in modo dimostrabile, siamo costretti a trasferirli secondo il nostro consueto modus operandi. Naturalmente, lo facciamo con la massima cura e in totale trasparenza.
+La pressione sui trasporti è comunque cresciuta e le tariffe di trasporto sono aumentate in modo significativo. Dove questi costi sono aumentati in modo dimostrabile, li abbiamo trasferiti secondo il nostro consueto modo di lavorare. Lo abbiamo fatto con cura e in totale trasparenza.
 
-Per salvaguardare la continuità delle forniture, stiamo adottando ulteriori misure. Ad esempio, stiamo incrementando le nostre scorte di sicurezza per assorbire più efficacemente le fluttuazioni. Notiamo che questo sta diventando un tema sempre più essenziale anche per i nostri clienti. Vi consigliamo pertanto vivamente di esaminare in modo critico i vostri livelli di scorte di sicurezza a breve termine e, se necessario, di aumentarli per tempo, in linea con gli sviluppi del vostro mercato.
+Per garantire le consegne abbiamo adottato misure aggiuntive. Ad esempio, abbiamo aumentato le nostre scorte di sicurezza per assorbire meglio le fluttuazioni del mercato. Per molti clienti questo è diventato un tema importante. Abbiamo quindi consigliato loro di esaminare con attenzione le proprie scorte di sicurezza e, se necessario, di aumentarle per tempo.
 
-## Cosa significa in pratica
+## Cosa ha significato in pratica
 
-Ad eccezione dei costi di trasporto, al momento non vediamo alcun motivo diretto per adeguare i nostri prezzi. Allo stesso tempo, riconosciamo anche che l'aumento dei costi di trasporto non ha solo un impatto diretto, ma può incidere indirettamente anche sul costo delle materie prime e dei semilavorati. Data l'attuale dinamica del mercato, è difficile prevedere come questa situazione si evolverà o quanto durerà.
+A parte i costi di trasporto, non abbiamo visto motivi diretti per adeguare i nostri prezzi. L’aumento dei costi di trasporto può però incidere indirettamente sui prezzi d’acquisto di materie prime e semilavorati. Era difficile prevedere come si sarebbe evoluta la situazione e quanto sarebbe durata. Per questo abbiamo seguito tre principi:
 
-- Le nuove richieste e gli ordini si baseranno sui più recenti sviluppi dei costi.
-- I preventivi e gli accordi esistenti potranno, se necessario, essere rivisti in base all'attuale situazione di mercato.
-- Le componenti di trasporto potranno essere modificate separatamente quando le circostanze lo richiederanno.
-- Il nostro punto di partenza rimane invariato: **affidabilità della fornitura, trasparenza e partnership**. Soprattutto in queste circostanze, crediamo in linee di comunicazione dirette e nel dialogo aperto, per continuare a costruire insieme soluzioni stabili e prevedibili.
+* **Nuove richieste e ordini.** Si basavano sull’andamento attuale dei costi.
+* **Preventivi esistenti.** Potevano essere rivisti in base alla situazione di mercato, se necessario.
+* **Trasporto.** La componente di trasporto poteva essere adeguata separatamente quando le circostanze lo richiedevano.
 
-### Pronti a mettere in sicurezza la vostra supply chain?
+Il nostro punto di partenza è rimasto invariato: **affidabilità della fornitura, trasparenza e partnership**. Proprio in un periodo come questo, linee di comunicazione brevi e un dialogo aperto fanno la differenza. Scoprite di più sul nostro ruolo nella filiera nella pagina [pallet in plastica per la logistica](@sector-logistics).
 
-Se desiderate discutere di questioni in corso o pianificare il prossimo periodo, siamo ovviamente pronti a supportarvi.
+## Preparare la vostra supply chain
 
-[Contatta i nostri esperti](@contact){: .btn .btn-primary}
+Volete discutere con noi la pianificazione delle scorte o gli ordini in corso? I nostri specialisti sono a vostra disposizione.
+
+[Contattate i nostri esperti](@contact){: .btn .btn-primary}
 {: .btn-row}

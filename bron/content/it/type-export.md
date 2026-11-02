@@ -11,7 +11,7 @@ faq:
   - q: "Qual è la differenza tra un pallet da esportazione e un europallet?"
     a: "Europallet si riferisce al formato (1200 x 800 mm) e di solito è pensato per tornare indietro. Un pallet da esportazione è fatto per un solo viaggio: il più leggero possibile, abbastanza robusto per il trasporto e senza le complicazioni dell’ISPM 15. Un pallet in plastica da 1200 x 800 mm può essere entrambe le cose."
   - q: "I pallet da esportazione sono adatti alle scaffalature porta-pallet?"
-    a: "No. I nostri pallet da esportazione sono pallet Light per il trasporto e lo stoccaggio a terra. Sopportano 2.500 kg in statica e 1.000 kg in dinamica, ma non sono pensati per lo stoccaggio su scaffale."
+    a: "No. I nostri pallet da esportazione sono pallet Light per il trasporto e lo stoccaggio a terra. Sopportano fino a 2.500 kg in statica e 1.000 kg in dinamica, ma non sono pensati per lo stoccaggio su scaffale."
   - q: "In quali formati sono disponibili i pallet da esportazione?"
     a: "Produciamo pallet da esportazione nei formati 600 x 800, 760 x 1140, 1100 x 1100, 1140 x 1140, 1200 x 800, 1200 x 1000 e 1200 x 1200 mm. Troverete quindi un formato adatto a ogni container e a ogni mercato."
 ---

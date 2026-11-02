@@ -1,66 +1,101 @@
 ---
 id: news-ppwr
-title: "PPWR: Ist Ihre Transportverpackung vorbereitet? – Q-Pall"
-description: "Die PPWR verlangt wiederverwendbare, recycelbare Transportverpackungen mit Rezyklatanteil. Was bedeutet Recycelbarkeit der Klasse B für Ihre Paletten?"
+title: "PPWR: Was sie für Ihre Transportverpackung bedeutet – Q-Pall"
+description: "Die PPWR gilt seit dem 12. August 2026. Was die EU-Verpackungsverordnung für Paletten bedeutet: Wiederverwendung, Recyclingfähigkeit, Rezyklatanteil."
 eyebrow: "Aktuelles"
 tag: "Vorschriften"
-crumb: "PPWR: Ist Ihre Transportverpackung"
-h1: "Die PPWR kommt: **Wie gut ist Ihre Transportverpackung vorbereitet?**"
-lead: "Die PPWR ist Teil des europäischen Green Deals und verfolgt ein klares Ziel: weniger Verpackungsmüll, mehr Kreislaufwirtschaft. Das klingt abstrakt, hat aber sehr konkrete Auswirkungen. Zu den gesetzlichen Anforderungen gehören:"
-img_alt: "Die PPWR kommt: Wie gut ist Ihre Transportverpackung vorbereitet?"
-reading: 2
+crumb: "PPWR und Transportverpackung"
+h1: "PPWR: Was bedeutet die Verpackungsverordnung **für Ihre Transportverpackung?**"
+lead: "Seit dem 12. August 2026 gilt die EU-Verpackungsverordnung PPWR in der gesamten EU. Paletten sind Transportverpackungen. Was ändert sich für Ihre Paletten, und ab wann?"
+img_alt: "Automatisiertes Lager mit hohen Regalen und Rollenbahnen mit Kartons"
+reading: 4
+faq:
+- q: "Gilt die PPWR auch für Paletten?"
+  a: "Ja. Paletten sind Transportverpackungen und fallen unter die Verordnung. Die PPWR nennt Paletten sogar ausdrücklich bei den Wiederverwendungszielen für Transportverpackungen ab 2030."
+- q: "Welche Recyclingfähigkeitsstufe muss eine Palette ab 2030 erreichen?"
+  a: "Ab 2030 müssen Verpackungen in Stufe A, B oder C recyclingfähig sein. Stufe C ist die Untergrenze und bedeutet eine Recyclingfähigkeit von mindestens 70 %."
+- q: "Zählen Einwegpaletten für das Wiederverwendungsziel?"
+  a: "Nein. Nur wiederverwendbare Paletten in einem Wiederverwendungssystem zählen für das Ziel von 40 % wiederverwendbaren Transportverpackungen. Die Anforderungen an die Recyclingfähigkeit gelten jedoch auch für Einwegpaletten."
+- q: "Erhalte ich von Q-Pall eine PPWR-Erklärung?"
+  a: "Ja. Wir haben für jede Palettengruppe eine EU-Konformitätserklärung erstellt. Für die meisten Modelle laden Sie sie direkt auf der Produktseite herunter, die übrigen senden wir auf Anfrage. Die Erklärungen sind auf Englisch."
+published: '2025-07-02'
+updated: '2026-11-02'
 ---
-## Warum die PPWR wichtig ist
+> **Kurz gesagt**
+>
+> * Die PPWR, Verordnung (EU) 2025/40, gilt seit dem 12. August 2026 in der gesamten EU. Paletten fallen als Transportverpackungen darunter.
+> * Ab 2030 müssen mindestens 40 % der Transportverpackungen innerhalb der EU wiederverwendbar sein. Zwischen eigenen Standorten oder innerhalb eines Mitgliedstaats sind es grundsätzlich 100 %.
+> * Ab 2030 müssen Verpackungen in Stufe A, B oder C recyclingfähig sein. Stufe C bedeutet mindestens 70 %.
+> * Kunststoffverpackungen müssen ab 2030 zum Teil aus Rezyklat bestehen.
+> * Unsere Standardpaletten bestehen aus recyceltem HDPE (2) und PP (5) und sind am Ende ihrer Lebensdauer vollständig recycelbar.
 
-- **Wiederverwendbarkeit**: Verpackungen müssen für den Mehrfacheinsatz ausgelegt sein.
-- **Recycelbarkeit**: Verpackungen müssen vollständig recycelbar sein (mindestens Klasse B).
-- **Mindestanteil an Rezyklat**: Verpackungen müssen teilweise aus recyceltem Material bestehen.
+## Was ist die PPWR?
 
-### Was bedeutet Recycelbarkeit Klasse B?
+Die PPWR (Packaging and Packaging Waste Regulation) ist die EU-Verpackungsverordnung, Verordnung (EU) 2025/40. Sie ist Teil des europäischen Green Deals und verfolgt ein klares Ziel: weniger Verpackungsabfall und mehr Kreislaufwirtschaft.
 
-Klasse B bedeutet, dass eine Verpackung unter normalen Sammel-, Sortier- und Recyclingbedingungen zu einem Rezyklat verarbeitet werden kann, das in neuen Produkten verwendet werden darf. Klasse A ist optimal (geschlossener Kreislauf möglich), Klasse B ist gut recycelbar mit minimalem Qualitätsverlust.
+Die Verordnung ist im Februar 2025 in Kraft getreten und gilt seit dem 12. August 2026. Als Verordnung gelten ihre Regeln unmittelbar und in allen Mitgliedstaaten gleich. Einen Überblick nach Artikeln finden Sie in unserem Ratgeber [PPWR und Kunststoffpaletten](@guide-ppwr).
 
-Besonders betroffen sind Transportverpackungen wie Paletten, Kisten und Industriebehälter. Sie sind zwar für Verbraucher oft unsichtbar, stellen aber ein erhebliches Volumen an Materialströmen dar.
+## Warum die PPWR auch Paletten betrifft
 
-## Was ändert sich – und wann
+Paletten, Kisten und andere Transportverpackungen bleiben für Verbraucher meist unsichtbar. Trotzdem geht es um große Materialströme. Deshalb nennt die PPWR Paletten ausdrücklich bei den Wiederverwendungszielen für Transportverpackungen.
 
-Die PPWR bringt verbindliche Ziele und Fristen bis 2040. Wichtige Meilensteine:
+Für Paletten sind drei Arten von Anforderungen besonders wichtig:
 
-### Ab dem 12. August 2026
+* **Wiederverwendung.** Transportverpackungen müssen zunehmend wiederverwendbar und Teil eines Wiederverwendungssystems sein.
+* **Recyclingfähigkeit.** Verpackungen müssen so gestaltet sein, dass sie sich gut recyceln lassen.
+* **Rezyklatanteil.** Kunststoffverpackungen müssen zum Teil aus recyceltem Material bestehen.
 
-- Die PPWR gilt in der gesamten EU.
+### Was bedeuten die Recyclingfähigkeitsstufen A, B und C?
 
-### Ab dem 1. Januar 2030
+Ab 2030 müssen Verpackungen in Stufe A, B oder C recyclingfähig sein. Die Stufe zeigt, wie gut sich eine Verpackung nach Sammlung und Sortierung wieder zu verwertbarem Material verarbeiten lässt. Stufe A ist die höchste Stufe. Stufe C ist die Untergrenze: eine Recyclingfähigkeit von mindestens 70 %.
 
-- Alle Transportverpackungen müssen **mindestens Klasse B recycelbar** sein.
-- B2B-Verpackungen innerhalb eines Mitgliedstaates oder zwischen Standorten desselben Unternehmens müssen **100 % wiederverwendbar** sein.
-- Alle Transportverpackungen müssen zu **40 % wiederverwendbar** sein.
-- Kunststoffverpackungen müssen **10–35 % Rezyklatanteil** enthalten (je nach Typ).
+## Was ändert sich – und wann?
 
-### Ab dem 1. Januar 2040
+Die PPWR legt verbindliche Ziele und Fristen bis 2040 fest. Das sind die wichtigsten Meilensteine für Transportverpackungen:
 
-- **70 % Wiederverwendbarkeit** für alle Transportverpackungen.
-- **25–65 % Rezyklatanteil** erforderlich.
+| Wann | Was gilt |
+|---|---|
+| Februar 2025 | Die PPWR tritt in Kraft. |
+| 12. August 2026 | Die PPWR gilt in der gesamten EU. |
+| 12. August 2028 | Eine harmonisierte Materialkennzeichnung folgt, sobald die Durchführungsrechtsakte vorliegen. |
+| 1. Januar 2030 | Mindestens 40 % der Transportverpackungen innerhalb der EU sind wiederverwendbar und Teil eines Wiederverwendungssystems. |
+| 1. Januar 2030 | Zwischen eigenen Standorten, innerhalb Ihres Konzerns oder innerhalb eines Mitgliedstaats gilt grundsätzlich 100 % Wiederverwendung, mit einigen Ausnahmen. |
+| 2030 | Verpackungen sind in Stufe A, B oder C recyclingfähig. |
+| 2030 | Kunststoffverpackungen enthalten 10 bis 35 % Rezyklat, je nach Art der Verpackung. |
+| 2040 | Zielwert von 70 % wiederverwendbaren Transportverpackungen. Kunststoffverpackungen enthalten 25 bis 65 % Rezyklat. |
 
 ## Was bedeutet das für Paletten?
 
-Paletten sind oft das Rückgrat der B2B-Logistik – und dennoch werden sie selten strategisch betrachtet. Das muss sich ändern.
+Paletten sind das Rückgrat der B2B-Logistik, werden aber selten strategisch betrachtet. Die PPWR ändert das. Die Wahl der Palette hängt nun direkt mit gesetzlichen Anforderungen zusammen.
 
-- **Holzpaletten** sind schwerer zu recyceln, können Splitter oder Verunreinigungen verursachen und sind nicht zirkulär – es sei denn, sie sind Teil eines streng kontrollierten Pools.
-- **[Kunststoffpaletten](@pallets) aus Recyclingmaterial**, wie die von Q-Pall, erfüllen bereits viele PPWR-Anforderungen: hygienisch, wiederverwendbar, vollständig recycelbar (Klasse A oder B) und hergestellt aus recyceltem Kunststoff (RIC-Code 2).
+### Mehrwegpaletten
 
-## Strategischer Hebel
+Für Palettenströme innerhalb der EU wird die Wiederverwendung zur Regel. Denken Sie an Paletten, die zwischen Ihren eigenen Standorten pendeln, oder an Paletten in einem [Pool](@sector-pooling). Eine Kunststoffpalette hält viele Jahre und ist dafür gemacht, immer wieder eingesetzt zu werden. Damit passt sie gut zum Wiederverwendungsziel.
 
-Für C-Level-Entscheider, Betriebsleiter und Einkaufsverantwortliche bietet sich jetzt die Chance: Paletten sind keine bloße Commodity mehr, sondern ein Hebel für:
+### Einwegpaletten und Export
 
-- **Kosteneinsparungen** bei den Total Cost of Ownership
-- **Nachhaltigkeitsgewinne** in Berichten und KPIs
-- **Markenpositionierung** als ESG-Innovator
+Nicht jede Palette kommt zurück. Für Sendungen außerhalb der EU wählen viele Unternehmen eine leichte [Einwegpalette](@type-export), die beim Empfänger bleibt. Eine solche Einwegpalette zählt nicht für das Wiederverwendungsziel. Die Anforderungen an die Recyclingfähigkeit gelten aber trotzdem. Unsere Einwegpaletten bestehen aus recyceltem Kunststoff und sind am Ende ihrer Lebensdauer vollständig recycelbar.
 
-Wer jetzt in die richtige Transportverpackung investiert, sichert nicht nur die Einhaltung der Vorschriften, sondern nutzt die PPWR als Motor für nachhaltige Transformation.
+### Holzpaletten
 
-## Fazit: Jetzt ist der richtige Zeitpunkt
+Auch Holzpaletten können wiederverwendbar sein, vor allem in einem gut verwalteten Pool. Sie nehmen jedoch Feuchtigkeit auf, können splittern und brauchen für den Export außerhalb der EU oft eine Behandlung nach ISPM 15. Die Unterschiede im Überblick lesen Sie in [Kunststoff- oder Holzpaletten?](@guide-wood)
 
-Die PPWR ist eindeutig: Wer nicht handelt, wird abgehängt. Wer aber vorausschauend handelt, sichert sich Vorteile. Transportverpackungen wie Paletten sind keine Nebensache mehr – sondern ein strategischer Ausgangspunkt.
+## Kunststoffpaletten von Q-Pall und die PPWR
+
+* **Recyceltes Material.** Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff: einer Mischung aus HDPE (Kunststoffcode 2) und PP (Kunststoffcode 5).
+* **Eine Materialfamilie.** HDPE und PP sind beide Polyolefine und werden im Recycling oft gemeinsam verarbeitet. Am Ende ihrer Lebensdauer sind unsere Paletten vollständig recycelbar.
+* **Rücknahme.** Wir nehmen gebrauchte Paletten zurück, zur Wiederverwendung über [Q-Used](@used) oder zum Recycling als Rohstoff für neue Paletten.
+* **Dokumentation.** Für jede Palettengruppe haben wir eine EU-Konformitätserklärung erstellt. Für die meisten Modelle laden Sie sie direkt auf der Produktseite herunter, zusammen mit dem technischen Datenblatt.
 
 ## Ist Ihr Unternehmen bereit für die PPWR?
+
+Mit diesen vier Schritten ermitteln Sie, was die PPWR für Ihre Paletten bedeutet:
+
+1. **Erfassen Sie Ihre Palettenströme.** Welche Paletten zirkulieren innerhalb der EU, welche kommen zurück und welche gehen einmalig über die Grenze?
+2. **Setzen Sie wo möglich auf Mehrweg.** Für feste Ströme zwischen eigenen Standorten oder innerhalb eines Mitgliedstaats gilt ab 2030 grundsätzlich 100 % Wiederverwendung.
+3. **Fordern Sie Dokumentation an.** Halten Sie Konformitätserklärung und Materialzusammensetzung je Palettenmodell fest.
+4. **Rechnen Sie in Kosten pro Umlauf.** Eine Palette, die öfter im Einsatz ist, senkt Kosten und Verpackungsabfall zugleich. Das stärkt auch Ihre Nachhaltigkeitsberichterstattung.
+
+Dieser Artikel ist eine Zusammenfassung und keine Rechtsberatung.
+
+Sie möchten wissen, welche Paletten unter der PPWR zu Ihren Warenströmen passen? [Nehmen Sie Kontakt mit uns auf](@contact), wir beraten Sie gern.

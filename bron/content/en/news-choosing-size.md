@@ -1,31 +1,57 @@
 ---
 id: news-choosing-size
 title: "Choosing the right pallet size: what to look for – Q-Pall"
-description: "The right pallet size starts with the load: what it is, how it is packaged and its dimensions. Find out what to consider, including load capacity."
+description: "Which pallet size do you need? Find out how your load, transport, storage and automation determine which size of plastic pallet suits you best."
 eyebrow: "News"
 tag: "Know-how"
 crumb: "Choosing the right pallet size"
 h1: "Choosing the right pallet size: **what to look for**"
-lead: "The right pallet size starts with the load: what it is, how it is packaged and its dimensions. Find out what to consider, including load capacity."
-img_alt: "Choosing the right pallet size: what to look for"
+lead: "Which pallet size do you need? That depends on your load, your transport, the way you store goods and any automation. Here is what to look for when choosing the right size."
+img_alt: "Black plastic pallet with an open deck on three runners"
 reading: 3
+faq:
+- q: "What is the most commonly used pallet size?"
+  a: "In Europe, it is the euro pallet of 1200 x 800 mm. In industry and in the United Kingdom, 1200 x 1000 mm is widely used."
+- q: "Which pallet size fits in a shipping container?"
+  a: "For shipping containers, square pallets of 1100 x 1100 mm and pallets of 760 x 1140 mm are practical. Which size fits best depends on the type of container."
+- q: "Can Q-Pall make a pallet in a non-standard size?"
+  a: "No, we do not make completely new pallet designs. With around 130 models in nine sizes, there is usually a suitable size. We do adapt existing models, for example with a logo or your own colour."
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-When you need pallets, it is important that you make the right choice. This choice depends on a number of aspects. Of course, the intended purpose of the pallets is a part of this choice process. When choosing plastic pallets, for instance, it is possible to choose a special hygienic pallet. Another point to keep in mind is the load capacity. And you need to choose the right size of the pallet. But what should you look for when determining the right size?
+> **In short**
+>
+> * The right pallet size starts with your load: what it is, how it is packaged and how big it is.
+> * The size must also suit your trucks, containers and racking.
+> * In an automated warehouse, pallets must have exactly the size the systems are set up for.
+> * Q-Pall has around 130 models in nine sizes, from 600 x 400 to 1300 x 1100 mm.
 
-## What is the load of the pallet?
+When you need pallets, you want to make the right choice. What will you use the pallets for, how heavy is the load and does the pallet need to be hygienic, for example? And which size do you need? This article focuses on that last question. You will find all standard sizes in our overview of [pallet sizes](@guide-sizes).
 
-The first thing to determine is what the pallets are going to be used for. What is the load they will carry? Are these containers, big-bags, barrels containing liquids, or cooled products, and is hygiene a requirement? This largely determines the type of pallet you need. Based on the load, you determine the right size. How is the load packaged and what are its dimensions? Each type of pallet is available in various sizes, so there is almost always an appropriate size for you.
+## What will the pallet carry?
 
-## Are the pallets used in an automated storage?
+First, determine what the pallets will carry. Are they boxes, containers, big bags or drums of liquid? Or chilled products where hygiene is a requirement? This largely determines which type of pallet you need.
 
-If the plastic pallets are used in an environment where the processes of storage and transport are automated, it is important that the size of the pallets matches this. In an automated warehouse, this avoids size and shape malfunctions in the process. Therefore, make sure you choose the most common desired size, so that everything you store in this environment fits the pallets. This saves you a lot of work.
+Then look at the packaging: how is the load packaged and how large is it? Choose a size that the packaging fits on well. Big bags and drums, for example, often stand on a square pallet of 1140 x 1140 or 1200 x 1200 mm.
 
-## How are the pallets stored?
+## Does the size suit your transport?
 
-The plastic pallets are used for transport, but many customers also use them for the storage of goods and products. An essential aspect, then, is how these are stored. On the floor, in a certain type of pallet rack, or outdoors? It is important to consider this. For instance, is it necessary to stack the pallets and which sizes are suitable for this? Our staff and the Q-Pall dealers can of course – thanks to their years of experience and thorough knowledge of the market and developments – provide you with the right product advice.
+The pallets also need to fit in your trucks, trailers and containers. In Europe, [1200 x 800 mm](@size-1200x800) is the standard size: the euro pallet. In industry and the United Kingdom, 1200 x 1000 mm is common. For shipping containers, 1100 x 1100 and 760 x 1140 mm are practical. You can work out how many pallets fit in your truck or container with our [load calculator](@calc).
 
-## Custom-made
+## Will the pallets be used in an automated warehouse?
 
-There is a wide range of pallets, with a specific pallet for every application. The range includes more than 100 products, which are available in various sizes and colours. If the plastic pallet you want is not available, it is also possible to have it custom-made. In addition to its standard programme of plastic pallets, Q-Pall creates custom-made plastic pallets based on customer specifications.
+Do you work with automated storage and transport, such as roller conveyors, AGVs or crane systems? Then the pallets must match the dimensions those systems are set up for exactly. A pallet that deviates in size or shape can bring the process to a halt.
 
-In short, plastic pallets are available for all load types in various sizes. Do you want to know what pallets or other products are suitable for you? Please feel free to contact for more information. We are happy to assist you!
+So choose a size that suits most of what you store in this environment. Plastic pallets have fixed dimensions and do not warp due to moisture. Read more about [plastic pallets for automation](@guide-automation).
+
+## How will the pallets be stored?
+
+Many customers use pallets not only for transport but also for storage. How you store them then plays a role. Will the pallets stand on the floor, in pallet racking or outdoors? Will they be stacked, and which sizes suit that? For racking storage, also check the racking load of the model. Our specialists and dealers will be happy to advise you on the right model.
+
+## Our range and custom options
+
+Our range includes around 130 models in nine sizes, from 600 x 400 to 1300 x 1100 mm, in three load classes: light, medium and heavy. So there is almost always a suitable size.
+
+We do not make completely new pallet designs. We do adapt existing models, for example with a logo, your own colour, a marking or a different material composition. Read more about [custom pallets](@about-custom).
+
+Would you like to know which size and model suit your load? [Request a quote](@quote) and you will usually receive a tailored price within one working day.

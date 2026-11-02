@@ -1,43 +1,76 @@
 ---
 id: news-local-resilience
 title: "Van globale afhankelijkheid naar lokale veerkracht – Q-Pall"
-description: "Lokale productie maakt uw supply chain minder afhankelijk van mondiale verstoringen en geopolitieke risico's. Lees waarom echte veerkracht lokaal begint."
+description: "Wereldwijde ketens bleken kwetsbaar. Zo maakt lokale productie van pallets u minder afhankelijk: kortere levertijden, lokaal recyclaat en een lagere TCO."
 eyebrow: "Nieuws"
 tag: "Supply chain"
-crumb: "Van globale afhankelijkheid naar lokale"
+crumb: "Van afhankelijkheid naar veerkracht"
 h1: "Van globale afhankelijkheid **naar lokale veerkracht**"
-lead: "De wereldeconomie bevindt zich in een overgangsfase. De decennialange focus op globalisering – waar productie werd uitbesteed aan de laagste bieder, ongeacht locatie – heeft zijn grenzen bereikt. Van verstoringen in de containerlogistiek tot internationale handelsspanningen en grondstoftekorten: bedrijven hebben meer dan ooit ervaren hoe fragiel geglobaliseerde ketens kunnen zijn."
-img_alt: "Van globale afhankelijkheid naar lokale veerkracht"
-reading: 3
+lead: "Jarenlang ging productie naar de laagste bieder, waar ook ter wereld. Verstoorde containerlogistiek, handelsspanningen en grondstoftekorten lieten zien hoe kwetsbaar dat is. Veerkracht begint dichter bij huis."
+img_alt: "Productiehal met spuitgietmachines en robots in een fabriek van Q-Pall"
+reading: 4
+updated: '2026-11-02'
 ---
-Voor supply chain-directeuren, COO’s en sustainability leaders is dit hét moment om koers te zetten richting veerkracht. En veerkracht begint lokaal.
+> **In het kort**
+>
+> * De jarenlange focus op goedkope productie ver weg heeft ketens kwetsbaar gemaakt.
+> * Lokale productie maakt u minder afhankelijk van havens, lange routes en geopolitieke risico's.
+> * Lokaal ingekocht recyclaat betekent kortere aanvoerlijnen en beter zicht op de herkomst.
+> * Wie rekent met de totale kosten (TCO), ziet dat stabiliteit en snelheid geld opleveren.
+> * Q-Pall produceert in zes Europese fabrieken en levert binnen dagen in plaats van weken.
 
-Lokale productie is geen tijdelijke oplossing voor een wereldwijd probleem. Het is een structurele heroriëntatie die bedrijven toekomstbestendig maakt – strategisch, operationeel én duurzaam.
+## Waarom globale ketens kwetsbaar zijn
 
-## Lokale productie: drie strategische voordelen
+Decennialang draaide globalisering om één vraag: waar is het goedkoopst? Productie ging naar de laagste bieder, ongeacht de locatie. Dat model heeft zijn grenzen bereikt.
 
-1. **Minder afhankelijkheid van mondiale verstoringen **In een tijd waarin betrouwbaarheid belangrijker is dan ooit, biedt lokale productie tastbare voordelen: **Korte, voorspelbare levertijden**: Geen wachtrijen in havens of grenscontroles, maar directe levering vanuit regionale hubs.
-2. **Minder kwetsbaarheid voor geopolitieke risico’s**: Oorlogen, sancties of exportrestricties hebben minder impact als je dichter bij huis produceert.
-3. **Betere grip op voorraad en flexibiliteit**: Lokale productie stelt je in staat om snel op te schalen of af te schalen bij plotselinge veranderingen in de vraag.
+Verstoringen in de containerlogistiek, handelsspanningen en grondstoftekorten lieten zien hoe snel een lange keten hapert. Voor supply chain-directeuren, COO's en duurzaamheidsmanagers is dit het moment om te kiezen voor veerkracht.
 
-*In de praktijk*: Q-Pall produceert [kunststof pallets](@pallets) in zes Europese landen. Daardoor kunnen we leveren binnen dagen in plaats van weken – cruciaal in sectoren waar leverbetrouwbaarheid directe invloed heeft op de continuïteit.
+Lokale productie is daarbij geen tijdelijke noodoplossing. Het is een structurele keuze die een keten strategisch, operationeel en duurzaam sterker maakt. Hoe nearshoring past in een bredere strategie, leest u in [lokale productie als pijler voor een wendbare keten](@news-local).
 
-1. **CO₂-reductie én sterke ESG-prestaties door lokaal sourcen **Wat vaak onderbelicht blijft, maar van cruciaal belang is: niet alleen de locatie van productie, maar ook de herkomst van grondstoffen bepaalt de echte duurzaamheidsimpact. **Lokaal sourcen van gerecyclede kunststoffen** betekent kortere aanvoerlijnen, minder uitstoot en een bijdrage aan de circulaire economie.
-2. Het vergroot de **transparantie en traceerbaarheid** in je materiaalgebruik – essentieel voor geloofwaardige ESG-rapportages.
-3. Door gebruik te maken van lokale reststromen, **ondersteun je regionale recyclingindustrieën** én versterk je je maatschappelijke relevantie.
+## Drie voordelen van lokale productie
 
-*Q-Pall case:* Wij gebruiken uitsluitend RIC code 2 kunststof – volledig recyclebaar en lokaal ingekocht. Alleen al in het afgelopen jaar verwerkten we enkele 10.000 tonnen gerecyclede materialen uit Europa. Dat is goed voor zo’n 1.400 volle vrachtwagens die níét vanuit verre continenten hoefden te komen.
+### Minder afhankelijk van wereldwijde verstoringen
 
-1. **Kostenefficiëntie door stabiliteit en snelheid **Hoewel lokale productie soms duurder lijkt op papier, levert het structureel voordeel op: **Lagere transportkosten**: Korte afstanden en directe leveringen drukken de logistieke kosten aanzienlijk.
-2. **Hogere leverbetrouwbaarheid** voorkomt voorraadoverschotten, spoedleveringen of uitval door tekorten.
-3. **Kwaliteitsborging en minder faalkosten**: Door nauwere samenwerking met lokale productiepartners verbeter je procescontrole en verminder je retourstromen.
+* **Korte, voorspelbare levertijden.** Geen wachtrijen in havens of bij grenscontroles, maar levering vanuit een fabriek in de regio.
+* **Minder geopolitiek risico.** Oorlogen, sancties en exportbeperkingen raken u minder als er dichter bij huis wordt geproduceerd.
+* **Meer flexibiliteit.** U kunt sneller op- of afschalen als de vraag plotseling verandert.
 
-*Wat klanten merken*: Klanten van Q-Pall rapporteren een daling in faalkosten, minder voorraadbuffer en vooral: rust in hun supply chain. Dat vertaalt zich direct naar een lagere **Total Cost of Ownership**.** **
+In de praktijk maakt Q-Pall kunststof pallets in [zes fabrieken in zes Europese landen](@about-local). Daardoor leveren we binnen dagen in plaats van weken. Dat telt vooral in sectoren waar leverbetrouwbaarheid direct bepaalt of de productie doorloopt.
+
+### Lokaal recyclaat: kortere aanvoer en meer transparantie
+
+Niet alleen de plek van productie bepaalt de impact, ook de herkomst van de grondstof.
+
+* **Kortere aanvoerlijnen.** Gerecycled kunststof uit de regio hoeft niet van een ander continent te komen.
+* **Beter zicht op de herkomst.** U weet waar het materiaal vandaan komt. Dat is belangrijk voor een geloofwaardige ESG-rapportage.
+* **Steun voor regionale recycling.** Wie lokale reststromen gebruikt, versterkt de recyclingbedrijven in de eigen regio.
+
+Onze standaardpallets maken we van bijna 100% gerecycled kunststof: een mix van HDPE (code 2) en PP (code 5). In 2025 verwerkten we 34.500 ton gerecycled kunststof uit Europa. Dat zijn zo'n 1.475 volle vrachtwagens grondstof die niet van een ander continent hoefden te komen. Wat dit betekent voor CO₂ en transport, leest u in [lokale productie van kunststof pallets en duurzaamheid](@news-local-sustainability).
+
+### Lagere totale kosten door stabiliteit en snelheid
+
+Op papier lijkt lokale productie soms duurder. In de praktijk levert ze structureel voordeel op:
+
+* **Lagere transportkosten.** Korte afstanden en directe leveringen drukken de logistieke kosten.
+* **Hogere leverbetrouwbaarheid.** Dat voorkomt te grote voorraden, spoedleveringen en stilstand door tekorten.
+* **Minder faalkosten.** Korte lijnen met de producent maken het makkelijker om de kwaliteit te bewaken en retouren te beperken.
+
+Klanten vertellen ons dat ze minder faalkosten hebben, minder buffervoorraad nodig hebben en vooral rust ervaren in hun keten. Dat ziet u terug in een lagere **Total Cost of Ownership (TCO)**. Hoe u rekent in kosten per omloop, leest u in [wat kost een kunststof pallet?](@guide-prices)
+
+## Hoe afhankelijk is uw palletstroom?
+
+Een eerste check voor uw eigen keten. Stel uzelf deze vragen:
+
+* Waar worden uw pallets gemaakt, en hoe ver is dat van uw locaties?
+* Hoe vaak schoof de levertijd op in het afgelopen jaar?
+* Via welke havens of routes komen ze binnen, en is er een alternatief?
+* Waar komt de grondstof vandaan, en kunt u dat aantonen in uw rapportage?
+* Wat kost een tekort u: spoedtransport, stilstand of gemiste leveringen?
 
 ## Strategisch sturen in een nieuwe realiteit
 
-De toekomst van supply chains is niet langer puur globaal of puur lokaal. Het draait om slimme spreiding, strategische partnerships en directe impact op duurzaamheid en efficiency. Lokale productie én lokaal sourcen zijn daarin geen bijzaak, maar cruciale bouwstenen van een robuuste ketenstrategie.
+De toekomst van supply chains is niet puur globaal of puur lokaal. Het draait om slimme spreiding, sterke partnerschappen en aandacht voor duurzaamheid en efficiëntie. Lokaal produceren en lokaal inkopen zijn daarin bouwstenen van een robuuste ketenstrategie.
 
-Bij Q-Pall geloven we dat elk logistiek middel – zelfs de vaak vergeten pallet – een strategische hefboom kan zijn voor innovatie, risicobeheersing en duurzame groei. Door lokaal te produceren met lokaal gerecyclede materialen en leveringszekerheid als prioriteit, helpen we bedrijven bouwen aan een circulaire, veerkrachtige supply chain.
+Ook een logistiek middel dat vaak over het hoofd wordt gezien, zoals de pallet, kan een hefboom zijn voor risicobeheersing en duurzame groei. Daarom produceren we lokaal, met gerecycled kunststof uit Europa en met leverzekerheid als prioriteit.
 
-**Benieuwd hoe lokale productie en sourcing jouw keten sterker, duurzamer en winstgevender maakt?** Neem contact met ons op voor CO₂-besparing in jullie logistiek. Samen brengen we jouw supply chain in topconditie.
+Wilt u weten hoe lokale productie uw palletstroom zekerder en duurzamer maakt? [Neem contact met ons op](@contact), dan bekijken we samen uw situatie.

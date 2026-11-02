@@ -1,7 +1,7 @@
 ---
 id: home
-title: "Q-Pall - palets de material reciclado"
-description: "Q-Pall diseña palets de material reciclado que se fabrican cerca del cliente en Europa. Para la industria, la logística y el pooling."
+title: "Q-Pall - palets de plástico reciclado"
+description: "Q-Pall diseña palets de plástico reciclado que se fabrican cerca del cliente en Europa. Para la industria, la logística y el pooling."
 hero:
   eyebrow: "Fabricante de palets sostenibles desde 2005"
   h1: "Palets reutilizables de **plástico reciclado**"
@@ -162,14 +162,14 @@ cases:
     - {id: news-stackup, client: "Kwakman Afbouw · construcción", title: "70% menos desplazamientos", text: "Juntos desarrollamos el Stack-Up Pallet para la obra: menos cargas, menos residuos y acabados más rápidos."}
     - {id: news-covid, client: "Transporte de vacunas · farmacia", title: "Palets para las vacunas COVID", text: "A través de su socio Goplasticpallets.com, Q-Pall suministró el 1208 HR 5R para el transporte de vacunas a, entre otros, Estados Unidos, China y Corea del Sur."}
     - {id: news-goodwood, client: "Goodwood Festival of Speed", title: "Coches eléctricos sobre un palet", text: "En el festival, el palet heavy duty QP1210 HR 5R soportó coches eléctricos gracias a una carga estática de 7.500 kg."}
-    - {id: news-goplastic, client: "Goplasticpallets.com · Reino Unido", title: "Diez años de colaboración", text: "Goplasticpallets.com es desde hace diez años el distribuidor exclusivo de Q-Pall en el Reino Unido."}
+    - {id: news-goplastic, client: "Goplasticpallets.com · Reino Unido", title: "Diez años de colaboración", text: "En 2022, Q-Pall y su socio británico Goplasticpallets.com celebraron diez años de colaboración."}
 faq:
   - q: "¿Por qué elegir palets de plástico?"
     a: "Los palets de plástico duran mucho más que los de madera, no absorben humedad y no tienen astillas ni clavos. Tienen dimensiones fijas y un peso constante, algo importante para la automatización. Además, están exentos de la norma ISPM 15 para la exportación. Más información en [plástico o madera](@guide-wood)."
   - q: "¿Son sostenibles los palets de Q-Pall?"
     a: "Sí. Nuestros palets estándar están fabricados con plástico casi 100% reciclado y son totalmente reciclables al final de su vida útil. Producimos localmente en seis fábricas europeas, por lo que se necesita menos transporte."
   - q: "¿Cuánto cuesta un palet de plástico?"
-    a: "Un palet expositor de 600 x 400 mm cuesta unos pocos euros, un europalet encajable desde unos seis euros y un palet de uso intensivo desde unos 24 euros, IVA y transporte no incluidos. Consulte todos los precios desde en nuestra [guía de precios](@guide-prices)."
+    a: "Un palet expositor de 600 x 400 mm cuesta unos pocos euros, un europalet encajable desde unos seis euros y un palet de uso intensivo desde unos 24 euros, IVA y transporte no incluidos. Consulte todos los precios de partida en nuestra [guía de precios](@guide-prices)."
   - q: "¿Con qué rapidez puede entregar Q-Pall?"
     a: "Tenemos en stock los modelos más demandados en cada fábrica. El plazo de entrega depende del modelo, la cantidad y la ubicación. [Solicite un presupuesto](@quote) y normalmente le diremos en un día laborable qué es posible."
   - q: "¿Entregan fuera de los Países Bajos?"

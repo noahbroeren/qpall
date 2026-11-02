@@ -1,17 +1,37 @@
 ---
 id: news-goodwood
 title: "Pole-Position beim Goodwood Festival of Speed – Q-Pall"
-description: "Beim Goodwood Festival of Speed trug die Schwerlastpalette QP1210 HR 5R mit 7.500 kg statischer Belastung Elektroautos wie den Rimac Nevera."
+description: "Beim Goodwood Festival of Speed standen Elektroautos auf unserer Schwerlast-Kunststoffpalette QP1210 HR 5R mit 7.500 kg statischer Belastbarkeit."
 eyebrow: "Aktuelles"
 tag: "Veranstaltung"
-crumb: "Pole-Position beim Goodwood Festival of"
+crumb: "Goodwood Festival of Speed"
 h1: "Kunststoffpaletten auf der Pole-Position **beim Goodwood Festival of Speed**"
-lead: "Beim Goodwood Festival of Speed trug die Schwerlastpalette QP1210 HR 5R mit 7.500 kg statischer Belastung Elektroautos wie den Rimac Nevera."
-img_alt: "Kunststoffpaletten auf der Pole-Position beim Goodwood Festival of Speed"
-reading: 1
+lead: "Beim Goodwood Festival of Speed in England standen Elektroautos auf Schwerlast-Kunststoffpaletten von Q-Pall. Kein Rennen, aber ein echter Test für die QP1210 HR 5R."
+img_alt: "Elektroautos von e.GO, Kia, Jaguar und Rimac auf schwarzen Kunststoffpaletten beim Goodwood Festival of Speed"
+reading: 2
+published: '2021-12-10'
+updated: '2026-11-02'
 ---
-Letzte Woche waren unsere hochbelastbaren [Kunststoffpaletten](@pallets) auf dem Goodwood Festival of Speed zu sehen. Sie werden nicht um die Haarnadelkurven gefahren, sondern auf Herz und Nieren geprüft, indem alle Elektrofahrzeuge gezeigt werden, die ihre extreme Haltbarkeit demonstrieren!
+> **Kurz gesagt**
+>
+> * Beim Goodwood Festival of Speed wurden Elektroautos auf Schwerlast-Kunststoffpaletten von Q-Pall präsentiert.
+> * Eingesetzt wurde die QP1210 HR 5R mit einer statischen Belastbarkeit von 7.500 kg.
+> * Auf den Paletten standen unter anderem ein e.GO, ein Kia EV6, ein Jaguar und der Rimac Nevera.
+> * Die Paletten kamen über unseren britischen Partner und Händler Goplasticpallets.com.
+> * Die Palette besteht aus recyceltem Kunststoff.
 
-Mit besonderem Dank an unseren britischen Distributor Goplasticpallets. Hier gab es alles: Vom Jaguar F-Pace und dem Kia EV6 bis hin zum e.GO und dem Rimac Nevera mit etwas „größerem Budget“, von dem nur 150 Stück hergestellt werden, jeweils zu einem Preis von rund 2,4 Millionen US-Dollar. Alle nahmen ihre Plätze auf dem [Kunststoffpaletten](@pallets)-Podium für eines der spannendsten Events im Motorsport-Kalender ein.
+## Ein Podium aus Kunststoffpaletten
 
-Star der Show war natürlich unsere [Schwerlastpalette](@size-1200x1000) QP1210 HR 5R. Mit einer statischen Belastung von 7.500 kg war das Gewicht dieser innovativen Fahrzeuge für diese branchenübergreifend konzipierte Kunststoffpalette kein Problem! Darüber hinaus ist sie die verantwortungsvolle Wahl für Ihre Logistik und Lagerung, da sie aus recyceltem Kunststoff hergestellt wird. Überzeugen Sie sich selbst von der Q-Pall 1210 HR 5R oder rufen Sie Q-Pall oder Ihren Händler vor Ort an, um kompetente Beratung für Ihre Anwendung zu erhalten.
+Das Goodwood Festival of Speed ist eine der bekanntesten Veranstaltungen im Motorsportkalender. Unsere Schwerlast-Kunststoffpaletten fuhren dort nicht durch die Haarnadelkurven. Stattdessen trugen sie die Elektroautos, die auf dem Festival gezeigt wurden, und bewiesen so ihre Stabilität.
+
+Möglich wurde das dank unseres [britischen Partners und Händlers Goplasticpallets.com](@news-goplastic).
+
+Vom e.GO und dem Kia EV6 bis zu einem Jaguar und dem Rimac Nevera: Alle standen auf einem Podium aus Kunststoffpaletten. Der Rimac Nevera fiel durch seinen Preis auf. Von diesem elektrischen Hypercar sollten nur 150 Exemplare gebaut werden, zu rund 2,4 Millionen US-Dollar pro Stück.
+
+## Star der Show: die QP1210 HR 5R
+
+Die QP1210 HR 5R ist eine [Schwerlast-Kunststoffpalette](@class-heavy) im Format [1200 x 1000 mm](@size-1200x1000) mit einer statischen Belastbarkeit von 7.500 kg. Das ist die Last, die eine Palette trägt, wenn sie ruhig auf einem ebenen Boden steht. Das Gewicht dieser Autos war für die Palette deshalb kein Problem. Mehr über statische, dynamische und Regalbelastung lesen Sie auf unserer Seite über [die Tragfähigkeit von Kunststoffpaletten](@about-load).
+
+Die Palette ist für den Einsatz in vielen Branchen konstruiert. Und weil sie aus recyceltem Kunststoff besteht, ist sie eine verantwortungsvolle Wahl für Ihre Logistik und Lagerung.
+
+Möchten Sie die QP1210 HR 5R oder eine andere Schwerlastpalette einsetzen? [Nehmen Sie Kontakt mit uns auf](@contact), wir beraten Sie gern zu Ihrer Anwendung.

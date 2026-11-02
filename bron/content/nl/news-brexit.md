@@ -1,36 +1,63 @@
 ---
 id: news-brexit
-title: "Brexit: kunststof pallets voor import en export – Q-Pall"
-description: "Na de brexit gelden andere eisen voor houten pallets van buiten de EU. Lees waarom kunststof pallets van Q-Pall een oplossing zijn voor import en export."
+title: "Brexit: kunststof pallets in de handel met het VK – Q-Pall"
+description: "Sinds de brexit moeten houten pallets in de handel met het VK voldoen aan ISPM 15. Kunststof pallets niet. Q-Pall maakt pallets ook in Chesterfield (VK)."
 eyebrow: "Nieuws"
 tag: "Supply chain"
-crumb: "Brexit: kunststof pallets voor import en"
-h1: "Kunststof pallets: **een oplossing voor import en export na de brexit**"
-lead: "Na de brexit gelden andere eisen voor houten pallets van buiten de EU. Lees waarom kunststof pallets van Q-Pall een oplossing zijn voor import en export."
-img_alt: "Kunststof pallets: een oplossing voor import en export na de brexit"
+crumb: "Pallets na de brexit"
+h1: "Brexit en pallets: **wat geldt er in de handel met het VK?**"
+lead: "Sinds de brexit is het VK voor pallets een land buiten de EU. Houten pallets moeten daarom voldoen aan ISPM 15, kunststof pallets niet. Bovendien maakt Q-Pall kunststof pallets in het VK zelf, in Chesterfield."
+img_alt: "Bord in de stijl van de Londense metro met het woord Brexit, voor een Britse vlag"
 reading: 3
+faq:
+- q: "Moeten houten pallets naar het VK voldoen aan ISPM 15?"
+  a: "Ja. Sinds het einde van de overgangsperiode op 31 december 2020 moeten houten pallets in de handel tussen de EU en het VK zijn behandeld en gestempeld volgens ISPM 15, in beide richtingen."
+- q: "Hebben kunststof pallets een ISPM 15-stempel nodig voor het VK?"
+  a: "Nee. ISPM 15 geldt alleen voor verpakkingen van massief hout. Kunststof pallets hebben geen behandeling of stempel nodig, ook niet voor zendingen van en naar het VK."
+- q: "Welke palletmaat is gangbaar in het VK?"
+  a: "In het VK wordt veel gewerkt met de industriepallet van 1200 x 1000 mm. Onze exportpallets maken we onder meer in 1200 x 1000 mm en 1200 x 800 mm."
+published: '2022-01-13'
+updated: '2026-11-02'
 ---
-23 juni 2016. Niet echt een datum die bij veel mensen een belletje zal doen rinkelen. Toch kan deze dag waarop besloten werd tot de Brexit enorme gevolgen hebben voor zowel uw import uit als **export naar Groot-Brittannië**! Eén belangrijke reden is het ontbreken van voldoende geschikte houten pallets bij Britse fabrikanten die exporteren naar de Europese Unie. Hoe dat precies zit en hoe de [kunststof pallets](@pallets) van Q-Pall de oplossing kunnen zijn, leest u hieronder.
+> **In het kort**
+>
+> * Het VK verliet de EU op 31 januari 2020. De overgangsperiode liep tot en met 31 december 2020.
+> * Sindsdien moeten houten pallets in de handel tussen de EU en het VK voldoen aan ISPM 15: behandeld en gestempeld.
+> * Kunststof pallets vallen niet onder ISPM 15 en hebben geen behandeling of stempel nodig.
+> * Q-Pall heeft een fabriek in Chesterfield en produceert daarmee ook in het VK zelf.
 
-## Onvoldoende geschikte pallets bij Brexit bij Britse exporteurs
+## Van referendum tot vertrek
 
-Het lijkt een klein en onbelangrijk punt in het enorme Brexit-geweld waar we nu al maanden iedere dag mee geconfronteerd worden. Aan de beschikbaarheid van voldoende geschikte houten pallets voor de export naar de Europese Unie was echter nog niet gedacht. En dat kan leiden tot enorme consequenties. Wat is nu het probleem?
+Op 23 juni 2016 stemde het Verenigd Koninkrijk voor vertrek uit de Europese Unie. Op 31 januari 2020 verliet het VK de EU. Daarna volgde een overgangsperiode tot en met 31 december 2020, waarin de oude regels nog golden.
 
-Aan houten pallets die van buiten de Europese Unie komen, worden andere eisen gesteld dan aan houten pallets die binnen de landen van de Unie zelf vervoerd worden. En dat wordt relevant zodra Groot-Brittannië de Europese Unie verlaat. Deze strengere eisen hebben bijvoorbeeld met de gezondheid van consumenten te maken. Pallets van buiten de EU moeten een behandeling ondergaan hebben om de gezondheid te waarborgen. Ook moet ieder pallet een markering hebben waaruit blijkt dat deze aan de eisen voldoet. Nu pas(!) blijkt dat Britse exporteurs niet voldoende van dergelijke pallets hebben waardoor een groot deel van de export in gevaar komt. En de Britse export is voor een groot deel de import van landen in de Europese Unie. Het kan u dus ook zomaar raken.
+Sinds het einde van die overgangsperiode is het VK voor de handel een land buiten de EU. Dat heeft gevolgen voor de goederen, maar ook voor de pallets waarop ze reizen.
 
-## Hoe groot is het probleem?
+## Wat de brexit betekent voor houten pallets
 
-Om een idee te geven over de omvang van het probleem: jaarlijks worden tientallen miljoenen pallets vanuit Groot-Brittannië vervoerd naar de Europese Unie. En het grootste deel van deze *pallets* voldoet niet aan de Europese voorschriften voor pallets van buiten de EU. Op deze pallets worden vele producten vervoerd. Denk aan voedingsmiddelen, elektronische apparatuur maar ook zaken als medicijnen. Natuurlijk zijn er wel geschikte pallets in Groot-Brittannië, maar dat zijn er bij lange na niet genoeg voor alle Britse exporteurs. Gevreesd wordt dan ook dat vele Britse exporteurs niet genoeg geschikte pallets zullen hebben en failliet zal gaan. Het is dus een groot probleem.
+Voor houten verpakkingen in internationaal transport geldt de norm ISPM 15. Die norm is er voor de plantgezondheid: insecten en plantenziekten mogen niet met hout de grens over. Een houten pallet moet daarom behandeld zijn, meestal met hitte, en een officieel stempel dragen.
 
-## De oplossing: kunststof pallets van Q-Pall
+Binnen de EU is ISPM 15 meestal niet verplicht. In de handel tussen de EU en het VK geldt de norm sinds de brexit wel, in beide richtingen. Een pallet zonder juiste behandeling of stempel kan leiden tot vertraging, terugzending of zelfs vernietiging van de zending.
 
-Q-Pall produceert in diverse Europese fabrieken al jarenlang kunststof pallets die wel voldoen aan de strenge Europese wetgeving. Wij produceren niet alleen kunststof pallets, maar verzorgen ook de distributie en verkoop ervan. Ons assortiment kunststof pallets bestaat op dit moment uit meer dan 150 producten. Daardoor hebben wij voor vrijwel iedere toepassing de juiste pallets. En anders zijn wij in staat om die voor u te maken. Vanuit ons streven naar Maatschappelijk Verantwoord Ondernemen (MVO) nemen wij ook onze verantwoordelijkheid voor het recyclen van door ons geproduceerde kunststof pallets. En door de duurzaamheid van onze pallets blijken deze in de praktijk ook nog eens kosten te besparen.
+In de aanloop naar de brexit werd gevreesd dat Britse exporteurs te weinig behandelde houten pallets zouden hebben. Veel pallets die tussen het VK en de EU circuleerden, voldeden niet aan ISPM 15. Voor bedrijven aan beide kanten van het Kanaal was dat een reëel risico.
 
-### Voordelen van onze kunststof pallets op een rijtje:
+## Kunststof pallets: geen ISPM 15 nodig
 
-- Groot assortiment kunststof pallets
-- Kostenbesparend ten opzichte van en duurzamer dan houten pallets
-- Voldoen wel aan strenge Europese wetgeving
-- Q-Pall verzorgt hele keten van ontwerp, productie tot distributie
+ISPM 15 geldt alleen voor verpakkingsmateriaal van massief hout. Kunststof pallets vallen er niet onder. Ze hebben geen hittebehandeling en geen stempel nodig, waar uw zending ook naartoe gaat. Meer uitleg leest u in [ISPM 15: exporteren zonder stempel](@guide-ispm).
 
-Wilt u meer weten over onze mogelijkheden op het gebied van kunststof pallets? Of heeft u andere vragen met betrekking tot ons assortiment? Neem dan gerust contact met ons op. Wij helpen u graag verder.
+Wat dat u oplevert in de handel met het VK:
+
+* **Geen behandeling of certificaat.** Voor de pallet zelf hoeft u niets te regelen.
+* **Geen vertraging door de pallet.** Een kunststof pallet wordt niet afgekeurd op een ontbrekend of onjuist stempel.
+* **Licht en vaak nestbaar.** Onze [exportpallets](@type-export) dragen tot 2.500 kg statisch en schuiven leeg in elkaar.
+* **Een passende maat.** In het VK is de industriepallet van [1200 x 1000 mm](@size-1200x1000) gangbaar.
+* **Circulair.** Onze standaardpallets zijn van gerecycled kunststof en aan het einde van hun leven volledig recyclebaar.
+
+## Q-Pall produceert ook in het VK
+
+Q-Pall maakt kunststof pallets in zes fabrieken: Balk (Nederland), Ribe (Denemarken), Marktoberdorf (Duitsland), Nantes (Frankrijk), Lleida (Spanje) en Chesterfield (Verenigd Koninkrijk). Bijna elke klant zit binnen 600 kilometer van een van onze fabrieken.
+
+Onze aanpak is: matrijzen reizen, pallets niet. We plaatsen de matrijs in de fabriek die het dichtst bij de klant ligt. Voor klanten in het VK kan dat de fabriek in Chesterfield zijn: korte transporten en geen grensovergang voor de pallets zelf. Lees meer over [lokaal produceren](@about-local).
+
+Heeft u kleinere aantallen nodig? Dan kunt u terecht bij een [dealer bij u in de buurt](@dealers). In het VK werken we onder meer samen met dealer Goplasticpallets.com.
+
+Exporteert u naar het VK of bent u klant in het VK? [Vraag een offerte aan](@quote), dan ontvangt u meestal binnen één werkdag een prijs op maat.

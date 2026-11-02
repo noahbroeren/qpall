@@ -1,29 +1,48 @@
 ---
 id: news-mega-order
-title: "Mega ordine per Q-Pall: un milione di pallet sostenibili"
-description: "Fino al 2034 Q-Pall produrrà almeno un milione di pallet in plastica riciclata per Drankenpallet Beheer Nederland: il suo più grande ordine olandese."
+title: "Mega ordine: un milione di pallet sostenibili – Q-Pall"
+description: "A maggio 2023 Q-Pall ha consegnato il primo pallet a Drankenpallet Beheer Nederland. Entro il 2034 ne seguiranno almeno un milione in plastica riciclata."
 eyebrow: "Notizie"
 tag: "Azienda"
-crumb: "Mega ordine per Q-Pall"
+crumb: "Mega ordine Drankenpallet Beheer"
 h1: "Mega ordine per Q-Pall: **un milione di pallet sostenibili**"
-lead: "Veghel/Balk, 24 maggio 2023 – Oggi, a Balk, è stata consegnata festosamente la prima pallet in plastica di Q-Pall a Drankenpallet Beheer Nederland. Fino al 2034, nella fabbrica frisone verranno prodotti almeno un milione di pallet in plastica riciclata. È l'ordine olandese più grande per Q-Pall dal suo fondamento nel 2005."
-img_alt: "Mega ordine per Q-Pall: un milione di pallet sostenibili"
+lead: "Il 24 maggio 2023 Q-Pall ha consegnato a Balk il primo pallet per Drankenpallet Beheer Nederland. Fino al 2034 vi produrremo almeno un milione di pallet in plastica riciclata: il più grande ordine olandese dal 2005."
+img_alt: "Quattro uomini accanto al primo pallet per Drankenpallet Beheer Nederland, nello stabilimento di Balk"
 reading: 3
+published: '2023-05-24'
+updated: '2026-11-02'
 ---
-Drankenpallet Beheer Nederland (DPB) è il pool di pallet per l'industria delle bevande olandese. Praticamente tutte le birrerie olandesi e un gran numero di produttori di bevande analcoliche e conserviere sono clienti di DPB.
+> **In breve**
+>
+> * Il 24 maggio 2023 Q-Pall ha consegnato nello stabilimento di Balk il primo pallet per Drankenpallet Beheer Nederland (DPB).
+> * Fino al 2034 Q-Pall produrrà a Balk almeno un milione di pallet in plastica riciclata per questo pool di pallet.
+> * È stato il più grande ordine olandese dalla fondazione di Q-Pall nel 2005.
+> * Il pallet è stato sviluppato insieme a DPB: robusto, leggero e resistente.
+
+## Il pool di pallet dell’industria olandese delle bevande
+
+Drankenpallet Beheer Nederland (DPB) è il pool di pallet dell’industria olandese delle bevande. Quasi tutte le birrerie olandesi e un gran numero di produttori di bibite e conserve noleggiano i propri pallet da DPB.
+
+Il 24 maggio 2023 Q-Pall ha consegnato con una piccola cerimonia, nello stabilimento di Balk, il primo pallet per DPB. Fino al 2034 vi produrremo almeno un milione di pallet in plastica riciclata. È stato il più grande ordine olandese per Q-Pall dalla sua fondazione nel 2005. Scoprite di più sui nostri [pallet in plastica per l’industria delle bevande](@sector-beverage) e per il [pooling](@sector-pooling).
 
 ## Ambizioni circolari
 
-"Siamo molto felici della collaborazione", afferma Christiaan Hamminga, direttore di Dranken Pallet Beheer Nederland. "Q-Pall è costantemente alla ricerca di modi per migliorare i loro prodotti, dispone di un sito di produzione molto moderno con un servizio di qualità eccellente e linee di comunicazione brevi. Grazie a queste linee brevi e alla produzione in Olanda, possiamo agire rapidamente. In questo modo, siamo sicuri di ottenere pallet di alta qualità, realizzati inoltre con materiale riciclato, contribuendo così alle nostre ambizioni circolari".
+Per DPB contavano qualità, rapidità e l’uso di materiale riciclato. Christiaan Hamminga, direttore di Drankenpallet Beheer Nederland, ha dichiarato in occasione della consegna:
+
+> «Siamo molto soddisfatti della collaborazione. Q-Pall cerca costantemente modi per migliorare i propri prodotti, dispone di un sito produttivo molto moderno con un eccellente servizio qualità e linee di comunicazione brevi. Grazie a queste linee brevi e alla produzione nei Paesi Bassi possiamo agire rapidamente. Così abbiamo la certezza di pallet di alta qualità, realizzati inoltre con materiale riciclato e che contribuiscono quindi alle nostre ambizioni circolari.»
 
 ## Robusto, leggero, resistente e sostenibile
 
-"Siamo estremamente orgogliosi di aver ottenuto la fiducia come azienda olandese di sviluppare e produrre la pallet per praticamente l'intera industria delle bevande olandese", spiega Bjorn Oosterhof, co-fondatore e direttore di Q-Pall. "Grazie a uno sviluppo congiunto con DPB, è stata creata una pallet robusta, leggera ma comunque resistente e sostenibile. Ciò è stato preceduto da approfondite ricerche e sviluppo. Inoltre, vengono realizzate al 99% con ciò che viene chiamato materiali secondari, come vecchie casse, tappi e altri rifiuti di plastica, contribuendo direttamente alla problematica globale della plastica. Totalmente circolare".
+Bjorn Oosterhof, cofondatore e direttore di Q-Pall, era orgoglioso dell’ordine:
+
+> «Siamo estremamente orgogliosi che, come azienda olandese, ci sia stata affidata la fiducia di sviluppare e realizzare il pallet per quasi tutta l’industria olandese delle bevande. Grazie a uno sviluppo congiunto con DPB è nato un pallet robusto, leggero ma resistente e sostenibile. Alla base ci sono state approfondite attività di ricerca e sviluppo. Inoltre, i pallet sono realizzati quasi al 100% con le cosiddette materie prime secondarie, come vecchie casse, tappi e altri rifiuti di plastica. In questo modo contribuiamo direttamente alla soluzione del problema globale della plastica. Circolare dall’inizio alla fine.»
+
+## Prodotti localmente
+
+I pallet per DPB escono dal nostro stabilimento di Balk, nella provincia della Frisia. Questo rispecchia il modo di lavorare di Q-Pall: acquistiamo la plastica riciclata il più vicino possibile ai nostri stabilimenti e produciamo i pallet il più vicino possibile al cliente. Il trasporto è la principale fonte di emissioni di CO₂ nella filiera dei pallet, quindi ogni chilometro risparmiato conta. Scoprite di più sulla [produzione locale](@about-local).
 
 ## Informazioni su Q-Pall
 
-Q-Pall è un produttore e distributore di pallet in plastica fondato nel 2005. L'azienda si concentra sullo sviluppo di pallet in plastica innovativi e riutilizzabili attraverso l'innovazione nel design, nel riciclaggio e nella produzione. I pallet sono composti per oltre il 99% da materiale riciclato.
+Dal 2005 Q-Pall produce esclusivamente pallet in plastica e fa parte di AVK Group. La sede centrale si trova a Veghel. Produciamo in sei stabilimenti in Europa: Balk, Ribe, Marktoberdorf, Nantes, Lleida e Chesterfield. La gamma comprende circa 130 modelli in nove formati. Collaboriamo inoltre con 18 rivenditori in 15 paesi in Europa e negli Stati Uniti.
 
-La sede centrale di Q-Pall si trova a Veghel. Attualmente, l'azienda produce oltre 3,1 milioni di pallet all'anno in più di 150 varianti in cinque diverse sedi in Europa. Al fine di ridurre l'impronta di carbonio, le emissioni di CO2 e i costi, Q-Pall ha scelto fin dall'inizio una strategia in cui la materia plastica riciclata viene acquistata il più vicino possibile alle fabbriche e i pallet vengono prodotti il più vicino possibile al cliente. Ciò è dovuto al fatto che in media l'80% delle emissioni di CO2 legate ai pallet in plastica proviene dal trasporto. Le sedi produttive si trovano nei Paesi Bassi, in Danimarca, in Germania, in Francia e in Spagna.
-
-Attraverso la produzione locale e una rete di rivenditori in 24 paesi in Europa e negli Stati Uniti, Q-Pall ha consegnato un camion carico di pallet in plastica ogni trenta minuti nel 2022. Ciò ha generato un fatturato di oltre 40 milioni di euro.
+Cercate pallet per un pool o per l’industria delle bevande? [Richiedete un preventivo](@quote): di solito riceverete un prezzo su misura entro un giorno lavorativo.

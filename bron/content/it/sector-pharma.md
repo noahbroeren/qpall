@@ -21,7 +21,7 @@ Nell’industria farmaceutica tutto ruota attorno alla prevenzione della contami
 
 ## Perché i pallet in plastica?
 
-- **Non porosi:** batteri e umidità non riescono a penetrare.
+- **Non porosi:** i pallet non assorbono umidità e si puliscono facilmente.
 - **Lavabili** con acqua, ad alta pressione o con detergenti.
 - **Senza schegge né spigoli vivi.**
 - **Disponibili in versione antiscivolo**, per una maggiore stabilità su superfici bagnate o inclinate.

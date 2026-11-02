@@ -1,19 +1,59 @@
 ---
 id: news-heavy-range
-title: "La forma segue la funzione: i nuovi pallet Heavy – Q-Pall"
-description: "La nuova linea QP di pallet Heavy offre un carico statico di 7500 kg e dinamico di 2000 kg, senza rinforzi metallici. Scoprite modelli e opzioni."
+title: "Pallet Heavy serie QP: la forma segue la funzione – Q-Pall"
+description: "I pallet Heavy della serie QP portano 7.500 kg in statica, 2.000 kg in dinamica e fino a 1.375 kg su scaffale, senza alcun rinforzo metallico."
 eyebrow: "Notizie"
 tag: "Prodotto"
-crumb: "La forma segue la funzione"
-h1: "La forma segue la funzione: **la nostra nuova gamma di pallet Heavy**"
-lead: "Q-Pall introduce e aggiunge una nuova linea di pallet pesanti alla sua già ampia gamma di pallet in plastica. La nuova linea QP di pallet pesanti ha tutti i vantaggi dei tradizionali pallet in plastica pesante, aggiunti alle ultime conoscenze in materia di tecnologia, materiali e prodotti con la tecnologia più moderna."
-img_alt: "La forma segue la funzione: la nostra nuova gamma di pallet Heavy"
-reading: 2
+crumb: "Pallet Heavy serie QP"
+h1: "La forma segue la funzione: **i pallet Heavy della serie QP**"
+lead: "Con la serie QP, Q-Pall ha ampliato la sua gamma di pallet in plastica Heavy. I modelli QP 1111H, 1140H e 1212H portano fino a 1.375 kg su scaffale, senza rinforzi metallici."
+img_alt: "Pallet in plastica Heavy nero con piano aperto su tre slitte"
+reading: 3
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-Il stampo per la nuova serie QP è completamente flessibile e può quindi essere personalizzato con opzioni di stampo, tre o sei supporti, piano aperto o chiuso, con o senza bordo, offrendo così la migliore soluzione per il carico pesante sul mercato. I pallet pesanti QP 1111H, 1140H e 1212H hanno una capacità di carico statica di 7500 kg, una capacità di carico dinamica di 2000 kg e una capacità di stoccaggio fino a 1375 kg. Grazie all'uso di plastica riciclata di alta qualità e al nuovo design, non è necessario l'uso di rinforzi metallici. Ciò facilita l'uso dei pallet in condizioni difficili e il loro riciclaggio alla fine del loro ciclo di vita.
+> **In breve**
+>
+> * Con la serie QP, Q-Pall ha ampliato la sua gamma di pallet in plastica Heavy con i modelli QP 1111H, 1140H e 1212H.
+> * I pallet portano 7.500 kg in statica, 2.000 kg in dinamica e fino a 1.375 kg su scaffale.
+> * Dimensioni: 1100 x 1100, 1140 x 1140 e 1200 x 1200 mm, tutti con un’altezza di 165 mm.
+> * Grazie al design e alla plastica riciclata non servono rinforzi metallici.
+> * Esistono versioni con tre o sei slitte e con piano aperto o chiuso.
 
-Questo pallet è anche ideale per applicazioni igieniche e per un utilizzo ad alta rotazione, come in pool aperti o chiusi. Il design eccellente garantisce una lunga durata del pallet e una resistenza agli urti intrinseca. Gli angoli robusti proteggono dagli urti e i bordi arrotondati sul fondo riducono il rischio di danni all'accesso alle forche.
+## Cosa distingue la serie QP
 
-I pallet sono disponibili nelle dimensioni 1100 (L) x 1100 (P), 1140 (L) x 1140 (P) e 1200 (L) x 1200 (P) x 165 (H) mm. La nuova famiglia QP presenta un design del piano superiore complesso composto da singole sezioni "scatola" che forniscono massima rigidità e resistenza.
+La serie QP unisce i vantaggi dei classici [pallet in plastica Heavy](@class-heavy) a ciò che abbiamo imparato su design, materiali e tecniche di produzione. La forma del pallet nasce dalla sua funzione: portare carichi pesanti, per anni.
 
-Arno Putters, CEO di Q-Pall, afferma: "I nostri pallet in plastica sono la scelta preferita di molte aziende fin dalla nostra fondazione nel 2005. Continuiamo a registrare una forte domanda dei nostri pallet in plastica grazie alle loro qualità prestazionali e alla filosofia aziendale di Q-Pall. I pallet in plastica sono anche considerati ecologici, in quanto possono essere riciclati una volta raggiunta la fine della loro vita utile". Il colore standard è il nero, ma sono possibili anche altri colori, personalizzazioni o loghi.
+Lo stampo della serie QP è concepito in modo flessibile. Con diverse opzioni di stampo realizziamo pallet con tre o sei slitte e con piano aperto o chiuso.
+
+## Resistenti senza metallo
+
+I modelli QP 1111H, 1140H e 1212H portano 7.500 kg in statica e 2.000 kg in dinamica. Su scaffale portano fino a 1.375 kg; il valore esatto dipende dal modello e dalla versione. Cosa significano questi valori lo spieghiamo nella pagina sulla [portata dei pallet in plastica](@about-load).
+
+I rinforzi metallici non servono. Il merito è del design e della plastica di alta qualità, riciclata quasi al 100%. Senza metallo i pallet resistono bene alle condizioni difficili e a fine vita si riciclano facilmente.
+
+## Un design per l’uso intensivo
+
+Il piano superiore è composto da singole sezioni a “scatola” che lo rendono rigido e resistente. Gli angoli robusti proteggono dagli urti. I bordi arrotondati sul lato inferiore riducono il rischio di danni agli ingressi delle forche.
+
+Così i pallet durano a lungo e restano resistenti agli urti, anche con rotazioni elevate come nei [pool](@sector-pooling) aperti o chiusi.
+
+## Modelli e opzioni
+
+| Modello | Dimensioni (mm) | Portata su scaffale |
+|---|---|---|
+| QP 1111H | 1100 x 1100 x 165 | da 1.000 a 1.250 kg |
+| QP 1140H | 1140 x 1140 x 165 | da 1.250 a 1.375 kg |
+| QP 1212H | 1200 x 1200 x 165 | 1.375 kg |
+
+La portata su scaffale dipende dal numero di slitte e dal piano (aperto o chiuso).
+
+Il colore standard è il nero. Un altro colore, un logo o un altro adattamento sono possibili; vedete i [pallet in plastica su misura](@about-custom). Su richiesta i pallet sono disponibili anche in [versione ESD](@news-esd) e in versione ignifuga.
+
+## Un investimento per anni
+
+Arno Putters ha dichiarato: “I nostri pallet in plastica sono la scelta preferita di molte aziende fin dalla nostra fondazione nel 2005. Continuiamo a registrare una forte crescita della domanda, grazie alle loro prestazioni e alla filosofia aziendale di Q-Pall. I pallet in plastica sono anche considerati ecologici, perché a fine vita possono essere riciclati completamente.”
+
+A seconda dell’uso, un pallet in plastica Heavy dura da otto a quindici anni. Con un uso intensivo si ripaga quindi rispetto ai pallet in legno.
+
+Cercate un pallet Heavy per le vostre scaffalature o il vostro pool? [Richiedete un preventivo](@quote); di solito riceverete un prezzo su misura entro un giorno lavorativo.

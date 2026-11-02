@@ -55,7 +55,7 @@
     <div><dt>{{ t.dynamic_l }}</dt><dd>{{ t.upto }} {{ c.dynamic }} kg</dd></div>
     <div><dt>{{ t.racking_l }}</dt><dd>{{ (t.upto ~ ' ' ~ c.racking ~ ' kg') if c.racking else '–' }}</dd></div>
   </dl>
-  <p class="serie-foot"><span>{{ c.count_txt }}</span><b>{{ (t.from ~ ' ' ~ c.price_txt) if c.price_txt else t.on_request }}</b></p>
+  <p class="serie-foot"><span>{{ c.count_txt }}</span><b>{{ (c.price_lbl ~ ' ' ~ t.from ~ ' ' ~ c.price_txt) if c.price_txt else t.on_request }}</b></p>
   <a class="btn btn-sm serie-btn" href="{{ c.url }}">{{ cta }} {{ c.name }}{{ icon('arrow') }}</a>
 </article>
 {%- endmacro %}
@@ -74,6 +74,16 @@
     <em class="ncard-more">{{ t.read_more }}{{ icon('arrow') }}</em>
   </span>
 </a>
+{%- endmacro %}
+
+{# related news (update 28): three stories that belong with the page, on guides, sectors, categories and products #}
+{% macro news_related(items, t, urls, soft=True) -%}
+<section class="section{% if soft %} bg-soft{% endif %} news-rel" aria-labelledby="nr-h" data-pagefind-ignore>
+  <div class="wrap">
+    {{ sec_head(None, t.news_rel, None, 'nr-h', urls.news, t.news_all) }}
+    <ul class="news-grid news-grid-3">{% for n in items %}<li>{{ ncard(n, t) }}</li>{% endfor %}</ul>
+  </div>
+</section>
 {%- endmacro %}
 
 {% macro cat_band(catalog, title, text, cta) -%}
@@ -196,7 +206,7 @@
 {%- endmacro %}
 
 {% macro calc_widget(t, calc, quote) -%}
-<div class="qpc" id="qpc" data-sku="{{ calc.sku }}" data-size="{{ calc.size }}" data-quote="{{ quote }}">
+<div class="qpc" id="qpc" data-sku="{{ calc.sku }}" data-site="{{ calc.site }}" data-size="{{ calc.size }}" data-quote="{{ quote }}">
   <ol class="qpc-steps" id="qpc-steps" aria-label="{{ t.calc_steps }}"></ol>
   <div class="qpc-main" id="qpc-main" aria-live="polite"><p class="qpc-hint qpc-nojs">{{ t.calc_nojs }}</p></div>
   <div class="qpc-engine" hidden>

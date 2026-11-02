@@ -8,9 +8,9 @@ crumb: "Lokale productie als pijler"
 h1: "Van trend naar noodzaak: **lokale productie** als pijler voor een wendbare keten"
 lead: "In een onrustige wereld is nearshoring geen strategische optie meer, maar een eis voor risicobeheersing. Lokale productie van logistieke middelen levert drie dingen op: veerkracht, minder scope 3-uitstoot en een lagere TCO."
 img_alt: "Robots en spuitgietmachines in de productiehal van de Q-Pall-fabriek in Balk"
-reading: 5
+reading: 3
 published: '2026-01-22'
-updated: '2026-10-19'
+updated: '2026-11-02'
 ---
 > **In het kort**
 >
@@ -29,7 +29,7 @@ Conflicten zoals in Oekraïne en spanningen rond belangrijke handelsroutes als d
 
 ### Meer transparantie over de keten
 
-Ook regelgeving speelt een steeds grotere rol. Grote bedrijven moeten steeds beter kunnen verantwoorden waar hun producten vandaan komen en wat de impact op het milieu is, inclusief de uitstoot in hun keten (scope 3). Een logistiek middel zoals een pallet dat de halve wereld over is gevaren, past daar slecht bij.
+Ook regelgeving speelt een steeds grotere rol. Grote bedrijven moeten steeds beter kunnen verantwoorden waar hun producten vandaan komen en wat de impact op het milieu is, inclusief de uitstoot in hun keten (scope 3). Een logistiek middel zoals een pallet dat de halve wereld over is gevaren, past daar slecht bij. Hoe u de afhankelijkheid in uw eigen keten in kaart brengt, leest u in [van globale afhankelijkheid naar lokale veerkracht](@news-local-resilience).
 
 ## Het Q-Pall-model: dicht bij de klant produceren
 
@@ -45,9 +45,9 @@ Een regionale aanpak zorgt ook voor stabielere prijzen. Containertarieven schomm
 
 Lokale productie geeft ook grip op de grondstofstroom: de *chain of custody*. Dat is essentieel voor bedrijven die hun ESG-doelen serieus nemen en greenwashing willen voorkomen.
 
-Onze pallets maken we van gerecycled kunststof, een mix van HDPE (code 2) en PP. Meer over dat materiaal leest u in [gerecycled PE-HD 2: wat is het precies?](@news-hdpe) Doordat we het recyclaat dicht bij huis inkopen, hebben we direct zicht op de kwaliteit en herkomst. Afval wordt niet de halve wereld over gestuurd voordat het een nieuw leven krijgt. Lokaal afval wordt een lokale grondstof en een lokaal product.
+Onze standaardpallets maken we van gerecycled kunststof, een mix van HDPE (code 2) en PP (code 5). Meer over dat materiaal leest u in [gerecycled PE-HD 2: wat is het precies?](@news-hdpe) Doordat we het recyclaat dicht bij huis inkopen, hebben we direct zicht op de kwaliteit en herkomst. Afval wordt niet de halve wereld over gestuurd voordat het een nieuw leven krijgt. Lokaal afval wordt een lokale grondstof en een lokaal product.
 
-Het resultaat is een pallet die technisch sterk is (slagvast, weersbestendig en hygiënisch) en die een eerlijk verhaal vertelt in uw duurzaamheidsverslag. Aan het einde van zijn leven is de pallet volledig recyclebaar, in dezelfde regionale keten.
+Het resultaat is een pallet die technisch sterk is (slagvast, weersbestendig en goed te reinigen) en die een eerlijk verhaal vertelt in uw duurzaamheidsverslag. Aan het einde van zijn leven is de pallet volledig recyclebaar, in dezelfde regionale keten. Wat lokale productie betekent voor transport, CO₂ en recyclaat, leest u in [lokale productie van kunststof pallets en duurzaamheid](@news-local-sustainability).
 
 ## De toekomst is regionaal
 

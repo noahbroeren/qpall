@@ -1,17 +1,37 @@
 ---
 id: news-goodwood
 title: "En la pole position del Goodwood Festival of Speed – Q-Pall"
-description: "En el Goodwood Festival of Speed, nuestro palet QP1210 HR 5R, con 7500 kg de carga estática, sirvió de podio para coches eléctricos como el Rimac Nevera."
+description: "En el Goodwood Festival of Speed, coches eléctricos se exhibieron sobre nuestro palet de plástico Heavy QP1210 HR 5R, con 7.500 kg de carga estática."
 eyebrow: "Noticias"
 tag: "Evento"
-crumb: "En la pole position del Goodwood"
+crumb: "Goodwood Festival of Speed"
 h1: "Palets de plástico en la pole position **del Goodwood Festival of Speed**"
-lead: "La semana pasada, nuestras tarimas de plástico de alta resistencia se exhibieron en el Festival de Velocidad de Goodwood. No se corre alrededor de las horquillas, sino que se pone a prueba al ser utilizado para exhibir todos los vehículos eléctricos, ¡demostrando su extrema durabilidad! Un agradecimiento especial a nuestro distribuidor en el Reino Unido Goplasticpallets."
-img_alt: "Palets de plástico en la pole position del Goodwood Festival of Speed"
+lead: "En el Goodwood Festival of Speed, en Inglaterra, se exhibieron coches eléctricos sobre palets de plástico Heavy de Q-Pall. No fue una carrera, pero sí una buena prueba para el QP1210 HR 5R."
+img_alt: "Coches eléctricos de e.GO, Kia, Jaguar y Rimac sobre palets de plástico negros en el Goodwood Festival of Speed"
 reading: 2
+published: '2021-12-10'
+updated: '2026-11-02'
 ---
-Desde el Jaguar F-Pace y el Kia EV6 hasta el e.GO y el Rimac Nevera, un poco más "de gran presupuesto"; de los cuales solo se fabricarán 150, cada uno con un precio de alrededor de $ 2.4 millones. Todos ocuparon sus lugares en el podio de palets de plástico para uno de los eventos más emocionantes del calendario del automovilismo. La estrella del espectáculo fue, por supuesto, nuestra QP1210 HR 5R.
+> **En resumen**
+>
+> * En el Goodwood Festival of Speed se exhibieron coches eléctricos sobre palets de plástico Heavy de Q-Pall.
+> * Se trataba del QP1210 HR 5R, con una carga estática de 7.500 kg.
+> * Sobre los palets había, entre otros, un e.GO, un Kia EV6, un Jaguar y el Rimac Nevera.
+> * Los palets llegaron a través de nuestro socio y distribuidor británico Goplasticpallets.com.
+> * El palet está fabricado con plástico reciclado.
 
-Con una carga estática de 7500 kg, soportar el peso de estos innovadores vehículos no fue un problema para este palet de plástico, que ha sido diseñado para funcionar en todas las industrias. No solo eso, sino que estar hecho de plástico reciclado significa que es la elección responsable para su logística y almacenamiento.
+## Un podio de palets de plástico
 
-Eche un vistazo al Q-Pall 1210 HR 5R por sí mismo o si necesita asesoramiento de un experto, sea cual sea su aplicación, llame a Q-Pall oa su distribuidor local.
+El Goodwood Festival of Speed es uno de los eventos más conocidos del calendario del automovilismo. Nuestros palets de plástico Heavy no corrieron por las curvas cerradas. En su lugar, sostuvieron los coches eléctricos expuestos en el festival y demostraron así su resistencia.
+
+Fue posible gracias a nuestro [socio y distribuidor británico Goplasticpallets.com](@news-goplastic).
+
+Del e.GO y el Kia EV6 a un Jaguar y el Rimac Nevera: todos ocuparon su lugar en un podio de palets de plástico. El Rimac Nevera destacó por su precio. De este hiperdeportivo eléctrico solo iban a fabricarse 150 unidades, a unos 2,4 millones de dólares cada una.
+
+## La estrella del evento: el QP1210 HR 5R
+
+El QP1210 HR 5R es un [palet de plástico Heavy](@class-heavy) de [1200 x 1000 mm](@size-1200x1000) con una carga estática de 7.500 kg. Es la carga que soporta un palet cuando está quieto sobre un suelo plano. Por eso, el peso de estos coches no fue ningún problema para el palet. Encontrará más información sobre las cargas estática, dinámica y en estantería en nuestra página sobre [la capacidad de carga de los palets de plástico](@about-load).
+
+El palet está diseñado para utilizarse en muchos sectores. Y como está fabricado con plástico reciclado, es una opción responsable para su logística y su almacenaje.
+
+¿Quiere utilizar el QP1210 HR 5R u otro palet Heavy? [Póngase en contacto con nosotros](@contact) para recibir asesoramiento sobre su aplicación.

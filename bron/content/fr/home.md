@@ -1,7 +1,7 @@
 ---
 id: home
-title: "Q-Pall - palettes en matière recyclée"
-description: "Q-Pall conçoit des palettes en matière recyclée et les fait produire au plus près du client en Europe. Pour l’industrie, la logistique et le pooling."
+title: "Q-Pall - palettes plastique recyclé"
+description: "Q-Pall conçoit des palettes plastique recyclé et les fait produire au plus près du client en Europe. Pour l’industrie, la logistique et le pooling."
 hero:
   eyebrow: "Fabricant de palettes durables depuis 2005"
   h1: "Des palettes réutilisables en **plastique recyclé**"
@@ -126,7 +126,7 @@ about:
   eyebrow: "À propos de Q-Pall"
   title: "Toute la chaîne **entre nos mains**"
   text: "Depuis 2005, Q-Pall développe et produit exclusivement des palettes plastique. Conception, moules, production, distribution et vente : nous gérons tout nous-mêmes, depuis notre siège de Veghel et six usines en Europe. Nous réagissons ainsi rapidement et gardons la qualité sous contrôle."
-  points: ["Siège et stockage à Veghel", "Membre du groupe AVK", "Distributeurs en Europe et aux États-Unis"]
+  points: ["Siège et stockage à Veghel", "Membre d’AVK Group", "Distributeurs en Europe et aux États-Unis"]
   cta: "En savoir plus sur Q-Pall"
   cta2: "Travailler chez Q-Pall"
   img_alt: "Hall de production avec presses à injecter et robots dans l'usine Q-Pall à Balk"
@@ -157,12 +157,12 @@ cases:
   lead: "Du supermarché au chantier : quelques exemples d’entreprises qui font confiance à nos palettes. Chaque référence est à lire dans nos actualités."
   more: "Toutes les actualités"
   items:
-    - {id: news-auchan, client: "Auchan · distribution, France", title: "50 000 palettes Europe intelligentes", text: "Auchan déploie dans toute la France des palettes Europe heavy duty en plastique recyclé, chacune équipée de la technologie IoT d’IBM."}
+    - {id: news-auchan, client: "Auchan · distribution, France", title: "50.000 palettes Europe intelligentes", text: "Auchan déploie dans toute la France des palettes Europe heavy duty en plastique recyclé, chacune équipée de la technologie IoT d’IBM."}
     - {id: news-mega-order, client: "Drankenpallet Beheer Nederland", title: "Un million de palettes produites à Balk", text: "La plus grosse commande néerlandaise depuis 2005 : au moins un million de palettes en plastique recyclé pour le secteur des boissons."}
     - {id: news-stackup, client: "Kwakman Afbouw · construction", title: "70 % de déplacements en moins", text: "Ensemble, nous avons développé la Stack-Up Pallet pour les chantiers : moins de manutention, moins de déchets et des finitions plus rapides."}
     - {id: news-covid, client: "Transport de vaccins · pharmacie", title: "Des palettes pour les vaccins COVID", text: "Via son partenaire Goplasticpallets.com, Q-Pall a fourni la 1208 HR 5R pour le transport de vaccins vers notamment les États-Unis, la Chine et la Corée du Sud."}
-    - {id: news-goodwood, client: "Goodwood Festival of Speed", title: "Des voitures électriques sur palette", text: "Au festival, la palette heavy duty QP1210 HR 5R a porté des voitures électriques grâce à une charge statique de 7 500 kg."}
-    - {id: news-goplastic, client: "Goplasticpallets.com · Royaume-Uni", title: "Dix ans de partenariat", text: "Goplasticpallets.com est depuis dix ans le distributeur exclusif de Q-Pall au Royaume-Uni."}
+    - {id: news-goodwood, client: "Goodwood Festival of Speed", title: "Des voitures électriques sur palette", text: "Au festival, la palette heavy duty QP1210 HR 5R a porté des voitures électriques grâce à une charge statique de 7.500 kg."}
+    - {id: news-goplastic, client: "Goplasticpallets.com · Royaume-Uni", title: "Dix ans de partenariat", text: "En 2022, Q-Pall et son partenaire britannique Goplasticpallets.com ont fêté dix ans de collaboration."}
 faq:
   - q: "Pourquoi choisir des palettes plastique ?"
     a: "Les palettes plastique durent bien plus longtemps que les palettes bois, n’absorbent pas l’humidité et n’ont ni échardes ni clous. Leurs dimensions sont fixes et leur poids constant, ce qui compte pour l’automatisation. Elles sont en outre exemptées de la norme ISPM 15 à l’export. Pour en savoir plus, lisez [plastique ou bois](@guide-wood)."

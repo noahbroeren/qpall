@@ -1,50 +1,86 @@
 ---
 id: news-ric
-title: "Resin identification codes: key to better recycling – Q-Pall"
-description: "What do the numbers 1 to 7 in the recycling triangle mean? Learn how Resin Identification Codes, introduced in 1988, help recyclers sort plastics."
+title: "Resin identification codes 1 to 7 explained – Q-Pall"
+description: "What do resin identification codes 1 to 7 mean? Which types of plastic are there, and which can be recycled? A clear overview, with a handy table."
 eyebrow: "News"
 tag: "Material"
 crumb: "Resin identification codes"
-h1: "Resin identification codes: **the key to better plastic recycling**"
-lead: "Recycling is not only good for the planet, but it's also good for humanity as a whole. However, the process of recycling can be somewhat confusing, especially when it comes to plastics. With so many different types of plastics in use today, it's important to know which ones can be recycled and how they should be handled. That's where Resin Identification Codes (RIC) come into play."
-img_alt: "Resin identification codes: the key to better plastic recycling"
+h1: "Resin identification codes: **which plastics can be recycled?**"
+lead: "The little triangle with a number from 1 to 7 appears on many plastic products. This resin identification code tells you which plastic it is. But can every type be recycled?"
+img_alt: "Recycling triangles with plastic codes 1 to 7 (PET, PE-HD, PVC, PE-LD, PP, PS and O) and ABS"
 reading: 4
+faq:
+- q: "What do the numbers 1 to 7 in the recycling triangle mean?"
+  a: "The number is the resin identification code (RIC). It shows which plastic a product is made of: 1 is PET, 2 HDPE, 3 PVC, 4 LDPE, 5 PP, 6 PS, and 7 covers other plastics and combinations."
+- q: "Can all types of plastic be recycled?"
+  a: "No. PET (1), HDPE (2) and PP (5) are easy to recycle and widely collected. PVC (3), PS (6) and other plastics (7) are recycled far less often. Whether a product is actually recycled also depends on its composition and on local collection."
+- q: "Does a recycling triangle mean a product is made of recycled plastic?"
+  a: "No. The triangle with the number only tells you which plastic it is. If it also says ‘recycled’, or for example ‘rHDPE’, the product is made from recycled material."
+- q: "What plastic are Q-Pall pallets made of?"
+  a: "Our standard pallets are made from nearly 100% recycled plastic, a mix of HDPE (code 2) and PP (code 5). Light pallets also contain LDPE (code 4). Only hygienic pallets, H1 pallets and cleanroom pallets are made from virgin plastic."
+published: '2023-10-02'
+updated: '2026-11-02'
 ---
-## What Are Resin Identification Codes?
+> **In short**
+>
+> * The resin identification code (RIC) is a number from 1 to 7 that shows which plastic a product is made of.
+> * The code helps with sorting and recycling. It does not mean a product has already been recycled.
+> * PET (1), HDPE (2) and PP (5) are easy to recycle. PVC (3), PS (6) and code 7 much less so.
+> * Whether something is actually recycled also depends on its composition, demand for recycled material and local collection.
+> * We make our standard pallets from recycled plastic: a mix of HDPE (2) and PP (5).
 
-The Resin Identification Code (RIC) system was introduced by the Society of the Plastics Industry (now the Plastics Industry Association) in 1988 to assist recyclers in identifying and separating different types of plastic. These codes are numerical and typically range from 1 to 7. You've likely seen these codes printed inside a small triangle on plastic items, whether it be a plastic bottle, a food container, or packaging material.
+## What are resin identification codes?
 
-## The seven RIC codes:
+RIC stands for *Resin Identification Code*. The system was introduced in 1988 by the Society of the Plastics Industry, now the Plastics Industry Association. Its purpose: to help recyclers identify the different types of plastic and separate them.
 
-1. PET (Polyethylene Terephthalate): Commonly used for soda bottles and other food packaging.
-2. HDPE (High-Density Polyethylene): Found in milk jugs, laundry detergent containers, etc.
-3. PVC (Polyvinyl Chloride): Used in piping, vinyl siding, and some types of food packaging.
-4. LDPE (Low-Density Polyethylene): Present in plastic wrap, grocery bags, and squeezable bottles.
-5. PP (Polypropylene): Often used in straws, yogurt containers, and bottle caps.
-6. PS (Polystyrene): Commonly known as Styrofoam, used in coffee cups, food trays, etc.
-7. Other: A catch-all category for plastics that don't fit into the above categories, or for those made from more than one type of resin.
+You see the code as a number from 1 to 7 inside a small triangle of arrows, often with an abbreviation underneath, such as PET or PE-HD. In Europe, these codes for packaging are laid down in Commission Decision 97/129/EC.
 
-## How Can Resin Identification Codes help?
+Note: here the triangle of arrows is only a recognition mark. A code in the triangle does not mean the product is made from recycled material. Nor does it mean that it is recycled everywhere.
 
-- Sorting and Separating: Knowing the type of plastic you are dealing with helps in sorting plastics into appropriate recycling streams.
-- Identifying Recyclability: Not all plastics are created equal in terms of their ability to be recycled. RICs help consumers and recyclers understand which plastics are more likely to be accepted in local recycling programs.
-- Eco-Friendly Choices: Consumers can use these codes to choose products made from more easily recyclable materials.
-- Safety: Some plastics are safer than others when it comes to food and beverage storage. For example, plastics labeled with codes 1, 2, 4, and 5 are generally considered safe for food and drink.
+## Which types of plastic are there, and can they all be recycled?
 
-## Are all plastics good and easy to recycle?
+Six widely used plastics each have their own code. Code 7 is a catch-all category for all other plastics.
 
-The short answer is no. While plastics like PET and HDPE (codes 1 and 2) are widely accepted in recycling programs and are relatively easy to recycle, others like PVC (code 3) and PS (code 6) are less frequently recycled due to their potential for releasing harmful chemicals. Moreover, the "Other" category (code 7) often includes plastics that are difficult or costly to recycle.
+| Code | Abbreviation | Plastic | Examples | Recycling |
+|---|---|---|---|---|
+| 1 | PET | Polyethylene terephthalate | Drinks bottles, food trays | Good, widely collected |
+| 2 | HDPE (PE-HD) | High-density polyethylene | Milk bottles, detergent bottles, caps, crates, pallets | Good, widely collected |
+| 3 | PVC | Polyvinyl chloride | Pipes, window frames, some films | Limited |
+| 4 | LDPE (PE-LD) | Low-density polyethylene | Films, bags, squeeze bottles | Good, but not collected everywhere |
+| 5 | PP | Polypropylene | Tubs, buckets, caps, crates | Good |
+| 6 | PS | Polystyrene | Cups, expanded polystyrene | Limited |
+| 7 | O | Other plastics and combinations | Polycarbonate, multilayer packaging | Difficult or costly |
 
-## Factors affecting recyclability:
+What the recycling column means:
 
-- Material Composition: Multi-layer or multi-material plastics are harder to recycle.
-- Market Demand: Even if a plastic is technically recyclable, low demand for the recycled material makes it less likely to be recycled.
-- Local Programs: Your local recycling program may not accept all types of plastic, even if they are technically recyclable.
+* **Easy to recycle.** PET (1), HDPE (2) and PP (5) are collected and recycled on a large scale. HDPE and PP are related: both are polyolefins, and they are often processed together in recycling. Read more about HDPE in [recycled PE-HD 2: what is it exactly?](@news-hdpe)
+* **Recyclable, but not collected everywhere.** LDPE (4) is technically easy to recycle. However, films and bags are not collected separately everywhere.
+* **Recycled less often.** PVC (3) contains chlorine and disrupts the recycling of other plastics if it gets mixed in. Expanded polystyrene (PS, 6) is light and bulky, which makes collection and transport relatively expensive.
+* **Difficult.** Code 7 often covers combinations of materials or multilayer packaging. These are difficult to recycle, or only at high cost.
 
-### Conclusion
+## What are the codes for?
 
-Resin Identification Codes serve as a helpful guide for both consumers and recyclers to make better decisions around the use and recycling of plastics. However, the existence of these codes does not guarantee that a plastic item is recyclable or has been recycled. The complexity and economics of plastic recycling are influenced by various factors including material composition, market demand, and local recycling capabilities.
+* **Sorting.** Knowing which plastic it is lets you send it to the right recycling stream.
+* **Assessing recyclability.** The code shows whether a plastic is likely to be accepted by local collection schemes.
+* **Making informed choices.** Buyers and consumers can choose products made from plastics that are easier to recycle.
+* **Food contact.** Codes 1, 2, 4 and 5 are widely used for food packaging. However, the code does not tell you whether a particular product is suitable for contact with food. Separate European rules apply to that.
 
-To truly make an impact, it's essential for consumers to go beyond just checking RICs. Adopt a more mindful approach towards plastic usage, opt for reusable items, and participate actively in local recycling programs. Let the Resin Identification Codes be your starting point in making more informed and responsible choices.
+## What determines whether plastic is actually recycled?
 
-When it comes to making an environmentally responsible choice for your material handling needs, Q-Pall offers a reassuring solution. All Q-Pall plastic pallets are exclusively made from plastics bearing the Resin Identification Code (RIC) of 2, also known as High-Density Polyethylene (HDPE). This material is widely recognized for its high recyclability, ensuring that these pallets can be easily collected, processed, and transformed into new products at the end of their lifecycle. By using RIC code 2 plastics, Q-Pall not only provides durable and reliable pallets but also guarantees the circularity of their products. Choosing Q-Pall means you are opting for a sustainable, long-term solution that minimizes waste and maximizes resource efficiency, aligning your business practices with the principles of the circular economy.
+A code alone is no guarantee. Three factors play a role:
+
+* **Composition.** Products made of several layers or materials are harder to recycle than products made of a single plastic.
+* **Demand for recycled material.** Even if a plastic is technically recyclable, it is recycled less often when there is little demand for the recycled material.
+* **Local collection.** Not every collection scheme accepts all types of plastic. If in doubt, check your local authority’s website.
+
+The rules are also getting stricter. Under the European packaging regulation [PPWR](@guide-ppwr), packaging must be recyclable in class A, B or C from 2030.
+
+## Which resin code do plastic pallets have?
+
+That varies by manufacturer and pallet type. We make our standard pallets from nearly 100% recycled plastic: a mix of HDPE (code 2) and PP (code 5). Our light pallets also contain LDPE (code 4). All three are polyolefins.
+
+Only our [hygienic pallets](@type-hygienic), H1 pallets and cleanroom pallets are made from virgin (new) plastic, in a colour of their own. Pallets made of recycled plastic are not intended for direct food contact.
+
+At the end of their life, our pallets are fully recyclable. We take them back: pallets in good condition get a second life through [Q-Used](@used), and we grind the rest into raw material for new pallets. Find out how that works in [recycling plastic pallets](@news-recycling).
+
+Looking for recycled plastic pallets for your application? [Request a quote](@quote). You will usually receive a tailored price within one working day.

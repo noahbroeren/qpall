@@ -1,36 +1,63 @@
 ---
 id: news-brexit
-title: "Palettes plastique : import et export après le Brexit"
-description: "Après le Brexit, les exportateurs britanniques manquent de palettes en bois adéquates pour l’UE. Voyez comment les palettes plastique Q-Pall y répondent."
+title: "Brexit : palettes plastique et Royaume-Uni – Q-Pall"
+description: "Depuis le Brexit, les palettes en bois échangées avec le Royaume-Uni doivent respecter l’ISPM 15, pas les palettes plastique. Q-Pall produit aussi au R.-U."
 eyebrow: "Actualités"
 tag: "Supply chain"
-crumb: "Palettes plastique"
-h1: "Palettes plastique : **une solution pour l’import et l’export après le Brexit**"
-lead: "Après le Brexit, les exportateurs britanniques manquent de palettes en bois adéquates pour l’UE. Voyez comment les palettes plastique Q-Pall y répondent."
-img_alt: "Palettes plastique : une solution pour l’import et l’export après le Brexit"
-reading: 4
+crumb: "Les palettes après le Brexit"
+h1: "Brexit et palettes : **quelles règles pour les échanges avec le Royaume-Uni ?**"
+lead: "Depuis le Brexit, le Royaume-Uni est un pays hors UE pour les palettes. Les palettes en bois doivent donc respecter l’ISPM 15, pas les palettes plastique. Et Q-Pall fabrique des palettes plastique au Royaume-Uni même, à Chesterfield."
+img_alt: "Panneau dans le style du métro londonien portant le mot Brexit, devant un drapeau britannique"
+reading: 3
+faq:
+- q: "Les palettes en bois pour le Royaume-Uni doivent-elles respecter l’ISPM 15 ?"
+  a: "Oui. Depuis la fin de la période de transition, le 31 décembre 2020, les palettes en bois échangées entre l’UE et le Royaume-Uni doivent être traitées et marquées selon l’ISPM 15, dans les deux sens."
+- q: "Les palettes plastique ont-elles besoin d’un marquage ISPM 15 pour le Royaume-Uni ?"
+  a: "Non. L’ISPM 15 s’applique uniquement aux emballages en bois massif. Les palettes plastique ne nécessitent ni traitement ni marquage, y compris pour les envois vers et depuis le Royaume-Uni."
+- q: "Quel format de palette est courant au Royaume-Uni ?"
+  a: "Au Royaume-Uni, on utilise beaucoup la palette industrielle de 1200 x 1000 mm. Nous fabriquons nos palettes export notamment en 1200 x 1000 mm et en 1200 x 800 mm."
+published: '2022-01-13'
+updated: '2026-11-02'
 ---
-23 juin 2016. Pas vraiment une date qui dise quelque chose à de nombreuses personnes. Pourtant, c’est ce jour-là que l’on a décidé le Brexit et cela peut avoir des conséquences énormes tant pour vos importations que pour vos exportations vers la Grande-Bretagne ! Une raison majeure est le manque de suffisamment de palettes en bois adéquates chez les fabricants britanniques qui exportent dans l’Union européenne. Vous lirez ci-dessous ce qu’il en est exactement et comment les palettes plastique de Q-Pall peuvent être la solution.
+> **En bref**
+>
+> * Le Royaume-Uni a quitté l’UE le 31 janvier 2020. La période de transition a duré jusqu’au 31 décembre 2020.
+> * Depuis, les palettes en bois échangées entre l’UE et le Royaume-Uni doivent respecter l’ISPM 15 : traitées et marquées.
+> * Les palettes plastique ne sont pas soumises à l’ISPM 15 et ne nécessitent ni traitement ni marquage.
+> * Q-Pall dispose d’une usine à Chesterfield et produit donc aussi au Royaume-Uni même.
 
-## Trop peu de palettes adéquates chez les exportateurs britanniques
+## Du référendum à la sortie
 
-Cela semble un point marginal et anodin dans la violence considérable du Brexit à laquelle nous sommes confrontés tous les jours. Pourtant, on n’avait pas encore pensé à la disponibilité en suffisance de palettes en bois adéquates pour l’exportation vers l’Union européenne. Et cela peut avoir des conséquences énormes. Quel est le problème à présent ?
+Le 23 juin 2016, le Royaume-Uni a voté pour quitter l’Union européenne. Il a quitté l’UE le 31 janvier 2020. Une période de transition a suivi jusqu’au 31 décembre 2020, pendant laquelle les anciennes règles s’appliquaient encore.
 
-On pose d’autres exigences aux palettes en bois qui ne proviennent pas de l’Union européenne par rapport aux palettes qui sont transportées dans les pays de l’Union. Et cela deviendra applicable dès que la Grande-Bretagne aura quitté l’Union européenne. Ces conditions plus strictes se rapportent par exemple à la santé des consommateurs. Les palettes ne provenant pas de l’UE doivent subir un traitement pour garantir la santé. Il doit également y avoir un marquage sur chaque palette prouvant qu’elle satisfait bien aux conditions. Ce n’est que maintenant seulement (!) qu’il s’avère que les exportateurs britanniques n’ont pas assez de ces palettes, ce qui peut mettre en péril une grande partie de l’exportation. Et l’exportation britannique est principalement l’importation de pays de l’Union européenne. Cela peut donc aussi vous toucher
+Depuis la fin de cette période de transition, le Royaume-Uni est un pays tiers pour les échanges commerciaux. Cela a des conséquences pour les marchandises, mais aussi pour les palettes qui les transportent.
 
-## Quelle est l’ampleur du problème?
+## Ce que le Brexit change pour les palettes en bois
 
-Pour vous donner une idée de l’ampleur du problème : chaque année, des dizaines de millions de palettes en provenance de la Grande-Bretagne sont transportées vers l’Union européenne. Et la majorité de ces palettes ne satisfait pas aux prescriptions européennes pour palettes ne provenant pas de l’UE. On transporte de nombreux produits sur ces palettes. Pensez aux denrées alimentaires, aux appareils électroniques, mais aussi aux médicaments. Il y a bien entendu des palettes adéquates en Grande-Bretagne, mais elles sont loin d’être suffisantes pour tous les exportateurs britanniques. On craint dès lors que de nombreux exportateurs britanniques n’aient pas assez de palettes adéquates et fassent faillite. C’est donc un gros problème.
+Les emballages en bois utilisés dans le transport international sont soumis à la norme ISPM 15. Cette norme protège la santé des végétaux : les insectes et les maladies des plantes ne doivent pas franchir les frontières avec le bois. Une palette en bois doit donc être traitée, généralement par la chaleur, et porter un marquage officiel.
 
-## La solution : les palettes plastique de Q-Pall
+Au sein de l’UE, l’ISPM 15 n’est généralement pas obligatoire. Depuis le Brexit, la norme s’applique en revanche aux palettes en bois dans les échanges entre l’UE et le Royaume-Uni, dans les deux sens. Une palette sans traitement ou marquage correct peut entraîner des retards, le renvoi de l’envoi, voire sa destruction.
 
-Depuis des années, Q-Pall fabrique des palettes plastique dans différentes usines européennes qui satisfont à la législation européenne stricte. Nous produisons non seulement des palettes plastique, mais nous nous chargeons également de leur distribution et de leur vente. Pour le moment, notre assortiment de palettes plastique comporte plus de 150 produits. De ce fait, nous avons les palettes adéquates pour pratiquement toutes les applications. Et autrement, nous sommes à même de les fabriquer pour vous. En partant de notre aspiration à la responsabilité sociale des entreprises (RSE), nous nous chargeons également du recyclage des palettes plastique que nous produisons. Et grâce à la durabilité de nos palettes, elles permettent en pratique de réduire encore une fois les coûts.
+À l’approche du Brexit, on craignait que les exportateurs britanniques ne disposent pas d’assez de palettes en bois traitées. Beaucoup de palettes qui circulaient entre le Royaume-Uni et l’UE ne respectaient pas l’ISPM 15. Pour les entreprises des deux côtés de la Manche, c’était un risque bien réel.
 
-Avantages de nos palettes plastique
+## Palettes plastique : pas besoin d’ISPM 15
 
-- Grand assortiment de palettes plastique
-- Plus rentables et plus durables par rapport aux palettes en bois
-- Satisfont à la législation européenne stricte
-- Q-Pall s’occupe de toute la chaine de la conception à la production jusqu’à la distribution
+L’ISPM 15 s’applique uniquement aux emballages en bois massif. Les palettes plastique n’y sont pas soumises. Elles ne nécessitent ni traitement thermique ni marquage, quelle que soit la destination de votre envoi. Pour une explication complète, lisez [ISPM 15 : exporter sans marquage](@guide-ispm).
 
-N’hésitez pas à nous contacter si vous voulez en savoir davantage sur les possibilités dans le domaine des palettes plastique, ou si vous avez d’autres questions sur notre assortiment. Nous nous ferons un plaisir de vous aider
+Ce que cela vous apporte dans vos échanges avec le Royaume-Uni :
+
+* **Ni traitement ni certificat.** Vous n’avez rien à organiser pour la palette elle-même.
+* **Aucun retard dû à la palette.** Une palette plastique ne sera pas refusée pour un marquage manquant ou incorrect.
+* **Légère et souvent emboîtable.** Nos [palettes export](@type-export) supportent jusqu’à 2.500 kg en charge statique et s’emboîtent à vide.
+* **Le bon format.** Au Royaume-Uni, la palette industrielle de [1200 x 1000 mm](@size-1200x1000) est courante.
+* **Circulaire.** Nos palettes standard sont en plastique recyclé et entièrement recyclables en fin de vie.
+
+## Q-Pall produit aussi au Royaume-Uni
+
+Q-Pall fabrique des palettes plastique dans six usines : Balk (Pays-Bas), Ribe (Danemark), Marktoberdorf (Allemagne), Nantes (France), Lleida (Espagne) et Chesterfield (Royaume-Uni). Presque tous nos clients se trouvent à moins de 600 kilomètres de l’une de nos usines.
+
+Notre approche : les moules voyagent, pas les palettes. Nous installons le moule dans l’usine la plus proche du client. Pour les clients au Royaume-Uni, il peut s’agir de l’usine de Chesterfield : des transports courts et aucun passage de frontière pour les palettes elles-mêmes. En savoir plus sur la [production locale](@about-local).
+
+Vous avez besoin de plus petites quantités ? Adressez-vous à un [distributeur près de chez vous](@dealers). Au Royaume-Uni, nous travaillons notamment avec le distributeur Goplasticpallets.com.
+
+Vous exportez vers le Royaume-Uni ou vous y êtes implanté ? [Demandez un devis](@quote) : vous recevrez en général un prix sur mesure sous un jour ouvré.

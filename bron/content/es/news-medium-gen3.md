@@ -1,19 +1,50 @@
 ---
 id: news-medium-gen3
-title: "Nuevo palet Medium 1200 x 800 de 3.ª generación – Q-Pall"
-description: "Conozca la 3.ª generación del palet de plástico Medium 1200 x 800: 100 % reciclado, con cubierta abierta o cerrada y hasta 750 kg de carga en estantería."
+title: "Palet de plástico Medium 1200 x 800: 3.ª generación – Q-Pall"
+description: "En 2023 Q-Pall lanzó la tercera generación de su palet de plástico Medium de 1200 x 800 mm: reciclado casi al 100% y con superficie abierta o cerrada."
 eyebrow: "Noticias"
 tag: "Producto"
-crumb: "Nuevo palet Medium 1200 x 800 de 3.ª"
-h1: "Novedad: **el palet de plástico Medium 1200 x 800 de 3.ª generación**"
-lead: "Conozca la 3.ª generación del palet de plástico Medium 1200 x 800: 100 % reciclado, con cubierta abierta o cerrada y hasta 750 kg de carga en estantería."
-img_alt: "Novedad: el palet de plástico Medium 1200 x 800 de 3.ª generación"
-reading: 3
+crumb: "Palet Medium, 3.ª generación"
+h1: "La tercera generación del **palet de plástico Medium 1200 x 800**"
+lead: "En 2023 Q-Pall lanzó la tercera generación de su palet de plástico Medium de 1200 x 800 mm. El palet está fabricado con plástico reciclado casi al 100% y soporta hasta 750 kg en estantería."
+img_alt: "Palet de plástico Medium de 1200 x 800 mm, mitad con superficie abierta y mitad cerrada, con el texto Racking load: 750 kg"
+reading: 2
+published: '2023-03-09'
+updated: '2026-11-02'
 ---
-Presentamos la nueva palet plástico para cargas medias de 1200 x 800 mm, nuestra 3ª generación fabricada con material 100% reciclado. Este producto respetuoso con el medio ambiente está ahora disponible en diseños de cubierta superior abierta y cerrada, y está diseñado para soportar una carga en estantería de hasta 750 kg. Al utilizar material reciclado en el proceso de producción, reducimos la cantidad de residuos que, de otro modo, habrían acabado en los vertederos. Esto significa que el palet no sólo es respetuoso con el medio ambiente, sino que también ayuda a reducir el impacto medioambiental de la eliminación de residuos. Las dimensiones del palet lo hacen perfecto para su uso en una gran variedad de industrias, como la alimentaria y de bebidas, la farmacéutica, la logística y la manufacturera. El tamaño de 1200 x 800 mm es un tamaño estándar utilizado en muchos países y es compatible con la mayoría de los equipos de manipulación de palets. La resistencia media de este palet lo hace ideal para aplicaciones que requieren un palet que soporte una cantidad moderada de peso, sin sacrificar la durabilidad ni la resistencia. La capacidad de carga en estanterías de 500 kg para la versión de piso abierto y 750 kg para la versión de piso cerrado la hace perfecta para su uso en sistemas de estanterías de almacén, permitiendo a las empresas maximizar el espacio de almacenamiento sin preocuparse de que las paletas se rompan o fallen. Además de ser ecológico, el palet es extremadamente duradero. Fabricado con material reciclado de alta calidad, es resistente a la humedad, los productos químicos y los rayos UV. Esto significa que puede utilizarse en una gran variedad de entornos y que es apto tanto para interiores como para exteriores. Los diseños de cubierta superior abierta y cerrada ofrecen flexibilidad adicional a las empresas. El diseño de cubierta superior abierta facilita el acceso a los productos y mercancías que se transportan, por lo que es ideal para aplicaciones en las que es necesario cargar y descargar con frecuencia. El diseño de cubierta superior cerrada ofrece protección adicional a las mercancías transportadas y es ideal para aplicaciones en las que la integridad del producto es esencial. En conclusión, la introducción de la nueva palet plástico para cargas medias de 1200 x 800 mm fabricada con material 100% reciclado es una gran incorporación al mercado. Este producto ecológico ofrece a las empresas una solución de embalaje responsable con el medio ambiente, a la vez que duradera y flexible. La capacidad de carga máxima de 750 kg del palet lo hace ideal para los sistemas de estanterías de almacén, y los diseños de cubierta superior abierta y cerrada ofrecen una flexibilidad adicional a las empresas.
+> **En resumen**
+>
+> * En 2023 Q-Pall lanzó la tercera generación de su palet de plástico Medium de 1200 x 800 mm.
+> * El palet está fabricado con plástico reciclado casi al 100%.
+> * Hay una versión con superficie abierta (QP1208MB3RR) y otra con superficie cerrada (QP1208MB3RR-CD), ambas sobre tres patines.
+> * En estantería, el palet soporta hasta 500 kg con superficie abierta y hasta 750 kg con superficie cerrada.
+> * El palet no absorbe humedad y resiste muchos productos químicos.
 
-[Palet plástico 1200 x 800 3 patines cerrado medium](@p:qp1208mb3rr-cd){: .btn .btn-primary}
-{: .btn-row}
+## El tamaño del europalet en versión Medium
 
-[Palet plástico 1200 x 800 3 patines medium](@p:qp1208mb3rr){: .btn .btn-primary}
-{: .btn-row}
+1200 x 800 mm es el tamaño del europalet. Es un tamaño estándar que se utiliza en muchos países y que se adapta a la mayoría de transpaletas, carretillas elevadoras y otros equipos de manipulación. Descubra todos los [palets de plástico de 1200 x 800 mm](@size-1200x800).
+
+La tercera generación es un [palet Medium](@class-medium): el todoterreno para transporte interno, distribución y almacenaje ligero en estantería. El palet soporta un peso medio sin renunciar a resistencia ni a vida útil.
+
+## Superficie abierta o cerrada
+
+* **Superficie abierta (QP1208MB3RR).** La superficie abierta es más ligera y deja escurrir la humedad. Es adecuada para aplicaciones con cargas y descargas frecuentes.
+* **Superficie cerrada (QP1208MB3RR-CD).** La superficie cerrada ofrece una base plana y continua para productos pequeños, sacos y cajas. Protege mejor la carga y es fácil de limpiar.
+
+## Capacidad de carga
+
+El palet mide 1200 x 800 x 145 mm y soporta 5.000 kg de carga estática. En estanterías para palets, la versión con superficie abierta soporta hasta 500 kg y la versión con superficie cerrada hasta 750 kg. Por tanto, también puede utilizar el palet en estanterías de almacén.
+
+Estos valores se aplican a una carga distribuida de manera uniforme. Encontrará más información en nuestra página sobre [la capacidad de carga de los palets de plástico](@about-load).
+
+## Fabricado con plástico reciclado
+
+El palet está fabricado con plástico reciclado casi al 100%, una mezcla de HDPE y PP. Así, un plástico que de otro modo sería un residuo tiene una nueva vida. Al final de su vida útil, el palet es totalmente reciclable: lo recogemos y lo convertimos de nuevo en materia prima para palets nuevos. Conozca nuestro enfoque de [sostenibilidad](@about-sustainability).
+
+## Dónde utilizar el palet
+
+El palet no absorbe humedad y resiste muchos productos químicos. Es adecuado para muchos sectores, desde la logística y la fabricación hasta la industria alimentaria y de bebidas.
+
+Un palet de plástico reciclado no está pensado para el contacto directo con alimentos. Para ese uso ofrecemos [palets higiénicos](@type-hygienic) de plástico virgen.
+
+¿Quiere saber qué versión se adapta mejor a su proceso? [Solicite un presupuesto](@quote); normalmente recibirá un precio a medida en un día laborable.

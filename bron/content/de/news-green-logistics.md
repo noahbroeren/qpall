@@ -1,45 +1,68 @@
 ---
 id: news-green-logistics
-title: "Der Schlüssel zur Zukunft der grünen Logistik – Q-Pall"
-description: "Leichter als Holz und damit weniger Kraftstoffverbrauch: Erfahren Sie, welche ökologischen Vorteile Kunststoffpaletten Ihrer grünen Logistik bieten."
+title: "Grüne Logistik: die Rolle von Kunststoffpaletten – Q-Pall"
+description: "Welche Rolle spielen Kunststoffpaletten in der grünen Logistik? Gewicht und Kraftstoff, Lebensdauer, Recycling, lokale Produktion und Kosten pro Umlauf."
 eyebrow: "Aktuelles"
 tag: "Nachhaltigkeit"
-crumb: "Der Schlüssel zur Zukunft der grünen"
-h1: "Der Schlüssel zur **Zukunft der grünen Logistik**"
-lead: "Leichter als Holz und damit weniger Kraftstoffverbrauch: Erfahren Sie, welche ökologischen Vorteile Kunststoffpaletten Ihrer grünen Logistik bieten."
-img_alt: "Der Schlüssel zur Zukunft der grünen Logistik"
+crumb: "Paletten und grüne Logistik"
+h1: "Grüne Logistik: **die Rolle von Kunststoffpaletten**"
+lead: "Unternehmen werden immer öfter an ihrer Umweltwirkung gemessen. Ein Element, das dabei oft übersehen wird, ist die Palette. So tragen Kunststoffpaletten zu einer grüneren Logistik bei."
+img_alt: "Drei Holzwürfel mit Symbolen für Zusammenarbeit, die Erde und Recycling auf buntem Kunststoffmahlgut"
 reading: 3
+faq:
+- q: "Was ist grüne Logistik?"
+  a: "Grüne Logistik (Green Logistics) ist Logistik mit möglichst geringer Umweltwirkung: weniger Emissionen, weniger Abfall und effizienterer Einsatz von Ressourcen. Auch die Wahl der Paletten spielt dabei eine Rolle."
+- q: "Sind Kunststoffpaletten leichter als Holzpaletten?"
+  a: "Oft ja, je nach Typ. Light-Paletten sind viel leichter als Holz. Heavy-Paletten wiegen 17 bis 28 kg, also etwa so viel wie eine Europalette aus Holz mit rund 25 kg."
+- q: "Wie trägt lokale Produktion zur grünen Logistik bei?"
+  a: "In der Palettenbranche entsteht der größte Teil der CO₂-Emissionen durch den Transport. Wir produzieren in sechs europäischen Werken, sodass fast jeder Kunde im Umkreis von 600 Kilometern um ein Werk liegt."
+published: '2023-09-11'
+updated: '2026-11-02'
 ---
-## Die Rolle von Kunststoffpaletten in der grünen Logistik
+> **Kurz gesagt**
+>
+> * Bei grüner Logistik geht es um weniger Emissionen und Abfall in Transport und Lagerung. Die Palette spielt dabei mit.
+> * Kunststoffpaletten sind oft leichter als Holz, vor allem in der Klasse Light. Das spart Kraftstoff.
+> * Sie halten viele Jahre und sind danach vollständig recycelbar.
+> * Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff: 34.500 Tonnen im Jahr 2025.
+> * Lokale Produktion in sechs europäischen Werken begrenzt den Transport der Paletten selbst.
 
-In einer Ära, in der Nachhaltigkeit zu einem Schlagwort geworden ist und Unternehmen zunehmend für ihre Umweltauswirkungen zur Rechenschaft gezogen werden, spielt die grüne Logistik eine entscheidende Rolle. Das Streben nach umweltfreundlicheren Abläufen in der Logistikbranche hat verschiedene Aspekte, von effizientem Transport bis hin zu intelligentem Lagermanagement. Ein häufig übersehener, aber wesentlicher Bestandteil in diesem Puzzle ist die Wahl der Paletten. [Kunststoffpaletten](@pallets) bieten verschiedene ökologische Vorteile, die zu einer grüneren Lieferkette beitragen. In diesem Blog diskutieren wir, wie Kunststoffpaletten eine wertvolle Ergänzung für Ihre grüne Logistikstrategie sein können.
+## Was ist grüne Logistik?
 
-### Weniger Gewicht, weniger Kraftstoff
+Grüne Logistik, auch Green Logistics, ist das Streben nach einer Logistik mit weniger Umweltwirkung. Das reicht von effizientem Transport bis zu intelligenter Lagerverwaltung. Unternehmen werden immer öfter an ihrer Umweltwirkung gemessen, auch von ihren Kunden und Partnern in der Lieferkette.
 
-Im Gegensatz zu ihren hölzernen Pendants sind Kunststoffpaletten deutlich leichter. Dies senkt das Gesamtgewicht der Fracht und kann zu einer erheblichen Reduzierung des Kraftstoffverbrauchs während des Transports führen. Weniger Kraftstoff bedeutet weniger Emissionen und ermöglicht es Ihrem Unternehmen, seinen ökologischen Fußabdruck zu verkleinern.
+Ein Element, das dabei oft übersehen wird, ist die Wahl der Paletten. Kunststoffpaletten bieten mehrere Vorteile, die zu einer grüneren Lieferkette beitragen.
 
-### Recycelbar
+## Weniger Gewicht, weniger Kraftstoff
 
-Am Ende ihrer Lebensdauer können Kunststoffpaletten leicht recycelt werden. Sie können zermahlen und dann wieder in neue Kunststoffprodukte umgewandelt werden, wodurch der Einsatz neuer Rohstoffe minimiert wird. Dies ist ein wesentlicher Vorteil gegenüber Holzpaletten, die oft als Abfall oder Brennstoff für Kraftwerke enden, mit allen damit verbundenen Umweltauswirkungen.
+Kunststoffpaletten sind oft leichter als Holzpaletten, je nach Typ. Vor allem [Light-Paletten](@class-light) wiegen deutlich weniger. Ein geringeres Eigengewicht bedeutet mehr Ladung pro Fahrt und weniger Kraftstoff, und damit weniger Emissionen.
 
-### Wiederverwendbar und langlebig
+Bei schweren Anwendungen ist der Unterschied kleiner. Eine Heavy-Kunststoffpalette wiegt 17 bis 28 kg, eine Europalette aus Holz rund 25 kg. Der Vorteil liegt dann vor allem in der langen Lebensdauer und dem konstanten Gewicht, denn Kunststoff nimmt keine Feuchtigkeit auf.
 
-Kunststoffpaletten sind robuster und haben eine längere Lebensdauer als Holzpaletten. Sie sind besser gegen Abnutzung, Wasserschäden und andere Formen des Verschleißes resistent. Dadurch können sie mehrmals wiederverwendet werden, was zu weniger Abfall und einem geringeren Bedarf an neuen Paletten führt.
+## Langlebig und wiederverwendbar
 
-### Hygienisch und sicher
+Kunststoffpaletten sind robust und halten viele Jahre, viel länger als eine durchschnittliche Holzpalette. Sie widerstehen Verschleiß, Feuchtigkeit und Stößen. Deshalb lassen sie sich sehr oft wiederverwenden, was weniger Abfall und weniger neue Paletten bedeutet.
 
-Kunststoffpaletten sind leichter zu reinigen und zu desinfizieren, was das Risiko einer Kreuzkontamination von Waren minimiert. In einer Zeit, in der Hygiene und Sicherheit von größter Bedeutung sind, kann dies nicht unterschätzt werden.
+Auch wenn eine Palette bei Ihnen aus dem Umlauf genommen wird, ist sie oft noch gut brauchbar. Über [Q-Used](@used) bekommen geprüfte Paletten ein zweites Leben.
 
-### Kosteneinsparungen
+## Recycelbar am Ende der Lebensdauer
 
-Obwohl die Anfangskosten für Kunststoffpaletten höher sein können als die für Holzpaletten, sind die Betriebskosten über die Lebensdauer oft niedriger. Die Langlebigkeit und Wiederverwendbarkeit von Kunststoffpaletten können zu erheblichen Kosteneinsparungen auf lange Sicht führen.
+Am Ende ihrer Lebensdauer sind Kunststoffpaletten vollständig recycelbar. Sie werden gemahlen und wieder zu neuen Produkten verarbeitet, etwa zu neuen Paletten. So wird weniger neuer Rohstoff benötigt. Wie das funktioniert, lesen Sie in [Recycling von Kunststoffpaletten](@news-recycling).
 
-### Q-Pall - einen Schritt weiter
+Holzpaletten werden am Ende ihrer Lebensdauer meist gehäckselt oder verbrannt, mit den entsprechenden Emissionen.
 
-Wenn es darum geht, den ökologischen Fußabdruck in der Logistik zu reduzieren, gehen wir einen Schritt weiter, da 99% unserer Paletten aus recyceltem Kunststoff hergestellt werden. Dadurch verbrauchen wir jährlich etwa 30.000 Tonnen recycelten Kunststoff. Dies unterstützt nicht nur die Kreislaufwirtschaft, sondern trägt auch direkt zur Bewältigung des globalen Plastikproblems bei. Durch die Verwendung von recyceltem Material hilft Q-Pall, die Menge an Plastikmüll zu reduzieren, die sonst in Ozeanen, Mülldeponien oder Verbrennungsanlagen landen würde. Es ist ein Beispiel dafür, wie Unternehmen durch innovative Ansätze nicht nur ihre eigenen Abläufe nachhaltiger gestalten, sondern auch einen positiven Einfluss auf globale Umweltfragen haben können.
+## Leicht zu reinigen
 
-### Schlussfolgerung
+Kunststoffpaletten nehmen keine Feuchtigkeit auf und lassen sich gut reinigen. Das hilft, eine Verschmutzung der Ware zu vermeiden. Für den direkten Lebensmittelkontakt gibt es [Hygienepaletten](@type-hygienic) aus Neuware.
 
-Grüne Logistik ist mehr als ein Trend; sie ist eine Notwendigkeit in der modernen Geschäftswelt. Die Verwendung von Kunststoffpaletten kann einen signifikanten Unterschied in Ihren Nachhaltigkeitsbemühungen machen. Von Gewichts- und Kraftstoffeinsparungen bis hin zu Langlebigkeit und Recycelbarkeit bieten Kunststoffpaletten eine Reihe von Vorteilen, die in eine grünere und nachhaltigere Logistikstrategie passen.
+## Niedrigere Kosten pro Umlauf
 
-Durch den Umstieg auf Kunststoffpaletten trägt Ihr Unternehmen nicht nur zu einem saubereren Planeten bei, sondern kann auch Kosteneinsparungen und betriebliche Effizienz genießen. Es ist eine Win-Win-Situation, die in jedem Ansatz zur grünen Logistik in Betracht gezogen werden sollte.
+Kunststoffpaletten sind in der Anschaffung oft teurer als Holzpaletten. Über die gesamte Lebensdauer sind die Kosten pro Umlauf jedoch oft niedriger, dank der langen Lebensdauer und der Wiederverwendung. Grünere Entscheidungen und niedrigere Kosten gehen hier also zusammen.
+
+## Q-Pall: einen Schritt weiter
+
+Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff. 2025 haben wir 34.500 Tonnen recycelten Kunststoff verarbeitet, rund 1.475 volle Lkw-Ladungen. Das hilft, die Menge an Kunststoffabfall zu verringern, die sonst auf Deponien, in Verbrennungsanlagen oder in den Ozeanen landen würde.
+
+Außerdem produzieren wir [lokal](@about-local), in sechs Werken, verteilt über ganz Europa. In der Palettenbranche entsteht der größte Teil der CO₂-Emissionen durch den Transport. Weil fast jeder Kunde im Umkreis von 600 Kilometern um ein Q-Pall-Werk liegt, bleiben die Transportwege kurz.
+
+Sie möchten wissen, welche Paletten am besten zu Ihrer grünen Logistik passen? [Fordern Sie ein Angebot an](@quote). In der Regel erhalten Sie innerhalb eines Werktags einen individuellen Preis.

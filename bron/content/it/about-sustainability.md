@@ -27,7 +27,7 @@ Un pallet in plastica dura molti anni, molto più a lungo di un pallet in legno 
 
 ## EcoVadis Bronze
 
-Le nostre prestazioni in materia di sostenibilità sono valutate in modo indipendente da EcoVadis. Nell’ottobre 2026 abbiamo ottenuto di nuovo la medaglia EcoVadis Bronze, che ci colloca nel 35% migliore delle aziende valutate.
+Le nostre prestazioni in materia di sostenibilità sono valutate in modo indipendente da EcoVadis. Nell’aprile 2023 abbiamo ricevuto la medaglia d’argento, nel 2025 quella di bronzo. Nell’ottobre 2026 abbiamo ottenuto di nuovo la medaglia EcoVadis Bronze, che ci colloca nel 35% migliore delle aziende valutate.
 
 ## Pallets with a purpose
 

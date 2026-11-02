@@ -1,21 +1,74 @@
 ---
 id: news-price-wood
-title: "Le plastique bat désormais le bois sur le prix – Q-Pall"
-description: "Avec la flambée du prix du bois due à la crise du coronavirus, les palettes plastique, plus légères, sûres et hygiéniques, deviennent plus compétitives."
+title: "Plastique ou bois : qui gagne sur le prix ? – Q-Pall"
+description: "Le bois coûte moins cher à l’achat, mais son prix fluctue fortement. Pourquoi les palettes plastique reviennent souvent moins cher par rotation."
 eyebrow: "Actualités"
 tag: "Conseils"
-crumb: "Le plastique bat désormais le bois sur"
-h1: "Le plastique bat désormais le bois **sur le prix**"
-lead: "Avec la flambée du prix du bois due à la crise du coronavirus, les palettes plastique, plus légères, sûres et hygiéniques, deviennent plus compétitives."
-img_alt: "Le plastique bat désormais le bois sur le prix"
+crumb: "Plastique ou bois : le prix"
+h1: "Plastique ou bois : **qui gagne sur le prix ?**"
+lead: "À l’unité, une palette en bois coûte généralement moins cher. Mais le prix du bois fluctue fortement et une palette plastique dure bien plus longtemps. En coût par rotation, le plastique l’emporte souvent."
+img_alt: "Palettes plastique noires et palettes Europe en bois empilées côte à côte, avec « vs. » entre les deux"
 reading: 3
+faq:
+- q: "Une palette plastique est-elle plus chère qu’une palette en bois ?"
+  a: "À l’achat, généralement oui. Mais une palette plastique dure bien plus longtemps, ne doit être ni réparée ni traitée pour l’export et n’abîme pas votre chargement. Par rotation, le plastique revient donc souvent moins cher."
+- q: "Pourquoi le prix des palettes en bois fluctue-t-il autant ?"
+  a: "Le prix du bois dépend de l’offre et de la demande. Pendant la crise du coronavirus, la demande a fortement augmenté alors que la production avait été réduite. Les prix du bois ont alors atteint des niveaux records."
+- q: "Comment calculer le coût par rotation ?"
+  a: "Divisez le prix d’achat par le nombre d’utilisations de la palette. Ajoutez-y les coûts de réparation, les dommages au chargement et un éventuel traitement ISPM 15."
+- q: "Existe-t-il une alternative moins chère aux palettes plastique neuves ?"
+  a: "Oui. Les palettes plastique d’occasion Q-Used sont contrôlées et jusqu’à 40 % moins chères que les neuves. Le stock évolue, demandez-nous donc l’offre actuelle."
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-Si l'on compare les palettes en plastique et en bois, le plastique l'emporte sur de nombreux points. Le plastique est plus hygiénique, car il est plus facile à nettoyer, et plus sûr, car il ne se fendille pas. De plus, les palettes en plastique sont environ trois fois plus légères que celles en bois, ce qui réduit les coûts de transport. Pourquoi utilise-t-on encore autant de palettes en bois ? Principalement à cause du prix. Les palettes en bois étaient moins chères. Jusqu'à récemment. La crise mondiale du coronavirus a fait flamber le prix du bois.
+> **En bref**
+>
+> * Une palette en bois coûte généralement moins cher à l’achat, mais le prix du bois fluctue fortement.
+> * Une palette plastique dure bien plus longtemps. Par rotation, elle revient donc souvent moins cher.
+> * Les palettes plastique n’absorbent pas l’humidité, ne font pas d’échardes et sont exemptées de l’ISPM 15.
+> * Les palettes plastique d’occasion sont jusqu’à 40 % moins chères que les neuves.
 
-**Une hausse spectaculaire des prix !** Au début de la pandémie, en 2020, l'industrie du bois prévoyait une chute massive des prix. Les stocks ont été réduits et la production a ralenti. Mais cette prévision était erronée. Le secteur du bâtiment a continué de fonctionner à plein régime et de nombreux Américains ont entrepris des travaux de rénovation. Résultat ? Une demande énorme pour le bois, tandis que l'offre diminuait. Le prix du bois atteint désormais des sommets historiques. Autrefois plus économique que le plastique, cet argument ne tient plus aujourd'hui.
+## Le bois coûte moins cher à l’achat
 
-**Plastique vs Bois** En raison de la pénurie de bois, il est désormais possible d'acheter une palette en plastique recyclée au même prix qu'une palette en bois. Recyclée ? Absolument !
+Si vous comparez [palettes plastique et palettes en bois](@guide-wood), le plastique l’emporte sur de nombreux points. Le plastique n’absorbe pas l’humidité et se nettoie facilement. Il ne fait pas d’échardes et aucun clou ne se détache.
 
-Lors de la création de Q-PALL, l'objectif était de réutiliser 90 % des palettes en plastique. Objectif largement dépassé : pas moins de 98 % de nos palettes sont fabriquées à partir de matériaux recyclés. Nos palettes sont réutilisées aussi longtemps que possible, recyclées, puis transformées en matières premières pour fabriquer de nouvelles palettes. La durée de vie moyenne d'une palette en plastique est d'environ 10 ans, tandis qu'une palette en bois doit souvent être réparée ou remplacée après seulement 3 ans.
+Les palettes plastique sont en outre souvent plus légères, selon le type. Une palette Europe plastique emboîtable pèse un peu plus de 5 kg, une palette Europe en bois environ 25 kg. Une palette plastique Heavy pèse de 17 à 28 kg, soit à peu près autant qu’une palette Europe en bois.
 
-**Hygiène & ISPM15** Comme mentionné précédemment, les palettes en plastique sont faciles à nettoyer, ce qui les rend populaires dans l'industrie alimentaire et pharmaceutique. En revanche, le bois peut héberger des champignons et des bactéries, nécessitant un traitement spécial pour l'exportation, conforme à la norme ISPM 15. Cette norme vise à empêcher la propagation de parasites dans les emballages en bois. Le plastique, lui, ne nécessite aucun traitement et répond déjà aux exigences strictes de pays comme le Royaume-Uni, les États-Unis, la Chine, l'Australie, le Canada et la Nouvelle-Zélande.
+Pourquoi utilise-t-on encore autant de palettes en bois ? Surtout pour le prix. À l’unité, une palette en bois coûte généralement moins cher.
+
+## Le prix du bois fluctue fortement
+
+Le prix du bois n’est pas stable. La crise du coronavirus l’a clairement montré. Lorsque la pandémie a éclaté début 2020, l’industrie du bois s’attendait à une baisse des prix et a réduit sa production.
+
+Cette prévision s’est révélée fausse. Le bâtiment a continué à tourner à plein régime et, aux États-Unis, beaucoup de particuliers se sont lancés dans le bricolage. La demande de bois a fortement augmenté, l’offre n’a pas suivi et les prix du bois ont atteint des niveaux records.
+
+Si vous utilisez beaucoup de palettes en bois, vous ressentez immédiatement ces hausses, car il faut souvent les remplacer. Une palette plastique s’achète beaucoup moins souvent. Le prix d’achat pèse donc moins lourd.
+
+## Raisonnez en coût par rotation
+
+Une comparaison honnête ne se fait pas à l’unité, mais par rotation. Dans des conditions normales, une palette plastique dure de nombreuses années. Une palette en bois doit souvent être réparée ou remplacée au bout de quelques années seulement.
+
+Dans votre comparaison, tenez aussi compte des coûts que l’on oublie facilement avec le bois :
+
+* **Réparation et remplacement** des planches cassées et des clous desserrés.
+* **Dommages aux chargements et aux machines** causés par les échardes, les clous et les dimensions variables.
+* **Le traitement ISPM 15** nécessaire aux palettes en bois pour l’export.
+* **Les frais de transport**, car une palette plus légère coûte moins cher à transporter.
+
+Divisez le coût total par le nombre de rotations. Dans de nombreux cas, le plastique s’avère alors le choix le plus économique. Consultez les prix de départ par format et classe de charge dans [combien coûte une palette plastique ?](@guide-prices)
+
+## Encore moins cher : les palettes plastique d’occasion
+
+Vous souhaitez réduire au maximum le prix d’achat ? Les [palettes plastique d’occasion](@used) sont alors une bonne option. Sous le label Q-Used, nous vendons des palettes contrôlées jusqu’à 40 % moins chères que les neuves.
+
+Cela s’inscrit dans notre démarche. Une palette plastique reste en service le plus longtemps possible, éventuellement pour une seconde vie via Q-Used. En fin de vie, elle est entièrement recyclable, et nous fabriquons nos palettes standard en plastique recyclé à près de 100 %.
+
+## Nettoyage et export
+
+Comme les palettes plastique se nettoient facilement et en profondeur, elles sont très utilisées par les producteurs alimentaires et dans l’industrie pharmaceutique. Pour les applications où l’hygiène est prioritaire, il existe des [palettes hygiéniques](@type-hygienic) en plastique vierge. Le bois, lui, est poreux et peut véhiculer des moisissures.
+
+Pour l’export, le bois doit en outre être traité selon la norme [ISPM 15](@guide-ispm). Cette norme internationale vise à empêcher la propagation d’insectes et de maladies des plantes via les emballages en bois. Le bois est traité, généralement par la chaleur, pour tuer les éventuels nuisibles, puis reçoit un marquage.
+
+Les palettes plastique sont exemptées de l’ISPM 15. Elles n’ont donc besoin ni de traitement ni de marquage, même pour l’export vers des pays comme les États-Unis, la Chine, l’Australie ou le Royaume-Uni.
+
+Vous voulez savoir ce que coûteraient des palettes plastique dans votre situation ? [Demandez un devis](@quote). Vous recevez généralement un prix sur mesure en un jour ouvré.

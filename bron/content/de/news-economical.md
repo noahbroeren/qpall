@@ -1,39 +1,75 @@
 ---
 id: news-economical
-title: "Heute günstig, morgen teuer: die richtigen Paletten wählen"
-description: "Paletten aus Kunststoffen mit RIC-Code 7 wirken auf den ersten Blick attraktiv. Erfahren Sie, wie sie Recyclingfähigkeit und Kosten beeinflussen."
+title: "RIC-Code 7: heute günstig, morgen teuer – Q-Pall"
+description: "Kunststoffpaletten mit RIC-Code 7 wirken günstig, aber woraus bestehen sie und sind sie recycelbar? Warum die Kunststoffart für Kosten und PPWR zählt."
 eyebrow: "Aktuelles"
 tag: "Wissen"
 crumb: "Heute günstig, morgen teuer"
 h1: "Heute günstig, morgen teuer: **die richtigen Paletten wählen**"
-lead: "Paletten aus Kunststoffen mit RIC-Code 7 wirken auf den ersten Blick attraktiv. Erfahren Sie, wie sie Recyclingfähigkeit und Kosten beeinflussen."
-img_alt: "Heute günstig, morgen teuer: die richtigen Paletten wählen"
-reading: 4
+lead: "Eine Kunststoffpalette mit RIC-Code 7 wirkt in der Anschaffung günstig, kann später aber Geld kosten. Warum die Kunststoffart für Recycling, Vorschriften und Ihre Kosten zählt."
+img_alt: "Schwarze Kunststoffpalette mit offenem Deck auf drei Kufen"
+reading: 3
+faq:
+- q: "Was bedeutet der RIC-Code 7 auf einem Kunststoffprodukt?"
+  a: "Code 7 ist die Sammelkategorie für „sonstige“ Kunststoffe: Materialien, die nicht unter die Codes 1 bis 6 fallen, oder Kombinationen von Kunststoffen. Der Code sagt also wenig über die genaue Zusammensetzung."
+- q: "Lassen sich Kunststoffpaletten mit Code 7 schlecht recyceln?"
+  a: "Oft ja. Viele Recyclingbetriebe sind auf diese „sonstigen“ Kunststoffe nicht eingerichtet. Fragen Sie deshalb immer nach der Zusammensetzung und danach, was am Ende der Lebensdauer mit der Palette geschieht."
+- q: "Woraus bestehen die Paletten von Q-Pall?"
+  a: "Unsere Standardpaletten bestehen aus recyceltem Kunststoff, einer Mischung aus HDPE (2) und PP (5). Nur unsere Hygienepaletten, H1-Paletten und Reinraumpaletten sind aus Neuware. Am Ende ihrer Lebensdauer sind unsere Paletten vollständig recycelbar."
+published: '2023-10-09'
+updated: '2026-11-02'
 ---
-In unserem vorherigen Blogbeitrag haben wir die Resin Identification Codes (RIC) von Kunststoffen näher erläutert und deren entscheidende Rolle bei der Schaffung einer nachhaltigen Zukunft betont. Wenn es um Logistik, Lagerung und Versand geht, sind Paletten ein unverzichtbares Werkzeug. Traditionell aus Holz gefertigt, entscheiden sich immer mehr Unternehmen für [Kunststoffpaletten](@pallets) wegen ihrer Haltbarkeit, Langlebigkeit, Sauberkeit und Recyclingfähigkeit. Aber nicht alle Kunststoffpaletten sind gleich. Es ist entscheidend zu verstehen, aus welchem Kunststoff sie hergestellt werden, um die Recyclingfähigkeit zu gewährleisten.
+> **Kurz gesagt**
+>
+> * Der RIC-Code im kleinen Dreieck zeigt, aus welchem Kunststoff ein Produkt besteht. Code 7 steht für „sonstige“ Kunststoffe und Kombinationen.
+> * Bei Code 7 wissen Sie oft nicht genau, was enthalten ist, und das Recycling ist schwierig.
+> * Das kann später Geld kosten, zum Beispiel bei der Entsorgung. Nach der PPWR müssen Verpackungen ab 2030 zudem recycelbar sein.
+> * Fragen Sie beim Kauf nach der Zusammensetzung und danach, was am Ende der Lebensdauer mit der Palette geschieht.
+> * Unsere Standardpaletten bestehen aus recyceltem HDPE (2) und PP (5). Wir nehmen sie zum Recycling zurück.
 
-Eine Kategorie, über die Sie vielleicht zweimal nachdenken sollten, sind Paletten aus Kunststoffen mit dem Resin Identification Code (RIC) 7, oft gekennzeichnet durch eine "7" in einem dreieckigen Pfeilsymbol.
+## Ein niedriger Preis ist nicht alles
 
-## Hier ist der Grund
+In Logistik, Lagerung und Versand sind Paletten unverzichtbar. Immer mehr Unternehmen wählen Kunststoffpaletten, weil sie lange halten, sich gut reinigen lassen und recycelbar sind. Doch Kunststoffpalette ist nicht gleich Kunststoffpalette.
 
-Auf den ersten Blick erscheinen [Kunststoffpaletten](@pallets) aus RIC Code 7 möglicherweise als kostengünstige Option für Ihr Unternehmen. Der ursprüngliche Kaufpreis kann besonders für Organisationen, die sofortige Kosten senken möchten, sehr verlockend sein. Es ist jedoch wichtig, über die anfänglichen Einsparungen hinauszublicken und die langfristigen Auswirkungen zu berücksichtigen. Auch wenn diese Paletten im Voraus billiger sein könnten, bergen sie oft versteckte Kosten, insbesondere beim Recycling. Viele Recyclinganlagen sind nicht darauf ausgerichtet, Kunststoffe des RIC Codes 7 zu verarbeiten, was zu möglichen Entsorgungskosten oder sogar regulatorischen Strafen in der Zukunft führen kann. Was heute wie ein Schnäppchen erscheint, könnte in der Zukunft ein teurer Fehler sein, der sowohl Ihre Bilanz als auch Ihren ökologischen Fußabdruck beeinflusst.
+Eine Palette aus einem Kunststoff mit RIC-Code 7 wirkt manchmal wie eine günstige Wahl. Der Anschaffungspreis ist attraktiv, vor allem wenn Sie schnell Kosten senken möchten. Schauen Sie trotzdem über die Anschaffung hinaus, denn die eigentlichen Kosten kommen oft später.
 
-## Was bedeutet RIC Code 7?
+## Was bedeutet der RIC-Code 7?
 
-Das Resin Identification Code-System, das ursprünglich zur Unterstützung beim Recycling erstellt wurde, kategorisiert Kunststoffe in sieben verschiedene Typen basierend auf ihrer Materialzusammensetzung. Während die Codes 1 bis 6 bestimmten, gut definierten Kunststofftypen entsprechen, dient Code 7 als Auffangkategorie für "andere" Kunststoffe. Dies könnten Materialien sein, die nicht in die anderen Kategorien passen oder aus verschiedenen Harztypen bestehen.
+Der Resin Identification Code (RIC) ist ein System aus sieben Codes. Sie zeigen, aus welchem Kunststoff ein Produkt besteht. Die Codes 1 bis 6 stehen für sechs weit verbreitete Kunststoffe, zum Beispiel HDPE (2) und PP (5).
 
-## Warum sollten Sie besorgt sein?
+Code 7 ist eine Sammelkategorie für „sonstige“ Kunststoffe. Das sind Materialien, die in keine der anderen Gruppen passen, oder Kombinationen mehrerer Kunststoffe. Mehr über alle sieben Codes lesen Sie unter [RIC-Codes von Kunststoffen](@news-ric).
 
-- Fehlende Transparenz Da Code 7 eine Auffangkategorie ist, gibt er nicht viel Information darüber, was der Kunststoff tatsächlich enthält. Dieser Mangel an Transparenz kann problematisch für Unternehmen sein, die bestimmte Sicherheits- oder Hygienestandards benötigen, da einige Kunststoffe des Codes 7 möglicherweise schädliche Zusatzstoffe oder Chemikalien enthalten könnten.
-- Eingeschränkte Recyclingfähigkeit Eines der größten Probleme von RIC Code 7 Kunststoffen ist, dass sie oft nicht recycelbar oder schwer zu recyceln sind. In vielen Regionen sind Recyclinganlagen nicht darauf ausgerichtet, diese "anderen" Kunststoffe zu verarbeiten. Daher könnten diese Paletten am Ende ihres Lebenszyklus auf Mülldeponien landen und zur Umweltverschmutzung beitragen.
-- Kostenfaktor Die mit RIC 7 Kunststoffen oft verbundenen Recyclingprobleme könnten auch zukünftige Kosten für Ihr Unternehmen bedeuten. Mit dem wachsenden Druck in Richtung Nachhaltigkeit und Recycling könnten nicht recycelbare Paletten in Zukunft Entsorgungskosten oder sogar regulatorische Strafen nach sich ziehen.
+## Warum Code 7 Aufmerksamkeit verdient
 
-## Welche Alternativen gibt es?
+### Unbekannte Zusammensetzung
 
-Wenn Sie sich über die potenziellen Probleme von RIC 7 Kunststoffpaletten Gedanken machen, ziehen Sie Paletten aus Kunststoffen mit anderen RIC Codes wie PET (1) oder HDPE (2) in Betracht. Diese Materialien sind nicht nur weitgehend recycelbar, sondern auch stark, haltbar und sicher für eine Vielzahl von Anwendungen. Viele Unternehmen stellen gezielt Paletten aus diesen nachhaltigeren und transparent zusammengesetzten Kunststoffen her, sodass Sie eine informierte Wahl treffen können.
+Code 7 sagt wenig darüber, was tatsächlich im Material steckt. Manche Kunststoffe dieser Gruppe können Zusätze enthalten, die Sie lieber nicht in Ihrer Lieferkette hätten. Das ist ein Problem, wenn Sie Anforderungen an Sicherheit oder Hygiene erfüllen müssen.
 
-## Fazit
+### Eingeschränkt recycelbar
 
-Während Kunststoffpaletten gegenüber ihren hölzernen Gegenstücken viele Vorteile bieten, ist es wichtig zu wissen, mit welcher Art von Kunststoff man es zu tun hat. Paletten aus RIC Code 7 Kunststoffen bringen eine Reihe von Bedenken mit sich, von eingeschränkter Recyclingfähigkeit bis hin zu potenziellen Sicherheitsproblemen. Als verantwortungsbewusster Käufer sollten Sie diese Faktoren berücksichtigen und eventuell nach Alternativen suchen, die nicht nur besser für Ihre Abläufe, sondern auch für den Planeten sind.
+Kunststoffe mit Code 7 lassen sich oft nur schwer oder gar nicht recyceln. Viele Recyclingbetriebe sind darauf nicht eingerichtet. Solche Paletten landen deshalb oft auf der Deponie oder in der Verbrennung, statt Rohstoff für neue Produkte zu werden.
 
-Wenn es darum geht, eine umweltverantwortliche Wahl für Ihre Materialhandling-Bedürfnisse zu treffen, bietet Q-Pall eine beruhigende Lösung. Alle Q-Pall Kunststoffpaletten bestehen ausschließlich aus Kunststoffen mit dem Resin Identification Code (RIC) 2, auch bekannt als High-Density Polyethylene (HDPE). Dieses Material ist für seine hohe Recyclingfähigkeit bekannt, was sicherstellt, dass diese Paletten am Ende ihres Lebenszyklus leicht gesammelt, verarbeitet und in neue Produkte umgewandelt werden können. Indem sie RIC Code 2 Kunststoffe verwenden, bietet Q-Pall nicht nur haltbare und zuverlässige Paletten, sondern garantiert auch die Kreislauffähigkeit ihrer Produkte. Die Wahl von Q-Pall bedeutet, dass Sie sich für eine nachhaltige, langfristige Lösung entscheiden, die Abfall minimiert und Ressourceneffizienz maximiert, indem sie Ihre Geschäftspraktiken mit den Prinzipien der Kreislaufwirtschaft in Einklang bringt.
+### Kosten auf lange Sicht
+
+Eine Palette, die sich nicht recyceln lässt, kostet bei der Entsorgung Geld. Auch die Vorschriften werden strenger. Seit dem 12. August 2026 gilt die europäische Verpackungsverordnung PPWR, und Paletten fallen als Transportverpackung darunter.
+
+Ab 2030 müssen Verpackungen in Klasse A, B oder C recycelbar sein. Klasse C bedeutet mindestens 70 %.
+
+Je früher Sie das berücksichtigen, desto weniger Überraschungen gibt es später. Mehr dazu unter [PPWR und Kunststoffpaletten](@guide-ppwr).
+
+## Worauf achten Sie beim Kauf?
+
+* **Fragen Sie nach der Zusammensetzung.** Ein guter Lieferant sagt Ihnen, aus welchen Kunststoffen die Palette besteht.
+* **Fragen Sie, was am Ende geschieht.** Nimmt der Lieferant die Paletten zurück, und werden sie wieder zu Rohstoff?
+* **Fragen Sie nach Unterlagen.** Nach der PPWR können Sie den Hersteller um eine Konformitätserklärung bitten.
+* **Rechnen Sie in Kosten pro Umlauf.** Eine Palette, die viele Jahre hält und danach recycelt wird, ist pro Umlauf oft günstiger. Siehe auch [Was kostet eine Kunststoffpalette?](@guide-prices)
+
+## Woraus fertigen wir unsere Paletten?
+
+Unsere Standardpaletten fertigen wir zu fast 100 % aus recyceltem Kunststoff: einer Mischung aus HDPE (Code 2) und PP (Code 5). Unsere Light-Paletten enthalten zusätzlich LDPE (Code 4). Alles sind Polyolefine, also Kunststoffe, die sich im Recycling ähnlich verhalten.
+
+Am Ende ihrer Lebensdauer sind unsere Paletten vollständig recycelbar. Wir nehmen sie zurück und mahlen sie zu Rohstoff für neue Paletten. Gebrauchte Paletten in gutem Zustand bekommen über Q-Used ein zweites Leben.
+
+Bei unseren Modellen finden Sie die PPWR-Erklärung als Download auf der Produktseite. Mehr über unseren Ansatz lesen Sie auf der Seite [Nachhaltigkeit](@about-sustainability).
+
+Möchten Sie wissen, welche Palette zu Ihrem Prozess passt und was sie pro Umlauf kostet? [Fordern Sie ein Angebot an](@quote), dann erhalten Sie meist innerhalb eines Werktags einen Preis nach Maß.

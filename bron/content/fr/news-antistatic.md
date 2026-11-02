@@ -1,25 +1,70 @@
 ---
 id: news-antistatic
-title: "La praticité et les avantages des palettes antistatiques"
-description: "Le frottement entre emballage et palette peut charger votre marchandise d’électricité statique. Découvrez l’intérêt des palettes antistatiques."
+title: "Palettes antistatiques : principe et avantages – Q-Pall"
+description: "Le frottement entre emballage et palette peut créer une charge statique. Découvrez comment fonctionnent les palettes antistatiques et ce qu’elles apportent."
 eyebrow: "Actualités"
 tag: "Conseils"
-crumb: "La praticité et les avantages des"
-h1: "La praticité et les avantages **des palettes antistatiques**"
-lead: "Le frottement entre emballage et palette peut charger votre marchandise d’électricité statique. Découvrez l’intérêt des palettes antistatiques."
-img_alt: "La praticité et les avantages des palettes antistatiques"
+crumb: "Palettes antistatiques"
+h1: "Palettes antistatiques : **fonctionnement et avantages**"
+lead: "Le frottement entre l’emballage et la palette peut créer une charge statique. Elle attire la poussière et peut endommager l’électronique sensible. Les palettes plastique antistatiques limitent ce phénomène."
+img_alt: "Pile de palettes plastique noires avec une étiquette code-barres"
 reading: 3
+faq:
+- q: "Qu’est-ce qu’une palette antistatique ?"
+  a: "Une palette plastique contenant des additifs antistatiques. Ceux-ci abaissent la résistance de surface du plastique : la palette se charge moins en électricité statique et attire moins la poussière."
+- q: "À quoi sert un additif antistatique ?"
+  a: "Il abaisse la résistance de surface du plastique et augmente ainsi sa conductivité. La charge créée par frottement s’écoule au lieu de s’accumuler."
+- q: "Une palette antistatique est-elle une palette ESD ?"
+  a: "Non. Une palette antistatique limite surtout l’accumulation de charge et l’attraction de la poussière. Une palette ESD contient des additifs conducteurs, comme le noir de carbone, et évacue activement la charge de manière contrôlée."
+published: '2022-01-09'
+updated: '2026-11-02'
 ---
-Les palettes plastique sont utilisées pour transporter et stocker des marchandises et des produits de manière adéquate. Vous choisissez la palette avec soin, comme cela votre chargement ne sera pas endommagé, de quelque manière que ce soit. La qualité ne doit pas être négligée. Il arrive parfois pourtant que le chargement sur la palette soit chargé statiquement par frottement entre l’emballage et la palette en plastique. Et cela peut causer des problèmes. Vous pouvez choisir des palettes antistatiques. En quoi consistent-elles et qu’est-ce que cela signifie pour vos articles ?
+> **En bref**
+>
+> * Par frottement avec l’emballage, une palette plastique peut se charger en électricité statique.
+> * La charge statique attire la poussière, peut endommager l’électronique sensible et provoque de petites décharges.
+> * Les additifs antistatiques abaissent la résistance de surface du plastique. La charge s’accumule moins et s’écoule.
+> * Q-Pall ajoute ces additifs en adaptant un modèle de palette existant, selon votre application.
+> * Risque d’explosion ou électronique très sensible ? Choisissez alors une palette ESD.
 
-## Chargement statique
+Vous utilisez des [palettes plastique](@pallets) pour transporter et stocker des marchandises en toute sécurité. Vous choisissez la palette avec soin, afin que la qualité de votre marchandise ne se dégrade pas.
 
-Qu’est-ce que le chargement statique et comment apparait-il ? Les objets qui sont fabriqués en plastique et qui sont en contact peuvent être légèrement chargés statiquement. Le frottement, aussi minime soit-il, fait que les objets sont chargés électrostatiquement. Une tension statique apparait alors qui peut causer des problèmes. Dans la vie de tous les jours, certaines matières comme les vêtements sont chargées quand on est assis sur un canapé. Cette charge disparait quand on entre en contact avec une autre matière. Vous le ressentez comme une petite électrocution au toucher. Pour les palettes plastique, la combinaison du chargement et de la palette entraînent la charge statique. C’est quelque chose que vous déchargez dès qu’il y a contact avec une autre matière. Ou lorsqu’il y a un contact avec la personne qui s’occupe du chargement. Il en résulte une perte de qualité du chargement ou même un dommage irrémédiable.
+Pourtant, la marchandise posée sur la palette peut se charger en électricité statique par frottement entre l’emballage et la palette plastique. Cela peut poser des problèmes.
 
-## Conséquences de l’électricité statique
+Une solution : la **palette antistatique**. De quoi s’agit-il exactement et qu’est-ce que cela change pour vos produits ?
 
-Les conséquences de la charge statique sont très diverses. Tout d’abord, les objets chargés statiquement attirent la poussière. Cela signifie que la poussière présente dans le local adhère facilement à la palette et au chargement. Cela peut être indésirable car cela peut avoir des conséquences pour la qualité ou la conservation du chargement. En outre, l’électricité statique peut causer des dommages irrémédiables aux appareils électriques tels qu’au disque dur d’un ordinateur. Les conséquences vont de la panne totale aux dégâts légers avec peu d’effets perceptibles. Cela peut pourtant causer souvent des pannes et des problèmes inexplicables dus au vieillissement. De plus, il est possible que quelqu’un soit électrocuté si l’appareil est chargé statiquement.
+## Comment se forme une charge statique ?
 
-## Palettes antistatiques Q-Pall
+Des objets en plastique qui entrent en contact peuvent se charger légèrement en électricité statique. Le frottement, aussi faible soit-il, crée une tension électrique.
 
-Les palettes antistatiques Q-Pall sont pourvues d’une combinaison équilibrée d’additifs synergiques antistatiques qui diminuent directement la conductibilité de surface du polyéthylène. L’équilibre entre les additifs antistatiques itinérants rapides et contrôlés a non seulement un effet antistatique rapide, mais aussi une protection longue contre la poussière et autres désagréments dus à la charge électrostatique. Elles sont fabriquées sur mesure, selon vos spécifications. Nous voyons avec vous ce que vous désirez. Vous savez ainsi avec certitude que vos produits sont transportés et stockés de la manière la plus sûre qui soit. Si vous voulez de plus amples informations sur les possibilités de munir les palettes d’additifs antistatiques ou si vous avez d’autres questions sur notre assortiment et les possibilités, n’hésitez pas à nous contacter. Nous nous ferons un plaisir de vous conseiller personnellement.
+Vous le connaissez au quotidien. Après un moment sur le canapé, vos vêtements sont parfois chargés à cause des fibres synthétiques du tissu et du revêtement. Lorsque vous touchez ensuite quelque chose, vous ressentez une petite décharge : la charge s’évacue.
+
+Il en va de même pour les palettes plastique. La marchandise et la palette accumulent une tension. Celle-ci se décharge dès qu’il y a contact avec un autre matériau ou avec la personne qui manipule la marchandise.
+
+## Conséquences de la charge statique
+
+* **Poussière.** Les objets chargés attirent la poussière. La poussière ambiante adhère à la palette et à la marchandise, ce qui peut nuire à sa qualité ou à sa conservation.
+* **Dommages à l’électronique.** L’électricité statique peut endommager de façon irréversible des équipements électroniques, comme du matériel informatique. L’effet est parfois à peine perceptible au début, mais des pannes inexpliquées apparaissent plus tard.
+* **Décharges.** Le personnel peut recevoir une décharge en touchant des produits ou des équipements chargés.
+
+## Comment fonctionne une palette antistatique ?
+
+Le plastique ordinaire conduit mal l’électricité. La charge qui se forme en surface y reste. Une palette antistatique contient des additifs qui changent cela.
+
+Ces **additifs antistatiques** abaissent la résistance de surface du plastique. La surface conduit mieux : la charge s’écoule au lieu de s’accumuler.
+
+Nous utilisons une combinaison équilibrée d’additifs. Certains agissent rapidement, d’autres migrent vers la surface de manière progressive et contrôlée. Ensemble, ils assurent un effet antistatique rapide et une protection durable contre la poussière et les autres désagréments de la charge statique.
+
+## Antistatique ou ESD ?
+
+Antistatique et ESD se ressemblent, mais ce n’est pas la même chose. Une palette antistatique limite surtout l’accumulation de charge et l’attraction de la poussière. Une palette ESD contient des additifs conducteurs, comme le noir de carbone, et évacue activement la charge de manière contrôlée.
+
+Vous travaillez avec des substances inflammables ou de l’électronique très sensible ? Lisez alors [ce que sont les palettes ESD](@news-esd).
+
+## Des palettes antistatiques sur mesure
+
+Nous fabriquons les palettes antistatiques selon vos spécifications. Pour cela, nous adaptons le matériau d’un modèle de palette existant : nous ne concevons pas de palette entièrement nouvelle. Avec vous, nous déterminons le modèle et la version adaptés à vos produits.
+
+Une telle adaptation fait partie de nos [solutions sur mesure](@about-custom) et s’adresse aux projets d’une certaine envergure. Vous hésitez encore sur le type de palette ? Lisez d’abord [choisir la bonne palette plastique](@guide-choose).
+
+Vous souhaitez savoir si une version antistatique est utile pour vos produits ? [Contactez-nous](@contact) pour un conseil personnalisé.

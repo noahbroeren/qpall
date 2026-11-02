@@ -1,55 +1,76 @@
 ---
 id: news-local-resilience
 title: "From global dependence to local resilience – Q-Pall"
-description: "Global supply chains have proved fragile. See how local production and sourcing cut CO₂ emissions, shorten delivery times and future-proof your business."
+description: "Global supply chains have proved fragile. How local pallet production makes you less dependent: shorter lead times, local recyclate and a lower TCO."
 eyebrow: "News"
 tag: "Supply chain"
-crumb: "From global dependence to local resilience"
+crumb: "From dependence to resilience"
 h1: "From global dependence **to local resilience**"
-lead: "The global economy is undergoing a transition. The decades-long focus on globalization—where production was outsourced to the lowest bidder, regardless of location—has reached its limits. From disruptions in container logistics to international trade tensions and raw material shortages, companies have experienced more than ever how fragile globalized chains can be."
-img_alt: "From global dependence to local resilience"
-reading: 3
+lead: "For years, production went to the lowest bidder, wherever in the world. Disrupted container logistics, trade tensions and raw material shortages showed how fragile that is. Resilience starts closer to home."
+img_alt: "Production hall with injection moulding machines and robots in a Q-Pall factory"
+reading: 4
+updated: '2026-11-02'
 ---
-For supply chain directors, COOs, and sustainability leaders, this is the moment to steer towards resilience. And resilience starts locally.
+> **In short**
+>
+> * Decades of focus on cheap production far away have made supply chains fragile.
+> * Local production makes you less dependent on ports, long routes and geopolitical risks.
+> * Locally sourced recycled plastic means shorter supply lines and better insight into its origin.
+> * If you calculate the total cost of ownership (TCO), stability and speed pay off.
+> * Q-Pall produces in six European factories and delivers within days instead of weeks.
 
-Local production is not a temporary solution to a global problem. It is a structural reorientation that makes companies future-proof—strategically, operationally, and sustainably.
+## Why global supply chains are fragile
 
-## Local production: three strategic advantages
+For decades, globalisation revolved around one question: where is it cheapest? Production went to the lowest bidder, regardless of location. That model has reached its limits.
 
-## 1. Less dependence on global disruptions
+Disruptions in container logistics, trade tensions and raw material shortages showed how quickly a long supply chain can falter. For supply chain directors, COOs and sustainability managers, this is the moment to choose resilience.
 
-In a time when reliability is more important than ever, local production offers tangible benefits:
+Local production is not a temporary stopgap. It is a structural choice that makes a supply chain stronger strategically, operationally and in terms of sustainability. How nearshoring fits into a broader strategy is explained in [local production as a pillar for a resilient supply chain](@news-local).
 
-- Short, predictable delivery times: No queues at ports or border controls, but direct delivery from regional hubs.
-- Less vulnerability to geopolitical risks: Wars, sanctions, or export restrictions have less impact when you produce closer to home.
-- Better control over inventory and flexibility: Local production enables you to scale up or down quickly in response to sudden changes in demand.
+## Three advantages of local production
 
-* In practice:* Q-Pall produces plastic pallets in six European countries. As a result, we can deliver within days instead of weeks—crucial in sectors where delivery reliability directly affects continuity.
+### Less dependent on global disruptions
 
-## 2. CO₂ reduction and strong ESG performance through local sourcing
+* **Short, predictable lead times.** No queues at ports or border checks, but delivery from a factory in the region.
+* **Less geopolitical risk.** Wars, sanctions and export restrictions affect you less when production takes place closer to home.
+* **More flexibility.** You can scale up or down faster when demand suddenly changes.
 
-What often remains underexposed but is crucial: not only the location of production but also the origin of raw materials determines the real sustainability impact.
+In practice, Q-Pall makes plastic pallets in [six factories in six European countries](@about-local). This allows us to deliver within days instead of weeks. That matters most in sectors where delivery reliability directly determines whether production keeps running.
 
-- Local sourcing of recycled plastics means shorter supply lines, less emissions, and a contribution to the circular economy.
-- It increases transparency and traceability in your material usage—essential for credible ESG reporting.
-- By utilizing local residual streams, you support regional recycling industries and enhance your societal relevance.
+### Local recyclate: shorter supply lines and more transparency
 
-* Q-Pall case:* We use only RIC code 2 plastic—fully recyclable and locally sourced. In the past year alone, we processed several tens of thousands of tons of recycled materials from Europe. That's equivalent to about 1,400 full truckloads that didn't have to come from distant continents.
+It is not only the place of production that determines the impact, but also the origin of the raw material.
 
-## 3. Cost efficiency through stability and speed
+* **Shorter supply lines.** Recycled plastic from the region does not have to come from another continent.
+* **Better insight into origin.** You know where the material comes from. That is important for credible ESG reporting.
+* **Support for regional recycling.** Using local waste streams strengthens the recycling companies in your own region.
 
-Although local production may sometimes seem more expensive on paper, it provides structural advantages:
+We make our standard pallets from almost 100% recycled plastic: a mix of HDPE (code 2) and PP (code 5). In 2025 we processed 34,500 tonnes of recycled plastic from Europe. That is around 1,475 full trucks of raw material that did not have to come from another continent. What this means for CO₂ and transport is explained in [local production of plastic pallets and sustainability](@news-local-sustainability).
 
-- Lower transport costs: Short distances and direct deliveries significantly reduce logistics costs.
-- Higher delivery reliability prevents inventory surpluses, rush deliveries, or shortages due to stockouts.
-- Quality assurance and fewer failure costs: Closer collaboration with local production partners improves process control and reduces return flows.
+### Lower total cost through stability and speed
 
-* What customers notice:* Q-Pall customers report a decrease in failure costs, less inventory buffer, and above all: peace of mind in their supply chain. This directly translates to a lower Total Cost of Ownership.
+On paper, local production sometimes looks more expensive. In practice, it delivers a structural advantage:
 
-## Strategic steering in a new reality
+* **Lower transport costs.** Short distances and direct deliveries reduce logistics costs.
+* **Higher delivery reliability.** This prevents excess stock, rush deliveries and downtime caused by shortages.
+* **Lower failure costs.** Short lines with the manufacturer make it easier to monitor quality and limit returns.
 
-The future of supply chains is no longer purely global or purely local. It's about smart distribution, strategic partnerships, and direct impact on sustainability and efficiency. Local production and local sourcing are not side issues but crucial building blocks of a robust chain strategy.
+Customers tell us they have lower failure costs, need less buffer stock and above all experience peace of mind in their supply chain. You see that reflected in a lower **total cost of ownership (TCO)**. How to calculate in cost per trip is explained in [what does a plastic pallet cost?](@guide-prices)
 
-At Q-Pall, we believe that every logistics tool—even the often-overlooked pallet—can be a strategic lever for innovation, risk management, and sustainable growth. By producing locally with locally recycled materials and prioritizing delivery reliability, we help companies build a circular, resilient supply chain.
+## How dependent is your pallet flow?
 
-Curious how local production and sourcing can make your chain stronger, more sustainable, and more profitable? Contact us for CO₂ savings in your logistics. Together, we’ll get your supply chain in top condition.
+A first check for your own supply chain. Ask yourself these questions:
+
+* Where are your pallets made, and how far is that from your sites?
+* How often did the lead time slip over the past year?
+* Through which ports or routes do they arrive, and is there an alternative?
+* Where does the raw material come from, and can you prove it in your reporting?
+* What does a shortage cost you: express transport, downtime or missed deliveries?
+
+## Steering strategically in a new reality
+
+The future of supply chains is neither purely global nor purely local. It is about smart diversification, strong partnerships and attention to sustainability and efficiency. Local production and local sourcing are building blocks of a robust supply chain strategy.
+
+Even a logistics item that is often overlooked, such as the pallet, can be a lever for risk management and sustainable growth. That is why we produce locally, with recycled plastic from Europe and with supply security as a priority.
+
+Would you like to know how local production can make your pallet flow more secure and more sustainable? [Contact us](@contact) and we will look at your situation together.

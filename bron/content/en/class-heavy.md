@@ -1,7 +1,7 @@
 ---
 id: class-heavy
 title: "Heavy-duty plastic pallets – up to 2,000 kg racking load"
-description: "Heavy-duty plastic pallets: 7,500 kg static, up to 2,200 kg dynamic and up to 2,000 kg in racking. Open or closed deck, 3 to 6 runners."
+description: "Heavy-duty plastic pallets: up to 7,500 kg static, up to 2,200 kg dynamic and up to 2,000 kg in racking. Open or closed deck, 3 to 6 runners."
 eyebrow: "Load class heavy"
 h1: "**Heavy-duty** plastic pallets"
 lead: "For heavy loads, high racking and years of intensive use. There are [[count]] heavy models, including hygienic, CP and pool pallets."

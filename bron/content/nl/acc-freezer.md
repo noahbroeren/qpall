@@ -3,7 +3,7 @@ id: acc-freezer
 title: "Freezer spacers en vriesmatten van kunststof – Q-Pall"
 description: "Kunststof freezer spacers van 1200 x 800 en 1200 x 1000 mm laten koude lucht tussen de lagen stromen, zodat uw lading sneller invriest."
 eyebrow: "Accessoires"
-h1: "Vriesmatten **(freezer spacers)**"
+h1: "Freezer spacers **(vriesmatten)**"
 lead: "Een freezer spacer legt u tussen de lagen dozen op een pallet. De open structuur laat koude lucht vrij circuleren, zodat de hele lading sneller en gelijkmatiger invriest."
 faq:
   - q: "Hoeveel sneller vriest een lading in met freezer spacers?"

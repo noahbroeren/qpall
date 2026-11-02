@@ -27,7 +27,7 @@ Une palette plastique dure de nombreuses années, bien plus longtemps qu’une p
 
 ## EcoVadis Bronze
 
-Nos performances en matière de durabilité sont évaluées de manière indépendante par EcoVadis. En octobre 2026, nous avons de nouveau obtenu la médaille de bronze EcoVadis, qui nous place parmi les 35 % des entreprises les mieux évaluées.
+Nos performances en matière de durabilité sont évaluées de manière indépendante par EcoVadis. Nous avons reçu la médaille d’argent en avril 2023, puis la médaille de bronze en 2025. En octobre 2026, nous avons de nouveau obtenu la médaille de bronze EcoVadis, qui nous place parmi les 35 % des entreprises les mieux évaluées.
 
 ## Pallets with a purpose
 

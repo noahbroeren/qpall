@@ -1,25 +1,59 @@
 ---
 id: news-heavy-range
-title: "Vorm volgt functie: nieuwe heavy duty pallets – Q-Pall"
-description: "De nieuwe QP-lijn heavy duty pallets heeft een statisch draagvermogen van 7500 kg en een stellingcapaciteit tot 1375 kg, zonder metalen verstevigingen."
+title: "Heavy duty pallets QP-lijn: vorm volgt functie – Q-Pall"
+description: "De heavy duty pallets van de QP-lijn dragen 7.500 kg statisch, 2.000 kg dynamisch en tot 1.375 kg in de stelling, zonder metalen verstevigingen."
 eyebrow: "Nieuws"
 tag: "Product"
-crumb: "Vorm volgt functie"
-h1: "Vorm volgt functie: **ons nieuwe assortiment heavy duty pallets**"
-lead: "De nieuwe QP-lijn heavy duty pallets heeft een statisch draagvermogen van 7500 kg en een stellingcapaciteit tot 1375 kg, zonder metalen verstevigingen."
-img_alt: "Vorm volgt functie: ons nieuwe assortiment heavy duty pallets"
-reading: 2
+crumb: "Heavy duty pallets QP-lijn"
+h1: "Vorm volgt functie: **de heavy duty pallets van de QP-lijn**"
+lead: "Met de QP-lijn breidde Q-Pall zijn assortiment heavy duty kunststof pallets uit. De QP 1111H, 1140H en 1212H dragen tot 1.375 kg in de stelling, zonder metalen verstevigingen."
+img_alt: "Zwarte heavy duty kunststof pallet met open dek op drie onderlatten"
+reading: 3
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-Q-Pall introduceert een **nieuwe lijn heavy-duty pallets** en voegt deze toe aan haar reeds uitgebreide assortiment [kunststof pallets](@pallets). De nieuwe QP-lijn van heavy-duty pallets heeft alle voordelen van de traditionele *heavy-duty kunststof pallets*, aangevuld met de nieuwste inzichten in technologie, materialen en geproduceerd met de modernste technologie. De matrijs voor de nieuwe QP-serie is volledig flexibel en kan daarom worden aangepast met diverse matrijsopties, drie of zes lopers, open of gesloten dek, met of zonder rand en biedt daarom de beste oplossing voor zware belading in de markt.
+> **In het kort**
+>
+> * Met de QP-lijn breidde Q-Pall zijn assortiment heavy duty kunststof pallets uit met de QP 1111H, 1140H en 1212H.
+> * De pallets dragen 7.500 kg statisch, 2.000 kg dynamisch en tot 1.375 kg in de stelling.
+> * Afmetingen: 1100 x 1100, 1140 x 1140 en 1200 x 1200 mm, alle met een hoogte van 165 mm.
+> * Dankzij het ontwerp en het gerecyclede kunststof zijn geen metalen verstevigingen nodig.
+> * Er zijn uitvoeringen met drie of zes onderlatten en met een open of gesloten dek.
 
-De zware QP 1111H, 1140H en 1212H pallets hebben een statisch draagvermogen van 7500 kg, een dynamisch draagvermogen van 2000 kg en een **stellingcapaciteit tot 1375 kg**. Door het gebruik van hoogwaardig 100% **gerecycled kunststof** en het nieuwe design is het gebruik van metalen verstevigingen niet nodig. Hierdoor zijn de pallets gemakkelijk te gebruiken in veeleisende omstandigheden en eenvoudig te recyclen aan het einde van hun levenscyclus.
+## Wat de QP-lijn anders maakt
 
-Deze pallet is daarnaast ook ideaal voor hygiënische toepassingen en voor gebruik met hoge omloopsnelheden zoals in open of gesloten pools. Het uitstekende ontwerp garandeert een lange levensduur van de pallet en inherente slagvastheid. Robuuste hoeken beschermen tegen stoten en afgeronde randen aan de onderkant verminderen het risico op beschadiging van de vorktoegang.
+De QP-lijn combineert de voordelen van klassieke [heavy duty kunststof pallets](@class-heavy) met wat we hebben geleerd over ontwerp, materiaal en productietechniek. De vorm van de pallet volgt uit wat hij moet doen: jarenlang zware ladingen dragen.
 
-De pallets zijn beschikbaar in de afmetingen 1100 (B) x 1100 (D), 1140 (B) x 1140 (D) en 1200 (B) x 1200 (D) x 165 (H) mm. De nieuwe QP-familie heeft een complex bovendek ontwerp bestaande uit individuele ‘box’-secties die maximale stijfheid en sterkte bieden.
+De matrijs voor de QP-serie is flexibel opgezet. Met verschillende matrijsopties maken we pallets met drie of zes onderlatten en met een open of gesloten dek.
 
-Arno Putters, CEO van Q-Pall, zegt: “Onze [plastic pallets](@pallets) zijn sinds onze start in 2005 de favoriete keuze van veel bedrijven. We zien nog steeds een extreme toename in vraag naar onze plastic pallets vanwege hun prestatiekwaliteiten en de bedrijfsfilosofie van Q-Pall. Kunststof pallets worden ook als milieuvriendelijk beschouwd, omdat ze aan het einde van hun levensduur volledig kunnen worden gerecycled.”
+## Sterk zonder metaal
 
-De standaard kleur is zwart, maar andere kleuren, maatwerk of logo’s zijn ook mogelijk. De pallets zijn ook verkrijgbaar in *ESD-uitvoering* en met een brandvertragende coating.
+De QP 1111H, 1140H en 1212H dragen 7.500 kg statisch en 2.000 kg dynamisch. In de stelling dragen ze tot 1.375 kg; de precieze waarde hangt af van model en uitvoering. Wat deze waarden betekenen, leest u op de pagina over [de belasting van kunststof pallets](@about-load).
 
-Heavy duty kunststof pallets bieden een uitstekend rendement op de investering, met een levensduur van tussen de acht en 15 jaar, afhankelijk van het gebruik. In vergelijking met houten alternatieven kunnen deze kunststof pallets zichzelf binnen 18 maanden terugbetalen!
+Metalen verstevigingen zijn niet nodig. Dat komt door het ontwerp en door het hoogwaardige kunststof, dat bijna 100% gerecycled is. Zonder metaal zijn de pallets goed bestand tegen zware omstandigheden en aan het einde van hun leven eenvoudig te recyclen.
+
+## Een ontwerp voor intensief gebruik
+
+Het bovendek bestaat uit afzonderlijke 'box'-secties die het dek stijf en sterk maken. Robuuste hoeken beschermen tegen stoten. Afgeronde randen aan de onderkant verkleinen de kans op schade bij de vorkopeningen.
+
+Zo gaan de pallets lang mee en blijven ze slagvast, ook bij hoge omloopsnelheden zoals in open en gesloten [pools](@sector-pooling).
+
+## Modellen en opties
+
+| Model | Afmeting (mm) | Stellingbelasting |
+|---|---|---|
+| QP 1111H | 1100 x 1100 x 165 | 1.000 tot 1.250 kg |
+| QP 1140H | 1140 x 1140 x 165 | 1.250 tot 1.375 kg |
+| QP 1212H | 1200 x 1200 x 165 | 1.375 kg |
+
+De stellingbelasting hangt af van het aantal onderlatten en van het dek (open of gesloten).
+
+De standaardkleur is zwart. Een andere kleur, een logo of een andere aanpassing is mogelijk; zie [maatwerk](@about-custom). Op aanvraag zijn de pallets ook leverbaar in een [ESD-uitvoering](@news-esd) en in een brandvertragende uitvoering.
+
+## Een investering voor jaren
+
+Arno Putters zei daarover: "Onze kunststof pallets zijn sinds onze start in 2005 de favoriete keuze van veel bedrijven. We zien nog steeds een sterke toename van de vraag, vanwege hun prestaties en de bedrijfsfilosofie van Q-Pall. Kunststof pallets worden ook als milieuvriendelijk beschouwd, omdat ze aan het einde van hun levensduur volledig kunnen worden gerecycled."
+
+Afhankelijk van het gebruik gaat een heavy duty kunststof pallet acht tot vijftien jaar mee. Bij intensief gebruik verdient hij zich daardoor terug ten opzichte van houten pallets.
+
+Zoekt u een heavy duty pallet voor uw stellingen of pool? [Vraag een offerte aan](@quote); meestal ontvangt u binnen één werkdag een prijs op maat.

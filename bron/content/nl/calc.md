@@ -29,7 +29,7 @@ Nestbare pallets (light, op 9 pootjes) schuiven in elkaar. Daardoor passen er bi
 
 ## Vrachtwagen, mega-trailer of container
 
-Een mega-trailer is even lang als een standaard vrachtwagen (13,6 m), maar binnen 3 m hoog in plaats van 2,65 m. Bij gestapelde pallets passen er daardoor tot ruim 20 % meer in. Een zeecontainer is smaller en lager dan een vrachtwagen. Voor europallets past er in een 20 ft container ongeveer een derde van een vrachtwagenlading en in een 40 ft high cube container ongeveer drie kwart. Vierkante pallets van 1200 x 1200 mm passen in een container maar één breed, dus daar is het verschil groter.
+Een mega-trailer is even lang als een standaard vrachtwagen (13,6 m), maar binnen 3 m hoog in plaats van 2,65 m. Bij gestapelde pallets passen er daardoor tot ruim 20 % meer in. Een zeecontainer is smaller en lager dan een vrachtwagen. Voor europallets past er in een 20 ft container ongeveer een derde van een vrachtwagenlading en in een 40 ft high cube container ongeveer driekwart. Vierkante pallets van 1200 x 1200 mm passen in een container maar één breed, dus daar is het verschil groter.
 
 ## Zo werkt de laadcalculator
 

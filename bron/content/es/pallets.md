@@ -15,7 +15,7 @@ faq:
   - q: "¿Cuánto cuesta un palet de plástico?"
     a: "Para la mayoría de los palets estándar mostramos un precio desde orientativo por unidad, IVA y transporte no incluidos. Su precio final depende de la cantidad, la planta de producción y la entrega. Encontrará un resumen de precios por medida en nuestra [guía de precios de palets de plástico](@guide-prices)."
   - q: "¿Puedo pedir un solo palet?"
-    a: "Q-Pall suministra principalmente a empresas y trabaja con volúmenes, a menudo por pila o por camión completo. Para cantidades más pequeñas, le remitiremos con gusto a un [distribuidor cerca de usted](@dealers)."
+    a: "Q-Pall suministra a empresas y vende siempre por pila completa, por ejemplo 17 palets Medium o 45 palets encajables. Los pedidos más grandes se entregan por camión completo. Para cantidades más pequeñas, le remitiremos con gusto a un [distribuidor cerca de usted](@dealers)."
 classes:
   eyebrow: "Clases de carga"
   title: "¿Light, Medium **o Heavy?**"
@@ -41,7 +41,7 @@ why:
 
 ## Palets de plástico para cada aplicación
 
-Q-Pall desarrolla y fabrica únicamente palets de plástico, y lo hace desde 2005. Ese enfoque se nota en la gama: más de noventa modelos en nueve medidas, desde el compacto [palet expositor de 600 x 400 mm](@size-600x400) hasta el gran [1300 x 1100 mm para la industria química](@size-1300x1100). Cada modelo está diseñado para una tarea concreta: transporte, almacenaje, exportación, pooling o logística automatizada.
+Q-Pall desarrolla y fabrica únicamente palets de plástico, y lo hace desde 2005. Ese enfoque se nota en la gama: unos 130 modelos en nueve medidas, desde el compacto [palet expositor de 600 x 400 mm](@size-600x400) hasta el gran [1300 x 1100 mm para la industria química](@size-1300x1100). Cada modelo está diseñado para una tarea concreta: transporte, almacenaje, exportación, pooling o logística automatizada.
 
 ### Elija primero por medida
 
@@ -54,3 +54,5 @@ Cada palet tiene tres valores de carga: estática (sobre el suelo), dinámica (d
 ### Superficie abierta o cerrada, pies o patines
 
 Una **superficie abierta** es más ligera y deja pasar la humedad y el aire. Una **superficie cerrada** es más fácil de limpiar y ofrece una base plana a los envases pequeños. Los palets con **9 pies** suelen ser encajables e ideales para la exportación. Los palets con **3, 5 o 6 patines** son más estables en transportadores de rodillos y aptos para estantería.
+
+¿Prefiere tenerlo todo en papel? En el [catálogo de productos](@catalog) encontrará nuestra gama estándar con medidas y valores de carga, en PDF para descargar.

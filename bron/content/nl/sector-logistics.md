@@ -26,7 +26,7 @@ Logistiek gaat over een efficiënte goederenstroom van productie tot consument. 
 - **Minder brandstof en CO2**, en volledig recyclebaar.
 - **Vaste maatvoering** voor geautomatiseerde systemen.
 - **Minder onderhoud:** geen reparaties aan losse planken.
-- **Hygiënisch en veilig:** geen vocht, bacteriën, splinters of scherpe randen.
+- **Schoon en veilig:** ze nemen geen vocht op, zijn goed te reinigen en hebben geen splinters of scherpe randen.
 - **Beter stapelbaar** en ruimtebesparend.
 
 ## Onze aanbevolen pallets

@@ -1,25 +1,63 @@
 ---
 id: news-used-types
-title: "3 veelvoorkomende soorten gebruikte kunststof pallets"
-description: "Gebruikte kunststof pallets zijn voordelig en duurzaam. Lees meer over de 3 veelvoorkomende soorten, waaronder meermalige retour- of poolpallets."
+title: "3 soorten gebruikte kunststof pallets – Q-Pall"
+description: "Gebruikte kunststof pallets zijn voordelig en sparen grondstof. Dit zijn de 3 soorten die veel voorkomen: poolpallets, CP-pallets en hygiënische pallets."
 eyebrow: "Nieuws"
 tag: "Kennis"
-crumb: "3 veelvoorkomende soorten gebruikte"
+crumb: "Soorten gebruikte pallets"
 h1: "3 veelvoorkomende soorten **gebruikte kunststof pallets**"
-lead: "Gebruikte kunststof pallets zijn voordelig en duurzaam. Lees meer over de 3 veelvoorkomende soorten, waaronder meermalige retour- of poolpallets."
-img_alt: "3 veelvoorkomende soorten gebruikte kunststof pallets"
-reading: 3
+lead: "Gebruikte kunststof pallets zijn tot 40% voordeliger dan nieuwe en kosten geen nieuwe grondstof. Drie soorten komen vaak voor: meermalige pallets, CP-pallets en hygiënische pallets."
+img_alt: "Zwarte kunststof pallet met open roosterdek op pootjes, op een betonnen vloer in de zon"
+reading: 2
+faq:
+- q: "Welke soorten gebruikte kunststof pallets zijn er?"
+  a: "Veel voorkomende soorten zijn meermalige pallets (ook wel pool- of retourpallets), CP-pallets voor de chemie en hygiënische pallets. Welke er op voorraad zijn, wisselt steeds."
+- q: "Hoeveel goedkoper is een gebruikte kunststof pallet?"
+  a: "Een gebruikte pallet is tot 40% voordeliger dan een nieuwe. De prijs hangt af van het type, de kwaliteit en de beschikbaarheid."
+- q: "Wat is het verschil tussen een meermalige en een eenmalige pallet?"
+  a: "Een meermalige pallet is gemaakt om vele keren rond te gaan en is daarom sterk en maatvast. Een eenmalige pallet, zoals een lichte exportpallet, is bedoeld voor één reis en is goedkoper in aanschaf."
+published: '2022-01-08'
+updated: '2026-11-02'
 ---
-Als u kiest voor [kunststof pallets](@pallets), kiest u automatisch voor duurzaam. Plastic pallets worden namelijk vaak geproduceerd van volledig gerecyclede kunststof, zoals van stevige plastic dopjes van frisdrankflessen. Daarnaast kunt u ook nog de keuze maken om gebruikte kunststof pallets af te nemen. De prijs van gebruikte pallets is vaak erg aantrekkelijk. Daarnaast zijn ze duurzamer dan houten pallets en milieuvriendelijker dan nieuwe kunststof pallets. Er worden namelijk geen nieuwe grondstoffen en energiebronnen voor de productie gebruikt. Ook u kunt kiezen uit diverse modellen. Wat zijn de 3 toepassingen voor gebruikte pallets?
+> **In het kort**
+>
+> * Gebruikte kunststof pallets zijn tot 40% voordeliger dan nieuwe.
+> * Voor een gebruikte pallet zijn geen nieuwe grondstof en geen energie voor productie nodig.
+> * Drie soorten komen vaak voor: meermalige pallets, CP-pallets en hygiënische pallets.
+> * Het aanbod wisselt. Vraag daarom naar de actuele voorraad.
+
+Met kunststof pallets kiest u al voor een duurzame oplossing. Onze standaardpallets maken we van bijna 100% gerecycled kunststof, onder meer uit doppen en kratten. Wilt u nog een stap verder gaan, dan kiest u voor gebruikte kunststof pallets.
+
+Met [Q-Used](@used) kopen we gebruikte pallets in, keuren ze en verkopen ze opnieuw. Ze zijn tot 40% voordeliger dan nieuwe pallets. Er is bovendien geen nieuwe grondstof en geen energie voor productie nodig.
+
+Welke soorten gebruikte kunststof pallets komen het vaakst voor? Dit zijn de drie belangrijkste.
 
 ## 1. Meermalige pallets
 
-Meermalige pallets (ook wel retourpallets of poolpallets genoemd) maakt Q-Pall van nieuwe plastics (premium lijn) of van gerecyclede plastics (regular lijn) die hierna ook weer volledig recyclebaar zijn. Deze pallet is oersterk en tegelijkertijd veel lichter dan een houten pallet. Ook in verschillende andere opzichten is het voordelig om meermalige pallets te gebruiken. Hoewel de aanschafkosten hoger liggen dan die van eenmalige pallets, is het de investering waard dankzij de langere levensduur en extra kracht. Meermalige pallets zijn in veel uitvoeringen leverbaar en dus ook als gebruikte pallet. Twijfelt u of poolpallets wel aansluiten op het doel dat u voor ogen heeft? Dan helpen onze specialisten u graag verder.
+Meermalige pallets heten ook retourpallets of poolpallets. Ze zijn gemaakt om vele keren rond te gaan, bijvoorbeeld in een gesloten kringloop of in een [palletpool](@sector-pooling). Daarom zijn ze sterk en maatvast, en gaan ze vele jaren mee.
 
-## 2. CP pallet
+Een meermalige pallet kost in aanschaf meer dan een eenmalige pallet. Door de lange levensduur en de extra sterkte is hij per omloop toch vaak de voordeligste keuze. Aan het einde van zijn leven is hij volledig recyclebaar.
 
-[CP pallets](@type-cp) staat voor Chemical Pallet. Chemische pallets zijn oorspronkelijk ontwikkeld voor gebruik door de Europese chemische en kunststofindustrie. Het was van groot belang door de enorme verscheidenheid aan pallets die gebruikt werden, dat deze maten werden geharmoniseerd. Vandaag de dag worden chemische pallets niet alleen meer gebruikt in de chemische industrie. De pallets worden ook gebruikt in vele andere industrieën omdat ze net al als de bekende houten europallets, een hoge economische waarde kennen en behouden. Ze worden nu vooral gebruikt voor het verplaatsen van vaten met bepaalde vloeistoffen, zakgoed, octabins en zogenaamde big-bag zakken. Deze zakken worden voornamelijk gebruikt voor het transport van grondstoffen zoals poeders en ander fijn materiaal in korrel- of granulaatvorm. Deze CP pallets zijn dus leverbaar bij de gebruikte pallets in diverse maten.
+Meermalige pallets zijn er in veel uitvoeringen. Daardoor zijn ze ook regelmatig als gebruikte pallet beschikbaar.
+
+## 2. CP-pallets
+
+CP staat voor Chemical Pallet. De [CP-pallets](@type-cp) zijn ooit ontwikkeld om het palletaanbod in de Europese chemische en kunststofindustrie te standaardiseren. Er zijn negen types, van CP1 tot en met CP9.
+
+Inmiddels worden CP-pallets ook in veel andere industrieën gebruikt. Ze zijn geschikt voor vaten met vloeistoffen, zakgoed, octabins en big bags. In big bags worden vooral grondstoffen vervoerd, zoals poeders, korrels en granulaat.
+
+Ook CP-pallets komen regelmatig beschikbaar als gebruikte pallet, in verschillende maten.
 
 ## 3. Hygiënische pallets
 
-[Hygiënische pallets](@type-hygienic) worden ook wel food pallets genoemd. Ze worden gebruikt in branches waar ongedierte, bacteriën en schimmels zeker geen kans mogen krijgen (de zogenaamde HACCP-omgeving). De afwerking van de pallets is zo dat er geen ruimtes en naden zijn waarin vuil zich kan ophopen. Deze pallet is bijzonder geschikt voor de levensmiddelenindustrie. Het gaat dan om bedrijven die zich bezig zijn het bereiden, behandelen, verwerken, verpakken, vervoeren en distribueren van voedingsmiddelen en/of levensmiddelen. De hygiënische pallets van Q-Pall zijn gemaakt van kunststof. Dit materiaal is veel hygiënischer dan hout. Hout is namelijk poreus, waardoor houten pallets een fijn nestje vormen voor ongedierte en insecten. Ook bij de gebruikte pallets heeft u de mogelijkheid om hygiënische pallets te bestellen. Wilt u meer weten over gebruikte pallets voor uw toepassingen? Of heeft u andere vragen met betrekking tot ons assortiment en de mogelijkheden? Neem dan gerust contact met ons op voor meer informatie. Wij helpen u graag verder met persoonlijk advies!
+[Hygiënische pallets](@type-hygienic) worden ook wel foodpallets genoemd. U gebruikt ze waar hygiëne voorop staat, zoals in de voedingsmiddelenindustrie en de farmacie (HACCP). Denk aan bedrijven die voedingsmiddelen bereiden, verwerken, verpakken, vervoeren of distribueren.
+
+Een hygiënische pallet heeft een glad en zo gesloten mogelijk ontwerp, zonder naden en hoeken waarin vuil zich ophoopt. Hij neemt geen vocht op en is goed te reinigen. Hout is poreus en kan schimmelen, en is daardoor minder geschikt voor deze omgevingen.
+
+Onze hygiënische pallets zijn gemaakt van virgin (nieuw) kunststof, in een eigen kleur. Pallets van gerecycled kunststof zijn niet bedoeld voor direct contact met levensmiddelen. Ook hygiënische pallets komen soms als gebruikte pallet beschikbaar.
+
+## Gebruikte pallets kopen
+
+Q-Used heeft geen webshop. Het aanbod wisselt steeds, afhankelijk van welke pallets er binnenkomen. U geeft aan welk formaat, welke belasting en hoeveel pallets u zoekt, en wij laten u weten wat er op voorraad is.
+
+Zoekt u een bepaald type gebruikte pallet? [Neem contact met ons op](@contact) voor het actuele aanbod en een offerte.

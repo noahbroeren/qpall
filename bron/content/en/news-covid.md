@@ -1,17 +1,39 @@
 ---
 id: news-covid
-title: "How Q-Pall plastic pallets contributed to the COVID vaccine"
-description: "The Q-Pall 1208 HR 5R met strict specifications for transporting COVID vaccines, with shipments to America, Argentina, China and South Korea."
+title: "Plastic pallets for transporting COVID vaccines – Q-Pall"
+description: "Through our UK partner Goplasticpallets.com, Q-Pall supplied plastic pallets for transporting COVID vaccines to destinations such as Argentina and China."
 eyebrow: "News"
 tag: "Customer case"
-crumb: "How Q-Pall plastic pallets contributed"
-h1: "How Q-Pall plastic pallets **contributed to the COVID vaccine**"
-lead: "Our pallets have to endure a lot on a daily basis. They travel all over the world. They see the most beautiful products in review. But the most important and special task so far has been to contribute to the delivery of COVID vaccines."
-img_alt: "How Q-Pall plastic pallets contributed to the COVID vaccine"
-reading: 1
+crumb: "Pallets for COVID vaccines"
+h1: "How Q-Pall plastic pallets **contributed to the delivery of COVID vaccines**"
+lead: "One of the world's largest pharmaceutical companies needed a pallet that met strict requirements for transporting COVID vaccines. Our 1208 HR 5R was an exact fit, and we were able to deliver quickly."
+img_alt: "Black plastic pallet with an open deck on runners"
+reading: 2
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-Through our UK partner, Goplasticpallets.com, we received an application in October from one of the largest pharmaceutical companies in the world. Demand was not standard. Specific requests were made for a pallet that met all the strict specifications. Our Qpall 1208 HR 5R fit exactly within the specifications and we were also able to deliver quickly.
+> **In short**
+>
+> * Through our UK partner Goplasticpallets.com, a large pharmaceutical company asked for pallets to transport COVID vaccines.
+> * The company set strict, non-standard requirements for the pallet.
+> * Our 1208 HR 5R met the specifications exactly and was available quickly.
+> * Other vaccine suppliers followed with orders of their own.
+> * The pallets went to destinations including America, Argentina, China and South Korea.
 
-Our pallets were entrusted to transport the COVID vaccine. And after other vaccine suppliers heard of this suitable solution, subsequent new orders soon followed. The pallets travelled to America, Argentina, China and South Korea.
+## A special assignment
 
-The vaccines could be delivered quickly worldwide, in part due to the fast delivery time and the correct specification of our pallet. And we’re very proud of that!
+Our [plastic pallets](@pallets) go through a lot every day. They travel the world and carry a wide variety of products. One of their most special assignments was transporting COVID vaccines.
+
+## A request with strict requirements
+
+The request came in through Goplasticpallets.com, our [partner and dealer in the United Kingdom](@news-goplastic). One of the world's largest [pharmaceutical companies](@sector-pharma) needed a pallet that met all of its strict specifications. It was not a standard request.
+
+Our Q-Pall 1208 HR 5R fitted those specifications exactly. We were also able to deliver the pallets quickly.
+
+## From one customer to more vaccine suppliers
+
+Our plastic pallets were given the task of transporting the vaccines. When other vaccine suppliers heard about this solution, new orders soon followed. The pallets went to destinations including America, Argentina, China and South Korea.
+
+Partly thanks to the fast delivery and the right pallet specification, the vaccines could be distributed quickly around the world. We are proud of that.
+
+Do you need a pallet that meets specific requirements? [Contact us](@contact) and we will look at which model suits your application.

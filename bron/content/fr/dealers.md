@@ -21,7 +21,7 @@ compare:
   dealer_cta: "Ouvrir la carte des distributeurs"
   direct_t: "Directement chez Q-Pall"
   direct:
-    - "Pour des volumes par pile ou par camion complet"
+    - "Par pile complète ou par camion complet"
     - "Des palettes personnalisées avec votre logo ou votre couleur"
     - "Une livraison depuis l’usine la plus proche de chez vous"
 ---

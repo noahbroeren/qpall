@@ -7,7 +7,7 @@ h1: "A dealer **near you**"
 lead: "Q-Pall works with a network of dealers in Europe and the United States. They know the local market and also supply smaller quantities."
 list:
   eyebrow: "Dealers by country"
-  title: "A dealer in **{n} countries**"
+  title: "Dealers in **{n} countries**"
   lead: "Here are our dealers at a glance. You will find addresses and contact details on the dealer map."
 compare:
   eyebrow: "Dealer or direct"
@@ -21,7 +21,7 @@ compare:
   dealer_cta: "Open the dealer map"
   direct_t: "Direct from Q-Pall"
   direct:
-    - "For volumes per stack or per truckload"
+    - "Per full stack or per truckload"
     - "Custom pallets with your own logo or colour"
     - "Delivery from the factory closest to you"
 ---

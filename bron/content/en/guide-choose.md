@@ -54,4 +54,6 @@ Will the pallet come back? Then a heavier pallet that lasts many trips pays off.
 
 ## Need help?
 
+Prefer everything on paper? The [product catalogue](@catalog) shows our standard range with dimensions and load values, as a PDF to download.
+
 Our specialists are happy to help. Tell us what you transport, how you store it and how many pallets you need. We will then recommend the model that suits you best. [Request a quote](@quote) or [contact us](@contact).

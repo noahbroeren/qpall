@@ -1,7 +1,7 @@
 ---
 id: class-heavy
 title: "Pallet in plastica Heavy – fino a 2.000 kg su scaffale"
-description: "Pallet in plastica Heavy per carichi pesanti: 7.500 kg in statica, fino a 2.200 kg in dinamica e 2.000 kg su scaffale. Piano aperto o chiuso, 3–6 slitte."
+description: "Pallet in plastica Heavy per carichi pesanti: fino a 7.500 kg in statica, 2.200 kg in dinamica e 2.000 kg su scaffale. Piano aperto o chiuso, 3–6 slitte."
 eyebrow: "Classe di portata Heavy"
 h1: "Pallet in plastica **Heavy**"
 lead: "Per carichi pesanti, scaffalature alte e anni di uso intensivo. Sono disponibili [[count]] modelli Heavy, tra cui pallet igienici, pallet CP e pallet per pooling."

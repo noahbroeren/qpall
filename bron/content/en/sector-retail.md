@@ -1,16 +1,16 @@
 ---
 id: sector-retail
 title: "Plastic pallets for retail and supermarkets – Q-Pall"
-description: "Plastic pallets for retail: display pallets and Euro pallets that go from DC to shelf without repacking. Light, hygienic and reusable, also with IoT."
+description: "Plastic pallets for retail: display pallets and Euro pallets that go from distribution centre to shelf without repacking. Light, easy to clean and reusable."
 eyebrow: "Sector"
 h1: "Plastic pallets for **retail**"
 lead: "In retail, logistics must be fast, clean and sustainable. With display pallets, products go to the shelf without repacking, and Euro pallets last for many trips."
 recommend: [qp6040mb4f, qp6080mb6fr, qp6080hb6fr, qp1208mb3rr, qp1208hb3rr, qp1210hp3r-ao]
 faq:
   - q: "What is the advantage of display pallets in the store?"
-    a: "A display pallet is loaded in the DC and goes straight into the store. No repacking is needed. This saves time in the store and ensures a neat presentation."
+    a: "A display pallet is loaded at the distribution centre (DC) and goes straight into the store. No repacking is needed. This saves time in the store and ensures a neat presentation."
   - q: "Can plastic pallets be tracked?"
-    a: "Yes. Together with Auchan and IBM, we are deploying 50,000 smart pallets in France with IoT technology for location, temperature and shock detection. Contact us if you would like to know more about smart pallets."
+    a: "Yes. Together with Auchan and IBM, we put [50,000 smart pallets](@news-auchan) into service in France, with IoT technology for location, temperature and shock detection. Contact us if you would like to know more about smart pallets."
   - q: "Are plastic pallets more expensive than wood in retail?"
     a: "Per piece, often yes. Per trip, usually not. Plastic pallets last much longer, are damaged less and need no repairs. Read more in our [price guide](@guide-prices)."
 ---

@@ -1,43 +1,71 @@
 ---
 id: news-choosing-pallet
-title: "Elegir el palet de plástico adecuado – Q-Pall"
-description: "Capacidad de carga, dimensiones, material y apilabilidad: estos son los factores clave que debe tener en cuenta al elegir el palet de plástico adecuado."
+title: "Elegir el palet de plástico adecuado: 7 factores – Q-Pall"
+description: "¿En qué fijarse al elegir un palet de plástico? Siete factores de un vistazo: carga, medidas, material, encajabilidad, higiene, coste y medio ambiente."
 eyebrow: "Noticias"
 tag: "Conocimiento"
-crumb: "Elegir el palet de plástico adecuado"
-h1: "Elegir **el palet de plástico adecuado**"
-lead: "Capacidad de carga, dimensiones, material y apilabilidad: estos son los factores clave que debe tener en cuenta al elegir el palet de plástico adecuado."
-img_alt: "Elegir el palet de plástico adecuado"
-reading: 5
+crumb: "El palet de plástico adecuado"
+h1: "Elegir **el palet de plástico adecuado**: siete factores"
+lead: "Al elegir un palet de plástico cuenta algo más que el precio. Estos son los siete factores más importantes, desde la carga y las medidas hasta la higiene y el medio ambiente, y cómo valorarlos."
+img_alt: "Palet de plástico negro con superficie abierta en rejilla sobre tres patines"
+reading: 4
+faq:
+- q: "¿En qué debo fijarme al elegir un palet de plástico?"
+  a: "Empiece por la carga y las medidas de su mercancía. Después, fíjese en el material, en si el palet debe ser encajable, en los requisitos de higiene, en el coste durante toda su vida útil y en el impacto ambiental."
+- q: "¿Qué diferencia hay entre carga estática y carga dinámica?"
+  a: "La carga estática es el peso que soporta un palet cuando está parado, por ejemplo en el suelo. La carga dinámica es el peso que soporta mientras se mueve con una carretilla elevadora o una transpaleta. Para el almacenamiento en estanterías para palets se aplica un valor aparte."
+- q: "¿Un palet de plástico es más caro que uno de madera?"
+  a: "El precio de compra suele ser algo más alto. Sin embargo, un palet de plástico dura más y necesita menos mantenimiento. Por eso, el coste durante toda su vida útil suele ser menor."
+updated: '2026-11-02'
 ---
-**Cuando se trata de elegir un pallet, hay muchas opciones disponibles. Una de estas opciones son los pallets de plástico. Los pallets de plástico ofrecen varias ventajas sobre otros materiales como la madera o el metal. Sin embargo, para tomar la decisión correcta, hay varios factores a considerar al elegir un pallet de plástico que sea adecuado para sus necesidades. A continuación, se presentan algunas consideraciones importantes.**
+> **En resumen**
+>
+> * Empiece por la carga: estática, dinámica y en estantería.
+> * La medida depende de su mercancía y de sus estanterías, camiones y contenedores.
+> * Nuestros palets estándar son de plástico reciclado; para el contacto directo con alimentos hay palets de plástico virgen.
+> * Los palets encajables ahorran espacio en el almacenamiento y en el transporte de retorno.
+> * Fíjese en el coste durante toda la vida útil, no solo en el precio de compra.
 
-## Capacidad de peso
+A la hora de elegir un palet hay muchas opciones. Los palets de plástico ofrecen ventajas frente a la madera o el metal, pero también entre los palets de plástico hay grandes diferencias. Para elegir el palet de plástico adecuado, repase los factores más importantes. ¿Quiere empezar ya? Utilice entonces nuestra [guía paso a paso para elegir un palet de plástico](@guide-choose).
 
-La capacidad de peso del pallet es probablemente una de las consideraciones más importantes. Es importante conocer el peso que el pallet puede llevar antes de romperse o dañarse. Esto puede depender del tamaño, diseño y material utilizado para el pallet. Es importante considerar el peso de la carga que desea transportar o almacenar para asegurarse de que el pallet sea adecuado para sus necesidades. Además, debe considerar la capacidad de carga dinámica y estática del pallet y si se colocará en un sistema de estanterías, el peso máximo que el pallet debe poder llevar.
+## La carga: ¿cuánto debe soportar el palet?
 
-## Dimensiones
+La capacidad de carga es probablemente el factor más importante. El peso que puede soportar un palet depende de su diseño y de su material. Cada palet tiene tres valores de carga:
 
-Las dimensiones del pallet también son importantes. Dependiendo del tamaño de la carga que desea transportar, debe elegir un pallet lo suficientemente grande como para soportar la carga y transportarla de manera segura. Sin embargo, las dimensiones de los vehículos de transporte, como los remolques o los contenedores, también son decisivas. Los pallets vienen en diferentes tamaños, por lo que es importante elegir las dimensiones adecuadas para sus necesidades específicas.
+* **Estática.** El palet está parado en el suelo, por ejemplo en el apilado en bloque.
+* **Dinámica.** El palet se mueve con una carretilla elevadora, una transpaleta o un transportador de rodillos.
+* **En estantería.** El palet descansa en una estantería para palets sin baldas.
 
-## Material
+Fíjese en el valor que corresponde a su uso y deje algo de margen. Los valores indicados se aplican a una carga repartida de forma uniforme. Más información sobre [la capacidad de carga de los palets de plástico](@about-load).
 
-Los pallets de plástico también vienen en diferentes materiales, cada uno con sus propias ventajas y desventajas. Puede considerar pallets de plástico para exportación o agrupación, resistencia y durabilidad, peso y resistencia, y otros criterios al elegir un pallet de plástico. Es importante comprender las características de cada material y elegir el que mejor se adapte a sus necesidades.
+Nuestros palets se dividen en tres clases de carga. Los palets Light son ligeros y a menudo encajables, para la exportación y los envíos sin retorno. Los palets Medium son los todoterreno para el transporte interno y las cargas ligeras en estantería. Los palets Heavy están pensados para un uso intensivo y para estanterías para palets, y soportan hasta 7.500 kg en estática.
 
-## Nestabilidad
+## Las medidas: ¿el palet se adapta a la carga y al transporte?
 
-Algunos pallets de plástico son apilables, lo que significa que se pueden apilar unos dentro de otros para ahorrar espacio cuando no están en uso. Esto puede ser especialmente útil si tiene espacio de almacenamiento limitado o necesita manejar envíos de devolución. Es importante verificar si los pallets que está considerando necesitan ser apilables y cuánto espacio puede ahorrar.
+El palet debe ser lo bastante grande para soportar bien la carga y transportarla con seguridad. Sus medios de transporte y sus estanterías también determinan la medida: los palets tienen que caber en su camión, remolque o contenedor. En Europa, el estándar es 1200 x 800 mm. Nuestra gama incluye unos 130 modelos en nueve formatos, de 600 x 400 a 1300 x 1100 mm. En nuestro resumen de [medidas de palets](@guide-sizes) los encontrará todos.
 
-## Higiene
+## Material y peso
 
-Si la higiene es una consideración importante para su aplicación, debe elegir un pallet que sea fácil de limpiar y que no absorba humedad. Los pallets de plástico son naturalmente más higiénicos que los pallets de madera porque no se astillan y no permiten que las bacterias o los insectos se adhieran y se propaguen. Cuando se trata de demandas especialmente altas y regulaciones estrictas sobre la higiene del producto, así como del ambiente de producción, también puede elegir el pallet apto para salas limpias. Este pallet de plástico completamente cerrado está estableciendo nuevos estándares con su superficie de cubierta suave.
+No todos los palets de plástico están hechos del mismo material. Fabricamos nuestros palets estándar con plástico reciclado, una mezcla de HDPE y PP. Nuestros palets higiénicos, palets H1 y palets para salas blancas son de plástico virgen (nuevo), en un color propio. Los palets de plástico reciclado no están destinados al contacto directo con alimentos.
 
-## Precio
+Los palets de plástico suelen ser más ligeros que los de madera, aunque depende del tipo. Un palet Light es mucho más ligero que un europalet de madera de unos 25 kg. Un palet Heavy pesa entre 17 y 28 kg.
 
-Finalmente, el precio es una consideración importante al elegir un palet de plástico. El precio puede variar según el tamaño, el material, las propiedades, la calidad y las cantidades del palet. Es importante considerar los costos, pero también debe observarse los costos totales a largo plazo. Los palets de plástico a menudo tienen un costo inicial ligeramente más alto que los palets de madera, dependiendo de los precios de las materias primas y los costos de producción. Sin embargo, en última instancia, durarán más y requerirán menos mantenimiento, lo que reducirá los costos totales a largo plazo. Además, el uso de palets de plástico puede ayudar a reducir los costos operativos, como los costos por daños, reparación o disposición de palets rotos.
+## La encajabilidad: ahorrar espacio
 
-## Amigable con el medio ambiente
+Algunos palets de plástico son encajables: los palets vacíos se introducen unos dentro de otros. Así ahorra espacio en el almacenamiento y en el transporte de retorno. Una pila completa contiene, por ejemplo, 45 [palets encajables](@type-nestable), frente a 17 palets Medium. Los palets encajables suelen ser palets Light. ¿Necesita aun así más estabilidad en destino? Entonces puede montarles patines de clic.
 
-Si la sostenibilidad y la amigabilidad con el medio ambiente son cada vez más importantes, elegir palets de plástico también es una elección lógica. Los palets Q-Pall están hechos de plástico reciclado al 99% y son 100% reciclables y reutilizables al final de su ciclo de vida. Esto convierte el uso de palets de plástico en una opción sostenible. En conclusión, existen varios factores a considerar al elegir un palet de plástico. Es importante considerar la capacidad de peso, las dimensiones, el material, la anidabilidad, la higiene, el costo y la amigabilidad con el medio ambiente. Al considerar estos factores y elegir el palet adecuado, puede garantizar que sus productos se transporten de manera segura y eficiente mientras se minimizan los costos y los residuos, y se contribuye directamente a un futuro más sostenible.
+## La higiene
 
-Si necesita ayuda para elegir el palet adecuado, siempre puede contactarnos y nuestros especialistas lo ayudarán a tomar la decisión correcta. En última instancia, elegir el palet de plástico adecuado puede tener un impacto significativo en sus operaciones de la cadena de suministro. Puede ayudar a garantizar que sus productos se transporten de manera segura, eficiente y sostenible, al tiempo que reduce los costos y minimiza los residuos. Al tomar el tiempo para considerar los factores discutidos anteriormente y elegir el palet de plástico adecuado para sus necesidades, puede ayudar a optimizar sus operaciones de la cadena de suministro y respaldar un futuro más sostenible.
+¿Es importante la higiene en su aplicación? Elija entonces un palet que no absorba humedad y sea fácil de limpiar. A diferencia de la madera, los palets de plástico no se astillan ni absorben humedad. Para el contacto directo con alimentos, o si su entorno de producción tiene requisitos estrictos, elija un [palet higiénico](@type-hygienic) o un palet para salas blancas de plástico virgen con superficie lisa.
+
+## El coste durante toda la vida útil
+
+El precio depende de la medida, la versión, el material y la cantidad. Los palets de plástico suelen tener un precio de compra algo más alto que los de madera. Sin embargo, duran más y necesitan menos mantenimiento. Por eso, el coste total a largo plazo suele ser menor, igual que los costes por daños, reparaciones y retirada de palets rotos.
+
+¿El presupuesto pesa mucho? Los palets de plástico usados de Q-Used están revisados y son hasta un 40% más baratos que los nuevos.
+
+## El medio ambiente
+
+La sostenibilidad es cada vez más importante para muchas empresas. Nuestros palets estándar están fabricados con plástico reciclado casi al 100%. Al final de su vida útil son totalmente reciclables: los recogemos y los trituramos para obtener materia prima para nuevos palets.
+
+¿No está seguro de qué palet se adapta mejor a su carga y a su proceso? Cuéntenos qué transporta, cómo lo almacena y cuántos palets necesita. [Solicite un presupuesto](@quote) y normalmente recibirá un precio a medida en un día laborable.

@@ -1,29 +1,50 @@
 ---
 id: news-hq
-title: "Nieuw Europees hoofdkantoor voor Q-Pall – Q-Pall"
-description: "Het nieuwe Europese hoofdkantoor van Q-Pall in Veghel langs de A50 is klaar. Lees hoe MVO een rol speelde bij het ontwerp van kantoor en bedrijfshal."
+title: "Nieuw Europees hoofdkantoor in Veghel – Q-Pall"
+description: "Begin 2022 was het nieuwe Europese hoofdkantoor van Q-Pall in Veghel klaar: kantoor en bedrijfshal langs de A50, gebouwd met oog voor MVO en energie."
 eyebrow: "Nieuws"
 tag: "Bedrijfsnieuws"
-crumb: "Nieuw Europees hoofdkantoor voor Q-Pall"
-h1: "Nieuw Europees hoofdkantoor **voor Q-Pall**"
-lead: "Het nieuwe Europese hoofdkantoor van Q-Pall in Veghel langs de A50 is klaar. Lees hoe MVO een rol speelde bij het ontwerp van kantoor en bedrijfshal."
-img_alt: "Nieuw Europees hoofdkantoor voor Q-Pall"
-reading: 3
+crumb: "Nieuw hoofdkantoor in Veghel"
+h1: "Nieuw Europees hoofdkantoor **voor Q-Pall** in Veghel"
+lead: "Begin 2022 was de bouw van het nieuwe Europese hoofdkantoor van Q-Pall in Veghel afgerond. Het pand langs de A50 combineert kantoren met een bedrijfshal en is ontworpen met oog voor maatschappelijk verantwoord ondernemen."
+img_alt: "Het hoofdkantoor van Q-Pall in Veghel: een donkergrijs pand met een oranje overstek en grote glazen gevels"
+reading: 2
+published: '2022-01-19'
+updated: '2026-11-02'
 ---
-De bouw van het nieuwe hoofdkantoor van Q-Pall is afgerond. De nieuwe locatie in Veghel bevindt zich langs de A50. In het nieuwe pand zit naast het nieuwe Europese hoofdkantoor ook een nieuwe bedrijfshal. Q-Pall is één van de wereldwijde marktleiders op het gebied van [kunststof pallets](@pallets). De nieuwe locatie is noodzakelijk om verder te kunnen uitbreiden voor dit in 2005 opgerichte bedrijf en biedt ook mooie *kansen voor Maatschappelijk Verantwoord Ondernemen (MVO*) wat bijzonder belangrijk is voor Q-Pall.
+> **In het kort**
+>
+> * Begin 2022 was het nieuwe Europese hoofdkantoor van Q-Pall in Veghel, langs de A50, klaar.
+> * In het pand zitten het hoofdkantoor, het Europese operationele centrum en een bedrijfshal voor opslag.
+> * Bestaande funderingspalen, een warmtepomp en zonnepanelen maakten het pand zuinig in materiaal en energie.
+> * De pallets zelf maakt Q-Pall in zes fabrieken in Europa, zo dicht mogelijk bij de klant.
 
-## Het nieuwe pand
+## Een nieuw hoofdkantoor langs de A50
 
-Dit streven naar MVO van Q-Pall blijkt bijvoorbeeld uit het ontwerp en de constructie van het nieuwe hoofdkantoor en de nieuwe bedrijfshal. Op de bouwlocatie waren namelijk al funderingspalen aanwezig waar bij het ontwerp van de locatie rekening mee gehouden is. Zo wordt niet alleen op de bouwkosten bespaard, maar wordt ook **onnodig materiaalgebruik** **voorkomen**. Daarnaast maakt de nieuwbouw het voor Q-Pall ook mogelijk om andere grote stappen te zetten op het gebied van MVO. Zo zullen een lucht-/warmtepomp en zonnecollectoren op het dak niet ontbreken en zal het nieuwe pand vrijwel energieneutraal zijn.
+Begin 2022 rondde Q-Pall de bouw van het nieuwe Europese hoofdkantoor in Veghel af. Het pand ligt direct langs de A50. Naast het hoofdkantoor en het Europese operationele centrum kreeg Q-Pall er een nieuwe bedrijfshal voor opslag. Komt u zelf pallets laden of lossen in Veghel? [Meld uw transport vooraf aan](@transport).
 
-Het ontwerp van het pand is strak en simpel, maar door grote raampartijen, grote overstekken en het integraal in de gevel verwerken van bijvoorbeeld de zonwering zal er een fraai gebouw komen te staan. Het is een verdere en grote stap in het streven van Q-Pall om op een efficiënte manier, **duurzame [kunststof pallets](@pallets)** te produceren.
+De nieuwe locatie was nodig om het in 2005 opgerichte bedrijf verder te laten groeien. Tegelijk bood de nieuwbouw kansen voor maatschappelijk verantwoord ondernemen (MVO), een onderwerp dat voor Q-Pall zwaar weegt.
 
-## Q-Pall en kunststof pallets
+## Duurzaam gebouwd
 
-Q-Pall is een grote Europese speler op het gebied van fabricage van *kunststof verpakkingsmaterialen* en dan met name kunststof pallets. Kenmerkend is dat Q-Pall de productie van kunststof pallets zo veel mogelijk laat plaatsvinden op de locatie waar behoefte is aan de pallets. Dat wordt bereikt door de matrijzen waarmee de pallets gemaakt worden, te vervoeren naar een plaatselijke productiefaciliteit. Door alleen die matrijzen te vervoeren wordt een enorme besparing bereikt op transportkilometers en daardoor CO2-uitstoot en kosten van vrachtwagens.
+Dat streven naar MVO is terug te zien in het ontwerp en de bouw van het pand. Op het terrein stonden al funderingspalen, en daar is in het ontwerp rekening mee gehouden. Dat bespaarde bouwkosten en voorkwam **onnodig materiaalgebruik**.
 
-Een concreet voorbeeld: als in Nederland kunststof pallets geproduceerd zouden worden die bestemd zijn voor de Franse markt dan betekent dat vele volle vrachtwagens die lange ritten richting het zuiden en weer terug moeten maken. Door alleen de matrijs richting Frankrijk te vervoeren en de pallets plaatselijk te produceren wordt enorm bespaard op transportkilometers en daardoor de CO2-uitstoot. Inmiddels zijn er productielocaties in Balk (NL), Ringe en Marktoberdorf (D), Ribe (DK) en Nantes (F).
+Daarnaast kreeg het pand een warmtepomp en zonnepanelen op het dak. Het is ontworpen om vrijwel energieneutraal te zijn. Meer over onze aanpak leest u op de pagina [duurzaamheid](@about-sustainability).
 
-## Q-Pall beheert volledige keten
+Het ontwerp is strak en eenvoudig. Grote raampartijen, ruime overstekken en zonwering die in de gevel is verwerkt, geven het gebouw zijn karakter.
 
-Q-Pall produceert niet alleen kunststof pallets. Ook het ontwerp, de distributie en de verkoop wordt door Q-Pall verzorgd. Het Veghelse bedrijf is dus actief in de gehele keten met als gevolg dat alle onderdelen goed op elkaar afgestemd worden. Een ander belangrijk kenmerk van de kunststof pallets is dat deze na hun levensduur weer volledig gerecycled kunnen worden. De gebruikte kunststof pallets dienen dan dus als grondstof voor nieuwe pallets. Bovendien vormt het plastic dat weer uit de oceanen verwijderd wordt, de zogenoemde plastic soep, ook een steeds belangrijker wordend onderdeel van de gebruikte grondstoffen. Ook dit is een mooi voorbeeld van de maatregelen die Q-Pall neemt op basis van Maatschappelijk Verantwoord Ondernemen.
+## Produceren dicht bij de klant
+
+Q-Pall maakt alleen kunststof pallets. Kenmerkend is dat we die zo dicht mogelijk bij de klant produceren. Niet de pallets reizen, maar de matrijzen waarmee ze worden gemaakt. We plaatsen een matrijs in de fabriek die het dichtst bij de klant ligt. Zo besparen we veel transportkilometers, kosten en CO₂-uitstoot.
+
+Een voorbeeld: worden pallets voor de Franse markt in Nederland gemaakt, dan rijden er veel volle vrachtwagens lange ritten naar het zuiden en weer terug. Gaat alleen de matrijs naar onze fabriek in Nantes, dan blijven die ritten grotendeels achterwege.
+
+Q-Pall produceert in zes fabrieken: Balk (Nederland), Ribe (Denemarken), Marktoberdorf (Duitsland), Nantes (Frankrijk), Lleida (Spanje) en Chesterfield (Verenigd Koninkrijk). Bijna elke klant zit binnen 600 kilometer van een fabriek. Lees meer over [lokaal produceren](@about-local).
+
+## De hele keten in eigen hand
+
+Q-Pall verzorgt niet alleen de productie, maar ook het ontwerp, de distributie en de verkoop van de pallets. Omdat we in de hele keten actief zijn, sluiten alle onderdelen goed op elkaar aan.
+
+Onze standaardpallets zijn gemaakt van bijna 100% gerecycled kunststof. Aan het einde van hun leven zijn ze volledig recyclebaar: we nemen ze terug en vermalen ze tot grondstof voor nieuwe pallets. Goed bruikbare pallets krijgen via [Q-Used](@used) een tweede leven.
+
+Wilt u weten welke kunststof pallet bij uw toepassing past? [Neem contact met ons op](@contact).

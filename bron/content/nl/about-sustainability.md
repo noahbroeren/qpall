@@ -27,7 +27,7 @@ Een kunststof pallet gaat vele jaren mee, veel langer dan een gemiddelde houten 
 
 ## EcoVadis Bronze
 
-Onze duurzaamheidsprestaties worden onafhankelijk beoordeeld door EcoVadis. In oktober 2026 behaalden we opnieuw de EcoVadis Bronze-medaille: daarmee horen we bij de beste 35% van de beoordeelde bedrijven.
+Onze duurzaamheidsprestaties worden onafhankelijk beoordeeld door EcoVadis. In april 2023 ontvingen we de zilveren medaille, in 2025 de bronzen. In oktober 2026 behaalden we opnieuw de EcoVadis Bronze-medaille: daarmee horen we bij de beste 35% van de beoordeelde bedrijven.
 
 ## Pallets with a purpose
 

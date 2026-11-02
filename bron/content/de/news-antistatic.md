@@ -1,25 +1,70 @@
 ---
 id: news-antistatic
-title: "Komfort und Vorteile antistatischer Paletten – Q-Pall"
-description: "Reibung zwischen Verpackung und Kunststoffpalette kann statische Ladung erzeugen. So entsteht sie, so beugen Sie vor und das leisten antistatische Paletten."
+title: "Antistatische Paletten: Funktion und Vorteile – Q-Pall"
+description: "Reibung zwischen Verpackung und Palette kann statische Ladung erzeugen. Erfahren Sie, wie antistatische Kunststoffpaletten wirken und was sie bringen."
 eyebrow: "Aktuelles"
 tag: "Wissen"
-crumb: "Komfort und Vorteile antistatischer"
-h1: "Komfort und Vorteile **antistatischer Paletten**"
-lead: "Reibung zwischen Verpackung und Kunststoffpalette kann statische Ladung erzeugen. So entsteht sie, so beugen Sie vor und das leisten antistatische Paletten."
-img_alt: "Komfort und Vorteile antistatischer Paletten"
+crumb: "Antistatische Paletten"
+h1: "Antistatische Paletten: **Funktion und Vorteile**"
+lead: "Durch Reibung zwischen Verpackung und Palette kann statische Ladung entstehen. Sie zieht Staub an und kann empfindliche Elektronik beschädigen. Antistatische Kunststoffpaletten wirken dem entgegen."
+img_alt: "Stapel schwarzer Kunststoffpaletten mit Barcode-Etikett"
 reading: 3
+faq:
+- q: "Was ist eine antistatische Palette?"
+  a: "Eine Kunststoffpalette mit antistatischen Additiven. Sie senken den Oberflächenwiderstand des Kunststoffs, sodass sich die Palette weniger statisch auflädt und weniger Staub anzieht."
+- q: "Was bewirkt ein antistatisches Additiv?"
+  a: "Es senkt den Oberflächenwiderstand des Kunststoffs und erhöht so seine Leitfähigkeit. Ladung, die durch Reibung entsteht, fließt dadurch ab, statt sich aufzubauen."
+- q: "Ist eine antistatische Palette dasselbe wie eine ESD-Palette?"
+  a: "Nein. Eine antistatische Palette wirkt vor allem dem Aufbau von Ladung und der Staubanziehung entgegen. Eine ESD-sichere Palette enthält leitfähige Additive wie Carbon Black und leitet Ladung aktiv und kontrolliert ab."
+published: '2022-01-09'
+updated: '2026-11-02'
 ---
-Plastikpaletten, auch [Kunststoffpaletten](@pallets) genannt, werden für den ordnungsgemäßen Transport sowie für die Lagerung von Gütern und Produkten verwendet. Sie wählen die Palette mit größter Sorgfalt aus, sodass die Ladung, auf welche Weise auch immer, nicht angetastet wird. Die Qualität darf dabei nicht sinken. Manchmal kann es jedoch vorkommen, dass die Ladung auf der Palette durch die Reibung zwischen der Verpackung und der Kunststoffpalette statisch aufgeladen wird und das kann zu Problemen führen. Um dies zu vermeiden, können Sie sich für antistatische Paletten entscheiden. Was genau bedeutet antistatisch und was heißt das für Ihre Artikel?
+> **Kurz gesagt**
+>
+> * Durch Reibung mit der Verpackung kann sich eine Kunststoffpalette statisch aufladen.
+> * Statische Ladung zieht Staub an, kann empfindliche Elektronik beschädigen und verursacht kleine Stromschläge.
+> * Antistatische Additive senken den Oberflächenwiderstand des Kunststoffs. Dadurch baut sich weniger Ladung auf, und sie fließt ab.
+> * Q-Pall setzt diese Additive als Anpassung eines bestehenden Palettenmodells ein, abgestimmt auf Ihre Anwendung.
+> * Besteht Explosionsgefahr oder arbeiten Sie mit sehr empfindlicher Elektronik? Dann wählen Sie eine ESD-sichere Palette.
 
-## Statische Ladung
+[Kunststoffpaletten](@pallets) nutzen Sie, um Güter sicher zu transportieren und zu lagern. Sie wählen die Palette sorgfältig aus, damit die Qualität des Ladeguts nicht leidet.
 
-Was ist statische Ladung und wie entsteht sie? Gegenstände, die aus Kunststoff gefertigt sind und miteinander in Kontakt kommen, können leicht statisch aufgeladen werden. Die Reibung, wie klein auch immer, sorgt dafür, dass die Gegenstände elektrostatisch aufgeladen werden. So entsteht eine statische Spannung, die für Probleme sorgen kann. Im Alltag können bestimmte Materialien wie z. B. Kleidung beim Sitzen auf dem Sofa aufgeladen werden. Die Kunststoffe, die in der Kleidung und dem Sofa verarbeitet sind, sorgen für elektrische Ladung. Diese Ladung verschwindet, wenn eine andere Materialsorte berührt wird. Dabei spüren Sie bei der Berührung einen kleinen Stromschlag. Bei [Kunststoffpaletten](@pallets) sorgt die Kombination aus Ladung und Palette dafür, dass diese statisch aufgeladen wird. Die Gegenstände entladen sich, sobald sie mit einem anderen Stoff in Kontakt kommen oder von jemandem berührt werden. Dies kann dazu führen, dass die Qualität der Ladung negativ beeinflusst oder die Ladung selbst sogar irreparabel beschädigt wird.
+Trotzdem kann sich das Ladegut auf der Palette durch Reibung zwischen Verpackung und Kunststoffpalette statisch aufladen. Das kann zu Problemen führen.
 
-## Folgen von statischer Elektrizität
+Eine Lösung ist eine **antistatische Palette**. Was ist das genau, und was bedeutet es für Ihre Produkte?
 
-Die Folgen von statischer Ladung sind unterschiedlich. Statisch geladene Gegenstände ziehen in erster Linie Staub an. Das bedeutet, dass der im Raum vorhandene Staub einfach an der Palette und der Ladung haftet. Dies kann alles andere als erwünscht sein, da es die Qualität oder Haltbarkeit der Ladung negativ beeinflusst. Ferner kann statische Elektrizität zu irreparablen Schäden an elektronischer Ausrüstung wie Computerhardware führen. Die Folgen reichen von Totalausfällen bis hin zu leichten Beschädigungen mit kaum merklichen Auswirkungen. Auf lange Sicht können diese Schäden durch Alterung jedoch häufig zu unerklärlichen Mängeln und Störungen führen. Außerdem besteht Stromschlaggefahr für Personen, die mit der statisch aufgeladenen Ausrüstung in Berührung kommen.
+## Wie entsteht statische Ladung?
 
-## Q-Pall antistatische Paletten
+Gegenstände aus Kunststoff, die miteinander in Kontakt kommen, können sich leicht statisch aufladen. Die Reibung, so gering sie auch ist, erzeugt eine elektrische Spannung.
 
-Q-Palls antistatische Paletten werden mit einer ausgewogenen Kombination synergetischer und antistatischer Zusätze versehen, die die Leitfähigkeit von Oberflächen aus Polyethylen direkt erhöhen. Das Gleichgewicht zwischen den schnellen und kontrollierten, wandernden antistatischen Zusätzen hat nicht nur eine schnelle, antistatische Wirkung, sondern bietet auch langfristigen Schutz gegen Staubanziehung und andere unerwünschte Folgen von elektrostatischer Ladung. Die Paletten werden ganz nach Ihren Spezifikationen auf Maß gefertigt. Gemeinsam widmen wir uns Ihren Wünschen. So können Sie sich darauf verlassen, dass Ihre Produkte auf möglichst sichere Art und Weise transportiert und gelagert werden. Möchten Sie mehr über die Möglichkeiten erfahren, Paletten mit einem antistatischen Zusatz zu versehen oder haben Sie andere Fragen zu unserem Sortiment und den Möglichkeiten? Nehmen Sie für weitere Informationen gerne [Kontakt](@contact) mit uns auf. Wir helfen Ihnen gerne mit einer persönlichen Beratung weiter.
+Sie kennen das aus dem Alltag. Nach einer Weile auf dem Sofa ist Ihre Kleidung manchmal durch die Kunststofffasern in Stoff und Bezug aufgeladen. Berühren Sie danach etwas, spüren Sie einen kleinen Schlag: Die Ladung entlädt sich.
+
+Bei Kunststoffpaletten ist es genauso. Zwischen Ladegut und Palette baut sich eine Spannung auf. Sie entlädt sich, sobald ein anderes Material oder die Person, die das Ladegut anfasst, damit in Kontakt kommt.
+
+## Folgen statischer Aufladung
+
+* **Staub.** Statisch aufgeladene Gegenstände ziehen Staub an. Der Staub im Raum haftet an Palette und Ladegut, was die Qualität oder Haltbarkeit des Ladeguts beeinträchtigen kann.
+* **Schäden an Elektronik.** Statische Elektrizität kann elektronische Geräte wie Computerhardware irreparabel beschädigen. Manchmal ist die Wirkung zunächst kaum spürbar, doch später treten unerklärliche Störungen auf.
+* **Stromschläge.** Mitarbeitende können einen Schlag bekommen, wenn sie aufgeladene Produkte oder Geräte berühren.
+
+## Wie funktioniert eine antistatische Palette?
+
+Normaler Kunststoff leitet schlecht. Ladung, die an der Oberfläche entsteht, bleibt dort. Eine antistatische Palette enthält Additive, die das ändern.
+
+Diese **antistatischen Additive** senken den Oberflächenwiderstand des Kunststoffs. Die Oberfläche leitet dadurch besser, sodass Ladung abfließt, statt sich aufzubauen.
+
+Wir verwenden eine ausgewogene Kombination von Additiven. Ein Teil wirkt schnell, ein anderer Teil wandert kontrolliert und nach und nach an die Oberfläche. Zusammen sorgen sie für eine schnelle antistatische Wirkung und einen langfristigen Schutz gegen Staub und andere Folgen statischer Aufladung.
+
+## Antistatisch oder ESD-sicher?
+
+Antistatisch und ESD-sicher ähneln sich, sind aber nicht dasselbe. Eine antistatische Palette wirkt vor allem dem Aufbau von Ladung und der Staubanziehung entgegen. Eine ESD-sichere Palette enthält leitfähige Additive wie Carbon Black und leitet Ladung aktiv und kontrolliert ab.
+
+Arbeiten Sie mit brennbaren Stoffen oder sehr empfindlicher Elektronik? Dann lesen Sie, [was ESD-sichere Paletten sind](@news-esd).
+
+## Antistatische Paletten nach Maß
+
+Antistatische Paletten fertigen wir nach Ihren Vorgaben. Dafür passen wir das Material eines bestehenden Palettenmodells an: Eine komplett neue Palette entwerfen wir nicht. Gemeinsam mit Ihnen prüfen wir, welches Modell und welche Ausführung zu Ihren Produkten passen.
+
+Eine solche Anpassung fällt unter [individuelle Lösungen](@about-custom) und ist für größere Projekte gedacht. Sind Sie beim Palettentyp noch unsicher? Dann lesen Sie zuerst [Die richtige Kunststoffpalette wählen](@guide-choose).
+
+Möchten Sie wissen, ob sich eine antistatische Ausführung für Ihre Produkte lohnt? [Nehmen Sie Kontakt mit uns auf](@contact), wir beraten Sie gern persönlich.

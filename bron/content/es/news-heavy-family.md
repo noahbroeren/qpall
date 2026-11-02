@@ -1,17 +1,45 @@
 ---
 id: news-heavy-family
-title: "Q-Pall amplía su familia de palets Heavy – Q-Pall"
-description: "Q-Pall amplía su gama Heavy con cuatro palets robustos y resistentes a impactos, con 1375 kg de carga en estanterías altas y versiones de 3 o 6 patines."
+title: "Familia de palets Heavy ampliada en 2021 – Q-Pall"
+description: "En 2021 Q-Pall añadió cuatro palets de plástico Heavy a su gama: hasta 1.375 kg en estantería, 3 o 6 patines y superficie abierta o cerrada."
 eyebrow: "Noticias"
 tag: "Producto"
-crumb: "Q-Pall amplía su familia de palets Heavy"
-h1: "Q-Pall amplía su familia **de palets Heavy**"
-lead: "Q-Pall, el fabricante de palets de plástico sostenibles, añade a su gama de productos una nueva línea completa de palets para cargas pesadas."
-img_alt: "Q-Pall amplía su familia de palets Heavy"
-reading: 1
+crumb: "Ampliación de palets Heavy"
+h1: "En 2021 Q-Pall amplió su familia de **palets Heavy**"
+lead: "En SITL París y Fachpack, en septiembre de 2021, Q-Pall presentó cuatro palets de plástico Heavy. Robustos, resistentes a los impactos y con una capacidad de hasta 1.375 kg en estanterías altas."
+img_alt: "Imagen de presentación con un palet bajo una tela naranja y una lupa sobre el logotipo de Q-Pall"
+reading: 2
+updated: '2026-11-02'
 ---
-Los palets se caracterizan por su diseño robusto, su resistencia a los impactos y su capacidad de carga de 1375 kg en estanterías altas. La diferencia entre los cuatro nuevos palets es su tamaño.
+> **En resumen**
+>
+> * En septiembre de 2021 Q-Pall presentó cuatro palets de plástico Heavy en las ferias SITL París y Fachpack.
+> * Los palets son robustos, resistentes a los impactos y soportan hasta 1.375 kg en estanterías altas.
+> * Los cuatro modelos se diferencian por sus dimensiones.
+> * Están disponibles con 3 o 6 patines y con superficie abierta o cerrada.
+> * Un color propio, una marca del cliente o una etiqueta RFID permite identificar los palets fácilmente.
 
-Además de la versión de 3 patines, los palets están disponibles con 6 patines, por lo que pueden utilizarse para apilar en bloque. Los palets vienen con una cubierta superior abierta y otra cerrada. Los palets están disponibles con o sin reborde para satisfacer cualquier requisito específico. La identificación de los palets puede facilitarse seleccionando diferentes colores y aplicando la marca específica del cliente.
+## Una línea para uso intensivo
 
-La nueva línea de palets de alta resistencia se presentará durante la feria SITL París 2021 y Fachpack 2021 en el mes de septiembre.
+En 2021 Q-Pall amplió su gama de [palets de plástico Heavy](@class-heavy) con una línea completa de cuatro modelos. Presentamos los palets en septiembre de ese mismo año en dos ferias profesionales: SITL en París y Fachpack en Núremberg.
+
+Los palets están pensados para cargas pesadas y un uso intensivo. Tienen un diseño robusto, resisten los impactos y soportan hasta 1.375 kg en estanterías para palets de gran altura. Qué significa exactamente la carga en estantería lo explicamos en nuestra página sobre [la capacidad de carga de los palets de plástico](@about-load).
+
+## Versiones
+
+Los cuatro modelos se diferencian por sus dimensiones. Además, puede elegir entre estas versiones:
+
+* **3 o 6 patines.** Además de la versión con tres patines, existe una versión con seis patines. Esta también es adecuada para el apilado en bloque.
+* **Superficie abierta o cerrada.** Una superficie abierta deja escurrir la humedad. Una superficie cerrada ofrece una base plana para productos pequeños y es fácil de limpiar.
+
+## Fáciles de identificar en su cadena de suministro
+
+Puede hacer que los palets Heavy sean fáciles de reconocer con:
+
+* **un color propio**, por ejemplo para distinguir pools o departamentos;
+* **una marca del cliente**, como un logotipo;
+* **una etiqueta RFID**, para identificar y localizar sus palets.
+
+Encontrará más información sobre logotipos, colores y otras adaptaciones en nuestra página sobre [palets de plástico personalizados](@about-custom).
+
+¿Busca un palet Heavy para sus estanterías o su pool? [Solicite un presupuesto](@quote); normalmente recibirá un precio a medida en un día laborable.

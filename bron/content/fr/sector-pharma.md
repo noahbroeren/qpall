@@ -21,7 +21,7 @@ Dans l’industrie pharmaceutique, tout tourne autour de la prévention des cont
 
 ## Pourquoi des palettes plastique ?
 
-- **Non poreuses :** les bactéries et l’humidité n’ont aucune chance.
+- **Non poreuses :** les palettes n’absorbent pas l’humidité et se nettoient facilement.
 - **Lavables et nettoyables** à l’eau, à haute pression ou avec des produits de nettoyage.
 - **Sans échardes ni arêtes vives.**
 - **Version antidérapante disponible**, pour la stabilité sur des surfaces humides ou inclinées.

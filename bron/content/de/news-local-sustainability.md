@@ -1,47 +1,65 @@
 ---
 id: news-local-sustainability
-title: "Nachhaltigkeit: lokale Produktion von Kunststoffpaletten"
-description: "Q-Pall fertigt Kunststoffpaletten aus recyceltem Kunststoff lokal in Europa. Erfahren Sie, wie das Ihre Nachhaltigkeitsziele und Ihre grüne Logistik stützt."
+title: "Lokal produzierte Kunststoffpaletten: weniger CO₂ – Q-Pall"
+description: "Lokale Produktion von Kunststoffpaletten spart Transport und CO₂. So wirken sechs europäische Werke, Rezyklat und Rücknahme für Ihre Lieferkette zusammen."
 eyebrow: "Aktuelles"
 tag: "Nachhaltigkeit"
-crumb: "Nachhaltigkeit"
-h1: "Nachhaltigkeit: **lokale Produktion von Kunststoffpaletten**"
-lead: "Indem Sie sich für Q-Pall entscheiden, können Unternehmen einen bedeutenden Schritt zur Reduzierung ihres ökologischen Fußabdrucks und zur Erreichung ihrer Nachhaltigkeitsziele machen. Lesen Sie weiter, um zu sehen, wie die Philosophie und Produkte von Q-Pall ein integraler Bestandteil Ihrer grünen Logistikstrategie sein können."
-img_alt: "Nachhaltigkeit: lokale Produktion von Kunststoffpaletten"
-reading: 6
+crumb: "Nachhaltig lokal produzieren"
+h1: "Weniger Transport, weniger CO₂: **lokale Produktion von Kunststoffpaletten**"
+lead: "Je kürzer der Weg zwischen Werk und Kunde, desto weniger Transport und CO₂. Deshalb fertigen wir unsere Paletten in sechs europäischen Werken aus Rezyklat aus der Region und nehmen sie am Ende zurück."
+img_alt: "Glaskugel im Gras, in der sich ein Baum und eine grüne Landschaft spiegeln"
+reading: 3
+faq:
+- q: "Warum ist lokale Palettenproduktion nachhaltiger?"
+  a: "In der Palettenkette ist der Transport die größte Quelle von CO₂-Emissionen. Je näher das Werk am Kunden liegt, desto weniger Kilometer und Emissionen. Fast jeder Q-Pall-Kunde ist weniger als 600 Kilometer von einem unserer sechs Werke entfernt."
+- q: "Woraus bestehen die Paletten von Q-Pall?"
+  a: "Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE (Code 2) und PP (Code 5). Nur Hygienepaletten, H1-Paletten und Reinraumpaletten bestehen aus Neuware (Virgin-Kunststoff)."
+- q: "Was passiert mit einer Kunststoffpalette am Ende ihrer Lebensdauer?"
+  a: "Kunststoffpaletten sind vollständig recycelbar. Wir nehmen sie zurück: Paletten in gutem Zustand bekommen als Gebrauchtpaletten ein zweites Leben, beschädigte Paletten mahlen wir zu Rohstoff für neue Paletten."
+published: '2024-01-31'
+updated: '2026-11-02'
 ---
-In einer Welt, die zunehmend umweltbewusst wird, steht Q-Pall als Leuchtturm der Innovation und Nachhaltigkeit im Industriesektor. Bekannt für seinen bahnbrechenden Ansatz in der Produktion von [Kunststoffpaletten](@pallets), hat Q-Pall sich bemerkenswert dazu verpflichtet, recycelte Materialien zu verwenden. Dieses Engagement geht über die bloße Produktion hinaus; es ist ein ganzheitlicher Ansatz, der die lokale Beschaffung von Materialien und die Herstellung in sechs verschiedenen europäischen Ländern umfasst. Diese Strategie unterstreicht nicht nur Q-Palls Hingabe zur Reduzierung seines Kohlenstoff-Fußabdrucks, sondern zeigt auch ein nachhaltiges Geschäftsmodell, das sowohl wirtschaftlich lebensfähig als auch umweltverantwortlich ist. Wenn wir tiefer in die Ethik und Praktiken von Q-Pall eintauchen, wird klar, dass es hier nicht nur um die Produktion von Paletten geht; es geht darum, einen neuen Standard in nachhaltigen Industriepraktiken zu setzen.
+> **Kurz gesagt**
+>
+> * In der Palettenkette ist der Transport die größte Quelle von CO₂-Emissionen. Deshalb produzieren wir nah am Kunden.
+> * Wir fertigen unsere Paletten in sechs europäischen Werken. Fast jeder Kunde ist weniger als 600 Kilometer von einem Werk entfernt.
+> * Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff. 2025 haben wir 34.500 Tonnen Rezyklat verarbeitet.
+> * Das Rezyklat beziehen wir möglichst aus der Region. Das spart auch Rohstofftransporte.
+> * Am Ende ihrer Lebensdauer nehmen wir Paletten zur Wiederverwendung oder zum Recycling zurück.
 
-## Teil der Q-Pall-Vision
+## Transport: der größte CO₂-Posten in der Palettenkette
 
-Im Kern von Q-Palls Betrieb liegt eine Vision, die über die bloße Produktion von Kunststoffpaletten hinausgeht. Das Unternehmen wird von einem tiefen Engagement für Umweltverantwortung und Innovation angetrieben. Q-Palls Reise begann mit einer einfachen, aber kraftvollen Idee: die Palettenindustrie zu revolutionieren, indem nachhaltige Praktiken eingeführt werden, die zu bedeutenden Umweltvorteilen führen könnten. Diese Vision ist in dem Glauben verwurzelt, dass Unternehmen eine entscheidende Rolle beim Schutz unseres Planeten spielen. Indem es recycelte Materialien verwendet und sich auf lokale Beschaffung und Produktion konzentriert, hält sich Q-Pall nicht nur an Umweltstandards, sondern setzt aktiv neue. Dieses Engagement zeigt sich in jedem Aspekt ihres Betriebs, von der Beschaffung der Rohstoffe bis zur endgültigen Lieferung ihrer Produkte, was ein tief verwurzeltes Engagement für Nachhaltigkeit und eine grünere Zukunft widerspiegelt.
+Eine Palette ist ein sperriges Produkt. Je weiter sie reisen muss, desto mehr Kraftstoff und Emissionen kostet sie, noch bevor etwas darauf steht. Der Transport ist deshalb die größte Quelle von CO₂-Emissionen in der Palettenkette.
 
-## Vorteile der lokalen Produktion und Beschaffung
+Wir haben uns darum für [lokale Produktion](@about-local) entschieden. Wir fertigen unsere Paletten in sechs Werken: in Balk (Niederlande), Ribe (Dänemark), Marktoberdorf (Deutschland), Nantes (Frankreich), Lleida (Spanien) und Chesterfield (Vereinigtes Königreich). Fast jeder Kunde ist weniger als 600 Kilometer von einem dieser Werke entfernt. Weniger Kilometer bedeuten niedrigere Transportkosten und weniger CO₂.
 
-## Reduzierte Transportkosten und CO2-Emissionen
+Das zählt auch in Ihrer eigenen Berichterstattung. Die Emissionen eingekaufter Paletten und ihres Transports fallen unter Scope 3. Paletten, die in der Nähe gefertigt werden, senken diesen Teil Ihres Fußabdrucks.
 
-Einer der greifbarsten Vorteile von Q-Palls Ansatz zur lokalen Produktion und Beschaffung ist die signifikante Reduzierung der Transportkosten und CO2-Emissionen. Indem Kunststoffpaletten in sechs verschiedenen europäischen Ländern hergestellt werden, minimiert Q-Pall strategisch die Entfernung zwischen Produktionsstandorten und Endverbrauchern. Dies führt nicht nur zu niedrigeren Transportkosten, sondern reduziert auch erheblich den Kohlenstoff-Fußabdruck, der mit Langstreckentransport verbunden ist. In einer Ära, in der die Reduzierung von CO2-Emissionen eine globale Priorität ist, demonstriert Q-Palls Modell, wie Unternehmen zu diesem entscheidenden Umweltziel beitragen können und gleichzeitig wirtschaftliche Vorteile ernten.
+## Die Werkzeuge reisen, die Paletten nicht
 
-## Nachhaltige Beschaffung von Materialien
+Ein Werkzeug ist die Form, in der wir eine Palette spritzgießen. Statt Paletten quer durch Europa zu fahren, setzen wir das Werkzeug in dem Werk ein, das dem Kunden am nächsten liegt. Ein einziger Werkzeugtransport ersetzt so viele Fahrten mit Paletten. So funktioniert *act global, produce local*: ein europäisches Sortiment, lokal gefertigt.
 
-Im Zentrum der Nachhaltigkeitsethik von Q-Pall steht die lokale Beschaffung von recycelten Materialien. Diese Praxis stellt sicher, dass die in der Produktion verwendeten Rohstoffe nicht nur umweltfreundlich sind, sondern auch zur Kreislaufwirtschaft innerhalb lokaler Gemeinschaften beitragen. Durch die Beschaffung von Materialien in der Nähe der Produktionsstandorte unterstützt Q-Pall lokale Recyclingindustrien, reduziert Abfall und minimiert die Umweltauswirkungen, die mit dem Transport von Rohstoffen über weite Strecken verbunden sind. Dieses Engagement für lokale Beschaffung stärkt nicht nur regionale Volkswirtschaften, sondern ist auch ein Beispiel für einen verantwortungsbewussten Umgang mit Materialien in der industriellen Fertigung.
+Jedes Jahr verlassen Tausende volle Lkw mit Paletten unsere Werke. Würden wir alles an einem zentralen Standort fertigen, wäre fast jede dieser Fahrten deutlich länger.
 
-## Wirtschaftliche und soziale Vorteile
+## Recycelter Kunststoff aus der Region
 
-Q-Palls Modell der lokalen Produktion erstreckt seine Vorteile über Umweltüberlegungen hinaus und trägt erheblich zu lokalen Volkswirtschaften und Gemeinschaften bei. Durch die Einrichtung von Produktionsanlagen in verschiedenen europäischen Ländern schafft Q-Pall Arbeitsplätze und unterstützt lokale Industrien. Dies hilft nicht nur, eine widerstandsfähige lokale Wirtschaft aufzubauen, sondern fördert auch ein Gefühl der Gemeinschaftsbeteiligung und des Stolzes. Darüber hinaus kann Q-Pall durch die Verringerung der Betriebskosten durch gesenkte Transportausgaben wettbewerbsfähige Preise für seine Kunden anbieten, wodurch nachhaltige Optionen zugänglicher und attraktiver werden. Diese wirtschaftliche Strategie zeigt, dass Umweltverantwortung und wirtschaftliches Wachstum Hand in Hand gehen können, wodurch ein Win-Win-Szenario für sowohl das Unternehmen als auch die Gemeinschaft entsteht.
+Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff: einer Mischung aus HDPE (Code 2) und PP (Code 5). Beide sind Polyolefine, die sich im Recycling ähnlich verhalten. Was HDPE genau ist, lesen Sie in [Recyceltes PE-HD 2: Was ist das genau?](@news-hdpe)
 
-## Innovation in recycelten Materialien
+2025 haben wir 34.500 Tonnen Rezyklat verarbeitet, rund 1.475 volle Lkw-Ladungen. Das ist Kunststoff, der als Palette ein neues Leben bekommen hat. Wir beziehen ihn möglichst in der Nähe unserer Werke. Das hat zwei Vorteile:
 
-Auf dem Weg zu nachhaltiger Innovation hat Q-Pall bemerkenswerte Fortschritte bei der Verwendung von recycelten Kunststoffen gemacht. Allein im letzten Jahr verwendete das Unternehmen beeindruckende 30.000 Tonnen recycelter Kunststoffe in seinen Produktionsprozessen, was ungefähr 1.250 vollen LKW-Ladungen entspricht. Diese umfangreiche Verwendung von recyceltem Material unterstreicht nicht nur Q-Palls Engagement für Umweltnachhaltigkeit, sondern hebt auch seine Rolle bei der Förderung der Kreislaufwirtschaft hervor.
+* **Weniger Rohstofftransporte.** Auch die Anlieferung von Rezyklat kostet Kilometer. Je kürzer die Strecke, desto geringer die Emissionen.
+* **Stärkeres regionales Recycling.** Lokale Kunststoffabfälle bekommen einen festen Abnehmer. Das unterstützt die Recyclingbetriebe in der Region und verringert Abfall.
 
-Durch die Entscheidung für die lokale Fertigung hat Q-Pall seine Logistik erheblich optimiert. Das Unternehmen transportierte letztes Jahr etwa 4.000 volle LKW-Ladungen mit Paletten, eine Leistung, die erheblich mehr Transport erfordert hätte, wenn die Produktion an einem einzigen Standort zentralisiert worden wäre. Diese strategische Entscheidung für die lokale Produktion hat zu einer beträchtlichen Reduzierung der CO2-Emissionen geführt und verstärkt Q-Palls Engagement, seine Umweltauswirkungen zu minimieren.
+## Lange im Einsatz, danach wieder Rohstoff
 
-Dieser Ansatz geht nicht nur um das Recycling; es geht darum, wie industrielle Produktion sowohl effizient als auch umweltfreundlich sein kann. Q-Palls Einsatz von recycelten Kunststoffen ist ein hervorragendes Beispiel dafür, wie innovative Praktiken zu bedeutenden Umweltvorteilen führen können und neue Maßstäbe in der Industrie für Nachhaltigkeit und Verantwortung setzen.
+Eine Kunststoffpalette hält viele Jahre. Das ist der erste Umweltgewinn: Je öfter eine Palette im Umlauf ist, desto weniger neue Paletten werden gebraucht.
 
-## Zukunftsausblick und Engagement
+Am Ende ihrer Lebensdauer ist eine Palette vollständig recycelbar. Wir nehmen gebrauchte Paletten zurück. Paletten in gutem Zustand bekommen über [Q-Used](@used) ein zweites Leben. Beschädigte Paletten mahlen wir zu Rohstoff für neue Paletten. So bleibt das Material im selben regionalen Kreislauf.
 
-Während Q-Pall in die Zukunft blickt, bleibt sein Engagement für Nachhaltigkeit und Innovation unerschütterlich. Der zukunftsorientierte Ansatz des Unternehmens besteht nicht nur darin, aktuelle Praktiken beizubehalten, sondern kontinuierlich nach Wegen zu suchen, um seinen positiven Umwelteinfluss zu verbessern und auszubauen. Dies umfasst die Erforschung neuer Technologien und Prozesse im Umgang mit recycelten Materialien, die Steigerung der Effizienz in der lokalen Produktion und die Vertiefung des Engagements in lokalen Gemeinschaften und Volkswirtschaften.
+## Gut für die Umwelt und für die Region
 
-Q-Palls Hingabe an eine grünere Zukunft ist eine Reise, kein Ziel. Das Unternehmen ist entschlossen, an der Spitze nachhaltiger Praktiken in der Palettenindustrie zu bleiben, indem es kontinuierlich evaluiert und sich anpasst, um sicherzustellen, dass seine Operationen nicht nur Umweltstandards erfüllen, sondern diese übertreffen. Dieses kontinuierliche Engagement spiegelt Q-Palls Verständnis wider, dass wahre Nachhaltigkeit eine dynamische und sich entwickelnde Herausforderung ist, die ständige Innovation und Hingabe erfordert.
+Lokale Produktion schafft auch Arbeitsplätze in den Regionen, in denen unsere Werke stehen. Und weil die Transportkosten niedriger sind, bleiben nachhaltige Paletten bezahlbar.
 
-Da Q-Pall seine Operationen ehrgeizig erweitert, suchen wir aktiv nach Möglichkeiten, weitere lokale Produktionsstätten zu etablieren. Unser Ziel ist es, unsere Kunden effizienter zu bedienen, Kosten zu senken und vor allem unsere Umweltauswirkungen weiter zu minimieren. Wir laden Unternehmen und Partner ein, die unsere Vision einer nachhaltigen Zukunft teilen, sich uns in diesem Bestreben anzuschließen. Gemeinsam können wir eine umweltfreundlichere Industrielandschaft schaffen. Kontaktieren Sie uns, um mehr darüber zu erfahren, wie Sie Teil dieser revolutionären Reise mit Q-Pall sein können.
+Unsere Nachhaltigkeitsleistung wird von EcoVadis unabhängig bewertet. Im Oktober 2026 haben wir erneut die Bronzemedaille erhalten. Damit gehören wir zu den besten 35 % der bewerteten Unternehmen. Mehr über unseren Ansatz lesen Sie auf der Seite [Nachhaltigkeit](@about-sustainability). Wie lokale Produktion Ihre Lieferkette außerdem flexibler macht, lesen Sie in [lokale Produktion als Säule resilienter Lieferketten](@news-local).
+
+Möchten Sie wissen, aus welchem Werk Ihre Paletten kämen und wie viel Transport das spart? [Fordern Sie ein Angebot an](@quote). Einen Preis nach Maß erhalten Sie meist innerhalb eines Werktags.

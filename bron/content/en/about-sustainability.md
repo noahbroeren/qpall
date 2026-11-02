@@ -27,7 +27,7 @@ A plastic pallet lasts for many years, much longer than an average wooden pallet
 
 ## EcoVadis Bronze
 
-Our sustainability performance is independently assessed by EcoVadis. In October 2026, we again achieved the EcoVadis Bronze medal, placing us in the top 35% of assessed companies.
+Our sustainability performance is independently assessed by EcoVadis. We received the silver medal in April 2023 and the bronze medal in 2025. In October 2026, we again achieved the EcoVadis Bronze medal, placing us in the top 35% of assessed companies.
 
 ## Pallets with a purpose
 

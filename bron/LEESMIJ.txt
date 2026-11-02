@@ -760,3 +760,35 @@ UPDATE 27 (2 november 2026, contactpagina en internationale dealers)
   content/<taal>/dealers.md. Extra vlaggen (BE, AT, CH, FI, NO, SE, SI, PT, US): templates/_flags_more.html.
   De foto met de handdruk (photo-handshake) is van de site gehaald; de deelafbeeldingen (og) van dealers en de
   bedankpagina's gebruiken nu stacks, office-open en hq-corner.
+
+UPDATE 28 (2 november 2026, feitelijke fouten, nieuws herschreven, productoverzicht, laadcalculator)
+  Nieuws: alle 51 berichten herschreven in de aanpak van de nieuwe site (kader 'In het kort', tussenkoppen, interne
+  links, afsluiter naar offerte of contact, FAQ bij uitlegartikelen, 'u' als aanspreekvorm). Het HDPE 2-artikel is
+  bewust niet aangeraakt (meeste Google-verkeer). Feiten volgens de huidige site: mix HDPE/PP, Q-Used tot 40% zonder
+  webshop, PPWR klasse C, zes fabrieken, geen EPD's of marktleiderclaims. 'published' komt van de oude qpall.com
+  (Last-Modified van de oude afbeeldingen; berichten van 8 dec 2021 t/m 29 jan 2022 dragen de datum van de
+  CMS-overstap). Zonder bron en dus zonder datum: local-resilience, sitl-2025, choosing-pallet, heavy-family.
+  Het nieuwsoverzicht sorteert nu op datum (een bericht zonder datum houdt zijn plek). Omslagfoto's van horeca
+  (beverage), logistics-update (stacks) en local-resilience (mould) vervangen: de oude toonden een waterflessenrek
+  dat niet bestaat en een kaart zonder Chesterfield. De zeeschildpad blijft. Deelafbeeldingen (og) opnieuw gemaakt.
+  Feiten: hygiënische, H1- en cleanroompallets zijn van virgin kunststof (build.py, _HYG_MATERIAL past de gedeelde
+  productzin aan voor is_hyg-modellen), 'zo'n 130 modellen' op /kunststof-pallets/, EcoVadis-historie (zilver 2023,
+  brons 2025, opnieuw brons oktober 2026), altijd per volle stapel, 'tot 7.500 kg' bij heavy, nestbare en
+  exportpallets met 'tot', Goplasticpallets niet exclusief, geen 'bacteriën krijgen geen kans', Auchan in de
+  verleden tijd, 'Dealers in 15 landen'. Taal: driekwart, kwartpallets, CP-pallets, belastingwaarden, ISPM 15
+  (geen NIMP/NIMF), Spaans 'palet' (geen 'palé'), Frans 7.500 met punt, AVK Group, Q-PALL BV, freezer spacer en
+  klikbare onderlat als vaste termen, DC uitgelegd als distributiecentrum, FR/ES home-titels met 'palettes
+  plastique' en 'palets de plástico'.
+  Productnamen: _fix_names() in build.py maakt elke naam (en dus elke H1) uniek met kleur, fabriek of
+  artikelnummer, en zet maten in de volgorde van de categorie (760 x 1140, Displaypallet 600 x 800).
+  Productoverzichten: 'Aanbevolen' (rec_sort_key) toont eerst één kaart per pallet: europallets 1200 x 800 light,
+  medium, heavy, dan 1200 x 1000, dan de speciale uitvoeringen, dan de overige maten; de andere fabrieken volgen
+  daarna. Compactere kop, de chiprijen staan nu onder de producten: op een laptop staat de eerste rij producten in
+  beeld. Klassekaarten tonen 'Europallet vanaf' (was de goedkoopste pallet van de klasse, een displaypallet).
+  Laadcalculator: 'Offerte aanvragen' geeft de berekende lading mee (?items=SKU:aantal,...&note=...); het
+  offerteformulier vult de regels (afgerond op volle stapels) en zet de berekening in het berichtveld. Gesloten
+  light pallets (-CD) krijgen in het vrachtwagenblok de aantallen van de open uitvoering.
+  Gerelateerd nieuws: RELATED_NEWS in build.py koppelt gidsen, sectoren, categorieën en over-pagina's aan drie
+  berichten; productpagina's krijgen ze via type en klasse; nieuwsberichten via hetzelfde label. Links naar de
+  productcatalogus in /kunststof-pallets/ en de keuzegids. Zijbalk nieuws: 'Alle nieuwsberichten' met de pijl
+  op dezelfde regel.

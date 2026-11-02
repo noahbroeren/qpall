@@ -1,27 +1,61 @@
 ---
 id: news-durability
 title: "So sichern wir die Nachhaltigkeit unserer Paletten – Q-Pall"
-description: "People, Planet, Profit: So überwacht Q-Pall die Nachhaltigkeit seiner Kunststoffpaletten, von geringeren CO₂-Emissionen bis zum eingesetzten Material."
+description: "People, Planet, Profit: So sichert Q-Pall die Nachhaltigkeit seiner Kunststoffpaletten, mit lokaler Produktion, recyceltem Kunststoff und weniger Abfall."
 eyebrow: "Aktuelles"
 tag: "Nachhaltigkeit"
-crumb: "So sichern wir die Nachhaltigkeit"
+crumb: "Nachhaltigkeit unserer Paletten"
 h1: "So sichern wir **die Nachhaltigkeit unserer Kunststoffpaletten**"
-lead: "People, Planet, Profit: So überwacht Q-Pall die Nachhaltigkeit seiner Kunststoffpaletten, von geringeren CO₂-Emissionen bis zum eingesetzten Material."
-img_alt: "So sichern wir die Nachhaltigkeit unserer Kunststoffpaletten"
+lead: "Nachhaltiges Wirtschaften dreht sich um People, Planet und Profit. So sichern wir die Nachhaltigkeit unserer Kunststoffpaletten: von Rohstoff und Produktion bis zu Transport und unabhängiger Bewertung."
+img_alt: "Luftaufnahme eines Polders mit Windkraftanlagen am Wasser"
 reading: 3
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-Nachhaltigkeit ist ein Konzept, das in der Unternehmenswelt eine immer wichtigere Rolle spielt. Es geht nicht mehr nur darum, Gewinne zu erzielen. Natürlich ist dies immer noch ein wichtiger Teil des Unternehmertums, aber nicht um jeden Preis. Bei nachhaltigem Unternehmertum oder gesellschaftlich verantwortungsvollem Unternehmertum werden menschliche, natürliche und wirtschaftliche Aspekte berücksichtigt. Dies wird auch als People, Planet und Profit bezeichnet. Unsere Produktionsprozesse und das Material, das wir verwenden, passen in das Konzept des nachhaltigen Unternehmertums. Wie überwachen wir die Nachhaltigkeit unserer [Kunststoffpaletten](@pallets)?
+> **Kurz gesagt**
+>
+> * Nachhaltiges Wirtschaften berücksichtigt Mensch, Umwelt und Wirtschaft: People, Planet und Profit.
+> * Wir produzieren lokal in sechs europäischen Werken. Das Werkzeug reist, die Paletten nicht.
+> * Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff: 34.500 Tonnen im Jahr 2025.
+> * In der Produktion achten wir auf leichtes Design, weniger Materialverlust und die Wiederverwendung von Produktionsabfällen.
+> * EcoVadis bewertet unsere Nachhaltigkeitsleistung unabhängig. Im Oktober 2026 haben wir erneut Bronze erhalten.
 
-## Reduzierung der CO2-Emissionen
+## Was ist nachhaltiges Wirtschaften?
 
-Bei der Produktion und Verteilung unserer Kunststoffpaletten verwenden wir Energie. Und bei der Energieverwendung entstehen Abgase. Dies geschieht hauptsächlich durch die Verbrennung fossiler Brennstoffe wie Kohle, Öl und Gas. Eines dieser Gase ist CO2-Gas, auch als Treibhausgas bekannt. Die Emission dieses Treibhausgases führt zu Klimaveränderungen, was zu einer Erwärmung der Erde führt. Diese Erwärmung verursacht unter anderem das Schmelzen von Polareis und damit den Anstieg des Meeresspiegels. Um dies zu stoppen, möchte Q-PALL insbesondere eine Reduzierung der CO2-Emissionen während des Transports erreichen. Der Transport der Kunststoffpaletten macht nämlich 80% der CO2-Emissionen dieser Branche aus. Deshalb werden die Paletten an dem Ort produziert, wo sie benötigt werden, indem die Form der benötigten Palette zur nächstgelegenen europäischen Produktionsstätte verlagert wird. Diese Produktionsmethode spart viele Kilometer und somit CO2-Emissionen. Ein zusätzlicher Vorteil ist, dass die Transportkosten auf ein Minimum reduziert werden.
+Nachhaltigkeit spielt in der Wirtschaft eine immer größere Rolle. Gewinn bleibt wichtig, aber nicht um jeden Preis. Beim nachhaltigen oder gesellschaftlich verantwortlichen Wirtschaften berücksichtigt ein Unternehmen menschliche, ökologische und wirtschaftliche Aspekte: People, Planet und Profit.
 
-## Kunststoffpaletten aus recyceltem Material
+Unsere Produktionsprozesse und das Material, das wir verwenden, passen zu dieser Art des Wirtschaftens. Im Folgenden lesen Sie, wie wir die Nachhaltigkeit unserer Kunststoffpaletten sichern.
 
-Ein weiterer Punkt, der beim nachhaltigen Unternehmertum eine Rolle spielt, ist die Reduzierung von Plastikmüll. Viel in den Nachrichten ist die „Plastiksuppe“, eine riesige Menge an Plastikmüll, die in den Ozeanen treibt. Dies bedroht die Tiere, die in den Ozeanen leben, aber auch Pflanzen und Korallen leiden stark darunter. Diese Erkenntnis ist mittlerweile mehr als vorhanden und nichts zu tun ist keine Option mehr! Nun ist eine Kunststoffpalette in mehrfacher Hinsicht nachhaltig, unter anderem weil das Recycling von Kunststoff gut möglich ist. Deshalb spielt bei der Betriebsführung von Q-PALL das Recycling von Materialien eine große Rolle. Und es funktioniert. Bei der Gründung war das Ziel, 90% des Kunststoffs wiederzuverwenden. Dieses Ziel wurde weit übertroffen, derzeit werden 98% der Paletten aus recyceltem Material hergestellt. Außerdem unterstützen wir Projekte, die das Bewusstsein für das Problem des Plastikmülls schaffen.
+## Weniger CO₂ durch lokale Produktion
 
-## Reduzierung im Mittelpunkt
+Für die Herstellung und den Transport von Paletten brauchen wir Energie. Bei der Verbrennung fossiler Brennstoffe wie Kohle, Öl und Gas wird CO₂ freigesetzt. Dieses Treibhausgas trägt zur Erderwärmung bei.
 
-Bei der Reduzierung innerhalb der verschiedenen Prozesse in der Produktion liegt der Fokus auf dem ökologischen Fußabdruck von Q-PALL. Gerade weil der Rohstoff des Produkts, Kunststoff, einen negativen Beitrag dazu leisten kann. Die Erforschung und das Verständnis unseres ökologischen Fußabdrucks liefern Informationen, die helfen, die Umweltfreundlichkeit der Produkte, der Paletten, weiter zu verbessern. Wir suchen weiterhin nach Möglichkeiten, die Emission von Treibhausgasen zu minimieren. Das tun wir, indem wir mit strengen Designzielen die Latte hochlegen in Bezug auf Energie- und Materialeffizienz. Bei der Erweiterung des Sortiments an Kunststoffpaletten achten wir vor allem auf leichtes Design, weniger Ausschuss und die (Wieder)verwendung von Teilen und Produktionsabfall. Dies führt zu einer Reduzierung des Wasserverbrauchs, des Energieverbrauchs, der Materialien, der CO2-Emissionen und des Abfalls.
+In der Palettenbranche entsteht der größte Teil der CO₂-Emissionen durch den Transport. Ein Lkw voller Paletten transportiert vor allem Luft. Deshalb setzen wir das Werkzeug einer Palette in dem Werk ein, das dem Kunden am nächsten liegt. So müssen die Paletten selbst keine langen Strecken zurücklegen.
 
-Diese drei Aspekte sorgen dafür, dass Q-PALL nachhaltig produziert und nachhaltige Paletten liefert. Möchten Sie mehr darüber wissen? Oder haben Sie andere Fragen zu unserem Sortiment? Dann nehmen Sie bitte Kontakt mit uns auf. Wir helfen Ihnen gerne weiter
+Wir produzieren in sechs Werken: in Balk, Ribe, Marktoberdorf, Nantes, Lleida und Chesterfield. Fast jeder Kunde befindet sich im Umkreis von 600 Kilometern um ein Q-Pall-Werk. Das spart viele Kilometer, CO₂-Emissionen und Transportkosten. Mehr dazu unter [lokale Produktion](@about-local).
+
+## Paletten aus recyceltem Kunststoff
+
+Ein weiterer wichtiger Punkt ist die Verringerung von Kunststoffabfall. Der Plastikmüll in den Ozeanen bedroht Tiere, Pflanzen und Korallen. Kunststoffpaletten sind in mehrfacher Hinsicht nachhaltig, nicht zuletzt, weil sich der Kunststoff gut wiederverwenden lässt.
+
+Deshalb spielt Recycling bei Q-Pall eine große Rolle. Bei der Gründung im Jahr 2005 war das Ziel, 90 % des Kunststoffs wiederzuverwenden. Dieses Ziel ist deutlich übertroffen: Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE und PP.
+
+2025 haben wir 34.500 Tonnen recycelten Kunststoff verarbeitet, rund 1.475 volle Lkw-Ladungen. Am Ende ihrer Lebensdauer sind unsere Paletten vollständig recycelbar. Außerdem unterstützen wir Projekte, die auf das Problem des Kunststoffabfalls aufmerksam machen.
+
+## Weniger Verbrauch in der Produktion
+
+Auch in der Produktion achten wir auf unseren ökologischen Fußabdruck. Der Einblick in diesen Fußabdruck hilft uns, die Umweltleistung unserer Paletten weiter zu verbessern. Wir legen die Messlatte hoch, mit strengen Designzielen für Energie- und Materialeffizienz.
+
+Bei neuen Paletten achten wir vor allem auf:
+
+* **Leichtes Design.** Pro Palette wird weniger Material benötigt.
+* **Weniger Materialverlust.** Wir begrenzen Ausschuss und Verluste in der Produktion.
+* **Wiederverwendung von Bauteilen und Produktionsabfällen.** Restmaterial geht zurück in den Prozess.
+
+So senken wir den Wasser- und Energieverbrauch, den Materialeinsatz, die CO₂-Emissionen und den Abfall. Auch unser [Gebäude in Veghel](@news-hq) mit Hauptsitz, europäischem Betriebszentrum und Lager verfügt unter anderem über eine Wärmepumpe und Solarmodule.
+
+## Unabhängig bewertet
+
+Unsere Nachhaltigkeitsleistung lassen wir unabhängig von EcoVadis bewerten. Im April 2023 erhielten wir die [Silbermedaille](@news-ecovadis-silver). 2025 folgte die Bronzemedaille, und im Oktober 2026 haben wir sie erneut erhalten. Damit gehören wir zu den besten 35 % der bewerteten Unternehmen. Mehr dazu auf unserer Seite [Nachhaltigkeit](@about-sustainability).
+
+So stellen wir sicher, dass wir nachhaltig produzieren und nachhaltige Paletten liefern. Sie möchten wissen, was das für Ihre Lieferkette oder Ihren Nachhaltigkeitsbericht bedeutet? [Sprechen Sie uns an](@contact).

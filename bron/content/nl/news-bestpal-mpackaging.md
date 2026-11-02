@@ -1,49 +1,63 @@
 ---
 id: news-bestpal-mpackaging
 title: "#YourBestPal in the spotlight: M-Packaging België – Q-Pall"
-description: "In de reeks #YourBestPal vertelt M-Packaging uit België over de verkoop van kunststof pallets en de klantbehoeften in pharma, voeding, logistiek en chemie."
+description: "In de reeks #YourBestPal vertelde M-Packaging uit België over de verkoop van kunststof pallets aan klanten in pharma, voeding, logistiek en chemie."
 eyebrow: "Nieuws"
 tag: "Klantcase"
-crumb: "#YourBestPal in the spotlight"
+crumb: "#YourBestPal: M-Packaging"
 h1: "#YourBestPal in the spotlight: **M-Packaging België**"
-lead: "In de reeks #YourBestPal vertelt M-Packaging uit België over de verkoop van kunststof pallets en de klantbehoeften in pharma, voeding, logistiek en chemie."
-img_alt: "#YourBestPal in the spotlight: M-Packaging België"
+lead: "In juli 2025 stond M-Packaging centraal in onze reeks #YourBestPal. De Belgische dealer vertelde over zijn klanten, de pallets die zij kiezen en de samenwerking met Q-Pall."
+img_alt: "Man tussen een houten bak vol kunststof afval en een stapel zwarte kunststof pallets met oranje strepen"
 reading: 3
+published: '2025-07-24'
+updated: '2026-11-02'
 ---
-## Stel jezelf en M-Packaging kort voor
+> **In het kort**
+>
+> * M-Packaging werd opgericht in 2020 en verkoopt vooral kunststof pallets. Het is dealer van Q-Pall in België.
+> * Met zusterbedrijf Muller Pallets levert het ook nieuwe en gebruikte houten pallets.
+> * De klanten zitten vooral in pharma, voeding, logistiek en chemie.
+> * Het meest gevraagd: 1200 x 800 en 1200 x 1000 mm, in light, medium en heavy.
+> * M-Packaging waardeerde vooral de stabiele kwaliteit, de voorraad, de snelle communicatie en de flexibele planning.
 
-M-Packaging is opgericht in 2020 en we houden ons voornamelijk bezig met de verkoop van kunststof paletten. Samen met ons zusterbedrijf Muller Pallets, een bedrijf actief in de verkoop van nieuwe en gebruikte houten pallets, kunnen we hiermee onze klanten het volledige gamma van zowel houten- als kunststof paletten aanbieden. Onze jarenlange ervaring in de houten paletten heeft ons geleerd dat houten en kunststof paletten een” Match made in heaven” zijn.
+## Hout en kunststof onder één dak
 
-## Wat zijn de belangrijkste behoeften van jullie klanten en welke markten zijn jullie actief?
+M-Packaging werd opgericht in 2020 en houdt zich vooral bezig met de verkoop van kunststof pallets. Zusterbedrijf Muller Pallets verkoopt nieuwe en gebruikte houten pallets. Samen bieden ze klanten zowel houten als kunststof pallets aan. M-Packaging is een van onze [dealers](@dealers) in België.
 
-Wij zijn vooral actief in de pharma, voeding, logistiek en chemie en dit zowel met onze houten en kunststof paletten. Het doel is om onze klanten de paletten te leveren die hun klanten willen ontvangen. We staan hierdoor ook vaak in direct contact met onze productie en onze afdeling productontwikkeling. Onze klanten willen vooral een [kunststof pallet](@pallets) die te allen tijde voldoet aan hun kwaliteitseisen en geen storingen veroorzaakt. Dat deze paletten ook nog uit 100% gerecycleerd materiaal geproduceerd zijn en op hun beurt ook zelf recyclebaar zijn sterkt ze alleen maar in hun overtuiging dat ze de juiste partner gevonden hebben.
+"Onze jarenlange ervaring met houten pallets heeft ons geleerd dat houten en kunststof pallets een 'match made in heaven' zijn", aldus M-Packaging.
 
-## Hoe ziet jullie samenwerking met Q-Pall eruit?
+## Klanten met hoge kwaliteitseisen
 
-Q-Pall wil altijd meedenken in nieuwe ontwikkelingen en bekijken of we kunnen voldoen aan de vragen van onze klanten. Door het directe contact spelen ze heel kort op de bal en dat is uiteraard ook onze klanten niet ontgaan.
+M-Packaging levert vooral aan bedrijven in de pharma, de voedingsmiddelenindustrie, de logistiek en de chemie. Het doel is klanten de pallets te leveren die hun eigen klanten willen ontvangen. Daarvoor staat M-Packaging vaak in direct contact met de productie en de productontwikkeling van Q-Pall.
 
-## In welke situaties is Q-Pall echt #yourbestpal gebleken?
+Die klanten willen vooral een kunststof pallet die altijd aan hun kwaliteitseisen voldoet en geen storingen veroorzaakt. Dat de pallets van bijna 100% gerecycled kunststof zijn gemaakt en aan het einde van hun leven zelf ook recyclebaar zijn, sterkt hen volgens M-Packaging in hun keuze. Meer daarover leest u op onze pagina over [duurzaamheid](@about-sustainability).
 
-Bij Q-Pall zijn ze altijd bereidt om de planning te herzien en waas mogelijk aan te passen om zo de klanten te helpen. Onlangs hadden ze een technisch probleem en hebben ze net zo lang meegezocht naar een oplossing tot onzee klant daar tevreden mee was en zodoende alsnog op tijd belevert kon worden. Matrijzen verhuizen van één productielocatie naar een andere om het probleem van de klant op te lossen is hen niet vreemd. Hierdoor proberen we ook onze CO2 uitstoot te beperken omdat we de paletten produceren waar ze het meeste gevraagd worden.
+## Meedenken en snel schakelen
 
-## Wat waarderen jullie het meest aan Q-Pall producten?
+Volgens M-Packaging dacht Q-Pall altijd mee over nieuwe ontwikkelingen en over vragen van klanten. Door het directe contact kon Q-Pall snel reageren, en dat merkten ook de klanten van M-Packaging.
 
-Stabiele kwaliteit, geproduceerd uit 100% gerecycleerd materiaal (en zelf ook recycleerbaar), grote voorraad, snelle reactietijd, goede communicatie, zijn altijd bereid om mee te denken. What’s not to like
+"Bij Q-Pall zijn ze altijd bereid om de planning te herzien en waar mogelijk aan te passen om klanten te helpen." Toen Q-Pall een keer een technisch probleem had, zocht het bedrijf net zo lang mee naar een oplossing tot de klant tevreden was. Zo kon die klant alsnog op tijd worden beleverd.
 
-## Welke Q-Pall pallet gebruiken jullie het vaakst – en waarom?
+Zo nodig verhuist Q-Pall daarvoor een matrijs naar een andere productielocatie. Dat beperkt ook de CO₂-uitstoot, omdat de pallets worden gemaakt waar ze het meest gevraagd worden. Lees meer over [lokaal produceren](@about-local).
 
-De meeste gebruikte palletmaten zijn wel de 800x1200mm en 1000x1200mm. Zowel in de lichte, medium als heavy uitvoering maar weet dat we in totaal een 10-tal verschillende palletmaten kunnen aanbieden. Onze klanten dragen sustainability hoog in het vaandel en zijn daarom ook blij dat onze paletten op het einde van hun lifecycle perfect zelf te recycleren zijn…
+## De meest gebruikte pallets
 
-## Hoe helpt Q-Pall jullie om klanten te verrassen of verder te helpen?
+De meest gebruikte maten bij M-Packaging zijn [1200 x 800 mm](@size-1200x800) en [1200 x 1000 mm](@size-1200x1000), zowel in light als in medium en heavy. Daarnaast levert M-Packaging ook andere palletmaten.
 
-Goede en stabiele kwaliteit is zeer belangrijk. Daarenboven staan de meeste artikelen ook steeds op voorraad en verder is een wissel in productieplanning steeds bespreekbaar. Dit verbetert onze flexibiliteit naar onze klanten toe.
+Duurzaamheid vinden de klanten van M-Packaging belangrijk. Ze waren daarom blij dat de pallets aan het einde van hun levensduur volledig te recyclen zijn.
 
-## Wat verwachten jullie van de markt in de komende jaren?
+## Wat M-Packaging het meest waardeert
 
-Omdat we zowel houten als kunststof paletten aanbieden hebben we verschillende alternatieven voor onze klanten. Deze productmix gaat de komende jaren heel belangrijk worden. We zitten in een markt die heel volatiel is en spelen hier snel op in door de juiste partnerships aan te gaan.
+"Stabiele kwaliteit, geproduceerd uit bijna 100% gerecycled materiaal en zelf ook recyclebaar, een grote voorraad, een snelle reactietijd, goede communicatie en altijd bereid om mee te denken. What's not to like?"
 
-## Wat is voor jullie de betekenis van #YourBestPal?
+Ook noemde M-Packaging dat de meeste artikelen op voorraad waren en dat een wijziging in de productieplanning altijd bespreekbaar was. Dat maakte het bedrijf flexibeler richting de eigen klanten.
 
-Een leverancier die meedenkt, flexibel is, goed en snel communiceert en dat zijn allemaal zaken die we met onze klanten dagelijks merken.
+## Blik op de markt
 
-Tot slot: wat zouden jullie andere bedrijven aanraden die op zoek zijn naar de juiste palletpartner? Als je op zoek bent naar een kwaliteitsvolle, sustainable, inventieve en betrouwbare palletleverancier die snel en duidelijk communiceert ben je aan het juiste adres.
+Omdat M-Packaging zowel houten als kunststof pallets aanbiedt, heeft het voor klanten verschillende alternatieven. In 2025 verwachtte het bedrijf dat die productmix de jaren daarna steeds belangrijker zou worden. De markt is volatiel, en M-Packaging speelt daarop in met de juiste partnerships.
+
+## Wat #YourBestPal betekent
+
+Voor M-Packaging betekent #YourBestPal een leverancier die meedenkt, flexibel is en goed en snel communiceert. Het advies aan bedrijven die een palletpartner zoeken: "Zoekt u een kwaliteitsvolle, duurzame, inventieve en betrouwbare palletleverancier die snel en duidelijk communiceert? Dan bent u aan het juiste adres."
+
+Wilt u weten welke kunststof pallet bij uw toepassing past? [Vraag een offerte aan](@quote), dan ontvangt u meestal binnen één werkdag een prijs op maat.

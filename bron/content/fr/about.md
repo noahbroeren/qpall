@@ -31,7 +31,7 @@ Le transport est de loin la principale source d’émissions de CO2 dans la cha�
 
 Q-Pall assure la conception, la production, la distribution et la vente de palettes plastique. Cela nous permet de réagir rapidement, par exemple avec du [sur-mesure à partir de modèles existants](@about-custom), et de garder la maîtrise de la qualité. Nos ingénieurs travaillent en étroite collaboration avec des clients des secteurs de la chimie, de l’agroalimentaire, de la pharmacie, des boissons, de la grande distribution et de la logistique.
 
-Depuis 2020, Q-Pall fait partie du [groupe AVK](https://www.avkvalves.com/), un groupe industriel international dont le siège est au Danemark.
+Depuis 2020, Q-Pall fait partie d’[AVK Group](https://www.avkvalves.com/), un groupe industriel international dont le siège est au Danemark.
 
 ## #yourbestpal
 

@@ -1,25 +1,67 @@
 ---
 id: news-environment
 title: "Palets de plástico y medio ambiente: lo que debe saber"
-description: "¿Cómo encajan los palets de plástico en una gestión con conciencia medioambiental? Lea qué papel tienen la huella de carbono y la responsabilidad social."
+description: "¿Cómo encajan los palets de plástico en una gestión sostenible? Huella de carbono, plástico reciclado, reutilización, reciclaje y PPWR: lo que debe saber."
 eyebrow: "Noticias"
 tag: "Sostenibilidad"
 crumb: "Palets de plástico y medio ambiente"
 h1: "Palets de plástico y medio ambiente: **lo que debe saber**"
-lead: "¿Cómo encajan los palets de plástico en una gestión con conciencia medioambiental? Lea qué papel tienen la huella de carbono y la responsabilidad social."
-img_alt: "Palets de plástico y medio ambiente: lo que debe saber"
+lead: "Cada vez más empresas tienen en cuenta el impacto ambiental al elegir sus palets. ¿De dónde viene la huella de carbono de un palet de plástico y cómo puede elegir con criterio?"
+img_alt: "Dos huellas de pies hechas de césped sobre fondo blanco"
 reading: 3
+faq:
+- q: "¿Qué es la huella de carbono?"
+  a: "La huella de carbono mide las emisiones de gases de efecto invernadero, expresadas en kilogramos de CO₂ equivalente. En un palet cuentan, entre otros, la materia prima, la producción y el transporte."
+- q: "¿Son sostenibles los palets de plástico?"
+  a: "Sí, si duran mucho y después se reciclan. Nuestros palets son de plástico reciclado casi al 100%, duran muchos años y al final de su vida útil son totalmente reciclables. Además, producimos localmente, por lo que se necesita menos transporte."
+- q: "¿El PPWR se aplica también a los palets?"
+  a: "Sí. Los palets son envases de transporte y entran en el reglamento europeo de envases, aplicable desde el 12 de agosto de 2026. Q-Pall ofrece para cada modelo una declaración PPWR descargable en la página del producto."
+published: '2022-01-09'
+updated: '2026-11-02'
 ---
-Cuando elija palets, considere primero para qué va a usarlos, qué función van a tener. Puede elegir entre un palet de madera o uno de material sintético. Esta elección se asocia cada vez más con el llevar su empresa con conciencia medioambiental. La responsabilidad social corporativa se está convirtiendo es un tema cada vez más importante para las empresas. ¿Cómo encaja ahí el uso de palets de plástico? Le contamos todo lo que desea saber sobre palets sintéticos y conciencia medioambiental.
+> **En resumen**
+>
+> * Al elegir un palet cuenta la función, pero cada vez más también el impacto ambiental.
+> * La huella de carbono de un palet se genera sobre todo en la materia prima, la producción y el transporte.
+> * Fabricamos nuestros palets estándar con plástico reciclado casi al 100%, en seis fábricas cerca de nuestros clientes.
+> * La reutilización y el reciclaje al final de la vida útil reducen aún más el impacto.
+> * Desde el 12 de agosto de 2026 se aplica el reglamento europeo de envases PPWR, también a los palets.
 
-## Huella de carbono
+## Elegir palets pensando en el medio ambiente
 
-El medio ambiente es un tema importante. Somos cada vez más conscientes de nuestro impacto medioambiental y del cambio climático que resulta de ello. Uno de los causantes importantes de esto es el carbono, las emisiones de dióxido de carbono. De todos los gases de efecto invernadero que emiten los seres humanos, el CO2 es el más importante. La huella de CO2 o la huella de carbono es una forma de **medir las emisiones de CO2 por el uso de combustibles fósiles en el tráfico**, la aviación, el transporte, la producción de electricidad, calefacción etc. Desde hace ya mucho tiempo, el tema de los gases de efecto invernadero se tiene muy en cuenta en muchas compañías. Las emisiones de gases de efecto invernadero afectan el clima del planeta, tanto en tierra, como en el mar, como en el aire. **Para obtener una idea veraz del impacto medioambiental de los palets de plástico, se decidió calcular la huella de carbono de estos productos.** Para determinar la huella de carbono, se calculan los equivalentes de dióxido de carbono necesarios para la producción de un palet, expresados en kilogramos (kg CO2 eq.). La mayoría de las emisiones de CO2 surgen de la extracción de materias primas, del transporte y de la fabricación de productos finales.
+Al elegir palets, primero se fija en para qué se necesitan y qué función deben cumplir. Después elige entre madera y plástico. Esa elección está cada vez más ligada a la responsabilidad social corporativa (RSC).
 
-## Huella de carbono y Q-Pall
+Para muchas empresas, el impacto ambiental de los productos es ya un criterio de decisión fijo, junto al precio y la calidad. Esto también vale para unidades de carga como los palets. A continuación verá de dónde viene ese impacto y cómo limitarlo.
 
-Q-Pall es consciente de su impacto en el medio ambiente. Esto es importante porque el futuro del medio ambiente determina el futuro de la tierra y, por lo tanto, de las personas. Además, junto a criterios como el precio y la calidad, la huella de carbono es cada vez más un parámetro obligatorio en la toma de decisiones para las compañías que desean comparar sus productos. Por supuesto, esto también se aplica a los palets de plástico. Q-Pall utiliza los resultados del análisis de la huella de carbono para palets de plástico como medición cero y punto de partida para mejorar el rendimiento medioambiental de sus productos. La innovación es importante, también cuando se desarrollan nuevos tipos de palets. Sin duda, la sostenibilidad juega un papel importante. Los rigurosos objetivos de diseño para la eficiencia energética y de materiales permitirán a Q-Pall minimizar las emisiones de gases de efecto invernadero. Hay documentos del sistema internacional Environmental Product Declaration (EPD) disponibles, relativos a todos los tipos de palets de plástico.
+## ¿Qué es la huella de carbono?
 
-## La reutilización aporta sostenibilidad
+La huella de carbono, o *carbon footprint*, mide las emisiones de gases de efecto invernadero, de los que el CO₂ es el más importante. El CO₂ se emite sobre todo al usar combustibles fósiles, por ejemplo para el transporte, la electricidad y la calefacción.
 
-Si la responsabilidad social corporativa es un aspecto importante de su negocio, puede elegir palets de plástico usados. Al reutilizar palets, se desperdicia la mínima cantidad de materias primas, lo cual es una consideración importante para que un negocio sea sostenible. En este caso, la elección del palet de plástico usado es una opción lógica. Cuando reutiliza palets de plástico, se daña menos el medioambiente. Esto es algo a tener en cuenta a la hora de elegir [palets usados](@used). Los palets usados están disponibles en diferentes modelos y variantes. ¿Desea saber más acerca de los palets de plástico en relación con la conciencia medioambiental? ¿O tiene alguna otras preguntas sobre nuestro surtido y posibilidades? No dude en [contactar nos](@contact) para más información. ¡Estamos encantados de asesorarle personalmente!
+En un producto como un palet, todos los gases de efecto invernadero necesarios para fabricarlo se convierten en kilogramos de CO₂ equivalente (kg CO₂e). La mayor parte de las emisiones se produce en la extracción de materias primas, en el transporte y en la producción.
+
+## ¿Dónde se generan las emisiones de un palet?
+
+* **Materia prima.** Extraer y producir materias primas nuevas consume mucha energía. Fabricamos nuestros palets estándar con plástico reciclado casi al 100%, una mezcla de HDPE y PP. Así sustituimos materia prima nueva por plástico que ya existe.
+* **Producción.** En el desarrollo de nuevos palets aplicamos objetivos de diseño estrictos en eficiencia energética y de materiales.
+* **Transporte.** En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Por eso producimos [localmente](@about-local), en seis fábricas repartidas por Europa. Casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall.
+* **Fin de la vida útil.** Al final de su vida útil, nuestros palets son totalmente reciclables. El material se convierte en materia prima para nuevos palets.
+
+## Cómo utiliza Q-Pall la huella de carbono
+
+Q-Pall es consciente de su impacto en el medio ambiente. Hemos calculado la huella de carbono de los palets de plástico y usamos el resultado como punto de partida para mejorar el comportamiento ambiental de nuestros productos. Esto también tiene un gran peso en el desarrollo de nuevos palets.
+
+Además, EcoVadis evalúa de forma independiente nuestro desempeño en sostenibilidad. En octubre de 2026 volvimos a obtener la medalla de bronce, que nos sitúa entre el 35% de las empresas mejor valoradas. Más información en nuestra página de [sostenibilidad](@about-sustainability).
+
+## Reutilizar es sostenible
+
+¿La RSC es una parte importante de su empresa? Entonces considere también los palets de plástico usados. Al reutilizar palets se desperdicia la menor cantidad posible de materias primas.
+
+Con [Q-Used](@used) ofrecemos palets de plástico usados y revisados, en distintos modelos. Son hasta un 40% más baratos que los palets nuevos. La oferta varía, así que consúltenos el stock actual.
+
+## Qué supone el PPWR
+
+La legislación también exige más atención al medio ambiente. El reglamento europeo de envases PPWR entró en vigor en febrero de 2025 y se aplica desde el 12 de agosto de 2026. Los palets son envases de transporte, así que también están incluidos.
+
+A partir de 2030, los envases deberán ser reciclables en la clase A, B o C, donde la clase C significa al menos un 70%. Q-Pall ofrece para cada modelo una declaración PPWR descargable en la página del producto. Más información en nuestra guía [PPWR y palets de plástico](@guide-ppwr).
+
+¿Quiere saber qué palet se adapta a su aplicación y a sus objetivos de sostenibilidad? [Contacte con nosotros](@contact) y le asesoraremos con gusto.

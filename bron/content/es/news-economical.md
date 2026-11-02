@@ -1,37 +1,75 @@
 ---
 id: news-economical
-title: "Económico hoy, caro mañana: elija los palets adecuados"
-description: "No todos los palets de plástico son iguales. Descubra por qué los palets de plásticos con código RIC 7 pueden afectar a su sostenibilidad y a sus costes."
+title: "Código RIC 7: económico hoy, caro mañana – Q-Pall"
+description: "Los palets de plástico con código RIC 7 parecen baratos, pero ¿de qué están hechos y se reciclan? Por qué el tipo de plástico cuenta para costes y PPWR."
 eyebrow: "Noticias"
 tag: "Conocimiento"
 crumb: "Económico hoy, caro mañana"
 h1: "Económico hoy, caro mañana: **elija los palets adecuados**"
-lead: "No todos los palets de plástico son iguales. Descubra por qué los palets de plásticos con código RIC 7 pueden afectar a su sostenibilidad y a sus costes."
-img_alt: "Económico hoy, caro mañana: elija los palets adecuados"
-reading: 5
+lead: "Un palet de plástico con código RIC 7 parece económico en la compra, pero puede salirle caro más adelante. Por qué el tipo de plástico cuenta para el reciclaje, la normativa y sus costes."
+img_alt: "Palet de plástico negro con superficie abierta sobre tres patines"
+reading: 3
+faq:
+- q: "¿Qué significa el código RIC 7 en un producto de plástico?"
+  a: "El código 7 es la categoría general para «otros» plásticos: materiales que no entran en los códigos del 1 al 6, o combinaciones de plásticos. Por tanto, el código dice poco sobre la composición exacta."
+- q: "¿Son difíciles de reciclar los palets de plástico con código 7?"
+  a: "A menudo sí. Muchas empresas de reciclaje no están preparadas para estos «otros» plásticos. Por eso, pregunte siempre por la composición y por lo que ocurre con el palet al final de su vida útil."
+- q: "¿De qué están hechos los palets de Q-Pall?"
+  a: "Nuestros palets estándar son de plástico reciclado, una mezcla de HDPE (2) y PP (5). Solo nuestros palets higiénicos, palets H1 y palets para sala blanca son de plástico virgen. Al final de su vida útil, nuestros palets son totalmente reciclables."
+published: '2023-10-09'
+updated: '2026-11-02'
 ---
-En nuestra publicación anterior, explicamos más detalladamente los Códigos de Identificación de Resina (RIC) de los plásticos y su papel crucial en la creación de un futuro sostenible. En cuanto a logística, almacenamiento y envío, los pallets son una herramienta indispensable. Tradicionalmente hechos de madera, un número creciente de empresas están optando por pallets de plástico por su durabilidad, longevidad, limpieza y reciclabilidad. Sin embargo, no todos los pallets de plástico son iguales. Comprender el tipo de plástico utilizado en su construcción es esencial para garantizar su reciclabilidad.
+> **En resumen**
+>
+> * El código RIC del pequeño triángulo indica de qué plástico está hecho un producto. El código 7 corresponde a «otros» plásticos y combinaciones.
+> * Con el código 7 a menudo no sabe exactamente qué contiene, y el reciclaje es difícil.
+> * Eso puede costar dinero más adelante, por ejemplo en la eliminación. Además, con el PPWR los envases deberán ser reciclables a partir de 2030.
+> * Al comprar, pregunte por la composición y por lo que ocurre con el palet al final de su vida útil.
+> * Nuestros palets estándar son de HDPE (2) y PP (5) reciclados. Los recogemos para reciclarlos.
 
-Una categoría sobre la que quizás quieras pensar dos veces son los pallets hechos de plásticos que llevan el Código de Identificación de Resina (RIC) de 7, a menudo marcado con un "7" dentro de un símbolo triangular con flechas.
+## Un precio bajo no lo es todo
 
-## Estas son las razones
+En la logística, el almacenamiento y los envíos, los palets son imprescindibles. Cada vez más empresas eligen palets de plástico porque duran mucho, se limpian con facilidad y se pueden reciclar. Pero no todos los palets de plástico son iguales.
 
-A primera vista, los pallets de plástico hechos de plásticos con código RIC 7 pueden parecer una opción rentable para tu empresa. Su precio inicial de compra puede ser bastante tentador, especialmente para las organizaciones que buscan reducir costos inmediatos. Sin embargo, es crucial mirar más allá de los ahorros iniciales y considerar las implicaciones a largo plazo. Aunque estos pallets pueden ser más baratos inicialmente, a menudo vienen con costos ocultos, especialmente en lo que respecta al reciclaje. Muchas instalaciones de reciclaje no están preparadas para manejar plásticos con código RIC 7, lo que puede llevar a posibles tarifas de disposición o incluso penalizaciones regulatorias en el futuro. Lo que puede parecer una ganga hoy podría terminar siendo un error costoso en el futuro, impactando tanto en tus finanzas como en tu huella ambiental.
+Un palet fabricado con un plástico de código RIC 7 puede parecer una opción económica. El precio de compra es atractivo, sobre todo si quiere reducir costes rápidamente. Aun así, mire más allá de la compra, porque los costes reales suelen llegar después.
 
-¿Qué significa el Código RIC 7? El sistema de Códigos de Identificación de Resina, originalmente creado para ayudar con el reciclaje, categoriza los plásticos en siete tipos diferentes basados en su composición material. Mientras que los códigos del 1 al 6 corresponden a tipos específicos y bien definidos de plástico, el código 7 sirve como una categoría general para otros plásticos. Estos podrían ser materiales que no encajan en las otras categorías o que están compuestos por varios tipos de resina.
+## ¿Qué significa el código RIC 7?
 
-## ¿Por qué deberías preocuparte?
+El código de identificación de resinas (RIC, Resin Identification Code) es un sistema de siete códigos. Indican de qué plástico está hecho un producto. Los códigos del 1 al 6 corresponden a seis plásticos muy utilizados, como el HDPE (2) y el PP (5).
 
-1. Falta de transparencia Dado que el código 7 es una categoría general, no proporciona mucha información sobre lo que el plástico realmente contiene. Esta falta de transparencia puede ser problemática para las empresas que requieren ciertos estándares de seguridad o higiene, ya que algunos plásticos con código 7 podrían contener aditivos o productos químicos perjudiciales.
-2. Reciclabilidad limitada Una de las principales desventajas de los plásticos con código RIC 7 es que a menudo no son reciclables o son difíciles de reciclar. En muchas jurisdicciones, las instalaciones de reciclaje no están preparadas para manejar estos otros plásticos. Por lo tanto, estos pallets podrían terminar en vertederos al final de su ciclo de vida, contribuyendo a la degradación ambiental.
-3. Factor de costo El desafío del reciclaje a menudo asociado con los plásticos con código RIC 7 también podría significar costos futuros potenciales para tu negocio. Con el creciente impulso hacia la sostenibilidad y el reciclaje, optar por pallets no reciclables podría incurrir en tarifas de disposición futuras o incluso en sanciones regulatorias.
+El código 7 es una categoría general para «otros» plásticos. Son materiales que no encajan en los demás grupos, o combinaciones de varios plásticos. Encontrará más información sobre los siete códigos en [códigos RIC de los plásticos](@news-ric).
 
-## ¿Cuáles son las alternativas?
+## Por qué el código 7 merece atención
 
-Si estás preocupado por los posibles problemas asociados con los pallets de plástico con código RIC 7, considera los pallets hechos de plásticos con otros códigos RIC como PET (1) o HDPE (2). Estos materiales no solo se reciclan ampliamente, sino que también tienden a ser fuertes, duraderos y seguros para una variedad de aplicaciones. Muchas empresas fabrican específicamente pallets con estos plásticos más sostenibles y compuestos de manera transparente, lo que facilita que tomes una decisión informada.
+### Composición desconocida
 
-## Conclusión
+El código 7 dice poco sobre lo que contiene realmente el material. Algunos plásticos de este grupo pueden contener aditivos que preferiría no tener en su cadena. Es un problema si debe cumplir requisitos de seguridad o higiene.
 
-Aunque los pallets de plástico ofrecen una serie de ventajas sobre sus contrapartes de madera, es esencial saber con qué tipo de plástico estás tratando. Los pallets hechos de plásticos con código RIC 7 vienen con una serie de preocupaciones, que van desde la reciclabilidad limitada hasta posibles problemas de seguridad. Como comprador consciente, debes considerar estos factores y posiblemente buscar alternativas que no solo sean mejores para tus operaciones sino también para el planeta.
+### Reciclabilidad limitada
 
-Cuando se trata de tomar una decisión ambientalmente responsable para tus necesidades de manejo de materiales, Q-Pall ofrece una solución confiable. Todos los pallets de plástico Q-Pall están exclusivamente hechos de plásticos con el Código de Identificación de Resina (RIC) de 2, también conocido como Polietileno de Alta Densidad (HDPE). Este material es ampliamente reconocido por su alta reciclabilidad, asegurando que estos pallets puedan ser fácilmente recolectados, procesados y transformados en nuevos productos al final de su ciclo de vida. Al usar plásticos con código RIC 2, Q-Pall no solo proporciona pallets duraderos y confiables, sino que también garantiza la circularidad de sus productos. Elegir Q-Pall significa que estás optando por una solución sostenible a largo plazo que minimiza los residuos y maximiza la eficiencia de los recursos, alineando tus prácticas empresariales con los principios de la economía circular.
+Los plásticos con código 7 suelen ser difíciles o imposibles de reciclar. Muchas empresas de reciclaje no están preparadas para tratarlos. Por eso, estos palets acaban a menudo en el vertedero o en la incineradora, en lugar de convertirse en materia prima para nuevos productos.
+
+### Costes a largo plazo
+
+Un palet que no se puede reciclar cuesta dinero en su eliminación. Además, las normas son cada vez más estrictas. Desde el 12 de agosto de 2026 se aplica el reglamento europeo de envases (PPWR), y los palets están incluidos como envases de transporte.
+
+A partir de 2030, los envases deberán ser reciclables en la clase A, B o C. La clase C significa al menos un 70%.
+
+Cuanto antes lo tenga en cuenta, menos sorpresas tendrá después. Encontrará más información en [PPWR y palets de plástico](@guide-ppwr).
+
+## ¿En qué fijarse al comprar?
+
+* **Pregunte por la composición.** Un buen proveedor le dirá de qué plásticos está hecho el palet.
+* **Pregunte qué ocurre al final.** ¿Recoge el proveedor los palets, y vuelven a ser materia prima?
+* **Pida documentación.** Con el PPWR puede pedir al fabricante una declaración de conformidad.
+* **Calcule el coste por viaje.** Un palet que dura muchos años y después se recicla suele salir más económico por viaje. Vea también [cuánto cuesta un palet de plástico](@guide-prices).
+
+## ¿Con qué fabricamos nuestros palets?
+
+Fabricamos nuestros palets estándar con plástico reciclado casi al 100%: una mezcla de HDPE (código 2) y PP (código 5). Nuestros palets Light contienen además LDPE (código 4). Todos son poliolefinas, plásticos que se comportan de forma similar en el reciclaje.
+
+Al final de su vida útil, nuestros palets son totalmente reciclables. Los recogemos y los trituramos para convertirlos en materia prima para nuevos palets. Los palets usados en buen estado tienen una segunda vida gracias a Q-Used.
+
+En nuestros modelos encontrará la declaración PPWR para descargar en la página del producto. Conozca nuestro enfoque en la página de [sostenibilidad](@about-sustainability).
+
+¿Quiere saber qué palet se adapta a su proceso y cuánto cuesta por viaje? [Solicite un presupuesto](@quote) y normalmente recibirá un precio a medida en un día laborable.

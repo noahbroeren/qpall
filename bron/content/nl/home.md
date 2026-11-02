@@ -162,7 +162,7 @@ cases:
     - {id: news-stackup, client: "Kwakman Afbouw · bouw", title: "70% minder loopbewegingen", text: "Samen ontwikkelden we de Stack-Up Pallet voor de bouwplaats: minder sjouwen, minder afval en een snellere afbouw."}
     - {id: news-covid, client: "Vaccintransport · farmacie", title: "Pallets voor COVID-vaccins", text: "Via partner Goplasticpallets.com leverde Q-Pall de 1208 HR 5R voor vaccintransporten naar onder meer Amerika, China en Zuid-Korea."}
     - {id: news-goodwood, client: "Goodwood Festival of Speed", title: "Elektrische auto's op een pallet", text: "De heavy duty QP1210 HR 5R droeg op het festival elektrische auto's, dankzij een statische belasting van 7.500 kg."}
-    - {id: news-goplastic, client: "Goplasticpallets.com · Verenigd Koninkrijk", title: "Tien jaar samenwerking", text: "Goplasticpallets.com is al tien jaar de exclusieve Britse distributeur van Q-Pall."}
+    - {id: news-goplastic, client: "Goplasticpallets.com · Verenigd Koninkrijk", title: "Tien jaar samenwerking", text: "In 2022 vierden Q-Pall en de Britse partner Goplasticpallets.com tien jaar samenwerking."}
 faq:
   - q: "Waarom kiezen voor kunststof pallets?"
     a: "Kunststof pallets gaan veel langer mee dan houten pallets, nemen geen vocht op en hebben geen splinters of spijkers. Ze hebben een vaste maat en een constant gewicht, wat belangrijk is voor automatisering. Bovendien zijn ze vrijgesteld van ISPM 15 voor export. Lees meer in [kunststof of hout](@guide-wood)."

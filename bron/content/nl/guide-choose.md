@@ -20,7 +20,7 @@ Begin bij uw lading en uw proces. Welke maat hebben uw dozen, zakken of vaten? E
 
 ## Stap 2: weeg uw zwaarste lading
 
-Elke pallet heeft drie belastingswaarden. Kijk naar de waarde die bij uw gebruik past:
+Elke pallet heeft drie belastingwaarden. Kijk naar de waarde die bij uw gebruik past:
 
 - **Statisch:** opslag op de vloer en blokstapeling.
 - **Dynamisch:** verplaatsen met heftruck, pompwagen of rollenbaan.
@@ -53,5 +53,7 @@ Wilt u een nestbare pallet die op locatie stabieler wordt? Gebruik dan [klikbare
 Komt de pallet terug? Dan loont een zwaardere pallet die vele omlopen meegaat. Gaat hij maar één keer mee? Dan is een lichte, [nestbare pallet](@type-nestable) het voordeligst. Kijk ook naar extra's: een logo of eigen kleur (zie [maatwerk](@about-custom)), [palletranden](@acc-collars) en [deksels](@acc-lids), of juist [gebruikte pallets](@used) als budget telt.
 
 ## Hulp nodig?
+
+Liever alles op papier? In de [productcatalogus](@catalog) staat ons standaardassortiment met maten en belastingwaarden, als pdf om te downloaden.
 
 Onze specialisten helpen u graag. Vertel ons wat u vervoert, hoe u opslaat en hoeveel pallets u nodig heeft. Dan adviseren we het model dat het best bij u past. [Vraag een offerte aan](@quote) of [neem contact op](@contact).

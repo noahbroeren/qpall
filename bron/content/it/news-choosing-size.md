@@ -1,31 +1,57 @@
 ---
 id: news-choosing-size
 title: "Scegliere la misura giusta del pallet – Q-Pall"
-description: "Carico, utilizzo e igiene determinano la misura del pallet. Scoprite a cosa fare attenzione per scegliere le dimensioni giuste dei vostri pallet."
+description: "Che misura di pallet vi serve? Scoprite come carico, trasporto, stoccaggio e automazione determinano le dimensioni giuste del vostro pallet in plastica."
 eyebrow: "Notizie"
 tag: "Approfondimento"
-crumb: "Scegliere la misura giusta del pallet"
+crumb: "La misura giusta del pallet"
 h1: "Scegliere la misura giusta del pallet: **a cosa fare attenzione**"
-lead: "Carico, utilizzo e igiene determinano la misura del pallet. Scoprite a cosa fare attenzione per scegliere le dimensioni giuste dei vostri pallet."
-img_alt: "Scegliere la misura giusta del pallet: a cosa fare attenzione"
+lead: "Che misura di pallet vi serve? Dipende dal carico, dal trasporto, dal modo in cui stoccate la merce e da un’eventuale automazione. Ecco a cosa fare attenzione per scegliere le dimensioni giuste."
+img_alt: "Pallet in plastica nero con piano aperto su tre slitte"
 reading: 3
+faq:
+- q: "Qual è la misura di pallet più usata?"
+  a: "In Europa è l’europallet da 1200 x 800 mm. Nell’industria e nel Regno Unito è molto diffuso il 1200 x 1000 mm."
+- q: "Quale misura di pallet è adatta a un container marittimo?"
+  a: "Per i container marittimi sono pratici i pallet quadrati da 1100 x 1100 mm e i pallet da 760 x 1140 mm. La misura più adatta dipende dal tipo di container."
+- q: "Q-Pall può realizzare un pallet in una misura fuori standard?"
+  a: "No, non realizziamo design di pallet completamente nuovi. Con circa 130 modelli in nove formati c’è di solito una misura adatta. Adattiamo invece i modelli esistenti, ad esempio con un logo o un colore personalizzato."
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-Quando cerchi dei pallet è importante che tu faccia la scelta giusta che dipende da diversi aspetti. Ovviamente, bisogna tenere presente l’utilizzo che si vuole fare dei pallet è parte integrante del processo di scelta. Quando si scelgono i pallet in plastica, ad esempio, è possibile scegliere un pallet igienico speciale, un altro punto da tenere in considerazione è la capacità di carico. Ed è anche necessario scegliere la giusta dimensione del pallet, ma cosa bisogna cercare quando si cerca la giusta dimensione?
+> **In breve**
+>
+> * La misura giusta del pallet parte dal carico: di cosa si tratta, come è imballato e quanto è grande.
+> * La misura deve essere adatta anche ai vostri camion, container e scaffalature.
+> * In un magazzino automatizzato i pallet devono avere esattamente la misura per cui i sistemi sono impostati.
+> * Q-Pall offre circa 130 modelli in nove formati, dal 600 x 400 al 1300 x 1100 mm.
 
-## Cos’è il carico del pallet?
+Quando vi servono dei pallet, volete fare la scelta giusta. Per cosa userete i pallet, quanto pesa il carico e il pallet deve essere, ad esempio, igienico? E quale misura vi serve? In questo articolo ci concentriamo su quest’ultima domanda. Tutte le misure standard sono riportate nella nostra panoramica dei [formati di pallet](@guide-sizes).
 
-La prima cosa da capire è l’utilizzo che si vuole fare del pallet. Qual è il carico che deve essere trasportato? I container, i big bag, i barili contenenti liquidi o prodotti raffreddati e il fatto se l’igiene è un fattore necessario? Questi punti determinano il tipo di pallet di cui si ha bisogno. A seconda del carico si determina la dimensione giusta. Come è imballato il carico e quali sono le sue dimensioni? Ogni tipo di pallet è disponibile in diverse misure ed è per questo che ogni necessità ha una dimensione corretta.
+## Cosa deve sostenere il pallet?
 
-## I pallet sono usati nell’immagazzinamento automatico?
+Stabilite prima di tutto cosa dovranno sostenere i pallet. Si tratta di scatole, contenitori, big bag o fusti di liquido? Oppure di prodotti refrigerati per cui l’igiene è un requisito? Questo determina in gran parte il tipo di pallet di cui avete bisogno.
 
-Se i pallet in plastica sono utilizzati in un ambiente dove i processi di immagazzinamento e trasporto sono automatizzati è importante che le dimensioni dei pallet soddisfino questi fabbisogni. In un magazzino automatizzato questo evita un malfunzionamento a causa delle dimensioni e forme nel processo. Perciò assicurati di scegliere la dimensione più comune desiderata in modo che ogni cosa utilizzata in questo ambiente possa essere inserito sui pallet. Questo ti permette di risparmiare lavoro.
+Guardate poi l’imballaggio: come è imballato il carico e quanto è grande? Scegliete una misura su cui l’imballaggio poggia bene. Big bag e fusti, ad esempio, si trovano spesso su un pallet quadrato da 1140 x 1140 o 1200 x 1200 mm.
 
-## Come sono immagazzinati i pallet?
+## La misura è adatta al vostro trasporto?
 
-I pallet in plastica sono utilizzati per il trasporto, ma molti clienti li utilizzano anche per immagazzinare merce e prodotti. Un aspetto essenziale è come sono immagazzinati. Sul pavimento, in un certo tipo di pallet o in esterno? È importante considerare questo fattore. Per esempio, è necessario impilare i pallet e quali dimensioni sono adatte? Il nostro staff e i rivenditori Q-Pall possono, grazie ad anni di esperienza e una completa conoscenza del mercato e ambiente ti forniscono i consigli corretti per scegliere il prodotto.
+I pallet devono entrare anche nei vostri camion, rimorchi e container. In Europa la misura standard è il [1200 x 800 mm](@size-1200x800): l’europallet. Nell’industria e nel Regno Unito è diffuso il 1200 x 1000 mm. Per i container marittimi sono pratici il 1100 x 1100 e il 760 x 1140 mm. Quanti pallet entrano nel vostro camion o container? Calcolatelo con il nostro [calcolatore di carico](@calc).
 
-## Fatti su misura
+## I pallet verranno usati in un magazzino automatizzato?
 
-Esiste una vasta gamma di pallet con un pallet specifico per ogni applicazione. La gamma include più di 100 prodotti che sono disponibili in diverse misure e colori. Se il pallet in plastica che cerchi non è disponibile è possibile farlo su misura. Oltre al suo programma standard, di pallet in plastica, Q-Pall crea dei pallet in plastica fatti su misura secondo le specifiche del cliente.
+Lavorate con stoccaggio e trasporto automatizzati, come rulliere, AGV o trasloelevatori? Allora i pallet devono corrispondere esattamente alle misure per cui questi sistemi sono impostati. Un pallet che si discosta per misura o forma può bloccare il processo.
 
-In breve, i pallet in plastica sono disponibili per tutti i tipi di carico in varie dimensioni. Vuoi sapere quali pallet o gli altri prodotti adatti per te? Non esitare a contattarci per maggiori informazioni. Saremo lieti di aiutarti!
+Scegliete quindi una misura adatta alla maggior parte di ciò che stoccate in questo ambiente. I pallet in plastica hanno dimensioni fisse e non si deformano con l’umidità. Approfondite i [pallet in plastica per l’automazione](@guide-automation).
+
+## Come verranno stoccati i pallet?
+
+Molti clienti usano i pallet non solo per il trasporto, ma anche per lo stoccaggio. Conta allora il modo in cui stoccate. I pallet stanno a terra, su una scaffalatura porta-pallet o all’aperto? Vanno impilati, e quali formati sono adatti? Per lo stoccaggio su scaffale verificate anche la portata su scaffale del modello. I nostri specialisti e i nostri rivenditori vi consigliano volentieri sul modello giusto.
+
+## La nostra gamma e le soluzioni personalizzate
+
+La nostra gamma comprende circa 130 modelli in nove formati, dal 600 x 400 al 1300 x 1100 mm, in tre classi di portata: Light, Medium e Heavy. Esiste quindi quasi sempre una misura adatta.
+
+Non realizziamo design di pallet completamente nuovi. Adattiamo invece i modelli esistenti, ad esempio con un logo, un colore personalizzato, una marcatura o una diversa composizione del materiale. Scoprite di più sui [pallet in plastica su misura](@about-custom).
+
+Volete sapere quale misura e quale modello sono adatti al vostro carico? [Richiedete un preventivo](@quote): di norma riceverete un prezzo su misura entro un giorno lavorativo.

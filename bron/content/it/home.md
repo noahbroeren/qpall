@@ -162,7 +162,7 @@ cases:
     - {id: news-stackup, client: "Kwakman Afbouw · edilizia", title: "70% di spostamenti in meno", text: "Insieme abbiamo sviluppato lo Stack-Up Pallet per il cantiere: meno sforzi, meno rifiuti e finiture più rapide."}
     - {id: news-covid, client: "Trasporto vaccini · farmaceutico", title: "Pallet per i vaccini COVID", text: "Tramite il partner Goplasticpallets.com, Q-Pall ha fornito il 1208 HR 5R per il trasporto di vaccini verso, tra gli altri, Stati Uniti, Cina e Corea del Sud."}
     - {id: news-goodwood, client: "Goodwood Festival of Speed", title: "Auto elettriche su un pallet", text: "Al festival il pallet heavy duty QP1210 HR 5R ha sostenuto auto elettriche, grazie a una portata statica di 7.500 kg."}
-    - {id: news-goplastic, client: "Goplasticpallets.com · Regno Unito", title: "Dieci anni di collaborazione", text: "Goplasticpallets.com è da dieci anni il distributore esclusivo di Q-Pall nel Regno Unito."}
+    - {id: news-goplastic, client: "Goplasticpallets.com · Regno Unito", title: "Dieci anni di collaborazione", text: "Nel 2022 Q-Pall e il partner britannico Goplasticpallets.com hanno festeggiato dieci anni di collaborazione."}
 faq:
   - q: "Perché scegliere pallet in plastica?"
     a: "I pallet in plastica durano molto più a lungo dei pallet in legno, non assorbono umidità e non hanno schegge né chiodi. Hanno dimensioni fisse e un peso costante, un aspetto importante per l’automazione. Inoltre sono esenti da ISPM 15 per l’esportazione. Approfondite in [plastica o legno](@guide-wood)."

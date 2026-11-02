@@ -1,33 +1,75 @@
 ---
 id: news-economical
-title: "Économique aujourd’hui, cher demain : bien choisir – Q-Pall"
-description: "Toutes les palettes plastique ne se valent pas. Découvrez pourquoi les plastiques portant le code d’identification de résine 7 peuvent nuire au recyclage."
+title: "Code RIC 7 : économique aujourd’hui, cher demain – Q-Pall"
+description: "Les palettes plastique de code RIC 7 semblent bon marché, mais de quoi sont-elles faites et se recyclent-elles ? Le type de plastique compte pour vos coûts."
 eyebrow: "Actualités"
 tag: "Conseils"
 crumb: "Économique aujourd’hui, cher demain"
 h1: "Économique aujourd’hui, cher demain : **choisir les bonnes palettes**"
-lead: "Toutes les palettes plastique ne se valent pas. Découvrez pourquoi les plastiques portant le code d’identification de résine 7 peuvent nuire au recyclage."
-img_alt: "Économique aujourd’hui, cher demain : choisir les bonnes palettes"
-reading: 5
+lead: "Une palette plastique de code RIC 7 semble avantageuse à l’achat, mais elle peut vous coûter cher plus tard. Pourquoi le type de plastique compte pour le recyclage, la réglementation et vos coûts."
+img_alt: "Palette plastique noire à plateau ajouré sur trois semelles"
+reading: 4
+faq:
+- q: "Que signifie le code RIC 7 sur un produit en plastique ?"
+  a: "Le code 7 est la catégorie fourre-tout des « autres » plastiques : des matériaux qui ne relèvent pas des codes 1 à 6, ou des combinaisons de plastiques. Le code renseigne donc peu sur la composition exacte."
+- q: "Les palettes plastique de code 7 se recyclent-elles mal ?"
+  a: "Souvent, oui. Beaucoup de recycleurs ne sont pas équipés pour ces « autres » plastiques. Demandez donc toujours la composition et ce qu’il advient de la palette en fin de vie."
+- q: "En quoi sont fabriquées les palettes Q-Pall ?"
+  a: "Nos palettes standard sont en plastique recyclé, un mélange de PEHD (2) et de PP (5). Seules nos palettes hygiéniques, palettes H1 et palettes salle blanche sont en plastique vierge. En fin de vie, nos palettes sont entièrement recyclables."
+published: '2023-10-09'
+updated: '2026-11-02'
 ---
-Dans notre précédent article de blog, nous avons davantage expliqué les Codes d'Identification des Résines (CIR) des plastiques et leur rôle essentiel dans la création d'un avenir durable. En matière de logistique, de stockage et d'expédition, les palettes sont un outil indispensable. Traditionnellement en bois, un nombre croissant d'entreprises se tournent vers les palettes en plastique pour leur durabilité, longévité, propreté et recyclabilité. Cependant, toutes les palettes en plastique ne sont pas de qualité égale. Comprendre le type de plastique utilisé dans leur construction est crucial pour garantir leur recyclabilité. Une catégorie à laquelle vous pourriez vouloir réfléchir à deux fois concerne les palettes fabriquées à partir de plastiques portant le Code d'Identification des Résines (CIR) de 7, souvent marquées d'un « 7 » à l'intérieur d'un symbole de flèche triangulaire.
+> **En bref**
+>
+> * Le code RIC dans le petit triangle indique de quel plastique un produit est fait. Le code 7 désigne les « autres » plastiques et les combinaisons.
+> * Avec le code 7, vous ne savez souvent pas précisément ce qu’il contient, et le recyclage est difficile.
+> * Cela peut coûter cher plus tard, par exemple lors de l’élimination. Selon le PPWR, les emballages devront en outre être recyclables à partir de 2030.
+> * À l’achat, demandez la composition et ce qu’il advient de la palette en fin de vie.
+> * Nos palettes standard sont en PEHD (2) et PP (5) recyclés. Nous les reprenons pour les recycler.
 
-## Voici pourquoi&
+## Un prix bas ne dit pas tout
 
-première vue, les palettes en plastique faites de plastiques CIR 7 peuvent sembler être une option rentable pour votre entreprise. Leur prix d'achat initial peut être très tentant, en particulier pour les organisations cherchant à réduire immédiatement les coûts. Cependant, il est crucial de regarder au-delà des économies initiales et de considérer les implications à long terme. Bien que ces palettes puissent être moins chères au départ, elles comportent souvent des coûts cachés, notamment en ce qui concerne le recyclage. De nombreuses installations de recyclage ne sont pas équipées pour traiter les plastiques CIR 7, entraînant d'éventuels frais d'élimination ou même des pénalités réglementaires à l'avenir. Ce qui peut sembler une bonne affaire aujourd'hui pourrait s'avérer être une erreur coûteuse demain, affectant à la fois vos résultats et votre empreinte écologique.
+Les palettes sont indispensables à la logistique, au stockage et à l’expédition. De plus en plus d’entreprises choisissent des palettes plastique, car elles durent longtemps, se nettoient facilement et se recyclent. Mais toutes les palettes plastique ne se valent pas.
 
-## Que signifie le CIR 7 ?
+Une palette fabriquée dans un plastique de code RIC 7 peut sembler un choix économique. Son prix d’achat est attractif, surtout si vous voulez réduire vos coûts rapidement. Regardez pourtant au-delà de l’achat, car les vrais coûts arrivent souvent plus tard.
 
-Le système des Codes d'Identification des Résines, initialement créé pour aider au recyclage, classe les plastiques en sept types différents selon leur composition matérielle. Alors que les codes 1 à 6 correspondent à des types de plastiques spécifiques et bien définis, le code 7 sert de catégorie fourre-tout pour les plastiques « autres ». Ceux-ci pourraient être des matériaux qui ne correspondent pas aux autres catégories ou qui sont composés de plusieurs types de résine.
+## Que signifie le code RIC 7 ?
 
-## Pourquoi devriez-vous vous inquiéter
+Le code d’identification des résines (RIC, Resin Identification Code) est un système de sept codes. Ils indiquent de quel plastique un produit est fait. Les codes 1 à 6 désignent six plastiques très répandus, comme le PEHD (2) et le PP (5).
 
-Manque de transparence Étant donné que le code 7 est une catégorie fourre-tout, il ne donne pas beaucoup d'informations sur ce que contient réellement le plastique. Ce manque de transparence peut être problématique pour les entreprises qui nécessitent certaines normes de sécurité ou d'hygiène, car certains plastiques de code 7 pourraient potentiellement contenir des additifs ou des produits chimiques nocifs. Recyclabilité limitée L'un des inconvénients majeurs des plastiques CIR 7 est qu'ils sont souvent non recyclables ou difficiles à recycler. Dans de nombreuses juridictions, les installations de recyclage ne sont pas équipées pour traiter ces "autres" plastiques. Ainsi, ces palettes pourraient finir en décharge à la fin de leur cycle de vie, contribuant à la dégradation de l'environnement. Facteur coût Le défi du recyclage souvent associé aux plastiques CIR 7 pourrait également signifier des coûts futurs potentiels pour votre entreprise. Avec la poussée croissante vers la durabilité et le recyclage, opter pour des palettes non recyclables pourrait entraîner des frais d'élimination futurs ou même des pénalités réglementaires.
+Le code 7 est une catégorie fourre-tout pour les « autres » plastiques. Il s’agit de matériaux qui n’entrent dans aucun autre groupe, ou de combinaisons de plusieurs plastiques. Pour en savoir plus sur les sept codes, lisez [les codes RIC des plastiques](@news-ric).
 
-## Quelles sont les alternatives
+## Pourquoi le code 7 mérite votre attention
 
-; Si vous êtes préoccupé par les problèmes potentiels associés aux palettes en plastique CIR 7, envisagez des palettes fabriquées à partir de plastiques avec d'autres codes CIR comme le PET (1) ou le PEHD (2). Ces matériaux ne sont pas seulement largement recyclés, mais ont tendance également à être forts, durables et sûrs pour diverses applications. De nombreuses entreprises fabriquent spécifiquement des palettes avec ces plastiques plus durables et composés de manière transparente, facilitant ainsi votre choix éclairé.
+### Une composition inconnue
 
-## Conclusion
+Le code 7 renseigne peu sur ce que contient réellement le matériau. Certains plastiques de ce groupe peuvent contenir des additifs que vous préférez éviter dans votre chaîne. C’est un problème si vous devez respecter des exigences de sécurité ou d’hygiène.
 
-Si les palettes en plastique offrent une gamme d'avantages par rapport à leurs homologues en bois, il est essentiel de savoir de quel type de plastique vous traitez. Les palettes fabriquées à partir de plastiques CIR 7 présentent une série de préoccupations, allant d'une recyclabilité limitée à des problèmes de sécurité potentiels. En tant qu'acheteur consciencieux, vous devriez tenir compte de ces facteurs et peut-être rechercher des alternatives qui sont non seulement meilleures pour vos opérations, mais aussi pour la planète. Lorsqu'il s'agit de faire un choix écologiquement responsable pour vos besoins de manutention des matériaux, Q-Pall offre une solution rassurante. Toutes les palettes en plastique Q-Pall sont exclusivement fabriquées à partir de plastiques portant le Code d'Identification des Résines (CIR) de 2, également connu sous le nom de Polyéthylène Haute Densité (PEHD). Ce matériau est largement reconnu pour sa grande recyclabilité, garantissant que ces palettes peuvent être facilement collectées, traitées et transformées en nouveaux produits à la fin de leur cycle de vie. En utilisant des plastiques CIR 2, Q-Pall fournit non seulement des palettes durables et fiables, mais garantit également la circularité de leurs produits. Choisir Q-Pall signifie que vous optez pour une solution durable à long terme qui minimise les déchets et maximise l'efficacité des ressources, alignant vos pratiques commerciales avec les principes de l'économie circulaire.
+### Une recyclabilité limitée
+
+Les plastiques de code 7 sont souvent difficiles, voire impossibles à recycler. Beaucoup de recycleurs ne sont pas équipés pour les traiter. Ces palettes finissent donc souvent en décharge ou à l’incinération, au lieu de devenir la matière première de nouveaux produits.
+
+### Des coûts à terme
+
+Une palette impossible à recycler coûte de l’argent lors de son élimination. La réglementation se durcit aussi. Le règlement européen sur les emballages (PPWR) s’applique depuis le 12 août 2026, et les palettes y sont soumises en tant qu’emballages de transport.
+
+À partir de 2030, les emballages devront être recyclables en classe A, B ou C. La classe C signifie au moins 70 %.
+
+Plus vous en tenez compte tôt, moins vous aurez de surprises. Pour en savoir plus, lisez [PPWR et palettes plastique](@guide-ppwr).
+
+## À quoi faire attention à l’achat ?
+
+* **Demandez la composition.** Un bon fournisseur vous indique de quels plastiques la palette est faite.
+* **Demandez ce qui se passe en fin de vie.** Le fournisseur reprend-il les palettes, et redeviennent-elles une matière première ?
+* **Demandez la documentation.** Selon le PPWR, vous pouvez demander au fabricant une déclaration de conformité.
+* **Raisonnez en coût par rotation.** Une palette qui dure de nombreuses années puis est recyclée revient souvent moins cher par rotation. Voir aussi [combien coûte une palette plastique](@guide-prices).
+
+## En quoi fabriquons-nous nos palettes ?
+
+Nous fabriquons nos palettes standard en plastique recyclé à près de 100 % : un mélange de PEHD (code 2) et de PP (code 5). Nos palettes Light contiennent en plus du PEBD (code 4). Ce sont tous des polyoléfines, des plastiques qui se comportent de façon similaire au recyclage.
+
+En fin de vie, nos palettes sont entièrement recyclables. Nous les reprenons et les broyons pour en faire la matière première de nouvelles palettes. Les palettes d’occasion en bon état ont une seconde vie grâce à Q-Used.
+
+Pour nos modèles, vous trouvez la déclaration PPWR en téléchargement sur la page produit. Découvrez notre démarche sur la page [développement durable](@about-sustainability).
+
+Vous voulez savoir quelle palette convient à votre processus et ce qu’elle coûte par rotation ? [Demandez un devis](@quote) : vous recevez généralement un prix sur mesure en un jour ouvré.

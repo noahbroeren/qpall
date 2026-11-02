@@ -1,29 +1,80 @@
 ---
 id: news-stacking
 title: "Apilar palets de plástico: ¿es posible? – Q-Pall"
-description: "Sí, los palets de plástico se pueden apilar. Descubra qué características comparten con los de madera y por qué los sustituyen cada vez más en el almacén."
+description: "¿Se pueden apilar los palets de plástico? Sí. Cuántos palets cargados apilar, hasta qué altura, qué tener en cuenta y cómo ahorrar espacio al almacenar."
 eyebrow: "Noticias"
 tag: "Conocimiento"
-crumb: "Apilar palets de plástico: ¿es posible?"
+crumb: "Apilar palets de plástico"
 h1: "Apilar palets de plástico: **¿es posible?**"
-lead: "Sí, los palets de plástico se pueden apilar. Descubra qué características comparten con los de madera y por qué los sustituyen cada vez más en el almacén."
-img_alt: "Apilar palets de plástico: ¿es posible?"
+lead: "Sí, los palets de plástico se apilan igual de bien que los de madera. Cuántos y hasta qué altura depende de la carga estática del palet inferior, de su carga y del suelo."
+img_alt: "Carretillero en un almacén junto a altas pilas de palets de plástico negros"
 reading: 3
+faq:
+- q: "¿Se pueden apilar los palets de plástico?"
+  a: "Sí. Los palets vacíos con patines o pies se apilan unos sobre otros, y los encajables se encajan unos dentro de otros. También puede apilar palets cargados, siempre que el peso total se mantenga dentro de la carga estática del palet inferior."
+- q: "¿Cuántos palets cargados se pueden apilar?"
+  a: "Sume el peso de todos los palets cargados de la pila. Ese total debe quedar claramente por debajo de la carga estática del palet inferior. Además, la estabilidad de la carga y el suelo determinan hasta qué altura puede apilar con seguridad."
+- q: "¿Cuántos palets vacíos hay en una pila?"
+  a: "Depende del modelo. Una pila completa tiene, por ejemplo, 45 palets encajables o 17 palets Medium. En cada página de producto verá la carga estándar del modelo."
+- q: "¿Puedo almacenar palets de plástico al aire libre?"
+  a: "Sí. El plástico no absorbe humedad, no se pudre y no se enmohece. Por eso los palets de plástico son adecuados para el almacenamiento al aire libre."
+published: '2021-12-10'
+updated: '2026-11-02'
 ---
-¿Cómo es el almacenamiento de su empresa? ¿Tiene un almacén en combinación con espacio de oficina, utiliza el área exterior como almacén o hace uso de terceros para ocuparse del almacenamiento y el transporte? En cualquier caso, el concepto de “palet” debe ser discutido ocasionalmente. Los palets de madera utilizados tradicionalmente están cada vez más en declive y son crecientemente reemplazados por los palets plástico. ¿Qué ocurre en su empresa? Tal vez no esté seguro de la utilidad y necesidad de los palets de plástico. ¿Se pregunta si son realmente tan sostenibles? ¿Y es siquiera posible apilar palets de plástico?
+> **En resumen**
+>
+> * Sí, los palets de plástico se pueden apilar, tanto vacíos como cargados.
+> * Con palets cargados, la carga estática del palet inferior determina cuánto se puede poner encima.
+> * Apile solo palets de la misma medida y del mismo tipo, sobre un suelo plano.
+> * Vacíos, los palets encajables se encajan unos dentro de otros. Así caben casi tres veces más en un camión.
 
-## Apilar palets de plástico
+¿Almacena mercancía en su propio almacén, en una zona exterior o con un operador logístico? Tarde o temprano surge la pregunta: ¿se pueden apilar realmente los palets de plástico?
 
-Sí, por cierto, **apilar palets** de plástico es posible. Los palets de plástico tienen todo tipo de características útiles que también comparten con los palets de madera utilizados tradicionalmente. Por ejemplo, puede comprarlos en diferentes tamaños, porque obviamente los usará para cosas distintas. Un **palet plástico** podría estar equipado con una bandeja de goteo en caso de que necesite drenar fluidos, mientras que otro palet de plástico tendrá dimensiones que son un poco más convenientes para su enfoque logístico. Es posible tomar múltiples decisiones que se ajusten a sus necesidades.
+La respuesta corta es sí. Los palets de plástico tienen las mismas cualidades prácticas que los de madera y existen en muchas medidas y versiones.
 
-## Apilar palets de plástico es fácil
+## ¿Se pueden apilar los palets de plástico?
 
-También es muy sencillo **apilar palets** de plástico. De hecho, vale la misma regla que para los palets de madera: asegurarse de que los tamaños se correspondan entre sí. Obviamente, apilar un palet grande encima de uno más pequeño le traerá problemas. Afortunadamente, un palet de plástico es tan resistente como un palet de madera, o incluso un poco más. Esto implica que no tiene que preocuparse por los procesos actualmente existentes en su empresa.
+Sí, de tres maneras:
 
-## Una lista de ventajas
+* **Palets vacíos unos sobre otros.** Los palets con patines o pies se apilan unos sobre otros, hasta la altura máxima de apilado del modelo.
+* **Palets vacíos unos dentro de otros.** Los [palets encajables](@type-nestable) tienen pies huecos. Vacíos, se encajan unos dentro de otros, como vasos de plástico. Así caben casi tres veces más en un camión que los palets con patines.
+* **Palets cargados unos sobre otros.** Es lo que se llama apilado en bloque. Aquí, la capacidad de carga determina cuántos palets puede apilar.
 
-Debido a su larga vida útil, puede ser económicamente más beneficioso usar palets de plástico en lugar de palets de madera. Son tan sostenibles que casi no será necesario reemplazarlos. Como se pueden apilar tan fácilmente, es posible utilizarlos para diferentes tipos de almacenamiento. Además, no causarán molestas astillas o virutas de madera. Como tal, los palets plástico son también más prácticos en su uso. ¿No los usará durante un tiempo? Entonces puede apilarlos fácilmente y almacenarlos en un lugar donde no sean una molestia. Debido a los materiales utilizados, también son muy adecuados para su almacenamiento al aire libre.
+## ¿Cuántos palets cargados puede apilar?
 
-## ¿Busca más información?
+Depende sobre todo de la carga estática del palet inferior: el peso máximo que soporta un palet cuando está parado sobre un suelo plano. El palet inferior soporta su propia carga y el peso de todos los palets cargados que tiene encima. Ese total debe mantenerse dentro de la carga estática.
 
-En resumen, los palets de plástico ofrecen muchas ventajas en relación con sus homólogos de madera. Pero, ¿cuáles son las ventajas exactas para usted y cuáles son los costes de las diferentes opciones? Con mucho gusto responderemos a estas y a todas las demás preguntas que tenga. ¡[Contáctenos](@contact) para que podamos proporcionarle más información!
+Un ejemplo: apila cuatro palets que pesan 800 kg cada uno con su carga. El palet inferior soporta entonces su propia carga y los tres palets de encima, 3.200 kg en total. Elija un palet cuya carga estática quede claramente por encima.
+
+Para cargas pesadas, los [palets Heavy](@class-heavy) son la opción lógica: soportan hasta 7.500 kg en estática. Los valores exactos figuran en cada modelo. Más información en nuestra página sobre [la capacidad de carga de los palets de plástico](@about-load).
+
+## ¿Hasta qué altura se puede apilar?
+
+Aunque el peso se mantenga dentro del límite, no se puede apilar indefinidamente. Cuanto más alta es la pila, antes se vuelve inestable. La altura a la que puede apilar con seguridad depende de:
+
+* la estabilidad de la carga y de su embalaje;
+* un suelo plano y nivelado, capaz de soportar el peso;
+* las normas de su almacén, como la carga admisible del suelo.
+
+Para palets vacíos se aplica la altura máxima de apilado del modelo. En una estantería para palets no se apilan palets unos sobre otros. Allí cuenta la carga en estantería, y los palets Light no están pensados para estanterías.
+
+## ¿Qué tener en cuenta al apilar?
+
+* **Misma medida y mismo tipo.** Apile solo palets de la misma medida y la misma construcción. Un palet grande sobre uno más pequeño da problemas.
+* **Una base estable.** Un palet con patines es más estable en el almacén que un palet sobre pies. Bajo muchos palets encajables puede encajar [patines](@acc-runners) sin herramientas.
+* **Una carga repartida uniformemente.** Todos los valores de carga se aplican a una carga repartida uniformemente. Una carga puntual o desequilibrada reduce lo que el palet puede soportar.
+* **Lo más pesado abajo.** Coloque abajo los palets más pesados. No deje que la carga sobresalga del borde y coloque los palets exactamente unos sobre otros.
+* **Una carga asegurada.** Asegure la carga, por ejemplo con film estirable, para que las cajas no se desplacen.
+* **Ningún palet dañado.** No use palets con grietas o deformaciones. Incluso un daño pequeño puede provocar un fallo bajo carga.
+* **La temperatura.** Con temperaturas bajas, el plástico se vuelve más rígido y sensible a los golpes; con temperaturas altas, algo más flexible.
+
+Encontrará más consejos para evitar daños en [9 errores que dañan los palets de plástico](@news-damage).
+
+## Las ventajas del plástico en el almacenamiento
+
+* **Larga vida útil.** Los palets de plástico duran muchos años. Por eso, por vuelta suelen salir más baratos que la madera.
+* **Sin astillas ni clavos.** Se trabaja mejor y su carga no sufre daños.
+* **También al aire libre.** El plástico no absorbe humedad, no se pudre y no se enmohece.
+* **Medidas y peso constantes.** El apilado es predecible y encaja también en almacenes automatizados.
+
+¿Quiere saber qué palet se adapta a su forma de almacenar? [Contacte con nosotros](@contact) y haremos los cálculos con usted.

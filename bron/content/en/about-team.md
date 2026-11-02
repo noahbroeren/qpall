@@ -8,6 +8,6 @@ lead: "Behind every pallet are people. Meet your contacts at Q-Pall: they think 
 ---
 ## Always one point of contact
 
-Whether you need a single pallet or a regular pallet flow for several sites, you have one point of contact at Q-Pall. They know our [range](@pallets), the [load values](@about-load) and our [production sites](@about-local), and make sure your question quickly reaches the right person.
+Whether you need a single stack of pallets or a regular pallet flow for several sites, you have one point of contact at Q-Pall. Your contacts know our [range](@pallets), the [load values](@about-load) and our [production sites](@about-local), and make sure your question quickly reaches the right person.
 
 Would you rather have a price straight away? [Request a quote](@quote) and you will usually hear from us within one working day. For other questions you can also [get in touch](@contact).

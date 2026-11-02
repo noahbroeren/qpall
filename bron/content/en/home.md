@@ -162,7 +162,7 @@ cases:
     - {id: news-stackup, client: "Kwakman Afbouw · construction", title: "70% fewer walking movements", text: "Together we developed the Stack-Up Pallet for the building site: less carrying, less waste and faster finishing work."}
     - {id: news-covid, client: "Vaccine transport · pharma", title: "Pallets for COVID vaccines", text: "Through partner Goplasticpallets.com, Q-Pall supplied the 1208 HR 5R for vaccine shipments to America, China and South Korea, among others."}
     - {id: news-goodwood, client: "Goodwood Festival of Speed", title: "Electric cars on a pallet", text: "At the festival the heavy duty QP1210 HR 5R carried electric cars, thanks to a static load of 7,500 kg."}
-    - {id: news-goplastic, client: "Goplasticpallets.com · United Kingdom", title: "Ten years of partnership", text: "Goplasticpallets.com has been Q-Pall's exclusive UK distributor for ten years."}
+    - {id: news-goplastic, client: "Goplasticpallets.com · United Kingdom", title: "Ten years of partnership", text: "In 2022, Q-Pall and its UK partner Goplasticpallets.com celebrated ten years of working together."}
 faq:
   - q: "Why choose plastic pallets?"
     a: "Plastic pallets last much longer than wooden pallets, do not absorb moisture and have no splinters or nails. They have fixed dimensions and a constant weight, which matters for automation. They are also exempt from ISPM 15 for export. Read more in [plastic or wood](@guide-wood)."

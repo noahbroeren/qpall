@@ -1,46 +1,63 @@
 ---
 id: news-brexit
-title: "Kunststoffpaletten: Import und Export nach dem Brexit"
-description: "Britischen Exporteuren fehlen geeignete Holzpaletten für die EU. Lesen Sie, warum Kunststoffpaletten von Q-Pall nach dem Brexit eine Lösung sind."
+title: "Brexit: Kunststoffpaletten im UK-Handel – Q-Pall"
+description: "Seit dem Brexit müssen Holzpaletten im Handel mit dem UK ISPM 15 erfüllen, Kunststoffpaletten nicht. Q-Pall fertigt Paletten auch in Chesterfield (UK)."
 eyebrow: "Aktuelles"
 tag: "Supply Chain"
-crumb: "Kunststoffpaletten"
-h1: "Kunststoffpaletten: **eine Lösung für Import und Export nach dem Brexit**"
-lead: "Britischen Exporteuren fehlen geeignete Holzpaletten für die EU. Lesen Sie, warum Kunststoffpaletten von Q-Pall nach dem Brexit eine Lösung sind."
-img_alt: "Kunststoffpaletten: eine Lösung für Import und Export nach dem Brexit"
+crumb: "Paletten nach dem Brexit"
+h1: "Brexit und Paletten: **Was gilt im Handel mit dem Vereinigten Königreich?**"
+lead: "Seit dem Brexit ist das Vereinigte Königreich für Paletten ein Land außerhalb der EU. Holzpaletten müssen daher ISPM 15 erfüllen, Kunststoffpaletten nicht. Zudem fertigt Q-Pall Kunststoffpaletten im UK selbst, in Chesterfield."
+img_alt: "Schild im Stil der Londoner U-Bahn mit dem Wort Brexit vor einer britischen Flagge"
 reading: 3
+faq:
+- q: "Müssen Holzpaletten für das Vereinigte Königreich ISPM 15 erfüllen?"
+  a: "Ja. Seit dem Ende der Übergangsphase am 31. Dezember 2020 müssen Holzpaletten im Handel zwischen der EU und dem Vereinigten Königreich nach ISPM 15 behandelt und gestempelt sein, in beide Richtungen."
+- q: "Brauchen Kunststoffpaletten für das UK einen ISPM 15-Stempel?"
+  a: "Nein. ISPM 15 gilt nur für Verpackungen aus Massivholz. Kunststoffpaletten brauchen keine Behandlung und keinen Stempel, auch nicht für Sendungen ins und aus dem Vereinigten Königreich."
+- q: "Welches Palettenmaß ist im Vereinigten Königreich üblich?"
+  a: "Im Vereinigten Königreich wird häufig die Industriepalette mit 1200 x 1000 mm verwendet. Unsere Einwegpaletten fertigen wir unter anderem in 1200 x 1000 mm und 1200 x 800 mm."
+published: '2022-01-13'
+updated: '2026-11-02'
 ---
-Ein wichtiger Grund ist das Fehlen ausreichender geeigneter Holzpaletten bei britischen Herstellern, die in die Europäische Union exportieren. Die genauen Hintergründe dieses Problems und wie die [Kunststoffpaletten](@pallets) von Q-Pall die Lösung sein können, lesen Sie unten.
+> **Kurz gesagt**
+>
+> * Das Vereinigte Königreich ist am 31. Januar 2020 aus der EU ausgetreten. Die Übergangsphase lief bis zum 31. Dezember 2020.
+> * Seitdem müssen Holzpaletten im Handel zwischen der EU und dem UK ISPM 15 erfüllen: behandelt und gestempelt.
+> * Kunststoffpaletten fallen nicht unter ISPM 15 und brauchen weder Behandlung noch Stempel.
+> * Q-Pall hat ein Werk in Chesterfield und produziert damit auch im Vereinigten Königreich selbst.
 
-## Nicht genügend geeignete Paletten bei britischen Exporteuren
+## Vom Referendum bis zum Austritt
 
-Es scheint ein kleiner und unwichtiger Aspekt im enormen Brexit-Trubel zu sein, mit dem wir seit Monaten jeden Tag konfrontiert sind. Die Verfügbarkeit ausreichender geeigneter Holzpaletten für den Export in die Europäische Union wurde jedoch bisher nicht berücksichtigt. Und dies kann weitreichende Folgen haben. Worin besteht das Problem?
+Am 23. Juni 2016 stimmte das Vereinigte Königreich für den Austritt aus der Europäischen Union. Am 31. Januar 2020 verließ es die EU. Danach folgte eine Übergangsphase bis zum 31. Dezember 2020, in der die alten Regeln noch galten.
 
-Holzpaletten, die von außerhalb der Europäischen Union kommen, unterliegen anderen Anforderungen als Holzpaletten, die in den Ländern der EU selbst transportiert werden. Und dies spielt eine wichtige Rolle, sobald Großbritannien die Europäische Union verlässt. Diese strengeren Anforderungen betreffen beispielsweise die Gesundheit der Verbraucher.
+Seit dem Ende dieser Übergangsphase ist das Vereinigte Königreich im Handel ein Land außerhalb der EU. Das hat Folgen für die Waren, aber auch für die Paletten, auf denen sie transportiert werden.
 
-Aus Gründen der Volksgesundheit müssen Paletten von außerhalb der EU einer zusätzlichen Behandlung unterzogen worden sein. Jede Palette muss außerdem mit einer Kennzeichnung versehen sein, die zeigt, dass sie die Anforderungen erfüllt.
+## Was der Brexit für Holzpaletten bedeutet
 
-Erst jetzt (!) scheint es so, als hätten britische Exporteure nicht genug solcher Paletten, sodass ein großer Teil des Exports gefährdet ist. Und wie es der Zufall will, sind die britischen Exporte hauptsächlich Europas Importe. Dieses Problem kann also auch Sie treffen.
+Für Holzverpackungen im internationalen Transport gilt der Standard ISPM 15. Er dient der Pflanzengesundheit: Insekten und Pflanzenkrankheiten sollen nicht mit Holz über die Grenze gelangen. Eine Holzpalette muss deshalb behandelt sein, meist mit Hitze, und einen offiziellen Stempel tragen.
 
-## Was ist das Ausmaß des Problems?
+Innerhalb der EU ist ISPM 15 meist nicht vorgeschrieben. Im Handel zwischen der EU und dem Vereinigten Königreich gilt der Standard seit dem Brexit jedoch, in beide Richtungen. Eine Palette ohne korrekte Behandlung oder Stempel kann zu Verzögerungen, zur Rücksendung oder sogar zur Vernichtung der Sendung führen.
 
-Um Ihnen einen Eindruck vom Ausmaß des Problems zu geben: Jedes Jahr werden Dutzende Millionen Paletten von Großbritannien in die Europäische Union transportiert. Der überwiegende Teil dieser Paletten erfüllt die europäischen Anforderungen für Paletten von außerhalb der EU nicht. Viele Produkte werden auf diesen Paletten transportiert.
+Im Vorfeld des Brexits wurde befürchtet, dass britische Exporteure nicht genug behandelte Holzpaletten haben würden. Viele Paletten, die zwischen dem Vereinigten Königreich und der EU zirkulierten, erfüllten ISPM 15 nicht. Für Unternehmen auf beiden Seiten des Ärmelkanals war das ein echtes Risiko.
 
-Denken Sie an Lebensmittel, elektronische Geräte, aber auch an Arzneimittel. Natürlich gibt es in Großbritannien geeignete Paletten, aber für alle britischen Exporteure ist dies bei Weitem nicht genug.
+## Kunststoffpaletten: kein ISPM 15 nötig
 
-Es wird daher befürchtet, dass viele britische Exporteure nicht genügend geeignete Paletten haben und in Konkurs gehen werden und das ist ein großes Problem.
+ISPM 15 gilt nur für Verpackungsmaterial aus Massivholz. Kunststoffpaletten fallen nicht darunter. Sie brauchen keine Hitzebehandlung und keinen Stempel, egal wohin Ihre Sendung geht. Ausführliche Informationen lesen Sie in [ISPM 15: Export ohne Stempel](@guide-ispm).
 
-## Die Lösung mit unserem Produkt: Kunststoffpaletten von Q-Pall
+Das bringt Ihnen im Handel mit dem Vereinigten Königreich:
 
-Q-Pall produziert seit Jahren [Kunststoffpaletten](@pallets) in verschiedenen europäischen Fabriken, die der strengen europäischen Gesetzgebung entsprechen. Wir produzieren nicht nur Kunststoffpaletten, sondern kümmern uns auch um deren Distribution und Verkauf. Unser Angebot an Kunststoffpaletten umfasst derzeit mehr als 150 Produkte.
+* **Keine Behandlung, kein Zertifikat.** Für die Palette selbst müssen Sie nichts organisieren.
+* **Keine Verzögerung durch die Palette.** Eine Kunststoffpalette wird nicht wegen eines fehlenden oder falschen Stempels beanstandet.
+* **Leicht und oft nestbar.** Unsere [Einwegpaletten](@type-export) tragen bis zu 2.500 kg statisch und lassen sich leer ineinanderstapeln.
+* **Das passende Maß.** Im Vereinigten Königreich ist die Industriepalette mit [1200 x 1000 mm](@size-1200x1000) üblich.
+* **Kreislauffähig.** Unsere Standardpaletten bestehen aus recyceltem Kunststoff und sind am Ende ihrer Lebensdauer vollständig recycelbar.
 
-Deshalb haben wir für fast jede Anwendung die richtigen Paletten. Und sollte dies nicht der Fall sein, können wir sie für Sie herstellen. Im Rahmen der Corporate Social Responsibility (CSR) übernehmen wir auch die Verantwortung für das Recycling der von uns hergestellten Kunststoffpaletten.
+## Q-Pall produziert auch im Vereinigten Königreich
 
-Zudem können dank der Nachhaltigkeit unserer Paletten Kosteneinsparungen erzielt werden. Die Vorteile unserer Einwegpaletten auf einen Blick:
+Q-Pall fertigt Kunststoffpaletten in sechs Werken: Balk (Niederlande), Ribe (Dänemark), Marktoberdorf (Deutschland), Nantes (Frankreich), Lleida (Spanien) und Chesterfield (Vereinigtes Königreich). Fast jeder Kunde liegt im Umkreis von 600 Kilometern um eines unserer Werke.
 
-- Großes Angebot an GB Kunststoffpaletten
-- Kostengünstig im Vergleich zu Holzpaletten und zudem nachhaltiger
-- Die Paletten erfüllen die strengen europäischen Rechtsvorschriften
-- Q-Pall kümmert sich um die gesamte Kette; vom Design über die Produktion bis zur Distribution
+Unser Ansatz: Werkzeuge reisen, Paletten nicht. Wir setzen das Werkzeug in dem Werk ein, das dem Kunden am nächsten liegt. Für Kunden im Vereinigten Königreich kann das das Werk in Chesterfield sein: kurze Transportwege und kein Grenzübertritt für die Paletten selbst. Mehr über [lokale Produktion](@about-local).
 
-Möchten Sie mehr über unsere Möglichkeiten im Bereich der Kunststoffpaletten erfahren? Oder haben Sie andere Fragen zu unserem Sortiment? Dann nehmen Sie mit uns Kontakt auf. Wir helfen Ihnen gerne weiter.
+Sie benötigen kleinere Mengen? Dann wenden Sie sich an einen [Händler in Ihrer Nähe](@dealers). Im Vereinigten Königreich arbeiten wir unter anderem mit dem Händler Goplasticpallets.com zusammen.
+
+Sie exportieren ins Vereinigte Königreich oder sind dort ansässig? [Fordern Sie ein Angebot an](@quote), Sie erhalten in der Regel innerhalb eines Werktags einen individuellen Preis.

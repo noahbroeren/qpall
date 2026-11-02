@@ -1,48 +1,55 @@
 ---
 id: news-logistics-update
-title: "Update on global logistics and Q-Pall plastic pallets"
-description: "Middle East tensions are straining global supply chains. Read how Q-Pall's European production keeps supply reliable and why safety stock matters now."
+title: "Update on global logistics and Q-Pall pallets – Q-Pall"
+description: "How did Q-Pall handle the pressure on global logistics in March 2026? European production, reliable supply, transport costs and safety stock explained."
 eyebrow: "News"
 tag: "Supply chain"
-crumb: "Update on global logistics and Q-Pall"
+crumb: "Logistics update March 2026"
 h1: "Update on **global logistics** and Q-Pall plastic pallets"
-lead: "Global supply chains are currently experiencing significant pressure due to geopolitical developments in the Middle East. However, Q-Pall maintains a stable position and high reliability of supply through local European production. To safeguard operational efficiency, we advise organizations to critically review safety stock levels, while we transparently manage rising transport costs to ensure continued partnership."
-img_alt: "Update on global logistics and Q-Pall plastic pallets"
-reading: 3
+lead: "In March 2026, developments in the Middle East put global logistics under pressure. Q-Pall kept supplying reliably thanks to production and sourcing within Europe. Transport costs, however, did rise."
+img_alt: "Tall stacks of orange plastic pallets in a warehouse"
+reading: 2
 published: '2026-03-26'
+updated: '2026-11-02'
 ---
 > **In short**
 >
-> Global logistics is currently under pressure from geopolitical developments in the Middle East. Even so, Q-Pall keeps a stable position and high delivery reliability thanks to production that is entirely European. To keep operations running smoothly, we advise customers to review their safety stock, while we manage rising transport costs transparently to keep our partnership strong.
+> * In March 2026, developments in the Middle East put pressure on global logistics and raw material markets.
+> * Q-Pall produces and sources entirely within Europe and therefore remained a reliable supplier.
+> * Transport rates rose sharply. Where transport costs demonstrably increased, we passed them on transparently.
+> * We increased our safety stock and advised customers to review their own stock levels.
 
 ## Impact on global logistics
 
-The recent developments in the Middle East and their impact on global logistics and raw material markets have certainly not gone unnoticed by us. The situation is evolving rapidly and is already having a noticeable effect on availability, lead times, and costs across the supply chain.
+In spring 2026, developments in the Middle East had a clear impact on global logistics and raw material markets. The situation changed quickly. Availability, lead times and costs came under pressure across the entire supply chain.
 
 ## A stable European position
 
-At the same time, we would like to emphasize that Q-Pall is currently still operating from a relatively stable position. Our production and sourcing take place entirely within Europe.
+During that period, Q-Pall operated from a relatively stable position. Our production and sourcing take place entirely within Europe: we make our pallets in [six factories across Europe](@about-local) and buy recycled material in the region wherever possible.
 
-> "This makes us less dependent on intercontinental raw material flows and enables us to respond more quickly to changes where necessary."
+> "This makes us considerably less dependent on intercontinental raw material flows and enables us to respond more quickly to changes where necessary."
 
-## Transport pressure & safety stock
+Why local production makes the supply chain more resilient is explained in our article on [local production as a pillar for supply chain resilience](@news-local).
 
-We do, however, see increasing pressure on transport, and transport rates have now risen significantly. Where these costs demonstrably increase, we are obliged to pass them on in line with our usual way of working. Naturally, we do so with great care and full transparency.
+## Transport pressure and safety stock
 
-To safeguard continuity of supply, we are also taking additional measures. For example, we are increasing our safety stock in order to absorb fluctuations more effectively. We see that this is becoming an increasingly important topic for our customers as well. We therefore strongly advise you to critically review your own safety stock levels in the short term and, where necessary, increase them in time, aligned with developments in your market.
+The pressure on transport did increase, and transport rates rose considerably. Where these costs demonstrably went up, we passed them on in line with our usual way of working. We did so carefully and with full transparency.
 
-## What this means in practice
+To safeguard deliveries, we took additional measures. For example, we increased our safety stock to absorb market fluctuations more effectively. For many customers, this also became an important issue. We therefore advised them to review their own safety stock critically and, where necessary, to increase it in good time.
 
-With the exception of transport costs, we currently see no direct reason to adjust our prices. At the same time, we also recognize that rising transport costs do not only have a direct impact, but can also indirectly affect the cost of raw materials and semi-finished products. Given the current market dynamics, it is difficult to predict how this situation will develop further or how long it will continue.
+## What this meant in practice
 
-- New enquiries and orders will be based on the latest cost developments.
-- Existing quotations and assumptions may, if necessary, be reviewed in line with the current market situation.
-- Transport components may be adjusted separately when circumstances require this.
-- Our starting point remains unchanged: **reliability of supply, transparency, and partnership**. Especially under these circumstances, we believe in short lines of communication and open dialogue, so that together we can continue building stable and predictable solutions.
+Apart from transport costs, we saw no direct reason to adjust our prices. Rising transport costs can, however, have an indirect effect on the purchase prices of raw materials and semi-finished products. How the situation would develop, and how long it would last, was hard to predict. We therefore worked on three principles:
 
-### Ready to secure your supply chain?
+* **New enquiries and orders.** These were based on the latest cost developments.
+* **Existing quotations.** These could be reviewed in line with the market situation if necessary.
+* **Transport.** The transport component could be adjusted separately when circumstances required.
 
-Should you wish to discuss ongoing matters or look ahead to the coming period, we are of course ready to support you.
+Our starting point remained unchanged: **reliability of supply, transparency and partnership**. Especially in a period like this, short lines of communication and an open dialogue work best. Read more about our role in the supply chain on the page [plastic pallets for logistics](@sector-logistics).
+
+## Preparing your supply chain
+
+Would you like to discuss your stock planning or current orders with us? Our specialists will be glad to think along with you.
 
 [Contact our experts](@contact){: .btn .btn-primary}
 {: .btn-row}

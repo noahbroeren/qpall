@@ -6,11 +6,11 @@ eyebrow: "Notizie"
 tag: "Supply chain"
 crumb: "La produzione locale come pilastro"
 h1: "Da tendenza a necessità: la **produzione locale** come pilastro della resilienza della supply chain"
-lead: "In un mondo instabile il nearshoring non è più un’opzione strategica, ma un requisito per la gestione del rischio. La produzione locale di attrezzature logistiche porta tre vantaggi: resilienza, meno emissioni scope 3 e un costo totale (TCO) più basso."
+lead: "In un mondo instabile il nearshoring non è più un’opzione, ma un requisito per la gestione del rischio. La produzione locale di attrezzature logistiche porta tre vantaggi: resilienza, meno emissioni scope 3 e un TCO più basso."
 img_alt: "Robot e presse a iniezione nel reparto produttivo dello stabilimento Q-Pall di Balk"
-reading: 5
+reading: 3
 published: '2026-01-22'
-updated: '2026-10-19'
+updated: '2026-11-02'
 ---
 > **In breve**
 >
@@ -29,7 +29,7 @@ Conflitti come quello in Ucraina e le tensioni su rotte commerciali cruciali com
 
 ### Più trasparenza nella filiera
 
-Anche le normative hanno un peso crescente. Le grandi aziende devono poter dimostrare sempre più chiaramente da dove provengono i loro prodotti e quale impatto ambientale hanno, comprese le emissioni della loro catena di fornitura (scope 3). Un’attrezzatura logistica come un pallet che ha attraversato mezzo mondo si concilia male con queste esigenze.
+Anche le normative hanno un peso crescente. Le grandi aziende devono poter dimostrare sempre più chiaramente da dove provengono i loro prodotti e quale impatto ambientale hanno, comprese le emissioni della loro catena di fornitura (scope 3). Un’attrezzatura logistica come un pallet che ha attraversato mezzo mondo si concilia male con queste esigenze. Come mappare le dipendenze della vostra catena lo spieghiamo in [dalla dipendenza globale alla resilienza locale](@news-local-resilience).
 
 ## Il modello Q-Pall: produrre vicino al cliente
 
@@ -45,9 +45,9 @@ Un approccio regionale rende anche i prezzi più stabili. Le tariffe dei contain
 
 La produzione locale permette anche di controllare il flusso delle materie prime: la *chain of custody*. È essenziale per le aziende che prendono sul serio i propri obiettivi ESG e vogliono evitare il greenwashing.
 
-I nostri pallet sono realizzati in plastica riciclata, una miscela di HDPE (codice 2) e PP. Per saperne di più su questo materiale leggete [PE-HD 2 riciclato (HDPE 2): cos’è esattamente?](@news-hdpe) Poiché acquistiamo il riciclato vicino a casa, abbiamo una visione diretta della sua qualità e provenienza. I rifiuti non attraversano mezzo mondo prima di avere una nuova vita. Il rifiuto locale diventa materia prima locale e poi un prodotto locale.
+I nostri pallet standard sono realizzati in plastica riciclata, una miscela di HDPE (codice 2) e PP (codice 5). Per saperne di più su questo materiale leggete [PE-HD 2 riciclato (HDPE 2): cos’è esattamente?](@news-hdpe) Poiché acquistiamo il riciclato vicino a casa, abbiamo una visione diretta della sua qualità e provenienza. I rifiuti non attraversano mezzo mondo prima di avere una nuova vita. Il rifiuto locale diventa materia prima locale e poi un prodotto locale.
 
-Il risultato è un pallet tecnicamente valido (resistente agli urti, alle intemperie e igienico) che racconta una storia onesta nel vostro report di sostenibilità. A fine vita il pallet è completamente riciclabile, all’interno della stessa filiera regionale.
+Il risultato è un pallet tecnicamente valido (resistente agli urti e alle intemperie, e facile da pulire) che racconta una storia onesta nel vostro report di sostenibilità. A fine vita il pallet è completamente riciclabile, all’interno della stessa filiera regionale. Cosa significa la produzione locale per trasporti, CO₂ e riciclato lo spieghiamo in [produzione locale di pallet in plastica e sostenibilità](@news-local-sustainability).
 
 ## Il futuro è regionale
 

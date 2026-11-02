@@ -11,7 +11,7 @@ faq:
   - q: "Posso rendere più stabile un pallet incastrabile?"
     a: "Sì. Su molti pallet incastrabili con 9 piedi potete agganciare delle [slitte](@acc-runners), senza attrezzi. Ottenete così un pallet con 3 slitte che scorre meglio sulle rulliere. Poiché montate le slitte solo sul posto, mantenete il vantaggio dell’incastro."
   - q: "I pallet incastrabili sono adatti alle scaffalature porta-pallet?"
-    a: "No, i pallet incastrabili sono pallet Light per trasporto, esportazione e stoccaggio a terra. Per le scaffalature scegliete un pallet Medium o Heavy con slitte."
+    a: "Di solito no. Quasi tutti i nostri pallet incastrabili sono pallet Light per trasporto, esportazione e stoccaggio a terra. Solo alcuni pallet espositori incastrabili esistono in versione Medium e Heavy. Per le scaffalature scegliete un pallet Medium o Heavy con slitte."
 ---
 
 ## Come funziona l’incastro?

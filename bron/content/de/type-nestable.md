@@ -11,7 +11,7 @@ faq:
   - q: "Kann ich eine nestbare Palette stabiler machen?"
     a: "Ja. An viele nestbare Paletten mit 9 Füßen können Sie ohne Werkzeug [Kufen](@acc-runners) klicken. So erhalten Sie eine Palette mit 3 Kufen, die besser auf Rollenbahnen läuft. Weil Sie die Kufen erst vor Ort montieren, behalten Sie den Vorteil des Nestens."
   - q: "Sind nestbare Paletten für Palettenregale geeignet?"
-    a: "Nein, nestbare Paletten sind Light-Paletten für Transport, Export und Bodenlagerung. Für die Regallagerung wählen Sie eine Medium- oder Heavy-Palette mit Kufen."
+    a: "Meistens nicht. Fast alle unsere nestbaren Paletten sind Light-Paletten für Transport, Export und Bodenlagerung. Nur einige nestbare Displaypaletten gibt es in Medium und Heavy. Für die Regallagerung wählen Sie eine Medium- oder Heavy-Palette mit Kufen."
 ---
 
 ## Wie funktioniert das Nesten?

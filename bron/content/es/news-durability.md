@@ -1,27 +1,61 @@
 ---
 id: news-durability
 title: "Así garantizamos la sostenibilidad de nuestros palets"
-description: "Material reciclado, menos emisiones de CO2 y procesos energéticamente eficientes: así garantiza Q-Pall la sostenibilidad de sus palets de plástico."
+description: "People, Planet, Profit: así garantiza Q-Pall la sostenibilidad de sus palets de plástico, con producción local, plástico reciclado y menos residuos."
 eyebrow: "Noticias"
 tag: "Sostenibilidad"
-crumb: "Así garantizamos la sostenibilidad de"
+crumb: "Sostenibilidad de nuestros palets"
 h1: "Así garantizamos **la sostenibilidad de nuestros palets de plástico**"
-lead: "Material reciclado, menos emisiones de CO2 y procesos energéticamente eficientes: así garantiza Q-Pall la sostenibilidad de sus palets de plástico."
-img_alt: "Así garantizamos la sostenibilidad de nuestros palets de plástico"
+lead: "Una empresa sostenible piensa en People, Planet y Profit. Así garantizamos la sostenibilidad de nuestros palets de plástico: de la materia prima al transporte, hasta la evaluación independiente."
+img_alt: "Vista aérea de un pólder con aerogeneradores junto al agua"
 reading: 3
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-**La sostenibilidad es un concepto que desempeña un papel cada vez más importante en el mundo empresarial. Ya no se trata solo de generar beneficios. Por supuesto, el beneficio sigue siendo una parte esencial del negocio, pero no a cualquier precio. La sostenibilidad empresarial o la responsabilidad social corporativa tiene en cuenta los aspectos humanos, naturales y económicos. Esto también se conoce como People, Planet y Profit. Nuestros procesos de producción y los materiales que utilizamos están alineados con los principios de sostenibilidad. ¿Cómo garantizamos la sostenibilidad de nuestros palets de plástico?**
+> **En resumen**
+>
+> * Una empresa sostenible tiene en cuenta a las personas, el medio ambiente y la economía: People, Planet y Profit.
+> * Producimos localmente en seis fábricas europeas. El molde viaja, los palets no.
+> * Fabricamos nuestros palets estándar con plástico reciclado casi al 100%: 34.500 toneladas en 2025.
+> * En la producción apostamos por un diseño ligero, menos pérdidas de material y la reutilización de los restos de producción.
+> * EcoVadis evalúa de forma independiente nuestro desempeño. En octubre de 2026 volvimos a obtener el bronce.
 
-## Reducción de emisiones de CO2
+## ¿Qué es una empresa sostenible?
 
-La producción y distribución de nuestros **palets de plástico** requiere energía, y el uso de energía genera gases residuales. Esto se debe principalmente a la combustión de combustibles fósiles como el carbón, el petróleo y el gas. Uno de estos gases es el CO2, conocido también como gas de efecto invernadero. La emisión de este gas contribuye al cambio climático, lo que provoca el calentamiento global. Este calentamiento provoca el derretimiento de los casquetes polares y, como resultado, el aumento del nivel del mar. Para combatir esto, Q-PALL se enfoca en una reducción de las emisiones de CO2 durante el transporte. El transporte representa el 80 % de las emisiones de CO2 de esta industria. Por ello, los palets se producen donde se necesitan, trasladando el molde del palet requerido a la planta de producción europea más cercana. Este método de producción reduce significativamente los kilómetros recorridos y, por ende, las emisiones de CO2. Un beneficio adicional es que los costos de transporte también se minimizan.
+La sostenibilidad tiene un papel cada vez más importante en el mundo empresarial. Obtener beneficios sigue siendo importante, pero no a cualquier precio. En una gestión sostenible o socialmente responsable, la empresa tiene en cuenta aspectos humanos, naturales y económicos: People, Planet y Profit.
 
-## Palets de plástico hechos con materiales reciclados
+Nuestros procesos de producción y el material que utilizamos encajan en esta forma de trabajar. A continuación le explicamos cómo garantizamos la sostenibilidad de nuestros palets de plástico.
 
-Otro aspecto importante de la sostenibilidad empresarial es la reducción de los desechos plásticos. Uno de los problemas más conocidos es la “sopa de plástico”, una gran acumulación de desechos plásticos que flota en los océanos. Esto amenaza a los animales marinos, así como a las plantas y corales, que también sufren enormemente. La conciencia sobre este problema es ahora generalizada, ¡y no actuar ya no es una opción! Un **palet de plástico** es sostenible en muchos aspectos, especialmente porque el plástico puede reciclarse eficazmente. Por esta razón, en las operaciones de Q-PALL, el reciclaje de materiales desempeña un papel central. Y funciona. Al fundar la empresa, el objetivo era reciclar el 90 % del plástico. Este objetivo se ha superado ampliamente: actualmente, el 98 % de los palets están hechos de materiales reciclados. Además, apoyamos proyectos que crean conciencia sobre el problema de los desechos plásticos.
+## Menos CO₂ gracias a la producción local
 
-## Enfoque en la reducción
+Producir y transportar palets consume energía. Al quemar combustibles fósiles como el carbón, el petróleo y el gas se libera CO₂. Este gas de efecto invernadero contribuye al calentamiento global.
 
-En la reducción de los diversos procesos de producción, Q-PALL presta especial atención a su **huella ecológica**. Esto es especialmente importante porque la materia prima del producto, el plástico, puede tener un impacto negativo en el medio ambiente. La investigación y el conocimiento de nuestra huella ecológica proporcionan información que nos ayuda a mejorar aún más la sostenibilidad ambiental de nuestros productos, incluidos los palets. Seguimos buscando formas de minimizar las emisiones de gases de efecto invernadero. Esto incluye establecer objetivos de diseño estrictos para alcanzar altos estándares de eficiencia energética y de materiales. Al ampliar nuestra gama de palets de plástico, nos enfocamos en diseños ligeros, reducción de pérdidas de rendimiento y reutilización de componentes y desechos de producción. Estos esfuerzos resultan en una reducción del consumo de agua y energía, de las emisiones de CO2 y de los desechos.
+En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Un camión lleno de palets transporta sobre todo aire. Por eso colocamos el molde de un palet en la fábrica más cercana al cliente. Así, los propios palets no tienen que recorrer largas distancias.
 
-Estos tres pilares garantizan que Q-PALL produzca de manera sostenible y ofrezca palets sostenibles. ¿Quieres saber más? ¿O tienes otras preguntas sobre nuestra gama? No dudes en ponerte en contacto con nosotros. ¡Estaremos encantados de ayudarte!
+Producimos en seis fábricas: en Balk, Ribe, Marktoberdorf, Nantes, Lleida y Chesterfield. Casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall. Eso ahorra muchos kilómetros, emisiones de CO₂ y costes de transporte. Más información sobre la [producción local](@about-local).
+
+## Palets de plástico reciclado
+
+Otro punto importante es reducir los residuos plásticos. La «sopa de plástico» de los océanos amenaza a animales, plantas y corales. Los palets de plástico son sostenibles en varios sentidos, entre otras cosas porque el plástico se puede reutilizar bien.
+
+Por eso el reciclaje desempeña un gran papel en Q-Pall. Al fundarse la empresa en 2005, el objetivo era reutilizar el 90% del plástico. Ese objetivo se ha superado con creces: fabricamos nuestros palets estándar con plástico reciclado casi al 100%, una mezcla de HDPE y PP.
+
+En 2025 procesamos 34.500 toneladas de plástico reciclado, unos 1.475 camiones completos. Al final de su vida útil, nuestros palets son totalmente reciclables. Además, apoyamos proyectos que llaman la atención sobre el problema de los residuos plásticos.
+
+## Menos consumo en la producción
+
+También en la producción vigilamos nuestra huella ecológica. Conocerla nos ayuda a seguir mejorando el comportamiento ambiental de nuestros palets. Ponemos el listón alto con objetivos de diseño estrictos en eficiencia energética y de materiales.
+
+En los nuevos palets nos fijamos sobre todo en:
+
+* **Diseño ligero.** Se necesita menos material por palet.
+* **Menos pérdidas de material.** Limitamos los rechazos y las pérdidas en la producción.
+* **Reutilización de piezas y restos de producción.** El material sobrante vuelve al proceso.
+
+Así reducimos el consumo de agua y energía, el uso de materiales, las emisiones de CO₂ y los residuos. Nuestro [edificio de Veghel](@news-hq), que alberga la sede central, el centro operativo europeo y el almacén, cuenta además con bomba de calor y paneles solares, entre otras cosas.
+
+## Evaluación independiente
+
+EcoVadis evalúa de forma independiente nuestro desempeño en sostenibilidad. En abril de 2023 obtuvimos la [medalla de plata](@news-ecovadis-silver). En 2025 llegó la medalla de bronce, que volvimos a obtener en octubre de 2026. Con ella estamos entre el 35% de las empresas mejor valoradas. Más información en nuestra página de [sostenibilidad](@about-sustainability).
+
+Así producimos de forma sostenible y suministramos palets sostenibles. ¿Quiere saber qué significa esto para su cadena de suministro o su informe de sostenibilidad? [Contacte con nosotros](@contact).

@@ -1,25 +1,67 @@
 ---
 id: news-environment
 title: "Pallet in plastica e ambiente: cosa sapere – Q-Pall"
-description: "Che ruolo hanno i pallet in plastica nella responsabilità sociale d’impresa? Scoprite cosa sapere su carbon footprint, CO2 e scelta tra legno e plastica."
+description: "Come si inseriscono i pallet in plastica in una gestione sostenibile? Impronta di carbonio, plastica riciclata, riutilizzo, riciclo e PPWR: cosa sapere."
 eyebrow: "Notizie"
 tag: "Sostenibilità"
-crumb: "Pallet in plastica e ambiente: cosa sapere"
+crumb: "Pallet in plastica e ambiente"
 h1: "Pallet in plastica e ambiente: **cosa sapere**"
-lead: "Che ruolo hanno i pallet in plastica nella responsabilità sociale d’impresa? Scoprite cosa sapere su carbon footprint, CO2 e scelta tra legno e plastica."
-img_alt: "Pallet in plastica e ambiente: cosa sapere"
+lead: "Sempre più aziende, nella scelta dei pallet, guardano anche all’impatto ambientale. Da dove nasce l’impronta di carbonio di un pallet in plastica e come fare una scelta consapevole?"
+img_alt: "Due impronte di piedi fatte d’erba su sfondo bianco"
 reading: 3
+faq:
+- q: "Cos’è l’impronta di carbonio?"
+  a: "L’impronta di carbonio (carbon footprint) misura le emissioni di gas serra, espresse in chilogrammi di CO₂ equivalente. Per un pallet contano, tra l’altro, la materia prima, la produzione e il trasporto."
+- q: "I pallet in plastica sono sostenibili?"
+  a: "Sì, se durano a lungo e vengono poi riciclati. I nostri pallet sono realizzati in plastica riciclata quasi al 100%, durano molti anni e a fine vita sono completamente riciclabili. Inoltre produciamo localmente, quindi servono meno trasporti."
+- q: "Il PPWR si applica anche ai pallet?"
+  a: "Sì. I pallet sono imballaggi per il trasporto e rientrano nel regolamento europeo sugli imballaggi, che si applica dal 12 agosto 2026. Q-Pall fornisce per ogni modello una dichiarazione PPWR scaricabile dalla pagina del prodotto."
+published: '2022-01-09'
+updated: '2026-11-02'
 ---
-Quando scegli dei pallet devi considerare per cosa ne hai bisogno e le funzionalità che deve avere. Puoi scegliere tra quelli in legno e quelli in plastica. Questa scelta è sempre più associata a ragioni ambientali delle aziende. La responsabilità sociale aziendale è un tema importante per n numero sempre maggiore di società. Qual è il ruolo che hanno i pallet in plastica? Discutiamo tutto quello che vuoi sapere sui pallet in plastica e la consapevolezza ambientale.
+> **In breve**
+>
+> * Nella scelta di un pallet conta la funzione, ma sempre più spesso anche l’impatto ambientale.
+> * L’impronta di carbonio di un pallet nasce soprattutto da materia prima, produzione e trasporto.
+> * Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%, in sei stabilimenti vicini ai clienti.
+> * Riutilizzo e riciclo a fine vita riducono ulteriormente l’impatto.
+> * Dal 12 agosto 2026 si applica il regolamento europeo sugli imballaggi PPWR, anche ai pallet.
 
-## Carbon footprint
+## Scegliere i pallet pensando all’ambiente
 
-L’ambiente è un tema importante. Siamo sempre più consapevoli del nostro impatto sull’ambiente e sui cambiamenti climatici. Le emissioni di CO2 o l’anidride carbonica hanno un ruolo importante in tutto questo. La CO2 è il gas serra più importante emesso dagli umani. L’impronta di CO2 o la carbon footprint è una **misura delle emissioni di CO2 attraverso l’uso di combustibili fossili** nel traffico, nel settore dell’aviazione, nella produzione di elettricità, riscaldamento, ecc. Molte società hanno da tempo concentrato le loro attenzioni sul tema dei gas serra. Le emissioni di gas serra influenzano il clima della terra sulla terraferma, in mare e in aria. **Per avere un’idea dell’impatto ambientale dei pallet in plastica abbiamo deciso di calcolare la carbon footprint di questi prodotti.** Per determinare la carbon footprint, si calcola il diossido di carbone equivalente a produrre un pallet, espresso in chilogrammi (kg CO2 eq.). La maggior parte delle emissioni di CO2 risulta dall’estrazione di materiale grezzo il trasporto e la produzione dei prodotti finali.
+Nella scelta dei pallet guardate prima a cosa serve il pallet e quale funzione deve svolgere. Poi scegliete tra legno e plastica. Questa scelta è sempre più legata alla responsabilità sociale d’impresa (RSI).
 
-## Carbon Footprint e Q-Pall
+Per molte aziende l’impatto ambientale dei prodotti è ormai un criterio di decisione fisso, accanto a prezzo e qualità. Vale anche per le unità di carico come i pallet. Qui di seguito vedete da dove nasce questo impatto e come limitarlo.
 
-Q-Pall conosce il suo impatto ambientale. Dopotutto il futuro dell’ambiente determina il futuro della terra e quindi delle persone. Inoltre, il carbon footprint sta diventando un fattore sempre più determinante nei parametri decisionali delle aziende che vogliono confrontare i prodotti oltre ai criteri come prezzo e qualità. Ovviamente questo ha un ruolo importante per quanto riguarda i pallet in plastica. Q-Pall utilizza i risultati dell’analisi della carbon footprint per i pallet in plastica come una misura base e un punto di partenza per migliorar le prestazioni ambientali dei suoi prodotti. L’innovazione è importante, anche nello sviluppo di nuovi tipi di pallet. Riteniamo sia importante avere un’attenzione per la sostenibilità. Grazie a obbiettivi di progettazione per l’efficienza energetica e dei materiali, Q-Pall vuole limitare le sue emissioni di gas serra. I documenti della Dichiarazione Ambientale di Prodotto (EPD) sono disponibili per tutti i tipi di pallet in plastica.
+## Cos’è l’impronta di carbonio?
 
-### Riutilizzo sostenibile
+L’impronta di carbonio, o *carbon footprint*, misura le emissioni di gas serra, di cui la CO₂ è il più importante. La CO₂ viene emessa soprattutto con l’uso di combustibili fossili, per esempio per trasporti, elettricità e riscaldamento.
 
-Se CSR è una parte importate della tua azienda allora potresti scegliere dei pallet usati. Riutilizzare i pallet limita i rifiuti di materiali grezzi, una considerazione importante per un’azienda sostenibile. Questo rende la scelta di pallet in plastica la più logica. Quando riutilizzi pallet in plastica hai un impatto inferiore sull’ambiente. Questo è un fattore logico da considerare. Quando riutilizzi i pallet in plastica hai un impatto inferiore sull’ambiente. Questo può essere una cosa da considerare quando si scelgono pallet usati. I pallet usati sono disponibili in diversi modelli e tipi. Vuoi saperne di più sui pallet in plastica e la consapevolezza ambientale? O hai altre domande riguardo la nostra gamma e le diverse possibilità? Contattaci per maggiori informazioni. Siamo lieti di aiutarti con consigli personalizzati!
+Per un prodotto come un pallet, tutti i gas serra necessari a produrlo vengono convertiti in chilogrammi di CO₂ equivalente (kg CO₂e). La maggior parte delle emissioni nasce dall’estrazione delle materie prime, dal trasporto e dalla produzione.
+
+## Da dove nascono le emissioni di un pallet?
+
+* **Materia prima.** Estrarre e produrre nuove materie prime richiede molta energia. Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%, una miscela di HDPE e PP. Così sostituiamo la materia prima nuova con plastica che esiste già.
+* **Produzione.** Nello sviluppo di nuovi pallet applichiamo obiettivi di progettazione severi per l’efficienza energetica e dei materiali.
+* **Trasporto.** Nel settore dei pallet la maggior parte delle emissioni di CO₂ deriva dal trasporto. Per questo produciamo [localmente](@about-local), in sei stabilimenti distribuiti in tutta Europa. Quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento Q-Pall.
+* **Fine vita.** A fine vita i nostri pallet sono completamente riciclabili. Il materiale diventa materia prima per nuovi pallet.
+
+## Come Q-Pall usa l’impronta di carbonio
+
+Q-Pall è consapevole del proprio impatto sull’ambiente. Abbiamo calcolato l’impronta di carbonio dei pallet in plastica e usiamo il risultato come base di partenza per migliorare le prestazioni ambientali dei nostri prodotti. Questo ha un ruolo importante anche nello sviluppo di nuovi pallet.
+
+Le nostre prestazioni in materia di sostenibilità sono inoltre valutate in modo indipendente da EcoVadis. Nell’ottobre 2026 abbiamo ottenuto di nuovo la medaglia di bronzo, che ci colloca nel 35% migliore delle aziende valutate. Per saperne di più visitate la pagina [sostenibilità](@about-sustainability).
+
+## Riutilizzare è sostenibile
+
+La RSI è una parte importante della vostra attività? Allora valutate anche i pallet in plastica usati. Riutilizzando i pallet si spreca la minor quantità possibile di materie prime.
+
+Con [Q-Used](@used) offriamo pallet in plastica usati e controllati, in diversi modelli. Costano fino al 40% in meno dei pallet nuovi. L’offerta cambia: chiedeteci la disponibilità attuale.
+
+## Cosa significa il PPWR
+
+Anche la legislazione chiede più attenzione all’ambiente. Il regolamento europeo sugli imballaggi PPWR è entrato in vigore a febbraio 2025 e si applica dal 12 agosto 2026. I pallet sono imballaggi per il trasporto e quindi rientrano anch’essi nel regolamento.
+
+Dal 2030 gli imballaggi dovranno essere riciclabili in classe A, B o C, dove la classe C significa almeno il 70%. Q-Pall fornisce per ogni modello una dichiarazione PPWR scaricabile dalla pagina del prodotto. Per approfondire leggete la nostra guida [PPWR e pallet in plastica](@guide-ppwr).
+
+Volete sapere quale pallet è adatto alla vostra applicazione e ai vostri obiettivi di sostenibilità? [Contattateci](@contact), saremo lieti di consigliarvi.

@@ -11,8 +11,15 @@ lead: "Vier eigenschappen die het verschil maken tussen een pallet die uw proces
 img_alt: "Robot pakt een kunststof pallet op in de productie in Balk"
 reading: 4
 published: '2026-05-26'
-updated: '2026-10-19'
+updated: '2026-11-02'
 ---
+> **In het kort**
+>
+> * Veel kleine incidenten in de logistiek zijn terug te voeren op de eigenschappen van de pallet.
+> * Vier eigenschappen tellen echt: niet poreus, geen splinters, een constant gewicht en een constante maat.
+> * Ze leveren minder afkeur, minder schade, een betrouwbare tarra en minder storingen in geautomatiseerde lijnen op.
+> * Kunststof pallets vallen bovendien buiten ISPM 15, de exportregels voor houten verpakkingen.
+
 In de meeste organisaties is de pallet de stilste schakel in de keten. Niemand schrijft er een KPI voor en niemand neemt hem mee in de jaarrapportage. Hij staat onder de lading, en dat is dat.
 
 Tot het misgaat. Een splinter in een hand of in een product. Een houten plank die net te smal is voor de sensor van een AGV. Een lading die op de weegbrug 3 kilo zwaarder is dan op de pakbon. Een schimmelplek op een pallet die net uit het buitenmagazijn komt. Een douanebeambte die om een ISPM 15-merkteken vraagt.
@@ -21,9 +28,11 @@ Geen van deze incidenten staat los van de pallet. Ze zijn allemaal terug te voer
 
 ## 1. Niet poreus
 
-Een pallet die geen vocht opneemt, neemt ook geen schimmel, geur of bacteriën op. Voor voedselverwerking, farma, koelketens en cleanrooms is dat geen voordeel, maar een voorwaarde.
+Een pallet die geen vocht opneemt, geeft schimmel en geur geen kans om in het materiaal te trekken. Hij is bovendien goed te reinigen. Voor voedselverwerking, farma, koelketens en cleanrooms is dat geen voordeel, maar een voorwaarde.
 
 Ook buiten die sectoren telt het. Een zending droge stoffen op een vochtige houten pallet is een klacht in wording. Een product op een pallet die geur of resten heeft opgenomen, komt als retour terug.
+
+Komt de lading direct in contact met levensmiddelen, of werkt u in een cleanroom? Kies dan voor [hygiënische pallets](@type-hygienic) van virgin kunststof. Onze pallets van gerecycled kunststof zijn niet bedoeld voor direct contact met levensmiddelen.
 
 **Wat het oplevert:** minder afkeur, minder retouren en minder discussie met uw afnemer over de staat van de pallet.
 
@@ -59,4 +68,6 @@ Een pallet is niet het belangrijkste onderdeel van uw logistieke keten. Maar hij
 
 De vraag is dus niet welk materiaal beter is. De vraag is welke eigenschappen uw proces nodig heeft, en wat het u oplevert als die niet langer variabel zijn.
 
-Bij Q-Pall maken we pallets van gerecycled kunststof. Niet poreus, zonder splinters, constant in gewicht en maat, met [PPWR](@guide-ppwr)-documentatie en vrij van ISPM 15. Twijfelt u tussen hout en kunststof? Lees dan [kunststof of houten pallets](@guide-wood).
+Bij Q-Pall maken we onze standaardpallets van gerecycled kunststof. Niet poreus, zonder splinters, constant in gewicht en maat, met [PPWR](@guide-ppwr)-documentatie en vrij van ISPM 15. Twijfelt u tussen hout en kunststof? Lees dan [kunststof of houten pallets](@guide-wood).
+
+Wilt u weten welke pallet het best bij uw proces past? [Neem contact met ons op](@contact), dan denken we met u mee.

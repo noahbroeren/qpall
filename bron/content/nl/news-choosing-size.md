@@ -1,31 +1,57 @@
 ---
 id: news-choosing-size
 title: "De juiste palletafmeting kiezen: hierop let u – Q-Pall"
-description: "Welke palletafmeting heeft u nodig? Hier leest u hoe de lading, de verpakking en de belasting bepalen welke kunststof pallet het beste bij u past."
+description: "Welke palletafmeting heeft u nodig? Lees hoe uw lading, transport, opslag en automatisering bepalen welke maat kunststof pallet het best bij u past."
 eyebrow: "Nieuws"
 tag: "Kennis"
 crumb: "De juiste palletafmeting kiezen"
 h1: "De juiste palletafmeting kiezen: **hierop let u**"
-lead: "Welke palletafmeting heeft u nodig? Hier leest u hoe de lading, de verpakking en de belasting bepalen welke kunststof pallet het beste bij u past."
-img_alt: "De juiste palletafmeting kiezen: hierop let u"
+lead: "Welke palletmaat heeft u nodig? Dat hangt af van uw lading, uw transport, de manier van opslaan en eventuele automatisering. Hierop let u bij het kiezen van de juiste afmeting."
+img_alt: "Zwarte kunststof pallet met open dek op drie onderlatten"
 reading: 3
+faq:
+- q: "Wat is de meest gebruikte palletmaat?"
+  a: "In Europa is dat de europallet van 1200 x 800 mm. In de industrie en in het Verenigd Koninkrijk wordt 1200 x 1000 mm veel gebruikt."
+- q: "Welke palletmaat past in een zeecontainer?"
+  a: "Voor zeecontainers zijn vierkante pallets van 1100 x 1100 mm en pallets van 760 x 1140 mm handig. Welke maat het best past, hangt af van het type container."
+- q: "Kan Q-Pall een pallet in een afwijkende maat maken?"
+  a: "Nee, we maken geen compleet nieuwe palletontwerpen. Met zo'n 130 modellen in negen formaten is er meestal een passende maat. Wel passen we bestaande modellen aan, bijvoorbeeld met een logo of een eigen kleur."
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-Op het moment dat u pallets nodig heeft, is het belangrijk dat u de juiste keuze maakt. Deze keuze hangt van een aantal aspecten af. Uiteraard speelt in dit keuzeproces mee waar u de pallets voor gaat gebruiken. Bij de keuze voor [kunststof pallets](@pallets) is het mogelijk om bijvoorbeeld een speciale hygiënische pallet te kiezen. Een ander punt waar u rekening mee dient te houden is de belasting. En natuurlijk moet u de juiste afmeting van de pallet kiezen. Maar waar moet u op letten bij het bepalen van de juiste afmeting?
+> **In het kort**
+>
+> * De juiste palletmaat begint bij uw lading: wat het is, hoe het is verpakt en hoe groot het is.
+> * De maat moet ook passen bij uw vrachtwagens, containers en stellingen.
+> * In een geautomatiseerd magazijn moeten pallets precies de maat hebben waarop de systemen zijn ingesteld.
+> * Q-Pall heeft zo'n 130 modellen in negen formaten, van 600 x 400 tot 1300 x 1100 mm.
+
+Als u pallets nodig heeft, wilt u de juiste keuze maken. Waar gebruikt u de pallets voor, hoe zwaar is de lading en moet de pallet bijvoorbeeld hygiënisch zijn? En welke afmeting heeft u nodig? Op die laatste vraag gaan we hier in. Alle standaardmaten vindt u in ons overzicht van [palletmaten](@guide-sizes).
 
 ## Wat is de lading van de pallet?
 
-Allereerst is het zaak om te bepalen waar de pallets voor gebruikt gaan worden. Wat is de lading die de pallets gaan dragen? Zijn dit *containers, bigbags, vaten* met vloeistof of bestaat de lading uit gekoelde producten en is hygiëne een vereiste? Dit bepaalt voor een belangrijk deel het type pallet dat nodig is. Aan de hand van de lading bepaalt u de juiste afmeting. Hoe is de lading verpakt en wat is de omvang hiervan? Ieder type pallet is leverbaar in meerdere afmetingen en dus vrijwel altijd leverbaar in een passend formaat.
+Bepaal eerst wat de pallets gaan dragen. Gaat het om dozen, containers, big bags of vaten met vloeistof? Of om gekoelde producten waarbij hygiëne een eis is? Dat bepaalt voor een groot deel welk type pallet u nodig heeft.
 
-## Worden de pallets gebruikt in een geautomatiseerde opslag?
+Kijk daarna naar de verpakking: hoe is de lading verpakt en hoe groot is die? Kies een maat waarop de verpakking goed past. Big bags en vaten staan bijvoorbeeld vaak op een vierkante pallet van 1140 x 1140 of 1200 x 1200 mm.
 
-Op het moment dat de [plastic pallets](@pallets) worden gebruikt in een omgeving waar automatisering zorgt voor de processen van opslag en transport, is het zaak dat de maten van de pallets daarbij passen. In een geautomatiseerd magazijn voorkomt dit maat- en vormvastheid storingen in het proces. Let er dus op dat u de keuze maakt voor de meest voorkomende gewenste maat zodat alles wat in deze omgeving wordt opgeslagen, past op de pallets. Dit scheelt u een hoop werk.
+## Past de maat bij uw transport?
+
+De pallets moeten ook passen in uw vrachtwagens, trailers en containers. In Europa is [1200 x 800 mm](@size-1200x800) de standaardmaat: de europallet. In de industrie en het Verenigd Koninkrijk is 1200 x 1000 mm gebruikelijk. Voor zeecontainers zijn 1100 x 1100 en 760 x 1140 mm handig. Hoeveel pallets er in uw vrachtwagen of container passen, rekent u uit met onze [laadcalculator](@calc).
+
+## Worden de pallets gebruikt in een geautomatiseerd magazijn?
+
+Werkt u met geautomatiseerde opslag en transport, zoals rollenbanen, AGV's of kraansystemen? Dan moeten de pallets precies passen bij de maten waarop die systemen zijn ingesteld. Een pallet die afwijkt in maat of vorm, kan het proces stilleggen.
+
+Kies daarom een maat die past bij het grootste deel van wat u in deze omgeving opslaat. Kunststof pallets hebben een vaste maatvoering en vervormen niet door vocht. Meer daarover leest u bij [kunststof pallets voor automatisering](@guide-automation).
 
 ## Hoe worden de pallets opgeslagen?
 
-De plastic pallets worden gebruikt bij transport maar veel van de afnemers gebruiken deze ook voor de opslag van goederen en producten. Essentieel is dan hoe deze worden opgeslagen. Is dit op de vloer, in een bepaald type palletstelling of in de buitenlucht? Het is van belang om hier naar te kijken. Moet er bijvoorbeeld gestapeld worden en welke formaten passen daarbij? Ons personeel en de dealers van Q-Pall kunnen u uiteraard voorzien – dankzij hun jarenlange ervaring en grondige kennis over de markt en ontwikkelingen – van het juiste productadvies.
+Veel klanten gebruiken pallets niet alleen voor transport, maar ook voor opslag. Hoe u opslaat, telt dan mee. Staan de pallets op de vloer, in een palletstelling of buiten? Moet er gestapeld worden, en welke formaten passen daarbij? Let bij stellingopslag ook op de stellingbelasting van het model. Onze specialisten en dealers adviseren u graag over het juiste model.
 
-## Op maat gemaakt
+## Ons assortiment en maatwerk
 
-Het assortiment plastic pallets is ruim, voor elke toepassing is een pallet. Het assortiment omvat meer dan 100 producten, die in diverse maten en kleuren verkrijgbaar zijn. Indien de kunststof pallet die u graag wenst niet leverbaar is, is het ook mogelijk om deze op maat te maken. Q-Pall maakt in aanvulling op het standaard programma [kunststof pallets](@pallets), op [klantspecifieke kunststof pallets](@about-custom).
+Ons assortiment telt zo'n 130 modellen in negen formaten, van 600 x 400 tot 1300 x 1100 mm, in drie belastingklassen: light, medium en heavy. Daardoor is er vrijwel altijd een passende maat.
 
-Kunststof pallets zijn er dus voor alle typen lading in diverse maten. Wilt u weten welke pallets of andere producten voor u geschikt zijn? Neem dan vrijblijvend contact met ons op voor meer informatie. Wij helpen u graag verder!
+Compleet nieuwe palletontwerpen maken we niet. Wel passen we bestaande modellen aan, bijvoorbeeld met een logo, een eigen kleur, een markering of een andere materiaalsamenstelling. Lees meer over [maatwerk](@about-custom).
+
+Wilt u weten welke maat en welk model bij uw lading passen? [Vraag een offerte aan](@quote), dan ontvangt u meestal binnen één werkdag een prijs op maat.

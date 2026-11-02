@@ -1,29 +1,59 @@
 ---
 id: news-goplastic
-title: "Diez años de colaboración de éxito – Q-Pall"
-description: "Goplasticpallets.com, distribuidor exclusivo de Q-Pall en el Reino Unido, celebra diez años de colaboración. Jim Hardisty repasa logros y futuro."
+title: "Diez años de colaboración con Goplasticpallets.com – Q-Pall"
+description: "En 2022, la colaboración entre Q-Pall y Goplasticpallets.com cumplió diez años. Jim Hardisty habla de servicio, stock y palets en el Reino Unido."
 eyebrow: "Noticias"
 tag: "Caso de cliente"
-crumb: "Diez años de colaboración de éxito"
-h1: "Diez años **de colaboración de éxito**"
-lead: "Goplasticpallets.com, distribuidor exclusivo de Q-Pall en el Reino Unido, celebra diez años de colaboración. Jim Hardisty repasa logros y futuro."
-img_alt: "Diez años de colaboración de éxito"
+crumb: "Diez años con Goplasticpallets.com"
+h1: "Diez años de colaboración con **Goplasticpallets.com**"
+lead: "En 2022, la colaboración entre Q-Pall y nuestro socio británico Goplasticpallets.com cumplió diez años. Su director general, Jim Hardisty, hizo balance y miró hacia el futuro."
+img_alt: "Camión de Goplasticpallets.com con el lateral abierto lleno de palets de plástico azules"
 reading: 3
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-Este año marca una década desde que Goplasticpallets.com – The Responsible Plastic Pallet Company firmó un acuerdo de exclusividad con Q-Pall BV, convirtiéndose en el distribuidor exclusivo en el Reino Unido de toda la gama de palets de plástico de Q-Pall. Ahora, diez años después, el director general de Goplasticpallets.com, Jim Hardisty, explica por qué esta colaboración es especial, comparte los productos que más han impactado el mercado británico y predice lo que depara el futuro.
+> **En resumen**
+>
+> * Goplasticpallets.com (All Pallets Ltd, Eastbourne) es el socio y distribuidor de Q-Pall en el Reino Unido.
+> * En 2022, la colaboración cumplió diez años.
+> * Goplasticpallets.com sirve directamente desde stock. Por eso Q-Pall tiene que poder suministrar grandes cantidades con rapidez.
+> * En el Reino Unido, los más solicitados eran los palets medium y heavy, además de los palets encajables para la distribución y la exposición.
+> * En 2022, Q-Pall tenía cuatro centros de producción. Hoy son seis, entre ellos Chesterfield, en el Reino Unido.
 
-"Al reflexionar sobre los últimos diez años de trabajo con Q-Pall, siento una gran satisfacción al ver hasta dónde hemos llegado juntos. La misión de Q-Pall es estar siempre en movimiento, porque 'el movimiento es progreso'. Durante todo este tiempo, Q-Pall no ha dejado de innovar, investigando constantemente nuevos productos para atender tanto a los mercados existentes como a los emergentes.
+## Diez años juntos
 
-Aunque el equipo de Q-Pall es relativamente pequeño, es extremadamente eficiente y ágil. Nos enorgullece ser los expertos en palets de plástico del Reino Unido, pero no siempre tenemos respuestas a todas las preguntas técnicas de nuestros clientes. En esos casos, podemos contar con Q-Pall para obtener respuestas inmediatas, siempre rápidos en responder llamadas y correos electrónicos.
+Goplasticpallets.com (All Pallets Ltd, Eastbourne) vende palets de plástico de Q-Pall en el Reino Unido y es allí nuestro socio y [distribuidor](@dealers). En 2022, la colaboración cumplió diez años.
 
-Al igual que nuestro equipo directivo de larga trayectoria en Goplasticpallets.com, los directores generales de Q-Pall, Arno y Bjorn, llevan más de 20 años en la empresa y tienen una amplia experiencia en la industria de los palets y los plásticos. Han formado un equipo sólido y comprometido, al que hemos tenido el placer de conocer en persona durante nuestras visitas a la sede en Veghel, Países Bajos.
+Con ese motivo, el director general Jim Hardisty hizo balance. ¿Qué hace especial esta colaboración, qué palets funcionan bien en el mercado británico y qué espera del futuro?
 
-Como nos esforzamos por cumplir con los pedidos directamente desde nuestro inventario, necesitamos socios de fabricación que puedan responder rápidamente a grandes volúmenes. Con cuatro plantas de producción – en los Países Bajos, Dinamarca y dos en Alemania – Q-Pall está perfectamente preparado para satisfacer nuestras necesidades y nunca nos ha fallado.
+<figure class="prose-fig is-portrait"><img src="/assets/img/news/jim-hardisty.webp" alt="Jim Hardisty, director general de Goplasticpallets.com" width="600" height="800" loading="lazy" decoding="async"><figcaption>Jim Hardisty, director general de Goplasticpallets.com</figcaption></figure>
 
-En cuanto a los productos, ahora ofrecemos los más de 90 modelos de palets de plástico de la gama de Q-Pall. El núcleo de nuestro negocio con ellos es su gama de palets abiertos y de flujo libre para cargas pesadas y medias, que no tiene comparación. También ofrecemos toda su gama de palets apilables, muy populares entre los minoristas por su ligereza y facilidad de manejo.
+## Respuestas rápidas, también a preguntas técnicas
 
-**¿Y el futuro de esta colaboración?** De cara al futuro, vemos una colaboración larga y exitosa. Q-Pall continuará desarrollando su gama de productos para satisfacer las cambiantes demandas de las industrias de logística y manufactura, mientras que nosotros ampliaremos nuestro inventario para cumplir con las necesidades de nuestros clientes.
+«Cuando miro atrás a estos diez años de trabajo con Q-Pall, me llena de satisfacción ver lo lejos que hemos llegado los dos», dijo Hardisty. «Q-Pall nunca se queda quieta. Apuesta fuerte por la innovación y siempre busca nuevos productos para los mercados existentes y emergentes.»
 
-Estos primeros diez años de colaboración han sido gratificantes y esperamos con entusiasmo los próximos diez.
+Según él, el equipo de Q-Pall era bastante pequeño, pero muy eficiente y ágil. «Somos los especialistas británicos en palets de plástico, pero no siempre tenemos la respuesta a las preguntas, a veces muy técnicas, de nuestros clientes. Entonces podemos contar con Q-Pall. Siempre cogen el teléfono enseguida y responden rápido a los correos.»
 
-<figure class="prose-fig is-portrait"><img src="/assets/img/news/jim-hardisty.webp" alt="Jim Hardisty, director general de Goplasticpallets.com" width="600" height="800" loading="lazy" decoding="async"><figcaption>Jim Hardisty – Managing Director van Goplasticpallets.com</figcaption></figure>
+## Stock y producción
+
+Goplasticpallets.com sirve los pedidos directamente desde stock. Por eso el fabricante tiene que reaccionar rápido ante grandes cantidades. «Con acceso a cuatro centros de producción, Q-Pall está bien preparada para atender nuestras necesidades. Nunca nos ha fallado.»
+
+En 2022, esos cuatro centros estaban en los Países Bajos, en Dinamarca y dos en Alemania. Hoy producimos en [seis fábricas repartidas por Europa](@about-local), entre ellas Chesterfield, en el Reino Unido. Así podemos producir también en el propio país, cerca de los clientes británicos.
+
+## Los palets que eligen los clientes británicos
+
+Goplasticpallets.com ofrecía toda la gama de Q-Pall. El núcleo de la colaboración eran los palets [medium](@class-medium) y [heavy](@class-heavy).
+
+La empresa también vendía todos los [palets encajables](@type-nestable). Son muy apreciados por los clientes de la distribución para puntos de venta y exposición, porque son ligeros y fáciles de manipular.
+
+## Una relación personal
+
+Hardisty destacó también la buena relación personal con el equipo de Q-Pall, sobre todo con Arno Putters y Bjorn Oosterhof, cofundador y director de Q-Pall. Había conocido en persona a la mayoría del equipo en sus visitas a nuestra sede de Veghel.
+
+«Cuando hablamos, no todo es trabajo. Nos contamos novedades de nuestras familias y nos mandan un mensaje por nuestro cumpleaños. Hacer negocios es mucho más fácil con personas realmente amables.»
+
+## Mirando al futuro
+
+«Vemos por delante una colaboración larga y fructífera», dijo Hardisty en 2022. «Q-Pall seguirá desarrollando su gama para responder a las nuevas exigencias de la logística y la industria. Nosotros seguiremos ampliando nuestro stock para atender las necesidades de nuestros clientes. Estos primeros diez años han sido agradables y gratificantes, y esperamos compartir los próximos diez.»
+
+¿Busca palets de plástico para su empresa, en el Reino Unido o en otro lugar de Europa? [Solicite un presupuesto](@quote) y normalmente recibirá un precio a medida en un día laborable.

@@ -11,7 +11,7 @@ faq:
   - q: "Hoe weet ik of een gebruikte pallet goed is?"
     a: "Elke gebruikte pallet wordt gekeurd voordat we hem verkopen. We werken met duidelijke kwaliteitsklassen en controleren de constructie op schade."
   - q: "Welke gebruikte pallets zijn er beschikbaar?"
-    a: "De voorraad wisselt dagelijks. Neem contact met ons op voor het actuele aanbod. Grotere aantallen, tot complete vrachtwagens, zijn vaak mogelijk. Vanaf ongeveer 200 stuks is het het voordeligst."
+    a: "De voorraad wisselt dagelijks. Neem contact met ons op voor het actuele aanbod. Grotere aantallen, tot complete vrachtwagens, zijn vaak mogelijk. Vanaf ongeveer 200 stuks is de prijs het gunstigst."
 ---
 
 ## Circulair en voordelig

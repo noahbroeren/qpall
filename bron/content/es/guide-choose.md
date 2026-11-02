@@ -54,4 +54,6 @@ Una **superficie abierta** es más ligera y más económica. La humedad se escur
 
 ## ¿Necesita ayuda?
 
+¿Prefiere tenerlo todo en papel? En el [catálogo de productos](@catalog) encontrará nuestra gama estándar con medidas y valores de carga, en PDF para descargar.
+
 Nuestros especialistas le ayudarán encantados. Cuéntenos qué transporta, cómo lo almacena y cuántos palets necesita. Le recomendaremos el modelo que mejor se adapte a usted. [Solicite un presupuesto](@quote) o [contacte con nosotros](@contact).

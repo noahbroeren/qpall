@@ -27,7 +27,7 @@ Un palet de plástico dura muchos años, mucho más que un palet de madera medio
 
 ## Medalla de bronce de EcoVadis
 
-EcoVadis evalúa de forma independiente nuestro desempeño en sostenibilidad. En octubre de 2026 volvimos a obtener la medalla de bronce de EcoVadis, que nos sitúa entre el 35 % de las empresas mejor valoradas.
+EcoVadis evalúa de forma independiente nuestro desempeño en sostenibilidad. En abril de 2023 recibimos la medalla de plata y en 2025 la de bronce. En octubre de 2026 volvimos a obtener la medalla de bronce de EcoVadis, que nos sitúa entre el 35 % de las empresas mejor valoradas.
 
 ## Pallets with a purpose
 

@@ -1,7 +1,7 @@
 ---
 id: class-medium
-title: "Palettes plastique Medium – la polyvalente – Q-Pall"
-description: "Palettes plastique Medium : la polyvalente pour transport interne, distribution et rayonnage jusqu’à 1.375 kg. Plateau ajouré, fermé ou antidérapant."
+title: "Palettes plastique Medium – la palette polyvalente – Q-Pall"
+description: "Palettes plastique Medium : la palette polyvalente pour transport interne, distribution et rayonnage (1.375 kg). Plateau ajouré, fermé ou antidérapant."
 eyebrow: "Classe de charge Medium"
 h1: "Palettes plastique **Medium**"
 lead: "Le meilleur rapport qualité-prix pour un usage quotidien en entrepôt, en production et en distribution. [[count]] modèles Medium en sept formats."

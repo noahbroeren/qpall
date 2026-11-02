@@ -26,7 +26,7 @@ In der Logistik geht es um einen effizienten Warenfluss von der Produktion bis z
 - **Weniger Kraftstoff und CO2** und vollständig recycelbar.
 - **Feste Abmessungen** für automatisierte Systeme.
 - **Weniger Wartung:** keine Reparaturen an losen Brettern.
-- **Hygienisch und sicher:** keine Feuchtigkeit, Bakterien, Splitter oder scharfen Kanten.
+- **Sauber und sicher:** Sie nehmen keine Feuchtigkeit auf, sind leicht zu reinigen und haben keine Splitter oder scharfen Kanten.
 - **Leichter zu stapeln** und platzsparend.
 
 ## Unsere empfohlenen Paletten

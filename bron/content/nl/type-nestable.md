@@ -11,7 +11,7 @@ faq:
   - q: "Kan ik een nestbare pallet ook stabieler maken?"
     a: "Ja. Onder veel nestbare pallets met 9 pootjes klikt u [onderlatten](@acc-runners), zonder gereedschap. U krijgt dan een pallet met 3 onderlatten die beter op rollenbanen loopt. Omdat u de onderlatten pas op locatie monteert, blijft het voordeel van nesten behouden."
   - q: "Zijn nestbare pallets geschikt voor een palletstelling?"
-    a: "Nee, nestbare pallets zijn light pallets voor transport, export en vloeropslag. Voor stellingen kiest u een medium of heavy pallet met onderlatten."
+    a: "Meestal niet. Bijna al onze nestbare pallets zijn light pallets voor transport, export en vloeropslag. Alleen een paar nestbare displaypallets zijn er in medium en heavy. Voor stellingen kiest u een medium of heavy pallet met onderlatten."
 ---
 
 ## Hoe werkt nesten?

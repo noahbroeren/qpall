@@ -1,25 +1,37 @@
 ---
 id: news-sitl-2025
-title: "Q-Pall au SITL 2025 : l’avenir de la logistique – Q-Pall"
-description: "Retrouvez Q-Pall et son partenaire BacLand au SITL 2025 à Paris : palettes Light, Medium et Heavy en plastique recyclé, issues d’une production locale."
+title: "Q-Pall au SITL 2025 à Paris : retour sur le salon – Q-Pall"
+description: "Au SITL 2025 à Paris, Q-Pall et son partenaire BacLand ont présenté des palettes plastique Light, Medium et Heavy sur le thème Connecting Our Intelligence."
 eyebrow: "Actualités"
 tag: "Événement"
 crumb: "Q-Pall au SITL 2025"
 h1: "Q-Pall au SITL 2025 : **construisons ensemble l’avenir de la logistique**"
-lead: "Le monde de la logistique évolue à grande vitesse. Face aux défis globaux et à la nécessité de solutions plus durables et intelligentes, une nouvelle ère s’annonce. Chez Q-Pall, nous voyons dans ce changement une formidable opportunité d’agir."
-img_alt: "Q-Pall au SITL 2025 : construisons ensemble l’avenir de la logistique"
-reading: 1
+lead: "Q-Pall a exposé au SITL 2025 à Paris avec son partenaire BacLand. Sur le thème « Connecting Our Intelligence », nous avons montré comment design intelligent, plastique recyclé et production locale se rejoignent."
+img_alt: "Vue 3D du stand Q-Pall avec un grand écran montrant une tortue de mer et le slogan « Pallets with a purpose »"
+reading: 2
+updated: '2026-11-02'
 ---
-C’est pourquoi nous sommes fiers d’annoncer notre présence au **SITL 2025 à Paris**, sur le thème inspirant : **« Connecting Our Intelligence ».**
+> **En bref**
+>
+> * Q-Pall a exposé au SITL 2025 à Paris, le salon du transport et de la logistique, avec son partenaire BacLand.
+> * Le thème était « Connecting Our Intelligence ».
+> * Nous avons présenté notre gamme en trois classes de charge : Light, Medium et Heavy.
+> * Au cœur du stand : design intelligent, plastique recyclé et production locale.
 
-Aux côtés de notre partenaire de confiance **BacLand**, nous présenterons comment design intelligent, matériaux recyclés et production locale s’unissent pour créer des palettes innovantes.
+## Ce que nous avons présenté
 
-Des **palettes légères pour une distribution efficace**, aux **modèles ultra-résistants** pour les environnements les plus exigeants — venez découvrir toute notre gamme :
+La logistique évolue vite. Les entreprises recherchent des solutions intelligentes et durables, et la palette en fait partie. Au SITL 2025, avec notre partenaire BacLand, nous avons montré comment design intelligent, plastique recyclé et production locale se rejoignent dans nos palettes.
 
-- **Light Pallets**
-- **Medium Pallets**
-- **Heavy Pallets**
+Sur le stand, nous avons présenté notre gamme en trois classes de charge, des palettes légères pour la distribution aux modèles conçus pour les usages les plus exigeants :
 
-Réduction du CO₂, automatisation ou logistique optimisée — notre équipe est là pour vous accompagner.
+* **Light.** Les [palettes plastique Light](@class-light) sont légères et souvent emboîtables. Pour l’export, les envois ponctuels et la distribution.
+* **Medium.** Les [palettes plastique Medium](@class-medium) sont les polyvalentes pour le transport interne et les charges légères en rayonnage.
+* **Heavy.** Les [palettes plastique Heavy](@class-heavy) sont conçues pour un usage intensif, des charges dynamiques élevées et les rayonnages, jusqu’à 7.500 kg en statique.
 
-Rendez-vous au SITL 2025. Construisons ensemble la logistique de demain.
+## L’histoire derrière le stand
+
+Nous fabriquons nos palettes standard en plastique recyclé à près de 100 %, un mélange de PEHD et de PP. Nous les produisons dans six usines réparties en Europe, si bien que presque chaque client se trouve à moins de 600 kilomètres d’une usine. Les moules voyagent, pas les palettes : nous installons le moule dans l’usine la plus proche du client. En savoir plus sur notre [production locale](@about-local).
+
+Les visiteurs pouvaient échanger avec notre équipe sur leurs propres enjeux : réduire les émissions de CO₂, automatiser leurs processus ou transporter plus efficacement. Les palettes plastique offrent une stabilité dimensionnelle et un poids constant. Elles conviennent donc bien à [l’automatisation et aux AGV](@guide-automation).
+
+Vous souhaitez parler des palettes présentées au SITL 2025 ou de votre propre besoin en palettes ? [Contactez-nous](@contact), nous serons heureux de vous conseiller.

@@ -523,6 +523,7 @@
  "nav_news": "Noticias",
  "news_latest": "Última",
  "news_more": "Más **noticias**",
+ "news_rel": "Noticias **relacionadas**",
  "news_all": "Todas las noticias",
  "news_show_more": "Ver más noticias",
  "news_kb_hint": "¿Busca información práctica sobre cómo elegir, precios, medidas de palets o ISPM 15? La encontrará en nuestras guías.",
@@ -539,7 +540,7 @@
   "robot": "Robots industriales naranjas a lo largo de una línea de producción automatizada",
   "hq-corner": "Sede de Q-Pall en Veghel",
   "mould": "Nave de producción con inyectoras y robots en la fábrica de Q-Pall en Balk",
-  "custom": "Inyectora con un molde de palé abierto en la fábrica de Balk",
+  "custom": "Inyectora con un molde de palet abierto en la fábrica de Balk",
   "office-open": "Oficina de Q-Pall en Veghel",
   "team": "Compañeros de Q-Pall conversando en la sede",
   "custom-logo": "Palets de plástico naranjas con el logotipo de Q-Pall",
@@ -553,7 +554,7 @@
   "beverage": "Botellas de refresco en una línea de producción",
   "retail": "Familia con un carro de la compra en un pasillo de supermercado",
   "logistics": "Robots industriales en una nave de producción automatizada",
-  "pooling": "Carretilla elevadora entre altas pilas de palés de plástico en el almacén de Q-Pall"
+  "pooling": "Carretilla elevadora entre altas pilas de palets de plástico en el almacén de Q-Pall"
  },
  "booklet_alt": {
   "catalogus": "Catálogo de productos de Q-Pall",
@@ -656,7 +657,7 @@
   "b_medium": "Para el uso diario",
   "b_heavy": "Para cargas pesadas",
   "foil": "con film",
-  "sub_us": "40 x 48 pulgadas",
+  "sub_us": "48 x 40 pulgadas",
   "t_amt": "¿Cuántos palets?",
   "h_amt": "¿No sabe el número? Elija «El máximo posible».",
   "fill": "El máximo posible",
@@ -692,6 +693,7 @@
   "copy": "Copiar resumen",
   "copied": "Copiado",
   "contact": "Solicitar presupuesto",
+  "q_note": "Calculado con la calculadora de carga, {v}:",
   "note": "Indicación basada en medidas estándar, con un margen de 0,1 m en la longitud y la altura del espacio de carga. Para un plan de carga exacto o un presupuesto, contacte con nosotros.",
   "vehicle": "Transporte",
   "change": "Cambiar",
@@ -744,10 +746,10 @@
  "load_ill": {
   "weight_above": [
    "Peso de todos los",
-   "palés de arriba"
+   "palets de arriba"
   ],
   "bottom_total": [
-   "El palé inferior",
+   "El palet inferior",
    "soporta el total"
   ],
   "floor": "Suelo plano y nivelado",
@@ -756,8 +758,8 @@
    "y pequeños golpes"
   ],
   "beam": "Larguero",
-  "alt_static": "Carga estática: tres palés cargados apilados sobre un suelo plano. El palé inferior soporta el peso de todos los palés de arriba.",
-  "alt_dynamic": "Carga dinámica: una carretilla elevadora circula con un palé cargado. Las aceleraciones, frenadas y pequeños golpes cargan más el palé.",
+  "alt_static": "Carga estática: tres palets cargados apilados sobre un suelo plano. El palet inferior soporta el peso de todos los palets de arriba.",
+  "alt_dynamic": "Carga dinámica: una carretilla elevadora circula con un palet cargado. Las aceleraciones, frenadas y pequeños golpes cargan más el palet.",
   "alt_racking": "Carga en estantería: dos palets cargados en una estantería convencional para palets, vistos de frente en diagonal. Los tres patines de cada palet descansan de través sobre el larguero delantero y el trasero.",
   "runners": "Los patines descansan sobre los largueros"
  },

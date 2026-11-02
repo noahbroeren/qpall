@@ -1,17 +1,45 @@
 ---
 id: news-heavy-family
-title: "Q-Pall breidt zijn familie heavy duty pallets uit – Q-Pall"
-description: "Q-Pall breidt uit met vier nieuwe heavy duty pallets met 1375 kg draagvermogen op hoge stellingen, met 3 of 6 runners en een open of gesloten bovendek."
+title: "Familie heavy duty pallets uitgebreid in 2021 – Q-Pall"
+description: "In 2021 breidde Q-Pall zijn heavy duty kunststof pallets uit met vier modellen: tot 1.375 kg in de stelling, 3 of 6 onderlatten, open of gesloten dek."
 eyebrow: "Nieuws"
 tag: "Product"
-crumb: "Q-Pall breidt zijn familie heavy duty"
-h1: "Q-Pall breidt zijn familie **heavy duty pallets uit**"
-lead: "Q-Pall breidt uit met vier nieuwe heavy duty pallets met 1375 kg draagvermogen op hoge stellingen, met 3 of 6 runners en een open of gesloten bovendek."
-img_alt: "Q-Pall breidt zijn familie heavy duty pallets uit"
-reading: 1
+crumb: "Uitbreiding heavy duty pallets"
+h1: "Q-Pall breidde in 2021 zijn familie **heavy duty pallets** uit"
+lead: "Op SITL Paris en Fachpack presenteerde Q-Pall in september 2021 vier heavy duty kunststof pallets. Robuust, slagvast en met een draagvermogen tot 1.375 kg in hoge stellingen."
+img_alt: "Aankondigingsbeeld met een pallet onder een oranje doek en een vergrootglas op het Q-Pall-logo"
+reading: 2
+updated: '2026-11-02'
 ---
-Q-Pall, de kunststofproducent van [duurzame kunststof pallets](@pallets), voegt een compleet nieuwe lijn heavy duty pallets toe aan haar assortiment. De pallets kenmerken zich door hun robuust ontwerp, slagvastheid en hun draagvermogen van 1375 kg op hoge stellingen.
+> **In het kort**
+>
+> * In september 2021 presenteerde Q-Pall vier heavy duty kunststof pallets op de beurzen SITL Paris en Fachpack.
+> * De pallets zijn robuust, slagvast en dragen tot 1.375 kg in hoge stellingen.
+> * De vier modellen verschillen in afmeting.
+> * Ze zijn er met 3 of 6 onderlatten en met een open of gesloten dek.
+> * Een eigen kleur, een klantmarkering of een RFID-tag maakt de pallets herkenbaar.
 
-Het verschil tussen de vier nieuwe pallets is de afmeting. Naast de versie met 3 runners zijn de pallets ook verkrijgbaar met 6 runners. De pallets zijn verkrijgbaar met een open en gesloten bovendek. De pallets kunnen aan elke specifieke eis voldoen en zijn verkrijgbaar met of zonder rand.
+## Een lijn voor zwaar gebruik
 
-De identificatie van de pallets kan worden vergemakkelijkt doordat de *pallets in verschillende kleuren* te maken zijn, door een specifieke markering van de klant aan te brengen of de pallets te voorzien van een **RFID tag**. De nieuwe lijn heavy duty pallets wordt geïntroduceerd tijdens de SITL Paris 2021 en Fachpack 2021 in de maand september.
+In 2021 breidde Q-Pall zijn assortiment [heavy duty kunststof pallets](@class-heavy) uit met een complete lijn van vier modellen. We presenteerden de pallets in september van dat jaar op twee vakbeurzen: SITL in Parijs en Fachpack in Neurenberg.
+
+De pallets zijn gemaakt voor zware ladingen en intensief gebruik. Ze hebben een robuust ontwerp, zijn slagvast en dragen tot 1.375 kg in hoge palletstellingen. Wat de stellingbelasting precies inhoudt, leest u op de pagina over [de belasting van kunststof pallets](@about-load).
+
+## Uitvoeringen
+
+De vier modellen verschillen in afmeting. Daarnaast kiest u uit deze uitvoeringen:
+
+* **3 of 6 onderlatten.** Naast de versie met drie onderlatten is er een versie met zes onderlatten. Die is ook geschikt voor blokstapeling.
+* **Open of gesloten dek.** Een open dek laat vocht weglopen. Een gesloten dek geeft een vlak oppervlak voor kleine producten en is eenvoudig te reinigen.
+
+## Herkenbaar in uw keten
+
+U kunt de heavy duty pallets herkenbaar maken met:
+
+* **een eigen kleur**, bijvoorbeeld om pools of afdelingen te onderscheiden;
+* **een markering van de klant**, zoals een logo;
+* **een RFID-tag**, zodat u pallets kunt identificeren en volgen.
+
+Meer over logo's, kleuren en andere aanpassingen leest u bij [maatwerk](@about-custom).
+
+Zoekt u een heavy duty pallet voor uw stellingen of pool? [Vraag een offerte aan](@quote); meestal ontvangt u binnen één werkdag een prijs op maat.

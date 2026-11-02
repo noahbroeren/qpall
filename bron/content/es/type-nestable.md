@@ -11,7 +11,7 @@ faq:
   - q: "¿Puedo hacer más estable un palet encajable?"
     a: "Sí. En muchos palets encajables con 9 pies puede fijar [patines](@acc-runners) con un clic, sin herramientas. Obtiene así un palet con 3 patines que funciona mejor en transportadores de rodillos. Como monta los patines solo en destino, conserva la ventaja del encajado."
   - q: "¿Son aptos los palets encajables para estanterías para palets?"
-    a: "No, los palets encajables son palets Light para transporte, exportación y almacenaje en suelo. Para estanterías, elija un palet Medium o Heavy con patines."
+    a: "Normalmente no. Casi todos nuestros palets encajables son palets Light para transporte, exportación y almacenaje en suelo. Solo algunos palets expositores encajables existen en Medium y Heavy. Para estanterías, elija un palet Medium o Heavy con patines."
 ---
 
 ## ¿Cómo funciona el encajado?

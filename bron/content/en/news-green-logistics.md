@@ -1,45 +1,68 @@
 ---
 id: news-green-logistics
-title: "Unlocking the future of green logistics – Q-Pall"
-description: "Lighter plastic pallets mean less fuel and fewer emissions in transport. Discover how the right pallet choice can strengthen your green logistics strategy."
+title: "Green logistics: the role of plastic pallets – Q-Pall"
+description: "What role do plastic pallets play in green logistics? Weight and fuel, service life, recycling, local production and cost per trip, clearly explained."
 eyebrow: "News"
 tag: "Sustainability"
-crumb: "Unlocking the future of green logistics"
-h1: "Unlocking **the future of green logistics**"
-lead: "Lighter plastic pallets mean less fuel and fewer emissions in transport. Discover how the right pallet choice can strengthen your green logistics strategy."
-img_alt: "Unlocking the future of green logistics"
+crumb: "Pallets and green logistics"
+h1: "Green logistics: **the role of plastic pallets**"
+lead: "Companies are increasingly judged on their environmental impact. One element that is often overlooked is the pallet. This is how plastic pallets contribute to greener logistics."
+img_alt: "Three wooden blocks with symbols for cooperation, the earth and recycling on coloured plastic regrind"
 reading: 3
+faq:
+- q: "What is green logistics?"
+  a: "Green logistics means logistics with as little environmental impact as possible: fewer emissions, less waste and more efficient use of resources. The choice of pallets plays a part in this too."
+- q: "Are plastic pallets lighter than wooden pallets?"
+  a: "Often, depending on the type. Light pallets are much lighter than wood. Heavy pallets weigh 17 to 28 kg, roughly the same as a wooden Euro pallet of around 25 kg."
+- q: "How does local production contribute to green logistics?"
+  a: "In the pallet industry, most CO₂ emissions come from transport. We produce in six European factories, so almost every customer is within 600 kilometres of a factory."
+published: '2023-09-11'
+updated: '2026-11-02'
 ---
-## The Role of Plastic Pallets in Green Logistics
+> **In short**
+>
+> * Green logistics is about fewer emissions and less waste in transport and storage. The pallet plays a part in this.
+> * Plastic pallets are often lighter than wood, especially in the light class. That saves fuel.
+> * They last for many years and are fully recyclable afterwards.
+> * Our standard pallets are made from nearly 100% recycled plastic: 34,500 tonnes in 2025.
+> * Local production in six European factories limits the transport of the pallets themselves.
 
-In an era where sustainability has become a buzzword and companies are increasingly being held accountable for their environmental impact, green logistics plays a crucial role. The pursuit of more environmentally friendly operations in the logistics sector has various facets, from efficient transport to smart warehouse management. A frequently overlooked but essential component in this puzzle is the choice of pallets. Plastic pallets offer various ecological advantages that contribute to a greener supply chain. In this blog, we discuss how plastic pallets can be a valuable addition to your green logistics strategy.
+## What is green logistics?
 
-### Less Weight, Less Fuel
+Green logistics is the pursuit of logistics with less impact on the environment. It ranges from efficient transport to smart warehouse management. Companies are increasingly judged on their environmental impact, including by their customers and supply chain partners.
 
-Unlike their wooden counterparts, plastic pallets are significantly lighter. This lowers the total weight of the cargo and can lead to a significant reduction in fuel consumption during transport. Less fuel means fewer emissions, thereby allowing your company to shrink its ecological footprint.
+One element that is often overlooked is the choice of pallets. Plastic pallets offer several advantages that contribute to a greener supply chain.
 
-### Recyclable
+## Less weight, less fuel
 
-At the end of their lifecycle, plastic pallets can easily be recycled. They can be ground down and then converted back into new plastic products, minimizing the use of new raw materials. This is a significant advantage over wooden pallets, which often end up as waste or fuel for power plants, with all the associated environmental effects.
+Plastic pallets are often lighter than wooden pallets, depending on the type. [Light pallets](@class-light) in particular weigh much less. A lower tare weight means more load per trip and less fuel, and therefore fewer emissions.
 
-### Reusable and Durable
+For heavy-duty applications, the difference is smaller. A heavy plastic pallet weighs 17 to 28 kg, a wooden Euro pallet around 25 kg. The advantage then lies mainly in the long service life and the constant weight, because plastic does not absorb moisture.
 
-Plastic pallets are more robust and have a longer lifespan than wooden pallets. They are better resistant to wear and tear, water damage, and other forms of degradation. As a result, they can be reused multiple times, leading to less waste and a reduced need for new pallets.
+## Long-lasting and reusable
 
-### Hygienic and Safe
+Plastic pallets are robust and last for many years, much longer than an average wooden pallet. They withstand wear, moisture and impacts. As a result, they can be reused many times, which means less waste and fewer new pallets.
 
-Plastic pallets are easier to clean and disinfect, minimizing the risk of cross-contamination of goods. In a time where hygiene and safety are of utmost importance, this cannot be underestimated.
+Even when a pallet is taken out of circulation at your company, it is often still perfectly usable. Through [Q-Used](@used), inspected pallets get a second life.
 
-### Cost Savings
+## Recyclable at the end of their life
 
-Although the initial costs of plastic pallets may be higher than those of wooden pallets, the operational costs over the lifespan are often lower. The durability and reusability of plastic pallets can lead to significant cost savings in the long term.
+At the end of their life, plastic pallets are fully recyclable. They are ground down and processed into new products, such as new pallets. This reduces the need for new raw material. Find out how that works in [recycling plastic pallets](@news-recycling).
 
-### Q-Pall - a Step Further
+Wooden pallets are usually chipped or burned at the end of their life, with the emissions this entails.
 
-When it comes to reducing the ecological footprint in logistics, we go one step further as 99% of our pallets are made from recycled plastic. This allows us to consume about 30,000 tons of recycled plastic on an annual basis. This supports the circular economy and directly contributes to tackling the global plastic issue. By using recycled material, Q-Pall helps to reduce the amount of plastic waste that would otherwise end up in oceans, landfills, or incinerators. It's an example of how companies, through innovative approaches, can make their operations more sustainable and have a positive impact on global environmental issues.
+## Easy to clean
 
-### Conclusion
+Plastic pallets do not absorb moisture and are easy to clean. This helps to prevent contamination of goods. For direct food contact, there are [hygienic pallets](@type-hygienic) made from virgin plastic.
 
-Green logistics is more than a trend; it's a necessity in the modern business world. The use of plastic pallets can make a significant difference in your sustainability efforts. From weight and fuel savings to durability and recyclability, plastic pallets offer a host of advantages that fit into a greener and more sustainable logistics strategy.
+## Lower cost per trip
 
-By making the switch to plastic pallets, your company not only contributes to a cleaner planet, but can also enjoy cost savings and operational efficiency. It's a win-win situation that is worth considering in any green logistics approach.
+Plastic pallets often cost more to buy than wooden pallets. Over their entire life, however, the cost per trip is often lower, thanks to their long service life and reuse. Here, greener choices and lower costs go hand in hand.
+
+## Q-Pall: one step further
+
+We make our standard pallets from nearly 100% recycled plastic. In 2025, we processed 34,500 tonnes of recycled plastic, around 1,475 full truckloads. This helps to reduce the amount of plastic waste that would otherwise end up in landfill, in incinerators or in the oceans.
+
+We also produce [locally](@about-local), in six factories spread across Europe. In the pallet industry, most CO₂ emissions come from transport. Because almost every customer is within 600 kilometres of a Q-Pall factory, transport distances stay short.
+
+Would you like to know which pallets fit best into your green logistics? [Request a quote](@quote). You will usually receive a tailored price within one working day.

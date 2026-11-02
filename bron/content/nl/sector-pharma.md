@@ -21,7 +21,7 @@ In de farmaceutische industrie draait alles om het voorkomen van besmetting en h
 
 ## Waarom kunststof pallets?
 
-- **Niet-poreus:** bacteriën en vocht krijgen geen kans.
+- **Niet-poreus:** de pallets nemen geen vocht op en zijn goed te reinigen.
 - **Te wassen en te reinigen** met water, onder hoge druk of met reinigingsmiddelen.
 - **Splintervrij, zonder scherpe randen.**
 - **Antislip mogelijk**, voor stabiliteit op natte of hellende oppervlakken.

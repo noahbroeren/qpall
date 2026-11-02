@@ -1,19 +1,49 @@
 ---
 id: news-scopac
 title: "SCOPAC: von Restabfall zu nachhaltigen Paletten – Q-Pall"
-description: "Im SCOPAC-Projekt werden Reste aus Kunststoffverpackungen mit Faserabfällen zu Verbundmaterialien kombiniert. Q-Pall prüft deren Einsatz in Paletten."
+description: "Q-Pall war Partner im SCOPAC-Projekt, das aus Resten von Kunststoffverpackungen und Faserabfällen Verbundstoffe macht. Wir testeten sie in Paletten."
 eyebrow: "Aktuelles"
 tag: "Nachhaltigkeit"
-crumb: "SCOPAC: von Restabfall zu nachhaltigen"
+crumb: "Das SCOPAC-Projekt"
 h1: "Q-Pall ist Partner im SCOPAC-Projekt: **von Restabfall zu nachhaltigen Paletten**"
-lead: "Q-Pall ist einer der stolzen Partner im SCOPAC-Projekt (Sustainable Composites based Packaging from Low-Value Waste), einer innovativen Zusammenarbeit, die sich auf die Wiederverwendung von Restströmen aus Kunststoffverpackungen konzentriert, indem diese mit Faserabfällen kombiniert werden. Ziel ist es, hochwertige, zirkuläre Verbundmaterialien für Verpackungs- und Transportanwendungen zu entwickeln."
-img_alt: "Q-Pall ist Partner im SCOPAC-Projekt: von Restabfall zu nachhaltigen Paletten"
-reading: 1
+lead: "2025 war Q-Pall einer der Partner von SCOPAC, einem Projekt, das minderwertige Kunststoffverpackungsabfälle und Faserabfälle zu neuen Verbundmaterialien verarbeitet. Unsere Rolle: diese Materialien in Paletten testen."
+img_alt: "Logo des SCOPAC-Projekts: das Wort SCOPAC zwischen zwei Pfeilen, die einen Kreislauf bilden"
+reading: 2
+published: '2025-06-19'
+updated: '2026-11-02'
 ---
-Im Rahmen dieses Projekts bringen Brightlands Materials Center und Witcom ihre fortschrittliche Technologie zur Wiederverwertung von faserverstärkten Thermoplasten ein – mit dem Ziel: minimaler Qualitätsverlust und maximale Zirkularität. Die verwendeten Faserabfälle werden vom Projektpartner Eurocarbon bereitgestellt.
+> **Kurz gesagt**
+>
+> * SCOPAC steht für *Sustainable Composites based Packaging from Low-Value Waste*.
+> * Das Projekt kombiniert Reste aus Kunststoffverpackungen mit Faserabfällen zu kreislauffähigen Verbundmaterialien.
+> * Partner waren unter anderem Brightlands Materials Center, Witcom, Eurocarbon und Q-Pall.
+> * Q-Pall testete die neuen Materialien auf Eignung und Leistung in Paletten aus recyceltem Kunststoff.
+> * Das Projekt wurde von der Europäischen Union kofinanziert.
 
-Q-Pall ist verantwortlich für die Bewertung und Prüfung der resultierenden Verbundmaterialien in nachhaltigen Paletten aus recyceltem Material. Durch die Prüfung der Anwendbarkeit und Leistung dieser neuen Materialien in logistischen Umgebungen helfen wir, das Potenzial einer neuen zirkulären Alternative zu erschließen.
+## Was ist SCOPAC?
 
-Das SCOPAC-Konsortium repräsentiert eine neue, nachhaltige Wertschöpfungskette, in der Abfall nicht mehr das Ende, sondern der Anfang hochwertiger Anwendungen ist. Brightlands Materials Center arbeitet außerdem an der Skalierung der Technologie auf 200 Tonnen pro Jahr – mit dem Ziel eines skalierbaren zirkulären Geschäftsmodells in den Niederlanden und Europa.
+SCOPAC (*Sustainable Composites based Packaging from Low-Value Waste*) ist eine Zusammenarbeit, die 2025 an der Wiederverwertung minderwertiger Reststoffe arbeitete. Es ging um Kunststoffverpackungsabfälle, kombiniert mit Faserabfällen. Das Ziel: hochwertige, kreislauffähige Verbundmaterialien für die Verpackungs- und Transportbranche entwickeln.
+
+Ein Verbundmaterial besteht aus mehreren Komponenten, hier aus Kunststoff und Fasern. Die Fasern machen den Kunststoff steifer und fester.
+
+## Wer machte was?
+
+* **Brightlands Materials Center und Witcom** brachten ihre Technologie zum Recycling faserverstärkter Thermoplaste ein, mit möglichst wenig Qualitätsverlust und möglichst viel Kreislauffähigkeit.
+* **Eurocarbon** lieferte die Faserabfälle.
+* **Q-Pall** bewertete und testete die neuen Verbundmaterialien in Paletten aus recyceltem Kunststoff.
+
+## Die Rolle von Q-Pall
+
+Unsere Standardpaletten fertigen wir bereits aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE und PP. Mehr über dieses Material lesen Sie in [recyceltes PE-HD 2: Was ist das genau?](@news-hdpe)
+
+Im Rahmen von SCOPAC untersuchten wir, ob sich die neuen Verbundstoffe für Paletten eignen und wie sie sich in logistischen Umgebungen bewähren. So halfen wir, das Potenzial eines neuen kreislauffähigen Materials zu ermitteln.
+
+## Vom Abfall zum Rohstoff
+
+Das SCOPAC-Konsortium stand für eine neue, nachhaltige Wertschöpfungskette. Abfall ist darin kein Endpunkt, sondern Rohstoff für hochwertige Anwendungen. Brightlands Materials Center arbeitete außerdem an der Skalierung der Technologie auf 200 Tonnen pro Jahr. Ziel war ein kreislauffähiges Geschäftsmodell, das sich in den Niederlanden und in Europa skalieren lässt.
+
+Das passt zu unserem Umgang mit Material. Am Ende ihrer Lebensdauer nehmen wir Paletten zurück und mahlen sie zu Rohstoff für neue Paletten. Mehr über das [Recycling von Kunststoffpaletten](@news-recycling) und unseren Ansatz zur [Nachhaltigkeit](@about-sustainability).
 
 <figure class="prose-fig prose-logos"><img src="/assets/img/news/scopac-logo.webp" alt="SCOPAC" width="560" height="411" loading="lazy" decoding="async"><img src="/assets/img/news/eu-cofunded.webp" alt="Kofinanziert von der Europäischen Union" width="300" height="63" loading="lazy" decoding="async"><img src="/assets/img/news/opzuid.webp" alt="OPZuid" width="300" height="49" loading="lazy" decoding="async"></figure>
+
+Möchten Sie mehr über die Materialien unserer Paletten erfahren? [Nehmen Sie Kontakt mit uns auf](@contact).

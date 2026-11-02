@@ -6,11 +6,11 @@ eyebrow: "Aktuelles"
 tag: "Supply Chain"
 crumb: "Lokale Produktion als Säule"
 h1: "Vom Trend zur Notwendigkeit: **lokale Produktion** als Säule resilienter Lieferketten"
-lead: "In einer unsicheren Welt ist Nearshoring keine strategische Option mehr, sondern eine Voraussetzung für das Risikomanagement. Lokale Produktion von Logistikmitteln bringt dreierlei: Resilienz, weniger Scope-3-Emissionen und niedrigere Gesamtkosten (TCO)."
+lead: "In einer unsicheren Welt ist Nearshoring keine Option mehr, sondern Pflicht im Risikomanagement. Lokale Produktion von Logistikmitteln bringt dreierlei: Resilienz, weniger Scope-3-Emissionen und niedrigere Gesamtkosten (TCO)."
 img_alt: "Roboter und Spritzgießmaschinen in der Produktionshalle des Q-Pall-Werks in Balk"
-reading: 5
+reading: 3
 published: '2026-01-22'
-updated: '2026-10-19'
+updated: '2026-11-02'
 ---
 > **Kurz gesagt**
 >
@@ -29,7 +29,7 @@ Konflikte wie der Krieg in der Ukraine und Spannungen an wichtigen Handelsrouten
 
 ### Mehr Transparenz in der Kette
 
-Auch die Regulierung spielt eine immer größere Rolle. Große Unternehmen müssen zunehmend belegen können, woher ihre Produkte stammen und welche Umweltwirkung sie haben, einschließlich der Emissionen in ihrer Lieferkette (Scope 3). Ein Logistikmittel wie eine Palette, das um die halbe Welt gereist ist, passt schlecht dazu.
+Auch die Regulierung spielt eine immer größere Rolle. Große Unternehmen müssen zunehmend belegen können, woher ihre Produkte stammen und welche Umweltwirkung sie haben, einschließlich der Emissionen in ihrer Lieferkette (Scope 3). Ein Logistikmittel wie eine Palette, das um die halbe Welt gereist ist, passt schlecht dazu. Wie Sie die Abhängigkeiten in Ihrer eigenen Lieferkette erfassen, lesen Sie in [Von globaler Abhängigkeit zu lokaler Resilienz](@news-local-resilience).
 
 ## Das Q-Pall-Modell: nah am Kunden produzieren
 
@@ -45,9 +45,9 @@ Ein regionaler Ansatz sorgt zudem für stabilere Preise. Containerraten schwanke
 
 Lokale Produktion schafft auch Kontrolle über den Rohstofffluss, die *Chain of Custody*. Das ist entscheidend für Unternehmen, die ihre ESG-Ziele ernst nehmen und Greenwashing vermeiden wollen.
 
-Unsere Paletten fertigen wir aus recyceltem Kunststoff, einer Mischung aus HDPE (Code 2) und PP. Mehr über dieses Material lesen Sie in [Recyceltes PE-HD 2: Was ist das genau?](@news-hdpe) Weil wir das Rezyklat in der Nähe beziehen, haben wir direkten Einblick in Qualität und Herkunft. Abfall wird nicht um die halbe Welt geschickt, bevor er ein neues Leben bekommt. Lokaler Abfall wird zu einem lokalen Rohstoff und einem lokalen Produkt.
+Unsere Standardpaletten fertigen wir aus recyceltem Kunststoff, einer Mischung aus HDPE (Code 2) und PP (Code 5). Mehr über dieses Material lesen Sie in [Recyceltes PE-HD 2: Was ist das genau?](@news-hdpe) Weil wir das Rezyklat in der Nähe beziehen, haben wir direkten Einblick in Qualität und Herkunft. Abfall wird nicht um die halbe Welt geschickt, bevor er ein neues Leben bekommt. Lokaler Abfall wird zu einem lokalen Rohstoff und einem lokalen Produkt.
 
-Das Ergebnis ist eine Palette, die technisch stark ist (schlagzäh, witterungsbeständig und hygienisch) und in Ihrem Nachhaltigkeitsbericht eine ehrliche Geschichte erzählt. Am Ende ihres Lebens ist die Palette vollständig recycelbar, innerhalb derselben regionalen Kette.
+Das Ergebnis ist eine Palette, die technisch stark ist (schlagzäh, witterungsbeständig und leicht zu reinigen) und in Ihrem Nachhaltigkeitsbericht eine ehrliche Geschichte erzählt. Am Ende ihres Lebens ist die Palette vollständig recycelbar, innerhalb derselben regionalen Kette. Was lokale Produktion für Transport, CO₂ und Rezyklat bedeutet, lesen Sie in [lokale Produktion von Kunststoffpaletten und Nachhaltigkeit](@news-local-sustainability).
 
 ## Die Zukunft ist regional
 

@@ -20,22 +20,10 @@
         <dl class="lh-stats">{% for s in hero_stats %}<div><dt>{{ s[0] }}</dt><dd>{{ s[1] }}</dd></div>{% endfor %}</dl>
         <a class="btn btn-primary btn-block" href="{{ urls.quote }}">{{ t.cta_quote }}{{ M.icon('arrow') }}</a>
         <a class="lh-phone" href="tel:{{ company.phone_href }}">{{ M.icon('phone') }}{{ t.call }} {{ company.phone }}</a>
-        <small>{{ t.reply_1day }}</small>
       </div>
     </div>
   </div>
 </header>
-
-<nav class="catnav" aria-label="{{ t.nav_pallets }}">
-  <div class="wrap catnav-in">
-    {% for g in groups %}
-    <div class="catnav-g">
-      <span class="catnav-h">{{ g.title }}</span>
-      <ul>{% for r in g.links %}<li><a class="chip{% if r.cls %} chip-{{ r.cls }}{% endif %}" href="{{ r.url }}"{% if r.current %} aria-current="page"{% endif %}>{% if r.cls %}<i></i>{% endif %}{{ r.label }}</a></li>{% endfor %}</ul>
-    </div>
-    {% endfor %}
-  </div>
-</nav>
 
 <section class="section-sm listing-sec" aria-label="{{ t.nav_pallets }}" data-pagefind-ignore>
   <div class="wrap listing" data-listing>
@@ -74,6 +62,17 @@
   </div>
 </section>
 
+<nav class="catnav catnav-below" aria-label="{{ t.nav_pallets }}">
+  <div class="wrap catnav-in">
+    {% for g in groups %}
+    <div class="catnav-g">
+      <span class="catnav-h">{{ g.title }}</span>
+      <ul>{% for r in g.links %}<li><a class="chip{% if r.cls %} chip-{{ r.cls }}{% endif %}" href="{{ r.url }}"{% if r.current %} aria-current="page"{% endif %}>{% if r.cls %}<i></i>{% endif %}{{ r.label }}</a></li>{% endfor %}</ul>
+    </div>
+    {% endfor %}
+  </div>
+</nav>
+
 {% if is_main %}
 <section class="section bg-navy classes-sec" aria-labelledby="cls-h">
   <div class="wrap">
@@ -102,4 +101,5 @@
 </section>
 
 {% if page.faq %}{{ M.faq_section(page.faq, lang, t, soft=False) }}{% endif %}
+{% if news_rel %}{{ M.news_related(news_rel, t, urls, soft=(true if page.faq else false)) }}{% endif %}
 {% endblock %}

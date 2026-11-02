@@ -54,4 +54,6 @@ Kommt die Palette zurück? Dann lohnt sich eine schwerere Palette, die viele Uml
 
 ## Brauchen Sie Hilfe?
 
+Lieber alles auf Papier? Im [Produktkatalog](@catalog) finden Sie unser Standardsortiment mit Maßen und Belastungswerten, als PDF zum Herunterladen.
+
 Unsere Spezialisten helfen Ihnen gern. Sagen Sie uns, was Sie transportieren, wie Sie es lagern und wie viele Paletten Sie benötigen. Wir empfehlen Ihnen dann das Modell, das am besten zu Ihnen passt. [Fordern Sie ein Angebot an](@quote) oder [kontaktieren Sie uns](@contact).

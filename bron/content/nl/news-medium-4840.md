@@ -1,25 +1,55 @@
 ---
 id: news-medium-4840
-title: "Medium kunststof pallets 48\" x 40\" voor de Amerikaanse markt"
-description: "De QP4048M is een medium kunststof pallet van 48 x 40 inch voor de Noord-Amerikaanse markt, met afgeronde hoeken en afgeschuinde binnenhoeken."
+title: "Medium kunststof pallets 48 x 40 inch voor de VS – Q-Pall"
+description: "De QP4048M is een medium kunststof pallet van 48 x 40 inch (1220 x 1020 mm) voor de Noord-Amerikaanse markt, met open of gesloten dek."
 eyebrow: "Nieuws"
 tag: "Product"
-crumb: "Medium kunststof pallets 48\" x 40\" voor"
-h1: "Medium kunststof pallets **48\" x 40\" voor de Amerikaanse markt**"
-lead: "De QP4048M is een medium kunststof pallet van 48 x 40 inch voor de Noord-Amerikaanse markt, met afgeronde hoeken en afgeschuinde binnenhoeken."
-img_alt: "Medium kunststof pallets 48\" x 40\" voor de Amerikaanse markt"
+crumb: "Medium pallet 48 x 40 inch"
+h1: "Medium kunststof pallets **48 x 40 inch voor de Amerikaanse markt**"
+lead: "Voor de Noord-Amerikaanse markt ontwikkelde Q-Pall de QP4048M: een medium kunststof pallet van 48 x 40 inch (1220 x 1020 mm) met een goede balans tussen prijs en prestaties."
+img_alt: "Zwarte medium kunststof pallet met open dek op drie onderlatten"
 reading: 2
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-Voor de **Noord Amerikaanse markt** heeft Q-Pall de QP4048M in het programma, een serie pallets die uitblinken in een optimale balans tussen prijs en prestaties. De vraag naar plastic pallets in de VS wordt gedreven door de interesse van de consument voor het gebruik van [kunststof pallets](@pallets) vanwege hun prestatie kwaliteiten.
+> **In het kort**
+>
+> * De QP4048M is een medium kunststof pallet van 48 x 40 inch (1220 x 1020 mm), de meest gebruikte palletmaat in Noord-Amerika.
+> * Afgeronde hoeken en afgeschuinde binnenhoeken zorgen voor een soepele doorvoer in transportsystemen en bij het werken met de heftruck.
+> * Stapelribbels in de vier hoeken maken stapelen eenvoudig en veilig.
+> * De pallet is leverbaar met open of gesloten dek, op 3 of 6 onderlatten.
+> * Draagvermogen: 6.000 kg statisch en 1.500 kg dynamisch.
 
-De **1020 x 1220 mm pallets** worden geleverd met een aantal verbeterde functies. Afgeronde hoeken voor een soepele overgang, wat op zijn beurt weer goed is voor geautomatiseerde transportsystemen. Dit minimaliseert het risico dat pallets vast komen te zitten of worden beschadigd, wat vaak gebeurt met houten pallets.
+## Een pallet voor de Noord-Amerikaanse markt
 
-Afgeschuinde binnenhoeken van het gehele palletprofiel voorkomen dat vorklepels van vorkheftrucks vast komen te zitten, wat het logistieke proces zou onderbreken en extra kosten zou veroorzaken. Dit betekent een enorm veiligheidsvoordeel, omdat de pallets gemakkelijker kunnen bewegen zonder dat ze over de vloer slepen. De verbeterde stevigheid met nieuw ontworpen hoekpennen is volledig uniek. Speciale stapelbare ribbels in de vier hoeken van de pallet zorgen voor eenvoudig en veilig stapelen.
+Voor de Noord-Amerikaanse markt ontwikkelde Q-Pall de QP4048M, een serie [medium kunststof pallets](@class-medium) met een goede balans tussen prijs en prestaties. De maat van 48 x 40 inch (1220 x 1020 mm) komt overeen met de meest gebruikte pallet in de Verenigde Staten en Canada.
 
-De pallets zijn verkrijgbaar met een open of een gesloten bovendek. De pallet met een 90% gesloten bovendek kan ook worden gebruikt als een [hygiënische pallet](@type-hygienic).
+De pallet is daarmee iets groter dan de [industriepallet van 1200 x 1000 mm](@size-1200x1000). In de VS groeide de vraag naar kunststof pallets, omdat bedrijven hun prestaties waarderen.
 
-Het unieke ontwerp van open en gesloten bovendekken betekent ook dat de nieuwe pallet eenvoudig en snel kan worden gereinigd. En net als alle andere middelzware [kunststof pallets](@pallets), is deze nieuw ontwikkelde pallet sterk, robuust en biedt een betrouwbare en consistente prestaties.
+Kunststof pallets vallen bovendien niet onder [ISPM 15](@guide-ispm), de exportregels voor houten verpakkingsmateriaal. Een hittebehandeling of stempel is dus niet nodig.
 
-Bjorn Oosterhof, CEO van Q-Pall, zegt: “Onze plastic pallets zijn de favoriete keuze voor veel bedrijven sinds onze start in 2005. We hebben een zeer grote vraag gezien, gedreven door consumenteninteresse in het gebruik van [plastic pallets](@pallets) in de VS vanwege hun specifieke kwaliteiten. Ze zijn bestand tegen vervuiling veroorzaakt door bacteriën en andere ziekteverwekkers en kunnen gemakkelijk worden gereinigd. Plastic pallets worden ook als milieuvriendelijk beschouwd, omdat ze kunnen worden gerecycled zodra ze het einde van hun levensduur hebben bereikt. ”
+## Soepel door geautomatiseerde systemen
 
-De palletafmetingen zijn 1220 mm – 48″(L) x 1020 mm – 40″ (B) x 150 mm (H) en de pallet is verkrijgbaar met 3 of 6 runners. De standaardkleur is zwart, maar andere kleuren, aanpassing of logo’s zijn ook mogelijk. De pallets zijn ook verkrijgbaar met een antislipdek, met of zonder stapelbare nok. De pallet is ook beschikbaar in ESD-versie en met een brandvertragende coating.
+De hoeken van de pallet zijn afgerond. Daardoor loopt de pallet soepel over transportbanen en door [geautomatiseerde systemen](@guide-automation). De kans dat een pallet vastloopt of beschadigd raakt, is kleiner. Bij houten pallets gebeurt dat vaker.
+
+## Veilig werken met de heftruck
+
+Over het hele palletprofiel zijn de binnenhoeken afgeschuind. Zo blijven de vorken van een heftruck niet haken. Dat voorkomt onderbrekingen in het logistieke proces en extra kosten.
+
+Het is ook veiliger: de pallet laat zich makkelijk verplaatsen zonder over de vloer te slepen. Nieuw ontworpen hoekpennen maken de pallet extra stevig. Stapelribbels in de vier hoeken zorgen ervoor dat u de pallets eenvoudig en veilig stapelt.
+
+## Uitvoeringen en draagvermogen
+
+* **Dek.** Open of gesloten. Beide uitvoeringen zijn eenvoudig en snel te reinigen.
+* **Onderlatten.** Drie of zes.
+* **Antislip.** Ook leverbaar met een antislipdek, met of zonder stapelribbels.
+* **Kleur en logo.** Standaard zwart; een andere kleur of een eigen logo is mogelijk.
+* **Speciale uitvoeringen.** Op aanvraag in een ESD-uitvoering en in een brandvertragende uitvoering.
+
+Alle uitvoeringen dragen 6.000 kg statisch en 1.500 kg dynamisch. In de stelling draagt de pallet met open dek 750 kg en die met gesloten dek 1.375 kg.
+
+## Waarom kunststof in de VS
+
+Bjorn Oosterhof, medeoprichter en directeur van Q-Pall: "Onze kunststof pallets zijn sinds onze start in 2005 de favoriete keuze van veel bedrijven. In de VS zagen we een zeer grote vraag, gedreven door de interesse in kunststof pallets vanwege hun specifieke eigenschappen. Ze zijn eenvoudig te reinigen en worden als milieuvriendelijk beschouwd, omdat ze aan het einde van hun levensduur kunnen worden gerecycled."
+
+Verzendt u naar de Verenigde Staten of Canada? [Vraag een offerte aan](@quote) voor de QP4048M; meestal ontvangt u binnen één werkdag een prijs op maat.

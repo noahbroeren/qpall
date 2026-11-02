@@ -11,7 +11,7 @@ faq:
   - q: "Was ist der Unterschied zwischen einer Einwegpalette und einer Europalette?"
     a: "Die Europalette bezeichnet das Format (1200 x 800 mm) und soll oft zurückkommen. Eine Einwegpalette ist für eine einzige Fahrt gemacht: so leicht wie möglich, stabil genug für den Transport und ohne den Aufwand rund um ISPM 15. Eine Kunststoffpalette 1200 x 800 mm kann beides sein."
   - q: "Sind Einwegpaletten für Palettenregale geeignet?"
-    a: "Nein. Unsere Einwegpaletten sind Light-Paletten für Transport und Bodenlagerung. Sie tragen 2.500 kg statisch und 1.000 kg dynamisch, sind aber nicht für die Regallagerung vorgesehen."
+    a: "Nein. Unsere Einwegpaletten sind Light-Paletten für Transport und Bodenlagerung. Sie tragen bis 2.500 kg statisch und bis 1.000 kg dynamisch, sind aber nicht für die Regallagerung vorgesehen."
   - q: "In welchen Größen gibt es Einwegpaletten?"
     a: "Wir fertigen Einwegpaletten in 600 x 800, 760 x 1140, 1100 x 1100, 1140 x 1140, 1200 x 800, 1200 x 1000 und 1200 x 1200 mm. So finden Sie für jeden Container und jeden Markt eine passende Größe."
 ---

@@ -11,7 +11,7 @@ faq:
   - q: "Quando scegliere un pallet Light?"
     a: "Quando il pallet non torna indietro, quando il peso conta (ad esempio nel trasporto aereo) o quando volete stoccare i pallet vuoti in modo compatto. Per il trasporto interno con molte movimentazioni o per lo stoccaggio su scaffale, Medium o Heavy sono una scelta migliore."
   - q: "Un pallet Light può andare su scaffale?"
-    a: "No. I pallet Light non hanno una portata su scaffale certificata. Se volete stoccare su scaffale, scegliete un pallet [Medium](@class-medium) o [Heavy](@class-heavy) con slitte."
+    a: "No. I pallet Light non sono adatti allo stoccaggio su scaffale. Se volete stoccare su scaffale, scegliete un pallet [Medium](@class-medium) o [Heavy](@class-heavy) con slitte."
 ---
 
 ## Leggeri, incastrabili e pronti per l’export

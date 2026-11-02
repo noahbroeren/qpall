@@ -1,31 +1,62 @@
 ---
 id: news-horeca
-title: "Pallet per la ristorazione – Q-Pall"
-description: "Nella ristorazione contano igiene e refrigerazione. Scoprite perché i pallet in plastica, lisci e non porosi, sono più adatti del legno per il catering."
+title: "Pallet per la ristorazione: perché in plastica – Q-Pall"
+description: "Pallet per la ristorazione: perché la plastica è più adatta del legno, come tenere puliti i pallet e quali accessori aiutano in cella frigo e congelatore."
 eyebrow: "Notizie"
 tag: "Approfondimento"
 crumb: "Pallet per la ristorazione"
-h1: "Pallet **per la ristorazione**"
-lead: "Nel settore dei catering i prodotti alimentari e altri prodotti per catering sono trasportati e immagazzinati. Nel caso sia necessario un deposito in luogo refrigerato questo dovrebbe essere eseguito nel modo corretto. Gli armadietti, le mensole, le celle frigorifero, le borse frigo e i frigoriferi hanno un ruolo importante. Ma anche i pallet. Le possibilità sono diverse, tuttavia, e le discutiamo in questo articolo."
-img_alt: "Pallet per la ristorazione"
+h1: "Pallet in plastica **per la ristorazione**"
+lead: "Nella ristorazione trasportate e conservate alimenti e bevande, spesso refrigerati o surgelati. I pallet in plastica sono adatti a questo uso: non si scheggiano, non assorbono umidità e si puliscono facilmente."
+img_alt: "Bottiglie di bibita all’arancia su una linea di produzione"
 reading: 3
+faq:
+- q: "Perché i pallet in plastica sono adatti alla ristorazione?"
+  a: "I pallet in plastica non si scheggiano, non assorbono umidità e si puliscono facilmente. Lo sporco non può annidarsi nel materiale, come accade invece con il legno poroso."
+- q: "Gli alimenti possono essere appoggiati direttamente su un pallet in plastica?"
+  a: "Per il contatto diretto con gli alimenti la norma è la plastica vergine. Per questo i nostri pallet igienici sono in plastica vergine. Gli altri nostri pallet sono in plastica riciclata e sono destinati ai prodotti confezionati."
+- q: "Posso ordinare anche pochi pallet?"
+  a: "Consegniamo per pila completa, ad esempio 45 pallet incastrabili o 17 pallet Medium. Ve ne servono meno? Allora può aiutarvi un [rivenditore vicino a voi](@dealers)."
+published: '2022-01-12'
+updated: '2026-11-02'
 ---
-## Pallet in plastica e pallet di legno
+> **In breve**
+>
+> * I pallet in legno sono ruvidi, possono scheggiarsi e assorbono umidità. Nella ristorazione non è auspicabile.
+> * I pallet in plastica sono piani e lisci, non assorbono umidità e si puliscono facilmente.
+> * Gli alimenti vengono a contatto diretto con il pallet o lavorate secondo l’HACCP? Scegliete allora un pallet igienico in plastica vergine.
+> * Con le sponde per pallet e un coperchio trasformate un pallet in un contenitore chiuso.
+> * I distanziatori per congelamento tra gli strati fanno congelare il carico più rapidamente e in modo più uniforme.
 
-I pallet tradizionalmente sono prodotti in legno, ma quando si tratta dell’industria del catering questo genere di materiale non è desiderabile. È ruvido e può avere delle schegge. Per questa ragione i pallet in plastica sono particolarmente datti per questo settore. Il materiale dei pallet in plastica è piatto e liscio. Questo significa che a differenza di quelli in legno, che sono, per loro natura, porosi, lo sporco non si accumula in quelli di plastica. L’umidità, lo sporco e i batteri possono rimanere facilmente negli spazi piccoli. Questo rende un pallet in legno un ottimo posto per gli insetti e altri animali nocivi, indesiderabili nel settore dei catering.
+I pallet per la ristorazione sono messi a dura prova: umidità, freddo, liquidi versati e pulizie frequenti. Alimenti, bevande e altre forniture vengono trasportati e conservati in magazzini, celle frigorifere e congelatori. Di seguito scoprite perché i pallet in plastica sono adatti a questo uso e quali accessori semplificano il lavoro.
 
-## Pulire i pallet
+## Pallet in plastica o in legno nella ristorazione?
 
-Nel settore dei catering c’è il rischio di fuoriuscite. I pallet usati per trasportare la merce o quelli che servono per immagazzinarla possono sporcarsi. Con un pallet in plastica questo non è un problema. Sono facili da pulire e non sono porosi. I funghi, i batteri, gli insetti e gli animali nocivi non rimangono dopo la pulizia. Utilizzando anche delle vaschette di raccolta si evita che i liquidi possano sversarsi completamente. Questo fa risparmiare del tempo durante le fasi di pulizia. Hai bisogno di un pallet che offre un’igiene aggiuntiva? Allora ci sono anche gli speciali pallet igienici. Questo genere di prodotto è particolarmente utile in un ambiente HACCP perché sono prodotti per essere completamente lisci.
+Tradizionalmente i pallet sono in legno. Nella ristorazione, però, un pallet in legno non è l’ideale: è ruvido e possono staccarsi delle schegge. Il legno è inoltre poroso per natura. Umidità, sporco e batteri restano facilmente nelle piccole fessure e giunture, e insetti e altri parassiti possono annidarvisi.
 
-## I pallet diventano scatole
+I pallet in plastica non hanno questi svantaggi. La superficie è piana e liscia, quindi lo sporco non può annidarsi nel materiale. La plastica non assorbe umidità, si pulisce facilmente e non contiene chiodi.
 
-I pallet in plastica per il settore catering possono essere combinati in maniera perfetta con colletti per pallet in plastica. Impilando diversi colletti è possibile creare una scatola con un’altezza che può variare a seconda delle esigenze. È possibile proteggere la merce vulnerabile e i prodotti in maniera migliore unendo i pallet e i colletti con coperchi per i pallet in plastica. In questo modo è possibile trasformare il pallet in una scatola chiusa. I coperchi sono fissi e si chiudono perfettamente. Ora la merce è protetta in maniera ottimale contro i danni.
+## Pulire i pallet dopo una perdita
 
-## Spaziatori per freezer
+Nella ristorazione capita che qualcosa perda: una bottiglia, un secchio o una confezione di salsa. I pallet usati per il trasporto e lo stoccaggio possono allora sporcarsi parecchio. Un pallet in plastica si pulisce facilmente, perché il materiale non è poroso.
 
-Nell’industria dei catering è molto comune avere dei prodotti surgelati. Quando si lavora con questo genere di prodotti, gli spaziatori per freezer sono un’ottima soluzione e facili da combinare con i pallet in plastica. Sono progettati per sopportare le temperature di un freezer e il peso dei prodotti surgelati. Questo prodotto ha delle parti rialzate con dei fori, questo permette all’aria fredda di scorrere tra i prodotti. Questo permette al cibo di congelarsi velocemente e in maniera rapida e uniforme, senza che ci sia da preoccuparsi di quanta merce si è immagazzinata.
+Usate anche una vasca di raccolta? Raccoglie i liquidi che fuoriescono prima che bagnino il resto del carico. Così risparmiate tempo prezioso per la pulizia.
 
-## Deposito di bottiglie d’acqua
+## Pallet igienici per il contatto con gli alimenti e l’HACCP
 
-Trasporti e/o immagazzini regolarmente bottiglie d’acqua? Allora i contenitori di bottiglie d’acqua in plastica sono un’ottima soluzione. Questi pallet permettono un trasporto e deposito delle bottiglie d’acqua nel modo più efficiente possibile. Questo mantiene le bottiglie d’acqua in posizione ed evita che possano cadere. In breve: i pallet in plastica sono ottimi da utilizzare nell’industria dei catering per diverse ragioni. Vuoi sapere quali pallet o altri prodotti sono adatti alle tue esigenze? Contattaci per maggiori informazioni. Saremo lieti di aiutarti.
+Produciamo i nostri pallet standard in plastica riciclata. Sono destinati ai prodotti confezionati, non al contatto diretto con gli alimenti. Gli alimenti vengono appoggiati direttamente sul pallet, o lavorate in un ambiente HACCP con requisiti rigorosi? Scegliete allora un [pallet igienico](@type-hygienic). È realizzato in plastica vergine (nuova) ed è completamente liscio, così potete pulirlo in modo rapido e accurato.
+
+## Dal pallet al contenitore chiuso
+
+I pallet in plastica si combinano bene con le [sponde per pallet](@acc-collars). Impilando più sponde create un contenitore di cui scegliete voi l’altezza. Con un coperchio in plastica ottenete un contenitore chiuso. Polvere e sporco restano fuori e la merce fragile è meglio protetta dai danni.
+
+## Distanziatori per la cella di congelamento
+
+Nella ristorazione si lavora molto con prodotti surgelati. I [distanziatori per congelamento (freezer spacer)](@acc-freezer) sono allora un utile complemento ai pallet in plastica. Sono pensati per le temperature di congelamento e sostengono il peso della merce congelata.
+
+I distanziatori si posizionano tra gli strati di scatole. Grazie alle parti rialzate con aperture, l’aria fredda circola tra le merci. Così l’intero carico congela in modo rapido e uniforme, anche quando conservate molta merce alla volta.
+
+## Bevande stabili sul pallet
+
+Trasportate o conservate regolarmente bevande in casse, fardelli o bottiglie? Su una superficie liscia un carico del genere può scivolare. Un pallet con [piano antiscivolo](@type-antislip) tiene meglio il carico al suo posto, così è meno probabile che qualcosa cada.
+
+In sintesi, i pallet in plastica si prestano a molti usi nella ristorazione. Volete sapere quali pallet e accessori sono adatti alla vostra cucina, al vostro magazzino o alla vostra cella frigorifera? [Contattateci](@contact), saremo lieti di consigliarvi.

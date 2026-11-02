@@ -11,8 +11,15 @@ lead: "Four properties that make the difference between a pallet that follows yo
 img_alt: "Robot picking up a plastic pallet on the production line in Balk"
 reading: 4
 published: '2026-05-26'
-updated: '2026-10-19'
+updated: '2026-11-02'
 ---
+> **In short**
+>
+> * Many small incidents in logistics can be traced back to the properties of the pallet.
+> * Four properties really matter: non-porous, no splinters, a constant weight and a constant size.
+> * They mean fewer rejects, less damage, a reliable tare weight and fewer stoppages on automated lines.
+> * Plastic pallets also fall outside ISPM 15, the export rules for wooden packaging.
+
 In most organisations, the pallet is the quietest link in the chain. Nobody sets a KPI for it and nobody mentions it in the annual report. It sits under the load, and that is that.
 
 Until something goes wrong. A splinter in a hand or in a product. A wooden board that is just too narrow for an AGV sensor. A load that weighs 3 kilos more on the weighbridge than on the delivery note. A mould stain on a pallet that has just come in from outdoor storage. A customs officer asking for an ISPM 15 mark.
@@ -21,9 +28,11 @@ None of these incidents is unrelated to the pallet. They can all be traced back 
 
 ## 1. Non-porous
 
-A pallet that does not absorb moisture does not absorb mould, odour or bacteria either. For food processing, pharma, cold chains and cleanrooms, that is not an advantage but a requirement.
+A pallet that does not absorb moisture gives mould and odours no chance to penetrate the material. It is also easy to clean. For food processing, pharma, cold chains and cleanrooms, that is not an advantage but a requirement.
 
 It matters outside those sectors too. A shipment of dry goods on a damp wooden pallet is a complaint in the making. A product on a pallet that has absorbed odours or residues comes back as a return.
+
+Does your load come into direct contact with food, or do you work in a cleanroom? Then choose [hygienic pallets](@type-hygienic) made from virgin plastic. Our recycled plastic pallets are not intended for direct food contact.
 
 **What it delivers:** fewer rejects, fewer returns and fewer discussions with your customer about the state of the pallet.
 
@@ -59,4 +68,6 @@ A pallet is not the most important part of your logistics chain. But it is part 
 
 So the question is not which material is better. The question is which properties your process needs, and what it delivers when they are no longer variable.
 
-At Q-Pall we make pallets from recycled plastic. Non-porous, splinter-free, constant in weight and size, with [PPWR](@guide-ppwr) documentation and free from ISPM 15. Unsure whether to choose wood or plastic? Read [plastic vs wooden pallets](@guide-wood).
+At Q-Pall we make our standard pallets from recycled plastic. Non-porous, splinter-free, constant in weight and size, with [PPWR](@guide-ppwr) documentation and free from ISPM 15. Unsure whether to choose wood or plastic? Read [plastic vs wooden pallets](@guide-wood).
+
+Would you like to know which pallet suits your process best? [Get in touch with us](@contact) and we will think along with you.

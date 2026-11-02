@@ -1,36 +1,63 @@
 ---
 id: news-brexit
-title: "Palets de plástico: importar y exportar tras el Brexit"
-description: "Tras el Brexit, los exportadores británicos sufren escasez de palets de madera aptos para la UE. Los palets de plástico de Q-Pall pueden ser la solución."
+title: "Brexit: palets de plástico y Reino Unido – Q-Pall"
+description: "Desde el Brexit, los palets de madera en el comercio con el Reino Unido deben cumplir la ISPM 15; los de plástico, no. Q-Pall fabrica en el Reino Unido."
 eyebrow: "Noticias"
 tag: "Cadena de suministro"
-crumb: "Palets de plástico"
-h1: "Palets de plástico: **una solución para importar y exportar tras el Brexit**"
-lead: "Tras el Brexit, los exportadores británicos sufren escasez de palets de madera aptos para la UE. Los palets de plástico de Q-Pall pueden ser la solución."
-img_alt: "Palets de plástico: una solución para importar y exportar tras el Brexit"
+crumb: "Los palets tras el Brexit"
+h1: "Brexit y palets: **¿qué se aplica en el comercio con el Reino Unido?**"
+lead: "Desde el Brexit, el Reino Unido es un país fuera de la UE a efectos de los palets. Los palets de madera deben cumplir la ISPM 15; los de plástico, no. Y Q-Pall fabrica palets en el propio Reino Unido, en Chesterfield."
+img_alt: "Cartel al estilo del metro de Londres con la palabra Brexit, delante de una bandera británica"
 reading: 3
+faq:
+- q: "¿Deben cumplir la ISPM 15 los palets de madera para el Reino Unido?"
+  a: "Sí. Desde el final del periodo transitorio, el 31 de diciembre de 2020, los palets de madera en el comercio entre la UE y el Reino Unido deben estar tratados y sellados según la ISPM 15, en ambos sentidos."
+- q: "¿Necesitan los palets de plástico un sello ISPM 15 para el Reino Unido?"
+  a: "No. La ISPM 15 solo se aplica a los envases de madera maciza. Los palets de plástico no necesitan tratamiento ni sello, tampoco para envíos hacia y desde el Reino Unido."
+- q: "¿Qué tamaño de palet es habitual en el Reino Unido?"
+  a: "En el Reino Unido se utiliza mucho el palet industrial de 1200 x 1000 mm. Fabricamos nuestros palets de exportación, entre otros, en 1200 x 1000 mm y 1200 x 800 mm."
+published: '2022-01-13'
+updated: '2026-11-02'
 ---
-23 de junio de 2016. En verdad, no se trata de una fecha que nos resulte familiar de inmediato. Sin embargo, ese día en el que se decidió el *brexit*, podría causar enormes consecuencias para sus actividades de importación y exportación desde Gran Bretaña y hacia ella. Una razón importante es la escasez de palets de madera que sufren los fabricantes británicos que exportan a la Unión Europea. Lea el siguiente artículo para averiguar cuál es exactamente el problema y de qué manera los palets de plástico de Q-Pall pueden convertirse en la solución.
+> **En resumen**
+>
+> * El Reino Unido salió de la UE el 31 de enero de 2020. El periodo transitorio duró hasta el 31 de diciembre de 2020.
+> * Desde entonces, los palets de madera en el comercio entre la UE y el Reino Unido deben cumplir la ISPM 15: tratados y sellados.
+> * Los palets de plástico no están sujetos a la ISPM 15 y no necesitan tratamiento ni sello.
+> * Q-Pall tiene una fábrica en Chesterfield y, por tanto, también produce en el propio Reino Unido.
 
-## Los exportadores británicos no tienen suficientes palets
+## Del referéndum a la salida
 
-Parece tratarse de algo insignificante en comparación con los grandes problemas relacionados con el brexit, que vemos a diario desde hace meses. No obstante, aún no se ha abordado el problema de la disponibilidad de suficientes palets de madera adecuados para exportación a la Unión Europea. Y esto podría causar consecuencias graves. ¿Cuál es el problema, exactamente?
+El 23 de junio de 2016, el Reino Unido votó a favor de abandonar la Unión Europea. El 31 de enero de 2020 salió de la UE. Después siguió un periodo transitorio hasta el 31 de diciembre de 2020, durante el cual aún se aplicaban las normas anteriores.
 
-Los palets de madera procedentes de países no pertenecientes a la Unión Europea deben cumplir requisitos distintos de los palets de madera que se transportan en los países que sí pertenecen a la UE. Y esto será muy importante en tanto Gran Bretaña abandone la Unión Europea. Estos requisitos más estrictos tienen que ver, por ejemplo, con la salud de los consumidores. Los palets procedentes de países no pertenecientes a la UE deben haber sido controlados para garantizar la protección de la salud. Además, cada palet debe tener una marca que indique que cumple con los requisitos. Recién ahora (!) se sabe que los exportadores británicos no tienen suficientes palets de este tipo, por lo que una gran parte de la exportación estará en peligro. Y las exportaciones británicas equivalen a la mayoría de las importaciones de muchos países europeos, por lo que esto también podría afectarlo a usted.
+Desde el final de ese periodo transitorio, el Reino Unido es un país fuera de la UE a efectos comerciales. Esto tiene consecuencias para las mercancías, pero también para los palets en los que viajan.
 
-## ¿Cuán serio es el problema?
+## Qué supone el Brexit para los palets de madera
 
-Para dar una idea de la magnitud del problema, cada año se transportan decenas de millones de palets desde Gran Bretaña hasta la Unión Europea. Y la mayoría de ellos no cumplen con las condiciones europeas para palets procedentes de países no pertenecientes a la UE. Muchos productos se transportan en estos palets: alimentos, equipos electrónicos, pero también otras cosas, como medicamentos. Por supuesto que hay palets adecuados en Gran Bretaña, pero no son suficientes para todos los exportadores. Existe el temor de que muchos exportadores británicos no dispongan de suficientes palets adecuados, y que eso pueda llevarlos a la quiebra. Por lo tanto, se trata de un problema enorme.
+Los envases de madera en el transporte internacional están sujetos a la norma ISPM 15. Esta norma protege la sanidad vegetal: los insectos y las enfermedades de las plantas no deben cruzar fronteras con la madera. Por eso, un palet de madera debe estar tratado, normalmente con calor, y llevar un sello oficial.
 
-## La solución: los palets de plástico Q-Pall
+Dentro de la UE, la ISPM 15 no suele ser obligatoria. Sin embargo, desde el Brexit la norma sí se aplica a los palets de madera en el comercio entre la UE y el Reino Unido, en ambos sentidos. Un palet sin el tratamiento o el sello correctos puede provocar retrasos, la devolución del envío o incluso su destrucción.
 
-Q-Pall lleva muchos años produciendo palets de plástico en diferentes fábricas europeas. Cumplen con la estricta legislación europea. No solo producimos palets de plástico, sino que también nos ocupamos de su distribución y venta. Actualmente, nuestro surtido de palets de plástico consta de más de 150 productos. Es por eso que tenemos los palets adecuados para prácticamente cualquier uso. Y, si no, podemos producirlos para usted. Debido a nuestro compromiso con la Responsabilidad Social Corporativa, también asumimos nuestra responsabilidad por el reciclaje de los palets de plástico que fabricamos. Y, como resultado de la durabilidad de nuestros palets, en la práctica, incluso, resultan más económicos.
+Antes del Brexit se temía que los exportadores británicos no tuvieran suficientes palets de madera tratados. Muchos de los palets que circulaban entre el Reino Unido y la UE no cumplían la ISPM 15. Para las empresas de ambos lados del Canal de la Mancha, era un riesgo real.
 
-Esta es una lista de las ventajas que ofrecen nuestros palets de plástico
+## Palets de plástico: sin ISPM 15
 
-- Gran variedad de palets de plástico.
-- Más rentables y más duraderos que los palets de madera.
-- Cumplen con la legislación europea.
-- Q-Pall se encarga de toda la cadena, desde el diseño hasta la producción y la distribución.
+La ISPM 15 solo se aplica al material de embalaje de madera maciza. Los palets de plástico no están sujetos a ella. No necesitan tratamiento térmico ni sello, sea cual sea el destino de su envío. Encontrará una explicación completa en [ISPM 15: exportar sin sello](@guide-ispm).
 
-Quiere saber más sobre nuestras posibilidades en el rubro de los palets de plástico? ¿O tiene alguna otra pregunta sobre nuestro surtido? No dude en contactarnos. Lo ayudaremos con gusto.
+Lo que le aporta en el comercio con el Reino Unido:
+
+* **Sin tratamiento ni certificado.** No tiene que gestionar nada para el propio palet.
+* **Sin retrasos por el palet.** Un palet de plástico no se rechaza por un sello ausente o incorrecto.
+* **Ligero y a menudo encajable.** Nuestros [palets de exportación](@type-export) soportan hasta 2.500 kg de carga estática y, vacíos, encajan unos dentro de otros.
+* **El tamaño adecuado.** En el Reino Unido es habitual el palet industrial de [1200 x 1000 mm](@size-1200x1000).
+* **Circular.** Nuestros palets estándar son de plástico reciclado y, al final de su vida útil, son totalmente reciclables.
+
+## Q-Pall también produce en el Reino Unido
+
+Q-Pall fabrica palets de plástico en seis fábricas: Balk (Países Bajos), Ribe (Dinamarca), Marktoberdorf (Alemania), Nantes (Francia), Lleida (España) y Chesterfield (Reino Unido). Casi todos nuestros clientes están a menos de 600 kilómetros de una de nuestras fábricas.
+
+Nuestro enfoque: los moldes viajan, los palets no. Instalamos el molde en la fábrica más cercana al cliente. Para los clientes del Reino Unido, puede ser la fábrica de Chesterfield: transportes cortos y ningún paso de frontera para los propios palets. Más información sobre la [producción local](@about-local).
+
+¿Necesita cantidades más pequeñas? Diríjase a un [distribuidor cerca de usted](@dealers). En el Reino Unido trabajamos, entre otros, con el distribuidor Goplasticpallets.com.
+
+¿Exporta al Reino Unido o tiene allí su sede? [Solicite un presupuesto](@quote) y normalmente recibirá un precio a medida en un día laborable.

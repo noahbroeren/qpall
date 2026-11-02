@@ -1,25 +1,67 @@
 ---
 id: news-antislip-mandatory
 title: "Antislip pallets: is dat verplicht? – Q-Pall"
-description: "Gladde lading kan op een kunststof pallet gaan schuiven en beschadigen. Lees hoe antislip pallets dit voorkomen en of het gebruik ervan verplicht is."
+description: "Is antislip op pallets verplicht? Nee, maar uw lading moet wel veilig vastzitten. Lees wanneer een antislip pallet verstandig is en welke er zijn."
 eyebrow: "Nieuws"
 tag: "Regelgeving"
 crumb: "Antislip pallets: is dat verplicht?"
 h1: "Antislip pallets: **is dat verplicht?**"
-lead: "Gladde lading kan op een kunststof pallet gaan schuiven en beschadigen. Lees hoe antislip pallets dit voorkomen en of het gebruik ervan verplicht is."
-img_alt: "Antislip pallets: is dat verplicht?"
+lead: "Gladde lading kan op een pallet gaan schuiven. Is een antislip pallet dan verplicht? Nee, maar vaak wel verstandig. We leggen uit wanneer antislip helpt en welke antislip pallets er zijn."
+img_alt: "Zwarte kunststof pallet op drie onderlatten met oranje antislipstroken in het bovendek"
 reading: 3
+faq:
+- q: "Is een antislip pallet wettelijk verplicht?"
+  a: "Nee, antislip pallets zijn niet wettelijk verplicht. Wel moet uw lading tijdens transport en opslag veilig vastzitten. Een antislip pallet helpt daarbij, vooral bij gladde verpakkingen."
+- q: "Hoe werkt het antislipdek van een pallet?"
+  a: "In het bovendek zitten stroken van een rubberachtig materiaal (TPE). Die zorgen voor extra wrijving tussen pallet en lading, zodat de lading minder snel schuift."
+- q: "Heb ik met een antislip pallet nog stretchfolie nodig?"
+  a: "Vaak wel, maar minder. Antislip houdt de lading beter op zijn plek, zodat u met minder wikkels toe kunt. Hoeveel folie u nodig heeft, hangt af van uw lading en het transport."
+published: '2022-01-09'
+updated: '2026-11-02'
 ---
-[Kunststof pallets](@pallets) zijn bedoeld voor de opslag en transport van goederen en producten. De pallets worden gebruikt zodat de lading niet kapot gaat. Maar als er gladde lading op de plastic pallets staat, loopt u het risico dat deze alsnog beschadigt. Of dat er stoffen vrijkomen die een risico voor de gezondheid vormen als daar iemand mee in contact komt. De gladde lading kan namelijk gaan schuiven op de pallets. Dit kunt u voorkomen door gebruik te maken van **anti-slip pallets**. Hoe zit dit precies en is het verplicht?
+> **In het kort**
+>
+> * Antislip pallets zijn niet wettelijk verplicht.
+> * Wel moet uw lading tijdens transport en opslag veilig op de pallet staan. Daar bent u verantwoordelijk voor.
+> * Antislip helpt vooral bij gladde verpakkingen, kostbare of gevaarlijke lading en snelle processen met rollenbanen of AGV's.
+> * Q-Pall heeft antislip pallets in het standaardassortiment: medium pallets in 1200 x 800 en 1200 x 1000 mm en de heavy Ultra pallet.
 
-## Schuivende lading
+Een pallet moet ervoor zorgen dat goederen heel aankomen. Maar staat er gladde lading op, dan kan die tijdens transport of opslag gaan schuiven. Dat geeft schade, en bij sommige producten kunnen er stoffen vrijkomen die gevaarlijk zijn voor de gezondheid. Een antislip pallet helpt dat te voorkomen. Maar bent u verplicht om antislip pallets te gebruiken?
 
-Het doel van pallets is zorgen voor een goede opslag en voor veilig transport. Zo zijn er voor verschillende soorten lading specifieke pallets. Maar dan kan het toch nog nodig zijn om extra maatregelen te treffen, zodat de lading geen ongewenste bewegingen maakt op de pallet. Verpakte producten, die van zichzelf erg glad zijn, kunnen bij plaatsing op een plastic pallet gaan schuiven. Het is dan gewenst dat de pallets, en daarbij met name het directe contactoppervlak, stroef is om verschuiving van de lading te voorkomen. Hiervoor is de anti-slip pallet ontwikkeld. Deze pallet heeft een laag die zorgt voor stroefheid zodat dat de lading op zijn plek blijft staan.
+## Waarom lading op een pallet gaat schuiven
 
-## Verplicht of niet
+Verpakte producten met een glad oppervlak, zoals gladde dozen, trays, zakken of kratten, glijden makkelijk over het bovendek van een pallet. Dat gebeurt vooral bij remmen en in bochten, bij het verplaatsen met een heftruck en op rollenbanen. Een schuivende lading leidt tot:
 
-Hoe zit het precies met de verplichting tot het gebruik van een *anti-slip pallet*? U bent niet wettelijk verplicht om hier gebruik van te maken. Maar soms is de lading van een pallet kostbaar of levert het gezondheidsgevaar op als er beschadiging optreedt. Dan is het dus zeker aan te raden om de juiste pallet te kiezen. Kies dan voor een pallet met een laag die ervoor zorgt dat schuiven niet mogelijk is. De verantwoordelijkheid voor de juiste zorg bij transport en opslag ligt uiteindelijk bij degene die het transport inhuurt of zelf organiseert.
+* **Schade.** Beschadigde producten zijn onverkoopbaar.
+* **Gevaar.** Vallende lading kan medewerkers verwonden. Bij gevaarlijke stoffen kan een beschadigde verpakking gaan lekken.
+* **Storingen.** In een geautomatiseerd magazijn kan één verschoven doos een hele lijn stilleggen.
 
-## Pallet met anti-slip laag op maat
+## Is antislip verplicht?
 
-De pallets met anti-slip laag worden op maat gemaakt. Dit betekent dat wij speciale, op klantspecificatie gemaakte, [kunststof pallets](@pallets) aanbieden. Deze pallets biedt Q-Pall naast het omvangrijke standaard programma kunststof pallets. In overleg met u wordt gekeken naar wat gewenst is. Ook behoort het tot de mogelijkheden om alle door u benodigde pallets te voorzien van een anti-slip laag. Wilt u meer weten over onze pallets en de mogelijkheden om deze van een anti-slip laag te voorzien? Of heeft u andere vragen met betrekking tot ons assortiment? Neem dan gerust contact met ons op voor meer informatie. Wij helpen u graag verder met persoonlijk advies!
+Nee. Er is geen wettelijke plicht om antislip pallets te gebruiken. Wel moet een lading tijdens transport en opslag veilig staan. Wie goederen vervoert of laat vervoeren, moet daarvoor zorgen.
+
+Dat kan met stretchfolie, spanbanden, een passende pallet of een combinatie daarvan. Is uw lading kostbaar, of ontstaat er gevaar als die beschadigt? Dan is een antislip pallet zeker aan te raden.
+
+## Wanneer is een antislip pallet verstandig?
+
+* **Gladde verpakkingen.** Dozen, trays, zakken en kratten die makkelijk schuiven.
+* **Kostbare of kwetsbare lading.** Waar schade direct geld kost.
+* **Gevaarlijke stoffen.** Waar een beschadigde verpakking een risico is voor mens en omgeving.
+* **Snelle en geautomatiseerde processen.** Op rollenbanen en bij [AGV's](@guide-automation) moet de lading stabiel blijven, ook bij hogere snelheden.
+
+Een bijkomend voordeel: doordat de lading beter op de pallet blijft staan, heeft u vaak minder stretchfolie nodig.
+
+## Hoe werkt een antislip pallet?
+
+In het bovendek van een antislip pallet zitten stroken van een rubberachtig materiaal (TPE). Die geven extra wrijving tussen de pallet en de lading, zodat dozen en kratten minder snel verschuiven. Bij de [Ultra pallet](@ultra) zit er ook antislip aan de onderkant. Daardoor schuift de pallet zelf minder snel weg op de vorken of op een rollenbaan.
+
+## Antislip pallets van Q-Pall
+
+Antislip pallets zijn bij ons standaard leverbaar. De nieuwe generatie [medium antislip pallets](@type-antislip) heeft een gesloten bovendek met geïntegreerde antislipstroken:
+
+* **1200 x 800 mm** op 3 onderlatten.
+* **1200 x 1000 mm** op 3 of 5 onderlatten.
+
+Voor zware toepassingen en pools is er de heavy Ultra pallet van 1200 x 1000 mm, met antislip aan boven- en onderkant. Hoe we de medium antislip pallets hebben ontwikkeld, leest u in [innovatie in grip](@news-antislip-grip).
+
+Wilt u weten welke antislip pallet past bij uw lading en uw proces? [Vraag een offerte aan](@quote), dan ontvangt u meestal binnen één werkdag een prijs op maat.

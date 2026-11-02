@@ -1,69 +1,67 @@
 ---
 id: news-future-logistics
 title: "Why plastic pallets are the future of logistics – Q-Pall"
-description: "Hygienic, moisture-resistant and built for automated warehouses: discover why plastic pallets are replacing wood in modern, sustainable supply chains."
+description: "Plastic pallets are dimensionally stable, often lighter than wood and exempt from ISPM 15. Why they suit efficient, automated logistics."
 eyebrow: "News"
 tag: "Opinion"
-crumb: "Why plastic pallets are the future of"
+crumb: "The future of logistics"
 h1: "Why plastic pallets are **the future of logistics**"
-lead: "Plastic pallets offer clear advantages over wooden solutions. This is not a short‑term trend but a fundamental shift. Modern supply chains demand less material waste, more efficient workflows and greater sustainability. That's exactly what our plastic pallets deliver."
-img_alt: "Why plastic pallets are the future of logistics"
-reading: 4
+lead: "Modern supply chains call for less waste, more efficient processes and greater sustainability. Plastic pallets are dimensionally stable, do not absorb moisture and last a long time. That is why more and more companies are switching."
+img_alt: "Container terminal with a freight train and light trails representing digital data flows"
+reading: 3
+faq:
+- q: "Are plastic pallets lighter than wooden pallets?"
+  a: "Often, but it depends on the type. Light pallets are much lighter than wood. A heavy plastic pallet weighs 17 to 28 kg, compared with around 25 kg for a wooden Euro pallet."
+- q: "Do plastic pallets need ISPM 15 for export?"
+  a: "No. ISPM 15 only applies to packaging made of solid wood. Plastic pallets need no heat treatment or stamp."
+- q: "What happens to plastic pallets at the end of their life?"
+  a: "We take them back and grind them into raw material for new pallets. That way, the material stays in the loop."
+published: '2025-07-03'
+updated: '2026-11-02'
 ---
-## Plastic pallets as a modern solution in goods transport
+> **In short**
+>
+> * Plastic pallets are dimensionally stable and do not absorb moisture. Their shape and weight stay constant.
+> * That makes them well suited to automated warehouses, roller conveyors and AGVs.
+> * They are often lighter than wood and need no ISPM 15 treatment for export.
+> * At the end of their life, we take them back and turn them into new pallets.
 
-Today's demands in goods transport are exacting. Products must be moved hygienically, safely and efficiently. Wood often hits its limits. [Plastic pallets](@pallets), by contrast, are easy to clean, moisture‑resistant and chemical‑resistant.
+Plastic pallets have clear advantages over wooden pallets. This is not a passing trend but a structural shift. Modern supply chains call for less material loss, more efficient processes and greater sustainability. Plastic pallets fit those needs well.
 
-At Q‑Pall, we develop plastic pallets specifically for industries like food and pharmaceuticals – areas where absolute cleanliness is essential. Our products not only pass stress tests. They also withstand long deployments in automated warehouse systems without issue.
+## How the right pallet makes your logistics smarter
 
-In doing so, they protect both the cargo and the equipment that moves it.
+Choosing the right pallet makes a noticeable difference. The wrong choice leads to higher transport costs, unstable stacks or even machine downtime. That is why we make pallets for a wide range of applications: from [light pallets](@class-light) for one-way export to heavy pallets for pallet racking.
 
-## How the right pallet makes logistics processes more efficient
+Plastic pallets are dimensionally stable and often lighter than wooden pallets, depending on the type. That saves on transport costs and means fewer disruptions in automated processes. They are also easier for staff to handle. Read more about [plastic pallets for automation and AGVs](@guide-automation).
 
-The right pallet can significantly improve logistics processes. A wrong choice quickly leads to higher transport costs, unstable storage or even machine downtime. That’s why at Q‑Pall we offer precisely tailored solutions for various use cases – from heavy‑duty to lightweight.
+## Why plastic is well suited to pallets
 
-Our plastic pallets are dimensionally stable, accurate in size and significantly lighter than wood variants. This allows companies to reduce transport costs and minimize downtime in automated processes. The ease of handling, saving staff time and speeding material flow, is particularly appreciated.
+Wood has a long history, but modern logistics demands more. Plastic has no splinters and no nails, and it does not absorb moisture. Plastic pallets stay dimensionally stable even in freezing conditions, for example in cold stores and freezer warehouses. For cleanrooms, there are dedicated cleanroom pallets made from virgin plastic.
 
-## The use of plastic in pallet production
+Because plastic does not absorb moisture, the weight of the pallet stays the same. That matters for accurate loading. Deviations cost time and space, or lead to damage.
 
-Of course, wooden pallets have a long tradition. But modern logistics requirements demand solutions that go beyond. Plastic load carriers offer clear advantages: no splinters, no nails and no moisture. At Q‑Pall, we design pallets made for extreme environments – be it in cold storage or cleanrooms.
+## Wood or plastic: the differences
 
-They remain stable even at the lowest temperatures and, since they don't absorb water, their own weight stays constant. That’s a major advantage for precise loading, because every deviation costs time, capacity or increases the risk of transport damage.
+Wood is a natural material, but it is also vulnerable. It can splinter, contains nails and can attract pests. Wood is also not dimensionally or weight-stable when moisture and temperature change. In international supply chains, that leads to delays.
 
-## Load carriers compared: traditional vs. innovative
+In addition, wooden pallets often have to be treated under ISPM 15 for export outside the EU, usually with heat. That costs time and money. Plastic pallets are not covered by this standard.
 
-Wood is a natural material – but that also brings weaknesses. It can rot, splinter, attract pests, or become unstable with temperature and humidity fluctuations. In global supply chains, this regularly leads to delays.
+Damage to a wooden pallet often means it can no longer be used. Plastic pallets are more robust and last much longer. For a side-by-side overview, read [plastic or wooden pallets?](@guide-wood)
 
-Every day, Q‑Pall sees companies switching from wood to plastic to avoid failure risks. Wooden pallets, for example, often must be heat‑treated under ISPM 15 — a costly and time‑consuming process. Plastic does not require this.
+## From an alternative to wood to a smart load carrier
 
-Also, any damage to wood often means loss of function – our plastic models are significantly more robust and long‑lasting.
+What started as an alternative to wood has grown into a technical product for modern logistics. Our pallets can be fitted with an RFID tag, so you can track goods flows more closely. Retailer Auchan goes a step further and is deploying [50,000 smart Q-Pall pallets](@news-auchan) that measure location, temperature and shocks.
 
-## The evolution of the plastic pallet – from simple to efficient
+At the end of their life, we take the pallets back. We grind them into raw material and make new pallets from it. That way, the material stays in the loop.
 
-What began as an inexpensive alternative to wood is now high‑tech for logistics. Our latest plastic pallets at Q‑Pall are not only stackable but can be fitted with RFID technology on request. This allows tracking and controlling goods flows in real time. Especially in automated warehouses, this provides an efficiency boost. And when pallets are no longer usable after long use? We take them back, recycle the material and return it to the cycle. This way, every pallet contributes to sustainability.
+## What Q-Pall stands for
 
-## What Q‑Pall stands for
+Since 2005, Q-Pall has made nothing but plastic pallets. This is our approach:
 
-Q‑Pall represents intelligent, sustainable and future‑oriented solutions in pallet management. The company develops and manufactures high‑quality plastic pallets that are not only durable and robust but also provide clear added value for logistics and the environment.
+* **Recycled material.** We make our standard pallets from almost 100% recycled plastic, a mix of HDPE and PP. Read more about our approach on the [sustainability](@about-sustainability) page.
+* **Produced locally.** We make our pallets in six factories across Europe, close to our customers.
+* **A broad range.** Around 130 models in nine sizes and three classes: light, medium and heavy.
+* **Customisation.** We adapt existing models with, for example, your logo, your own colour or a marking.
+* **Dedicated service.** From initial advice to delivery, we think along with you.
 
-With a strong focus on recycling, innovation and efficiency, Q‑Pall aims to actively shape the circular economy. Customers benefit from a wide range, customized solutions and dedicated service – for smooth processes across the entire supply chain. Q‑Pall thinks ahead: ecologically, economically and reliably.
-
-### Q‑Pall: intelligent solutions in pallet management
-
-Q‑Pall represents modern and smart approaches in the field of pallet management. The company offers plastic pallets specifically designed to meet logistics and transport requirements efficiently. They rely on durable, robust and sustainable products.
-
-### Sustainability and circular economy in focus
-
-A central concern of Q‑Pall is environmental protection. By using recyclable materials and innovative production processes, the company makes a significant contribution to the circular economy.
-
-### Innovative product range and customized solutions
-
-Q‑Pall’s offering includes a wide range of plastic pallets that can be flexibly adapted to different requirements. Customers benefit from tailor‑made solutions, adjusted in both size and function to their specific needs. This way, logistics processes can be optimised and costs reduced.
-
-### Dedicated service for seamless operations
-
-In addition to high‑quality products, Q‑Pall offers comprehensive customer service. From consultation and planning to delivery, the team accompanies companies throughout the process. This ensures efficient processes and reliable supply of suitable pallet solutions.
-
-### Future‑oriented, ecological and economical
-
-Q‑Pall not only thinks about the present but also about the future. Focusing on sustainability, quality and innovation, the company develops products that are ecologically meaningful and economically viable. In this way, Q‑Pall supports its customers in implementing sustainable and efficient logistics solutions.
+Curious which plastic pallet suits your processes? [Request a quote](@quote). You will usually receive a tailored price within one working day.

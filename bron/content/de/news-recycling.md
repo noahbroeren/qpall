@@ -1,21 +1,63 @@
 ---
 id: news-recycling
 title: "Recycling von Kunststoffpaletten: Wie funktioniert das?"
-description: "Q-Pall fertigt Paletten aus recycelten Kunststoffen, die wieder recycelbar sind. Erfahren Sie Schritt für Schritt, wie das Recycling funktioniert."
+description: "Wie werden Kunststoffpaletten recycelt? Vom gesammelten Abfall zur neuen Palette: So funktioniert es, mit Paletten aus fast 100 % recyceltem Kunststoff."
 eyebrow: "Aktuelles"
 tag: "Nachhaltigkeit"
 crumb: "Recycling von Kunststoffpaletten"
 h1: "Recycling von Kunststoffpaletten: **Wie funktioniert das?**"
-lead: "Q-Pall fertigt Paletten aus recycelten Kunststoffen, die wieder recycelbar sind. Erfahren Sie Schritt für Schritt, wie das Recycling funktioniert."
-img_alt: "Recycling von Kunststoffpaletten: Wie funktioniert das?"
+lead: "Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, und am Ende ihrer Lebensdauer werden sie wieder zu Rohstoff. So funktioniert das Recycling von Kunststoffpaletten, Schritt für Schritt."
+img_alt: "Hand mit bunten Kunststoffverschlüssen über einer großen Menge Flaschendeckel"
 reading: 2
+faq:
+- q: "Sind Kunststoffpaletten recycelbar?"
+  a: "Ja. Am Ende ihrer Lebensdauer sind Kunststoffpaletten vollständig recycelbar. Das Material wird gemahlen und wieder als Rohstoff für neue Paletten verwendet."
+- q: "Woraus bestehen Paletten aus recyceltem Kunststoff?"
+  a: "Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff: einer Mischung aus HDPE und PP aus Abfallströmen wie Kisten, Verschlüssen und Verpackungen. Light-Paletten enthalten zusätzlich LDPE."
+- q: "Was passiert mit gebrauchten oder beschädigten Paletten?"
+  a: "Wir nehmen sie zurück. Paletten in gutem Zustand werden geprüft und bekommen über Q-Used ein zweites Leben. Beschädigte Paletten mahlen wir zu Rohstoff für neue Paletten."
+- q: "Sind Paletten aus recyceltem Kunststoff für Lebensmittel geeignet?"
+  a: "Nicht für den direkten Lebensmittelkontakt. Dafür sind unsere Hygienepaletten, H1-Paletten und Reinraumpaletten gedacht. Diese fertigen wir aus Neuware."
+published: '2022-01-12'
+updated: '2026-11-02'
 ---
-Einer der Gründe, warum Q-Pall sich für die Produktion von Paletten entschieden hat, ist der Nachhaltigkeitsaspekt. [Kunststoffpaletten](@pallets) bieten nicht nur eine längere Lebensdauer, sondern können zudem auch recycelt werden. Das ist gut für die Umwelt,und stärkt zudem das eigene Umweltbewusstsein! Aber wie funktioniert der Recyclingprozess und welche Schritte umfasst dieser? Das erklären wir Ihnen gerne.
+> **Kurz gesagt**
+>
+> * Am Ende ihrer Lebensdauer sind Kunststoffpaletten vollständig recycelbar.
+> * Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff: einer Mischung aus HDPE und PP.
+> * Der Rohstoff stammt aus Abfallströmen wie Kisten, Verschlüssen und Verpackungen.
+> * 2025 haben wir 34.500 Tonnen recycelten Kunststoff verarbeitet, rund 1.475 volle Lkw-Ladungen.
+> * Gebrauchte Paletten in gutem Zustand bekommen über Q-Used ein zweites Leben.
 
-## Produktion von recycelten Kunststoffpaletten bei Q-Pall
+## Warum Kunststoffpaletten recyceln?
 
-Wie in der Einleitung erwähnt, können wir Paletten aus vollständig recycelten Kunststoffen herstellen. Das macht unsere Paletten zu einer verantwortungsvollen und umweltfreundlichen Wahl. Dank dem widerstandsfähigem Material verfügen die Paletten über eine sehr lange Lebensdauer, während der sich auch ein paar Schläge und Stürze locker wegstecken. Zum Teil aufgrund des harten Materials, sind die Paletten witterungsbeständig und es besteht keine Gefahr einer Beschädigung der Waren durch Holzsplitter. Während der Produktion gewährleisten wir außerdem einen sehr niedrigen Energieverbrauch und CO2-Ausstoß pro Betriebsstunde. Neben den recycelten Paletten, bieten wir auch gebrauchte Kunststoffpaletten. Der Vorteil dabei ist, dass diese zu sehr vorteilhaften Preisen erhältlich sind. Und das ist nicht der einzige Vorteil; sie sind auch wesentlich langlebiger als Holzpaletten und umweltfreundlicher als neue Kunststoffpaletten. Sie sind daher nicht nur gut für Ihr Bankkonto, sondern auch für die Umwelt!
+Nachhaltigkeit ist einer der Gründe, warum Q-Pall Kunststoffpaletten herstellt. Kunststoffpaletten halten viele Jahre und lassen sich danach vollständig recyceln. Das Material einer alten Palette wird zum Rohstoff für eine neue.
 
-## Kunststoffpaletten-Recyclingprozess
+So bleibt Kunststoff im Kreislauf, und es wird weniger neuer Rohstoff benötigt. Das ist ein klarer Unterschied zu Holzpaletten, die am Ende ihrer Lebensdauer meist gehäckselt oder verbrannt werden.
 
-Kunststoffpaletten werden oftmals aus vollständig recyceltem Kunststoff, wie z. B. den harten Plastikkappen von PET- Flaschen, hergestellt. Diese Materialien werden dann z.B. nach Größe und Materialzusammensetzung sortiert. Wenn sie einen großen Anteil an Folie oder anderen Abfälle enthalten, werden die Materialien nicht verwendet. Die Paletten werden dann mit Hilfe von Formen hergestellt, die mit der erwärmten recycelten Kunststoff gefüllt werden. Die Kunststoffpaletten werden rund 10 Jahre halten, bevor sie recycelt werden können. Somit können neue Kunststoffprodukte aus dem Recyclingmaterial hergestellt werden. Eine aussortierte Kunststoffpalette kann zur Produktion einer neuen vollständig recycelt werden. Dagegen ist die Reparatur von Kunststoffpaletten relativ teuer und kann nur von zertifizierten Unternehmen durchgeführt werden. Daher entscheiden sich Unternehmen oft für das Recycling von beschädigten Paletten anstatt einer Reparatur. Suchen Sie attraktive Preise für nachhaltige Kunststoffpaletten? Dann werfen Sie einen Blick auf unser Angebot an Kunststoffpaletten, um alle Optionen zu sehen. Sie können auch gebrauchte Kunststoffpaletten wählen; diese sind sogar noch günstiger. Haben Sie Fragen oder spezielle Wünsche? Dann kontaktieren Sie uns bitte. Wir freuen uns darauf, gemeinsam mit Ihnen eine Lösung zu finden!
+## Woraus bestehen Paletten aus recyceltem Kunststoff?
+
+Unsere Standardpaletten fertigen wir aus recyceltem Kunststoff: einer Mischung aus HDPE (Kunststoffcode 2) und PP (Kunststoffcode 5). Beide sind Polyolefine, die sich im Recycling ähnlich verhalten. Unsere Light-Paletten enthalten zusätzlich LDPE. Was die Codes auf Kunststoff bedeuten und welche Arten gut recycelbar sind, lesen Sie in [Recycling-Codes für Kunststoffe](@news-ric).
+
+Das Material stammt aus Abfallströmen wie Kisten, Verschlüssen von Getränkeflaschen und Verpackungen. Die Verarbeitung von Rezyklat erfordert viel Know-how, denn es verhält sich anders als neuer Kunststoff. Dieses Know-how bauen wir seit 2005 auf.
+
+## Der Recyclingprozess Schritt für Schritt
+
+1. **Sammeln.** Post-Consumer- und Industriekunststoff wird gesammelt, auch Verpackungsabfälle von Unternehmen.
+2. **Sortieren und prüfen.** Das Material wird unter anderem auf Korngröße und Zusammensetzung geprüft. Enthält es zu viel Folie oder andere Verunreinigungen, wird es nicht verwendet.
+3. **Mahlen und reinigen.** Der Kunststoff wird gemahlen, gereinigt und zu recyceltem HDPE und PP verarbeitet.
+4. **Spritzgießen.** Das erwärmte Rezyklat wird in ein Werkzeug gespritzt. Das geschieht in dem [Werk, das dem Kunden am nächsten liegt](@about-local).
+5. **Nutzen.** Die Palette hält viele Jahre. Sie ist schlagfest, nimmt keine Feuchtigkeit auf, hat keine Splitter oder Nägel und braucht keine Behandlung nach ISPM 15.
+6. **Zurück in den Kreislauf.** Eine ausgediente Palette wird wieder zu Rohstoff für neue Paletten vermahlen.
+
+## Reparieren, wiederverwenden oder recyceln?
+
+Die Reparatur einer beschädigten Kunststoffpalette ist relativ teuer. Deshalb entscheiden sich Unternehmen meist dafür, beschädigte Paletten zu recyceln. Das Material geht dabei nicht verloren, denn es wird zum Rohstoff für eine neue Palette.
+
+Ist eine Palette noch in gutem Zustand, ist die Wiederverwendung die beste Wahl. Über [Q-Used](@used) kaufen wir gebrauchte Kunststoffpaletten an, prüfen sie und verkaufen sie weiter. Gebrauchte Paletten sind bis zu 40 % günstiger als neue.
+
+## Was das bringt
+
+2025 haben wir 34.500 Tonnen recycelten Kunststoff verarbeitet: rund 1.475 volle Lkw-Ladungen. Wir betrachten auch die Kunststoffabfallströme unserer Kunden. Wo möglich, verarbeiten wir gesammelten Kunststoff zu Rohstoff für neue Paletten. Mehr über unseren Ansatz lesen Sie auf unserer Seite [Nachhaltigkeit](@about-sustainability).
+
+Sie suchen Kunststoffpaletten aus recyceltem Kunststoff? [Fordern Sie ein Angebot an](@quote). In der Regel erhalten Sie innerhalb eines Werktags einen individuellen Preis.

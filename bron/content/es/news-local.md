@@ -6,11 +6,11 @@ eyebrow: "Noticias"
 tag: "Cadena de suministro"
 crumb: "La producción local como pilar"
 h1: "De tendencia a necesidad: la **producción local** como pilar de la resiliencia de la cadena de suministro"
-lead: "En un mundo inestable, el nearshoring ya no es una opción estratégica, sino un requisito para gestionar el riesgo. La producción local de equipos logísticos aporta tres cosas: resiliencia, menos emisiones de alcance 3 y un coste total (TCO) más bajo."
+lead: "En un mundo inestable, el nearshoring ya no es una opción, sino un requisito para gestionar el riesgo. La producción local de equipos logísticos aporta tres cosas: resiliencia, menos emisiones de alcance 3 y un TCO más bajo."
 img_alt: "Robots e inyectoras en la nave de producción de la fábrica de Q-Pall en Balk"
-reading: 5
+reading: 4
 published: '2026-01-22'
-updated: '2026-10-19'
+updated: '2026-11-02'
 ---
 > **En resumen**
 >
@@ -29,7 +29,7 @@ Conflictos como la guerra de Ucrania y las tensiones en rutas comerciales clave 
 
 ### Más transparencia en la cadena
 
-La normativa también tiene un peso creciente. Las grandes empresas deben poder justificar cada vez mejor de dónde proceden sus productos y cuál es su impacto ambiental, incluidas las emisiones de su cadena de suministro (alcance 3). Un equipo logístico como un palet que ha dado media vuelta al mundo encaja mal con ello.
+La normativa también tiene un peso creciente. Las grandes empresas deben poder justificar cada vez mejor de dónde proceden sus productos y cuál es su impacto ambiental, incluidas las emisiones de su cadena de suministro (alcance 3). Un equipo logístico como un palet que ha dado media vuelta al mundo encaja mal con ello. Cómo identificar las dependencias de su propia cadena lo explicamos en [de la dependencia global a la resiliencia local](@news-local-resilience).
 
 ## El modelo Q-Pall: producir cerca del cliente
 
@@ -45,9 +45,9 @@ Un enfoque regional también estabiliza los precios. Las tarifas de los contened
 
 La producción local también permite controlar el flujo de materias primas: la *cadena de custodia*. Es esencial para las empresas que se toman en serio sus objetivos ESG y quieren evitar el greenwashing.
 
-Fabricamos nuestros palets con plástico reciclado, una mezcla de HDPE (código 2) y PP. Puede leer más sobre este material en [PE-HD 2 reciclado (HDPE 2): ¿qué es exactamente?](@news-hdpe) Como compramos el material reciclado cerca, tenemos una visión directa de su calidad y su origen. Los residuos no recorren medio mundo antes de tener una nueva vida. El residuo local se convierte en materia prima local y en un producto local.
+Fabricamos nuestros palets estándar con plástico reciclado, una mezcla de HDPE (código 2) y PP (código 5). Puede leer más sobre este material en [PE-HD 2 reciclado (HDPE 2): ¿qué es exactamente?](@news-hdpe) Como compramos el material reciclado cerca, tenemos una visión directa de su calidad y su origen. Los residuos no recorren medio mundo antes de tener una nueva vida. El residuo local se convierte en materia prima local y en un producto local.
 
-El resultado es un palet técnicamente sólido (resistente a los impactos y a la intemperie, e higiénico) que cuenta una historia honesta en su informe de sostenibilidad. Al final de su vida útil, el palet es totalmente reciclable dentro de la misma cadena regional.
+El resultado es un palet técnicamente sólido (resistente a los impactos y a la intemperie, y fácil de limpiar) que cuenta una historia honesta en su informe de sostenibilidad. Al final de su vida útil, el palet es totalmente reciclable dentro de la misma cadena regional. Qué supone la producción local para el transporte, el CO₂ y el material reciclado lo explicamos en [producción local de palets de plástico y sostenibilidad](@news-local-sustainability).
 
 ## El futuro es regional
 

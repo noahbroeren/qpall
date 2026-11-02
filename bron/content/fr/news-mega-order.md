@@ -1,29 +1,48 @@
 ---
 id: news-mega-order
-title: "Méga-commande pour Q-Pall : un million de palettes durables"
-description: "D’ici 2034, Q-Pall produira au moins un million de palettes en plastique recyclé pour Drankenpallet Beheer Nederland, sa plus grande commande néerlandaise."
+title: "Méga-commande : un million de palettes durables – Q-Pall"
+description: "En mai 2023, Q-Pall a livré la première palette à Drankenpallet Beheer Nederland. D’ici 2034, au moins un million de palettes en plastique recyclé suivront."
 eyebrow: "Actualités"
 tag: "Entreprise"
-crumb: "Méga-commande pour Q-Pall"
+crumb: "Méga-commande Drankenpallet"
 h1: "Méga-commande pour Q-Pall : **un million de palettes durables**"
-lead: "Veghel/Balk, 24 mai 2023 – Aujourd'hui, à Balk, la première palette en plastique de Q-Pall a été livrée à Drankenpallet Beheer Nederland de manière festive. Jusqu'en 2034, au moins un million de palettes en plastique recyclé seront produites dans l'usine frisonne. Il s'agit de la plus grande commande néerlandaise pour Q-Pall depuis sa création en 2005."
-img_alt: "Méga-commande pour Q-Pall : un million de palettes durables"
+lead: "Le 24 mai 2023, Q-Pall a livré à Balk la première palette pour Drankenpallet Beheer Nederland. D’ici 2034, nous y produirons au moins un million de palettes en plastique recyclé : la plus grosse commande néerlandaise depuis 2005."
+img_alt: "Quatre hommes à côté de la première palette pour Drankenpallet Beheer Nederland, dans l’usine de Balk"
 reading: 3
+published: '2023-05-24'
+updated: '2026-11-02'
 ---
-Drankenpallet Beheer Nederland (DPB) est la coopérative de palettes pour l'industrie des boissons aux Pays-Bas. Pratiquement toutes les brasseries néerlandaises, ainsi qu'un grand nombre de fabricants de boissons gazeuses et de conserves, sont locataires de DPB.
+> **En bref**
+>
+> * Le 24 mai 2023, Q-Pall a livré dans son usine de Balk la première palette destinée à Drankenpallet Beheer Nederland (DPB).
+> * D’ici 2034, Q-Pall produira à Balk au moins un million de palettes en plastique recyclé pour ce pool de palettes.
+> * C’était la plus grande commande néerlandaise depuis la création de Q-Pall en 2005.
+> * La palette a été développée avec DPB : robuste, légère et résistante.
 
-## Ambitions circulaires
+## Le pool de palettes de l’industrie néerlandaise des boissons
 
-"Nous sommes très heureux de cette collaboration", déclare Christiaan Hamminga, directeur de Dranken Pallet Beheer Nederland. "Q-Pall recherche constamment des moyens d'améliorer ses produits, dispose d'un site de production très moderne avec un excellent service de qualité et des lignes de communication courtes. Grâce à ces liens étroits et à la production aux Pays-Bas, nous pouvons réagir rapidement. Ainsi, nous sommes assurés de recevoir des palettes de haute qualité, fabriquées à partir de matériaux recyclés, ce qui contribue à nos ambitions circulaires."
+Drankenpallet Beheer Nederland (DPB) est le pool de palettes de l’industrie néerlandaise des boissons. Presque toutes les brasseries néerlandaises ainsi qu’un grand nombre de fabricants de boissons rafraîchissantes et de conserves louent leurs palettes auprès de DPB.
 
-## Robuste, léger, résistant et durable
+Le 24 mai 2023, Q-Pall a livré lors d’une cérémonie, dans son usine de Balk, la première palette destinée à DPB. D’ici 2034, nous y fabriquerons au moins un million de palettes en plastique recyclé. C’était la plus grande commande néerlandaise pour Q-Pall depuis sa création en 2005. En savoir plus sur nos [palettes plastique pour l’industrie des boissons](@sector-beverage) et pour le [pooling](@sector-pooling).
 
-"Nous sommes extrêmement fiers d'avoir obtenu la confiance en tant qu'entreprise néerlandaise pour développer et fabriquer la palette pour pratiquement toute l'industrie des boissons du pays", explique Bjorn Oosterhof, co-fondateur et directeur de Q-Pall. "Grâce à un développement conjoint avec DPB, une palette robuste a été créée, à la fois légère, solide et durable. Cela a nécessité des recherches et des développements approfondis. De plus, elles sont fabriquées à plus de 99 % à partir de ce qu'on appelle des matières premières secondaires, telles que d'anciennes caisses, des bouchons et autres déchets plastiques, ce qui contribue directement aux problèmes mondiaux du plastique. Un modèle totalement circulaire."
+## Des ambitions circulaires
+
+Pour DPB, la qualité, la réactivité et l’utilisation de matière recyclée étaient essentielles. Christiaan Hamminga, directeur de Drankenpallet Beheer Nederland, déclarait lors de la livraison :
+
+> « Nous sommes très heureux de cette collaboration. Q-Pall cherche en permanence à améliorer ses produits, dispose d’un site de production très moderne avec un excellent service qualité et des circuits de communication courts. Grâce à ces circuits courts et à une production aux Pays-Bas, nous pouvons réagir rapidement. Nous sommes ainsi assurés de recevoir des palettes de grande qualité, fabriquées de surcroît en matière recyclée, qui contribuent à nos ambitions circulaires. »
+
+## Robuste, légère, résistante et durable
+
+Bjorn Oosterhof, cofondateur et directeur de Q-Pall, était fier de cette commande :
+
+> « Nous sommes extrêmement fiers d’avoir obtenu, en tant qu’entreprise néerlandaise, la confiance nécessaire pour développer et fabriquer la palette de pratiquement toute l’industrie néerlandaise des boissons. Grâce à un développement mené avec DPB, nous avons créé une palette robuste, légère mais résistante et durable. Elle est le fruit de recherches et de développements approfondis. De plus, les palettes sont fabriquées à près de 100 % à partir de matières premières dites secondaires, comme d’anciennes caisses, des bouchons et d’autres déchets plastiques. Nous contribuons ainsi directement à la lutte contre le problème mondial du plastique. Une démarche circulaire de bout en bout. »
+
+## Une production locale
+
+Les palettes pour DPB sortent de notre usine de Balk, dans la province de Frise. Cela correspond à la façon de travailler de Q-Pall : nous achetons le plastique recyclé au plus près de nos usines et produisons les palettes au plus près du client. Le transport est la principale source d’émissions de CO₂ dans la chaîne des palettes : chaque kilomètre économisé compte. En savoir plus sur la [production locale](@about-local).
 
 ## À propos de Q-Pall
 
-Q-Pall est un fabricant et distributeur de palettes en plastique fondé en 2005. L'entreprise se concentre sur le développement de palettes en plastique innovantes et réutilisables grâce à l'innovation en matière de conception, de recyclage et de production. Les palettes sont constituées à plus de 99 % de matériau recyclé.
+Depuis 2005, Q-Pall fabrique uniquement des palettes plastique et fait partie d’AVK Group. Le siège est situé à Veghel. Nous produisons dans six usines en Europe : Balk, Ribe, Marktoberdorf, Nantes, Lleida et Chesterfield. La gamme compte environ 130 modèles en neuf formats. Nous travaillons également avec 18 distributeurs dans 15 pays en Europe et aux États-Unis.
 
-Le siège social de Q-Pall est situé à Veghel. L'entreprise produit actuellement plus de 3,1 millions de palettes par an dans plus de 150 variantes sur cinq sites différents en Europe. Afin de réduire l'empreinte carbone, les émissions de CO2 et les coûts, Q-Pall a opté dès le départ pour une stratégie visant à acheter du plastique recyclé le plus près possible des usines et à produire les palettes le plus près possible des clients. Cela s'explique en partie par le fait que, en moyenne, 80 % des émissions de CO2 liées aux palettes en plastique proviennent du transport. Les sites de production sont situés aux Pays-Bas, au Danemark, en Allemagne, en France et en Espagne.
-
-Grâce à une production locale et à un réseau de distributeurs dans 24 pays en Europe et aux États-Unis, Q-Pall a livré un camion rempli de palettes en plastique toutes les trente minutes en 2022. Cela a généré un chiffre d'affaires de plus de 40 millions d'euros.
+Vous cherchez des palettes pour un pool ou pour l’industrie des boissons ? [Demandez un devis](@quote) : vous recevez généralement un prix sur mesure sous un jour ouvré.

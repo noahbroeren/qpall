@@ -1,29 +1,50 @@
 ---
 id: news-hq
-title: "Nueva sede europea para Q-Pall – Q-Pall"
-description: "La nueva sede europea de Q-Pall en Veghel, junto a la A50, incluye una nave de producción y se diseñó con criterios de RSC. Conozca el nuevo edificio."
+title: "Nueva sede europea en Veghel – Q-Pall"
+description: "A principios de 2022, Q-Pall terminó su nueva sede europea en Veghel: oficinas y almacén junto a la A50, diseñados con criterios de RSC y de eficiencia."
 eyebrow: "Noticias"
 tag: "Empresa"
-crumb: "Nueva sede europea para Q-Pall"
-h1: "Nueva sede europea **para Q-Pall**"
-lead: "La nueva sede europea de Q-Pall en Veghel, junto a la A50, incluye una nave de producción y se diseñó con criterios de RSC. Conozca el nuevo edificio."
-img_alt: "Nueva sede europea para Q-Pall"
-reading: 3
+crumb: "Nueva sede en Veghel"
+h1: "Nueva sede europea **para Q-Pall** en Veghel"
+lead: "A principios de 2022 finalizó la construcción de la nueva sede europea de Q-Pall en Veghel. El edificio, junto a la A50, combina oficinas con un almacén y se diseñó con criterios de responsabilidad social corporativa."
+img_alt: "La sede de Q-Pall en Veghel: un edificio gris oscuro con un voladizo naranja y grandes fachadas de cristal"
+reading: 2
+published: '2022-01-19'
+updated: '2026-11-02'
 ---
-La construcción de la nueva sede de Q-Pall ha finalizado. La nueva sede de Veghel está situada junto a la autopista A50. Además de la nueva sede europea, el nuevo edificio también contiene una nueva sala de producción. Q-Pall es uno de los líderes del mercado global en el campo de los palets de plástico. La nueva ubicación es necesaria para que esta empresa, creada en 2005, logre una mayor expansión, y además ofrece buenas perspectivas para el desarrollo de la Responsabilidad Social Corporativa (RSC), que es especialmente importante para Q-Pall.
+> **En resumen**
+>
+> * A principios de 2022 quedó terminada la nueva sede europea de Q-Pall en Veghel, junto a la autopista A50.
+> * El edificio alberga la sede central, el centro de operaciones europeo y un almacén.
+> * Los pilotes de cimentación ya existentes, una bomba de calor y paneles solares lo hicieron eficiente en materiales y energía.
+> * Los palets se fabrican en seis fábricas en Europa, lo más cerca posible del cliente.
 
-## LA NUEVA PROPIEDAD
+## Una nueva sede junto a la A50
 
-Este compromiso con la RSC de Q-Pall queda patente, por ejemplo, en el diseño y la construcción de la nueva oficina central y la nueva nave industrial. Los pilares de cimentación ya estaban presentes en el terreno de construcción y se tuvieron en cuenta al diseñar el edificio. Esto no solo supone un ahorro en costos de construcción, sino que también evita el uso innecesario de materiales. Además, la nueva construcción hace posible que Q-Pall avance considerablemente en el campo de la RSC. Por ejemplo, no faltarán una bomba de aire/calor y colectores solares en el tejado y el nuevo edificio será virtualmente neutral en cuanto al gasto energético.
+A principios de 2022, Q-Pall finalizó la construcción de su nueva sede europea en Veghel. El edificio se encuentra directamente junto a la autopista A50. Además de la sede central y el centro de operaciones europeo, Q-Pall incorporó allí un nuevo almacén. ¿Viene usted mismo a cargar o descargar palets en Veghel? [Registre su transporte con antelación](@transport).
 
-El diseño del edificio es elegante y simple, gracias a los grandes ventanales, los grandes voladizos y la incorporación integral de, por ejemplo, las persianas en la fachada, el resultado será un hermoso edificio. Es un paso más y un gran paso en los esfuerzos de Q-Pall para producir palets de plástico sostenibles de manera eficiente
+La nueva ubicación era necesaria para que la empresa, fundada en 2005, pudiera seguir creciendo. Al mismo tiempo, el nuevo edificio ofrecía oportunidades en materia de responsabilidad social corporativa (RSC), un tema de gran importancia para Q-Pall.
 
-## Q-PALL Y PALET DE PLÁSTICO
+## Construcción sostenible
 
-Q-Pall es una empresa europea importante en el campo de la fabricación de materiales de embalaje de plástico y, en particular, **palets plástico.** Q-Pall se caracteriza por producir los palets de plástico tanto como sea posible en el lugar donde se necesitan. Esto se logra transportando los moldes con los que se fabrican los palets a una planta de producción local. Con solo transportar estos moldes, se obtiene un enorme ahorro en kilómetros de transporte y, por lo tanto, en las emisiones de CO2 y en los costos de los camiones.
+Este compromiso con la RSC se refleja en el diseño y la construcción del edificio. En el terreno ya había pilotes de cimentación, y el diseño los tuvo en cuenta. Así se ahorraron costes de construcción y se evitó **un uso innecesario de materiales**.
 
-Un ejemplo concreto: si se produjeran palets de plástico en los Países Bajos destinados al mercado francés, esto supondría que muchos camiones cargados tendrían que hacer largos viajes hacia el sur, y de vuelta. Al transportar solo el molde a Francia y producir los palets localmente, se obtiene un enorme ahorro en kilómetros de transporte y, por lo tanto, en emisiones de CO2. Ahora hay plantas de producción en Balk (NL), Ringe y Marktoberdorf (D), Ribe (DK) y Nantes (F).
+Además, el edificio se equipó con una bomba de calor y paneles solares en la cubierta. Se diseñó para ser prácticamente de balance energético neutro. Conozca mejor nuestro enfoque en la página de [sostenibilidad](@about-sustainability).
 
-## Q-PALL GESTIONA LA CADENA COMPLETA
+El diseño es sobrio y sencillo. Grandes ventanales, amplios voladizos y una protección solar integrada en la fachada dan carácter al edificio.
 
-Q-Pall no solo produce palets de plástico. El diseño, la distribución y las ventas también están a cargo de Q-Pall. Por lo tanto, la compañía en Veghel está activa en toda la cadena, con el resultado de que todos los componentes están adecuadamente coordinados. Otra característica importante de los palets de plástico es que pueden volver a reciclarse completamente después de su vida útil. Los ***palets de plástico utilizados*** sirven como materia prima para palets nuevos. Además, el plástico que se retira de los océanos, la llamada sopa de plástico, forma un componente cada vez más importante de las materias primas utilizadas. Este es también un buen ejemplo de las medidas que Q-Pall está tomando en el contexto de la Responsabilidad Social Corporativa.
+## Producir cerca del cliente
+
+Q-Pall fabrica exclusivamente palets de plástico. Nuestra seña de identidad es producirlos lo más cerca posible del cliente. No viajan los palets, sino los moldes con los que se fabrican. Instalamos un molde en la fábrica más cercana al cliente. Así ahorramos muchos kilómetros de transporte, costes y emisiones de CO₂.
+
+Un ejemplo: si los palets destinados al mercado francés se fabrican en los Países Bajos, muchos camiones llenos tienen que hacer largos trayectos hacia el sur y de vuelta. Si solo se envía el molde a nuestra fábrica de Nantes, la mayoría de esos viajes dejan de ser necesarios.
+
+Q-Pall produce en seis fábricas: Balk (Países Bajos), Ribe (Dinamarca), Marktoberdorf (Alemania), Nantes (Francia), Lleida (España) y Chesterfield (Reino Unido). Casi todos los clientes están a menos de 600 kilómetros de una fábrica. Más información sobre la [producción local](@about-local).
+
+## Toda la cadena en nuestras manos
+
+Q-Pall no solo se encarga de la producción, sino también del diseño, la distribución y la venta de los palets. Como estamos presentes en toda la cadena, todas las partes encajan bien entre sí.
+
+Nuestros palets estándar están fabricados con plástico reciclado casi al 100 %. Al final de su vida útil son totalmente reciclables: los recogemos y los trituramos para convertirlos en materia prima para nuevos palets. Los palets que siguen en buen estado tienen una segunda vida con [Q-Used](@used).
+
+¿Quiere saber qué palet de plástico se adapta a su aplicación? [Contacte con nosotros](@contact).

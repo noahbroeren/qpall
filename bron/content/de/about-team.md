@@ -8,6 +8,6 @@ lead: "Hinter jeder Palette stehen Menschen. Lernen Sie Ihre Ansprechpartner bei
 ---
 ## Immer ein fester Ansprechpartner
 
-Ob Sie eine einzelne Palette suchen oder einen festen Palettenkreislauf für mehrere Standorte: Bei Q-Pall haben Sie einen festen Ansprechpartner. Er kennt unser [Sortiment](@pallets), die [Belastungswerte](@about-load) und unsere [Produktionsstandorte](@about-local) und sorgt dafür, dass Ihre Frage schnell bei der richtigen Person landet.
+Ob Sie einen einzelnen Stapel Paletten suchen oder einen festen Palettenkreislauf für mehrere Standorte: Bei Q-Pall haben Sie einen festen Ansprechpartner. Er kennt unser [Sortiment](@pallets), die [Belastungswerte](@about-load) und unsere [Produktionsstandorte](@about-local) und sorgt dafür, dass Ihre Frage schnell bei der richtigen Person landet.
 
 Sie möchten direkt einen Preis? [Fordern Sie ein Angebot an](@quote), meist erhalten Sie innerhalb eines Werktags eine Antwort. Für andere Fragen können Sie uns auch [kontaktieren](@contact).

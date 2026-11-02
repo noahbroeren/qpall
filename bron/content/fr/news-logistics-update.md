@@ -1,48 +1,55 @@
 ---
 id: news-logistics-update
 title: "Logistique mondiale et palettes Q-Pall : le point – Q-Pall"
-description: "Tensions au Moyen-Orient, logistique sous pression : découvrez comment la production européenne locale de Q-Pall sécurise votre approvisionnement."
+description: "Comment Q-Pall a-t-elle géré la pression sur la logistique mondiale en mars 2026 ? Production européenne, fiabilité, coûts de transport et stocks."
 eyebrow: "Actualités"
 tag: "Supply chain"
-crumb: "Logistique mondiale et palettes Q-Pall"
+crumb: "Point logistique mars 2026"
 h1: "Point sur la **logistique mondiale** et les palettes plastique Q-Pall"
-lead: "Tensions au Moyen-Orient, logistique sous pression : découvrez comment la production européenne locale de Q-Pall sécurise votre approvisionnement."
-img_alt: "Point sur la logistique mondiale et les palettes plastique Q-Pall"
-reading: 3
+lead: "En mars 2026, les événements au Moyen-Orient ont mis la logistique mondiale sous pression. Q-Pall a continué à livrer de manière fiable grâce à une production et des achats en Europe. Les coûts de transport ont toutefois augmenté."
+img_alt: "Hautes piles de palettes plastique orange dans un entrepôt"
+reading: 2
 published: '2026-03-26'
+updated: '2026-11-02'
 ---
 > **En bref**
 >
-> Les chaînes d'approvisionnement mondiales subissent actuellement une pression importante en raison des développements géopolitiques au Moyen-Orient. Cependant, Q-Pall maintient une position stable et une fiabilité d'approvisionnement élevée grâce à sa production européenne locale. Pour garantir une efficacité opérationnelle, nous conseillons aux entreprises de revoir leurs stocks de sécurité, tandis que nous gérons en toute transparence l'augmentation des coûts de transport pour maintenir notre partenariat.
+> * En mars 2026, les événements au Moyen-Orient ont mis sous pression la logistique mondiale et les marchés des matières premières.
+> * Q-Pall produit et s’approvisionne entièrement en Europe et est ainsi restée un fournisseur fiable.
+> * Les tarifs de transport ont fortement augmenté. Nous avons répercuté de manière transparente les hausses avérées.
+> * Nous avons augmenté notre stock de sécurité et conseillé à nos clients de revoir leurs propres stocks.
 
 ## Impact sur la logistique mondiale
 
-Les récents développements au Moyen-Orient et leur impact sur la logistique mondiale ainsi que sur les marchés des matières premières ne nous ont certainement pas échappé. La situation évolue rapidement et a déjà un effet notable sur la disponibilité, les délais de livraison et les coûts à travers l'ensemble de la chaîne d'approvisionnement.
+Au printemps 2026, les événements au Moyen-Orient ont eu un impact net sur la logistique mondiale et les marchés des matières premières. La situation évoluait rapidement. La disponibilité, les délais de livraison et les coûts ont été mis sous pression dans toute la chaîne d’approvisionnement.
 
 ## Une position européenne stable
 
-Dans le même temps, nous tenons à souligner que Q-Pall opère actuellement depuis une position relativement stable. Notre production et nos approvisionnements se font entièrement en Europe.
+Pendant cette période, Q-Pall a opéré depuis une position relativement stable. Notre production et nos achats se font entièrement en Europe : nous fabriquons nos palettes dans [six usines réparties en Europe](@about-local) et achetons la matière recyclée dans la région autant que possible.
 
-> "Cela nous rend moins dépendants des flux intercontinentaux de matières premières et nous permet de réagir plus rapidement aux changements si nécessaire."
+> « Cela nous rend nettement moins dépendants des flux intercontinentaux de matières premières et nous permet de réagir plus rapidement aux changements si nécessaire. »
+
+Pourquoi la production locale rend la chaîne plus résiliente ? Vous le découvrirez dans notre article sur [la production locale, pilier de la résilience de la supply chain](@news-local).
 
 ## Pression sur les transports et stock de sécurité
 
-Cependant, nous constatons une pression croissante sur les transports, et les tarifs de transport ont désormais considérablement augmenté. Là où ces coûts augmentent de manière avérée, nous sommes contraints de les répercuter conformément à notre mode de fonctionnement habituel. Naturellement, nous le faisons avec le plus grand soin et en toute transparence.
+La pression sur les transports s’est toutefois accrue, et les tarifs de transport ont nettement augmenté. Lorsque ces coûts ont augmenté de manière avérée, nous les avons répercutés conformément à notre mode de fonctionnement habituel. Nous l’avons fait avec soin et en toute transparence.
 
-Afin de garantir la continuité des livraisons, nous prenons également des mesures supplémentaires. Par exemple, nous augmentons notre stock de sécurité afin de mieux absorber les fluctuations. Nous constatons que cela devient également un sujet de plus en plus essentiel pour nos clients. Nous vous conseillons donc vivement de revoir de manière critique vos propres niveaux de stock de sécurité à court terme et, si nécessaire, de les augmenter à temps, en fonction des évolutions de votre marché.
+Pour sécuriser les livraisons, nous avons pris des mesures supplémentaires. Nous avons par exemple augmenté notre stock de sécurité afin de mieux absorber les fluctuations du marché. Pour de nombreux clients, c’est aussi devenu un sujet important. Nous leur avons donc conseillé de revoir de manière critique leurs propres stocks de sécurité et, si nécessaire, de les augmenter à temps.
 
-## Ce que cela signifie en pratique
+## Ce que cela a signifié en pratique
 
-À l'exception des coûts de transport, nous ne voyons actuellement aucune raison directe d'ajuster nos prix. Parallèlement, nous reconnaissons également que la hausse des coûts de transport n'a pas seulement un impact direct, mais peut aussi affecter indirectement le coût des matières premières et des produits semi-finis. Compte tenu de la dynamique actuelle du marché, il est difficile de prédire comment cette situation évoluera ou combien de temps elle durera.
+En dehors des coûts de transport, nous n’avons vu aucune raison directe d’ajuster nos prix. La hausse des coûts de transport peut toutefois avoir un effet indirect sur les prix d’achat des matières premières et des produits semi-finis. Il était difficile de prévoir comment la situation allait évoluer et combien de temps elle durerait. Nous avons donc appliqué trois principes :
 
-- Les nouvelles demandes et commandes seront basées sur les développements de coûts les plus récents.
-- Les devis et hypothèses existants pourront, si nécessaire, être révisés en fonction de la situation actuelle du marché.
-- Les composantes de transport pourront être ajustées séparément lorsque les circonstances l'exigeront.
-- Notre point de départ reste inchangé : **fiabilité d'approvisionnement, transparence et partenariat**. Surtout dans ces circonstances, nous croyons aux circuits de communication courts et au dialogue ouvert, afin que nous puissions continuer à construire ensemble des solutions stables et prévisibles.
+* **Nouvelles demandes et commandes.** Elles étaient basées sur l’évolution actuelle des coûts.
+* **Devis existants.** Ils pouvaient être révisés en fonction de la situation du marché si nécessaire.
+* **Transport.** La composante transport pouvait être ajustée séparément lorsque les circonstances l’exigeaient.
 
-### Prêt à sécuriser votre chaîne d'approvisionnement ?
+Notre point de départ est resté inchangé : **fiabilité d’approvisionnement, transparence et partenariat**. Dans une telle période, des circuits de communication courts et un dialogue ouvert sont plus que jamais précieux. Pour en savoir plus sur notre rôle dans la chaîne, consultez la page [palettes plastique pour la logistique](@sector-logistics).
 
-Si vous souhaitez discuter de questions en cours ou anticiper la période à venir, nous sommes bien entendu prêts à vous accompagner.
+## Préparer votre chaîne d’approvisionnement
+
+Vous souhaitez discuter de votre planification des stocks ou de commandes en cours ? Nos spécialistes sont à votre écoute.
 
 [Contactez nos experts](@contact){: .btn .btn-primary}
 {: .btn-row}

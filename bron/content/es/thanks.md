@@ -28,7 +28,7 @@ more:
   cat_t: Catálogo de productos
   cat_d: Todos los palets con medidas y cargas en un PDF.
   kb_t: Guías
-  kb_d: Medidas de palets, precios, NIMF 15 y PPWR explicados.
+  kb_d: Medidas de palets, precios, ISPM 15 y PPWR explicados.
   tr_t: Registrar un transporte
   tr_d: ¿Carga o entrega usted mismo? Reserve una franja horaria en la fábrica.
 ---

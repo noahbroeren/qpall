@@ -1,23 +1,42 @@
 ---
 id: news-ecovadis-silver
-title: "Q-Pall erhält EcoVadis-Silbermedaille – Q-Pall"
-description: "Seit dem 15. April 2023 trägt Q-Pall die EcoVadis-Silbermedaille und zählt damit zu den 20 % nachhaltigsten Unternehmen weltweit. Das steckt dahinter."
+title: "EcoVadis-Silbermedaille im April 2023 – Q-Pall"
+description: "Im April 2023 erhielt Q-Pall die EcoVadis-Silbermedaille und gehörte damit zu den besten 20 % der bewerteten Unternehmen. Was das bedeutete."
 eyebrow: "Aktuelles"
 tag: "Nachhaltigkeit"
-crumb: "Q-Pall erhält EcoVadis-Silbermedaille"
-h1: "Q-Pall erhält **EcoVadis-Silbermedaille**"
-lead: "Seit dem 15. April 2023 trägt Q-Pall die EcoVadis-Silbermedaille und zählt damit zu den 20 % nachhaltigsten Unternehmen weltweit. Das steckt dahinter."
-img_alt: "Q-Pall erhält EcoVadis-Silbermedaille"
+crumb: "EcoVadis Silber 2023"
+h1: "Q-Pall erhielt 2023 die **EcoVadis-Silbermedaille**"
+lead: "Am 15. April 2023 erhielt Q-Pall die Silbermedaille von EcoVadis. Damit gehörte Q-Pall zu den besten 20 % der Unternehmen, die EcoVadis weltweit bewertet."
+img_alt: "Abzeichen der EcoVadis-Silbermedaille 2023 (Sustainability Rating)"
 reading: 2
+published: '2023-04-26'
+updated: '2026-11-02'
 ---
-Q-Pall, ein führender Hersteller von [Kunststoffpaletten](@pallets), freut sich bekannt zu geben, dass das Unternehmen am 15. April 2023 die prestigeträchtige EcoVadis Silbermedaille erhalten hat. Dank dieser Anerkennung gehört Q-Pall nun zu den 20% nachhaltigsten Unternehmen weltweit.
+> **Kurz gesagt**
+>
+> * Am 15. April 2023 erhielt Q-Pall die Silbermedaille von EcoVadis.
+> * Damit gehörte Q-Pall zu den besten 20 % der von EcoVadis bewerteten Unternehmen.
+> * EcoVadis bewertet Unternehmen unabhängig nach ihrer Umwelt-, Sozial- und Ethikleistung.
+> * 2025 und im Oktober 2026 erhielt Q-Pall die Bronzemedaille.
 
-EcoVadis ist eine internationale Bewertungsplattform, die Unternehmen hinsichtlich ihrer Umwelt-, Sozial- und Ethikleistung bewertet. Es handelt sich um einen unabhängigen und zuverlässigen Indikator für die Nachhaltigkeitsleistung eines Unternehmens, der weltweit von Kunden und Partnern anerkannt wird.
+## Was ist EcoVadis?
 
-Diese Silbermedaille zeugt von den kontinuierlichen Bemühungen von Q-Pall, seinen ökologischen Fußabdruck zu verringern, soziale Verantwortung zu übernehmen und hohe ethische Standards in seinen Geschäftspraktiken aufrechtzuerhalten. Das Unternehmen hat konsequent daran gearbeitet, seine Produktionsprozesse zu verbessern und sein Engagement für Nachhaltigkeit zu stärken.
+EcoVadis ist eine internationale Bewertungsplattform. Sie bewertet Unternehmen nach ihrer Leistung in den Bereichen Umwelt, soziale Bedingungen und Ethik. Kunden und Partner weltweit nutzen die Bewertung als unabhängigen Maßstab für die Nachhaltigkeit eines Lieferanten.
 
-Die Geschäftsführung von Q-Pall ist besonders stolz auf diese Anerkennung und sieht sie als Bestätigung für die Wirksamkeit der Maßnahmen, die das Unternehmen ergriffen hat, um einen positiven Beitrag für Mensch und Umwelt zu leisten. Q-Pall ist entschlossen, seine Nachhaltigkeitsbemühungen weiter zu verstärken und strebt an, in Zukunft noch bessere Ergebnisse im Bereich Nachhaltigkeit und unternehmerische Sozialverantwortung zu erzielen.
+## Silber im April 2023
 
-## Über Q-Pall
+Im April 2023 erhielt Q-Pall die EcoVadis-Silbermedaille. Damit gehörte Q-Pall zu den besten 20 % der bewerteten Unternehmen.
 
-Q-Pall ist ein innovativer Hersteller von hochwertigen Kunststoffpaletten mit einem starken Fokus auf Nachhaltigkeit und Kreislaufwirtschaft. Das Unternehmen bietet eine breite Palette von Palettenlösungen für verschiedene Branchen, darunter Logistik, Lebensmittel, Pharma und Einzelhandel. Q-Pall ist stolz auf seine umweltfreundlichen Produktionsprozesse, die Verwendung von recycelten Materialien und die lange Lebensdauer seiner Paletten, wodurch Abfall minimiert und natürliche Ressourcen geschont werden. Für weitere Informationen über Q-Pall und seine Nachhaltigkeitsinitiativen besuchen Sie bitte qpall.com/de oder kontaktieren Sie John van Boesschoten per [boesschoten@qpall.com](mailto:boesschoten@qpall.com)oder [+31 6 24506309](tel:+31624506309).
+Die Medaille würdigte unsere Arbeit, den ökologischen Fußabdruck zu verringern, soziale Verantwortung zu übernehmen und hohe ethische Standards einzuhalten. Vieles davon steckt in der Art, wie wir Paletten herstellen:
+
+* **Recycelter Kunststoff.** Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff.
+* **Lokale Produktion.** Wir produzieren so nah wie möglich am Kunden, damit weniger Transport nötig ist. Mehr über [lokale Produktion](@about-local).
+* **Eine lange Lebensdauer.** Eine Kunststoffpalette hält viele Jahre. Danach nehmen wir sie zurück und mahlen sie zu Rohstoff für neue Paletten.
+
+Die Geschäftsführung von Q-Pall sah die Medaille als Bestätigung, dass die getroffenen Maßnahmen wirkten, und als Ansporn, sich im Bereich Nachhaltigkeit und unternehmerische Verantwortung weiter zu verbessern.
+
+## Bronze 2025 und 2026
+
+Nach der Silbermedaille von 2023 erhielt Q-Pall 2025 die EcoVadis-Bronzemedaille. Im Oktober 2026 folgte erneut Bronze. Damit gehören wir zu den besten 35 % der bewerteten Unternehmen. Auf der Seite [Nachhaltigkeit](@about-sustainability) lesen Sie, wie wir an nachhaltigen [Kunststoffpaletten](@pallets) arbeiten, vom Rohstoff bis zum Recycling.
+
+Benötigen Sie für eine Lieferantenbewertung oder Ihre eigene Nachhaltigkeitsberichterstattung Informationen über Q-Pall? [Nehmen Sie Kontakt mit uns auf](@contact).

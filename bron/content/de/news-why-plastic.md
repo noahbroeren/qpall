@@ -1,27 +1,61 @@
 ---
 id: news-why-plastic
-title: "Warum sich Unternehmen für Kunststoffpaletten entscheiden"
-description: "Kein Verrotten, kein Splittern, weniger Pflege: Lesen Sie die drei wichtigsten Gründe, warum Unternehmen Kunststoffpaletten statt Holzpaletten wählen."
+title: "Warum Unternehmen Kunststoffpaletten wählen – Q-Pall"
+description: "Kunststoffpaletten verrotten und splittern nicht, lassen sich gut reinigen und halten jahrelang. Die drei wichtigsten Gründe für den Umstieg von Holz."
 eyebrow: "Aktuelles"
 tag: "Wissen"
-crumb: "Warum sich Unternehmen für"
+crumb: "Warum Kunststoffpaletten?"
 h1: "Warum sich Unternehmen **für Kunststoffpaletten entscheiden**"
-lead: "Kein Verrotten, kein Splittern, weniger Pflege: Lesen Sie die drei wichtigsten Gründe, warum Unternehmen Kunststoffpaletten statt Holzpaletten wählen."
-img_alt: "Warum sich Unternehmen für Kunststoffpaletten entscheiden"
+lead: "Kunststoffpaletten verrotten und splittern nicht, lassen sich gut reinigen und halten viele Jahre. Das sind die drei wichtigsten Gründe, warum Unternehmen von Holz auf Kunststoff umsteigen."
+img_alt: "Lagermitarbeiter mit einem elektrischen Hubwagen neben einem Stapel blauer Kunststoffpaletten"
 reading: 2
+faq:
+- q: "Sind Kunststoffpaletten teurer als Holzpaletten?"
+  a: "In der Anschaffung meist ja. Eine Kunststoffpalette hält aber viel länger und muss weder repariert noch behandelt werden. Pro Umlauf ist Kunststoff deshalb oft günstiger."
+- q: "Sind Kunststoffpaletten leichter als Holzpaletten?"
+  a: "Oft ja, aber das hängt vom Typ ab. Light-Paletten sind viel leichter als Holz. Eine Heavy-Palette aus Kunststoff wiegt 17 bis 28 kg, eine Europalette aus Holz etwa 25 kg."
+- q: "Sind Kunststoffpaletten wirklich nachhaltig?"
+  a: "Ja, wenn sie lange halten und danach recycelt werden. Unsere Standardpaletten bestehen zu fast 100 % aus recyceltem Kunststoff und sind am Ende ihrer Lebensdauer vollständig recycelbar."
+published: '2021-12-10'
+updated: '2026-11-02'
 ---
-Wer Waren transportieren oder lagern muss, nutzt in der Regel Paletten. Diese einfach aussehenden Plattformen wurden speziell für das bequeme Stapeln und Transportieren von Waren entwickelt. Neben Holzpaletten gibt es auf dem Markt auch [Kunststoffpaletten](@pallets), die oft auch Plastikpaletten genannt werden. Diese Paletten sind in verschiedenen Formen, Typen und Größen erhältlich und bieten einige Vorteile gegenüber herkömmlichen Holzpaletten. Entdecken Sie hier die 3 wichtigsten Gründe, sich ab sofort für unsere Produkte zu entscheiden!
+> **Kurz gesagt**
+>
+> * **Benutzerfreundlich:** keine Fäulnis, keine Splitter oder Nägel, leicht zu reinigen und keine Behandlung nach ISPM 15 beim Export.
+> * **Wirtschaftlich:** Die Anschaffung kostet mehr als bei Holz, die Kosten pro Umlauf sind aber oft niedriger.
+> * Gebrauchte Kunststoffpaletten von **Q-Used** sind bis zu 40 % günstiger als neue.
+> * **Nachhaltig:** Unsere Standardpaletten bestehen zu fast 100 % aus recyceltem Kunststoff und sind vollständig recycelbar.
 
-## 1. Kunststoffpaletten sind benutzerfreundlich
+## Holz oder Kunststoff?
 
-Im Vergleich zu Holzpaletten bieten [Kunststoffpaletten](@pallets) einige Vorteile und sind in vielen Bereichen wesentlich benutzerfreundlicher. Im Gegensatz zu Holzpaletten können sie beispielsweise nicht verrotten oder splittern. Sie sehen außerdem oft ordentlicher aus und erfordern weniger Pflege. Kunststoffpaletten lassen sich zudem leichter sauber halten und müssen vor dem Export nicht nach ISPM 15 gegen Schädlinge behandelt werden. Eine Plastikpalette ist daher wesentlich hygienischer und für den Transport in der [Lebensmittelindustrie](@sector-food) hervorragend geeignet.
+Wer Waren transportiert oder lagert, nutzt Paletten. Neben Holzpaletten gibt es Kunststoffpaletten in vielen Formen, Arten und Größen. Sie haben gegenüber Holz einige klare Vorteile.
 
-## 2. Eine wirtschaftliche Option
+Unten lesen Sie die drei wichtigsten. Einen vollständigen Vergleich finden Sie unter [Kunststoff- oder Holzpaletten?](@guide-wood)
 
-Immer öfter entscheiden sich Unternehmen für **Kunststoffpaletten**, weil sie oft eine sehr wirtschaftliche Wahl sind. Sie können dabei nicht nur neue, sondern auch gebrauchte Paletten auswählen. Wenn Sie sich für neue Paletten entscheiden, können diese auf Wunsch speziell für Ihr Unternehmen hergestellt werden und Sie haben die Wahl zwischen vielen Farben, Größen und Formen. In vielen Fällen ist es jedoch preiswerter, gebrauchte Paletten zu wählen. Kunststoffpaletten bestehen meist aus einem Stück und sind daher weniger anfällig für Beschädigungen. Sie halten sehr lange, weshalb auch [**gebrauchte Kunststoffpaletten**](@used) oft von sehr hoher Qualität sind.
+## Kunststoffpaletten sind benutzerfreundlich
 
-## 3. Plastikpaletten sind eine nachhaltige Wahl
+Kunststoff verrottet und splittert nicht. Es gibt keine losen Bretter oder Nägel, die Ihre Ladung oder Maschinen beschädigen. Deshalb brauchen Kunststoffpaletten wenig Wartung.
 
-Kunststoffpaletten sind also in der Regel eine **kostengünstige und benutzerfreundliche Alternative zu Holzpaletten**. Viele Menschen verbinden Kunststoff jedoch automatisch mit Umweltverschmutzung. Dabei sind Plastikpaletten im Allgemeinen nicht schlechter und oftmals sogar umweltfreundlicher als Holzpaletten. Viele neue Kunststoffpaletten bestehen aus [recyceltem Material](@news-hdpe), was die Umwelt bei der Herstellung weniger belastet. Außerdem werden sie über viele Jahre immer wieder eingesetzt und lassen sich am Ende ihrer Lebensdauer erneut recyceln. Wer auf die Kunststoffalternative zurückgreift, hat damit einen echten Umweltvorteil!
+Sie nehmen keine Feuchtigkeit auf und lassen sich gut reinigen. Jede Palette desselben Modells hat dieselben Maße und dasselbe Gewicht, was Störungen in automatisierten Anlagen vorbeugt. Kunststoffpaletten sind zudem oft leichter als Holz, je nach Typ.
 
-Benötigen Sie weitere Informationen zur Verwendung von Kunststoffpaletten? Wenn Sie unverbindlich [Kontakt](@contact) mit uns aufnehmen, erhalten Sie weitere Informationen und eine persönliche Beratung!
+Beim Export ist keine Behandlung gegen Schädlinge nötig, denn Kunststoffpaletten fallen nicht unter ISPM 15. Sie arbeiten mit unverpackten Lebensmitteln? Dann wählen Sie eine Hygienepalette aus Neuware.
+
+## Kunststoffpaletten sind wirtschaftlich
+
+Pro Stück ist eine Kunststoffpalette oft teurer als eine Holzpalette. Sie hält aber viele Jahre, muss nicht repariert werden und beschädigt Ihre Ladung nicht. Pro Umlauf ist Kunststoff deshalb oft günstiger.
+
+Mehr dazu lesen Sie unter [Was kostet eine Kunststoffpalette?](@guide-prices)
+
+Wenn Sie neue Paletten wählen, haben Sie die Wahl aus rund 130 Modellen in neun Größen. Sollen Ihre Paletten erkennbar sein? Mit [individuellen Anpassungen](@about-custom) passen wir ein bestehendes Modell an, zum Beispiel mit Ihrem Logo oder einer eigenen Farbe.
+
+Zählt vor allem das Budget? Dann wählen Sie [gebrauchte Kunststoffpaletten](@used): Über Q-Used verkaufen wir geprüfte Paletten, die bis zu 40 % günstiger sind als neue. Weil Kunststoffpaletten so lange halten, sind sie oft noch in gutem Zustand.
+
+## Kunststoffpaletten sind eine nachhaltige Wahl
+
+Viele Menschen verbinden Kunststoff mit Umweltverschmutzung. Bei Paletten sieht das anders aus. Unsere Standardpaletten fertigen wir zu fast 100 % aus recyceltem Kunststoff, einer Mischung aus HDPE und PP, unter anderem aus alten Kisten, Verschlüssen und Verpackungen.
+
+Eine Kunststoffpalette hält viele Jahre. Am Ende ihrer Lebensdauer ist sie vollständig recycelbar: Wir nehmen sie zurück und mahlen sie zu Rohstoff für neue Paletten. Außerdem produzieren wir in sechs Werken in Europa, nah an unseren Kunden.
+
+Mehr über unseren Ansatz lesen Sie auf der Seite [Nachhaltigkeit](@about-sustainability).
+
+Möchten Sie wissen, was Kunststoffpaletten für Ihr Unternehmen bedeuten? [Fordern Sie ein Angebot an](@quote), dann erhalten Sie meist innerhalb eines Werktags einen Preis nach Maß.

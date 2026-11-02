@@ -1,25 +1,94 @@
 ---
 id: news-h1
-title: "H1-pallets: wat zijn dat voor pallets? – Q-Pall"
-description: "Wat is een H1-pallet? Lees waarom deze pallet de aangewezen keuze is voor gekoelde of bederfelijke producten met hoge eisen aan hygiëne."
+title: "H1-pallets: wat zijn dat? Afmetingen en gewicht – Q-Pall"
+description: "Een H1-pallet is een hygiënische kunststof europallet voor de voedingsmiddelenindustrie. Wat maakt hem bijzonder, wanneer kiest u hem en wat weegt hij?"
 eyebrow: "Nieuws"
 tag: "Kennis"
-crumb: "H1-pallets: wat zijn dat voor pallets?"
+crumb: "Wat zijn H1-pallets?"
 h1: "H1-pallets: **wat zijn dat voor pallets?**"
-lead: "Wat is een H1-pallet? Lees waarom deze pallet de aangewezen keuze is voor gekoelde of bederfelijke producten met hoge eisen aan hygiëne."
-img_alt: "H1-pallets: wat zijn dat voor pallets?"
+lead: "Een H1-pallet is een hygiënische kunststof pallet in europalletformaat, van oorsprong gemaakt voor de vleesindustrie. Waarom is hij geschikt voor voedsel, wanneer heeft u hem nodig en wat zijn de maten en het gewicht?"
+img_alt: "Grijze kunststof H1-pallet met open dek op drie onderlatten"
 reading: 3
+faq:
+- q: "Wat is een H1-pallet?"
+  a: "Een H1-pallet is een hygiënische kunststof pallet in europalletformaat (1200 x 800 mm). Het type is ontwikkeld als poolpallet voor de vleesindustrie en wordt nu in de hele voedingsmiddelenindustrie gebruikt."
+- q: "Wat zijn de afmetingen van een H1-pallet?"
+  a: "Onze H1-europallet meet 1200 x 800 x 160 mm. Hij heeft een open dek op drie onderlatten."
+- q: "Hoeveel weegt een H1-pallet?"
+  a: "Onze H1-europallet weegt 18 kg. Hij draagt 5.000 kg statisch, 1.250 kg dynamisch en 1.000 kg in de stelling, bij een gelijkmatig verdeelde lading."
+- q: "Is een H1-pallet van gerecycled kunststof?"
+  a: "Nee. Onze H1-pallets zijn van virgin (nieuw) kunststof, net als onze andere hygiënische pallets. Pallets van gerecycled kunststof zijn niet bedoeld voor direct contact met levensmiddelen."
+published: '2022-01-11'
+updated: '2026-11-02'
 ---
-Pallets zijn geschikt voor het transport en de opslag van allerlei producten. Maar sommige producten hebben specifieke kenmerken waar bij vervoer en opslag rekening mee gehouden moet worden. Bijvoorbeeld bij **gekoelde producten** of producten die bederf onderhevig zijn als de *hygiëne* niet voldoet aan de juiste standaard. Het is dan vanzelfsprekend dat de verpakking bescherming moet bieden. Maar ook de manier van vervoeren en bewaren van deze producten is van groot belang. De **H1 pallet** is voor dit soort producten de aangewezen pallet. Maar wat zijn dit voor pallets?
+> **In het kort**
+>
+> * Een H1-pallet is een hygiënische kunststof pallet in europalletformaat: 1200 x 800 mm.
+> * Het type is ontwikkeld als poolpallet voor de vleesindustrie en wordt nu in de hele voedingsmiddelenindustrie gebruikt.
+> * Onze H1-europallet meet 1200 x 800 x 160 mm en weegt 18 kg.
+> * We maken H1-pallets van virgin (nieuw) kunststof, net als onze andere hygiënische pallets.
+> * De pallet is glad, neemt geen vocht op en is goed te reinigen. Dat helpt bedrijven die volgens HACCP werken.
 
-## Voedselverwerkende industrie
+Sommige producten vragen meer van een pallet dan andere. Denk aan gekoelde producten en levensmiddelen die aan bederf onderhevig zijn als de hygiëne niet op orde is.
 
-Bedrijven die met voedsel omgaan moeten dit op een veilige en hygiënische manier doen. Het is hun verantwoordelijkheid om te voorkomen dat consumenten ziek worden. Met een voedselveiligheidsplan brengt een bedrijf in kaart wat er mis kan gaan en hoe het fouten kan voorkomen. In dit plan wordt ook gekeken naar de hygiëne tijdens het vervoer van grondstoffen - en (half) fabricaten - naar de opslag in voldoende schone, donkere ruimtes. Bedrijven volgen daarbij de regels voor de productie van veilig voedsel van het HACCP-systeem (Hazard Analysis Critical Control Points). De *H1 pallets* voldoen aan deze vereisten.
+Bij zulke producten moet niet alleen de verpakking bescherming bieden. Ook de manier waarop u ze vervoert en opslaat is belangrijk. Daarvoor is de **H1-pallet** gemaakt.
 
-## Wat is een H1 pallet
+## Wat is een H1-pallet?
 
-De H1 pallet van Q-Pall - ook wel [hygiëne pallet](@type-hygienic) genoemd - is gemaakt van kunststof. Dit materiaal is veel hygiënischer dan hout. Hout is namelijk poreus, waardoor houten pallets een fijn nestje vormen voor ongedierte en insecten. Ook geven houten pallets splinters af en dat is nu juist wat voorkomen moet worden. Kunststof is niet poreus en kan niet splinteren. Bovendien zijn hygiëne pallets volledig glad uitgevoerd, waardoor de kans op ongewenste gasten enorm wordt verkleind. De afwerking van pallets zijn speciaal gericht op het voorkomen van ruimtes en naden waarin vuil zich kan ophopen.
+De H1-pallet is een kunststof pallet in het formaat van de europallet: 1200 x 800 mm. Het type is oorspronkelijk ontwikkeld als poolpallet voor de vleesindustrie. Inmiddels gebruikt de hele voedingsmiddelenindustrie hem.
 
-## Wanneer een H1 pallet?
+Een H1-pallet is een [hygiënische pallet](@type-hygienic). Hij is glad en zo afgewerkt dat er zo min mogelijk naden en hoeken zijn waarin vuil zich kan ophopen. Onze H1-europallet heeft een open dek op drie onderlatten, zodat vocht kan weglopen en lucht rond de lading kan circuleren.
 
-De H1 pallet wordt gebruikt in de levensmiddelenindustrie. Het gaat om bedrijven die bezig zijn het bereiden, behandelen, verwerken, verpakken, vervoeren en distribueren van *voedingsmiddelen of levensmiddelen*. Al deze bedrijven moeten zich houden aan de **HACCP regels**. ‘Levensmiddelen’ is een algemene term en wordt gebruikt voor alle eetwaren en drinkwaren die door mensen worden genuttigd. Een voorbeeld hiervan is de vleesverwerkende industrie. Ook de leveranciers van grondstoffen en hulpstoffen aan de voedingsmiddelenindustrie vallen onder de HACCP regels, net zoals de bedrijven die zich bezighouden met diervoeders. Q-Pall heeft diverse hygiëne pallets in het assortiment. Zo kunt u onder meer kiezen uit diverse formaten en verschillende belastbaarheid. Wilt u meer weten over H1 pallets of heeft u andere vragen met betrekking tot ons assortiment? Bekijk hier onze [kunststof pallets](@pallets) of neem gerust contact met ons op. Wij helpen u graag verder!
+We maken H1-pallets van virgin (nieuw) kunststof. Daarin verschillen ze van onze standaardpallets, die van gerecycled kunststof zijn.
+
+## Afmetingen en gewicht van de H1-pallet
+
+De belangrijkste gegevens van onze H1-europallet op een rij:
+
+| Eigenschap | H1-europallet |
+|---|---|
+| Afmetingen | 1200 x 800 x 160 mm |
+| Gewicht | 18 kg |
+| Bovendek | Open dek |
+| Onderzijde | 3 onderlatten |
+| Belastingklasse | heavy |
+| Statische belasting | 5.000 kg |
+| Dynamische belasting | 1.250 kg |
+| Stellingbelasting | 1.000 kg |
+| Materiaal | Virgin kunststof |
+| Per stapel | 15 pallets |
+
+De belastingwaarden gelden bij een gelijkmatig verdeelde lading. Hoe dat werkt, leest u bij [de belasting van kunststof pallets](@about-load).
+
+Heeft u een hogere belasting nodig? Dan zijn er ook hygiënische pallets van 1200 x 800 mm met een gesloten of open dek, tot 7.500 kg statisch.
+
+## Hygiëne en voedselveiligheid: HACCP
+
+Bedrijven die met voedsel werken, moeten dat veilig en hygiënisch doen. Zij zijn ervoor verantwoordelijk dat consumenten niet ziek worden. Daarom werken ze met een voedselveiligheidsplan volgens HACCP (Hazard Analysis and Critical Control Points).
+
+In zo'n plan brengt een bedrijf in kaart wat er mis kan gaan en hoe het dat voorkomt. Dat geldt ook voor het vervoer van grondstoffen en (half)fabricaten en voor de opslag in schone ruimtes.
+
+Een pallet die geen vocht opneemt en goed te reinigen is, helpt om die risico's klein te houden. Meer daarover leest u in [kunststof pallets en HACCP](@news-haccp).
+
+## Waarom kunststof en geen hout?
+
+Hout is poreus. Het neemt vocht op en biedt ongedierte en insecten een plek om zich te nestelen. Houten pallets kunnen bovendien splinteren, en juist splinters wilt u niet in de buurt van levensmiddelen.
+
+Kunststof is niet poreus en splintert niet. Een H1-pallet heeft geen spijkers en is volledig glad uitgevoerd. Zo zijn er weinig plekken waar vuil achterblijft en reinigt u de pallet snel en grondig.
+
+Hoe u dat aanpakt, leest u in [kunststof pallets reinigen](@news-cleaning).
+
+## Wanneer heeft u een H1-pallet nodig?
+
+De H1-pallet wordt gebruikt in de levensmiddelenindustrie. Het gaat om bedrijven die voedingsmiddelen bereiden, behandelen, verwerken, verpakken, vervoeren of distribueren. Een bekend voorbeeld is de vleesverwerkende industrie.
+
+Ook leveranciers van grondstoffen en hulpstoffen voor de voedingsmiddelenindustrie werken volgens HACCP, net als bedrijven die diervoeder maken. 'Levensmiddelen' is daarbij een algemene term voor alles wat mensen eten en drinken.
+
+Een vuistregel voor de keuze:
+
+* **Komt het voedsel direct in aanraking met de pallet?** Kies dan een pallet van virgin kunststof, zoals de H1-pallet of een andere hygiënische pallet.
+* **Staat het voedsel verpakt op de pallet?** Dan kan een pallet van gerecycled kunststof volstaan. Die pallets zijn niet bedoeld voor direct contact met levensmiddelen.
+
+Meer over de keuze voor uw sector leest u op de pagina [kunststof pallets voor de voedingsmiddelenindustrie](@sector-food).
+
+Wilt u H1-pallets bestellen of twijfelt u welke hygiënische pallet bij uw proces past? [Vraag een offerte aan](@quote). Een prijs op maat ontvangt u meestal binnen één werkdag.

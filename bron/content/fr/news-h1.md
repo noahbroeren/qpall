@@ -1,25 +1,94 @@
 ---
 id: news-h1
-title: "Que sont exactement les palettes H1 ? – Q-Pall"
-description: "Conçues pour les produits réfrigérés et périssables, les palettes H1 répondent aux exigences d’hygiène du secteur alimentaire. Voici ce qu’il faut savoir."
+title: "Palette H1 : définition, dimensions et poids – Q-Pall"
+description: "La palette H1 est une palette Europe hygiénique en plastique pour l’agroalimentaire. Ce qui la distingue, quand l’utiliser, ses dimensions et son poids."
 eyebrow: "Actualités"
 tag: "Conseils"
-crumb: "Que sont exactement les palettes H1 ?"
+crumb: "Que sont les palettes H1 ?"
 h1: "Que sont exactement **les palettes H1** ?"
-lead: "Conçues pour les produits réfrigérés et périssables, les palettes H1 répondent aux exigences d’hygiène du secteur alimentaire. Voici ce qu’il faut savoir."
-img_alt: "Que sont exactement les palettes H1 ?"
-reading: 3
+lead: "La palette H1 est une palette plastique hygiénique au format Europe, conçue à l’origine pour l’industrie de la viande. Pourquoi convient-elle aux aliments, quand l’utiliser et quels sont ses dimensions et son poids ?"
+img_alt: "Palette plastique H1 grise avec plateau ajouré sur trois semelles"
+reading: 4
+faq:
+- q: "Qu’est-ce qu’une palette H1 ?"
+  a: "Une palette H1 est une palette plastique hygiénique au format Europe (1200 x 800 mm). Ce type a été développé comme palette de pooling pour l’industrie de la viande et sert aujourd’hui dans toute l’industrie agroalimentaire."
+- q: "Quelles sont les dimensions d’une palette H1 ?"
+  a: "Notre palette Europe H1 mesure 1200 x 800 x 160 mm. Elle possède un plateau ajouré sur trois semelles."
+- q: "Combien pèse une palette H1 ?"
+  a: "Notre palette Europe H1 pèse 18 kg. Elle supporte 5.000 kg en statique, 1.250 kg en dynamique et 1.000 kg en rack, avec une charge répartie uniformément."
+- q: "La palette H1 est-elle en plastique recyclé ?"
+  a: "Non. Nos palettes H1 sont en plastique vierge (neuf), comme nos autres palettes hygiéniques. Les palettes en plastique recyclé ne sont pas destinées au contact direct avec les denrées alimentaires."
+published: '2022-01-11'
+updated: '2026-11-02'
 ---
-Les palettes conviennent pour le transport et le stockage de toutes sortes de produits. Mais certains produits ont des caractéristiques spécifiques qui doivent être prises en compte lors du transport et du stockage, les produits réfrigérés qui sont périssables si l’hygiène n’est pas conforme à la norme adéquate par exemple. Le conditionnement doit naturellement offrir une protection, mais la méthode de transport et de stockage est également essentielle pour ces produits. La palette H1 est la palette destinée à ce type de produit. Mais que sont les palettes H1 exactement ?
+> **En bref**
+>
+> * Une palette H1 est une palette plastique hygiénique au format Europe : 1200 x 800 mm.
+> * Ce type a été développé comme palette de pooling pour l’industrie de la viande. Il est aujourd’hui utilisé dans toute l’industrie agroalimentaire.
+> * Notre palette Europe H1 mesure 1200 x 800 x 160 mm et pèse 18 kg.
+> * Nous fabriquons les palettes H1 en plastique vierge (neuf), comme nos autres palettes hygiéniques.
+> * La palette est lisse, n’absorbe pas l’humidité et se nettoie facilement. Un atout pour les entreprises qui appliquent la méthode HACCP.
 
-## Secteur de la transformation des aliments
+Certains produits exigent plus d’une palette que d’autres. Pensez aux produits réfrigérés et aux denrées qui se gâtent si l’hygiène n’est pas au bon niveau.
 
-Les entreprises manipulant des aliments doivent le faire de manière sûre et hygiénique. Il en va de leur responsabilité d’éviter que les consommateurs ne soient malades. Avec un plan de sécurité alimentaire, une entreprise cartographie ce qui peut mal se passer et comment éviter les erreurs. Ce plan prend également en compte l’hygiène des matières premières – et des produits (semi-)fabriqués – pendant le transport jusqu’au stockage dans des espaces suffisamment propres et sombres. Les entreprises suivent les règles de production d’aliments sains du système HACCP (Hazard Analysis Critical Control Points – système d’analyse des risques et points critiques pour leur maîtrise). Les palettes H1 répondent à ces exigences.
+Pour ces produits, l’emballage ne suffit pas à les protéger. La façon dont vous les transportez et les stockez compte aussi. C’est pour cela que la **palette H1** a été conçue.
 
 ## Qu’est-ce qu’une palette H1 ?
 
-La palette H1 de Q-Pall – également appelée palette hygiénique – est en plastique. Ce matériau est bien plus hygiénique que le bois. Le bois est poreux, ce qui signifie que les palettes en bois sont un nid idéal pour les insectes et les nuisibles. Ils présentent également des esquilles, ce qui doit précisément être évité. Le plastique n’est pas poreux et ne fait pas d’esquilles. De plus, les palettes hygiéniques sont entièrement lisses, ce qui réduit considérablement tout risque d’hôtes indésirables. La finition des palettes est spécialement destinée à éviter les recoins et les fissures dans lesquels des saletés peuvent s’accumuler.
+La palette H1 est une palette plastique au format de la palette Europe : 1200 x 800 mm. Ce type a été développé à l’origine comme palette de pooling pour l’industrie de la viande. Aujourd’hui, toute l’industrie agroalimentaire l’utilise.
 
-## Quant utiliser une palette H1
+Une palette H1 est une [palette hygiénique](@type-hygienic). Elle est lisse et sa finition limite au maximum les joints et recoins où la saleté peut s’accumuler. Notre palette Europe H1 possède un plateau ajouré sur trois semelles : l’humidité peut s’écouler et l’air circule autour de la marchandise.
 
-La palette H1 est utilisée dans l’industrie alimentaire par des entreprises impliquées dans la préparation, le traitement, la transformation, le conditionnement, le transport et la distribution de produits alimentaires. Toutes ces entreprises doivent respecter les règles HACCP. « Produit alimentaire » est un terme générique utilisé pour tous les aliments et boissons consommés par des humains. Le secteur de la transformation de la viande en est un exemple. Les fournisseurs de matières premières et produits auxiliaires pour l’industrie alimentaire sont également concernés par les règles HACCP, tout comme les entreprises impliquées dans l’alimentation animale. Q-Pall offre de nombreux types de palettes hygiéniques. Vous pouvez choisir parmi différentes tailles et capacités de charge. Vous souhaitez en savoir plus à propos des palettes H1 ou vous avez d’autres questions à propos de notre gamme ? N’hésitez pas à nous contacter. Nous serons heureux de vous aider !
+Nous fabriquons les palettes H1 en plastique vierge (neuf). C’est ce qui les distingue de nos palettes standard, fabriquées en plastique recyclé.
+
+## Dimensions et poids de la palette H1
+
+Les principales caractéristiques de notre palette Europe H1 :
+
+| Caractéristique | Palette Europe H1 |
+|---|---|
+| Dimensions | 1200 x 800 x 160 mm |
+| Poids | 18 kg |
+| Plateau supérieur | Plateau ajouré |
+| Dessous | 3 semelles |
+| Classe de charge | heavy |
+| Charge statique | 5.000 kg |
+| Charge dynamique | 1.250 kg |
+| Charge en rack | 1.000 kg |
+| Matériau | Plastique vierge |
+| Par pile | 15 palettes |
+
+Les valeurs de charge s’appliquent à une charge répartie uniformément. Pour en savoir plus, consultez [la capacité de charge des palettes plastique](@about-load).
+
+Besoin d’une capacité de charge plus élevée ? Nous proposons aussi des palettes hygiéniques en 1200 x 800 mm avec plateau fermé ou ajouré, jusqu’à 7.500 kg en statique.
+
+## Hygiène et sécurité alimentaire : HACCP
+
+Les entreprises qui manipulent des aliments doivent le faire de manière sûre et hygiénique. Il leur appartient d’éviter que les consommateurs tombent malades. C’est pourquoi elles travaillent avec un plan de sécurité alimentaire fondé sur la méthode HACCP (Hazard Analysis and Critical Control Points).
+
+Dans ce plan, l’entreprise identifie ce qui peut mal tourner et comment l’éviter. Cela concerne aussi le transport des matières premières et des produits (semi-)finis, ainsi que le stockage dans des locaux propres.
+
+Une palette qui n’absorbe pas l’humidité et se nettoie facilement aide à limiter ces risques. Pour en savoir plus, lisez [palettes plastique pour le secteur HACCP](@news-haccp).
+
+## Pourquoi le plastique plutôt que le bois ?
+
+Le bois est poreux. Il absorbe l’humidité et offre aux nuisibles et aux insectes un endroit où s’installer. Les palettes en bois peuvent aussi produire des échardes, ce que l’on veut justement éviter à proximité des aliments.
+
+Le plastique n’est pas poreux et ne fait pas d’échardes. Une palette H1 n’a pas de clous et sa surface est entièrement lisse. La saleté trouve donc peu d’endroits où se loger, et vous nettoyez la palette rapidement et en profondeur.
+
+Découvrez comment dans [nettoyer les palettes plastique](@news-cleaning).
+
+## Quand utiliser une palette H1 ?
+
+La palette H1 est utilisée dans l’industrie alimentaire, par des entreprises qui préparent, traitent, transforment, conditionnent, transportent ou distribuent des denrées alimentaires. Le secteur de la transformation de la viande en est un exemple connu.
+
+Les fournisseurs de matières premières et d’auxiliaires pour l’industrie alimentaire appliquent aussi la méthode HACCP, tout comme les fabricants d’aliments pour animaux. « Denrées alimentaires » est un terme général pour tout ce que les humains mangent et boivent.
+
+Une règle simple pour choisir :
+
+* **Les aliments sont-ils en contact direct avec la palette ?** Choisissez alors une palette en plastique vierge, comme la palette H1 ou une autre palette hygiénique.
+* **Les aliments sont-ils emballés sur la palette ?** Une palette en plastique recyclé peut alors suffire. Ces palettes ne sont pas destinées au contact direct avec les denrées alimentaires.
+
+Pour bien choisir dans votre secteur, consultez la page [palettes plastique pour l’industrie agroalimentaire](@sector-food).
+
+Vous souhaitez commander des palettes H1 ou vous hésitez sur la palette hygiénique adaptée à votre processus ? [Demandez un devis](@quote). Vous recevez généralement un prix sur mesure en un jour ouvré.

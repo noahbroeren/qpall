@@ -1,7 +1,7 @@
 ---
 id: sector-retail
 title: "Pallet in plastica per grande distribuzione e supermercati"
-description: "Pallet in plastica per la GDO: espositori ed europallet dal magazzino allo scaffale senza riconfezionare. Leggeri, igienici, riutilizzabili, anche con IoT."
+description: "Pallet in plastica per la GDO: espositori ed europallet dal magazzino allo scaffale senza riconfezionare. Leggeri, facili da pulire e riutilizzabili."
 eyebrow: "Settore"
 h1: "Pallet in plastica per la **grande distribuzione**"
 lead: "Nella grande distribuzione la logistica deve essere rapida, pulita e sostenibile. Con i pallet espositori i prodotti arrivano sullo scaffale senza essere riconfezionati, e gli europallet durano per molti viaggi."
@@ -10,7 +10,7 @@ faq:
   - q: "Qual è il vantaggio dei pallet espositori nel punto vendita?"
     a: "Un pallet espositore viene caricato nel centro di distribuzione e va direttamente nel punto vendita. Non serve alcun riconfezionamento. Si risparmia tempo in negozio e si garantisce una presentazione ordinata."
   - q: "I pallet in plastica possono essere tracciati?"
-    a: "Sì. Insieme ad Auchan e IBM stiamo introducendo in Francia 50.000 pallet intelligenti con tecnologia IoT per il rilevamento di posizione, temperatura e urti. Contattateci se volete saperne di più sui pallet intelligenti."
+    a: "Sì. Insieme ad Auchan e IBM abbiamo introdotto in Francia [50.000 pallet intelligenti](@news-auchan) con tecnologia IoT per il rilevamento di posizione, temperatura e urti. Contattateci se volete saperne di più sui pallet intelligenti."
   - q: "Nella grande distribuzione i pallet in plastica costano più del legno?"
     a: "Al pezzo, spesso sì. Per viaggio, di solito no. I pallet in plastica durano molto più a lungo, si danneggiano meno e non richiedono riparazioni. Approfondite nella nostra [guida ai prezzi](@guide-prices)."
 ---

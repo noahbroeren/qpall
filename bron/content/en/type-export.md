@@ -11,7 +11,7 @@ faq:
   - q: "What is the difference between an export pallet and a Euro pallet?"
     a: "A Euro pallet refers to the size (1200 x 800 mm) and is often meant to come back. An export pallet is made for a single trip: as light as possible, strong enough for transport and without the ISPM 15 hassle. A 1200 x 800 mm plastic pallet can be both."
   - q: "Are export pallets suitable for pallet racking?"
-    a: "No. Our export pallets are light pallets for transport and floor storage. They carry 2,500 kg static and 1,000 kg dynamic, but are not intended for racking storage."
+    a: "No. Our export pallets are light pallets for transport and floor storage. They carry up to 2,500 kg static and up to 1,000 kg dynamic, but are not intended for racking storage."
   - q: "What sizes of export pallet are available?"
     a: "We make export pallets in 600 x 800, 760 x 1140, 1100 x 1100, 1140 x 1140, 1200 x 800, 1200 x 1000 and 1200 x 1200 mm. So you will find a suitable size for every container and every market."
 ---

@@ -11,7 +11,7 @@ faq:
   - q: "Can I make a nestable pallet more stable?"
     a: "Yes. You can click [runners](@acc-runners) onto many nestable pallets with 9 feet, without tools. You then get a pallet with 3 runners that runs better on roller conveyors. Because you fit the runners only on site, you keep the benefit of nesting."
   - q: "Are nestable pallets suitable for pallet racking?"
-    a: "No, nestable pallets are light pallets for transport, export and floor storage. For racking, choose a medium or heavy pallet with runners."
+    a: "Usually not. Almost all our nestable pallets are light pallets for transport, export and floor storage. Only a few nestable display pallets come in medium and heavy. For racking, choose a medium or heavy pallet with runners."
 ---
 
 ## How does nesting work?

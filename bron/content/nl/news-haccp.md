@@ -1,33 +1,87 @@
 ---
 id: news-haccp
-title: "Kunststof pallets voor de HACCP-branche – Q-Pall"
-description: "Voor bedrijven die met voedsel werken gelden de HACCP-regels. Lees waarom hygiënische kunststof pallets ongedierte, bacteriën en schimmels geen kans geven."
+title: "Pallets en HACCP: welke kunststof pallet kiest u? – Q-Pall"
+description: "Werkt u volgens HACCP? Lees wat dat betekent voor opslag en transport en wanneer u een hygiënische kunststof pallet van virgin kunststof nodig heeft."
 eyebrow: "Nieuws"
 tag: "Kennis"
-crumb: "Kunststof pallets voor de HACCP-branche"
-h1: "Kunststof pallets voor **de HACCP-branche**"
-lead: "Voor bedrijven die met voedsel werken gelden de HACCP-regels. Lees waarom hygiënische kunststof pallets ongedierte, bacteriën en schimmels geen kans geven."
-img_alt: "Kunststof pallets voor de HACCP-branche"
+crumb: "Pallets en HACCP"
+h1: "Pallets en HACCP: **welke kunststof pallet kiest u?**"
+lead: "Wie met voedsel werkt, moet de risico's op besmetting beheersen, ook bij opslag en transport. Welke rol speelt de pallet daarbij, en wanneer kiest u een hygiënische pallet?"
+img_alt: "Kazen op houten planken en in manden in een kaaswinkel"
 reading: 3
+faq:
+- q: "Is een hygiënische pallet verplicht onder HACCP?"
+  a: "HACCP schrijft geen bepaald type pallet voor. U brengt zelf de risico's in uw proces in kaart en kiest een pallet die daarbij past. Komt voedsel direct op de pallet, dan ligt een hygiënische pallet van virgin kunststof voor de hand."
+- q: "Mag voedsel direct op een kunststof pallet liggen?"
+  a: "Alleen op een pallet die daarvoor bedoeld is. Onze hygiënische pallets zijn van virgin kunststof. Onze pallets van gerecycled kunststof zijn niet bedoeld voor direct contact met levensmiddelen."
+- q: "Wat is het verschil tussen een hygiënische pallet en een H1-pallet?"
+  a: "Een H1-pallet is een bepaalde hygiënische pallet: een kunststof europallet van 1200 x 800 mm, oorspronkelijk ontwikkeld voor de vleesindustrie. Er zijn ook andere hygiënische pallets, bijvoorbeeld met een gesloten dek of in 1200 x 1000 mm."
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-Bedrijven die met voedsel omgaan, moeten dat op een veilige en hygiënische manier doen. Zij moeten zich houden aan de HACCP (Hazard Analysis Critical Control Points) regels, met andere woorden de voedselhygiëne regels. Het is hun verantwoordelijkheid om te voorkomen dat consumenten ziek worden van voedingsmiddelen. En deze verantwoordelijkheid geldt ook bij het vervoer en de opslag van de producten. Juist voor de bedrijven die hiermee te maken hebben is de hygiënische [plastic pallet](@pallets) ontwikkeld. Wat houdt dit nu eigenlijk in?
+> **In het kort**
+>
+> * HACCP staat voor Hazard Analysis and Critical Control Points: een werkwijze om risico's voor de voedselveiligheid te beheersen.
+> * Bedrijven die voedsel bereiden, verwerken, verpakken, vervoeren of verkopen, zijn wettelijk verplicht zo te werken. Dat geldt ook voor opslag en transport.
+> * HACCP schrijft geen bepaalde pallet voor. U bepaalt zelf welke pallet past bij de risico's in uw proces.
+> * Komt voedsel direct in aanraking met de pallet? Kies dan een hygiënische pallet van virgin kunststof.
+> * Pallets van gerecycled kunststof zijn bedoeld voor verpakte producten, niet voor direct contact met levensmiddelen.
 
-## Wat is een hygiënische pallet?
+Bedrijven die met voedsel werken, moeten dat veilig en hygiënisch doen. Ze zijn ervoor verantwoordelijk dat consumenten niet ziek worden van hun producten. Die verantwoordelijkheid geldt ook bij vervoer en opslag.
 
-De [**hygiënische pallet**](@type-hygienic) is zo gemaakt dat ongedierte, bacteriën en schimmels geen kans hebben om zich te nestelen en te groeien. Dat is van belang omdat dit een bedreiging kan vormen voor de voedselveiligheid. De hygiënische pallets zijn gemaakt van plastic. Dit is veel hygiënischer dan hout. Hout is poreus en dat kan een goede basis zijn voor ongedierte en insecten. Ook kan hout splinteren en dit levert gevaar op voor de gebruiker en voor de producten die op de pallet staan. Kunststof daarentegen is niet poreus en kan niet splinteren. De afwerking van de hygiënische, kunststof pallet voorkomt dat er ruimtes en naden zijn waarin vuil zich kan ophopen. Ze zijn namelijk volledig glad uitgevoerd, dit maakt de kans op ongewenste gasten nog kleiner.
+Een kunststof pallet kan daarbij helpen, maar niet elke pallet past bij elke toepassing. Hieronder leest u waar u op let.
 
-## Wanneer moet je de hygiënische pallet gebruiken?
+## Wat is HACCP?
 
-Deze pallet is bijzonder geschikt voor de levensmiddelenindustrie. Het gaat dan om bedrijven die zich bezig houden met het bereiden, behandelen, verwerken, verpakken, vervoeren en distribueren van voedingsmiddelen of levensmiddelen. Zij moeten zich houden aan de **HACCP richtlijnen**. De producten moeten beschermd worden tegen ongedierte, bacteriën en schimmels. De hygiënische pallet van Q-Pall, of [**H1 pallet**](@type-hygienic), is een pallet die speciaal is gemaakt voor die HACCP branches. Q-Pall heeft diverse hygiëne pallets in het assortiment. Zo kunt u onder meer kiezen uit diverse formaten en verschillende belastbaarheid.
+HACCP staat voor *Hazard Analysis and Critical Control Points*. Het is een systeem waarmee een bedrijf de risico's voor de voedselveiligheid in kaart brengt en beheerst. U bepaalt waar in het proces iets mis kan gaan, en hoe u dat voorkomt en controleert.
 
-## Wat zijn HACCP branches?
+De HACCP-regels worden daarom ook wel de voedselhygiëneregels genoemd.
 
-Welke bedrijven vallen onder de HACCP branches en moeten gebruikmaken van *hygiënische pallets*?
+## Wie moet werken volgens HACCP?
 
-Deze [kunststof pallets](@pallets) worden toegepast vanwege de hygiëne bij transport van bedrijven die levensmiddelen produceren en bewerken. Deze bedrijven zijn wettelijk verplicht een HACCP-systeem te voeren en te onderhouden. Voorbeelden van bedrijven die hiermee te maken hebben zijn: ondernemingen in de vlees- en visverwerkende industrie, bejaardentehuizen, ziekenhuizen, gevangenissen en horeca. Maar ook bijvoorbeeld slagers, groenteboeren, kaasspeciaalzaken, supermarkten, tankstations en sportkantines. Eigenlijk moeten alle bedrijven waar met voedsel wordt gewerkt en waar voedsel wordt verkocht rekening houden met de HACCP regels. Deze bedrijven moeten hygiënisch te werk gaan en daarom maken ze meestal gebruik van [kunststof pallets](@pallets).
+Bedrijven die levensmiddelen produceren, bewerken of verkopen, moeten een HACCP-systeem hebben en onderhouden. Voorbeelden zijn:
 
-## Opslag en transport
+* vlees- en visverwerkende bedrijven en andere voedingsmiddelenproducenten
+* horeca, ziekenhuizen, zorginstellingen en gevangenissen
+* slagers, groenteboeren, kaasspeciaalzaken en supermarkten
+* tankstations en sportkantines die eten verkopen
 
-Ook bij het vervoer en het opslaan moeten deze grondstoffen, (half)fabricaten en producten op de juiste manier behandeld worden. Het is duidelijk dat de verpakking een bescherming moet bieden. Maar dat is niet het enige. De manier waarop deze producten worden vervoerd of bewaard is ook van belang. Het is belangrijk dat dit gebeurt op een manier waarop de veiligheids- en gezondheidsrisico’s tot een minimum beperkt worden. Met een **kunststof pallet** verkleint u de risico’s.
+Kortom: overal waar met voedsel wordt gewerkt of voedsel wordt verkocht, gelden de HACCP-regels.
 
-Wilt u meer weten over hygiënische pallets? Of heeft u andere vragen met betrekking tot ons assortiment? Neem dan gerust contact met ons op. Wij helpen u graag verder!
+## Wat betekent HACCP voor opslag en transport?
+
+Ook tijdens vervoer en opslag moeten grondstoffen, (half)fabricaten en eindproducten goed worden behandeld. De verpakking moet bescherming bieden, maar ook de manier waarop u de producten vervoert en bewaart telt. Het doel is de risico's voor veiligheid en gezondheid zo klein mogelijk te houden.
+
+HACCP schrijft daarbij geen bepaald type pallet voor. U kijkt zelf welke risico's er in uw proces zijn en kiest een pallet die daarbij past. Vragen die helpen: komt het product direct op de pallet, hoe vaak reinigt u de pallets en in welke ruimtes gebruikt u ze?
+
+## Waarom kunststof pallets in plaats van hout?
+
+Hout is poreus. Het neemt vocht op, kan schimmelen en biedt ongedierte en insecten een plek om zich te nestelen. Houten pallets kunnen ook splinteren, wat gevaarlijk is voor medewerkers en voor de producten op de pallet.
+
+Kunststof is niet poreus, neemt geen vocht op en splintert niet. Een kunststof pallet is bovendien goed te reinigen. Zo houdt u de risico's op verontreiniging beter in de hand.
+
+Lees meer over de verschillen in [kunststof of houten pallets](@guide-wood).
+
+## Hygiënische pallet of pallet van gerecycled kunststof?
+
+Onze standaardpallets maken we van gerecycled kunststof. Ze zijn een duurzame keuze voor verpakte producten, waarbij de pallet niet direct met het voedsel in aanraking komt. Voor direct contact met levensmiddelen zijn ze niet bedoeld.
+
+Ligt het voedsel direct op de pallet? Kies dan een [hygiënische pallet](@type-hygienic). Die maken we van virgin (nieuw) kunststof, in een eigen kleur.
+
+| Situatie | Geschikte pallet |
+|---|---|
+| Voedsel verpakt in dozen, kratten of folie | Pallet van gerecycled kunststof |
+| Voedsel direct op de pallet | Hygiënische pallet van virgin kunststof |
+| Vleesindustrie en andere processen met strenge hygiëne-eisen | Hygiënische pallet of H1-pallet |
+
+Meer over de keuze voor uw sector leest u op de pagina [kunststof pallets voor de voedingsmiddelenindustrie](@sector-food).
+
+## Wat maakt een pallet hygiënisch?
+
+Een hygiënische pallet heeft een glad en zo gesloten mogelijk ontwerp. Er zijn zo min mogelijk ruimtes en naden waarin vuil zich kan ophopen. De pallet neemt geen vocht op, kan tegen intensieve reiniging en heeft geen splinters of spijkers.
+
+De bekendste hygiënische pallet is de H1-pallet: een kunststof europallet die oorspronkelijk voor de vleesindustrie is ontwikkeld. Meer daarover leest u in [wat zijn H1-pallets?](@news-h1)
+
+Hoe u kunststof pallets goed schoonmaakt, leest u in [kunststof pallets reinigen](@news-cleaning).
+
+Twijfelt u welke pallet bij uw HACCP-plan past? [Neem contact met ons op](@contact), dan bekijken we samen welke uitvoering bij uw proces past.

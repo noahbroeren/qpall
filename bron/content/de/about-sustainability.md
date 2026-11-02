@@ -27,7 +27,7 @@ Eine Kunststoffpalette hält viele Jahre, viel länger als eine durchschnittlich
 
 ## EcoVadis Bronze
 
-Unsere Nachhaltigkeitsleistung wird von EcoVadis unabhängig bewertet. Im Oktober 2026 haben wir erneut die EcoVadis-Bronzemedaille erhalten. Damit gehören wir zu den besten 35 % der bewerteten Unternehmen.
+Unsere Nachhaltigkeitsleistung wird von EcoVadis unabhängig bewertet. Im April 2023 erhielten wir die Silbermedaille, 2025 die Bronzemedaille. Im Oktober 2026 haben wir erneut die EcoVadis-Bronzemedaille erhalten. Damit gehören wir zu den besten 35 % der bewerteten Unternehmen.
 
 ## Pallets with a purpose
 

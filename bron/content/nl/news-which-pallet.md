@@ -1,33 +1,68 @@
 ---
 id: news-which-pallet
 title: "Welke kunststof pallet past het best bij uw wensen? – Q-Pall"
-description: "Welke kunststof pallet past bij uw wensen? Bekijk welke afmetingen, belasting en kwaliteitseisen meetellen en of u kiest voor eenmalig of meermalig gebruik."
+description: "Welke kunststof pallet past bij u? Vier vragen over formaat, belasting, gebruik en kwaliteitseisen, plus de meest gebruikte pallettypen op een rij."
 eyebrow: "Nieuws"
 tag: "Kennis"
-crumb: "Welke kunststof pallet past het best bij"
+crumb: "Welke kunststof pallet past?"
 h1: "Welke kunststof pallet **past het best bij uw wensen?**"
-lead: "Welke kunststof pallet past bij uw wensen? Bekijk welke afmetingen, belasting en kwaliteitseisen meetellen en of u kiest voor eenmalig of meermalig gebruik."
-img_alt: "Welke kunststof pallet past het best bij uw wensen?"
-reading: 2
+lead: "Met vier vragen over formaat, belasting, gebruik en kwaliteitseisen ziet u snel welke kunststof pallet bij u past. Daarna zetten we de meest gebruikte typen op een rij."
+img_alt: "Zwarte nestbare kunststof pallet met open dek op negen pootjes"
+reading: 3
+faq:
+- q: "Wat is de meest gebruikte kunststof pallet?"
+  a: "In Europa is dat de pallet van 1200 x 800 mm, het formaat van de europallet. Voor export kiezen veel klanten een nestbare light pallet, voor intern gebruik een medium of heavy pallet met onderlatten."
+- q: "Kan een light pallet in een palletstelling?"
+  a: "Nee. Light pallets zijn bedoeld voor transport, export en opslag op de vloer. Voor een palletstelling kiest u een medium of heavy pallet met onderlatten en een stellingbelasting die past bij uw lading."
+- q: "Wordt elke pallet getest?"
+  a: "We testen elk palletmodel, niet elke pallet afzonderlijk. De belastingwaarden die we per model opgeven, gelden bij een gelijkmatig verdeelde lading."
+published: '2022-01-13'
+updated: '2026-11-02'
 ---
-[Kunststof pallets](@pallets) worden voor verschillende doeleinden gebruikt. Hierdoor zijn ze verkrijgbaar in veel verschillende varianten; allemaal ontwikkeld om zo goed mogelijk te functioneren voor het doel waarvoor de pallet gebruikt moet worden. Gaat u pallets aanschaffen? Dan is het aan te raden om vooraf een aantal belangrijke zaken goed af te wegen. Zo weet u zeker dat u beschikt over de juiste plastic pallets die voldoen aan al uw eisen. Om u verder te helpen, bespreken we in dit artikel alle mogelijkheden.
+> **In het kort**
+>
+> * Begin met vier vragen: welk **formaat**, welke **belasting**, **eenmalig of meermalig** gebruik en welke **kwaliteitseisen**.
+> * Light pallets zijn er voor export en vloeropslag. Medium en heavy pallets zijn er ook voor intern transport en palletstellingen.
+> * Veelgebruikte typen zijn displaypallets, exportpallets, CP-pallets en hygiënische pallets.
+> * We testen elk palletmodel. De belastingwaarden gelden bij een gelijkmatig verdeelde lading.
 
-## Doel van de pallet
+## Vier vragen vooraf
 
-- Welke **afmetingen** dienen de pallets te hebben?
-- Welke **belasting** moeten de pallets aankunnen?
-- Moeten de pallets geschikt zijn voor **eenmalig** of **meermalig gebruik**?
-- Moeten de pallets voldoen aan specifieke **kwaliteitseisen**?
+Kunststof pallets worden voor veel verschillende doelen gebruikt. Daarom zijn er veel uitvoeringen, elk gemaakt voor een bepaalde toepassing. Beantwoordt u vooraf vier vragen, dan kiest u sneller en voorkomt u een pallet die niet past.
 
-Voor iedere specifieke eis zijn er [kunststof pallets](@pallets) te vinden. Pallets met verschillende afmetingen, belasting, materialen en kwaliteitseisen. Goed om te weten: al onze pallets worden stuk voor stuk uitgebreid getest met een totale duur van 7 dagen. Zo bent u verzekerd van hoge kwaliteit!
+### Welk formaat heeft u nodig?
 
-## Meest gebruikte kunststof pallet
+Het formaat volgt uit uw lading en uw proces. Kijk naar de maat van uw dozen, zakken of vaten en naar uw stellingen, vrachtwagens en containers.
 
-Zoals eerder genoemd zijn de mogelijkheden van Q-Pall pallets eindeloos. Voor iedere behoefte die u als bedrijf heeft, zijn er pallets te vinden. Maar hoe vindt u op basis van uw wensen en behoeften de juiste kunststof pallet? Hieronder hebben wij de meest gebruikte kunststof pallets voor u opgesomd:
+In Europa is 1200 x 800 mm de meest gebruikte maat. Wij maken pallets in negen formaten, van 600 x 400 tot 1300 x 1100 mm.
 
-- [**Display pallet**](@type-display); met name geschikt voor het transporten naar of binnen winkels en supermarkten.
-- [**Export pallet**](@type-export); vooral interessant voor export van producten naar het buitenland.
-- **[CP pallets](@type-cp)**; uitstekend te gebruiken in veel verscheidene branches en industrieën en beschikbaar in veel verschillende uitvoeringen.
-- [**Hygiënische pallet**](@type-hygienic); ook wel ‘food pallet’ genoemd, omdat deze voornamelijk wordt gebruikt binnen de foodbranche. De afwerking van deze pallet is extra vlak, wat zorgt voor een betere hygiëne.
+### Welke belasting moet de pallet dragen?
 
-Zit uw gewenste [plastic pallet](@pallets) er niet tussen? Dan verwijzen wij u graag door naar onze website, hier vindt u een compleet overzicht van alle soorten kunststof pallets met daarbij de eigenschappen. Wilt u meer weten over onze kunststof pallets? Of heeft u andere vragen met betrekking tot ons assortiment en de mogelijkheden? Neem dan gerust contact met ons op voor meer informatie. Wij helpen u graag verder met persoonlijk advies!
+Elke pallet heeft drie belastingwaarden: statisch (stilstaand op de vloer), dynamisch (tijdens het verplaatsen) en in de stelling. Kies een pallet waarvan de waarde voor uw gebruik ruim boven uw zwaarste lading ligt. Meer hierover leest u bij [de belasting van kunststof pallets](@about-load).
+
+### Eenmalig of meermalig gebruik?
+
+Gaat de pallet maar één keer mee, bijvoorbeeld bij export? Dan is een light pallet, vaak nestbaar, meestal het voordeligst. Komt de pallet steeds terug, dan loont een medium of heavy pallet die vele jaren meegaat.
+
+### Gelden er speciale kwaliteitseisen?
+
+Sommige sectoren stellen extra eisen, bijvoorbeeld aan hygiëne, grip of afmetingen. Voor direct contact met levensmiddelen is een pallet van virgin kunststof nodig. Onze standaardpallets maken we van gerecycled kunststof.
+
+## Elk model wordt getest
+
+Om te weten wat een pallet kan dragen, testen we elk palletmodel. Dat doen we met een gelijkmatig verdeelde lading, gedurende een vooraf vastgestelde periode.
+
+De belastingwaarden bij elk model gelden daarom voor een gelijkmatig verdeelde last. Een puntlast of een ongelijke verdeling verlaagt de bruikbare capaciteit.
+
+## De meest gebruikte typen
+
+Voor bijna elke toepassing is er een passende kunststof pallet. Deze typen komen het vaakst voor:
+
+* **Displaypallet.** Een kleine pallet van 600 x 400 of 600 x 800 mm. Hij gaat zonder ompakken van het distributiecentrum naar de winkelvloer. Bekijk de [displaypallets](@type-display).
+* **Exportpallet.** Een lichte pallet voor zendingen naar het buitenland. Kunststof pallets vallen niet onder ISPM 15, dus behandeling en stempel zijn niet nodig. Bekijk de [exportpallets](@type-export).
+* **CP-pallet.** De kunststof versie van de chemiepallet, voor zakgoed, vaten, octabins en big bags. Ook buiten de chemie wordt hij veel gebruikt.
+* **Hygiënische pallet.** Een gladde pallet van virgin kunststof voor de voedingsmiddelenindustrie en farmacie, die u goed kunt reinigen. Bekijk de [hygiënische pallets](@type-hygienic).
+
+Wilt u stap voor stap kiezen? In onze gids [de juiste kunststof pallet kiezen](@guide-choose) vindt u zes stappen en een beslistabel.
+
+Weet u al wat u nodig heeft? [Vraag een offerte aan](@quote), dan ontvangt u meestal binnen één werkdag een prijs op maat.

@@ -1,19 +1,63 @@
 ---
 id: news-recycling
 title: "Il riciclo dei pallet in plastica: come funziona? – Q-Pall"
-description: "Q-Pall produce pallet in plastica completamente riciclata, con bassi consumi energetici e poca CO2. Scoprite come funziona il riciclo e cosa comporta."
+description: "Come si riciclano i pallet in plastica? Dai rifiuti raccolti al nuovo pallet, passo per passo, e di cosa sono fatti i pallet in plastica riciclata."
 eyebrow: "Notizie"
 tag: "Sostenibilità"
 crumb: "Il riciclo dei pallet in plastica"
 h1: "Il riciclo dei pallet in plastica: **come funziona?**"
-lead: "Una delle ragioni per cui Q-Pall ha scelto di produrre pallet in plastica è la loro sostenibilità. Questo genere di prodotto non ha solo una durata più lunga, ma è possibile anche riciclarlo. Una cosa ottima per l’ambiente e che farà in modo che chi li utilizza possa stare attento all’ambiente. Ma come funziona il processo di riciclaggio e che cosa comporta? Siamo lieti di spiegarvelo."
-img_alt: "Il riciclo dei pallet in plastica: come funziona?"
+lead: "Realizziamo i nostri pallet standard in plastica riciclata quasi al 100% e, a fine vita, tornano a essere materia prima. Ecco come funziona il riciclo dei pallet in plastica, passo per passo."
+img_alt: "Mano con tappi di plastica colorati sopra un grande mucchio di tappi di bottiglia"
 reading: 3
+faq:
+- q: "I pallet in plastica sono riciclabili?"
+  a: "Sì. A fine vita i pallet in plastica sono completamente riciclabili. Il materiale viene macinato e riutilizzato come materia prima per nuovi pallet."
+- q: "Di cosa sono fatti i pallet in plastica riciclata?"
+  a: "I nostri pallet standard sono realizzati in plastica riciclata quasi al 100%: una miscela di HDPE e PP proveniente da flussi di rifiuti come cassette, tappi e imballaggi. I pallet Light contengono anche LDPE."
+- q: "Cosa succede ai pallet usati o rotti?"
+  a: "Li ritiriamo. I pallet in buone condizioni vengono controllati e hanno una seconda vita con Q-Used. I pallet rotti li maciniamo per farne materia prima per nuovi pallet."
+- q: "I pallet in plastica riciclata sono adatti agli alimenti?"
+  a: "Non per il contatto diretto con gli alimenti. Per questo sono pensati i nostri pallet igienici, i pallet H1 e i pallet per camera bianca, realizzati in plastica vergine."
+published: '2022-01-12'
+updated: '2026-11-02'
 ---
-## Produzione di pallet in plastica riciclati Q-Pall
+> **In breve**
+>
+> * A fine vita i pallet in plastica sono completamente riciclabili.
+> * Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%: una miscela di HDPE e PP.
+> * La materia prima proviene da flussi di rifiuti come cassette, tappi e imballaggi.
+> * Nel 2025 abbiamo lavorato 34.500 tonnellate di plastica riciclata, circa 1.475 camion pieni.
+> * I pallet usati in buone condizioni hanno una seconda vita con Q-Used.
 
-Come ho scritto nell’introduzione siamo in grado di produrre pallet in plastica completamente riciclata. Questo rende la scelta dei pallet ecosostenibile ed ecologicamente responsabile. Il materiale resistente indica che i pallet hanno una durata molto lunga e possono sopportare cadute e colpi e grazie a queste parti dure i pallet sono impermeabili e non c’è il rischio che la merce sia danneggiata da schegge di legno. Durante la produzione ci assicuriamo di mantenere dei livelli energetici bassi e una bassa produzione di CO2 all’ora. Oltre a pallet riciclati forniamo anche pallet in plastica usati. Il vantaggio è che questi prodotti sono venduti a un prezzo molto vantaggioso e questo non è l’unico punto a loro favore, sono molto più durevoli rispetto a quelli in legno e avanzati dal punto di vista ecologico rispetto ai pallet in plastica. Quindi non sono ottimi solamente per il proprio conto bancario, ma anche per l’ambiente.
+## Perché riciclare i pallet in plastica?
 
-## Il processo di riciclaggio dei pallet in plastica
+La sostenibilità è uno dei motivi per cui Q-Pall produce pallet in plastica. Durano molti anni e poi si possono riciclare completamente. Il materiale di un vecchio pallet diventa la materia prima di uno nuovo.
 
-I pallet in plastica spesso sono prodotti con plastica completamente riciclata, ad esempio con i tappi delle bottiglie. Questi materiali sono sistemati in base alle dimensioni e alla composizione del materiale. Se contengono molto alluminio o altri materiali non vengono utilizzati. I pallet sono prodotti con stampi che sono riempiti con plastica riciclata riscaldata. Questo genere di pallet dura per 10 anni, dopodiché possono essere nuovamente riciclati. Questo permette di creare nuovi prodotti in plastica da materiali riciclati. Un pallet in plastica eliminato può essere riciclato completamente per produrne uno nuovo. D’altra parte i pallet in plastica in riparazione sono piuttosto costosi e devono essere trasportati da società certificate. Questa è la ragione per cui le società spesso scelgono di riciclare completamente pallet rotti piuttosto che ripararli. State cercando dei pallet in plastica sostenibile a un prezzo ragionevole? Allora potete guardare la gamma dei nostri pallet in plastica per osservare tutte le opzioni. Potete anche scegliere di acquistare pallet in plastica usati che sono ancora più economici. Avete domande o richieste specifiche? Contattateci. Saremo lieti di potervi aiutare.
+Così la plastica resta nel ciclo e serve meno materia prima nuova. È una differenza netta rispetto ai pallet in legno, che a fine vita vengono per lo più cippati o bruciati.
+
+## Di cosa sono fatti i pallet in plastica riciclata?
+
+Realizziamo i nostri pallet standard in plastica riciclata: una miscela di HDPE (codice plastica 2) e PP (codice plastica 5). Sono entrambe poliolefine, che nel riciclo si comportano in modo simile. I nostri pallet Light contengono anche LDPE. Cosa significano i codici sulla plastica e quali tipi si riciclano bene lo spieghiamo in [codici delle resine: tipi di plastica e riciclo](@news-ric).
+
+Il materiale proviene da flussi di rifiuti come cassette, tappi di bottiglie di bibite e imballaggi. Lavorare con la plastica riciclata richiede molta competenza, perché si comporta in modo diverso dalla plastica nuova. Questa competenza la sviluppiamo dal 2005.
+
+## Il processo di riciclo passo per passo
+
+1. **Raccolta.** Si raccoglie plastica post-consumo e industriale, compresi i rifiuti di imballaggio delle aziende.
+2. **Selezione e controllo.** Il materiale viene controllato, tra l’altro, per granulometria e composizione. Se contiene troppa pellicola o altre impurità, non viene utilizzato.
+3. **Macinazione e pulizia.** La plastica viene macinata, pulita e trasformata in HDPE e PP riciclati.
+4. **Stampaggio a iniezione.** Il materiale riciclato riscaldato viene iniettato in uno stampo, nello [stabilimento più vicino al cliente](@about-local).
+5. **Utilizzo.** Il pallet dura molti anni. È resistente agli urti, non assorbe l’umidità, non ha schegge né chiodi e non richiede il trattamento ISPM 15.
+6. **Di nuovo nel ciclo.** Un pallet a fine vita viene macinato di nuovo per diventare materia prima per nuovi pallet.
+
+## Riparare, riutilizzare o riciclare?
+
+Riparare un pallet in plastica rotto è relativamente costoso. Per questo le aziende scelgono per lo più di riciclare i pallet rotti. Il materiale non va perso: diventa la materia prima di un nuovo pallet.
+
+Se un pallet è ancora in buone condizioni, la scelta migliore è riutilizzarlo. Con [Q-Used](@used) acquistiamo pallet in plastica usati, li controlliamo e li rivendiamo. I pallet usati costano fino al 40% in meno di quelli nuovi.
+
+## Cosa si ottiene
+
+Nel 2025 abbiamo lavorato 34.500 tonnellate di plastica riciclata: circa 1.475 camion pieni. Esaminiamo anche i flussi di rifiuti plastici dei nostri clienti. Ove possibile, trasformiamo la plastica raccolta in materia prima per nuovi pallet. Scoprite il nostro approccio nella pagina [sostenibilità](@about-sustainability).
+
+Cercate pallet in plastica riciclata? [Richiedete un preventivo](@quote). Di solito ricevete un prezzo su misura entro un giorno lavorativo.

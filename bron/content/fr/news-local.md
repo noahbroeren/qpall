@@ -6,11 +6,11 @@ eyebrow: "Actualités"
 tag: "Supply chain"
 crumb: "La production locale, un pilier"
 h1: "De la tendance à la nécessité : la **production locale**, pilier de la résilience de la supply chain"
-lead: "Dans un monde instable, le nearshoring n’est plus une option stratégique mais une exigence de gestion des risques. La production locale d’équipements logistiques apporte trois choses : résilience, moins d’émissions de scope 3 et un coût total (TCO) plus bas."
+lead: "Dans un monde instable, le nearshoring n’est plus une option mais une exigence de gestion des risques. Produire localement ses équipements logistiques apporte : résilience, moins d’émissions de scope 3 et un TCO plus bas."
 img_alt: "Robots et presses à injecter dans le hall de production de l'usine Q-Pall à Balk"
-reading: 5
+reading: 4
 published: '2026-01-22'
-updated: '2026-10-19'
+updated: '2026-11-02'
 ---
 > **En bref**
 >
@@ -29,7 +29,7 @@ Des conflits comme la guerre en Ukraine et les tensions sur des routes commercia
 
 ### Plus de transparence dans la chaîne
 
-La réglementation joue aussi un rôle croissant. Les grandes entreprises doivent pouvoir justifier de plus en plus précisément l’origine de leurs produits et leur impact environnemental, y compris les émissions de leur chaîne d’approvisionnement (scope 3). Un équipement logistique comme une palette qui a fait la moitié du tour du monde s’y prête mal.
+La réglementation joue aussi un rôle croissant. Les grandes entreprises doivent pouvoir justifier de plus en plus précisément l’origine de leurs produits et leur impact environnemental, y compris les émissions de leur chaîne d’approvisionnement (scope 3). Un équipement logistique comme une palette qui a fait la moitié du tour du monde s’y prête mal. Pour cartographier les dépendances de votre propre chaîne, lisez [de la dépendance mondiale à la résilience locale](@news-local-resilience).
 
 ## Le modèle Q-Pall : produire au plus près du client
 
@@ -45,9 +45,9 @@ Une approche régionale stabilise aussi les prix. Les tarifs des conteneurs vari
 
 La production locale permet aussi de maîtriser le flux de matières premières : la *chaîne de traçabilité*. C’est essentiel pour les entreprises qui prennent leurs objectifs ESG au sérieux et veulent éviter le greenwashing.
 
-Nos palettes sont fabriquées en plastique recyclé, un mélange de PEHD (code 2) et de PP. Pour en savoir plus sur ce matériau, lisez [PE-HD 2 recyclé : qu’est-ce que c’est exactement ?](@news-hdpe) Comme nous achetons la matière recyclée à proximité, nous avons une vision directe de sa qualité et de son origine. Les déchets ne traversent pas la moitié du globe avant de connaître une seconde vie. Le déchet local devient une matière première locale, puis un produit local.
+Nos palettes standard sont fabriquées en plastique recyclé, un mélange de PEHD (code 2) et de PP (code 5). Pour en savoir plus sur ce matériau, lisez [PE-HD 2 recyclé : qu’est-ce que c’est exactement ?](@news-hdpe) Comme nous achetons la matière recyclée à proximité, nous avons une vision directe de sa qualité et de son origine. Les déchets ne traversent pas la moitié du globe avant de connaître une seconde vie. Le déchet local devient une matière première locale, puis un produit local.
 
-Le résultat est une palette techniquement performante (résistante aux chocs, aux intempéries et hygiénique) qui raconte une histoire honnête dans votre rapport de durabilité. En fin de vie, la palette est entièrement recyclable, au sein de la même chaîne régionale.
+Le résultat est une palette techniquement performante (résistante aux chocs et aux intempéries, et facile à nettoyer) qui raconte une histoire honnête dans votre rapport de durabilité. En fin de vie, la palette est entièrement recyclable, au sein de la même chaîne régionale. Ce que la production locale change pour le transport, le CO₂ et la matière recyclée, vous le découvrirez dans [production locale de palettes plastique et durabilité](@news-local-sustainability).
 
 ## L’avenir est régional
 

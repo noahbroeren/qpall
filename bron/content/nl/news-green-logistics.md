@@ -1,45 +1,68 @@
 ---
 id: news-green-logistics
-title: "De sleutel tot de toekomst van groene logistiek – Q-Pall"
-description: "Kunststof pallets zijn lichter dan houten pallets en besparen zo brandstof tijdens transport. Ontdek welke rol ze spelen in uw green logistics-strategie."
+title: "Groene logistiek: de rol van kunststof pallets – Q-Pall"
+description: "Welke rol spelen kunststof pallets in groene logistiek? Over gewicht en brandstof, levensduur, recycling, lokale productie en kosten per omloop."
 eyebrow: "Nieuws"
 tag: "Duurzaamheid"
-crumb: "De sleutel tot de toekomst van groene"
-h1: "De sleutel tot **de toekomst van groene logistiek**"
-lead: "Kunststof pallets zijn lichter dan houten pallets en besparen zo brandstof tijdens transport. Ontdek welke rol ze spelen in uw green logistics-strategie."
-img_alt: "De sleutel tot de toekomst van groene logistiek"
+crumb: "Pallets en groene logistiek"
+h1: "Groene logistiek: **de rol van kunststof pallets**"
+lead: "Bedrijven worden steeds vaker afgerekend op hun milieu-impact. Een onderdeel dat vaak over het hoofd wordt gezien, is de pallet. Zo dragen kunststof pallets bij aan groenere logistiek."
+img_alt: "Drie houten blokjes met symbolen voor samenwerking, de aarde en recycling op gekleurd kunststof maalgoed"
 reading: 3
+faq:
+- q: "Wat is groene logistiek?"
+  a: "Groene logistiek, of green logistics, is logistiek met zo weinig mogelijk impact op het milieu: minder uitstoot, minder afval en efficiënter gebruik van middelen. Ook de keuze van pallets speelt daarin mee."
+- q: "Zijn kunststof pallets lichter dan houten pallets?"
+  a: "Vaak wel, afhankelijk van het type. Light pallets zijn veel lichter dan hout. Heavy pallets wegen 17 tot 28 kg, ongeveer evenveel als een houten europallet van zo'n 25 kg."
+- q: "Hoe draagt lokale productie bij aan groene logistiek?"
+  a: "In de palletbranche komt het grootste deel van de CO₂-uitstoot van transport. Wij produceren in zes Europese fabrieken, zodat bijna elke klant binnen 600 kilometer van een fabriek zit."
+published: '2023-09-11'
+updated: '2026-11-02'
 ---
-## De rol van [kunststof pallets](@pallets) in Green Logistics
+> **In het kort**
+>
+> * Groene logistiek draait om minder uitstoot en afval in transport en opslag. De pallet speelt daarin mee.
+> * Kunststof pallets zijn vaak lichter dan hout, vooral in de klasse light. Dat scheelt brandstof.
+> * Ze gaan vele jaren mee en zijn daarna volledig recyclebaar.
+> * Onze standaardpallets zijn van bijna 100% gerecycled kunststof: 34.500 ton in 2025.
+> * Lokale productie in zes Europese fabrieken beperkt het transport van de pallets zelf.
 
-In een tijdperk waar duurzaamheid een buzzword is geworden en bedrijven steeds vaker worden afgerekend op hun milieu-impact, speelt green logistics een cruciale rol. Het streven naar milieuvriendelijkere operaties in de logistieke sector heeft verschillende facetten, van efficiënt transport tot slim magazijnbeheer. Een vaak over het hoofd geziene, maar essentiële component in deze puzzel is de keuze van pallets. Kunststof pallets bieden diverse ecologische voordelen die bijdragen aan een groenere supplychain. In deze blog bespreken we hoe kunststof pallets een waardevolle aanvulling kunnen zijn op uw green logistics-strategie.
+## Wat is groene logistiek?
+
+Groene logistiek, ook wel green logistics, is het streven naar logistiek met minder impact op het milieu. Dat gaat van efficiënt transport tot slim magazijnbeheer. Bedrijven worden steeds vaker afgerekend op hun milieu-impact, ook door hun klanten en ketenpartners.
+
+Een onderdeel dat vaak over het hoofd wordt gezien, is de keuze van pallets. Kunststof pallets hebben verschillende voordelen die bijdragen aan een groenere supply chain.
 
 ## Minder gewicht, minder brandstof
 
-In tegenstelling tot hun houten tegenhangers zijn kunststof pallets aanzienlijk lichter. Dit verlaagt het totale gewicht van de vracht en kan leiden tot een aanzienlijke vermindering van het brandstofverbruik tijdens transport. Minder brandstof betekent minder uitstoot, waardoor uw bedrijf zijn ecologische voetafdruk kan verkleinen.
+Kunststof pallets zijn vaak lichter dan houten pallets, afhankelijk van het type. Vooral [light pallets](@class-light) wegen veel minder. Een lager eigen gewicht betekent meer lading per rit en minder brandstof, en daarmee minder uitstoot.
 
-## Recyclebaar
+Bij zware toepassingen is het verschil kleiner. Een heavy kunststof pallet weegt 17 tot 28 kg, een houten europallet zo'n 25 kg. Het voordeel zit dan vooral in de lange levensduur en het constante gewicht, want kunststof neemt geen vocht op.
 
-Aan het einde van hun levensduur kunnen kunststof pallets eenvoudig worden gerecycled. Ze kunnen worden vermalen en vervolgens weer worden omgezet in nieuwe kunststof producten, waardoor het gebruik van nieuwe grondstoffen wordt geminimaliseerd. Dit is een groot voordeel ten opzichte van houten pallets, die vaak eindigen als afval of brandstof voor energiecentrales, met alle milieueffecten van dien.
+## Lang mee en herbruikbaar
 
-## Herbruikbaar en duurzaam
+Kunststof pallets zijn robuust en gaan vele jaren mee, veel langer dan een gemiddelde houten pallet. Ze zijn bestand tegen slijtage, vocht en stoten. Daardoor kunnen ze heel vaak opnieuw worden gebruikt, wat minder afval en minder nieuwe pallets betekent.
 
-Kunststof pallets zijn robuuster en hebben een langere levensduur dan houten pallets. Ze zijn beter bestand tegen slijtage, watervorming en schade. Hierdoor kunnen ze meerdere malen worden hergebruikt, wat leidt tot minder afval en een verminderde behoefte aan nieuwe pallets.
+Ook als een pallet bij u uit roulatie gaat, is hij vaak nog goed bruikbaar. Via [Q-Used](@used) krijgen gekeurde pallets een tweede leven.
 
-## Hygiënisch en veilig
+## Recyclebaar aan het einde van de levensduur
 
-Kunststof pallets zijn makkelijker te reinigen en te desinfecteren, wat de kans op kruisbesmetting van goederen minimaliseert. In een tijd waarin hygiëne en veiligheid van het grootste belang zijn, kan dit niet worden onderschat.
+Aan het einde van hun leven zijn kunststof pallets volledig recyclebaar. Ze worden vermalen en weer verwerkt tot nieuwe producten, zoals nieuwe pallets. Zo is er minder nieuwe grondstof nodig. Hoe dat werkt, leest u in [het recyclen van kunststof pallets](@news-recycling).
 
-## Kostenbesparingen
+Houten pallets worden aan het einde van hun leven meestal versnipperd of verbrand, met de bijbehorende uitstoot.
 
-Hoewel de initiële kosten van kunststof pallets hoger kunnen zijn dan die van houten pallets, zijn de operationele kosten over de levensduur vaak lager. De duurzaamheid en herbruikbaarheid van kunststof pallets kunnen leiden tot aanzienlijke kostenbesparingen op de lange termijn.
+## Goed te reinigen
 
-## Q-Pall - een stap verder
+Kunststof pallets nemen geen vocht op en zijn goed te reinigen. Dat helpt om vervuiling van goederen te voorkomen. Voor direct contact met levensmiddelen zijn er [hygiënische pallets](@type-hygienic) van virgin kunststof.
 
-Als we het hebben over het verkleinen van de ecologische voetafdruk in de logistiek gaan wij nog een stap verder doordat al 99% van onze pallets worden vervaardigd uit gerecycled kunststof. Hiermee verbruiken wij op jaarbasis zo’n 30.000 ton gerecycled kunststof. Dit ondersteunt niet alleen de circulaire economie, maar draagt ook direct bij aan het aanpakken van de wereldwijde plastic problematiek. Door gerecycled materiaal te gebruiken, helpt Q-Pall om de hoeveelheid plastic afval die anders in de oceanen, stortplaatsen of verbrandingsovens zou belanden, te verminderen. Het is een voorbeeld van hoe bedrijven door innovatieve aanpakken niet alleen hun eigen operaties kunnen verduurzamen, maar ook een positieve impact kunnen hebben op mondiale milieukwesties.
+## Lagere kosten per omloop
 
-## Conclusie
+Kunststof pallets zijn in aanschaf vaak duurder dan houten pallets. Over de hele levensduur zijn de kosten per omloop vaak lager, dankzij de lange levensduur en het hergebruik. Groene keuzes en lagere kosten gaan hier dus samen.
 
-Green logistics is meer dan een trend; het is een noodzaak in de moderne bedrijfswereld. Het gebruik van kunststof pallets kan een significant verschil maken in uw duurzaamheidsinspanningen. Van gewichts- en brandstofbesparing tot duurzaamheid en recycleerbaarheid, kunststof pallets bieden tal van voordelen die passen in een groenere en meer duurzame logistieke strategie.
+## Q-Pall: een stap verder
 
-Door de overstap te maken naar kunststof pallets, draagt uw bedrijf niet alleen bij aan een schonere planeet, maar kan het ook genieten van kostenbesparingen en operationele efficiëntie. Het is een win-win situatie die de moeite waard is om te overwegen in elke green logistics aanpak.
+Onze standaardpallets maken we van bijna 100% gerecycled kunststof. In 2025 verwerkten we 34.500 ton gerecycled kunststof, zo'n 1.475 volle vrachtwagens. Dat helpt de hoeveelheid plastic afval te verminderen die anders op stortplaatsen, in verbrandingsovens of in de oceanen belandt.
+
+Daarnaast produceren we [lokaal](@about-local), in zes fabrieken verspreid over Europa. In de palletbranche komt het grootste deel van de CO₂-uitstoot van transport. Omdat bijna elke klant binnen 600 kilometer van een Q-Pall-fabriek zit, blijven de transportafstanden kort.
+
+Wilt u weten welke pallets het best passen in uw groene logistiek? [Vraag een offerte aan](@quote). Meestal ontvangt u binnen één werkdag een prijs op maat.

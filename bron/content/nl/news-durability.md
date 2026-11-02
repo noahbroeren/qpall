@@ -1,27 +1,61 @@
 ---
 id: news-durability
 title: "Zo bewaken wij de duurzaamheid van onze kunststof pallets"
-description: "Duurzaam ondernemen draait om People, Planet en Profit. Lees hoe Q-Pall de duurzaamheid van zijn kunststof pallets bewaakt en de CO2-uitstoot beperkt."
+description: "People, Planet en Profit: zo bewaakt Q-Pall de duurzaamheid van zijn kunststof pallets, met lokale productie, gerecycled kunststof en minder afval."
 eyebrow: "Nieuws"
 tag: "Duurzaamheid"
-crumb: "Zo bewaken wij de duurzaamheid van onze"
+crumb: "Duurzaamheid van onze pallets"
 h1: "Zo bewaken wij **de duurzaamheid van onze kunststof pallets**"
-lead: "Duurzaam ondernemen draait om People, Planet en Profit. Lees hoe Q-Pall de duurzaamheid van zijn kunststof pallets bewaakt en de CO2-uitstoot beperkt."
-img_alt: "Zo bewaken wij de duurzaamheid van onze kunststof pallets"
+lead: "Duurzaam ondernemen draait om People, Planet en Profit. Zo bewaken wij de duurzaamheid van onze kunststof pallets: van grondstof en productie tot transport en onafhankelijke beoordeling."
+img_alt: "Luchtfoto van een polder met windturbines langs het water"
 reading: 3
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-Duurzaamheid is een begrip dat binnen ondernemen een steeds belangrijker rol inneemt. Het gaat niet meer alleen om winst maken. Natuurlijk is dit nog wel een belangrijk onderdeel van het ondernemen, maar niet ten koste van alles. Bij duurzaam ondernemen of maatschappelijk verantwoord ondernemen wordt rekening gehouden met menselijke, natuurlijke en economische aspecten. Dit wordt ook wel People, Planet en Profit genoemd. Onze productieprocessen en het materiaal dat wij gebruiken passen binnen duurzaam ondernemen. Hoe bewaken wij de duurzaamheid van onze [kunststof pallets](@pallets)?
+> **In het kort**
+>
+> * Duurzaam ondernemen houdt rekening met mens, milieu en economie: People, Planet en Profit.
+> * We produceren lokaal in zes Europese fabrieken. De matrijs reist, de pallets niet.
+> * Onze standaardpallets maken we van bijna 100% gerecycled kunststof: 34.500 ton in 2025.
+> * In de productie letten we op lichtgewicht ontwerp, minder materiaalverlies en hergebruik van productieschroot.
+> * EcoVadis beoordeelt onze duurzaamheidsprestaties onafhankelijk. In oktober 2026 behaalden we opnieuw brons.
 
-## Vermindering CO2-uitstoot
+## Wat is duurzaam ondernemen?
 
-Bij het produceren en distribueren van onze **plastic pallets** gebruiken we energie. En bij energiegebruik ontstaan afvalgassen. Dit komt vooral door de verbranding van fossiele brandstoffen, zoals kolen, olie en gas. Een van die gassen is CO2-gas ook wel broeikasgas genoemd. De uitstoot van dit broeikasgas zorgt voor klimaatverandering met als gevolg opwarming van de aarde. Deze opwarming zorgt weer voor het smelten van onder meer poolijs en dus het stijgen van de waterspiegel. Om dat te stoppen wil Q-PALL vooral een [reductie in CO2-gas](@about-local) behalen tijdens het transport. Het vervoer van de plastic pallets is namelijk 80% van de CO2-uitstoot van deze industrie. Daarom dat de pallets geproduceerd op de plaats waar ze nodig zijn door de mal van de benodigde pallet te verplaatsen naar de dichtstbijzijnde Europese productielocatie. Deze productiemethode scheelt heel veel kilometers en dus CO2-uitstoot. Bijkomend voordeel is dat de kosten van transport tot een minimum worden beperkt.
+Duurzaamheid speelt een steeds grotere rol in het bedrijfsleven. Winst maken blijft belangrijk, maar niet ten koste van alles. Bij duurzaam of maatschappelijk verantwoord ondernemen houdt een bedrijf rekening met menselijke, natuurlijke en economische aspecten: People, Planet en Profit.
 
-## Kunststof pallets gemaakt van gerecycled materiaal
+Onze productieprocessen en het materiaal dat we gebruiken, passen bij die manier van ondernemen. Hieronder leest u hoe we de duurzaamheid van onze kunststof pallets bewaken.
 
-Een van de andere punten die een rol spelen bij **duurzaam ondernemen** is het verminderen van plastic afval. Veel in het nieuws is de ‘plastic soep’, een enorme hoeveelheid plastic afval dat ronddrijft in de oceanen. Dit bedreigt de dieren die leven in de oceanen, maar ook planten en koraal lijden hier sterk onder. Dit besef is inmiddels meer dan aanwezig en niets doen is echt geen optie meer! Nu is een **kunststof pallet** in meerdere opzichten duurzaam ondermeer omdat het [hergebruik van plastic](@about) goed mogelijk is. Daarom dat in de bedrijfsvoering van Q-PALL *recycling van materialen* een grote rol speelt. En het werkt. Bij de oprichting was het doel om 90% van het plastic te hergebruiken. Dat streven is ruim behaald, op dit moment wordt 98% van de pallets gemaakt van gerecycled materiaal. Bovendien ondersteunen wij projecten die betrokkenheid creëren bij het plastic afvalprobleem.
+## Minder CO₂ door lokaal te produceren
 
-## Reduceren centraal
+Bij het produceren en vervoeren van pallets gebruiken we energie. Bij de verbranding van fossiele brandstoffen zoals kolen, olie en gas komt CO₂ vrij. Dat broeikasgas draagt bij aan de opwarming van de aarde.
 
-Bij het reduceren binnen de diverse processen in de productie is aandacht voor de **ecologische voetafdruk** van Q-PALL. Juist omdat de grondstof van het product, kunststof, een negatieve bijdrage hieraan kan hebben. Onderzoek naar en inzicht in onze ecologische voetafdruk levert informatie die helpt bij verder verbeteren van de milieuvriendelijkheid van de producten, van de pallets. We blijven zoeken naar manieren om de uitstoot van broeikasgassen te minimaliseren. Dat doen we door met strenge designdoelstellingen de lat hoog te leggen op het gebied van energie- en materiaalefficiëntie. Bij de uitbreiding van het assortiment [plastic pallets](@pallets) wordt vooral gelet lichtgewicht design, minder opbrengstverlies en het (her)gebruik van onderdelen en productieschroot. Dit levert een reductie op voor het water of energieverbruik, de materialen, de CO2-uitstoot en het afval.
+In de palletbranche komt het grootste deel van de CO₂-uitstoot van transport. Een vrachtwagen vol pallets vervoert vooral lucht. Daarom plaatsen we de matrijs van een pallet in de fabriek die het dichtst bij de klant ligt. Zo hoeven de pallets zelf geen lange afstanden af te leggen.
 
-Deze drie onderdelen zorgen ervoor dat Q-PALL duurzaam produceert en duurzame pallets levert. Wilt u meer weten hierover? Of heeft u andere vragen met betrekking tot ons assortiment? Neem dan gerust contact met ons op. Wij helpen u graag verder!
+We produceren in zes fabrieken: in Balk, Ribe, Marktoberdorf, Nantes, Lleida en Chesterfield. Bijna elke klant zit binnen 600 kilometer van een Q-Pall-fabriek. Dat scheelt veel kilometers, CO₂-uitstoot en transportkosten. Meer hierover leest u bij [lokaal produceren](@about-local).
+
+## Pallets van gerecycled kunststof
+
+Een ander belangrijk punt is het verminderen van plastic afval. De 'plastic soep' in de oceanen bedreigt dieren, planten en koraal. Kunststof pallets zijn in meerdere opzichten duurzaam, onder meer omdat het kunststof goed opnieuw te gebruiken is.
+
+Recycling speelt daarom een grote rol bij Q-Pall. Bij de oprichting in 2005 was het doel om 90% van het kunststof te hergebruiken. Dat doel is ruim gehaald: onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE en PP.
+
+In 2025 verwerkten we 34.500 ton gerecycled kunststof, zo'n 1.475 volle vrachtwagens. Aan het einde van hun leven zijn onze pallets volledig recyclebaar. Daarnaast ondersteunen we projecten die aandacht vragen voor het probleem van plastic afval.
+
+## Minder verbruik in de productie
+
+Ook in de productie letten we op onze ecologische voetafdruk. Inzicht in die voetafdruk helpt ons om de milieuprestaties van onze pallets verder te verbeteren. We leggen de lat hoog met strenge ontwerpdoelen voor energie- en materiaalefficiëntie.
+
+Bij nieuwe pallets letten we vooral op:
+
+* **Lichtgewicht ontwerp.** Er is minder materiaal per pallet nodig.
+* **Minder materiaalverlies.** We beperken uitval en verlies in de productie.
+* **Hergebruik van onderdelen en productieschroot.** Restmateriaal gaat terug in het proces.
+
+Zo verminderen we het water- en energieverbruik, het materiaalgebruik, de CO₂-uitstoot en het afval. Ook ons [pand in Veghel](@news-hq), met hoofdkantoor, Europees operationeel centrum en opslag, heeft onder meer een warmtepomp en zonnepanelen.
+
+## Onafhankelijk beoordeeld
+
+We laten onze duurzaamheidsprestaties onafhankelijk beoordelen door EcoVadis. In april 2023 behaalden we de [zilveren medaille](@news-ecovadis-silver). In 2025 volgde de bronzen medaille, en in oktober 2026 behaalden we die opnieuw. Daarmee horen we bij de beste 35% van de beoordeelde bedrijven. Lees meer op onze pagina over [duurzaamheid](@about-sustainability).
+
+Zo zorgen we ervoor dat we duurzaam produceren en duurzame pallets leveren. Wilt u weten wat dat betekent voor uw keten of uw duurzaamheidsverslag? [Neem contact met ons op](@contact).

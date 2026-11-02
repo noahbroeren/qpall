@@ -15,7 +15,7 @@ faq:
   - q: "How much does a plastic pallet cost?"
     a: "For most standard pallets we show an indicative from-price per unit, excluding VAT and transport. Your final price depends on quantity, production location and delivery. You will find an overview of prices per size in our [price guide for plastic pallets](@guide-prices)."
   - q: "Can I order a single pallet?"
-    a: "Q-Pall mainly supplies businesses and works with volumes, often per stack or per truckload. For smaller quantities, we will gladly refer you to a [dealer near you](@dealers)."
+    a: "Q-Pall supplies businesses and always sells per full stack, for example 17 medium or 45 nestable pallets. Larger orders are delivered per truckload. For smaller quantities, we will gladly refer you to a [dealer near you](@dealers)."
 classes:
   eyebrow: "Load classes"
   title: "Light, medium **or heavy?**"
@@ -41,7 +41,7 @@ why:
 
 ## Plastic pallets for every application
 
-Q-Pall develops and produces only plastic pallets, and has done so since 2005. You can see that focus in the range: more than ninety models in nine sizes, from the compact [600 x 400 mm display pallet](@size-600x400) to the large [1300 x 1100 mm pallet for the chemical industry](@size-1300x1100). Each model is designed for a clear task: transport, storage, export, pooling or automated logistics.
+Q-Pall develops and produces only plastic pallets, and has done so since 2005. You can see that focus in the range: around 130 models in nine sizes, from the compact [600 x 400 mm display pallet](@size-600x400) to the large [1300 x 1100 mm pallet for the chemical industry](@size-1300x1100). Each model is designed for a clear task: transport, storage, export, pooling or automated logistics.
 
 ### Choose by size first
 
@@ -54,3 +54,5 @@ Every pallet has three load values: static (on the floor), dynamic (during trans
 ### Open or closed deck, feet or runners
 
 An **open deck** is lighter and lets moisture and air through. A **closed deck** is easier to clean and gives small packaging a flat base. Pallets with **9 feet** are often nestable and ideal for export. Pallets with **3, 5 or 6 runners** are more stable on roller conveyors and suitable for racking.
+
+Prefer everything on paper? The [product catalogue](@catalog) shows our standard range with dimensions and load values, as a PDF to download.

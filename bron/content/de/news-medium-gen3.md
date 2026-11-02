@@ -1,31 +1,50 @@
 ---
 id: news-medium-gen3
-title: "Neu: Medium-Kunststoffpalette 1200 x 800, 3. Generation"
-description: "Unsere Medium-Kunststoffpalette 1200 x 800 mm der 3. Generation besteht aus recyceltem Material und trägt im Regal bis zu 750 kg."
+title: "Medium-Kunststoffpalette 1200 x 800: 3. Generation – Q-Pall"
+description: "2023 führte Q-Pall die dritte Generation seiner Medium-Kunststoffpalette 1200 x 800 mm ein: zu fast 100 % recycelt, mit offenem oder geschlossenem Deck."
 eyebrow: "Aktuelles"
 tag: "Produkt"
-crumb: "Neu: Medium-Kunststoffpalette 1200 x"
-h1: "Neu: **die 3. Generation der Medium-Kunststoffpalette 1200 x 800**"
-lead: "Unsere Medium-Kunststoffpalette 1200 x 800 mm der 3. Generation besteht aus recyceltem Material und trägt im Regal bis zu 750 kg."
-img_alt: "Neu: die 3. Generation der Medium-Kunststoffpalette 1200 x 800"
-reading: 3
+crumb: "Medium-Palette, 3. Generation"
+h1: "Die dritte Generation der **Medium-Kunststoffpalette 1200 x 800**"
+lead: "2023 führte Q-Pall die dritte Generation seiner Medium-Kunststoffpalette von 1200 x 800 mm ein. Die Palette besteht aus fast 100 % recyceltem Kunststoff und trägt bis zu 750 kg im Regal."
+img_alt: "Medium-Kunststoffpalette 1200 x 800 mm, halb mit offenem und halb mit geschlossenem Deck, mit dem Text Racking load: 750 kg"
+reading: 2
+published: '2023-03-09'
+updated: '2026-11-02'
 ---
-Wir stellen unsere neue 1200 x 800 mm Medium [Kunststoffpalette,](@pallets) auch [Europalette](@size-1200x800) genannt, in 3. Generation vor. Diese ist für mittlere Traglasten vorgesehen und besteht aus 100 % recyceltem Material. Dieses umweltfreundliche Produkt ist jetzt sowohl mit offenem als auch mit geschlossenem Oberdeck erhältlich und für eine Regallast von bis zu 750 kg ausgelegt.
+> **Kurz gesagt**
+>
+> * 2023 führte Q-Pall die dritte Generation seiner Medium-Kunststoffpalette von 1200 x 800 mm ein.
+> * Die Palette besteht aus fast 100 % recyceltem Kunststoff.
+> * Es gibt eine Ausführung mit offenem Deck (QP1208MB3RR) und eine mit geschlossenem Deck (QP1208MB3RR-CD), beide auf drei Kufen.
+> * Im Regal trägt die Palette bis zu 500 kg mit offenem Deck und bis zu 750 kg mit geschlossenem Deck.
+> * Die Palette nimmt keine Feuchtigkeit auf und ist beständig gegen viele Chemikalien.
 
-Durch die Verwendung von recyceltem Material im Produktionsprozess reduzieren wir die Abfallmenge, die sonst auf der Mülldeponie gelandet wäre. Das bedeutet nicht nur, dass die Palette umweltfreundlich ist, sondern auch, dass sie dazu beiträgt, die Umweltauswirkungen der Abfallentsorgung zu verringern.
+## Das Europaletten-Format als Medium-Palette
 
-Die Abmessungen der Palette machen sie perfekt für den Einsatz in einer Vielzahl von Branchen, einschließlich Lebensmittel- und Getränkeindustrie, Pharmazie, Logistik und Fertigung. Die Größe von 1200 x 800 mm ist ein Standardformat, das in vielen Ländern verwendet wird und mit den meisten Palettenhandhabungsgeräten kompatibel ist.
+1200 x 800 mm ist das Format der Europalette. Es ist ein Standardformat, das in vielen Ländern verwendet wird und zu den meisten Hubwagen, Gabelstaplern und anderen Geräten für den Palettentransport passt. Sehen Sie sich alle [Kunststoffpaletten 1200 x 800 mm](@size-1200x800) an.
 
-Die Belastbarkeit dieser Palette macht sie ideal für Anwendungen, bei denen eine Palette ein moderates Gewicht tragen muss, ohne dass die Haltbarkeit oder Festigkeit darunter leidet. Mit einer Tragfähigkeit von 500 kg für das offene Deck und 750 kg für die geschlossene Version eignet sie sich perfekt für den Einsatz in Lagerregalsystemen und ermöglicht es Unternehmen, den Lagerraum zu maximieren, ohne sich Gedanken über den Bruch oder das Versagen der Paletten zu machen.
+Die dritte Generation ist eine [Medium-Palette](@class-medium): der Allrounder für innerbetrieblichen Transport, Distribution und leichte Regallagerung. Die Palette trägt ein mittleres Gewicht, ohne Abstriche bei Festigkeit und Lebensdauer.
 
-Die Palette ist nicht nur umweltfreundlich, sondern auch extrem langlebig. Sie wird aus hochwertigem Recyclingmaterial hergestellt und ist resistent gegen Feuchtigkeit, Chemikalien und UV-Strahlen. Das bedeutet, dass sie in einer Vielzahl von Umgebungen verwendet werden kann und sowohl für den Innen- als auch für den Außenbereich geeignet ist.
+## Offenes oder geschlossenes Deck
 
-Das offene und das geschlossene Oberdeck bieten zusätzliche Flexibilität für Unternehmen. Das offene Oberdeck ermöglicht einen einfachen Zugang zu den zu transportierenden Produkten und Gütern und ist daher ideal für Anwendungen, bei denen ein häufiges Be- und Entladen erforderlich ist. Das geschlossene Oberdeck bietet zusätzlichen Schutz für die zu transportierenden Waren und ist ideal für Anwendungen, bei denen die Unversehrtheit der Produkte von entscheidender Bedeutung ist.
+* **Offenes Deck (QP1208MB3RR).** Das offene Deck ist leichter, und Feuchtigkeit kann ablaufen. Es passt zu Anwendungen, bei denen oft be- und entladen wird.
+* **Geschlossenes Deck (QP1208MB3RR-CD).** Das geschlossene Deck bietet eine ebene, durchgehende Fläche für kleine Produkte, Säcke und Kartons. Es schützt die Ladung zusätzlich und ist leicht zu reinigen.
 
-Zusammenfassend kann gesagt werden, dass die Einführung der neuen 1200 x 800 mm großen Kunststoffpalette für mittlere Traglasten, die zu 100 % aus recyceltem Material besteht, eine große Bereicherung für den Markt darstellt. Dieses umweltfreundliche Produkt bietet Unternehmen eine umweltverträgliche Verpackungslösung und ist gleichzeitig langlebig und flexibel. Mit einer Regaltragfähigkeit von maximal 750 kg ist die Palette ideal für Lagerregalsysteme geeignet, und die offene und geschlossene Ausführung des Oberdecks bietet den Unternehmen zusätzliche Flexibilität.
+## Tragfähigkeit
 
-[Kunststoffpalette 1200 x 800 3 Kufen medium](@p:qp1208mb3rr){: .btn .btn-primary}
-{: .btn-row}
+Die Palette misst 1200 x 800 x 145 mm und trägt 5.000 kg statisch. Im Palettenregal trägt die Ausführung mit offenem Deck bis zu 500 kg und die Ausführung mit geschlossenem Deck bis zu 750 kg. So können Sie die Palette auch in Lagerregalen einsetzen.
 
-[Kunststoffpalette 1200 x 800 3 Kufen geschlossenes medium](@p:qp1208mb3rr-cd){: .btn .btn-primary}
-{: .btn-row}
+Die Werte gelten für eine gleichmäßig verteilte Last. Mehr dazu lesen Sie auf unserer Seite über [die Tragfähigkeit von Kunststoffpaletten](@about-load).
+
+## Aus recyceltem Kunststoff
+
+Die Palette besteht aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE und PP. So bekommt Kunststoff, der sonst Abfall wäre, ein neues Leben. Am Ende ihrer Lebensdauer ist die Palette vollständig recycelbar: Wir nehmen sie zurück und machen daraus wieder Rohstoff für neue Paletten. Mehr über unseren Ansatz lesen Sie auf der Seite [Nachhaltigkeit](@about-sustainability).
+
+## Wo Sie die Palette einsetzen
+
+Die Palette nimmt keine Feuchtigkeit auf und ist beständig gegen viele Chemikalien. Sie eignet sich für viele Branchen, von Logistik und Produktion bis zur Lebensmittel- und Getränkeindustrie.
+
+Für den direkten Kontakt mit Lebensmitteln ist eine Palette aus recyceltem Kunststoff nicht vorgesehen. Dafür gibt es [Hygienepaletten](@type-hygienic) aus Neuware.
+
+Möchten Sie wissen, welche Ausführung am besten zu Ihrem Prozess passt? [Fordern Sie ein Angebot an](@quote); einen individuellen Preis erhalten Sie meist innerhalb eines Werktags.

@@ -15,7 +15,7 @@ faq:
   - q: "Entro quanto tempo ricevo una risposta?"
     a: "Di solito entro un giorno lavorativo. Cercate un prezzo? [Richiedete un preventivo](@quote). Lì indicate subito i pallet e le quantità, così possiamo inviarvi più rapidamente un prezzo su misura."
   - q: "Posso ordinare anche un piccolo numero di pallet?"
-    a: "Q-Pall fornisce principalmente aziende e lavora con volumi, spesso per pila o per camion completo. Per quantità più piccole vi indirizziamo volentieri a un [rivenditore vicino a voi](@dealers)."
+    a: "Q-Pall fornisce aziende e vende sempre per pila completa, ad esempio 17 pallet Medium o 45 pallet incastrabili. Gli ordini più grandi vengono consegnati per camion completo. Per quantità più piccole vi indirizziamo volentieri a un [rivenditore vicino a voi](@dealers)."
   - q: "Vengo a caricare o scaricare. Devo registrarmi?"
     a: "Sì, per favore. Prenotate in anticipo una fascia oraria tramite [registra un trasporto](@transport), possibilmente almeno un giorno lavorativo prima. Così il vostro carico è pronto e ripartite subito."
   - q: "Vorrei lavorare in Q-Pall. Dove trovo le posizioni aperte?"

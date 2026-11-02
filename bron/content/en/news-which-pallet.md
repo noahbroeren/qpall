@@ -1,35 +1,68 @@
 ---
 id: news-which-pallet
 title: "Which plastic pallet best suits your needs? – Q-Pall"
-description: "Size, load, single or multiple use, quality standards: answer these questions first, then find the plastic pallet that meets all your demands."
+description: "Which plastic pallet suits you? Four questions on size, load, use and quality requirements, plus an overview of the most commonly used pallet types."
 eyebrow: "News"
 tag: "Know-how"
-crumb: "Which plastic pallet best suits your"
+crumb: "Which plastic pallet suits you?"
 h1: "Which plastic pallet **best suits your needs?**"
-lead: "Size, load, single or multiple use, quality standards: answer these questions first, then find the plastic pallet that meets all your demands."
-img_alt: "Which plastic pallet best suits your needs?"
-reading: 2
+lead: "Four questions about size, load, use and quality requirements quickly show you which plastic pallet suits you. We then list the most commonly used types."
+img_alt: "Black nestable plastic pallet with an open deck on nine feet"
+reading: 3
+faq:
+- q: "What is the most commonly used plastic pallet?"
+  a: "In Europe it is the 1200 x 800 mm pallet, the size of the Euro pallet. For export, many customers choose a nestable light pallet; for internal use, a medium or heavy pallet with runners."
+- q: "Can a light pallet be used in pallet racking?"
+  a: "No. Light pallets are intended for transport, export and floor storage. For pallet racking, choose a medium or heavy pallet with runners and a racking load that suits your goods."
+- q: "Is every pallet tested?"
+  a: "We test every pallet model, not each individual pallet. The load values we state for each model apply to an evenly distributed load."
+published: '2022-01-13'
+updated: '2026-11-02'
 ---
-Plastic pallets are used for various purposes. This means plastic pallets come in a wide range of options, all developed to optimally function for the purpose the pallet will be used for. Are you thinking of buying pallets? Then it is important to first take time to consider a number of factors. That way, you will know you have the right plastic pallet that meets all your demands. To help you on your way, this article discusses all options regarding plastic pallets.
+> **In short**
+>
+> * Start with four questions: which **size**, which **load**, **single or multiple use**, and which **quality requirements**.
+> * Light pallets are for export and floor storage. Medium and heavy pallets are also suitable for internal transport and pallet racking.
+> * Commonly used types are display pallets, export pallets, CP pallets and hygienic pallets.
+> * We test every pallet model. The load values apply to an evenly distributed load.
 
-## Purpose of the pallet
+## Four questions to ask first
 
-Before you decide to purchase, you must first ask yourself what the plastic pallets will be used for. Think for instance of the following questions:
+Plastic pallets are used for many different purposes. That is why there are many versions, each designed for a specific application. If you answer four questions beforehand, you choose faster and avoid a pallet that does not fit.
 
-- What **size** do the pallets need to be?
-- What **load** do the pallets have to be able to handle?
-- Do the pallets have to be suitable for **single use**, or **multiple use**?
-- Do the pallets have to meet specific **quality standards**?
+### What size do you need?
 
-There are plastic pallets to meet every specific demand. Pallets of different sizes, load capacities, materials and quality standards. Good to know: all our pallets have been extensively and individually tested, for a total of 7 days. This way, you can be sure to get the highest quality!
+The size follows from your goods and your process. Look at the dimensions of your boxes, bags or drums, and at your racking, trucks and containers.
 
-## Most commonly used plastic pallets
+In Europe, 1200 x 800 mm is the most common size. We make pallets in nine sizes, from 600 x 400 to 1300 x 1100 mm.
 
-As mentioned earlier, possibilities of the pallets are endless. For every need your company has, there are suitable pallets available. But how do you find the right plastic pallets based on your wishes and needs? We have listed the most commonly used plastic pallets below:
+### What load must the pallet carry?
 
-1. **Display pallet**; mainly suited for transport to or within shops and supermarkets.
-2. **Export pallet**; mainly suited for exporting products abroad.
-3. **CP pallet**; excellent for use in various sectors and industries and available in many different versions.
-4. **Hygienic pallet**; also called the ‘food pallet,’ because it is mainly used in the food industry. This pallet’s finish is extra even, which ensures better hygiene.
+Every pallet has three load values: static (standing still on the floor), dynamic (while being moved) and racking. Choose a pallet whose value for your use is well above your heaviest load. Read more about [the load capacity of plastic pallets](@about-load).
 
-Is your desired plastic pallet not listed? Then please visit our website. There you will find a complete overview of all types of plastic pallets and their properties. Would you like to know more about plastic pallets? Or do you have any questions regarding our product line and the options? Then feel free to contact us for more information. We are happy to help you with personal advice!
+### Single or multiple use?
+
+Will the pallet make only one trip, for example for export? Then a light pallet, often nestable, is usually the most economical choice. If the pallet keeps coming back, a medium or heavy pallet that lasts for many years pays off.
+
+### Are there special quality requirements?
+
+Some sectors have extra requirements, for example for hygiene, grip or dimensions. Direct contact with food requires a pallet made of virgin plastic. Our standard pallets are made from recycled plastic.
+
+## Every model is tested
+
+To know what a pallet can carry, we test every pallet model. We do this with an evenly distributed load, over a predetermined period.
+
+The load values for each model therefore apply to an evenly distributed load. A point load or an uneven distribution reduces the usable capacity.
+
+## The most commonly used types
+
+There is a suitable plastic pallet for almost every application. These types are the most common:
+
+* **Display pallet.** A small pallet of 600 x 400 or 600 x 800 mm. It goes from the distribution centre to the shop floor without repacking. View the [display pallets](@type-display).
+* **Export pallet.** A light pallet for shipments abroad. Plastic pallets are not covered by ISPM 15, so no treatment or stamp is needed. View the [export pallets](@type-export).
+* **CP pallet.** The plastic version of the chemical pallet, for bagged goods, drums, octabins and big bags. It is also widely used outside the chemical industry.
+* **Hygienic pallet.** A smooth pallet made of virgin plastic for the food and pharmaceutical industries, which is easy to clean. View the [hygienic pallets](@type-hygienic).
+
+Would you like to choose step by step? Our guide [choose the right plastic pallet](@guide-choose) takes you through six steps and a decision table.
+
+Already know what you need? [Request a quote](@quote) and you will usually receive a tailored price within one working day.

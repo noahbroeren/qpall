@@ -1,85 +1,80 @@
 ---
 id: news-stacking
-title: "Paletten stapeln: wie hoch, wie schwer und worauf achten?"
-description: "Wie viele Kunststoffpaletten dürfen Sie übereinander stapeln? Tipps zu Stapelhöhe, Tragfähigkeit und Gewichtsverteilung für eine sichere Lagerung."
+title: "Paletten stapeln: wie hoch und wie schwer? – Q-Pall"
+description: "Kunststoffpaletten stapeln: wie viele beladene Paletten übereinander, wie hoch und worauf Sie achten sollten. Mit Rechenbeispiel und Tipps für die Lagerung."
 eyebrow: "Aktuelles"
 tag: "Wissen"
 crumb: "Paletten stapeln"
 h1: "Paletten stapeln: **wie hoch, wie schwer und worauf achten?**"
-lead: "Wie viele Kunststoffpaletten dürfen Sie übereinander stapeln? Tipps zu Stapelhöhe, Tragfähigkeit und Gewichtsverteilung für eine sichere Lagerung."
-img_alt: "Paletten stapeln: wie hoch, wie schwer und worauf achten?"
-reading: 6
+lead: "Kunststoffpaletten lassen sich genauso gut stapeln wie Holzpaletten. Wie viele und wie hoch, hängt von der statischen Belastung der untersten Palette, von Ihrer Ladung und vom Boden ab."
+img_alt: "Staplerfahrer in einem Lager neben hohen Stapeln schwarzer Kunststoffpaletten"
+reading: 3
+faq:
+- q: "Kann man Kunststoffpaletten stapeln?"
+  a: "Ja. Leere Paletten mit Kufen oder Füßen stapeln Sie übereinander, nestbare Paletten schieben Sie ineinander. Auch beladene Paletten können Sie stapeln, solange das Gesamtgewicht innerhalb der statischen Belastung der untersten Palette bleibt."
+- q: "Wie viele beladene Paletten kann man übereinander stapeln?"
+  a: "Addieren Sie das Gewicht aller beladenen Paletten im Stapel. Diese Summe muss deutlich unter der statischen Belastung der untersten Palette bleiben. Außerdem bestimmen die Stabilität der Ladung und der Boden, wie hoch Sie sicher stapeln können."
+- q: "Wie viele leere Paletten passen auf einen Stapel?"
+  a: "Das hängt vom Modell ab. Ein voller Stapel umfasst zum Beispiel 45 nestbare oder 17 Medium-Paletten. Auf jeder Produktseite sehen Sie die Standardladung des Modells."
+- q: "Kann ich Kunststoffpaletten im Freien lagern?"
+  a: "Ja. Kunststoff nimmt keine Feuchtigkeit auf, verrottet nicht und schimmelt nicht. Deshalb eignen sich Kunststoffpaletten gut für die Lagerung im Freien."
+published: '2021-12-10'
+updated: '2026-11-02'
 ---
-Möchten Sie Ihre [Kunststoffpaletten](@pallets) stapeln, um Lagerfläche zu sparen und Ihre Logistik effizienter zu gestalten? Das ist eine gute Entscheidung, wenn das Stapeln fachgerecht erfolgt. Fehler beim Stapeln können nicht nur Paletten und Waren beschädigen, sondern auch ein erhebliches Sicherheitsrisiko darstellen. In diesem Beitrag erfahren Sie, wie viele [Kunststoffpaletten](@pallets) übereinander gestapelt werden können, welche Regeln dabei gelten und welche Fehler Sie vermeiden sollten. Experten der Branche verraten Ihnen Tipps und erklären, auf welche Produktvorteile Sie achten sollten.
+> **Kurz gesagt**
+>
+> * Ja, Kunststoffpaletten können Sie stapeln, leer und beladen.
+> * Bei beladenen Paletten bestimmt die statische Belastung der untersten Palette, wie viel darauf passt.
+> * Stapeln Sie nur Paletten gleicher Größe und Bauart, auf einem ebenen Boden.
+> * Nestbare Paletten schieben Sie leer ineinander. So passen fast dreimal so viele in einen Lkw.
+
+Ob im eigenen Lager, auf einer Freifläche oder bei einem Logistikdienstleister: Beim Thema Paletten stapeln stellt sich früher oder später die Frage, ob das mit Kunststoffpaletten überhaupt geht.
+
+Die kurze Antwort lautet ja. Kunststoffpaletten haben dieselben praktischen Eigenschaften wie Holzpaletten und sind in vielen Größen und Ausführungen erhältlich.
 
 ## Kann man Kunststoffpaletten stapeln?
 
-Ja, Paletten aus Kunststoff lassen sich problemlos stapeln. Sie bieten dieselben grundlegenden Vorteile wie klassische Holzpaletten und sind je nach Einsatzbereich in zahlreichen Ausführungen erhältlich. So gibt es beispielsweise Kunststoffpaletten mit Auffangwannen für den sicheren Transport von Flüssigkeiten oder kompakte [nestbare Modelle](@type-nestable) für platzsparende Logistikprozesse. Dadurch stehen Ihnen für nahezu jede Anwendung passende Lösungen zur Verfügung.
+Ja, auf drei Arten:
+
+* **Leere Paletten übereinander.** Paletten mit Kufen oder Füßen stapeln Sie übereinander, bis zur maximalen Stapelhöhe des Modells.
+* **Leere Paletten ineinander.** [Nestbare Paletten](@type-nestable) haben hohle Füße. Leer schieben Sie sie ineinander, wie Plastikbecher. So passen fast dreimal so viele in einen Lkw wie Paletten mit Kufen.
+* **Beladene Paletten übereinander.** Das nennt man auch Blockstapelung. Hier bestimmt die Tragfähigkeit, wie viele Paletten Sie übereinander stellen können.
 
 ## Wie viele Paletten kann man stapeln?
 
-Die Antwort hängt in erster Linie von der **statischen Tragfähigkeit** der untersten Palette ab. Sie muss das Gesamtgewicht aller darüber gestapelten Paletten einschließlich der Ladung dauerhaft tragen können, ohne sich zu verformen.
+Das hängt vor allem von der statischen Belastung der untersten Palette ab: dem maximalen Gewicht, das eine Palette trägt, wenn sie auf einem ebenen Boden steht. Die unterste Palette trägt ihre eigene Ladung und das Gewicht aller beladenen Paletten darüber. Diese Summe muss innerhalb der statischen Belastung bleiben.
 
-In der Praxis lassen sich häufig **zwei bis vier beladene Kunststoffpaletten** sicher übereinander stapeln. Entscheidend sind jedoch nicht nur das Gesamtgewicht, sondern auch die Art der Ladung, die Stabilität der Verpackung und die Beschaffenheit des Untergrunds. Eine sichere Stapelung ist immer auch eine Frage der **Handhabung** und der **Effizienz** bei **Lagerung** und Transport.
+Ein Rechenbeispiel: Sie stapeln vier Paletten, die mit Ladung jeweils 800 kg wiegen. Die unterste Palette trägt dann ihre eigene Ladung und die drei Paletten darüber, zusammen 3.200 kg. Wählen Sie eine Palette, deren statische Belastung deutlich darüber liegt.
 
-Eine hochwertige Kunststoffpalette mit einer statischen Tragfähigkeit von **4.000 kg** kann beispielsweise drei weitere Paletten mit jeweils **1.000 kg** Ladung tragen. Richtiges Stapeln spart zudem **Platz** und kann die **Kosten** im Lager senken. Dennoch sollte die Tragfähigkeit niemals das einzige Entscheidungskriterium sein. Weitere Faktoren beeinflussen die Sicherheit und Stabilität des Stapels.
+Für schwere Lasten sind [Heavy-Paletten](@class-heavy) die naheliegende Wahl: Sie tragen bis zu 7.500 kg statisch. Die genauen Werte finden Sie bei jedem Modell. Mehr dazu lesen Sie auf unserer Seite über [die Tragfähigkeit von Kunststoffpaletten](@about-load).
 
-## Worauf sollten Sie beim Stapeln von Kunststoffpaletten achten?
+## Wie hoch darf man Paletten stapeln?
 
-Damit gestapelte Paletten sicher und stabil stehen, sollten Sie folgende Punkte berücksichtigen:
+Auch wenn das Gewicht im zulässigen Bereich bleibt, gibt es eine Grenze für die Höhe. Je höher der Stapel, desto schneller wird er instabil. Wie hoch Sie sicher stapeln können, hängt ab von:
 
-### Statische Tragfähigkeit prüfen
+* der Stabilität der Ladung und ihrer Verpackung;
+* einem ebenen Boden, der das Gewicht tragen kann;
+* den Regeln in Ihrem Lager, etwa der zulässigen Bodenbelastung.
 
-Kontrollieren Sie stets die [statische Tragfähigkeit](@about-load) der untersten Palette. Addieren Sie das Gesamtgewicht aller Paletten einschließlich der Ladung und achten Sie darauf, dass dieser Wert unter der maximal zulässigen Tragfähigkeit liegt. Prüfen Sie außerdem regelmäßig per Sichtkontrolle auf Abnutzung, um Beschädigungen früh zu erkennen. Ein Sicherheitszuschlag von etwa 20 % ist empfehlenswert. Bei Kunststoffpaletten gilt das ebenso, und defekte Europaletten dürfen nach den geltenden Vorschriften nicht in den Verkehr gebracht werden.
+Für leere Paletten gilt die maximale Stapelhöhe des Modells. Im Palettenregal werden Paletten nicht übereinander gestapelt. Dort zählt die Regalbelastung, und Light-Paletten sind nicht für das Regal vorgesehen.
 
-### Gleichmäßige Gewichtsverteilung sicherstellen
+## Worauf sollten Sie beim Stapeln achten?
 
-Verteilen Sie die Ladung gleichmäßig auf jeder Palette, damit die Beladung auf beiden Seiten ausgeglichen ist. Punktuelle oder einseitige Belastungen erhöhen die Kippgefahr und können die darunterliegenden Paletten beschädigen. Eine saubere Gewichtsverteilung verbessert die Stapelbarkeit und reduziert Sicherheitsgefährdungen. Außerdem sollte die Ware nicht über die Palettenränder hinausragen. Darüber hinaus müssen die Kufen der Paletten genau übereinander ausgerichtet sein.
+* **Gleiche Größe und Bauart.** Stapeln Sie nur Paletten gleicher Größe und Bauart. Eine große Palette auf einer kleineren führt zu Problemen.
+* **Eine stabile Unterseite.** Eine Palette mit Kufen steht im Lager stabiler als eine Palette auf Füßen. Unter viele nestbare Paletten klicken Sie [Kufen](@acc-runners) ohne Werkzeug.
+* **Gleichmäßig verteilte Ladung.** Alle Belastungswerte gelten bei gleichmäßig verteilter Ladung. Eine Punktlast oder eine einseitige Ladung verringert, was die Palette tragen kann.
+* **Schweres nach unten.** Stellen Sie die schwersten Paletten nach unten. Die Ware sollte nicht über den Rand hinausragen, und die Paletten müssen genau übereinander stehen.
+* **Gesicherte Ladung.** Sichern Sie die Ladung, zum Beispiel mit Stretchfolie, damit Kartons nicht verrutschen.
+* **Keine beschädigten Paletten.** Verwenden Sie keine Paletten mit Rissen oder Verformungen. Schon kleine Schäden können unter Last zum Versagen führen.
+* **Die Temperatur.** Bei niedrigen Temperaturen wird Kunststoff steifer und stoßempfindlicher, bei hohen Temperaturen etwas flexibler.
 
-### Wie hoch darf man Paletten stapeln?
+Weitere Tipps zur Vermeidung von Schäden finden Sie unter [9 Fehler, die Kunststoffpaletten beschädigen](@news-damage).
 
-Auch wenn die Tragfähigkeit ausreicht, sollte die **Höhe** eines Palettenstapels das Fünffache der schmalen Seite der **Grundfläche** möglichst nicht überschreiten. Wer [Europaletten](@size-1200x800) mit den Maßen **1.200 × 800 mm** stapeln möchte, kommt damit auf eine maximale Stapelhöhe von etwa vier Metern. Weltweit sind rund 500 Millionen Euro-Paletten im Umlauf. Je nach Ausführung wiegen sie etwa 20 bis 24 kg. Beachten Sie zusätzlich die Vorgaben Ihres Lagers sowie die zulässige Bodenbelastung.
+## Die Vorteile von Kunststoff bei der Lagerung
 
-### Geeigneten Untergrund wählen
+* **Lange Lebensdauer.** Kunststoffpaletten halten viele Jahre. Pro Umlauf sind sie daher oft günstiger als Holz.
+* **Keine Splitter oder Nägel.** Das erleichtert die Arbeit und schützt Ihre Ladung vor Schäden.
+* **Auch im Freien lagerbar.** Kunststoff nimmt keine Feuchtigkeit auf, verrottet nicht und schimmelt nicht.
+* **Gleichbleibende Maße und Gewichte.** Das macht das Stapeln berechenbar und passt auch gut zu automatisierten Lagern.
 
-Stapeln Sie Paletten ausschließlich auf einem ebenen und tragfähigen Untergrund. Sie sollten immer exakt senkrecht aufgebaut werden; eine Neigung von mehr als 2 Prozent ist unzulässig. Unebenheiten oder nachgiebige Böden können dazu führen, dass sich der Stapel neigt und instabil wird. Achten Sie zudem darauf, dass Verkehrswege im Lager ausreichend dimensioniert und gut markiert sind, damit Sicherheit und Ordnung gewahrt sind. Im Außenbereich sollten zudem Windlasten berücksichtigt werden. Professionelle Palettenregale können außerdem die Raumausnutzung und Raumkapazität verbessern.
-
-### Nur kompatible Paletten stapeln
-
-Verwenden Sie ausschließlich Paletten gleicher Größe und Bauart im selben Format. Unterschiedliche Palettentypen verfügen über verschiedene Auflageflächen, wodurch die Stabilität des Stapels beeinträchtigt werden kann. Europaletten gelten als standardisierte Flachpalette mit dem typischen Referenzmaß 1.200 mm x 800 mm, auch wenn hier Kunststoffpaletten im Fokus stehen. Kunststoffpaletten mit geschlossener oder ebener Deckfläche lassen sich häufig besonders sicher stapeln.
-
-### Ladung sichern
-
-Sichern Sie jede beladene Palette vor dem Stapeln mit Stretchfolie oder anderen geeigneten Ladungssicherungsmitteln. Für den innerbetrieblichen Transport sollten Sie ein geeignetes Flurförderzeug nutzen, um die Handhabung zu erleichtern und den sicheren Umgang zu unterstützen. Dadurch verhindern Sie, dass Kartons oder Gebinde insbesondere bei höheren Stapeln verrutschen und sorgen mit passender Sicherung auf dem jeweiligen Transportmittel dafür, leere wie beladene Paletten sicher zu transportieren. Dabei hängt die Stapelhöhe von Gewicht, Stabilität der Ware und Bodenbeschaffenheit ab.
-
-## Häufige Fehler und Risiken bei der Stapelung
-
-Obwohl das Stapeln von Paletten zum Alltag in vielen Unternehmen gehört, treten immer wieder dieselben Fehler auf.
-
-### Tragfähigkeit der untersten Palette überschreiten
-
-Wird die maximale statische Tragfähigkeit überschritten, kann sich die Palette verformen oder brechen. Im schlimmsten Fall kippt der gesamte Stapel um. Das kann Unfälle für das Personal und Schäden an den gelagerten Waren zur Folge haben.
-
-### Beschädigte Paletten weiterverwenden
-
-Paletten mit Rissen, Verformungen oder beschädigten Kufen eignen sich nicht mehr zum Stapeln und sollten im Lager durch regelmäßige Sichtkontrollen im laufenden Betrieb früh erkannt werden. Bereits kleine Schäden können unter hoher Belastung zum Versagen führen. Solche Paletten sollten weder weitergestapelt noch für den Transport verwendet werden. Kontrollieren Sie jede Palette vor dem Einsatz sorgfältig.
-
-### Zu hoch stapeln
-
-Hohe Stapel sparen Lagerfläche, aber sie werden zunehmend instabil. Bei freistehenden Handstapeln liegt die maximale Höhe zum Vergleich meist bei 15 bis 20 Paletten. Für leere Paletten gelten je nach Vorgabe oft 15 bis 22 Stück als Obergrenze. Bereits geringe Schräglagen können dazu führen, dass der gesamte Stapel kippt. Halten Sie sich deshalb an die empfohlenen Stapelhöhen oder nutzen Sie geeignete Regalsysteme.
-
-### Unterschiedliche Ladungsgewichte falsch verteilen
-
-Schwere Paletten sollten immer unten, leichtere oben stehen. Unsere Experten warnen: Eine falsche Gewichtsverteilung erhöht das Risiko von Verformungen und Instabilität.
-
-### Umgebungsbedingungen unterschätzen
-
-Extreme Temperaturen und Witterungseinflüsse können die Eigenschaften von Materialien verändern. Kunststoffpaletten sind gegenüber Holz zwar deutlich unempfindlicher gegenüber Feuchtigkeit und verrotten nicht, dennoch sollten Sie die Herstellerangaben zu den zulässigen Einsatzbedingungen beachten.
-
-## Sicher stapeln und Lagerhaltung beginnen mit der richtigen Kunststoffpalette
-
-Das Stapeln von Kunststoffpaletten ist unkompliziert, wenn Tragfähigkeit, Gewichtsverteilung und Sicherheitsvorgaben berücksichtigt werden. Bei höherem Umschlag im Betrieb kann zudem ein Palettenspender ab etwa 10 Paletten pro Tag wirtschaftlich sein. Er erleichtert die Entnahme einzelner Paletten vom Stapel. Wer diese Punkte beachtet, nutzt Lagerflächen effizient, verbessert die Effizienz in der Lagerhaltung, schafft mehr Ordnung im Lager, schützt Waren vor Schäden und sorgt gleichzeitig für mehr Sicherheit im Arbeitsalltag.
-
-## Möchten Sie mehr erfahren?
-
-Kunststoffpaletten bieten daher viele Vorteile gegenüber der Holzvariante. Aber was genau sind die Vorteile für Sie und wie hoch sind die Kosten für die verschiedenen Optionen? Gerne geben wir Ihnen Antworten auf diese Fragen und auf alles, was Sie sonst noch wissen möchten. Nehmen Sie [Kontakt](@contact) mit uns auf, so können wir Ihnen weitere Informationen geben!
+Sie möchten wissen, welche Palette zu Ihrer Art der Lagerung passt? [Kontaktieren Sie uns](@contact), wir rechnen gern mit Ihnen nach.

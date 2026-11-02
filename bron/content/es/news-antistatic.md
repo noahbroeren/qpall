@@ -1,25 +1,70 @@
 ---
 id: news-antistatic
-title: "La comodidad y las ventajas de los palets antiestáticos"
-description: "La fricción entre el embalaje y el palet puede cargar eléctricamente su mercancía. Descubra qué son los palets antiestáticos y qué ventajas ofrecen."
+title: "Palets antiestáticos: funcionamiento y ventajas – Q-Pall"
+description: "La fricción entre el embalaje y el palet puede generar carga estática. Descubra cómo funcionan los palets de plástico antiestáticos y qué ventajas ofrecen."
 eyebrow: "Noticias"
 tag: "Conocimiento"
-crumb: "La comodidad y las ventajas de los"
-h1: "La comodidad y las ventajas **de los palets antiestáticos**"
-lead: "La fricción entre el embalaje y el palet puede cargar eléctricamente su mercancía. Descubra qué son los palets antiestáticos y qué ventajas ofrecen."
-img_alt: "La comodidad y las ventajas de los palets antiestáticos"
+crumb: "Palets antiestáticos"
+h1: "Palets antiestáticos: **funcionamiento y ventajas**"
+lead: "La fricción entre el embalaje y el palet puede generar carga estática. Esta atrae el polvo y puede dañar la electrónica sensible. Los palets de plástico antiestáticos lo contrarrestan."
+img_alt: "Pila de palets de plástico negros con una etiqueta de código de barras"
 reading: 3
+faq:
+- q: "¿Qué es un palet antiestático?"
+  a: "Un palet de plástico con aditivos antiestáticos. Estos reducen la resistencia superficial del plástico, de modo que el palet se carga menos de electricidad estática y atrae menos polvo."
+- q: "¿Para qué sirve un aditivo antiestático?"
+  a: "Reduce la resistencia superficial del plástico y aumenta así su conductividad. La carga generada por fricción fluye en lugar de acumularse."
+- q: "¿Un palet antiestático es lo mismo que un palet ESD?"
+  a: "No. Un palet antiestático contrarresta sobre todo la acumulación de carga y la atracción de polvo. Un palet ESD contiene aditivos conductores, como el negro de carbono, y disipa la carga de forma activa y controlada."
+published: '2022-01-09'
+updated: '2026-11-02'
 ---
-Los palets de plástico se utilizan para almacenar y transportar mercancías y productos correctamente. Usted selecciona cuidadosamente un palet para que el producto no se dañe, de ninguna manera. La calidad no puede sufrir. Pero a veces la carga sobre el palet puede cargarse eléctricamente debido a la fricción entre el embalaje y el palet de plástico. Y esto puede causar problemas. Puede elegir palets antiestáticos. ¿Qué son exactamente, y qué significado tiene para sus productos?
+> **En resumen**
+>
+> * Por fricción con el embalaje, un palet de plástico puede cargarse de electricidad estática.
+> * La carga estática atrae el polvo, puede dañar la electrónica sensible y provoca pequeñas descargas.
+> * Los aditivos antiestáticos reducen la resistencia superficial del plástico. Así se acumula menos carga y esta fluye.
+> * Q-Pall añade estos aditivos adaptando un modelo de palet existente, según su aplicación.
+> * ¿Hay riesgo de explosión o trabaja con electrónica muy sensible? Elija entonces un palet ESD.
 
-## Carga estática
+Usted utiliza [palets de plástico](@pallets) para transportar y almacenar mercancías con seguridad. Elige el palet con cuidado para que la calidad de la mercancía no se resienta.
 
-¿Qué es una carga estática y cómo se crea? Los objetos hechos de plástico que entran en contacto pueden recibir una carga estática ligera. La fricción, no importa lo pequeña que sea, podría hacer que los objetos se cargasen electrostáticamente. Esto crea una tensión estática, que puede causar problemas. En su vida diaria, ciertos materiales, tales como la ropa, se pueden cargar cuando se sientan en un sofá. Los sintéticos entretejidos en la ropa y el sofá crean una carga eléctrica. Esta carga desaparece al tocar otro tipo de material. Podría experimentar una pequeña descarga eléctrica al tocar algo. Con los palets de plástico, la combinación de la carga y el palet puede crear una carga estática. Algo que se descarga cuando hay contacto con otro material. De contacto directo con la persona que descarga. El resultado podría ser que la calidad de la carga disminuyese o incluso que la dañase irreparablemente.
+Aun así, la mercancía sobre el palet puede cargarse de electricidad estática por la fricción entre el embalaje y el palet de plástico. Esto puede causar problemas.
 
-## Consecuencias de la electricidad estática
+Una solución es el **palet antiestático**. ¿Qué es exactamente y qué significa para sus productos?
 
-Las consecuencias de una carga estática varían. En primer lugar, el objeto estáticamente cargado atrae el polvo. Esto significa que el polvo presente en la sala simplemente se unirá al palet y a la carga. Esto puede ser altamente indeseable, ya que puede afectar la calidad o la vida de almacenamiento de la carga. La electricidad estática también puede causar daños irreparables a los equipos electrónicos como el hardware de los ordenadores. Los resultados de esto pueden variar desde defectos totales a daños ligeros con efectos apenas perceptibles. Con el paso del tiempo, esto podría resultar en quejas y defectos inexplicables a largo plazo. También existe el peligro de que alguien reciba una descarga eléctrica si el equipo estuviera cargado estáticamente.
+## ¿Cómo se genera la carga estática?
 
-## Palets antiestáticos Q-Pall
+Los objetos de plástico que entran en contacto pueden cargarse ligeramente de electricidad estática. La fricción, por mínima que sea, genera una tensión eléctrica.
 
-Los palets antiestáticos Q-Pall están provistos con una combinación equilibrada de aditivos sintéticos antiestáticos que reducen directamente la conducción superficial del polietileno. El equilibrio entre los aditivos antiestáticos de migración rápida y controlada no sólo tiene un efecto antiestático rápido, sino que también proporciona una protección a largo plazo contra la atracción de polvo y otros inconvenientes resultantes de cargas electrostáticas. Se hacen a medida de acuerdo con sus especificaciones. Juntos, analizamos lo que es deseable. De esta manera, puede estar seguro de que sus productos se transportan y almacenan de la manera más segura posible. ¿Desea saber más sobre las opciones para proveer a los palets de un aditivo antiestático? ¿O tiene alguna pregunta sobre nuestra gama de productos y las opciones? Entonces póngase en contacto con nosotros para más información. ¡Estaremos encantados de ayudarle con consejos personalizados!
+Lo conoce de la vida cotidiana. Tras un rato en el sofá, a veces la ropa se carga por las fibras sintéticas del tejido y de la tapicería. Si después toca algo, nota una pequeña descarga: la carga se libera.
+
+Con los palets de plástico ocurre lo mismo. Entre la mercancía y el palet se acumula una tensión. Esta se descarga en cuanto hay contacto con otro material o con la persona que manipula la mercancía.
+
+## Consecuencias de la carga estática
+
+* **Polvo.** Los objetos cargados atraen el polvo. El polvo del ambiente se adhiere al palet y a la mercancía, lo que puede afectar a su calidad o conservación.
+* **Daños en la electrónica.** La electricidad estática puede dañar de forma irreparable equipos electrónicos, como el hardware informático. A veces el efecto apenas se nota al principio, pero más tarde aparecen averías inexplicables.
+* **Descargas.** El personal puede recibir una descarga al tocar productos o equipos cargados.
+
+## ¿Cómo funciona un palet antiestático?
+
+El plástico común conduce mal. La carga que se forma en la superficie se queda ahí. Un palet antiestático contiene aditivos que lo cambian.
+
+Estos **aditivos antiestáticos** reducen la resistencia superficial del plástico. La superficie conduce mejor, de modo que la carga fluye en lugar de acumularse.
+
+Utilizamos una combinación equilibrada de aditivos. Una parte actúa rápido y otra migra hacia la superficie de forma gradual y controlada. Juntas ofrecen un efecto antiestático rápido y una protección duradera contra el polvo y otras molestias de la carga estática.
+
+## ¿Antiestático o ESD?
+
+Antiestático y ESD se parecen, pero no son lo mismo. Un palet antiestático contrarresta sobre todo la acumulación de carga y la atracción de polvo. Un palet ESD contiene aditivos conductores, como el negro de carbono, y disipa la carga de forma activa y controlada.
+
+¿Trabaja con sustancias inflamables o electrónica muy sensible? Lea entonces [qué son los palets ESD](@news-esd).
+
+## Palets antiestáticos a medida
+
+Fabricamos los palets antiestáticos según sus especificaciones. Para ello adaptamos el material de un modelo de palet existente: no diseñamos un palet completamente nuevo. Junto con usted, vemos qué modelo y qué versión se adaptan a sus productos.
+
+Esta adaptación forma parte de nuestros [palets personalizados](@about-custom) y está pensada para proyectos de cierta envergadura. ¿Aún duda sobre el tipo de palet? Lea primero [elija el palet de plástico adecuado](@guide-choose).
+
+¿Quiere saber si una versión antiestática tiene sentido para sus productos? [Póngase en contacto con nosotros](@contact) para recibir asesoramiento personal.

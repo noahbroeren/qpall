@@ -117,7 +117,7 @@
 </section>
 {% endif %}
 
-{{ M.load_section(t, load, urls.calc ~ ('?pallet=' ~ load.sku|urlencode if load.sku else '') ~ '#' ~ anchors.calc, anchors.calc) }}
+{{ M.load_section(t, load, urls.calc ~ ('?pallet=' ~ load.sku|urlencode ~ '&art=' ~ load.site|urlencode if load.sku else '') ~ '#' ~ anchors.calc, anchors.calc) }}
 
 <section class="section bg-soft pdp-sec" id="{{ anchors.dl }}" aria-labelledby="h-dl">
   <div class="wrap">
@@ -143,6 +143,8 @@
     <div class="see-also"><span>{{ t.see_also }}</span>{% for s in see_also %}<a class="chip" href="{{ s.url }}">{{ s.label }}</a>{% endfor %}</div>
   </div>
 </section>
+
+{% if news_rel %}{{ M.news_related(news_rel, t, urls, soft=True) }}{% endif %}
 
 {% if m.gallery %}
 <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="{{ m.name[lang] }}" hidden data-pagefind-ignore>

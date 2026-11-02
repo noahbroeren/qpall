@@ -21,7 +21,7 @@ compare:
   dealer_cta: "Händlerkarte öffnen"
   direct_t: "Direkt bei Q-Pall"
   direct:
-    - "Für Mengen pro Stapel oder pro Lkw-Ladung"
+    - "Pro vollem Stapel oder per Lkw-Ladung"
     - "Individuelle Paletten mit Ihrem Logo oder in Ihrer Farbe"
     - "Lieferung aus dem Werk, das Ihnen am nächsten liegt"
 ---

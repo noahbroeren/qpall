@@ -1,45 +1,68 @@
 ---
 id: news-green-logistics
-title: "La chiave per il futuro della logistica verde – Q-Pall"
-description: "Più leggeri del legno, i pallet in plastica riducono il peso del carico e il consumo di carburante. Scoprite come rendere più verde la vostra logistica."
+title: "Logistica verde: il ruolo dei pallet in plastica – Q-Pall"
+description: "Che ruolo hanno i pallet in plastica nella logistica verde? Peso e carburante, durata, riciclo, produzione locale e costo per viaggio, spiegati in breve."
 eyebrow: "Notizie"
 tag: "Sostenibilità"
-crumb: "La chiave per il futuro della logistica"
-h1: "La chiave per **il futuro della logistica verde**"
-lead: "Più leggeri del legno, i pallet in plastica riducono il peso del carico e il consumo di carburante. Scoprite come rendere più verde la vostra logistica."
-img_alt: "La chiave per il futuro della logistica verde"
+crumb: "Pallet e logistica verde"
+h1: "Logistica verde: **il ruolo dei pallet in plastica**"
+lead: "Le aziende vengono valutate sempre più spesso in base al loro impatto ambientale. Un elemento spesso trascurato è il pallet. Ecco come i pallet in plastica contribuiscono a una logistica più verde."
+img_alt: "Tre cubetti di legno con simboli di collaborazione, della Terra e del riciclo su macinato di plastica colorato"
 reading: 3
+faq:
+- q: "Cos’è la logistica verde?"
+  a: "La logistica verde (green logistics) è una logistica con il minor impatto ambientale possibile: meno emissioni, meno rifiuti e un uso più efficiente delle risorse. Anche la scelta dei pallet ha un ruolo."
+- q: "I pallet in plastica sono più leggeri di quelli in legno?"
+  a: "Spesso sì, a seconda del tipo. I pallet Light sono molto più leggeri del legno. I pallet Heavy pesano da 17 a 28 kg, più o meno come un europallet in legno di circa 25 kg."
+- q: "Come contribuisce la produzione locale alla logistica verde?"
+  a: "Nel settore dei pallet la maggior parte delle emissioni di CO₂ deriva dal trasporto. Produciamo in sei stabilimenti europei, così quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento."
+published: '2023-09-11'
+updated: '2026-11-02'
 ---
-## Il Ruolo dei Pallet di Plastica nella Logistica Verde
+> **In breve**
+>
+> * La logistica verde punta a meno emissioni e meno rifiuti nel trasporto e nello stoccaggio. Anche il pallet conta.
+> * I pallet in plastica sono spesso più leggeri del legno, soprattutto nella classe Light. Così si risparmia carburante.
+> * Durano molti anni e poi sono completamente riciclabili.
+> * I nostri pallet standard sono in plastica riciclata quasi al 100%: 34.500 tonnellate nel 2025.
+> * La produzione locale in sei stabilimenti europei limita il trasporto dei pallet stessi.
 
-In un'epoca in cui la sostenibilità è diventata una parola d'ordine e le aziende sono sempre più responsabili del loro impatto ambientale, la logistica verde svolge un ruolo cruciale. La ricerca di operazioni più ecologiche nel settore della logistica ha vari aspetti, dal trasporto efficiente alla gestione intelligente dei magazzini. Un componente spesso trascurato ma essenziale in questo puzzle è la scelta dei pallet. I pallet in plastica offrono vari vantaggi ecologici che contribuiscono a una catena di approvvigionamento più verde. In questo blog, discutiamo di come i pallet in plastica possano essere un'aggiunta preziosa alla tua strategia di logistica verde.
+## Cos’è la logistica verde?
 
-### Meno Peso, Meno Carburante
+La logistica verde, o *green logistics*, punta a una logistica con un minore impatto sull’ambiente. Va dal trasporto efficiente alla gestione intelligente del magazzino. Le aziende vengono valutate sempre più spesso in base al loro impatto ambientale, anche dai clienti e dai partner della filiera.
 
-A differenza dei loro omologhi in legno, i pallet in plastica sono significativamente più leggeri. Ciò riduce il peso totale del carico e può portare a una riduzione significativa del consumo di carburante durante il trasporto. Meno carburante significa meno emissioni, permettendo così alla tua azienda di ridurre la propria impronta ecologica.
+Un elemento spesso trascurato è la scelta dei pallet. I pallet in plastica offrono diversi vantaggi che contribuiscono a una supply chain più verde.
 
-### Riciclabili
+## Meno peso, meno carburante
 
-Alla fine del loro ciclo di vita, i pallet in plastica possono essere facilmente riciclati. Possono essere triturati e poi convertiti in nuovi prodotti di plastica, minimizzando l'uso di nuove materie prime. Questo è un vantaggio significativo rispetto ai pallet di legno, che spesso finiscono come rifiuti o come combustibile per centrali elettriche, con tutti gli effetti ambientali associati.
+I pallet in plastica sono spesso più leggeri dei pallet in legno, a seconda del tipo. Soprattutto i [pallet Light](@class-light) pesano molto meno. Una tara inferiore significa più carico per viaggio e meno carburante, quindi meno emissioni.
 
-### Riutilizzabili e Resistenti
+Negli impieghi pesanti la differenza è minore. Un pallet in plastica Heavy pesa da 17 a 28 kg, un europallet in legno circa 25 kg. Il vantaggio sta allora soprattutto nella lunga durata e nel peso costante, perché la plastica non assorbe l’umidità.
 
-I pallet in plastica sono più robusti e hanno una durata maggiore rispetto ai pallet di legno. Sono meglio resistenti all'usura, ai danni da acqua e ad altre forme di degrado. Di conseguenza, possono essere riutilizzati più volte, portando a meno sprechi e a una ridotta necessità di nuovi pallet.
+## Durevoli e riutilizzabili
 
-### Igienici e Sicuri
+I pallet in plastica sono robusti e durano molti anni, molto più a lungo di un pallet in legno medio. Resistono a usura, umidità e urti. Per questo si possono riutilizzare moltissime volte, con meno rifiuti e meno pallet nuovi.
 
-I pallet in plastica sono più facili da pulire e disinfettare, riducendo al minimo il rischio di contaminazione incrociata delle merci. In un momento in cui igiene e sicurezza sono di massima importanza, questo non può essere sottovalutato.
+Anche quando un pallet esce dal circuito nella vostra azienda, spesso è ancora perfettamente utilizzabile. Con [Q-Used](@used) i pallet controllati hanno una seconda vita.
 
-### Risparmio sui Costi
+## Riciclabili a fine vita
 
-Sebbene i costi iniziali dei pallet in plastica possano essere più elevati di quelli dei pallet in legno, i costi operativi nel corso della loro vita sono spesso inferiori. La durabilità e la riutilizzabilità dei pallet in plastica possono portare a significativi risparmi sui costi a lungo termine.
+A fine vita i pallet in plastica sono completamente riciclabili. Vengono macinati e trasformati in nuovi prodotti, come nuovi pallet. Così serve meno materia prima nuova. Come funziona lo spieghiamo in [il riciclo dei pallet in plastica](@news-recycling).
 
-### Q-Pall - un Passo Avanti
+I pallet in legno a fine vita vengono per lo più cippati o bruciati, con le relative emissioni.
 
-Quando si tratta di ridurre l'impronta ecologica nella logistica, facciamo un passo in avanti poiché il 99% dei nostri pallet è fatto di plastica riciclata. Ciò ci permette di consumare circa 30.000 tonnellate di plastica riciclata su base annua. Questo non solo supporta l'economia circolare, ma contribuisce direttamente a far fronte al problema globale della plastica. Utilizzando materiale riciclato, Q-Pall contribuisce a ridurre la quantità di rifiuti di plastica che altrimenti finirebbero in oceani, discariche o inceneritori. È un esempio di come le aziende, attraverso approcci innovativi, possono non solo rendere le loro operazioni più sostenibili, ma avere anche un impatto positivo su questioni ambientali globali.
+## Facili da pulire
 
-### Conclusione
+I pallet in plastica non assorbono l’umidità e si puliscono facilmente. Questo aiuta a evitare di sporcare le merci. Per il contatto diretto con gli alimenti ci sono i [pallet igienici](@type-hygienic) in plastica vergine.
 
-La logistica verde è più di una tendenza; è una necessità nel mondo aziendale moderno. L'uso di pallet in plastica può fare una differenza significativa nei tuoi sforzi di sostenibilità. Dal risparmio di peso e carburante alla durabilità e riciclabilità, i pallet in plastica offrono una serie di vantaggi che si inseriscono in una strategia di logistica più verde e sostenibile.
+## Un costo per viaggio più basso
 
-Effettuando il passaggio ai pallet in plastica, la tua azienda non solo contribuisce a un pianeta più pulito, ma può anche godere di risparmi sui costi e di efficienza operativa. È una situazione vantaggiosa per entrambe le parti che vale la pena considerare in qualsiasi approccio alla logistica verde.
+All’acquisto i pallet in plastica costano spesso più di quelli in legno. Sull’intera durata, però, il costo per viaggio è spesso più basso, grazie alla lunga durata e al riutilizzo. Scelte più verdi e costi più bassi vanno quindi di pari passo.
+
+## Q-Pall: un passo avanti
+
+Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%. Nel 2025 abbiamo lavorato 34.500 tonnellate di plastica riciclata, circa 1.475 camion pieni. Questo aiuta a ridurre la quantità di rifiuti di plastica che altrimenti finirebbero in discarica, negli inceneritori o negli oceani.
+
+Inoltre produciamo [localmente](@about-local), in sei stabilimenti distribuiti in tutta Europa. Nel settore dei pallet la maggior parte delle emissioni di CO₂ deriva dal trasporto. Poiché quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento Q-Pall, le distanze di trasporto restano brevi.
+
+Volete sapere quali pallet si adattano meglio alla vostra logistica verde? [Richiedete un preventivo](@quote). Di solito ricevete un prezzo su misura entro un giorno lavorativo.

@@ -1,37 +1,75 @@
 ---
 id: news-economical
-title: "Economical today, expensive tomorrow: choose wisely – Q-Pall"
-description: "Not all plastic pallets are equal. Find out why pallets made from RIC code 7 plastics may look cheap at first but can hurt recyclability and raise costs."
+title: "RIC code 7: economical today, expensive tomorrow – Q-Pall"
+description: "Plastic pallets with RIC code 7 look cheap, but what are they made of and can they be recycled? Why the type of plastic matters for costs and the PPWR."
 eyebrow: "News"
 tag: "Know-how"
-crumb: "Economical today, expensive tomorrow"
+crumb: "Economical today, costly tomorrow"
 h1: "Economical today, expensive tomorrow: **choose the right pallets**"
-lead: "Not all plastic pallets are equal. Find out why pallets made from RIC code 7 plastics may look cheap at first but can hurt recyclability and raise costs."
-img_alt: "Economical today, expensive tomorrow: choose the right pallets"
-reading: 4
+lead: "A plastic pallet with RIC code 7 may look cheap to buy, but it can cost you money later. Why the type of plastic matters for recycling, regulations and your costs."
+img_alt: "Black plastic pallet with an open deck on three runners"
+reading: 3
+faq:
+- q: "What does RIC code 7 on a plastic product mean?"
+  a: "Code 7 is the catch-all category for 'other' plastics: materials that do not fall under codes 1 to 6, or combinations of plastics. The code therefore says little about the exact composition."
+- q: "Are plastic pallets with code 7 hard to recycle?"
+  a: "Often, yes. Many recycling companies are not equipped for these 'other' plastics. So always ask about the composition and what happens to the pallet at the end of its life."
+- q: "What are Q-Pall pallets made of?"
+  a: "Our standard pallets are made from recycled plastic, a mix of HDPE (2) and PP (5). Only our hygienic pallets, H1 pallets and cleanroom pallets are made of virgin plastic. At the end of their life, our pallets are fully recyclable."
+published: '2023-10-09'
+updated: '2026-11-02'
 ---
-**In our previous blog post, we further explained the Resin Identification Codes (RIC) of plastics and their crucial role in creating a sustainable future. When it comes to logistics, storage, and shipping, pallets are an indispensable tool. Traditionally made from wood, an increasing number of businesses are turning to plastic pallets for their durability, longevity, cleanliness and recyclability. However, not all plastic pallets are created equal. Understanding the type of plastic used in their construction is critical for ensuring recyclability.**
+> **In short**
+>
+> * The RIC code in the small triangle shows which plastic a product is made of. Code 7 stands for 'other' plastics and combinations.
+> * With code 7, you often do not know exactly what is in it, and recycling is difficult.
+> * That can cost money later, for example on disposal. Under the PPWR, packaging must also be recyclable from 2030.
+> * When buying, ask about the composition and what happens to the pallet at the end of its life.
+> * Our standard pallets are made from recycled HDPE (2) and PP (5). We take them back for recycling.
 
-One category you might want to think twice about is pallets made from plastics bearing the Resin Identification Code (RIC) of 7, often marked with a “7” inside a triangular arrow symbol.
+## A low price is not the whole story
 
-Here's why: At first glance, plastic pallets made from RIC code 7 plastics may appear to be a cost-effective option for your business. Their initial purchase price can be quite tempting, especially for organizations looking to cut immediate costs. However, it's crucial to look beyond the initial savings and consider the long-term implications. While these pallets might be cheaper upfront, they often come with hidden costs, particularly when it comes to recycling. Many recycling facilities are ill-equipped to handle RIC code 7 plastics, leading to potential disposal fees or even regulatory penalties down the line. What might seem like a bargain today could end up being a costly mistake in the future, impacting both your bottom line and your environmental footprint.
+Pallets are indispensable in logistics, storage and shipping. More and more companies choose plastic pallets because they last a long time, are easy to clean and can be recycled. But not all plastic pallets are the same.
 
-## What Does RIC Code 7 Mean?
+A pallet made from a plastic with RIC code 7 can look like an economical choice. The purchase price is attractive, especially if you want to cut costs quickly. Still, look beyond the purchase, because the real costs often come later.
 
-The Resin Identification Code system, originally created to help with recycling, categorizes plastics into seven different types based on their material composition. While codes 1 through 6 correspond to specific, well-defined types of plastic, code 7 serves as a catch-all category for "other" plastics. These could be materials that don't fit into the other categories or are composed of multiple types of resin.
+## What does RIC code 7 mean?
 
-## Why Should You Be Concerned?
+The Resin Identification Code (RIC) is a system of seven codes. They show which plastic a product is made of. Codes 1 to 6 stand for six widely used plastics, such as HDPE (2) and PP (5).
 
-1. Lack of Transparency Since code 7 is a catch-all category, it doesn't provide much information about what the plastic actually contains. This lack of transparency can be problematic for companies that require certain safety or hygiene standards, as some code 7 plastics could potentially contain harmful additives or chemicals.
-2. Limited Recyclability One of the significant drawbacks of RIC code 7 plastics is that they are often non-recyclable or hard to recycle. In many jurisdictions, recycling facilities are not equipped to handle these "other" plastics. Thus, these pallets could end up in landfills at the end of their lifecycle, contributing to environmental degradation.
-3. Cost Factor The recycling challenge often associated with RIC 7 plastics could also mean potential future costs for your business. With the growing push towards sustainability and recycling, opting for non-recyclable pallets could incur future disposal fees or even regulatory penalties.
+Code 7 is a catch-all category for 'other' plastics. These are materials that do not fit into the other groups, or combinations of several plastics. You can read more about all seven codes in [resin identification codes](@news-ric).
 
-## What Are the Alternatives?
+## Why code 7 deserves attention
 
-If you're concerned about the potential issues associated with RIC 7 plastic pallets, consider pallets made from plastics with other RIC codes like PET (1) or HDPE (2). These materials are not only widely recycled but also tend to be strong, durable, and safe for various applications. Many companies specifically manufacture pallets with these more sustainable and transparently composed plastics, making it easier for you to make an informed choice.
+### Unknown composition
 
-## Conclusion
+Code 7 says little about what is actually in the material. Some plastics in this group may contain additives you would rather not have in your supply chain. That is a problem if you have to meet safety or hygiene requirements.
 
-While plastic pallets offer a range of advantages over their wooden counterparts, it's essential to know what kind of plastic you're dealing with. Pallets made from RIC code 7 plastics come with a host of concerns, ranging from limited recyclability to potential safety issues. As a conscientious buyer, you should consider these factors and possibly look for alternatives that are not only better for your operations but also for the planet.
+### Limited recyclability
 
-When it comes to making an environmentally responsible choice for your material handling needs, Q-Pall offers a reassuring solution. All Q-Pall plastic pallets are exclusively made from plastics bearing the Resin Identification Code (RIC) of 2, also known as High-Density Polyethylene (HDPE). This material is widely recognized for its high recyclability, ensuring that these pallets can be easily collected, processed, and transformed into new products at the end of their lifecycle. By using RIC code 2 plastics, Q-Pall not only provides durable and reliable pallets but also guarantees the circularity of their products. Choosing Q-Pall means you are opting for a sustainable, long-term solution that minimizes waste and maximizes resource efficiency, aligning your business practices with the principles of the circular economy.
+Plastics with code 7 are often difficult or impossible to recycle. Many recycling companies are not equipped for them. As a result, such pallets often end up in landfill or incineration instead of becoming raw material for new products.
+
+### Costs over time
+
+A pallet that cannot be recycled costs money on disposal. The rules are also getting stricter. The European Packaging and Packaging Waste Regulation (PPWR) has applied since 12 August 2026, and pallets fall under it as transport packaging.
+
+From 2030, packaging must be recyclable in class A, B or C. Class C means at least 70%.
+
+The sooner you take this into account, the fewer surprises later. Read more in [PPWR and plastic pallets](@guide-ppwr).
+
+## What should you look for when buying?
+
+* **Ask about the composition.** A good supplier will tell you which plastics the pallet is made of.
+* **Ask what happens at the end.** Does the supplier take the pallets back, and do they become raw material again?
+* **Ask for documentation.** Under the PPWR, you can ask the manufacturer for a declaration of conformity.
+* **Calculate the cost per trip.** A pallet that lasts for many years and is then recycled is often cheaper per trip. See also [what a plastic pallet costs](@guide-prices).
+
+## What do we make our pallets from?
+
+We make our standard pallets from almost 100% recycled plastic: a mix of HDPE (code 2) and PP (code 5). Our light pallets also contain LDPE (code 4). These are all polyolefins, plastics that behave in a similar way during recycling.
+
+At the end of their life, our pallets are fully recyclable. We take them back and grind them into raw material for new pallets. Used pallets in good condition get a second life through Q-Used.
+
+For our models, you will find the PPWR declaration as a download on the product page. Read more about our approach on the [sustainability](@about-sustainability) page.
+
+Would you like to know which pallet suits your process and what it costs per trip? [Request a quote](@quote) and you will usually receive a tailored price within one working day.

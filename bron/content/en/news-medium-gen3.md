@@ -1,33 +1,50 @@
 ---
 id: news-medium-gen3
-title: "New: the 3rd generation medium plastic pallet 1200 x 800"
-description: "Meet Q-Pall's 3rd-generation 1200 x 800 mm medium plastic pallet: 100% recycled material, open or closed top deck and racking loads up to 750 kg."
+title: "Medium plastic pallet 1200 x 800: third generation – Q-Pall"
+description: "In 2023 Q-Pall introduced the third generation of its 1200 x 800 mm medium plastic pallet: almost 100% recycled, with an open or closed deck."
 eyebrow: "News"
 tag: "Product"
-crumb: "New: the 3rd generation medium plastic"
-h1: "New: **the 3rd generation medium plastic pallet 1200 x 800**"
-lead: "Introducing the new 1200 x 800 mm medium duty pallet plastic pallet, our 3rd generation made from 100% recycled material. This eco-friendly product is now available in both open and closed-top deck designs and is designed to carry a racking load of up to 750 kg."
-img_alt: "New: the 3rd generation medium plastic pallet 1200 x 800"
-reading: 3
+crumb: "Third-generation medium pallet"
+h1: "The third generation **medium plastic pallet 1200 x 800**"
+lead: "In 2023 Q-Pall introduced the third generation of its 1200 x 800 mm medium plastic pallet. The pallet is made from almost 100% recycled plastic and carries up to 750 kg in racking."
+img_alt: "Medium plastic pallet 1200 x 800 mm, half with an open and half with a closed deck, with the text Racking load: 750 kg"
+reading: 2
+published: '2023-03-09'
+updated: '2026-11-02'
 ---
-By using recycled material in the production process, we reduce the amount of waste that would have otherwise ended up in landfills. This means that not only the pallet is eco-friendly, but it also helps to reduce the environmental impact of waste disposal.
+> **In short**
+>
+> * In 2023 Q-Pall introduced the third generation of its 1200 x 800 mm medium plastic pallet.
+> * The pallet is made from almost 100% recycled plastic.
+> * There is a version with an open deck (QP1208MB3RR) and one with a closed deck (QP1208MB3RR-CD), both on three runners.
+> * In racking, the pallet carries up to 500 kg with an open deck and up to 750 kg with a closed deck.
+> * The pallet does not absorb moisture and resists many chemicals.
 
-The pallet's dimensions make it perfect for use in a variety of industries, including food and beverage, pharmaceutical, logistics, and manufacturing. The 1200 x 800 mm size is a standard size used in many countries and is compatible with most pallet-handling equipment.
+## The Euro pallet size in a medium version
 
-The medium-duty nature of this pallet makes it ideal for applications that require a pallet to hold a moderate amount of weight, without sacrificing durability or strength. The racking load capacity of 500 kg for the open deck and 750 kg for the closed deck version makes it perfect for use in warehouse racking systems, allowing businesses to maximize storage space without worrying about the pallets breaking or failing.
+1200 x 800 mm is the size of the Euro pallet. It is a standard size used in many countries and it fits most pallet trucks, forklifts and other pallet handling equipment. See all [plastic pallets of 1200 x 800 mm](@size-1200x800).
 
-In addition to being eco-friendly, the pallet is also extremely durable. Made from high-quality recycled material, it is resistant to moisture, chemicals, and UV rays. This means that it can be used in a variety of environments and is suitable for both indoor and outdoor use.
+The third generation is a [medium pallet](@class-medium): the all-rounder for internal transport, distribution and light racking storage. The pallet carries a moderate weight without compromising on strength or service life.
 
-The open and closed top deck designs offer additional flexibility to businesses. The open-top deck design allows for easy access to products and goods being transported, making it ideal for applications where frequent loading and unloading are required. The closed-top deck design offers additional protection to the goods being transported and is ideal for applications where product integrity is essential.
+## Open or closed deck
 
-In conclusion, the introduction of the new 1200 x 800 mm medium-duty plastic pallet made from 100% recycled material is a great addition to the market. This eco-friendly product offers businesses an environmentally responsible packaging solution while also being durable and flexible. The pallet's racking load capacity of a maximum 750 kg makes it ideal for warehouse racking systems, and the open and closed top deck designs offer additional flexibility to businesses.
+* **Open deck (QP1208MB3RR).** The open deck is lighter and lets moisture drain away. It suits applications with frequent loading and unloading.
+* **Closed deck (QP1208MB3RR-CD).** The closed deck gives a flat, continuous surface for small products, bags and boxes. It offers extra protection for the load and is easy to clean.
 
-Visit the productpage for the open deck:
+## Load capacity
 
-[NEW 1200 x 800 open deck](@p:qp1208mb3rr){: .btn .btn-primary}
-{: .btn-row}
+The pallet measures 1200 x 800 x 145 mm and carries 5,000 kg static. In pallet racking, the open-deck version carries up to 500 kg and the closed-deck version up to 750 kg. This means you can also use the pallet in warehouse racking.
 
-Visit the productpage for the closed deck:
+These values apply to an evenly distributed load. You can find more information on our page about [the load capacity of plastic pallets](@about-load).
 
-[NEW 1200 x 800 closed deck](@p:qp1208mb3rr-cd){: .btn .btn-primary}
-{: .btn-row}
+## Made from recycled plastic
+
+The pallet is made from almost 100% recycled plastic, a mix of HDPE and PP. This gives plastic that would otherwise be waste a new life. At the end of its life the pallet is fully recyclable: we take it back and turn it into raw material for new pallets. Read more about our approach to [sustainability](@about-sustainability).
+
+## Where you can use the pallet
+
+The pallet does not absorb moisture and resists many chemicals. It is suitable for a wide range of sectors, from logistics and manufacturing to the food and beverage industry.
+
+A pallet made from recycled plastic is not intended for direct contact with food. For that purpose we offer [hygienic pallets](@type-hygienic) made from virgin plastic.
+
+Would you like to know which version best suits your process? [Request a quote](@quote); you will usually receive a tailored price within one working day.

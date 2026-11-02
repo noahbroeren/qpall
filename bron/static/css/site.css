@@ -1499,7 +1499,7 @@ body.has-cmp .ftr{padding-bottom:84px}
 .prose-logos{display:flex;flex-wrap:wrap;align-items:center;gap:20px 36px;padding:22px 24px;border:1px solid var(--line);border-radius:var(--r)}
 .prose-logos img{width:auto;height:40px;border-radius:0}
 .prose-logos img:first-child{height:76px}
-.kb-side-all{display:inline-flex;margin-top:12px;font-size:.88rem}
+.aside-nav a.kb-side-all{display:inline-flex;align-items:center;gap:8px;margin-top:14px;padding:0;border-bottom:0;font-size:.9rem;font-weight:600;white-space:nowrap}
 .prose .btn-row{margin:1.6em 0 .4em}
 .prose .btn{font-weight:600}
 .news-foot{display:flex;align-items:center;justify-content:space-between;gap:16px 28px;margin-top:40px;padding:22px 26px;border-radius:var(--r-q);background:var(--soft)}
@@ -2265,3 +2265,33 @@ picture>source{display:none}   /* with display:contents the <source> would other
   .dc-card{padding:26px 22px 24px}
   .visit-people{margin-bottom:24px}
 }
+
+/* ===== update 28 ===== */
+/* product overview: products above the fold. Compact header, category chips below the products */
+.phero-listing{padding:26px 0 34px}
+.phero-listing h1{max-width:none;font-size:clamp(2rem,3.1vw,2.85rem);margin-bottom:12px}
+.phero-listing .lead{max-width:880px;font-size:1.02rem;line-height:1.6}
+.phero-listing .eyebrow{margin-bottom:10px}
+.phero-listing .usp-row{margin-top:16px}
+.phero-listing .lh-grid{gap:48px}
+.phero-listing .lh-card{padding:16px 20px 18px;gap:10px}
+.phero-listing .lh-stats{margin-bottom:2px}
+.phero-listing .lh-stats div{padding:7px 0}
+.listing-sec{padding-top:30px}
+.catnav-below{border-top:1px solid var(--line);border-bottom:0;background:var(--soft)}
+.catnav-below .catnav-in{padding-top:30px;padding-bottom:30px}
+@media (max-width:1240px){.phero-listing .lh-card{grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:12px 20px}
+  .phero-listing .lh-stats{grid-column:1/-1;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+  .phero-listing .lh-stats div{flex-direction:column;gap:2px;border-bottom:0;padding:0}
+  .phero-listing .lh-card .btn-block{width:auto}}
+@media (max-width:720px){.phero-listing{padding:18px 0 26px}
+  .phero-listing .lead{font-size:.95rem}
+  .phero-listing .usp-row{display:none}
+  .phero-listing .lh-grid{gap:18px}
+  .phero-listing .lh-stats{display:none}
+  .phero-listing .lh-card{display:flex;flex-wrap:wrap;justify-content:space-between;padding:14px 16px}
+  .phero-listing .lh-card .btn-block{width:100%}
+  .listing-sec{padding-top:22px}}
+/* class cards: 'Europallet vanaf € x' may wrap (long in French) */
+.serie-foot{flex-wrap:wrap;row-gap:2px}
+.serie-foot b{white-space:normal;text-align:right;margin-left:auto}

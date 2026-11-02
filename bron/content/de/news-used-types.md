@@ -1,27 +1,63 @@
 ---
 id: news-used-types
 title: "3 häufige Arten gebrauchter Kunststoffpaletten – Q-Pall"
-description: "Gebrauchte Kunststoffpaletten sparen Rohstoffe und Energie. Lernen Sie die drei häufigsten Arten kennen: Mehrwegpaletten, CP-Paletten und Hygienepaletten."
+description: "Gebrauchte Kunststoffpaletten sind günstig und sparen Rohstoffe. Das sind die 3 häufigsten Arten: Poolpaletten, CP-Paletten und Hygienepaletten."
 eyebrow: "Aktuelles"
 tag: "Wissen"
-crumb: "3 häufige Arten gebrauchter"
+crumb: "Arten gebrauchter Paletten"
 h1: "3 häufige Arten **gebrauchter Kunststoffpaletten**"
-lead: "Gebrauchte Kunststoffpaletten sparen Rohstoffe und Energie. Lernen Sie die drei häufigsten Arten kennen: Mehrwegpaletten, CP-Paletten und Hygienepaletten."
-img_alt: "3 häufige Arten gebrauchter Kunststoffpaletten"
-reading: 3
+lead: "Gebrauchte Kunststoffpaletten sind bis zu 40 % günstiger als neue und brauchen keinen neuen Rohstoff. Drei Arten kommen häufig vor: Mehrwegpaletten, CP-Paletten und Hygienepaletten."
+img_alt: "Schwarze Kunststoffpalette mit offenem Gitterdeck auf Füßen, auf einem sonnigen Betonboden"
+reading: 2
+faq:
+- q: "Welche Arten gebrauchter Kunststoffpaletten gibt es?"
+  a: "Häufig sind Mehrwegpaletten (auch Pool- oder Retourpaletten genannt), CP-Paletten für die Chemieindustrie und Hygienepaletten. Was auf Lager ist, ändert sich laufend."
+- q: "Wie viel günstiger ist eine gebrauchte Kunststoffpalette?"
+  a: "Eine gebrauchte Palette ist bis zu 40 % günstiger als eine neue. Der Preis hängt von Typ, Qualität und Verfügbarkeit ab."
+- q: "Was ist der Unterschied zwischen einer Mehrweg- und einer Einwegpalette?"
+  a: "Eine Mehrwegpalette ist für viele Umläufe gemacht und daher stabil und maßhaltig. Eine Einwegpalette, etwa eine leichte Exportpalette, ist für einen einzigen Transport gedacht und in der Anschaffung günstiger."
+published: '2022-01-08'
+updated: '2026-11-02'
 ---
-Wenn Sie sich für [Kunststoffpaletten](@pallets) entscheiden, entscheiden Sie sich für Nachhaltigkeit. Viele Plastikpaletten, auch die von Q-Pall, werden nämlich aus recyceltem Kunststoff wie zum Beispiel aus Verschlüssen von Getränkeflaschen hergestellt. Noch nachhaltiger wird es, wenn Sie [Kunststoffpaletten gebraucht kaufen](@used). Der Preis von gebrauchten Paletten ist oft sehr attraktiv. Außerdem sind sie nachhaltiger als Holzpaletten und umweltfreundlicher als neue [Kunststoffpaletten](@pallets), denn für eine gebrauchte Palette müssen keine neuen Rohstoffe und keine Energie für die Produktion aufgewendet werden. Sie haben dabei die Wahl zwischen diversen Modellen. Welche 3 Arten gebrauchter Kunststoffpaletten kommen am häufigsten vor?
+> **Kurz gesagt**
+>
+> * Gebrauchte Kunststoffpaletten sind bis zu 40 % günstiger als neue.
+> * Für eine gebrauchte Palette sind weder neuer Rohstoff noch Energie für die Produktion nötig.
+> * Drei Arten kommen häufig vor: Mehrwegpaletten, CP-Paletten und Hygienepaletten.
+> * Der Bestand wechselt. Fragen Sie daher nach dem aktuellen Angebot.
+
+Mit Kunststoffpaletten entscheiden Sie sich bereits für eine nachhaltige Lösung. Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, unter anderem aus Verschlüssen und Kisten. Wenn Sie noch einen Schritt weiter gehen möchten, wählen Sie gebrauchte Kunststoffpaletten.
+
+Mit [Q-Used](@used) kaufen wir gebrauchte Paletten an, prüfen sie und verkaufen sie weiter. Sie sind bis zu 40 % günstiger als neue Paletten. Außerdem sind weder neuer Rohstoff noch Energie für die Produktion nötig.
+
+Welche Arten gebrauchter Kunststoffpaletten kommen am häufigsten vor? Das sind die drei wichtigsten.
 
 ## 1. Mehrwegpaletten
 
-Mehrwegpaletten (auch Retourpaletten oder [Poolpaletten](@sector-pooling) genannt) werden von Q-Pall aus neuem Kunststoff (Premium-Serie) oder recyceltem Kunststoff (Regular-Serie) hergestellt, der wiederum völlig recycelbar ist. Diese Palette ist extrem stark und zugleich viel leichter als eine Holzpalette. Die Verwendung von Mehrwegpaletten hat noch verschiedene andere Vorteile. Trotz höherer Anschaffungskosten im Vergleich zur Einwegpalette lohnt sich die Investition meistens wegen der längeren Lebensdauer und der höheren Widerstandsfähigkeit. Mehrwegpaletten sind in vielen Ausführungen erhältlich, also auch als gebrauchte Palette. Sind Sie nicht sicher, ob Poolpaletten zu Ihrem Einsatz passen? Dann helfen unsere Spezialisten Ihnen gerne weiter.
+Mehrwegpaletten werden auch Retourpaletten oder Poolpaletten genannt. Sie sind für viele Umläufe gemacht, zum Beispiel in einem geschlossenen Kreislauf oder in einem [Palettenpool](@sector-pooling). Deshalb sind sie stabil und maßhaltig und halten viele Jahre.
+
+Eine Mehrwegpalette kostet in der Anschaffung mehr als eine Einwegpalette. Dank der langen Lebensdauer und der höheren Festigkeit ist sie pro Umlauf trotzdem oft die wirtschaftlichste Wahl. Am Ende ihrer Lebensdauer ist sie vollständig recycelbar.
+
+Mehrwegpaletten gibt es in vielen Ausführungen. Deshalb sind sie auch regelmäßig als gebrauchte Palette erhältlich.
 
 ## 2. CP-Paletten
 
-CP steht für Chemiepalette. [Chemiepaletten](@type-cp) wurden ursprünglich für die europäische Chemie- und Kunststoffindustrie entwickelt. Wegen der enormen Vielfalt an verwendeten Paletten war es dort besonders wichtig, die Größen aufeinander abzustimmen. Heute werden Chemiepaletten nicht mehr nur in der chemischen Industrie, sondern in vielen anderen Industriezweigen verwendet, da sie, wie die bekannte Europalette, einen hohen Wert haben und diesen auch behalten. Meistens werden sie für den Transport von Fässern mit Flüssigkeiten, Sackgut, Oktabins und sogenannten Big Bags eingesetzt. Big Bags dienen vor allem dem Transport von Rohstoffen wie Pulver oder anderen feinen Materialien in Korn- oder Granulatform. CP-Paletten sind auch gebraucht lieferbar, und das in verschiedenen Größen.
+CP steht für Chemical Pallet, also Chemiepalette. Die [CP-Paletten](@type-cp) wurden entwickelt, um das Palettenangebot in der europäischen Chemie- und Kunststoffindustrie zu standardisieren. Es gibt neun Typen, von CP1 bis CP9.
+
+Heute werden CP-Paletten auch in vielen anderen Branchen eingesetzt. Sie eignen sich für Fässer mit Flüssigkeiten, Sackware, Oktabins und Big Bags. In Big Bags werden vor allem Rohstoffe transportiert, etwa Pulver, Körner und Granulat.
+
+Auch CP-Paletten sind regelmäßig als gebrauchte Paletten erhältlich, in verschiedenen Größen.
 
 ## 3. Hygienepaletten
 
-[Hygienepaletten](@type-hygienic) werden auch Food-Paletten genannt. Sie werden in Branchen verwendet, in denen Ungeziefer, Bakterien und Schimmel unbedingt vermieden werden müssen (die sogenannte HACCP-Umgebung). Durch die glatte Ausführung der Palette entstehen keine Spalten und Nähte, in denen sich Schmutz ansammeln kann. Diese Palette ist besonders für die Lebensmittelindustrie geeignet. Sie ist also ideal für Unternehmen, die in den Bereichen Zubereitung, Behandlung, Verarbeitung, Verpackung, Transport und Vertrieb von Lebensmitteln tätig sind. Die Hygienepaletten von Q-Pall sind aus Kunststoff gefertigt. Dieses Material ist viel hygienischer als Holz. Holz ist nämlich porös, wodurch Holzpaletten ein ideales Zuhause für Schädlinge und Insekten bieten. Auch bei den gebrauchten Paletten haben Sie die Möglichkeit, Hygienepaletten zu bestellen.
+[Hygienepaletten](@type-hygienic) werden auch Food-Paletten genannt. Sie kommen dort zum Einsatz, wo Hygiene an erster Stelle steht, etwa in der Lebensmittel- und Pharmaindustrie (HACCP). Denken Sie an Unternehmen, die Lebensmittel zubereiten, verarbeiten, verpacken, transportieren oder vertreiben.
 
-Möchten Sie mehr über gebrauchte Paletten für Ihre Situation erfahren? Oder haben Sie andere Fragen zu unserem Sortiment und den Möglichkeiten? Nehmen Sie für weitere Informationen gerne [Kontakt](@contact) mit uns auf. Wir helfen Ihnen gerne mit einer persönlichen Beratung weiter!
+Eine Hygienepalette hat ein glattes und möglichst geschlossenes Design, ohne Fugen und Ecken, in denen sich Schmutz ansammelt. Sie nimmt keine Feuchtigkeit auf und lässt sich gut reinigen. Holz ist porös und kann schimmeln und ist daher für diese Umgebungen weniger geeignet.
+
+Unsere Hygienepaletten bestehen aus Neuware (neuem Kunststoff) in einer eigenen Farbe. Paletten aus recyceltem Kunststoff sind nicht für den direkten Kontakt mit Lebensmitteln bestimmt. Auch Hygienepaletten sind manchmal als gebrauchte Palette erhältlich.
+
+## Gebrauchte Paletten kaufen
+
+Q-Used hat keinen Webshop. Der Bestand ändert sich laufend, je nachdem, welche Paletten hereinkommen. Sie nennen uns Größe, Belastung und Anzahl der gesuchten Paletten, und wir teilen Ihnen mit, was auf Lager ist.
+
+Sie suchen eine bestimmte Art gebrauchter Paletten? [Kontaktieren Sie uns](@contact) für den aktuellen Bestand und ein Angebot.

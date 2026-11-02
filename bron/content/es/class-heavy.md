@@ -1,7 +1,7 @@
 ---
 id: class-heavy
 title: "Palets de plástico Heavy – hasta 2.000 kg en estantería"
-description: "Palets de plástico Heavy, muy robustos: 7.500 kg en estática, hasta 2.200 kg en dinámica y hasta 2.000 kg en estantería. Abiertos o cerrados, 3 a 6 patines."
+description: "Palets de plástico Heavy: hasta 7.500 kg en estática, 2.200 kg en dinámica y hasta 2.000 kg en estantería. Abiertos o cerrados, 3 a 6 patines."
 eyebrow: "Clase de carga Heavy"
 h1: "Palets de plástico **Heavy**"
 lead: "Para cargas pesadas, estanterías altas y años de uso intensivo. Hay [[count]] modelos Heavy, entre ellos palets higiénicos, CP y para pooling."

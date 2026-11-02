@@ -11,7 +11,7 @@ faq:
   - q: "Wat is het verschil tussen een exportpallet en een europallet?"
     a: "Een europallet zegt iets over het formaat (1200 x 800 mm) en is vaak bedoeld om terug te komen. Een exportpallet is gemaakt voor een enkele reis: zo licht mogelijk, sterk genoeg voor transport en zonder ISPM 15-gedoe. Een kunststof pallet van 1200 x 800 mm kan allebei zijn."
   - q: "Zijn exportpallets geschikt voor een palletstelling?"
-    a: "Nee. Onze exportpallets zijn light pallets voor transport en vloeropslag. Ze dragen 2.500 kg statisch en 1.000 kg dynamisch, maar zijn niet bedoeld voor stellingopslag."
+    a: "Nee. Onze exportpallets zijn light pallets voor transport en vloeropslag. Ze dragen tot 2.500 kg statisch en tot 1.000 kg dynamisch, maar zijn niet bedoeld voor stellingopslag."
   - q: "Welke formaten exportpallets zijn er?"
     a: "We maken exportpallets in 600 x 800, 760 x 1140, 1100 x 1100, 1140 x 1140, 1200 x 800, 1200 x 1000 en 1200 x 1200 mm. Zo vindt u voor elke container en elke markt een passend formaat."
 ---

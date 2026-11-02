@@ -26,7 +26,7 @@ La logistica punta a un flusso efficiente di merci dalla produzione al consumato
 - **Meno carburante e CO2**, e completamente riciclabili.
 - **Dimensioni fisse** per i sistemi automatizzati.
 - **Meno manutenzione:** nessuna riparazione di assi allentate.
-- **Igienici e sicuri:** niente umidità, batteri, schegge o spigoli vivi.
+- **Puliti e sicuri:** non assorbono umidità, si puliscono facilmente e non hanno schegge o spigoli vivi.
 - **Più facili da impilare** e salvaspazio.
 
 ## I pallet che consigliamo

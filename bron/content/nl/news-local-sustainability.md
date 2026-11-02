@@ -1,51 +1,65 @@
 ---
 id: news-local-sustainability
-title: "Duurzaamheid: lokale productie van kunststof pallets"
-description: "Q-Pall maakt kunststof pallets uit gerecycled kunststof en produceert lokaal in Europa. Lees hoe dit model past bij uw duurzame logistieke strategie."
+title: "Lokale productie van kunststof pallets: minder CO₂ – Q-Pall"
+description: "Lokale productie van kunststof pallets scheelt transport en CO₂. Zo werken zes Europese fabrieken, gerecycled kunststof en terugname samen."
 eyebrow: "Nieuws"
 tag: "Duurzaamheid"
-crumb: "Duurzaamheid"
-h1: "Duurzaamheid: **lokale productie van kunststof pallets**"
-lead: "Q-Pall maakt kunststof pallets uit gerecycled kunststof en produceert lokaal in Europa. Lees hoe dit model past bij uw duurzame logistieke strategie."
-img_alt: "Duurzaamheid: lokale productie van kunststof pallets"
-reading: 7
+crumb: "Lokale productie en duurzaamheid"
+h1: "Minder transport, minder CO₂: **lokale productie van kunststof pallets**"
+lead: "Hoe korter de afstand tussen fabriek en klant, hoe minder transport en CO₂. Daarom maken we onze pallets in zes Europese fabrieken, van gerecycled kunststof uit de regio, en nemen we ze aan het einde terug."
+img_alt: "Glazen bol in het gras die een boom en een groen landschap weerspiegelt"
+reading: 3
+faq:
+- q: "Waarom is lokale productie van pallets duurzamer?"
+  a: "In de palletketen is transport de grootste bron van CO₂-uitstoot. Hoe dichter de fabriek bij de klant ligt, hoe minder kilometers en uitstoot. Bijna elke klant van Q-Pall zit binnen 600 kilometer van een van onze zes fabrieken."
+- q: "Waarvan zijn de pallets van Q-Pall gemaakt?"
+  a: "Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE (code 2) en PP (code 5). Alleen hygiënische pallets, H1-pallets en cleanroompallets maken we van virgin (nieuw) kunststof."
+- q: "Wat gebeurt er met een kunststof pallet aan het einde van zijn leven?"
+  a: "Kunststof pallets zijn volledig recyclebaar. We nemen ze terug: pallets in goede staat krijgen een tweede leven als gebruikte pallet, kapotte pallets vermalen we tot grondstof voor nieuwe pallets."
+published: '2024-01-31'
+updated: '2026-11-02'
 ---
-Bent u een bedrijf dat streeft naar duurzaamheid in uw logistieke operaties? Ontdek hoe de filosofie en innovatieve oplossingen van Q-Pall aansluiten bij uw milieudoelstellingen. Q-Pall specialiseert zich in de productie van [kunststof pallets](@pallets) uit gerecyclede materialen en biedt niet alleen een product, maar een complete benadering van groene logistiek. Dit artikel gaat dieper in op hoe ons unieke model van lokale sourcing en productie in heel Europa niet alleen milieuvriendelijke pallets levert; het belichaamt een diepere toewijding aan duurzame praktijken. Door te kiezen voor Q-Pall, kunnen bedrijven een belangrijke stap zetten in het verminderen van hun ecologische voetafdruk en het bereiken van hun duurzaamheidsdoelen. Lees verder om te zien hoe de filosofie en producten van Q-Pall een integraal onderdeel kunnen zijn van uw groene logistieke strategie.
+> **In het kort**
+>
+> * In de palletketen is transport de grootste bron van CO₂-uitstoot. Daarom produceren we dicht bij de klant.
+> * We maken onze pallets in zes Europese fabrieken. Bijna elke klant zit binnen 600 kilometer van een fabriek.
+> * Onze standaardpallets zijn van bijna 100% gerecycled kunststof. In 2025 verwerkten we 34.500 ton recyclaat.
+> * Dat recyclaat kopen we zo veel mogelijk in de regio in. Dat scheelt ook transport van grondstoffen.
+> * Aan het einde van hun leven nemen we pallets terug voor hergebruik of recycling.
 
-In een wereld die steeds bewuster wordt van de milieu-impact, staat Q-Pall als een baken van innovatie en duurzaamheid in de industriële sector. Bekend om zijn baanbrekende aanpak in de productie van plastic pallets, heeft Q-Pall een opmerkelijke toewijding gemaakt aan het gebruik van gerecyclede materialen. Deze toewijding strekt zich uit tot meer dan alleen productie; het is een holistische aanpak die het lokale sourcen van materialen en productie in zes verschillende Europese landen omvat. Deze strategie benadrukt niet alleen Q-Pall's toewijding aan het verminderen van zijn koolstofvoetafdruk, maar toont ook een duurzaam bedrijfsmodel dat zowel economisch haalbaar als milieuvriendelijk is. Naarmate we dieper ingaan op de ethos en praktijken van Q-Pall, wordt duidelijk dat dit niet alleen gaat over het produceren van pallets; het gaat om het stellen van een nieuwe standaard in duurzame industriële praktijken.
+## Transport: de grootste CO₂-post in de palletketen
 
-## Deel van de Q-Pall-visie
+Een pallet is een volumineus product. Hoe verder hij moet reizen, hoe meer brandstof en uitstoot hij kost, nog voordat er iets op staat. Transport is dan ook de grootste bron van CO₂-uitstoot in de palletketen.
 
-In het hart van Q-Pall's operaties ligt een visie die de simpele productie van [plastic pallets](@pallets) overstijgt. Het bedrijf wordt gedreven door een diepgaande toewijding aan milieubeheer en innovatie. Q-Pall's reis begon met een simpel maar krachtig idee: de palletindustrie revolutioneren door duurzame praktijken te introduceren die kunnen leiden tot aanzienlijke milieuvoordelen. Deze visie is geworteld in de overtuiging dat bedrijven een cruciale rol spelen in het beschermen van onze planeet. Door het gebruik van gerecyclede materialen te omarmen en te focussen op lokale sourcing en productie, houdt Q-Pall zich niet alleen aan milieuvoorschriften, maar stelt het ook nieuwe. Deze toewijding is evident in elk aspect van hun operatie, van het sourcen van grondstoffen tot de uiteindelijke levering van hun producten, wat een diepgewortelde toewijding aan duurzaamheid en een groenere toekomst.
+Wij kiezen daarom voor [lokaal produceren](@about-local). We maken onze pallets in zes fabrieken: in Balk (Nederland), Ribe (Denemarken), Marktoberdorf (Duitsland), Nantes (Frankrijk), Lleida (Spanje) en Chesterfield (Verenigd Koninkrijk). Bijna elke klant zit binnen 600 kilometer van een van die fabrieken. Minder kilometers betekent lagere transportkosten en minder CO₂.
 
-Bent u een bedrijf dat streeft naar duurzaamheid in uw logistieke operaties? Ontdek hoe de filosofie en innovatieve oplossingen van Q-Pall aansluiten bij uw milieudoelstellingen. Q-Pall specialiseert zich in de productie van plastic pallets uit gerecyclede materialen en biedt niet alleen een product, maar een complete benadering van groene logistiek. Dit artikel gaat dieper in op hoe ons unieke model van lokale sourcing en productie in heel Europa niet alleen milieuvriendelijke pallets levert; het belichaamt een diepere toewijding aan duurzame praktijken. Door te kiezen voor Q-Pall, kunnen bedrijven een belangrijke stap zetten in het verminderen van hun ecologische voetafdruk en het bereiken van hun duurzaamheidsdoelen. Lees verder om te zien hoe de filosofie en producten van Q-Pall een integraal onderdeel kunnen zijn van uw groene logistieke strategie.
+Dat telt ook in uw eigen rapportage. De uitstoot van ingekochte pallets en het transport ervan valt onder scope 3. Pallets die dichtbij worden gemaakt, drukken dat deel van uw voetafdruk.
 
-## Voordelen van lokale productie en sourcing
+## Matrijzen reizen, pallets niet
 
-### Vermindering van transportkosten en CO2-uitstoot
+Een matrijs is de mal waarin we een pallet spuitgieten. In plaats van pallets door heel Europa te rijden, plaatsen we de matrijs in de fabriek die het dichtst bij de klant ligt. Eén transport van een matrijs vervangt zo veel ritten met pallets. Zo werkt *act global, produce local*: één Europees assortiment, lokaal gemaakt.
 
-Een van de meest tastbare voordelen van Q-Pall’s benadering van lokale productie en sourcing is de aanzienlijke vermindering van transportkosten en CO2-uitstoot. Door plastic pallets te produceren in zes verschillende Europese landen, minimaliseert Q-Pall strategisch de afstand tussen productielocaties en eindgebruikers. Dit leidt niet alleen tot lagere transportkosten, maar vermindert ook aanzienlijk de koolstofvoetafdruk die geassocieerd is met langeafstandstransport. In een tijdperk waarin het verminderen van CO2-uitstoot een wereldwijde prioriteit is, toont Q-Pall’s model aan hoe bedrijven kunnen bijdragen aan dit cruciale milieudoel, terwijl ze ook economische voordelen behalen.
+Elk jaar vertrekken duizenden volle vrachtwagens met pallets uit onze fabrieken. Als we alles op één centrale locatie zouden maken, zou bijna elk van die ritten veel langer zijn.
 
-### Duurzame sourcing van materialen
+## Gerecycled kunststof uit de regio
 
-Centraal in de duurzaamheidsethos van Q-Pall staat het lokaal sourcen van gerecyclede materialen. Deze praktijk zorgt ervoor dat de gebruikte grondstoffen in de productie niet alleen milieuvriendelijk zijn, maar ook bijdragen aan de circulaire economie binnen lokale gemeenschappen. Door materialen dicht bij productielocaties te sourcen, ondersteunt Q-Pall lokale recyclingindustrieën, vermindert afval en minimaliseert de milieu-impact die gepaard gaat met het transporteren van grondstoffen over lange afstanden. Deze toewijding aan lokale sourcing versterkt niet alleen regionale economieën, maar toont ook een verantwoorde benadering van materiaalgebruik in industriële productie.
+Onze standaardpallets maken we van bijna 100% gerecycled kunststof: een mix van HDPE (code 2) en PP (code 5). Beide zijn polyolefinen, die zich in de recycling vergelijkbaar gedragen. Wat HDPE precies is, leest u in [gerecycled PE-HD 2: wat is het precies?](@news-hdpe)
 
-### Economische en sociale voordelen
+In 2025 verwerkten we 34.500 ton recyclaat, zo'n 1.475 volle vrachtwagens. Dat is kunststof dat een nieuw leven kreeg als pallet. We kopen het zo veel mogelijk in de buurt van onze fabrieken in. Dat heeft twee voordelen:
 
-Q-Pall's model van lokale productie strekt zijn voordelen uit voorbij milieukwesties en draagt aanzienlijk bij aan lokale economieën en gemeenschappen. Door productiefaciliteiten op te zetten in verschillende Europese landen, creëert Q-Pall werkgelegenheid en ondersteunt het lokale industrieën. Dit helpt niet alleen bij het opbouwen van een veerkrachtige lokale economie, maar bevordert ook een gevoel van gemeenschapsbetrokkenheid en trots. Bovendien kan Q-Pall door operationele kosten te verlagen door verminderde transportuitgaven, concurrerende prijzen aan zijn klanten bieden, waardoor duurzame opties toegankelijker en aantrekkelijker worden. Deze economische strategie toont aan dat milieuverantwoordelijkheid en economische groei hand in hand kunnen gaan, waardoor een win-win scenario ontstaat voor zowel het bedrijf als de gemeenschap.
+* **Minder transport van grondstoffen.** Ook de aanvoer van recyclaat kost kilometers. Hoe korter de route, hoe lager de uitstoot.
+* **Sterkere regionale recycling.** Lokale kunststofafvalstromen krijgen een vaste afnemer. Dat ondersteunt de recyclingbedrijven in de regio en vermindert afval.
 
-## Innovatie in gerecyclede materialen
+## Lang mee, en daarna weer grondstof
 
-In de zoektocht naar duurzame innovatie heeft Q-Pall opmerkelijke stappen gezet in het gebruik van gerecyclede plastics. Alleen al in het afgelopen jaar gebruikte het bedrijf een indrukwekkende 30.000 ton gerecyclede plastics in zijn productieprocessen, wat overeenkomt met ongeveer 1.250 volle vrachtwagenladingen. Dit aanzienlijke gebruik van gerecycled materiaal benadrukt niet alleen de toewijding van Q-Pall aan milieuduurzaamheid, maar benadrukt ook zijn rol in het stimuleren van de circulaire economie.
+Een kunststof pallet gaat vele jaren mee. Dat is de eerste milieuwinst: hoe vaker een pallet rondgaat, hoe minder nieuwe pallets er nodig zijn.
 
-Door te kiezen voor lokale productie, heeft Q-Pall zijn logistiek aanzienlijk geoptimaliseerd. Het bedrijf vervoerde vorig jaar ongeveer 4.000 volle vrachtwagenladingen met pallets, een prestatie die aanzienlijk meer transport zou hebben vereist als de productie op één locatie was gecentraliseerd. Deze strategische beslissing om lokaal te produceren heeft geresulteerd in een aanzienlijke vermindering van CO2-uitstoot, waarmee Q-Pall's toewijding aan het minimaliseren van zijn milieu-impact wordt versterkt.
+Aan het einde van zijn leven is een pallet volledig recyclebaar. We nemen gebruikte pallets terug. Pallets in goede staat krijgen een tweede leven via [Q-Used](@used). Kapotte pallets vermalen we tot grondstof voor nieuwe pallets. Zo blijft het materiaal in dezelfde regionale kringloop.
 
-Deze aanpak gaat niet alleen over recyclen; het gaat om het heroverwegen van hoe industriële productie zowel efficiënt als milieuvriendelijk kan zijn. Q-Pall's gebruik van gerecyclede plastics is een uitstekend voorbeeld van hoe innovatieve praktijken kunnen leiden tot aanzienlijke milieuvoordelen, waarmee nieuwe normen in de industrie voor duurzaamheid en verantwoordelijkheid worden gesteld.
+## Goed voor het milieu en voor de regio
 
-## Toekomstvisie en toewijding
+Lokale productie levert ook werk op in de regio's waar onze fabrieken staan. En doordat de transportkosten lager zijn, blijven duurzame pallets betaalbaar.
 
-Terwijl Q-Pall naar de toekomst kijkt, blijft zijn toewijding aan duurzaamheid en innovatie standvastig. De vooruitstrevende aanpak van het bedrijf gaat niet alleen over het handhaven van huidige praktijken, maar ook over het continu zoeken naar manieren om zijn positieve milieu-impact te verbeteren en uit te breiden. Dit omvat het verkennen van nieuwe technologieën en processen in het gebruik van gerecyclede materialen, het verbeteren van de efficiëntie in lokale productie en het verdiepen van de betrokkenheid bij lokale gemeenschappen en economieën.
+Onze duurzaamheidsprestaties worden onafhankelijk beoordeeld door EcoVadis. In oktober 2026 behaalden we opnieuw de bronzen medaille, waarmee we bij de beste 35% van de beoordeelde bedrijven horen. Meer over onze aanpak leest u op de pagina [duurzaamheid](@about-sustainability). Hoe lokale productie uw keten ook wendbaarder maakt, leest u in [lokale productie als pijler voor een wendbare keten](@news-local).
 
-Q-Pall's toewijding aan een groenere toekomst is een reis, geen bestemming. Het bedrijf is vastbesloten om in de voorhoede van duurzame praktijken in de palletindustrie te blijven, waarbij het voortdurend evalueert en zich aanpast om ervoor te zorgen dat zijn operaties niet alleen voldoen aan, maar de milieuvoorschriften overtreffen. Deze voortdurende toewijding weerspiegelt Q-Pall's begrip dat ware duurzaamheid een dynamische en evoluerende uitdaging is, die constante innovatie en toewijding vereist.
-
-Terwijl Q-Pall ambitieus zijn activiteiten uitbreidt, zoeken we actief naar mogelijkheden om meer lokale productiefaciliteiten op te zetten. Ons doel is om onze klanten efficiënter te bedienen, kosten te verlagen en vooral om onze milieu-impact te blijven minimaliseren. Wij nodigen bedrijven en partners uit die onze visie op een duurzame toekomst delen om zich bij ons aan te sluiten in deze inspanning. Samen kunnen we een milieuvriendelijker industrielandschap creëren. Neem contact met ons op voor meer informatie over hoe u deel kunt uitmaken van deze revolutionaire reis met Q-Pall.
+Wilt u weten vanuit welke fabriek uw pallets komen en wat dat scheelt in transport? [Vraag een offerte aan](@quote). Een prijs op maat volgt meestal binnen één werkdag.

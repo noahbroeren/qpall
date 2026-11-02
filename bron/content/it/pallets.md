@@ -15,7 +15,7 @@ faq:
   - q: "Quanto costa un pallet in plastica?"
     a: "Per la maggior parte dei pallet standard indichiamo un prezzo di partenza indicativo al pezzo, IVA e trasporto esclusi. Il prezzo finale dipende da quantità, sito produttivo e consegna. Una panoramica dei prezzi per dimensione è disponibile nella nostra [guida ai prezzi dei pallet in plastica](@guide-prices)."
   - q: "Posso ordinare un singolo pallet?"
-    a: "Q-Pall fornisce principalmente aziende e lavora con volumi, spesso per pila o per camion completo. Per quantità più piccole vi indirizziamo volentieri a un [rivenditore vicino a voi](@dealers)."
+    a: "Q-Pall fornisce aziende e vende sempre per pila completa, ad esempio 17 pallet Medium o 45 pallet incastrabili. Gli ordini più grandi vengono consegnati per camion completo. Per quantità più piccole vi indirizziamo volentieri a un [rivenditore vicino a voi](@dealers)."
 classes:
   eyebrow: "Classi di portata"
   title: "Light, Medium **o Heavy?**"
@@ -41,7 +41,7 @@ why:
 
 ## Pallet in plastica per ogni applicazione
 
-Q-Pall sviluppa e produce esclusivamente pallet in plastica, e lo fa dal 2005. Questa specializzazione si vede nella gamma: oltre novanta modelli in nove dimensioni, dal compatto [pallet espositore da 600 x 400 mm](@size-600x400) al grande [1300 x 1100 mm per l’industria chimica](@size-1300x1100). Ogni modello è progettato per un compito preciso: trasporto, stoccaggio, esportazione, pooling o logistica automatizzata.
+Q-Pall sviluppa e produce esclusivamente pallet in plastica, e lo fa dal 2005. Questa specializzazione si vede nella gamma: circa 130 modelli in nove dimensioni, dal compatto [pallet espositore da 600 x 400 mm](@size-600x400) al grande [1300 x 1100 mm per l’industria chimica](@size-1300x1100). Ogni modello è progettato per un compito preciso: trasporto, stoccaggio, esportazione, pooling o logistica automatizzata.
 
 ### Scegliete prima la dimensione
 
@@ -54,3 +54,5 @@ Ogni pallet ha tre valori di portata: statica (a terra), dinamica (durante il tr
 ### Piano aperto o chiuso, piedi o slitte
 
 Un **piano aperto** è più leggero e lascia passare umidità e aria. Un **piano chiuso** è più facile da pulire e offre una base piana per gli imballaggi di piccole dimensioni. I pallet con **9 piedi** sono spesso incastrabili e ideali per l’esportazione. I pallet con **3, 5 o 6 slitte** sono più stabili sulle rulliere e idonei per le scaffalature.
+
+Preferite avere tutto su carta? Nel [catalogo prodotti](@catalog) trovate la nostra gamma standard con misure e valori di carico, in PDF da scaricare.

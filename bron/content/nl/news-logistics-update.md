@@ -1,48 +1,55 @@
 ---
 id: news-logistics-update
 title: "Update over wereldwijde logistiek en Q-Pall pallets – Q-Pall"
-description: "Hoe gaat Q-Pall om met de druk op de wereldwijde logistiek? Lees over Europese productie, leverbetrouwbaarheid, transportkosten en veiligheidsvoorraden."
+description: "Hoe ging Q-Pall in maart 2026 om met de druk op de wereldwijde logistiek? Over Europese productie, leverbetrouwbaarheid, transportkosten en voorraden."
 eyebrow: "Nieuws"
 tag: "Supply chain"
-crumb: "Update over wereldwijde logistiek en"
+crumb: "Logistieke update maart 2026"
 h1: "Update over **wereldwijde logistiek** en Q-Pall kunststof pallets"
-lead: "Hoe gaat Q-Pall om met de druk op de wereldwijde logistiek? Lees over Europese productie, leverbetrouwbaarheid, transportkosten en veiligheidsvoorraden."
-img_alt: "Update over wereldwijde logistiek en Q-Pall kunststof pallets"
-reading: 3
+lead: "In maart 2026 kwam de wereldwijde logistiek onder druk te staan door de ontwikkelingen in het Midden-Oosten. Q-Pall bleef leverbetrouwbaar dankzij productie en inkoop in Europa. Wel stegen de transportkosten."
+img_alt: "Hoge stapels oranje kunststof pallets in een magazijn"
+reading: 2
 published: '2026-03-26'
+updated: '2026-11-02'
 ---
 > **In het kort**
 >
-> De wereldwijde logistiek staat momenteel onder druk door geopolitieke ontwikkelingen in het Midden-Oosten. Desondanks behoudt Q-Pall een stabiele positie en hoge leverbetrouwbaarheid dankzij uitsluitend Europese productie. Om operationele efficiëntie te waarborgen, adviseren wij relaties hun veiligheidsvoorraden te evalueren, terwijl wij stijgende transportkosten transparant managen om een sterk partnerschap te behouden.
+> * In maart 2026 zorgden de ontwikkelingen in het Midden-Oosten voor druk op de wereldwijde logistiek en de grondstoffenmarkten.
+> * Q-Pall produceert en koopt volledig binnen Europa in en bleef daardoor leverbetrouwbaar.
+> * De transporttarieven stegen fors. Aantoonbaar hogere transportkosten berekenden we transparant door.
+> * We vergrootten onze veiligheidsvoorraad en adviseerden klanten hun eigen voorraden te evalueren.
 
-## Impact op wereldwijde logistiek
+## Impact op de wereldwijde logistiek
 
-De recente ontwikkelingen in het Midden-Oosten en de impact daarvan op de wereldwijde logistiek en grondstoffenmarkten zijn ons zeker niet ontgaan. De situatie evolueert snel en heeft inmiddels een merkbaar effect op beschikbaarheid, levertijden en kosten binnen de volledige supply chain.
+De ontwikkelingen in het Midden-Oosten hadden in het voorjaar van 2026 een duidelijke impact op de wereldwijde logistiek en de grondstoffenmarkten. De situatie veranderde snel. Beschikbaarheid, levertijden en kosten in de hele supply chain kwamen onder druk te staan.
 
 ## Een stabiele Europese positie
 
-Tegelijkertijd willen we benadrukken dat Q-Pall momenteel nog steeds vanuit een relatief stabiele positie opereert. Onze productie en inkoop vinden volledig binnen Europa plaats.
+Q-Pall werkte in die periode vanuit een relatief stabiele positie. Onze productie en inkoop vinden volledig binnen Europa plaats: we maken onze pallets in [zes fabrieken verspreid over Europa](@about-local) en kopen het recyclaat zo veel mogelijk in de regio in.
 
 > "Dit maakt ons aanzienlijk minder afhankelijk van intercontinentale grondstofstromen en stelt ons in staat om waar nodig sneller op veranderingen in te spelen."
 
-## Transportdruk & veiligheidsvoorraad
+Waarom lokale productie de keten wendbaarder maakt, leest u in [lokale productie als pijler voor een wendbare keten](@news-local).
 
-We ervaren echter wel een toenemende druk op transport, en de transporttarieven zijn inmiddels aanzienlijk gestegen. Waar deze kosten aantoonbaar oplopen, zijn wij conform onze vaste werkwijze genoodzaakt deze door te berekenen. Uiteraard doen wij dit met de grootste zorgvuldigheid en volledige transparantie.
+## Transportdruk en veiligheidsvoorraad
 
-Om de leveringscontinuïteit te waarborgen, nemen wij tevens aanvullende maatregelen. Zo vergroten we bijvoorbeeld onze veiligheidsvoorraad om fluctuaties in de markt beter op te kunnen vangen. We merken dat dit ook voor onze relaties een steeds essentiëler vraagstuk wordt. Wij adviseren u dan ook ten zeerste om uw eigen veiligheidsvoorraden op korte termijn kritisch te evalueren en, waar nodig, tijdig te verhogen, passend bij de actuele ontwikkelingen in uw markt.
+De druk op het transport nam wel toe, en de transporttarieven stegen aanzienlijk. Waar die kosten aantoonbaar opliepen, berekenden we ze volgens onze vaste werkwijze door. Dat deden we zorgvuldig en volledig transparant.
 
-## Wat betekent dit in de praktijk
+Om de leveringen veilig te stellen, namen we extra maatregelen. Zo vergrootten we onze veiligheidsvoorraad om schommelingen in de markt beter op te vangen. Voor veel klanten werd dat ook een belangrijk vraagstuk. We adviseerden hen daarom hun eigen veiligheidsvoorraden kritisch te bekijken en die waar nodig op tijd te verhogen.
 
-Met uitzondering van transportkosten zien wij momenteel geen directe aanleiding om onze prijzen aan te passen. Wel realiseren wij ons dat stijgende transportkosten niet alleen direct doorwerken, maar indirect ook invloed kunnen hebben op de inkoopprijzen van grondstoffen en halffabricaten. Gezien de huidige marktdynamiek is het lastig te voorspellen hoe deze situatie zich verder zal ontwikkelen of hoelang deze nog aanhoudt.
+## Wat dit in de praktijk betekende
 
-- Nieuwe aanvragen en bestellingen worden gebaseerd op de actuele kostenontwikkelingen.
-- Bestaande offertes en aannames kunnen, indien nodig, worden herzien naar de huidige marktsituatie.
-- Transportcomponenten kunnen afzonderlijk worden aangepast wanneer de omstandigheden dit vereisen.
-- Ons uitgangspunt blijft ongewijzigd: **leverbetrouwbaarheid, transparantie en partnerschap**. Juist onder deze omstandigheden geloven wij in korte communicatielijnen en een open dialoog, zodat we samen kunnen blijven bouwen aan stabiele en voorspelbare oplossingen.
+Afgezien van de transportkosten zagen we geen directe aanleiding om onze prijzen aan te passen. Stijgende transportkosten kunnen wel indirect doorwerken in de inkoopprijzen van grondstoffen en halffabricaten. Hoe de situatie zich zou ontwikkelen en hoelang die zou aanhouden, was lastig te voorspellen. Daarom hanteerden we drie uitgangspunten:
 
-### Is uw supply chain optimaal voorbereid?
+* **Nieuwe aanvragen en bestellingen.** Deze baseerden we op de actuele kostenontwikkeling.
+* **Bestaande offertes.** Die konden we zo nodig herzien op basis van de marktsituatie.
+* **Transport.** De transportcomponent konden we apart aanpassen als de omstandigheden dat vroegen.
 
-Wilt u lopende zaken bespreken of alvast vooruitkijken naar de komende periode? Wij staan uiteraard klaar om u hierin te ondersteunen.
+Ons uitgangspunt bleef ongewijzigd: **leverbetrouwbaarheid, transparantie en partnerschap**. Juist in zo'n periode werken korte lijnen en een open dialoog het best. Meer over onze rol in de keten leest u op de pagina [kunststof pallets voor logistiek](@sector-logistics).
+
+## Uw supply chain voorbereiden
+
+Wilt u uw voorraadplanning of lopende orders met ons bespreken? Onze specialisten denken graag met u mee.
 
 [Neem contact op met onze experts](@contact){: .btn .btn-primary}
 {: .btn-row}

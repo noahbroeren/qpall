@@ -8,6 +8,6 @@ lead: "Dietro ogni pallet ci sono delle persone. Conoscete i vostri referenti in
 ---
 ## Sempre un referente fisso
 
-Che cerchiate un solo pallet o un flusso regolare per più sedi, in Q-Pall avete un referente fisso. Conosce la nostra [gamma](@pallets), i [valori di carico](@about-load) e i nostri [siti produttivi](@about-local), e fa in modo che la vostra domanda arrivi subito alla persona giusta.
+Che cerchiate una sola pila di pallet o un flusso regolare per più sedi, in Q-Pall avete un referente fisso. Conosce la nostra [gamma](@pallets), i [valori di carico](@about-load) e i nostri [siti produttivi](@about-local), e fa in modo che la vostra domanda arrivi subito alla persona giusta.
 
 Preferite avere subito un prezzo? [Richiedete un preventivo](@quote): di solito ricevete una risposta entro un giorno lavorativo. Per altre domande potete anche [contattarci](@contact).

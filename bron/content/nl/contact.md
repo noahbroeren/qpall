@@ -15,7 +15,7 @@ faq:
   - q: "Hoe snel krijg ik antwoord?"
     a: "Meestal binnen één werkdag. Zoekt u een prijs? [Vraag dan een offerte aan](@quote). Daar vult u direct de pallets en aantallen in, zodat we u sneller een prijs op maat kunnen sturen."
   - q: "Kan ik ook een klein aantal pallets bestellen?"
-    a: "Q-Pall levert vooral aan bedrijven en werkt met volumes, vaak per stapel of per vrachtwagen. Voor kleinere aantallen verwijzen we u graag naar een [dealer bij u in de buurt](@dealers)."
+    a: "Q-Pall levert aan bedrijven en verkoopt altijd per volle stapel, bijvoorbeeld 17 medium of 45 nestbare pallets. Grotere orders leveren we per vrachtwagen. Voor kleinere aantallen verwijzen we u graag naar een [dealer bij u in de buurt](@dealers)."
   - q: "Ik kom laden of lossen. Moet ik dat aanmelden?"
     a: "Ja, graag. Boek vooraf een tijdslot via [transport aanmelden](@transport), bij voorkeur minimaal één werkdag van tevoren. Zo staat uw lading klaar en bent u snel weer onderweg."
   - q: "Ik wil bij Q-Pall werken. Waar vind ik de vacatures?"

@@ -1,29 +1,50 @@
 ---
 id: news-hq
-title: "New European headquarters for Q-Pall – Q-Pall"
-description: "Q-Pall's new European headquarters in Veghel, along the A50 motorway, is complete. It includes a production hall and was designed with CSR in mind."
+title: "New European headquarters in Veghel – Q-Pall"
+description: "In early 2022, Q-Pall completed its new European headquarters in Veghel: offices and a warehouse along the A50, built with CSR and energy in mind."
 eyebrow: "News"
 tag: "Company news"
-crumb: "New European headquarters for Q-Pall"
-h1: "New European headquarters **for Q-Pall**"
-lead: "Q-Pall's new European headquarters in Veghel, along the A50 motorway, is complete. It includes a production hall and was designed with CSR in mind."
-img_alt: "New European headquarters for Q-Pall"
-reading: 3
+crumb: "New headquarters in Veghel"
+h1: "New European headquarters **for Q-Pall** in Veghel"
+lead: "In early 2022, construction of Q-Pall’s new European headquarters in Veghel was completed. The building along the A50 motorway combines offices with a warehouse and was designed with corporate social responsibility in mind."
+img_alt: "Q-Pall headquarters in Veghel: a dark grey building with an orange overhang and large glass facades"
+reading: 2
+published: '2022-01-19'
+updated: '2026-11-02'
 ---
-The construction of the new Q-Pall headquarters has been completed. The new location in Veghel is located along the A50 motorway. In addition to the new European head office, the new building also contains a new production hall. Q-Pall is one of the global market leaders in the field of plastic pallets. The new location is necessary to be able to further expand this company, which was founded in 2005, and also offers good *opportunities for Corporate Social Responsibility (CSR)*, which is especially important to Q-Pall.
+> **In short**
+>
+> * In early 2022, Q-Pall’s new European headquarters in Veghel, along the A50 motorway, was completed.
+> * The building houses the head office, the European operations centre and a warehouse for storage.
+> * Existing foundation piles, a heat pump and solar panels made the building economical in materials and energy.
+> * The pallets themselves are made in six factories across Europe, as close to the customer as possible.
 
-## THE NEW BUILDING
+## A new headquarters along the A50
 
-Q-Pall’s commitment to CSR is shown by things like the design and the construction of the new headquarters and the new industrial hall. Foundation piles were already present at the building site, which were taken into account in the design of the location. This not only saves on construction costs, but also **prevents unnecessary use of materials**. In addition, the new construction enables Q-Pall to take other major steps in the field of CSR. For instance, an air/heat pump and solar collectors will not be missing on the roof, and the new building will be virtually energy-neutral.
+In early 2022, Q-Pall completed the construction of its new European headquarters in Veghel. The building is located directly along the A50 motorway. Alongside the head office and the European operations centre, Q-Pall gained a new warehouse for storage there. Are you collecting or delivering pallets in Veghel yourself? [Register your transport in advance](@transport).
 
-The design of the building is sleep and simple, but due to large windows, large overhangs and the integration of things like the awning into the facade, it will be a beautiful building. It is the next and large step in Q-Pall’s desire to produce **sustainable plastic pallets** in an efficient way.
+The new location was needed to allow the company, founded in 2005, to keep growing. At the same time, the new building offered opportunities for corporate social responsibility (CSR), a subject that matters a great deal to Q-Pall.
 
-## Q-PALL AND PLASTIC PALLETS
+## Built sustainably
 
-Q-Pall is a major European player in the field of manufacturing plastic packaging materials, particularly plastic pallets. What is characteristic is that Q-Pall has the production of plastic pallets take place on the location where there is a need for those pallets as much as possible. This is achieved by transporting the moulds that are used to create the pallets to the local production facility. Transporting only those moulds results in enormous savings on transport kilometres, and therefore, on CO2 emissions and the costs of trucks.
+This commitment to CSR can be seen in the design and construction of the building. Foundation piles were already present on the site, and the design took them into account. This saved construction costs and prevented **unnecessary use of materials**.
 
-A concrete example: if plastic pallets are produced in the Netherlands that are intended for the French market, this means many full trucks need to make long trips to the south and back. By only transporting the mould to France and producing the pallets locally, huge savings are achieved in terms of transport kilometres and, as a result, the CO2 emissions. There are currently production locations in Balk (NL), Ringe and Marktoberdorf (D), Ribe (DK) and Nantes (F).
+In addition, the building was fitted with a heat pump and solar panels on the roof. It was designed to be virtually energy-neutral. Read more about our approach on the [sustainability](@about-sustainability) page.
 
-## Q-PALL MANAGES ENTIRE CHAIN
+The design is clean and simple. Large windows, generous overhangs and sun shading integrated into the facade give the building its character.
 
-Q-Pall not only produces plastic pallets. Q-Pall also takes care of the design, the distribution and the sale. The company from Veghel is active throughout the entire chain, meaning that all components can be properly coordinated. Another important characteristic of the plastic pallets is that they can be fully recycled after their lifespan. This means that used plastic pallets serve as raw materials for the new pallets. Moreover, the plastic that is removed from the oceans, the so-called plastic soup, is becoming an increasingly important part of the raw materials used. This is another great example of the measures Q-Pall takes in the context of Corporate Social Responsibility.
+## Producing close to the customer
+
+Q-Pall makes only plastic pallets. A key feature is that we produce them as close to the customer as possible. It is not the pallets that travel, but the moulds used to make them. We place a mould in the factory closest to the customer. This saves a great many transport kilometres, costs and CO₂ emissions.
+
+An example: if pallets for the French market are made in the Netherlands, many full trucks have to make long journeys south and back again. If only the mould goes to our factory in Nantes, most of those journeys are no longer needed.
+
+Q-Pall produces in six factories: Balk (the Netherlands), Ribe (Denmark), Marktoberdorf (Germany), Nantes (France), Lleida (Spain) and Chesterfield (United Kingdom). Almost every customer is within 600 kilometres of a factory. Read more about [local production](@about-local).
+
+## The entire chain in our own hands
+
+Q-Pall takes care not only of production, but also of the design, distribution and sale of the pallets. Because we are active throughout the chain, all the parts fit well together.
+
+Our standard pallets are made from nearly 100% recycled plastic. At the end of their life they are fully recyclable: we take them back and grind them into raw material for new pallets. Pallets that are still in good condition get a second life through [Q-Used](@used).
+
+Would you like to know which plastic pallet suits your application? [Get in touch with us](@contact).

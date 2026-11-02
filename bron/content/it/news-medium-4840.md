@@ -1,33 +1,55 @@
 ---
 id: news-medium-4840
-title: "Pallet in plastica Medium 48\" x 40\" per il mercato USA"
-description: "Il QP4048M di Q-Pall, da 1020 x 1220 mm, è pensato per il mercato nordamericano: angoli arrotondati, nervature impilabili e piano aperto o chiuso."
+title: "Pallet in plastica Medium 48 x 40 per gli USA – Q-Pall"
+description: "Il QP4048M è un pallet in plastica Medium da 48 x 40 pollici (1220 x 1020 mm) per il mercato nordamericano, con piano aperto o chiuso."
 eyebrow: "Notizie"
 tag: "Prodotto"
-crumb: "Pallet in plastica Medium 48\" x 40\" per"
-h1: "Pallet in plastica Medium **48\" x 40\" per il mercato USA**"
-lead: "Q-Pall amplia la sua gamma con il QP4048M, una serie di pallet appositamente progettata per il mercato nordamericano. Questi pallet offrono un equilibrio ottimale tra prezzo e prestazioni, rispondendo alla crescente domanda di pallet in plastica negli Stati Uniti."
-img_alt: "Pallet in plastica Medium 48\" x 40\" per il mercato USA"
+crumb: "Pallet Medium 48 x 40 pollici"
+h1: "Pallet in plastica Medium **48 x 40 pollici per il mercato USA**"
+lead: "Per il mercato nordamericano Q-Pall ha sviluppato il QP4048M: un pallet in plastica Medium da 48 x 40 pollici (1220 x 1020 mm) con un buon equilibrio tra prezzo e prestazioni."
+img_alt: "Pallet in plastica Medium nero con piano aperto su tre slitte"
 reading: 2
+published: '2022-01-29'
+updated: '2026-11-02'
 ---
-## Funzioni migliorate per una logistica fluida
+> **In breve**
+>
+> * Il QP4048M è un pallet in plastica Medium da 48 x 40 pollici (1220 x 1020 mm), la misura di pallet più diffusa in Nord America.
+> * Angoli arrotondati e angoli interni smussati garantiscono un passaggio fluido nei sistemi di trasporto e nel lavoro con il carrello elevatore.
+> * Nervature di impilamento nei quattro angoli rendono l’impilamento semplice e sicuro.
+> * Il pallet è disponibile con piano aperto o chiuso, su 3 o 6 slitte.
+> * Portata: 6.000 kg in statica e 1.500 kg in dinamica.
 
-I pallet di 1020 x 1220 mm sono dotati di angoli arrotondati che garantiscono una transizione senza intoppi, ideale per i sistemi di trasporto automatizzati. Ciò riduce al minimo il rischio di blocchi e danni, a differenza dei pallet in legno.
+## Un pallet per il mercato nordamericano
 
-## Sicurezza ed efficienza
+Per il mercato nordamericano Q-Pall ha sviluppato il QP4048M, una serie di [pallet in plastica Medium](@class-medium) con un buon equilibrio tra prezzo e prestazioni. La misura di 48 x 40 pollici (1220 x 1020 mm) corrisponde al pallet più utilizzato negli Stati Uniti e in Canada.
 
-Gli angoli interni smussati impediscono alle forche dei carrelli elevatori di rimanere bloccate, ottimizzando il processo logistico ed evitando costi aggiuntivi. Ciò offre un notevole vantaggio in termini di sicurezza e migliora il movimento dei pallet.
+Il pallet è quindi leggermente più grande del [pallet industriale da 1200 x 1000 mm](@size-1200x1000). Negli Stati Uniti la domanda di pallet in plastica è cresciuta, perché le aziende ne apprezzano le prestazioni.
 
-## Design impilabile e igienico
+I pallet in plastica, inoltre, non rientrano nella norma [ISPM 15](@guide-ispm), che regola l’esportazione degli imballaggi in legno. Non servono quindi trattamento termico né timbro.
 
-Speciali nervature impilabili negli angoli dei pallet consentono un impilaggio facile e sicuro. I pallet sono disponibili con un piano superiore aperto o chiuso, e la versione chiusa può anche essere utilizzata come pallet igienico. Il design dei pallet consente una pulizia rapida e semplice. Sono resistenti, robusti e offrono prestazioni affidabili.
+## Fluido nei sistemi automatizzati
 
-## Eco-sostenibili e durevoli
+Gli angoli del pallet sono arrotondati. Il pallet scorre così senza intoppi sui nastri trasportatori e nei [sistemi automatizzati](@guide-automation). Il rischio che si blocchi o si danneggi è minore. Con i pallet in legno succede più spesso.
 
-Bjorn Oosterhof, CEO di Q-Pall, sottolinea i vantaggi dei pallet in plastica, tra cui la loro resistenza ai batteri e la facilità di pulizia. Inoltre, i pallet in plastica sono considerati ecologici in quanto possono essere riciclati.
+## Lavorare in sicurezza con il carrello elevatore
 
-## Diverse opzioni disponibili
+Gli angoli interni sono smussati lungo tutto il profilo del pallet. Così le forche del carrello elevatore non si impigliano. Questo evita interruzioni nel processo logistico e costi aggiuntivi.
 
-Le dimensioni dei pallet sono di 1220 mm x 1020 mm x 150 mm e possono essere fornite con 3 o 6 supporti. Oltre al colore nero standard, sono possibili adattamenti, loghi e altre opzioni di colore. I pallet sono anche disponibili con una superficie antiscivolo, con o senza nervature impilabili, e in una versione ESD con rivestimento antincendio.
+È anche più sicuro: il pallet si sposta facilmente senza strisciare sul pavimento. Perni angolari di nuova concezione rendono il pallet particolarmente robusto. Con le nervature di impilamento nei quattro angoli impilate i pallet in modo semplice e sicuro.
 
-Con l'introduzione dei pallet in plastica QP4048M, Q-Pall continua a soddisfare la crescente domanda di soluzioni di pallet di alta qualità nel mercato nordamericano.
+## Versioni e portata
+
+* **Piano.** Aperto o chiuso. Entrambe le versioni si puliscono in modo rapido e semplice.
+* **Slitte.** Tre o sei.
+* **Antiscivolo.** Disponibile anche con piano antiscivolo, con o senza nervature di impilamento.
+* **Colore e logo.** Nero di serie; un altro colore o il vostro logo sono possibili.
+* **Versioni speciali.** Su richiesta in versione ESD e in versione ignifuga.
+
+Tutte le versioni portano 6.000 kg in statica e 1.500 kg in dinamica. Su scaffale il pallet con piano aperto porta 750 kg e quello con piano chiuso 1.375 kg.
+
+## Perché la plastica negli Stati Uniti
+
+Bjorn Oosterhof, cofondatore e direttore di Q-Pall: “I nostri pallet in plastica sono la scelta preferita di molte aziende fin dalla nostra fondazione nel 2005. Negli Stati Uniti abbiamo visto una domanda molto forte, trainata dall’interesse per i pallet in plastica grazie alle loro qualità specifiche. Si puliscono facilmente e sono considerati ecologici, perché a fine vita possono essere riciclati.”
+
+Spedite negli Stati Uniti o in Canada? [Richiedete un preventivo](@quote) per il QP4048M; di solito riceverete un prezzo su misura entro un giorno lavorativo.

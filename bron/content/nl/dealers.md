@@ -7,7 +7,7 @@ h1: "Een dealer **bij u in de buurt**"
 lead: "Q-Pall werkt met een netwerk van dealers in Europa en de Verenigde Staten. Zij kennen de lokale markt en leveren ook kleinere aantallen."
 list:
   eyebrow: "Dealers per land"
-  title: "Een dealer in **{n} landen**"
+  title: "Dealers in **{n} landen**"
   lead: "Dit zijn onze dealers op een rij. Adressen en contactgegevens vindt u op de dealerkaart."
 compare:
   eyebrow: "Dealer of direct"
@@ -21,7 +21,7 @@ compare:
   dealer_cta: "Open de dealerkaart"
   direct_t: "Direct bij Q-Pall"
   direct:
-    - "Voor volumes per stapel of per vrachtwagen"
+    - "Per volle stapel of per vrachtwagen"
     - "Maatwerk met uw eigen logo of kleur"
     - "Levering vanuit de fabriek die het dichtst bij u ligt"
 ---

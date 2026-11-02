@@ -1,50 +1,86 @@
 ---
 id: news-ric
-title: "Códigos de resinas: la clave para reciclar mejor – Q-Pall"
-description: "¿Qué significan los números del 1 al 7 en el triángulo de reciclaje? Conozca los códigos de identificación de resinas y cómo facilitan reciclar el plástico."
+title: "Códigos de resina: tipos de plástico y reciclaje – Q-Pall"
+description: "¿Qué significan los códigos de identificación de resinas del 1 al 7? Conozca los tipos de plásticos que existen y cuáles se pueden reciclar."
 eyebrow: "Noticias"
 tag: "Material"
 crumb: "Códigos de resinas"
-h1: "Códigos de identificación de resinas: **la clave para reciclar mejor**"
-lead: "Reciclar no solo es bueno para el planeta, sino también para la humanidad en general. Sin embargo, el proceso de reciclaje puede ser algo confuso, especialmente cuando se trata de plásticos. Con tantos tipos diferentes de plásticos en uso hoy en día, es importante saber cuáles se pueden reciclar y cómo deben ser tratados. Ahí es donde entran en juego los Códigos de Identificación de Resina (CIR)."
-img_alt: "Códigos de identificación de resinas: la clave para reciclar mejor"
+h1: "Códigos de identificación de resinas: **¿qué plásticos se pueden reciclar?**"
+lead: "El pequeño triángulo con un número del 1 al 7 aparece en muchos productos de plástico. Este código identificador de resina indica de qué plástico se trata. Pero ¿se pueden reciclar todos?"
+img_alt: "Triángulos de reciclaje con los códigos de plástico del 1 al 7 (PET, PE-HD, PVC, PE-LD, PP, PS y O) y ABS"
 reading: 4
+faq:
+- q: "¿Qué significan los números del 1 al 7 en el triángulo de reciclaje?"
+  a: "El número es el código de identificación de resinas (RIC). Indica de qué plástico está hecho un producto: 1 es PET, 2 HDPE (PEAD), 3 PVC, 4 LDPE (PEBD), 5 PP, 6 PS, y el 7 agrupa los demás plásticos y combinaciones."
+- q: "¿Qué tipos de plásticos existen y se pueden reciclar todos?"
+  a: "Hay seis plásticos habituales con código propio y un código 7 para el resto. El PET (1), el HDPE (2) y el PP (5) se reciclan bien y se recogen ampliamente. El PVC (3), el PS (6) y los demás plásticos (7) se reciclan mucho menos."
+- q: "¿El triángulo de reciclaje significa que el producto es de plástico reciclado?"
+  a: "No. El triángulo con el número solo indica de qué plástico se trata. Si además pone «reciclado», o por ejemplo «rHDPE», el producto sí está hecho de material reciclado."
+- q: "¿De qué plástico están hechos los palets de Q-Pall?"
+  a: "Nuestros palets estándar son de plástico reciclado casi al 100%, una mezcla de HDPE (código 2) y PP (código 5). Los palets Light contienen además LDPE (código 4). Solo los palets higiénicos, los palets H1 y los palets para sala blanca son de plástico virgen."
+published: '2023-10-02'
+updated: '2026-11-02'
 ---
-## ¿Qué son los Códigos de Identificación de Resina?
+> **En resumen**
+>
+> * El código de identificación de resinas (RIC) es un número del 1 al 7 que indica de qué plástico está hecho un producto.
+> * El código ayuda a clasificar y reciclar. No significa que el producto ya sea reciclado.
+> * El PET (1), el HDPE (2) y el PP (5) se reciclan bien. El PVC (3), el PS (6) y el código 7, mucho menos.
+> * Que algo se recicle de verdad depende también de su composición, de la demanda de material reciclado y de la recogida.
+> * Fabricamos nuestros palets estándar con plástico reciclado: una mezcla de HDPE (2) y PP (5).
 
-El sistema de Códigos de Identificación de Resina (CIR) fue introducido por la Sociedad de la Industria de Plásticos (ahora la Asociación de la Industria de Plásticos) en 1988 para ayudar a los recicladores a identificar y separar diferentes tipos de plástico. Estos códigos son numéricos y generalmente varían del 1 al 7. Es probable que hayas visto estos códigos impresos dentro de un pequeño triángulo en artículos de plástico, ya sea una botella de plástico, un contenedor de alimentos o material de embalaje.
+## ¿Qué son los códigos de identificación de resinas?
 
-## Los siete códigos CIR son
+RIC son las siglas de *Resin Identification Code*: código de identificación de resinas, también llamado código identificador de resina. El sistema lo introdujo en 1988 la Society of the Plastics Industry, hoy Plastics Industry Association. Su objetivo: ayudar a los recicladores a reconocer los distintos tipos de plástico y separarlos.
 
-1. PET (Tereftalato de Polietileno): Comúnmente utilizado para botellas de refrescos y otros envases de alimentos.
-2. HDPE (Polietileno de Alta Densidad): Encontrado en botellas de leche, contenedores de detergente para ropa, etc.
-3. PVC (Cloruro de Polivinilo): Usado en tuberías, revestimientos de vinilo y algunos tipos de envases de alimentos.
-4. LDPE (Polietileno de Baja Densidad): Presente en envoltorios de plástico, bolsas de supermercado y botellas compresibles.
-5. PP (Polipropileno): A menudo utilizado en pajitas, contenedores de yogur y tapas de botellas.
-6. PS (Poliestireno): Comúnmente conocido como Styrofoam, utilizado en vasos de café, bandejas de alimentos, etc.
-7. Otros: Una categoría general para plásticos que no entran en las categorías anteriores, o para aquellos hechos de más de un tipo de resina.
+El código aparece como un número del 1 al 7 dentro de un pequeño triángulo de flechas, a menudo con una sigla debajo, como PET o PE-HD. En Europa, estos códigos para envases están fijados en la Decisión 97/129/CE de la Comisión.
 
-## ¿Cómo pueden ayudar los Códigos de Identificación de Resina?
+Atención: aquí el triángulo de flechas es solo un signo de identificación. Un código en el triángulo no significa que el producto esté hecho de material reciclado. Tampoco significa que se recicle en todas partes.
 
-- Clasificación y Separación: Saber con qué tipo de plástico estás tratando ayuda a clasificar los plásticos en las corrientes de reciclaje adecuadas.
-- Identificar la Reciclabilidad: No todos los plásticos se crean igual en términos de su capacidad para ser reciclados. Los CIR ayudan a los consumidores y recicladores a entender cuáles plásticos es más probable que sean aceptados en programas de reciclaje locales.
-- Elecciones Ecológicas: Los consumidores pueden usar estos códigos para elegir productos hechos de materiales más fácilmente reciclables.
-- Seguridad: Algunos plásticos son más seguros que otros para almacenar alimentos y bebidas. Por ejemplo, los plásticos etiquetados con los códigos 1, 2, 4 y 5 generalmente se consideran seguros para alimentos y bebidas.
+## ¿Qué tipos de plásticos existen y se pueden reciclar?
 
-## ¿Todos los plásticos son buenos y fáciles de reciclar?
+Seis plásticos de uso habitual tienen su propio código. El código 7 es una categoría general para todos los demás plásticos.
 
-La respuesta corta es no. Mientras que plásticos como PET y HDPE (códigos 1 y 2) son ampliamente aceptados en programas de reciclaje y son relativamente fáciles de reciclar, otros como PVC (código 3) y PS (código 6) se reciclan menos frecuentemente debido a su potencial de liberar sustancias químicas nocivas. Además, la categoría "Otros" (código 7) a menudo incluye plásticos que son difíciles o costosos de reciclar.
+| Código | Sigla | Plástico | Ejemplos | Reciclaje |
+|---|---|---|---|---|
+| 1 | PET | Tereftalato de polietileno | Botellas de bebida, bandejas | Bueno, recogida amplia |
+| 2 | HDPE (PEAD) | Polietileno de alta densidad | Botellas de leche, botellas de detergente, tapones, cajas, palets | Bueno, recogida amplia |
+| 3 | PVC | Policloruro de vinilo | Tuberías, marcos de ventana, algunos films | Limitado |
+| 4 | LDPE (PEBD) | Polietileno de baja densidad | Films, bolsas, botes blandos | Bueno, pero no se recoge en todas partes |
+| 5 | PP | Polipropileno | Tarrinas, cubos, tapones, cajas | Bueno |
+| 6 | PS | Poliestireno | Vasos, poliestireno expandido | Limitado |
+| 7 | O | Otros plásticos y combinaciones | Policarbonato, envases multicapa | Difícil o costoso |
 
-## Factores que afectan la reciclabilidad
+Qué significa la columna de reciclaje:
 
-- Composición del Material: Los plásticos multicapa o compuestos por varios materiales son más difíciles de reciclar.
-- Demanda del Mercado: Aunque un plástico sea técnicamente reciclable, la baja demanda del material reciclado lo hace menos probable que sea reciclado.
-- Programas Locales: Tu programa de reciclaje local podría no aceptar todos los tipos de plástico, incluso si técnicamente son reciclables.
+* **Se reciclan bien.** El PET (1), el HDPE (2) y el PP (5) se recogen y reciclan a gran escala. El HDPE y el PP son parientes: ambos son poliolefinas y en el reciclaje a menudo se procesan juntos. Más sobre el HDPE en [PE-HD 2 reciclado (HDPE 2): ¿qué es exactamente?](@news-hdpe)
+* **Reciclable, pero no se recoge en todas partes.** El LDPE (4) es técnicamente fácil de reciclar. Sin embargo, los films y las bolsas no se recogen por separado en todas partes.
+* **Se reciclan menos.** El PVC (3) contiene cloro y perturba el reciclaje de otros plásticos si se mezcla con ellos. El poliestireno expandido (PS, 6) es ligero y voluminoso, por lo que recogerlo y transportarlo resulta relativamente caro.
+* **Difícil.** El código 7 suele corresponder a combinaciones de materiales o envases multicapa. Son difíciles de reciclar, o solo a un coste elevado.
 
-### Conclusión
+## ¿Para qué sirven los códigos?
 
-Los Códigos de Identificación de Resina sirven como una guía útil tanto para los consumidores como para los recicladores para tomar mejores decisiones en torno al uso y reciclaje de plásticos. Sin embargo, la existencia de estos códigos no garantiza que un artículo de plástico sea reciclable o haya sido reciclado. La complejidad y economía del reciclaje de plásticos están influenciadas por varios factores, incluyendo la composición del material, la demanda del mercado y las capacidades de reciclaje locales.
+* **Clasificar.** Saber de qué plástico se trata permite llevarlo al flujo de reciclaje adecuado.
+* **Valorar la reciclabilidad.** El código indica si es probable que un plástico se acepte en la recogida local.
+* **Elegir con criterio.** Compradores y consumidores pueden elegir productos de plásticos más fáciles de reciclar.
+* **Contacto con alimentos.** Los códigos 1, 2, 4 y 5 se usan mucho en envases alimentarios. Pero el código no indica si un producto concreto es apto para el contacto con alimentos. Para ello se aplican normas europeas específicas.
 
-Para realmente hacer un impacto, es esencial que los consumidores vayan más allá de simplemente verificar los CIR. Adopta un enfoque más consciente hacia el uso del plástico, opta por artículos reutilizables y participa activamente en programas de reciclaje locales. Deja que los Códigos de Identificación de Resina sean tu punto de partida para tomar decisiones más informadas y responsables.
+## ¿Qué determina que un plástico se recicle de verdad?
 
-Cuando se trata de tomar una decisión responsable con el medio ambiente para tus necesidades de manejo de materiales, Q-Pall ofrece una solución reconfortante. Todos los palets de plástico Q-Pall están hechos exclusivamente de plásticos que llevan el Código de Identificación de Resina (CIR) de 2, también conocido como Polietileno de Alta Densidad (HDPE). Este material es ampliamente reconocido por su alta reciclabilidad, asegurando que estos palets puedan ser fácilmente recolectados, procesados y transformados en nuevos productos al final de su ciclo de vida. Al usar el código CIR 2, Q-Pall no solo proporciona palets duraderos y confiables, sino que también garantiza la circularidad de sus productos.
+Un código por sí solo no es una garantía. Influyen tres factores:
+
+* **Composición.** Los productos multicapa o de varios materiales son más difíciles de reciclar que los de un solo plástico.
+* **Demanda de material reciclado.** Aunque un plástico sea técnicamente reciclable, se recicla menos si hay poca demanda del material reciclado.
+* **Recogida en su zona.** No todos los sistemas de recogida aceptan todos los tipos de plástico. En caso de duda, consulte la información de su ayuntamiento.
+
+Las normas también son cada vez más estrictas. Según el reglamento europeo de envases [PPWR](@guide-ppwr), a partir de 2030 los envases deberán ser reciclables en la clase A, B o C.
+
+## ¿Qué código de resina tienen los palets de plástico?
+
+Depende del fabricante y del tipo de palet. Fabricamos nuestros palets estándar con plástico reciclado casi al 100%: una mezcla de HDPE (código 2) y PP (código 5). Nuestros palets Light contienen además LDPE (código 4). Los tres son poliolefinas.
+
+Solo nuestros [palets higiénicos](@type-hygienic), los palets H1 y los palets para sala blanca se fabrican con plástico virgen (nuevo), en un color propio. Los palets de plástico reciclado no están destinados al contacto directo con alimentos.
+
+Al final de su vida útil, nuestros palets son totalmente reciclables. Los recuperamos: los palets en buen estado tienen una segunda vida gracias a [Q-Used](@used), y el resto lo trituramos para convertirlo en materia prima para nuevos palets. Vea cómo funciona en [el reciclaje de palets de plástico](@news-recycling).
+
+¿Busca palets de plástico reciclado para su aplicación? [Solicite un presupuesto](@quote). Normalmente recibirá un precio a medida en un día laborable.

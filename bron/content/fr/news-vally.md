@@ -1,30 +1,44 @@
 ---
 id: news-vally
-title: "Bienvenue, Vally ! Les palettes plastique sont dans son ADN"
-description: "Vally Hoogland rejoint Q-Pall comme Project Sales & Technology Manager. Après plus de dix ans chez AVK Plastics, il relie technique et besoins des clients."
+title: "Bienvenue, Vally : les palettes, c’est son ADN – Q-Pall"
+description: "En mai 2026, Q-Pall a accueilli Vally Hoogland comme Project Sales & Technology Manager. Avec plus de dix ans d’expérience, il relie technique et clients."
 eyebrow: "Actualités"
 tag: "Entreprise"
-crumb: "Bienvenue, Vally"
-h1: "Bienvenue, Vally ! **Les palettes plastique sont dans son ADN**"
-lead: "Q-Pall grandit, ce qui exige des personnes qui connaissent le métier sur le bout des doigts. C'est pourquoi nous sommes fiers d'accueillir Vally Hoogland en tant que nouveau Project Sales & Technology Manager."
-img_alt: "Bienvenue, Vally ! Les palettes plastique sont dans son ADN"
+crumb: "Bienvenue, Vally Hoogland"
+h1: "Bienvenue, Vally : **les palettes plastique sont dans son ADN**"
+lead: "Q-Pall grandit, et cela demande des personnes qui connaissent le métier sur le bout des doigts. C’est pourquoi, en mai 2026, nous avons accueilli Vally Hoogland comme Project Sales & Technology Manager."
+img_alt: "Portrait de Vally Hoogland avec un hall de production en arrière-plan"
 reading: 2
 published: '2026-05-07'
+updated: '2026-11-02'
 ---
-Vally n'est pas étranger au monde des palettes en plastique et de la transformation des plastiques. Après plus de dix ans en tant que Technical Operations Manager chez AVK Plastics, il sait exactement comment les palettes sont conçues, produites et déployées dans la chaîne d'approvisionnement. De la technologie du moulage par injection aux solutions sur mesure pour les clients, Vally a tout vécu de près.
+> **En bref**
+>
+> * En mai 2026, nous avons accueilli Vally Hoogland comme Project Sales & Technology Manager.
+> * Il a travaillé plus de dix ans comme Technical Operations Manager chez AVK Plastics.
+> * Son parcours : génie mécanique, développement produit et opérations techniques.
+> * Il aide ses collègues et notre réseau commercial européen à choisir la bonne palette pour chaque application.
 
-> "Il sait depuis des années comment nos palettes sont fabriquées. Aujourd'hui, il contribue à développer la façon dont nous les vendons."
+## Un connaisseur des palettes plastique
+
+Vally n’est pas un inconnu dans le monde des [palettes plastique](@pallets) et de la transformation des plastiques. Après plus de dix ans comme Technical Operations Manager chez AVK Plastics, il sait exactement comment les palettes sont conçues, produites et utilisées dans la chaîne logistique. De l’injection aux solutions spécifiques aux clients : Vally a tout vu de près.
+
+> « Il sait depuis des années comment nos palettes sont fabriquées. Désormais, il contribue à la façon dont nous les vendons. »
 
 ## De la technique au marché
 
-Fort d'une formation en génie mécanique et de plusieurs années d'expérience dans le développement de produits et les opérations techniques, Vally fait le lien entre les besoins des clients et ce que construit Q-Pall. Dans son nouveau rôle, il soutient ses collègues et notre réseau de vente européen pour associer la bonne palette en plastique à la bonne application. Qu'il s'agisse de palettes recyclables pour l'industrie alimentaire, d'applications hygiéniques dans l'industrie pharmaceutique ou de palettes industrielles robustes pour la logistique lourde.
+Vally a une formation en génie mécanique et de nombreuses années d’expérience en développement produit et en opérations techniques. Il fait ainsi le lien entre ce dont les clients ont besoin et ce que Q-Pall fabrique.
 
-Ce qui distingue Vally ? Il comprend à la fois la technologie qui se cache derrière la palette et la dynamique commerciale du marché. Une combinaison que nous pouvons parfaitement exploiter chez Q-Pall.
+Dans son nouveau rôle, il aide ses collègues et notre réseau commercial européen à associer la bonne palette plastique à la bonne application. Par exemple des palettes pour l’agroalimentaire, des [palettes hygiéniques](@type-hygienic) pour la pharma ou des [palettes Heavy](@class-heavy) robustes pour la logistique lourde.
 
-## Durable et local — une conviction partagée
+Qu’est-ce qui distingue Vally ? Il comprend à la fois la technique derrière la palette et l’aspect commercial du marché. Une combinaison très utile pour Q-Pall.
 
-Tout comme Q-Pall, Vally croit en la force de la production locale et des matériaux circulaires. Nos palettes sont fabriquées à partir de PEHD recyclé et sont entièrement recyclables à la fin de leur cycle de vie. Des chaînes d'approvisionnement courtes, moins de CO₂, plus de contrôle : telle est la philosophie. Et Vally porte cette conviction depuis le premier jour.
+## Durable et local : une conviction partagée
 
-Nous sommes ravis de t'avoir parmi nous, Vally. #YourBestPal — bienvenue dans l'équipe.
+Comme Q-Pall, Vally croit en la production locale et aux matériaux circulaires. Nous fabriquons nos palettes standard en plastique recyclé à près de 100 %, un mélange de PEHD et de PP. En fin de vie, elles sont entièrement recyclables.
 
-Tags: #YourBestPal · #PalettesEnPlastique · #NewHire · #SupplyChain · #PlasticPallets · #Recycle
+Nous produisons dans [six usines réparties en Europe](@about-local), près de nos clients. Des chaînes courtes, moins de CO₂ et plus de maîtrise : voilà l’idée. Vally porte cette conviction depuis le premier jour.
+
+Bienvenue dans l’équipe, Vally.
+
+Vous souhaitez savoir quelle palette convient le mieux à votre application ? [Contactez-nous](@contact), nous y réfléchirons volontiers avec vous.

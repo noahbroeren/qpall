@@ -53,7 +53,11 @@
   // load calculator page opened from a product page: ?pallet=<calculator article number> preselects that pallet
   if (!PRE) {
     var qpal = (new URLSearchParams(location.search).get('pallet') || '').toUpperCase();
-    if (qpal && sizeOf(qpal)) { PRE = qpal; PRESIZE = sizeOf(qpal).id; }
+    if (qpal && sizeOf(qpal)) {
+      PRE = qpal; PRESIZE = sizeOf(qpal).id;
+      var art = new URLSearchParams(location.search).get('art');   // the product page's own article number, for the quote button
+      if (art && /^[\w.\-]+$/.test(art)) root.setAttribute('data-site', art);
+    }
   }
   if (PRE && !sizeOf(PRE)) PRE = '';
   var s = { step: 'veh', cat: null, veh: null, vehLabel: '', clen: null, ctype: 'std', size: PRESIZE || null, sku: null, mode: 'fill', qty: '', runners: true, items: [], usable: 100 };
@@ -136,7 +140,7 @@
       }).join('') + Object.keys(rn).map(function (k) {
         return '<li><img src="' + RUNNER_IMG + '" alt="" width="96" height="64" loading="lazy"><b class="qpc-cnt">' + nf(rn[k]) + '<small>×</small></b><span class="qpc-it"><b>' + t('runner_l') + '</b><small>' + runnerPallets[k].name + '</small></span></li>';
       }).join('');
-      var quote = root.getAttribute('data-quote') || '#';
+      var quote = quoteHref(rows, isC);
       return '<div class="qpc-res"><div class="qpc-res-top"><div><p class="qpc-res-veh">' + veh(s.cat || 'taut') + '<span>' + vehLabel() + (s.usable < 100 ? ' · ' + s.usable + '%' : '') + '</span></p>' + big + '</div></div>' +
         (anyShort ? '<p class="qpc-warn">' + (placed ? t('warn_fit') : t('warn_none')) + '</p>' : '') +
         '<ul class="qpc-list">' + list + '</ul><p class="qpc-note">' + t('note') + '</p>' +
@@ -145,6 +149,23 @@
         '<div class="qpc-nav">' + backBtn('order') + '</div>';
     }
   };
+
+  /* quote button: the calculated load goes along to the quote form (update 28).
+     ?items=SKU:qty,SKU:qty (site article numbers; the form rounds up to full stacks) and ?note=<summary for the message field> */
+  function quoteHref(rows, isC) {
+    var base = root.getAttribute('data-quote') || '#', items = [], lines = [];
+    rows.forEach(function (x) {
+      var it = s.items.filter(function (i) { return i.sku === x.sku; })[0], n = it && it.mode === 'num' ? it.qty : x.n;
+      if (!n) return;
+      var site = (x.sku === PRE && root.getAttribute('data-site')) || (CAT[x.sku] && CAT[x.sku].s) || x.sku;
+      items.push(site + ':' + n);
+      lines.push(nf(n) + ' x ' + label(x.sku) + ' (' + site + ')');
+      if (it && isNest(x.sku) && it.runners) { var rs = NEST_RUNNER(x.sku); items.push(rs + ':' + n * 3); lines.push(nf(n * 3) + ' x ' + t('runner_l') + ' (' + rs + ')'); }
+    });
+    if (!items.length || base === '#') return base;
+    var note = t('q_note').replace('{v}', vehLabel() + (s.usable < 100 ? ' (' + s.usable + '%)' : '')) + '\n' + lines.join('\n');
+    return base + (base.indexOf('?') < 0 ? '?' : '&') + 'items=' + encodeURIComponent(items.slice(0, 6).join(',')) + '&note=' + encodeURIComponent(note);
+  }
 
   function render() { steps(); main.innerHTML = VIEW[s.step](); }
   function go(step) {

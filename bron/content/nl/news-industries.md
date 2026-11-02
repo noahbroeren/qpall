@@ -1,33 +1,66 @@
 ---
 id: news-industries
 title: "Welke pallets passen bij uw branche? – Q-Pall"
-description: "Niet iedere pallet past bij elke toepassing. Lees welke kunststof pallets bij uw branche passen, van hygiënische pallets voor food tot displaypallets."
+description: "Hygiënische pallets voor voeding, displaypallets voor retail, exportpallets en CP-pallets: zo vindt u de kunststof pallet die past bij uw branche."
 eyebrow: "Nieuws"
 tag: "Kennis"
-crumb: "Welke pallets passen bij uw branche?"
+crumb: "Pallets per branche"
 h1: "Welke pallets **passen bij uw branche?**"
-lead: "Niet iedere pallet past bij elke toepassing. Lees welke kunststof pallets bij uw branche passen, van hygiënische pallets voor food tot displaypallets."
-img_alt: "Welke pallets passen bij uw branche?"
+lead: "Niet elke pallet past bij elke toepassing. Per branche zetten we op een rij welke kunststof pallets het best werken, van hygiënische pallets voor voeding tot CP-pallets voor de chemie."
+img_alt: "Stapel kunststof pallets in zwart, geel, blauw, wit en groen, met een oranje pallet ertegenaan"
 reading: 3
+faq:
+- q: "Mag een kunststof pallet direct contact hebben met voedsel?"
+  a: "Daarvoor is virgin kunststof de norm. Daarom maken we onze hygiënische pallets van virgin kunststof. Onze pallets van gerecycled kunststof zijn geschikt als het voedsel verpakt is en niet direct op de pallet ligt."
+- q: "Heeft een kunststof exportpallet een ISPM 15-stempel nodig?"
+  a: "Nee. ISPM 15 geldt voor verpakkingshout. Kunststof pallets zijn daarvan vrijgesteld, dus een behandeling en een stempel zijn niet nodig."
+- q: "Welke pallet past bij big bags en vaten?"
+  a: "Vaak een CP-pallet van 1140 x 1140 mm, zoals de CP3 of de CP9. Voor zakgoed en dozen zijn de CP1 en de CP6 van 1200 x 1000 mm gebruikelijk."
+published: '2022-01-12'
+updated: '2026-11-02'
 ---
-[Kunststof pallets](@pallets) worden steeds vaker gebruikt in allerhande branches. En dit is niet voor niets; de voordelen van [plastic pallets](@pallets) zijn groot. Maar niet iedere pallet is geschikt voor ieder(e) gebruik en belasting. Er zijn **verschillende soorten pallets** voor diverse toepassingen. Welke [kunststof pallet](@pallets) het best is voor uw branche lichten we hieronder graag toe.
+> **In het kort**
+>
+> * **Voedingsmiddelen:** hygiënische pallets van virgin kunststof, glad en goed te reinigen.
+> * **Retail:** displaypallets van 600 x 400 en 600 x 800 mm, zonder ompakken de winkel in.
+> * **Export:** exportpallets van kunststof zijn altijd light en vrijgesteld van ISPM 15.
+> * **Chemie en industrie:** CP-pallets voor zakgoed, vaten, octabins en big bags.
+> * **Dranken en pools:** de Ultra pallet, een heavy pallet voor vele omlopen.
 
-## Hygiënische pallets voor de foodindustrie
+## Elke branche stelt eigen eisen
 
-Bent u actief in de foodindustrie? Dan is het risico op ongemakken als ongedierte, bacteriën en schimmels groot. Deze ongemakken zijn in een zogenaamde *HACCP-omgeving* alles behalve gewenst. Bij het gebruik van een foodpallet, ook wel [hygiënische pallet](@type-hygienic), verkleint u dit risico. De display is zo gemaakt dat er geen ruimtes en naden zijn waarin vuil zich kan ophopen. Bovendien zijn deze kunststof pallets volledig glad uitgevoerd, waardoor de kans op ongewenste gasten wordt verkleind.
+Kunststof pallets worden in steeds meer branches gebruikt, omdat ze geen vocht opnemen, geen splinters of spijkers hebben en lang meegaan. Toch past niet elke pallet bij elk gebruik en elke belasting. Daarom zetten we per branche op een rij welke pallets het best werken.
 
-## De retail werkt met de Display pallet
+## Voedingsmiddelenindustrie: hygiënische pallets
 
-Winkels en supermarkten maken veel gebruik van de [display pallet](@type-display). Vaak hoeven de producten tijdens het transport van fabrikant naar retailer, niet overgeladen te worden. Dit scheelt in tijd en verkleint het risico op beschadiging. De kunststof display pallet is leverbaar in verschillende formaten en uitvoeringen. Belasting en vormgeving spelen een belangrijke rol bij het keuzeproces.
+In de voedingsmiddelenindustrie mag een pallet geen bron van vervuiling zijn. Werkt u volgens HACCP, dan wilt u het risico op besmetting zo klein mogelijk houden. Een [hygiënische pallet](@type-hygienic) helpt daarbij.
 
-## Exporteren wordt makkelijker met Export pallets
+Deze pallet heeft een glad, zo gesloten mogelijk ontwerp, zonder naden en hoeken waarin vuil zich ophoopt. Hij neemt geen vocht op en kan tegen intensieve reiniging. Onze hygiënische pallets zijn van virgin kunststof, de norm voor direct contact met levensmiddelen.
 
-Als u producten naar het buitenland exporteert loopt u tegen veel regelgeving aan. Ook met betrekking tot het gebruik van pallets. Door [export pallets](@type-export) te gebruiken maakt u het exporteren van producten een stuk eenvoudiger. Deze pallets hoeven namelijk niet behandeld te worden tegen ongedierte, en dat scheelt aanzienlijk in de kosten. Doordat deze behandeling niet nodig is, heeft u ook geen behandelcertificaat nodig. Het voordeel hiervan is dat u geen risico loopt dat het document verloopt als het exportproces onverwacht wat langer duurt. De Q-Pall export pallets zijn leverbaar in diverse modellen en in de varianten *light, medium en heavy*.
+Ligt het voedsel niet direct op de pallet, maar is het verpakt? Dan zijn onze pallets van gerecycled kunststof een duurzame keuze.
 
-## Veelzijdige Chemical Pallet
+## Retail: displaypallets
 
-De chemical pallet ook wel de [CP pallets](@type-cp) genaamd (Chemische Pallet) is oorspronkelijk ontwikkeld voor de Europese chemische en kunststofindustrie. Tegenwoordig worden chemische pallets niet alleen meer gebruikt in de chemische industrie maar ook in vele andere industrieën. Denk daarbij aan het gebruik voor het verplaatsen van vaten met bepaalde vloeistoffen, zakgoed, octabins en zogenaamde big-bag zakken. Big-bag zakken worden voornamelijk gebruikt voor het transport van grondstoffen zoals poeders en ander fijn materiaal in korrel- of granulaatvorm.
+Supermarkten en winkels werken veel met [displaypallets](@type-display). Het product wordt in het distributiecentrum op de pallet gezet en gaat zonder ompakken de winkelvloer op. Dat scheelt tijd en voorkomt beschadigingen.
 
-## Grote waterflessen passen in waterflessenhouder
+Onze displaypallets zijn er in 600 x 400 mm (kwart europallet) en 600 x 800 mm (halve europallet). Ze zijn licht en nestbaar, dus lege pallets nemen bij retourtransport weinig ruimte in.
 
-Als laatst hebben we een pallet speciaal gemaakt om waterflessen zo efficiënt mogelijk te vervoeren en op te slaan. De waterflessen houder is net als de andere pallets gemaakt van kunststof. Dus produceert en levert u als bedrijf grote waterflessen? Dan is deze pallet voor u bijzonder geschikt. De pallet is degelijk, duurzaam en praktisch in gebruik. *Wilt u meer weten over kunststof pallets en alle extra’s of varianten? Neem dan vrijblijvend* contact *met ons op voor meer informatie.*
+## Export: exportpallets zonder ISPM 15
+
+Wie naar het buitenland exporteert, krijgt met veel regels te maken, ook voor pallets. Houten pallets moeten volgens ISPM 15 een hittebehandeling en een stempel hebben. Kunststof pallets zijn daarvan vrijgesteld.
+
+Met [exportpallets](@type-export) van kunststof regelt u dus geen behandeling en heeft u geen behandelcertificaat nodig. Er kan ook geen document verlopen als uw zending onverwacht langer onderweg is. Onze exportpallets zijn altijd light pallets: licht, vaak nestbaar en sterk genoeg voor de reis.
+
+## Chemie en industrie: CP-pallets
+
+De [CP-pallet](@type-cp) (Chemical Pallet) is oorspronkelijk ontwikkeld voor de Europese chemische en kunststofindustrie. Tegenwoordig gebruiken ook veel andere industrieën hem. Denk aan vaten met vloeistoffen, zakgoed, octabins en big bags met poeder of granulaat.
+
+Wij maken de veelgevraagde CP1, CP3, CP6 en CP9 in kunststof. Een kunststof CP-pallet heeft geen spijkers of losse planken die uw zakken of vaten beschadigen.
+
+## Dranken en pools: de Ultra pallet
+
+In de drankenindustrie gaan pallets vaak vele keren rond, bijvoorbeeld in een pool. Daarvoor is de [Ultra pallet](@ultra) gemaakt: een heavy pallet van 1200 x 1000 mm met antislip aan boven- en onderkant. Hij draagt tot 1.375 kg in de stelling.
+
+## Twijfelt u welke pallet past?
+
+Vertel ons wat u vervoert en hoe u opslaat, dan adviseren we het model dat bij uw branche past. [Neem contact op](@contact) met ons team.

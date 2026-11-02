@@ -11,7 +11,7 @@ faq:
   - q: "¿Qué diferencia hay entre un palet de exportación y un europalet?"
     a: "Europalet se refiere a la medida (1200 x 800 mm) y suele estar pensado para volver. Un palet de exportación está hecho para un solo viaje: lo más ligero posible, lo bastante resistente para el transporte y sin las complicaciones de la ISPM 15. Un palet de plástico de 1200 x 800 mm puede ser ambas cosas."
   - q: "¿Son aptos los palets de exportación para estanterías para palets?"
-    a: "No. Nuestros palets de exportación son palets Light para transporte y almacenaje en suelo. Soportan 2.500 kg en estática y 1.000 kg en dinámica, pero no están pensados para el almacenaje en estantería."
+    a: "No. Nuestros palets de exportación son palets Light para transporte y almacenaje en suelo. Soportan hasta 2.500 kg en estática y 1.000 kg en dinámica, pero no están pensados para el almacenaje en estantería."
   - q: "¿Qué medidas de palet de exportación hay disponibles?"
     a: "Fabricamos palets de exportación en 600 x 800, 760 x 1140, 1100 x 1100, 1140 x 1140, 1200 x 800, 1200 x 1000 y 1200 x 1200 mm. Así encontrará una medida adecuada para cada contenedor y cada mercado."
 ---

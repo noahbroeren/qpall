@@ -4,7 +4,7 @@ title: "Belasting van pallets: statisch, dynamisch en stelling"
 description: "Het verschil tussen statische, dynamische en stellingbelasting van kunststof pallets. Met testmethode en tips om de juiste pallet te kiezen."
 eyebrow: "Kennisbank"
 h1: "De belasting van **kunststof pallets**"
-lead: "Elke pallet heeft drie belastingswaarden. Welke voor u telt, hangt af van hoe u de pallet gebruikt: op de vloer, onderweg of in een palletstelling."
+lead: "Elke pallet heeft drie belastingwaarden. Welke voor u telt, hangt af van hoe u de pallet gebruikt: op de vloer, onderweg of in een palletstelling."
 faq:
   - q: "Welke belasting is het belangrijkst?"
     a: "Dat hangt af van uw gebruik. Slaat u pallets op in een stelling, dan is de stellingbelasting leidend. Verplaatst u veel met een heftruck of pompwagen, dan telt de dynamische belasting. Voor stapelen op de vloer kijkt u naar de statische belasting."

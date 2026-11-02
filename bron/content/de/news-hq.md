@@ -1,29 +1,50 @@
 ---
 id: news-hq
-title: "Neuer europäischer Hauptsitz für Q-Pall – Q-Pall"
-description: "Der neue europäische Hauptsitz von Q-Pall in Veghel an der A50 ist fertig, mit neuer Produktionshalle. Erfahren Sie, wie CSR beim Bau mitgedacht wurde."
+title: "Neuer europäischer Hauptsitz in Veghel – Q-Pall"
+description: "Anfang 2022 war der neue europäische Hauptsitz von Q-Pall in Veghel fertig: Büros und Lagerhalle an der A50, gebaut mit Blick auf CSR und Energie."
 eyebrow: "Aktuelles"
 tag: "Unternehmen"
-crumb: "Neuer europäischer Hauptsitz für Q-Pall"
-h1: "Neuer europäischer Hauptsitz **für Q-Pall**"
-lead: "Der neue europäische Hauptsitz von Q-Pall in Veghel an der A50 ist fertig, mit neuer Produktionshalle. Erfahren Sie, wie CSR beim Bau mitgedacht wurde."
-img_alt: "Neuer europäischer Hauptsitz für Q-Pall"
-reading: 3
+crumb: "Neuer Hauptsitz in Veghel"
+h1: "Neuer europäischer Hauptsitz **für Q-Pall** in Veghel"
+lead: "Anfang 2022 wurde der Bau des neuen europäischen Hauptsitzes von Q-Pall in Veghel abgeschlossen. Das Gebäude an der A50 verbindet Büros mit einer Lagerhalle und wurde mit Blick auf Corporate Social Responsibility geplant."
+img_alt: "Der Hauptsitz von Q-Pall in Veghel: ein dunkelgraues Gebäude mit orangefarbenem Vordach und großen Glasfassaden"
+reading: 2
+published: '2022-01-19'
+updated: '2026-11-02'
 ---
-Der Bau der neuen Q-Pall-Europäischer Hauptsitz ist abgeschlossen. Der neue Standort in Veghel liegt direkt an der Autobahn A50. Neben der neuen Europazentrale enthält das neue Gebäude auch eine neue Produktionshalle. Q-Pall ist einer der Weltmarktführer im Bereich [Kunststoffpaletten](@pallets). Der neue Standort ist notwendig, damit das 2005 gegründete Unternehmen weiter expandieren kann, und bietet zudem attraktive Möglichkeiten, um der *Corporate Social Responsibility (CSR*) mehr Ausdruck zu verleihen, was für Q-Pall besonders wichtig ist.
+> **Kurz gesagt**
+>
+> * Anfang 2022 war der neue europäische Hauptsitz von Q-Pall in Veghel an der A50 fertig.
+> * Im Gebäude befinden sich der Hauptsitz, das europäische Betriebszentrum und eine Lagerhalle.
+> * Vorhandene Gründungspfähle, eine Wärmepumpe und Solarmodule machten das Gebäude sparsam bei Material und Energie.
+> * Die Paletten selbst fertigt Q-Pall in sechs Werken in Europa, so nah wie möglich am Kunden.
 
-## DAS NEUE GEBÄUDE
+## Ein neuer Hauptsitz an der A50
 
-Dieses Engagement für die CSR von Q-Pall zeigt sich beispielsweise in der Planung und dem Bau des neuen Hauptsitzes sowie der neuen Lagerhalle. Auf der Baustelle waren bereits Gründungspfähle vorhanden, die beim Entwurf des neuen Hauptstandorts berücksichtigt und verwendet wurden. Das spart nicht nur Baukosten, sondern vermeidet auch **unnötige Materialverwendung**. Weiterhin ermöglicht der Neubau Q-Pall, weitere wichtige Schritte im Bereich der CSR zu unternehmen. So werden beispielsweise eine Luft- / Wärmepumpe und Sonnenkollektoren auf dem Dach installiert und das neue Gebäude wird nahezu energieneutral sein.
+Anfang 2022 schloss Q-Pall den Bau des neuen europäischen Hauptsitzes in Veghel ab. Das Gebäude liegt direkt an der Autobahn A50. Neben dem Hauptsitz und dem europäischen Betriebszentrum erhielt Q-Pall dort eine neue Lagerhalle. Holen Sie selbst Paletten in Veghel ab oder liefern Sie an? [Melden Sie Ihren Transport vorab an](@transport).
 
-Das Design des Gebäudes wurde geradlinig und schlicht gehalten, aber aufgrund der großen Fenster, der großen Vorsprünge und der Integration von unter anderem Jalousien in die Fassade wird ein wunderschönes Gebäude errichtet. Es ist ein weiterer wichtiger Schritt für Q-Pall, um [**nachhaltige Kunststoffpaletten**](@pallets) auf effiziente Weise zu produzieren.
+Der neue Standort war notwendig, damit das 2005 gegründete Unternehmen weiter wachsen kann. Zugleich bot der Neubau Möglichkeiten für Corporate Social Responsibility (CSR), ein Thema, das für Q-Pall großes Gewicht hat.
 
-## Q-PALL UND KUNSTSTOFFPALETTEN
+## Nachhaltig gebaut
 
-Q-Pall ist ein bedeutender europäischer Akteur auf dem Gebiet der Herstellung von Verpackungsmaterialien aus Kunststoff und insbesondere im Bereich der [Kunststoffpaletten](@pallets). Q-Pall zeichnet sich dadurch aus, dass die Herstellung von Kunststoffpaletten so weit wie möglich an dem Ort stattfindet, an dem die Paletten benötigt werden. Dies wird erreicht, indem die Formen, mit denen die Paletten hergestellt werden, zu einer örtlichen Produktionsstätte transportiert werden. Durch den alleinigen Transport dieser Formen wird eine enorme Einsparung an Transportkilometern und damit an CO2-Emissionen und Lkw-Kosten erreicht.
+Dieses Engagement für CSR zeigt sich in der Planung und im Bau des Gebäudes. Auf dem Gelände waren bereits Gründungspfähle vorhanden, die beim Entwurf berücksichtigt wurden. Das sparte Baukosten und vermied **unnötigen Materialeinsatz**.
 
-Ein konkretes Beispiel: Wenn in den Niederlanden Kunststoffpaletten hergestellt werden sollten, die für den französischen Markt bestimmt waren, bedeutete dies, dass viele volle Lkw lange Fahrten nach Süden und zurück unternehmen mussten. Da lediglich die Form nach Frankreich transportiert wird und die Paletten vor Ort hergestellt werden, können enorme Einsparungen bei den Transportkilometern und damit bei den CO2-Emissionen erzielt werden. Mittlerweile gibt es Produktionsstandorte in Balk (NL), Ringe und Marktoberdorf (D), Ribe (DK) und Nantes (F).
+Außerdem erhielt das Gebäude eine Wärmepumpe und Solarmodule auf dem Dach. Es wurde so geplant, dass es nahezu energieneutral ist. Mehr über unseren Ansatz lesen Sie auf der Seite [Nachhaltigkeit](@about-sustainability).
 
-## Q-PALL KOORDINIERT GESAMTE KETTE
+Das Design ist geradlinig und schlicht. Große Fensterflächen, weite Auskragungen und ein in die Fassade integrierter Sonnenschutz prägen den Charakter des Gebäudes.
 
-Q-Pall produziert nicht nur Kunststoffpaletten. Auch das Design, der Vertrieb und der Verkauf werden von Q-Pall kontrolliert. Das Unternehmen aus Veghel ist daher in der gesamten Kette aktiv, sodass alle Schritte richtig aufeinander abgestimmt werden können. Ein weiteres wichtiges Merkmal der Kunststoffpaletten ist, dass sie nach ihrer Lebensdauer wieder vollständig recycelt werden können. Die ***gebrauchten* *Kunststoffpaletten*** dienen dann als Rohstoff für neue Paletten. Darüber hinaus wird der aus den Ozeanen entfernte Kunststoff, die sogenannte Plastiksuppe, zu einem immer wichtigeren Bestandteil der eingesetzten Rohstoffe. Dies ist auch ein gutes Beispiel für die Maßnahmen, die Q-Pall im Rahmen der Corporate Social Responsibility ergreift.
+## Produktion nah am Kunden
+
+Q-Pall stellt ausschließlich Kunststoffpaletten her. Kennzeichnend ist, dass wir sie so nah wie möglich am Kunden produzieren. Nicht die Paletten reisen, sondern die Formen, mit denen sie hergestellt werden. Wir setzen eine Form in dem Werk ein, das dem Kunden am nächsten liegt. So sparen wir viele Transportkilometer, Kosten und CO₂-Emissionen.
+
+Ein Beispiel: Werden Paletten für den französischen Markt in den Niederlanden hergestellt, müssen viele volle Lkw lange Strecken nach Süden und wieder zurück fahren. Geht nur die Form in unser Werk in Nantes, entfallen diese Fahrten größtenteils.
+
+Q-Pall produziert in sechs Werken: Balk (Niederlande), Ribe (Dänemark), Marktoberdorf (Deutschland), Nantes (Frankreich), Lleida (Spanien) und Chesterfield (Vereinigtes Königreich). Fast jeder Kunde liegt im Umkreis von 600 Kilometern um ein Werk. Mehr über [lokale Produktion](@about-local).
+
+## Die gesamte Kette in eigener Hand
+
+Q-Pall übernimmt nicht nur die Produktion, sondern auch die Entwicklung, den Vertrieb und den Verkauf der Paletten. Weil wir in der gesamten Kette aktiv sind, greifen alle Teile gut ineinander.
+
+Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff. Am Ende ihrer Lebensdauer sind sie vollständig recycelbar: Wir nehmen sie zurück und mahlen sie zu Rohstoff für neue Paletten. Paletten in gutem Zustand erhalten über [Q-Used](@used) ein zweites Leben.
+
+Möchten Sie wissen, welche Kunststoffpalette zu Ihrer Anwendung passt? [Nehmen Sie Kontakt mit uns auf](@contact).

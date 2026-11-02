@@ -49,7 +49,7 @@ more:
   cat_t: Catalogue produits
   cat_d: Toutes les palettes avec dimensions et charges en un PDF.
   kb_t: Guides
-  kb_d: Dimensions, prix, NIMP 15 et PPWR expliqués.
+  kb_d: Dimensions, prix, ISPM 15 et PPWR expliqués.
   tr_t: Enregistrer un transport
   tr_d: Vous chargez ou livrez vous-même ? Réservez un créneau à l’usine.
 ---

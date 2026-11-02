@@ -15,7 +15,7 @@ faq:
   - q: "Sous quel délai recevrai-je une réponse ?"
     a: "En général sous un jour ouvré. Vous cherchez un prix ? [Demandez un devis](@quote). Vous y indiquez directement les palettes et les quantités, ce qui nous permet de vous envoyer plus vite un prix sur mesure."
   - q: "Puis-je commander un petit nombre de palettes ?"
-    a: "Q-Pall livre principalement les entreprises et travaille avec des volumes, souvent par pile ou par camion complet. Pour de plus petites quantités, nous vous orientons volontiers vers un [distributeur près de chez vous](@dealers)."
+    a: "Q-Pall livre les entreprises et vend toujours par pile complète, par exemple 17 palettes Medium ou 45 palettes emboîtables. Les commandes plus importantes sont livrées par camion complet. Pour de plus petites quantités, nous vous orientons volontiers vers un [distributeur près de chez vous](@dealers)."
   - q: "Je viens charger ou décharger. Dois-je m’enregistrer ?"
     a: "Oui, s’il vous plaît. Réservez un créneau à l’avance via [enregistrer un transport](@transport), de préférence au moins un jour ouvré avant. Ainsi, votre chargement est prêt et vous reprenez vite la route."
   - q: "Je souhaite travailler chez Q-Pall. Où trouver les offres d’emploi ?"

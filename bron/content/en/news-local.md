@@ -8,9 +8,9 @@ crumb: "Local production as a pillar"
 h1: "From trend to necessity: **local production** as a pillar for supply chain resilience"
 lead: "In an unstable world, nearshoring is no longer a strategic option but a requirement for risk management. Local production of logistics equipment delivers three things: resilience, lower scope 3 emissions and a lower TCO."
 img_alt: "Robots and injection moulding machines in the production hall of the Q-Pall factory in Balk"
-reading: 5
+reading: 3
 published: '2026-01-22'
-updated: '2026-10-19'
+updated: '2026-11-02'
 ---
 > **In short**
 >
@@ -29,7 +29,7 @@ Conflicts such as the war in Ukraine and tensions around key trade routes like t
 
 ### More transparency in the chain
 
-Regulation also plays an ever larger role. Large companies must be increasingly able to account for where their products come from and what their environmental impact is, including the emissions in their supply chain (scope 3). A logistics item such as a pallet that has crossed half the world fits poorly with that.
+Regulation also plays an ever larger role. Large companies must be increasingly able to account for where their products come from and what their environmental impact is, including the emissions in their supply chain (scope 3). A logistics item such as a pallet that has crossed half the world fits poorly with that. How to map the dependencies in your own supply chain is explained in [from global dependence to local resilience](@news-local-resilience).
 
 ## The Q-Pall model: producing close to the customer
 
@@ -45,9 +45,9 @@ A regional approach also keeps prices more stable. Container rates move with glo
 
 Local production also gives control over the raw material flow: the *chain of custody*. That is essential for companies that take their ESG goals seriously and want to avoid greenwashing.
 
-Our pallets are made from recycled plastic, a mix of HDPE (code 2) and PP. You can read more about that material in [recycled PE-HD 2: what is it exactly?](@news-hdpe) Because we source the recycled material close to home, we have direct insight into its quality and origin. Waste is not shipped halfway around the world before it gets a new life. Local waste becomes a local raw material and a local product.
+Our standard pallets are made from recycled plastic, a mix of HDPE (code 2) and PP (code 5). You can read more about that material in [recycled PE-HD 2: what is it exactly?](@news-hdpe) Because we source the recycled material close to home, we have direct insight into its quality and origin. Waste is not shipped halfway around the world before it gets a new life. Local waste becomes a local raw material and a local product.
 
-The result is a pallet that is technically strong (impact resistant, weatherproof and hygienic) and that tells an honest story in your sustainability report. At the end of its life, the pallet is fully recyclable, within the same regional chain.
+The result is a pallet that is technically strong (impact resistant, weatherproof and easy to clean) and that tells an honest story in your sustainability report. At the end of its life, the pallet is fully recyclable, within the same regional chain. What local production means for transport, CO₂ and recycled material is explained in [local production of plastic pallets and sustainability](@news-local-sustainability).
 
 ## The future is regional
 

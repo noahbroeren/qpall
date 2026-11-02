@@ -1,50 +1,86 @@
 ---
 id: news-ric
-title: "Codes des résines : la clé d’un meilleur recyclage – Q-Pall"
-description: "Introduits en 1988, les codes d’identification des résines, numérotés de 1 à 7, aident les recycleurs à trier les plastiques. Voici pourquoi ils comptent."
+title: "Codes des résines : types de plastique et recyclage – Q-Pall"
+description: "Que signifient les codes d’identification des résines 1 à 7 ? Quelles sortes de plastique existe-t-il et peut-on les recycler ? Le tableau complet."
 eyebrow: "Actualités"
 tag: "Matériau"
 crumb: "Codes des résines"
-h1: "Codes d’identification des résines : **la clé d’un meilleur recyclage**"
-lead: "Introduits en 1988, les codes d’identification des résines, numérotés de 1 à 7, aident les recycleurs à trier les plastiques. Voici pourquoi ils comptent."
-img_alt: "Codes d’identification des résines : la clé d’un meilleur recyclage"
-reading: 5
+h1: "Codes d’identification des résines : **quels plastiques peut-on recycler ?**"
+lead: "Le petit triangle avec un chiffre de 1 à 7 figure sur de nombreux produits en plastique. Ce code d’identification des résines indique de quel plastique il s’agit. Mais tous les plastiques sont-ils recyclables ?"
+img_alt: "Triangles de recyclage avec les codes plastiques 1 à 7 (PET, PE-HD, PVC, PE-LD, PP, PS et O) et ABS"
+reading: 4
+faq:
+- q: "Que signifient les chiffres 1 à 7 dans le triangle de recyclage ?"
+  a: "Ce chiffre est le code d’identification des résines (RIC). Il indique de quel plastique est fait un produit : 1 pour le PET, 2 pour le PEHD, 3 pour le PVC, 4 pour le PEBD, 5 pour le PP, 6 pour le PS, et 7 pour les autres plastiques et associations."
+- q: "Quelles sont les sortes de plastique et peut-on toutes les recycler ?"
+  a: "Six plastiques courants ont leur propre code, et le code 7 regroupe tous les autres. Le PET (1), le PEHD (2) et le PP (5) se recyclent bien et sont largement collectés. Le PVC (3), le PS (6) et les autres plastiques (7) sont beaucoup moins recyclés."
+- q: "Un triangle de recyclage signifie-t-il que le produit est en plastique recyclé ?"
+  a: "Non. Le triangle et son chiffre indiquent seulement de quel plastique il s’agit. S’il est écrit « recyclé », ou par exemple « rPEHD », le produit est bien fabriqué en matière recyclée."
+- q: "En quel plastique sont fabriquées les palettes Q-Pall ?"
+  a: "Nos palettes standard sont en plastique recyclé à près de 100 %, un mélange de PEHD (code 2) et de PP (code 5). Les palettes Light contiennent aussi du PEBD (code 4). Seules les palettes hygiéniques, les palettes H1 et les palettes salle blanche sont en plastique vierge."
+published: '2023-10-02'
+updated: '2026-11-02'
 ---
-Recycler n'est pas seulement bénéfique pour la planète, mais également pour l'humanité toute entière. Cependant, le processus de recyclage peut parfois être source de confusion, surtout en ce qui concerne les plastiques. Avec la diversité des types de plastiques utilisés aujourd'hui, il est important de savoir lesquels peuvent être recyclés et comment ils doivent être traités. C'est là que les Codes d'Identification des Résines (CIR) entrent en jeu.
+> **En bref**
+>
+> * Le code d’identification des résines (RIC) est un chiffre de 1 à 7 qui indique de quel plastique est fait un produit.
+> * Ce code facilite le tri et le recyclage. Il ne signifie pas que le produit est déjà recyclé.
+> * Le PET (1), le PEHD (2) et le PP (5) se recyclent bien. Le PVC (3), le PS (6) et le code 7 beaucoup moins.
+> * Le recyclage effectif dépend aussi de la composition, de la demande en matière recyclée et de la collecte.
+> * Nos palettes standard sont en plastique recyclé : un mélange de PEHD (2) et de PP (5).
 
-## Quels sont les Codes d'Identification des Résines ?
+## Que sont les codes d’identification des résines ?
 
-Le système des Codes d'Identification des Résines (CIR) a été introduit par la Society of the Plastics Industry (aujourd'hui l'Association de l'Industrie des Plastiques) en 1988 pour aider les recycleurs à identifier et séparer les différents types de plastique. Ces codes sont numériques et varient généralement de 1 à 7. Vous avez probablement déjà vu ces codes imprimés à l'intérieur d'un petit triangle sur des objets en plastique, que ce soit une bouteille, un contenant alimentaire ou un emballage.
+RIC signifie *Resin Identification Code*, en français code d’identification des résines. Le système a été introduit en 1988 par la Society of the Plastics Industry, aujourd’hui la Plastics Industry Association. Son objectif : aider les recycleurs à reconnaître les différentes sortes de plastique et à les séparer.
 
-## Les sept codes CIR sont
+Le code se présente sous la forme d’un chiffre de 1 à 7 dans un petit triangle de flèches, souvent avec une abréviation en dessous, comme PET ou PE-HD. En Europe, ces codes pour les emballages sont fixés par la décision 97/129/CE de la Commission.
 
-1. PET (Téréphtalate de polyéthylène) : Couramment utilisé pour les bouteilles de soda et d'autres emballages alimentaires.
-2. HDPE (Polyéthylène haute densité) : Présent dans les bidons de lait, les contenants de détergent, etc.
-3. PVC (Chlorure de polyvinyle) : Utilisé dans les tuyaux, le bardage en vinyle et certains types d'emballages alimentaires.
-4. LDPE (Polyéthylène basse densité) : Utilisé dans les films plastiques, les sacs de courses et les bouteilles souples.
-5. PP (Polypropylène) : Souvent utilisé pour les pailles, les contenants de yaourt et les bouchons de bouteilles.
-6. PS (Polystyrène) : Communément appelé Styromousse, utilisé pour les gobelets à café, les plateaux alimentaires, etc.
-7. Autres : Une catégorie englobant les plastiques qui ne correspondent à aucune des catégories précédentes ou composés de plusieurs types de résines.
+Attention : le triangle de flèches n’est ici qu’un signe de reconnaissance. Un code dans le triangle ne signifie pas que le produit est fabriqué en matière recyclée. Il ne signifie pas non plus qu’il est recyclé partout.
 
-## Comment les Codes d'Identification des Résines peuvent-ils aider?
+## Quels sont les différents types de plastiques et sont-ils tous recyclables ?
 
-- Trier et séparer : Connaître le type de plastique permet de mieux le classer dans les filières de recyclage adaptées.
-- Identifier la recyclabilité : Tous les plastiques ne se valent pas en matière de recyclabilité. Les CIR aident les consommateurs et les recycleurs à comprendre quels plastiques sont susceptibles d'être acceptés dans les programmes de recyclage locaux.
-- Choix écologiques : Les consommateurs peuvent utiliser ces codes pour choisir des produits fabriqués à partir de matériaux plus facilement recyclables.
-- Sécurité : Certains plastiques sont plus sûrs que d'autres pour le stockage des aliments et des boissons. Par exemple, les plastiques marqués des codes 1, 2, 4 et 5 sont généralement considérés comme sûrs pour les aliments et les boissons.
+Six plastiques courants ont chacun leur propre code. Le code 7 regroupe tous les autres plastiques.
 
-## Tous les plastiques sont-ils bons et faciles à recycler?
+| Code | Abréviation | Plastique | Exemples | Recyclage |
+|---|---|---|---|---|
+| 1 | PET | Polytéréphtalate d’éthylène | Bouteilles de boisson, barquettes | Bon, largement collecté |
+| 2 | PEHD (HDPE) | Polyéthylène haute densité | Bouteilles de lait, flacons de lessive, bouchons, caisses, palettes | Bon, largement collecté |
+| 3 | PVC | Polychlorure de vinyle | Tuyaux, châssis de fenêtres, certains films | Limité |
+| 4 | PEBD (LDPE) | Polyéthylène basse densité | Films, sacs, flacons souples | Bon, mais pas collecté partout |
+| 5 | PP | Polypropylène | Pots, seaux, bouchons, caisses | Bon |
+| 6 | PS | Polystyrène | Gobelets, polystyrène expansé | Limité |
+| 7 | O | Autres plastiques et associations | Polycarbonate, emballages multicouches | Difficile ou coûteux |
 
-La réponse courte est non. Si des plastiques comme le PET et le HDPE (codes 1 et 2) sont couramment acceptés dans les programmes de recyclage et sont relativement faciles à recycler, d'autres comme le PVC (code 3) et le PS (code 6) le sont moins en raison de leur potentiel à libérer des produits chimiques nocifs. De plus, la catégorie "Autres" (code 7) inclut souvent des plastiques difficiles ou coûteux à recycler.
+Ce que signifie la colonne recyclage :
 
-## Facteurs influençant la recyclabilité
+* **Se recyclent bien.** Le PET (1), le PEHD (2) et le PP (5) sont collectés et recyclés à grande échelle. Le PEHD et le PP sont apparentés : ce sont deux polyoléfines, souvent traitées ensemble au recyclage. Pour en savoir plus sur le PEHD, lisez [PE-HD 2 recyclé : qu’est-ce que c’est ?](@news-hdpe)
+* **Recyclable, mais pas collecté partout.** Le PEBD (4) se recycle bien sur le plan technique. Mais les films et les sacs ne sont pas collectés séparément partout.
+* **Moins souvent recyclés.** Le PVC (3) contient du chlore et perturbe le recyclage des autres plastiques lorsqu’il s’y mêle. Le polystyrène expansé (PS, 6) est léger et volumineux : sa collecte et son transport coûtent relativement cher.
+* **Difficile.** Le code 7 concerne souvent des associations de matériaux ou des emballages multicouches. Ils sont difficiles à recycler, ou seulement à un coût élevé.
 
-Composition du matériel : Les plastiques multicouches ou multimatières sont plus difficiles à recycler. Demande du marché : Même si un plastique est techniquement recyclable, une faible demande pour le matériau recyclé peut réduire les chances qu'il soit effectivement recyclé. Programmes locaux : Votre programme de recyclage local peut ne pas accepter tous les types de plastique, même s'ils sont techniquement recyclables.
+## À quoi servent ces codes ?
 
-### Conclusion
+* **Trier.** Savoir de quel plastique il s’agit permet de l’orienter vers la bonne filière de recyclage.
+* **Évaluer la recyclabilité.** Le code indique si un plastique a des chances d’être accepté par la collecte locale.
+* **Choisir en connaissance de cause.** Acheteurs et consommateurs peuvent choisir des produits en plastiques plus faciles à recycler.
+* **Contact alimentaire.** Les codes 1, 2, 4 et 5 sont très utilisés pour les emballages alimentaires. Mais le code n’indique pas si un produit donné convient au contact avec les aliments. Des règles européennes spécifiques s’appliquent pour cela.
 
-Les Codes d'Identification des Résines sont un guide précieux pour les consommateurs et les recycleurs afin de prendre de meilleures décisions concernant l'utilisation et le recyclage des plastiques. Cependant, la présence de ces codes ne garantit pas que l'objet en plastique est recyclable ou a été recyclé. La complexité et l'économie du recyclage des plastiques dépendent de nombreux facteurs, dont la composition du matériau, la demande du marché et les capacités de recyclage locales.
+## Qu’est-ce qui détermine si un plastique est vraiment recyclé ?
 
-Pour véritablement faire une différence, il est essentiel que les consommateurs aillent au-delà de la simple vérification des CIR. Il faut adopter une approche plus consciente de l'utilisation des plastiques, opter pour des articles réutilisables et participer activement aux programmes de recyclage locaux. Laissez les Codes d'Identification des Résines être votre point de départ pour prendre des décisions plus éclairées et responsables.
+Un code seul ne garantit rien. Trois facteurs entrent en jeu :
 
-Quand il s'agit de faire un choix respectueux de l'environnement pour vos besoins en matière de manutention, Q-Pall offre une solution rassurante. Toutes les palettes en plastique Q-Pall sont exclusivement fabriquées à partir de plastiques portant le Code d'Identification des Résines (CIR) 2, également connu sous le nom de Polyéthylène Haute Densité (HDPE). Ce matériau est largement reconnu pour sa grande recyclabilité, garantissant que ces palettes peuvent être facilement collectées, traitées et transformées en nouveaux produits en fin de vie. En utilisant des plastiques codés CIR 2, Q-Pall ne fournit pas seulement des palettes durables et fiables, mais garantit également la circularité de leurs produits. Choisir Q-Pall signifie que vous optez pour une solution durable à long terme qui minimise les déchets et maximise l'efficacité des ressources, alignant vos pratiques commerciales avec les principes de l'économie circulaire.
+* **La composition.** Les produits multicouches ou multimatériaux sont plus difficiles à recycler que les produits en un seul plastique.
+* **La demande en matière recyclée.** Même techniquement recyclable, un plastique est moins souvent recyclé si la matière recyclée est peu demandée.
+* **La collecte près de chez vous.** Tous les systèmes de collecte n’acceptent pas toutes les sortes de plastique. En cas de doute, consultez le site de votre commune.
+
+Les règles se durcissent aussi. Selon le règlement européen sur les emballages [PPWR](@guide-ppwr), les emballages devront être recyclables en classe A, B ou C à partir de 2030.
+
+## Quel code de résine pour les palettes plastique ?
+
+Cela dépend du fabricant et du type de palette. Nos palettes standard sont fabriquées en plastique recyclé à près de 100 % : un mélange de PEHD (code 2) et de PP (code 5). Nos palettes Light contiennent aussi du PEBD (code 4). Ce sont trois polyoléfines.
+
+Seules nos [palettes hygiéniques](@type-hygienic), nos palettes H1 et nos palettes salle blanche sont en plastique vierge (neuf), dans une couleur qui leur est propre. Les palettes en plastique recyclé ne sont pas destinées au contact alimentaire direct.
+
+En fin de vie, nos palettes sont entièrement recyclables. Nous les reprenons : les palettes en bon état connaissent une seconde vie grâce à [Q-Used](@used), les autres sont broyées pour devenir la matière première de nouvelles palettes. Découvrez comment dans [le recyclage des palettes plastique](@news-recycling).
+
+Vous cherchez des palettes en plastique recyclé pour votre application ? [Demandez un devis](@quote). Vous recevez généralement un prix sur mesure en un jour ouvré.

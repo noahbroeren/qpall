@@ -8,11 +8,18 @@ crumb: "El palet como variable de proceso"
 author: "John van Boesschoten"
 h1: "Un palet no es un soporte de carga. Es una **variable de proceso**."
 lead: "Cuatro propiedades que marcan la diferencia entre un palet que sigue su proceso y un palet que lo interrumpe."
-img_alt: "Robot que recoge un palé de plástico en la línea de producción de Balk"
+img_alt: "Robot que recoge un palet de plástico en la línea de producción de Balk"
 reading: 4
 published: '2026-05-26'
-updated: '2026-10-19'
+updated: '2026-11-02'
 ---
+> **En resumen**
+>
+> * Muchos pequeños incidentes en la logística se deben a las propiedades del palet.
+> * Hay cuatro propiedades que cuentan de verdad: no poroso, sin astillas, peso constante y medidas constantes.
+> * Se traducen en menos rechazos, menos daños, una tara fiable y menos paradas en las líneas automatizadas.
+> * Además, los palets de plástico quedan fuera de la ISPM 15, la normativa de exportación para embalajes de madera.
+
 En la mayoría de las organizaciones, el palet es el eslabón más silencioso de la cadena. Nadie le asigna un KPI y nadie lo menciona en la memoria anual. Está debajo de la carga, y punto.
 
 Hasta que algo sale mal. Una astilla en una mano o en un producto. Una tabla de madera un poco demasiado estrecha para el sensor de un AGV. Una carga que en la báscula pesa 3 kilos más que en el albarán. Una mancha de moho en un palet que acaba de llegar del almacén exterior. Un agente de aduanas que pide la marca ISPM 15.
@@ -21,9 +28,11 @@ Ninguno de estos incidentes es ajeno al palet. Todos se deben a las propiedades 
 
 ## 1. No poroso
 
-Un palet que no absorbe humedad tampoco absorbe moho, olores ni bacterias. En el procesado de alimentos, la industria farmacéutica, la cadena de frío y las salas blancas no es una ventaja, sino un requisito.
+Un palet que no absorbe humedad no deja que el moho ni los olores penetren en el material. Además, se limpia con facilidad. En el procesado de alimentos, la industria farmacéutica, la cadena de frío y las salas blancas no es una ventaja, sino un requisito.
 
 También importa fuera de esos sectores. Un envío de productos secos sobre un palet de madera húmedo es una reclamación en ciernes. Un producto sobre un palet que ha absorbido olores o restos vuelve como devolución.
+
+¿Su carga entra en contacto directo con alimentos o trabaja usted en una sala blanca? Entonces elija [palets higiénicos](@type-hygienic) de plástico virgen. Nuestros palets de plástico reciclado no están destinados al contacto directo con alimentos.
 
 **Lo que aporta:** menos rechazos, menos devoluciones y menos discusiones con su cliente sobre el estado del palet.
 
@@ -59,4 +68,6 @@ El palet no es la parte más importante de su cadena logística. Pero forma part
 
 Así que la pregunta no es qué material es mejor. La pregunta es qué propiedades necesita su proceso y qué le aporta que dejen de ser variables.
 
-En Q-Pall fabricamos palets con plástico reciclado. No porosos, sin astillas, constantes en peso y medidas, con documentación [PPWR](@guide-ppwr) y no sujetos a la ISPM 15. ¿Duda entre madera y plástico? Lea [palets de plástico o de madera](@guide-wood).
+En Q-Pall fabricamos nuestros palets estándar con plástico reciclado. No porosos, sin astillas, constantes en peso y medidas, con documentación [PPWR](@guide-ppwr) y no sujetos a la ISPM 15. ¿Duda entre madera y plástico? Lea [palets de plástico o de madera](@guide-wood).
+
+¿Quiere saber qué palet se adapta mejor a su proceso? [Contacte con nosotros](@contact) y lo analizaremos juntos.

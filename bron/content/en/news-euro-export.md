@@ -1,61 +1,85 @@
 ---
 id: news-euro-export
 title: "Euro vs export pallets: what's the difference? – Q-Pall"
-description: "A Euro pallet is built for reuse in pan-European transport, an export pallet for a one-way route. Find out which plastic pallet fits your supply chain."
+description: "Euro pallet or export pallet? Find out when a reusable Euro pallet is the right choice and when a lightweight export pallet for a single trip is better."
 eyebrow: "News"
 tag: "Know-how"
 crumb: "Euro vs export pallets"
 h1: "What is the difference between **Euro pallets and export pallets**?"
-lead: "At Q-Pall, we exclusively manufacture plastic pallets that are not only durable and lightweight but also fully recyclable. Based on our experience, we know that choosing the right pallet solution creates long-term benefits throughout the entire supply chain."
-img_alt: "What is the difference between Euro pallets and export pallets?"
-reading: 5
+lead: "A Euro pallet is made to be used again and again, an export pallet for a single trip. Which one suits your shipment? These are the differences, and what plastic pallets add to them."
+img_alt: "Yellow shipping container half covered by the European flag, next to a blue container"
+reading: 4
+faq:
+- q: "What is the difference between a Euro pallet and an export pallet?"
+  a: "A Euro pallet is a standardised 1200 x 800 mm pallet for repeated use. An export pallet is made for a single trip and stays with the recipient. A 1200 x 800 mm plastic pallet can be either."
+- q: "Can plastic Euro pallets be used in the EPAL exchange system?"
+  a: "No. The exchange system is based on wooden Euro pallets with an official stamp. Our plastic pallets have the same dimensions but are not part of the EPAL or Europool exchange system."
+- q: "Does a plastic export pallet need an ISPM 15 stamp?"
+  a: "No. ISPM 15 only applies to packaging made of solid wood. Plastic pallets need no treatment or stamp, not even for export outside the EU."
 published: '2026-02-24'
+updated: '2026-11-02'
 author: "John van Boesschoten"
 ---
-## Export Pallet or Euro Pallet – Which is the Right Fit for You?
+> **In short**
+>
+> * A Euro pallet measures 1200 x 800 mm and is made for repeated use in European supply chains.
+> * An export pallet is made for a single trip, for example outside the EU, and stays with the recipient.
+> * A 1200 x 800 mm plastic pallet can be either: a reusable Euro pallet or a lightweight export pallet.
+> * Plastic pallets need no ISPM 15 treatment, but they are not part of the EPAL or Europool exchange system.
 
-The decision depends on how you intend to use the pallet. A [Euro pallet](@size-1200x800) – standardized and widely used – is an essential element for multiple uses in pan-European transport. It is robust, exchangeable, and reusable for years.
+At Q-Pall, we make only plastic pallets. They last a long time and are fully recyclable at the end of their life. Our experience shows that choosing the right pallet pays off throughout the supply chain.
 
-The [export pallet](@type-export), on the other hand, makes the most sense when intended for a single transport route. Its typical use is in exports outside the EU or for deliveries where returning the pallet is not planned.
+## Euro pallet or export pallet: which suits you?
 
-As a manufacturer of plastic pallets, we know both areas of application thoroughly. Our solutions combine the benefits of both variants. They are lightweight, resilient, and support your operational efficiency – whether for a single export shipment or within a circular system.
+The choice depends on how you use the pallet. A [Euro pallet](@size-1200x800) is standardised and widely used. It is made for repeated use in European transport: consistent quality, exchangeable and usable for years.
 
-## Focus on Export Pallets: Features and Applications
+An [export pallet](@type-export) is the best choice for a single route. Think of exports outside the EU or deliveries where the pallet does not come back.
 
-Export pallets are cost-efficient, readily available, and designed for one-way transport. They are frequently found in the construction industry, for special deliveries, or in global exports. When a return process makes no economic sense, this type of pallet is the most pragmatic solution.
+| | Euro pallet | Export pallet |
+|---|---|---|
+| Use | Repeated use, in an exchange system or your own closed loop | A single trip, the pallet stays with the recipient |
+| Size | 1200 x 800 mm | Various sizes, including 1200 x 800 mm |
+| Made of wood | EPAL stamp; ISPM 15 as well for export outside the EU | Treated and stamped under ISPM 15 for export outside the EU |
+| Made of plastic (Q-Pall) | Light, medium or heavy; not in the EPAL exchange system | Always light, often nestable; no ISPM 15 needed |
 
-However, our plastic export pallets perform significantly better than one might expect. With proper handling, they can be used multiple times. They are impervious to moisture, absorb shocks better than wood, and are highly hygienic. This makes them perfectly suited for the food or pharmaceutical industries.
+## The Euro pallet: the standard in European logistics
 
-### Export Requirements and the Advantages of Export Pallets
+Hardly any part of the supply chain is as familiar as the Euro pallet. Warehouses, pallet racking, trucks and order picking processes are all designed around 1200 x 800 mm. The wooden Euro pallet is covered by the rules of the European Pallet Association (EPAL) and can be recognised by the EPAL stamp. It can be picked up by a forklift from all sides.
 
-For exports outside Europe, there are clear advantages. Export pallets do not need to be returned, which simplifies the entire logistics process. They reduce customs clearance efforts and save transport costs. In addition, wooden pallets usually require special treatment according to ISPM 15 – with plastic, this requirement is entirely eliminated.
+We do not make wooden pallets, but we do make plastic pallets in exactly this size. They fit the same racking, trucks and roller conveyors. They also do not rot, do not splinter and do not absorb moisture. Our heavy pallets in this size carry up to 7,500 kg static.
 
-Our plastic pallets meet all typical export requirements. They contain no organic residues, are resistant to fungi, and are easy to clean. Especially for sensitive goods, they are the preferred alternative – stable enough for loads up to 1000 kg or more (depending on the pallet model) and safe to handle.
+## Europool pallets and the pallet exchange system
 
-### Direct Comparison: Export Pallets vs. Euro Pallets
+The open exchange system in Europe revolves around the wooden Europool pallet. Companies that exchange pallets regularly benefit from constant availability and lower costs. A damaged pallet is repaired and used again, which contributes to the circular economy.
 
-Export pallets and Euro pallets differ in several respects. Euro pallets are made of wood or plastic. The former is standardized, often exchangeable, and highly durable. These options are subject to the strict guidelines of the European Pallet Association (EPAL) and are easily recognizable by the EPAL stamp.
+Q-Pall plastic pallets are not part of the EPAL or Europool exchange system. They have the same dimensions, but you cannot swap them for a stamped wooden pallet. That is why plastic Euro pallets are mainly used in closed loops, in [pools](@sector-pooling), for internal transport and for export.
 
-With their standard dimensions of 1200 × 800 mm, they are ideal for seamless integration into logistics and warehousing. The export pallet in this size dispenses with the stamp. It is often more cost-efficient and flexible. Export pallets are not returned but remain with the recipient.
+## Export pallets: lightweight and made for a single trip
 
-As a result, they are particularly well-suited for one-off deliveries or global exports. Plastic pallets in the Euro pallet size combine many advantages: they offer compatibility with existing systems, are lightweight, robust, and often reusable – yet without being part of the EPAL exchange system.
+Export pallets are cost-efficient, quickly available and made for one-way transport. They are often used in construction, for special deliveries and for exports worldwide. If a return flow does not pay off, an export pallet is the most practical solution.
 
-Pallets in Euro pallet dimensions can certainly be designed as export pallets. These are not genuine Euro pallets in the sense of the EPAL standard, but transport pallets that simply share the same dimensions of 1200 × 800 mm.
+Our plastic export pallets are always light pallets. They perform better than you might expect:
 
-These pallets – for example, made of plastic or simple wooden designs – are specifically designed for export. They are ideal when goods are shipped without planning for return transport or exchange in the pallet pool. Thus, they combine the practical standard size with the flexibility of an export shipment.
+* **They weigh little**, from 2.7 kg. That saves on freight costs.
+* **They are often nestable.** Empty pallets slide into each other.
+* **They carry 2,500 kg static and 1,000 kg dynamic.** They are intended for transport and floor storage, not for pallet racking.
+* **They do not absorb moisture** and absorb impacts better than wood.
+* **They can make more than one trip.** With careful handling, you can use them several times.
 
-At Q-Pall, we combine the best of both worlds: our plastic pallets meet the standard dimensions of the Euro pallet while simultaneously offering the practical benefits of an export pallet. They are lightweight, stable, and contribute to your sustainability strategy – without compromising on quality or eco-friendliness.
+### Export outside the EU: no ISPM 15
 
-## The Euro Pallet as a Standardized Solution in Everyday Logistics
+For export outside the EU, wooden pallets usually have to be treated and stamped under [ISPM 15](@guide-ispm). This standard protects plant health against insects and plant diseases in wood. Plastic pallets are not covered by it, so you do not need to arrange any treatment or certificate. And because an export pallet does not have to come back, your logistics become simpler.
 
-Hardly any component in the supply chain is as familiar as the Euro pallet. It is an essential element of everyday logistics, recognized as reliable, resilient, and dimensionally accurate. In many warehouses and fleets, it is simply indispensable. Its dimensions are tailored to the European market, and its load capacity is exceptional.
+### Export pallets in Euro pallet size
 
-Furthermore, it is accessible from all sides by forklifts, which simplifies handling. Although we do not manufacture wooden pallets, we at Q-Pall have developed plastic alternatives that are identical in size and function. Yet, they offer additional advantages: no rotting, no splinters, and no moisture absorption.
+A 1200 x 800 mm pallet can also be an export pallet. It is then not an official Euro pallet under the EPAL standard, but a transport pallet with the same dimensions. That way you combine the practical standard size with the freedom of a one-way shipment: the pallet simply stays with the recipient.
 
-This ensures your goods remain protected and your processes stay highly hygienic.
+### Food and pharmaceuticals
 
-## The Europool Pallet and Its Role in the Pallet Exchange System
+Our export pallets are made from recycled plastic. They are easy to clean and contain no organic residues, but they are not intended for direct contact with food. For applications with strict hygiene requirements, such as in the food and pharmaceutical industries, we offer [hygienic pallets](@type-hygienic) made from virgin plastic.
 
-The open exchange system in Europe is based on the Europool pallet. Companies that regularly exchange pallets benefit from constant availability and decreasing costs. If a pallet gets damaged, it can be repaired and reused. This is a substantial contribution to the circular economy and sustainability.
+## The best of both worlds
 
-Our plastic pallets can be seamlessly integrated into this system. They conform to standardized dimensions, are highly durable, and require minimal maintenance. They do not splinter, are easier to clean, and retain their precise shape even under heavy loads. This allows you to leverage the benefits of the classic pallet exchange system – with less operational effort and vastly superior hygiene.
+At Q-Pall, we combine both uses. You choose a plastic pallet in the Euro pallet size: as a reusable pallet for your own closed loop or as a lightweight export pallet for a single trip. At the end of its life, every pallet is fully recyclable.
+
+Not sure which pallet suits your shipments? [Request a quote](@quote) and tell us the destination and the load. You will usually receive a tailored price within one working day.

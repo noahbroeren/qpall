@@ -1,17 +1,45 @@
 ---
 id: news-heavy-family
-title: "Q-Pall agrandit sa famille de palettes Heavy – Q-Pall"
-description: "Quatre nouvelles palettes Heavy : 3 ou 6 semelles, plateau ajouré ou plein, jusqu’à 1375 kg en rack. Une gamme présentée au SITL et au Fachpack 2021."
+title: "Gamme de palettes Heavy élargie en 2021 – Q-Pall"
+description: "En 2021, Q-Pall a ajouté quatre palettes plastique Heavy à sa gamme : jusqu’à 1.375 kg en rayonnage, 3 ou 6 semelles, plateau ajouré ou fermé."
 eyebrow: "Actualités"
 tag: "Produit"
-crumb: "Q-Pall agrandit sa famille de palettes"
-h1: "Q-Pall agrandit sa famille **de palettes Heavy**"
-lead: "Les palettes se caractérisent par leur conception robuste, leur résistance aux chocs et leur capacité de charge de 1375 kg sur des rayonnages (Racks). La différence entre les quatre nouvelles palettes est leur dimension."
-img_alt: "Q-Pall agrandit sa famille de palettes Heavy"
-reading: 1
+crumb: "Extension des palettes Heavy"
+h1: "En 2021, Q-Pall a élargi sa famille de **palettes Heavy**"
+lead: "Au SITL Paris et au Fachpack, en septembre 2021, Q-Pall a présenté quatre palettes plastique Heavy. Robustes, résistantes aux chocs et capables de porter jusqu’à 1.375 kg en rayonnage de grande hauteur."
+img_alt: "Visuel d’annonce montrant une palette sous un drap orange et une loupe sur le logo Q-Pall"
+reading: 2
+updated: '2026-11-02'
 ---
-En plus de la version 3 semelles, les palettes sont disponibles avec 6 semelles et peuvent donc être utilisées pour le gerbage. Les palettes sont réalisées soit en plateau ajouré soit en plateau plein.
+> **En bref**
+>
+> * En septembre 2021, Q-Pall a présenté quatre palettes plastique Heavy aux salons SITL Paris et Fachpack.
+> * Les palettes sont robustes, résistantes aux chocs et portent jusqu’à 1.375 kg en rayonnage de grande hauteur.
+> * Les quatre modèles se distinguent par leurs dimensions.
+> * Elles existent avec 3 ou 6 semelles et avec un plateau ajouré ou fermé.
+> * Une couleur spécifique, un marquage client ou une puce RFID permet de les identifier facilement.
 
-Capables de satisfaire toutes les exigences spécifiques, les palettes sont disponibles avec ou sans rebord. L’identification des palettes peut être facilitée en sélectionnant différentes couleurs et/ou en appliquant un marquage spécifique du client.
+## Une gamme pour un usage intensif
 
-La nouvelle gamme de palettes lourdes sera présentée lors de la SITL Paris 2021 et du Fachpack 2021 au mois de septembre.
+En 2021, Q-Pall a élargi sa gamme de [palettes plastique Heavy](@class-heavy) avec une ligne complète de quatre modèles. Nous avons présenté ces palettes en septembre de la même année sur deux salons professionnels : le SITL à Paris et le Fachpack à Nuremberg.
+
+Les palettes sont conçues pour les charges lourdes et un usage intensif. Elles sont robustes, résistantes aux chocs et portent jusqu’à 1.375 kg en rayonnage à palettes de grande hauteur. Pour savoir ce que recouvre exactement la charge en rayonnage, consultez notre page sur [la capacité de charge des palettes plastique](@about-load).
+
+## Versions
+
+Les quatre modèles se distinguent par leurs dimensions. Vous pouvez en outre choisir parmi ces versions :
+
+* **3 ou 6 semelles.** En plus de la version à trois semelles, il existe une version à six semelles. Elle convient aussi au gerbage en bloc.
+* **Plateau ajouré ou fermé.** Un plateau ajouré laisse l’humidité s’écouler. Un plateau fermé offre une surface plane pour les petits produits et se nettoie facilement.
+
+## Faciles à identifier dans votre chaîne logistique
+
+Vous pouvez rendre les palettes Heavy reconnaissables grâce à :
+
+* **une couleur spécifique**, par exemple pour distinguer des pools ou des services ;
+* **un marquage client**, comme un logo ;
+* **une puce RFID**, pour identifier et suivre vos palettes.
+
+Pour en savoir plus sur les logos, les couleurs et les autres adaptations, consultez notre page sur les [palettes plastique sur mesure](@about-custom).
+
+Vous cherchez une palette Heavy pour vos rayonnages ou votre pool ? [Demandez un devis](@quote) ; vous recevrez en général un prix sur mesure sous un jour ouvré.

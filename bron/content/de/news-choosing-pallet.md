@@ -1,45 +1,71 @@
 ---
 id: news-choosing-pallet
-title: "Die Wahl der richtigen Kunststoffpalette – Q-Pall"
-description: "Tragfähigkeit, Abmessungen und mehr: Diese Faktoren sollten Sie prüfen, bevor Sie eine Kunststoffpalette für Ihre Anforderungen auswählen."
+title: "Die richtige Kunststoffpalette wählen: 7 Faktoren – Q-Pall"
+description: "Worauf achten Sie bei der Wahl einer Kunststoffpalette? Sieben Faktoren im Überblick: Belastung, Maße, Material, Nestbarkeit, Hygiene, Kosten und Umwelt."
 eyebrow: "Aktuelles"
 tag: "Wissen"
-crumb: "Die Wahl der richtigen Kunststoffpalette"
-h1: "Die Wahl **der richtigen Kunststoffpalette**"
-lead: "Tragfähigkeit, Abmessungen und mehr: Diese Faktoren sollten Sie prüfen, bevor Sie eine Kunststoffpalette für Ihre Anforderungen auswählen."
-img_alt: "Die Wahl der richtigen Kunststoffpalette"
-reading: 4
+crumb: "Die richtige Kunststoffpalette"
+h1: "Die Wahl **der richtigen Kunststoffpalette**: sieben Faktoren"
+lead: "Bei der Wahl einer Kunststoffpalette zählt mehr als nur der Preis. Das sind die sieben wichtigsten Faktoren, von Belastung und Maßen bis zu Hygiene und Umwelt, und so wägen Sie sie ab."
+img_alt: "Schwarze Kunststoffpalette mit offenem Gitterdeck auf drei Kufen"
+reading: 3
+faq:
+- q: "Worauf muss ich bei der Wahl einer Kunststoffpalette achten?"
+  a: "Beginnen Sie mit der Belastung und den Abmessungen Ihrer Ladung. Achten Sie danach auf das Material, ob die Palette nestbar sein muss, die Hygieneanforderungen, die Kosten über die gesamte Lebensdauer und die Umweltwirkung."
+- q: "Was ist der Unterschied zwischen statischer und dynamischer Belastung?"
+  a: "Die statische Belastung ist das Gewicht, das eine Palette im Stand trägt, zum Beispiel auf dem Boden. Die dynamische Belastung ist das Gewicht beim Bewegen mit Gabelstapler oder Hubwagen. Für die Lagerung im Palettenregal gilt ein eigener Wert."
+- q: "Ist eine Kunststoffpalette teurer als eine Holzpalette?"
+  a: "Der Anschaffungspreis ist oft etwas höher. Eine Kunststoffpalette hält jedoch länger und braucht weniger Wartung. Dadurch fallen die Kosten über die gesamte Lebensdauer oft niedriger aus."
+updated: '2026-11-02'
 ---
-**Wenn es um die Wahl einer Palette geht, gibt es viele Optionen zur Verfügung. Eine davon sind [Kunststoffpaletten](@pallets). Kunststoffpaletten bieten mehrere Vorteile gegenüber anderen Materialien wie Holz oder Metall. Um jedoch die richtige Wahl zu treffen, gibt es mehrere Faktoren zu berücksichtigen, wenn man eine Kunststoffpalette wählt, die für die eigenen Bedürfnisse geeignet ist. Im Folgenden sind einige wichtige Überlegungen aufgeführt.**
+> **Kurz gesagt**
+>
+> * Beginnen Sie mit der Belastung: statisch, dynamisch und im Regal.
+> * Die Größe ergibt sich aus Ihrer Ladung und aus Ihren Regalen, Lkw und Containern.
+> * Unsere Standardpaletten bestehen aus recyceltem Kunststoff; für direkten Lebensmittelkontakt gibt es Paletten aus Neuware.
+> * Nestbare Paletten sparen Platz bei Lagerung und Rücktransport.
+> * Achten Sie auf die Kosten über die gesamte Lebensdauer, nicht nur auf den Anschaffungspreis.
 
-## Tragfähigkeit
+Bei der Wahl einer Palette haben Sie viele Möglichkeiten. Kunststoffpaletten bieten Vorteile gegenüber Holz oder Metall, doch auch zwischen Kunststoffpaletten gibt es große Unterschiede. Um die richtige Kunststoffpalette zu wählen, stellen Sie die wichtigsten Faktoren zusammen. Möchten Sie direkt loslegen? Dann nutzen Sie unsere [Schritt-für-Schritt-Anleitung zur Wahl einer Kunststoffpalette](@guide-choose).
 
-Die Tragfähigkeit der Palette ist wahrscheinlich eine der wichtigsten Überlegungen. Es ist wichtig zu wissen, welche Gewichtslast die Palette tragen kann, bevor sie bricht oder beschädigt wird. Dies kann von der Größe, dem Design und dem Material abhängen, das für die Palette verwendet wird. Es ist wichtig, das Gewicht der Last, die transportiert oder gelagert werden soll, zu berücksichtigen, um sicherzustellen, dass die Palette für die eigenen Bedürfnisse geeignet ist. Zusätzlich sollte man die dynamische und statische Tragfähigkeit der Palette berücksichtigen und, falls sie auf einem Regalsystem platziert wird, das maximale Gewicht, das die Palette tragen muss.
+## Belastung: Wie viel muss die Palette tragen?
 
-## Maße
+Die Tragfähigkeit ist wahrscheinlich der wichtigste Faktor. Wie viel Gewicht eine Palette aushält, hängt von Konstruktion und Material ab. Jede Palette hat drei Belastungswerte:
 
-Die Maße der Palette sind auch wichtig. Je nach Größe der zu transportierenden Last muss man eine Palette wählen, die groß genug ist, um die Last sicher zu tragen und zu transportieren. Die Abmessungen der Transportfahrzeuge wie Anhänger oder Container sind jedoch auch entscheidend. Unsere Produkte gibt es in verschiedenen Größen. Daher ist es wichtig, die richtigen [Palettenabmessungen](@guide-sizes) für die eigenen spezifischen Bedürfnisse zu wählen.
+* **Statisch.** Die Palette steht auf dem Boden, zum Beispiel bei der Blockstapelung.
+* **Dynamisch.** Die Palette wird mit Gabelstapler, Hubwagen oder Rollenbahn bewegt.
+* **Regal.** Die Palette liegt in einem Palettenregal ohne Fachböden.
 
-## Material
+Achten Sie auf den Wert, der zu Ihrem Einsatz passt, und planen Sie eine Reserve ein. Die angegebenen Werte gelten für eine gleichmäßig verteilte Last. Mehr dazu lesen Sie unter [Tragfähigkeit von Kunststoffpaletten](@about-load).
 
-Kunststoffpaletten gibt es auch in verschiedenen Materialien, von denen jedes seine eigenen Vor- und Nachteile hat. Man kann Kunststoffpaletten für Export oder Pooling, Festigkeit und Haltbarkeit, Gewicht und Widerstandsfähigkeit sowie andere Kriterien in Betracht ziehen, wenn man eine Kunststoffpalette wählt. Es ist wichtig, die Eigenschaften jedes Materials zu verstehen und dasjenige auszuwählen, das den eigenen Bedürfnissen am besten entspricht.
+Unsere Paletten sind in drei Lastklassen eingeteilt. Light-Paletten sind leicht und oft nestbar, für Export und Einwegeinsatz. Medium-Paletten sind die Allrounder für den innerbetrieblichen Transport und leichte Regalbelastung. Heavy-Paletten sind für intensiven Einsatz und Palettenregale gemacht und tragen bis zu 7.500 kg statisch.
 
-## Nestbarkeit
+## Abmessungen: Passt die Palette zu Ladung und Transport?
 
-Einige Kunststoffpaletten sind nestbar, was bedeutet, dass sie bei Nichtgebrauch ineinander gestapelt werden können, um Platz zu sparen. Dies kann besonders nützlich sein, wenn man über begrenzten Lagerplatz verfügt oder Rücksendungen bearbeiten muss. Es ist wichtig zu überprüfen, ob die Paletten, die man in Betracht zieht, nestbar sein müssen, und wie viel Platz man dadurch sparen kann.
+Die Palette muss groß genug sein, um Ihre Ladung gut zu tragen und sicher zu transportieren. Auch Ihre Transportmittel und Regale bestimmen die Größe: Die Paletten müssen in Ihren Lkw, Auflieger oder Container passen. In Europa ist 1200 x 800 mm der Standard. Unser Sortiment umfasst rund 130 Modelle in neun Formaten, von 600 x 400 bis 1300 x 1100 mm. In unserer Übersicht der [Palettengrößen](@guide-sizes) finden Sie alle auf einen Blick.
+
+## Material und Gewicht
+
+Nicht jede Kunststoffpalette besteht aus demselben Material. Unsere Standardpaletten fertigen wir aus recyceltem Kunststoff, einer Mischung aus HDPE und PP. Unsere Hygienepaletten, H1-Paletten und Reinraumpaletten bestehen aus Neuware, in einer eigenen Farbe. Paletten aus recyceltem Kunststoff sind nicht für den direkten Kontakt mit Lebensmitteln gedacht.
+
+Kunststoffpaletten sind oft leichter als Holz, das hängt aber vom Typ ab. Eine Light-Palette ist viel leichter als eine Holz-Europalette mit rund 25 kg. Eine Heavy-Palette wiegt 17 bis 28 kg.
+
+## Nestbarkeit: Platz sparen
+
+Manche Kunststoffpaletten sind nestbar: Leere Paletten lassen sich ineinanderschieben. Das spart Platz bei Lagerung und Rücktransport. Ein voller Stapel umfasst zum Beispiel 45 [nestbare Paletten](@type-nestable), gegenüber 17 Medium-Paletten. Nestbare Paletten sind meist Light-Paletten. Brauchen Sie vor Ort doch mehr Stabilität? Dann können Sie Klick-Kufen darunter anbringen.
 
 ## Hygiene
 
-Wenn Hygiene ein wichtiger Faktor für die eigene Anwendung ist, sollte man eine Palette wählen, die einfach zu reinigen ist und keine Feuchtigkeit aufnimmt. Kunststoffpaletten sind von Natur aus hygienischer als Holzpaletten, weil sie nicht splittern und keine Bakterien oder Insekten anhaften und sich verbreiten lassen. Wenn es um besonders hohe Anforderungen und strenge Vorschriften bezüglich der Produkthygiene sowie der Produktionsumgebung geht, kann man sich auch für die für Reinräume geeignete Palette entscheiden. Diese komplett geschlossene [Hygienepalette](@type-hygienic) setzt mit ihrer glatten Oberfläche.
+Ist Hygiene in Ihrer Anwendung wichtig? Dann wählen Sie eine Palette, die keine Feuchtigkeit aufnimmt und sich gut reinigen lässt. Anders als Holz splittern Kunststoffpaletten nicht und nehmen keine Feuchtigkeit auf. Für direkten Lebensmittelkontakt oder bei strengen Anforderungen an Ihre Produktionsumgebung wählen Sie eine [Hygienepalette](@type-hygienic) oder eine Reinraumpalette aus Neuware mit glattem Deck.
 
-## Kosten
+## Kosten über die gesamte Lebensdauer
 
-Schließlich ist der Preis ein wichtiger Faktor bei der Auswahl einer Kunststoffpalette. Der Preis kann je nach Größe, Material, Eigenschaften, Qualität und Menge der Palette variieren. Es ist wichtig, die Kosten zu berücksichtigen, aber auch die Gesamtkosten auf lange Sicht zu betrachten. Kunststoffpaletten haben oft einen etwas höheren Anschaffungspreis als Holzpaletten, je nach Rohstoffpreisen und Produktionskosten. Sie halten jedoch letztendlich länger und erfordern weniger Wartung, was die Gesamtkosten auf lange Sicht reduziert. Weiterhin kann die Verwendung von Kunststoffpaletten dazu beitragen, Betriebskosten wie Kosten für Schäden, Reparaturen oder Entsorgung gebrochener Paletten zu reduzieren.
+Der Preis hängt von Format, Ausführung, Material und Menge ab. Kunststoffpaletten haben oft einen etwas höheren Anschaffungspreis als Holzpaletten. Sie halten jedoch länger und brauchen weniger Wartung. Dadurch sind die Gesamtkosten auf lange Sicht oft niedriger, ebenso wie die Kosten für Schäden, Reparaturen und die Entsorgung kaputter Paletten.
 
-## Umweltfreundlichkeit
+Zählt vor allem das Budget? Gebrauchte Kunststoffpaletten von Q-Used sind geprüft und bis zu 40 % günstiger als neue.
 
-Wenn Nachhaltigkeit und Umweltfreundlichkeit immer wichtiger werden, ist die Wahl von Kunststoffpaletten ebenfalls eine logische Entscheidung. Q-Pall-Paletten bestehen zu 99 % aus recyceltem Kunststoff und sind am Ende ihres Lebenszyklus zu 100 % recycelbar und wiederverwendbar. Dies macht die Verwendung von Kunststoffpaletten zu einer nachhaltigen Wahl.
+## Umwelt
 
-Zusammenfassend gibt es bei der Wahl einer Kunststoffpalette mehrere Faktoren zu berücksichtigen. Es ist wichtig, das Gewicht, die Abmessungen, das Material, die Nestbarkeit, die Hygiene, die Kosten und die Umweltfreundlichkeit zu berücksichtigen. Durch Berücksichtigung dieser Faktoren und Wahl der richtigen Palette können Sie sicherstellen, dass Ihre Waren sicher und effizient transportiert werden und dabei Kosten und Abfall minimiert werden, was direkt zu einer nachhaltigeren Zukunft beiträgt. Wenn Sie Hilfe bei der Auswahl der richtigen Palette benötigen, können Sie uns jederzeit kontaktieren und unsere Spezialisten werden Ihnen bei der richtigen Wahl helfen.
+Nachhaltigkeit wird für viele Unternehmen immer wichtiger. Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff. Am Ende ihrer Lebensdauer sind sie vollständig recycelbar: Wir nehmen sie zurück und vermahlen sie zu Rohstoff für neue Paletten.
 
-Letztendlich kann die Wahl der richtigen Kunststoffpalette einen erheblichen Einfluss auf Ihre Supply-Chain-Operationen haben. Es kann dazu beitragen, dass Ihre Produkte sicher, effizient und nachhaltig transportiert werden, während gleichzeitig Kosten und Abfall minimiert werden. Indem Sie sich Zeit nehmen, die oben diskutierten Faktoren zu berücksichtigen und die richtige Kunststoffpalette für Ihre Bedürfnisse auszuwählen, können Sie dazu beitragen, Ihre Supply-Chain-Operationen zu optimieren und eine nachhaltigere Zukunft zu unterstützen.
+Sie sind nicht sicher, welche Palette am besten zu Ihrer Ladung und Ihrem Prozess passt? Sagen Sie uns, was Sie transportieren, wie Sie lagern und wie viele Paletten Sie benötigen. [Fordern Sie ein Angebot an](@quote), dann erhalten Sie in der Regel innerhalb eines Werktags einen individuellen Preis.

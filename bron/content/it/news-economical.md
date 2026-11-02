@@ -1,37 +1,75 @@
 ---
 id: news-economical
-title: "Economico oggi, costoso domani: scegliere i pallet giusti"
-description: "Non tutti i pallet in plastica sono uguali. Scoprite perché quelli realizzati con plastiche RIC 7 possono incidere sulla riciclabilità e sui vostri costi."
+title: "Codice RIC 7: economico oggi, costoso domani – Q-Pall"
+description: "I pallet in plastica con codice RIC 7 sembrano convenienti, ma di cosa sono fatti e si riciclano? Perché il tipo di plastica conta per costi e PPWR."
 eyebrow: "Notizie"
 tag: "Approfondimento"
 crumb: "Economico oggi, costoso domani"
 h1: "Economico oggi, costoso domani: **scegliere i pallet giusti**"
-lead: "Non tutti i pallet in plastica sono uguali. Scoprite perché quelli realizzati con plastiche RIC 7 possono incidere sulla riciclabilità e sui vostri costi."
-img_alt: "Economico oggi, costoso domani: scegliere i pallet giusti"
-reading: 4
+lead: "Un pallet in plastica con codice RIC 7 sembra conveniente all’acquisto, ma può costarvi caro in seguito. Perché il tipo di plastica conta per il riciclo, le norme e i vostri costi."
+img_alt: "Pallet in plastica nero con piano aperto su tre slitte"
+reading: 3
+faq:
+- q: "Cosa significa il codice RIC 7 su un prodotto in plastica?"
+  a: "Il codice 7 è la categoria generica per le «altre» plastiche: materiali che non rientrano nei codici da 1 a 6, oppure combinazioni di plastiche. Il codice dice quindi poco sulla composizione esatta."
+- q: "I pallet in plastica con codice 7 sono difficili da riciclare?"
+  a: "Spesso sì. Molti impianti di riciclo non sono attrezzati per queste «altre» plastiche. Chiedete quindi sempre la composizione e cosa succede al pallet a fine vita."
+- q: "Di cosa sono fatti i pallet Q-Pall?"
+  a: "I nostri pallet standard sono in plastica riciclata, una miscela di HDPE (2) e PP (5). Solo i nostri pallet igienici, i pallet H1 e i pallet per camera bianca sono in plastica vergine. A fine vita i nostri pallet sono completamente riciclabili."
+published: '2023-10-09'
+updated: '2026-11-02'
 ---
-Nel nostro post sul blog precedente, abbiamo ulteriormente spiegato i Codici di Identificazione della Resina (RIC) dei materiali plastici e il loro ruolo fondamentale nella creazione di un futuro sostenibile. Quando si tratta di logistica, magazzinaggio e spedizione, i pallet sono uno strumento indispensabile. Tradizionalmente realizzati in legno, un numero crescente di aziende sta optando per i pallet in plastica per la loro durata, longevità, pulizia e riciclabilità. Tuttavia, non tutti i pallet in plastica sono creati uguali. Capire il tipo di plastica utilizzata nella loro costruzione è fondamentale per garantire la riciclabilità.
+> **In breve**
+>
+> * Il codice RIC nel piccolo triangolo indica di quale plastica è fatto un prodotto. Il codice 7 indica le «altre» plastiche e le combinazioni.
+> * Con il codice 7 spesso non sapete esattamente cosa contiene, e il riciclo è difficile.
+> * Questo può costare caro più avanti, per esempio nello smaltimento. Con il PPWR, inoltre, dal 2030 gli imballaggi dovranno essere riciclabili.
+> * Al momento dell’acquisto chiedete la composizione e cosa succede al pallet a fine vita.
+> * I nostri pallet standard sono in HDPE (2) e PP (5) riciclati. Li ritiriamo per riciclarli.
 
-Una categoria sulla quale potresti voler riflettere è quella dei pallet realizzati con plastiche che portano il Codice di Identificazione della Resina (RIC) di 7, spesso contrassegnate con un "7" all'interno di un simbolo a forma di freccia triangolare.
+## Un prezzo basso non dice tutto
 
-## Ecco perché
+Nella logistica, nello stoccaggio e nelle spedizioni i pallet sono indispensabili. Sempre più aziende scelgono pallet in plastica, perché durano a lungo, si puliscono facilmente e si possono riciclare. Ma non tutti i pallet in plastica sono uguali.
 
-A prima vista, i pallet in plastica realizzati con plastiche RIC codice 7 possono sembrare una soluzione economica per la tua azienda. Il loro prezzo di acquisto iniziale può essere molto allettante, soprattutto per le organizzazioni che cercano di ridurre i costi immediati. Tuttavia, è essenziale guardare oltre il risparmio iniziale e considerare le implicazioni a lungo termine. Sebbene questi pallet possano costare meno in anticipo, spesso presentano costi nascosti, in particolare per quanto riguarda il riciclaggio. Molte strutture di riciclaggio non sono attrezzate per gestire le plastiche RIC codice 7, portando a possibili tariffe di smaltimento o addirittura sanzioni normative in futuro. Quello che potrebbe sembrare un affare oggi potrebbe rivelarsi un errore costoso in futuro, influenzando sia i tuoi profitti che la tua impronta ecologica.
+Un pallet realizzato con una plastica con codice RIC 7 può sembrare una scelta conveniente. Il prezzo d’acquisto è interessante, soprattutto se volete ridurre i costi in fretta. Guardate comunque oltre l’acquisto, perché i costi veri arrivano spesso dopo.
 
-Cosa significa RIC Codice 7? Il sistema dei Codici di Identificazione della Resina, originariamente creato per aiutare nel riciclaggio, categorizza le plastiche in sette diversi tipi basati sulla loro composizione materiale. Mentre i codici da 1 a 6 corrispondono a specifici tipi di plastica ben definiti, il codice 7 funge da categoria "catch-all" per altre plastiche. Questi potrebbero essere materiali che non rientrano nelle altre categorie o sono composti da diversi tipi di resina.
+## Cosa significa il codice RIC 7?
 
-## Perché dovresti essere preoccupato?
+Il Resin Identification Code (RIC) è un sistema di sette codici. Indicano di quale plastica è fatto un prodotto. I codici da 1 a 6 corrispondono a sei plastiche molto diffuse, come l’HDPE (2) e il PP (5).
 
-1. Mancanza di trasparenza Dato che il codice 7 è una categoria "catch-all", non fornisce molte informazioni su ciò che la plastica contiene effettivamente. Questa mancanza di trasparenza può essere problematica per le aziende che richiedono determinati standard di sicurezza o igiene, poiché alcune plastiche con codice 7 potrebbero potenzialmente contenere additivi o sostanze chimiche dannose.
-2. Riciclabilità limitata Uno dei principali svantaggi delle plastiche RIC codice 7 è che spesso non sono riciclabili o sono difficili da riciclare. In molte giurisdizioni, gli impianti di riciclaggio non sono attrezzati per gestire queste plastiche "altre". Pertanto, questi pallet potrebbero finire nelle discariche alla fine del loro ciclo di vita, contribuendo al degrado ambientale.
-3. Fattore di costo La sfida del riciclaggio spesso associata alle plastiche RIC 7 potrebbe anche significare potenziali costi futuri per la tua azienda. Con la crescente spinta verso la sostenibilità e il riciclaggio, optare per pallet non riciclabili potrebbe comportare future tariffe di smaltimento o addirittura sanzioni normative.
+Il codice 7 è una categoria generica per le «altre» plastiche. Si tratta di materiali che non rientrano negli altri gruppi, oppure di combinazioni di più plastiche. Trovate tutti e sette i codici nell’articolo [i codici RIC delle materie plastiche](@news-ric).
 
-## Quali sono le alternative?
+## Perché il codice 7 merita attenzione
 
-Se sei preoccupato per i potenziali problemi associati ai pallet in plastica RIC 7, considera i pallet realizzati con plastiche con altri codici RIC come PET (1) o HDPE (2). Questi materiali non sono solo ampiamente riciclabili, ma tendono anche ad essere forti, durevoli e sicuri per una varietà di applicazioni. Molte aziende producono specificamente pallet con queste plastiche più sostenibili e composte in modo trasparente, facilitandoti la scelta informata.
+### Composizione sconosciuta
 
-## Conclusione
+Il codice 7 dice poco su cosa contenga davvero il materiale. Alcune plastiche di questo gruppo possono contenere additivi che preferireste non avere nella vostra filiera. È un problema se dovete rispettare requisiti di sicurezza o di igiene.
 
-Sebbene i pallet in plastica offrano una serie di vantaggi rispetto ai loro omologhi in legno, è essenziale sapere con quale tipo di plastica hai a che fare. I pallet realizzati con plastiche RIC codice 7 presentano una serie di preoccupazioni, che vanno dalla riciclabilità limitata a potenziali problemi di sicurezza. Come acquirente coscienzioso, dovresti considerare questi fattori e possibilmente cercare alternative che siano migliori non solo per le tue operazioni ma anche per il pianeta.
+### Riciclabilità limitata
 
-Quando si tratta di fare una scelta ecologicamente responsabile per le tue esigenze di gestione dei materiali, Q-Pall offre una soluzione rassicurante. Tutti i pallet in plastica Q-Pall sono esclusivamente realizzati con plastiche che portano il Codice di Identificazione della Resina (RIC) di 2, noto anche come Polietilene ad Alta Densità (HDPE). Questo materiale è ampiamente riconosciuto per la sua alta riciclabilità, garantendo che questi pallet possano essere facilmente raccolti, elaborati e trasformati in nuovi prodotti alla fine del loro ciclo di vita. Utilizzando plastiche con codice RIC 2, Q-Pall non solo fornisce pallet durevoli e affidabili, ma garantisce anche la circolarità dei loro prodotti. Scegliendo Q-Pall, opti per una soluzione sostenibile a lungo termine che minimizza gli sprechi e massimizza l'efficienza delle risorse, allineando le pratiche commerciali ai principi dell'economia circolare.
+Le plastiche con codice 7 sono spesso difficili o impossibili da riciclare. Molti impianti di riciclo non sono attrezzati per trattarle. Questi pallet finiscono quindi spesso in discarica o nell’inceneritore, invece di diventare materia prima per nuovi prodotti.
+
+### Costi nel tempo
+
+Un pallet che non si può riciclare costa denaro al momento dello smaltimento. Anche le norme diventano più severe. Dal 12 agosto 2026 si applica il regolamento europeo sugli imballaggi (PPWR), e i pallet vi rientrano come imballaggi da trasporto.
+
+Dal 2030 gli imballaggi dovranno essere riciclabili in classe A, B o C. La classe C significa almeno il 70%.
+
+Prima ne tenete conto, meno sorprese avrete. Approfondite il tema in [PPWR e pallet in plastica](@guide-ppwr).
+
+## A cosa fare attenzione nell’acquisto?
+
+* **Chiedete la composizione.** Un buon fornitore vi dice di quali plastiche è fatto il pallet.
+* **Chiedete cosa succede a fine vita.** Il fornitore ritira i pallet, e tornano a essere materia prima?
+* **Chiedete la documentazione.** Con il PPWR potete chiedere al produttore una dichiarazione di conformità.
+* **Ragionate in costo per viaggio.** Un pallet che dura molti anni e poi viene riciclato è spesso più conveniente per viaggio. Vedete anche [quanto costa un pallet in plastica](@guide-prices).
+
+## Con cosa realizziamo i nostri pallet?
+
+Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%: una miscela di HDPE (codice 2) e PP (codice 5). I nostri pallet Light contengono anche LDPE (codice 4). Sono tutte poliolefine, plastiche che si comportano in modo simile nel riciclo.
+
+A fine vita i nostri pallet sono completamente riciclabili. Li ritiriamo e li maciniamo per ottenere materia prima per nuovi pallet. I pallet usati in buone condizioni hanno una seconda vita grazie a Q-Used.
+
+Per i nostri modelli trovate la dichiarazione PPWR da scaricare nella pagina del prodotto. Scoprite di più sul nostro approccio nella pagina [sostenibilità](@about-sustainability).
+
+Volete sapere quale pallet è adatto al vostro processo e quanto costa per viaggio? [Richiedete un preventivo](@quote): di solito ricevete un prezzo su misura entro un giorno lavorativo.

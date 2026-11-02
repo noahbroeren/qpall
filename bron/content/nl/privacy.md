@@ -19,7 +19,7 @@ Als u een formulier op deze website invult, verwerken we de gegevens die u zelf 
 
 - Om uw vraag te beantwoorden of uw offerteaanvraag te behandelen.
 - Om een overeenkomst met u aan te gaan en uit te voeren, zoals een levering.
-- Om transporten bij onze locatie te plannen.
+- Om transporten op onze locaties te plannen.
 - Om sollicitaties te behandelen.
 - Om met uw toestemming te meten hoe de website wordt gebruikt en onze marketing te verbeteren.
 - Om te voldoen aan wettelijke verplichtingen, zoals de fiscale bewaarplicht.

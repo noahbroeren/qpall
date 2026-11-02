@@ -1,25 +1,42 @@
 ---
 id: news-ecovadis-silver
-title: "Q-Pall behaalt EcoVadis zilveren medaille – Q-Pall"
-description: "Q-Pall heeft op 15 april 2023 de EcoVadis zilveren medaille ontvangen en behoort daarmee tot de top 20% van de meest duurzame bedrijven wereldwijd."
+title: "EcoVadis zilveren medaille in april 2023 – Q-Pall"
+description: "In april 2023 behaalde Q-Pall de EcoVadis zilveren medaille en hoorde daarmee bij de top 20% van de beoordeelde bedrijven. Lees wat dat betekende."
 eyebrow: "Nieuws"
 tag: "Duurzaamheid"
-crumb: "Q-Pall behaalt EcoVadis zilveren medaille"
-h1: "Q-Pall behaalt **EcoVadis zilveren medaille**"
-lead: "Q-Pall heeft op 15 april 2023 de EcoVadis zilveren medaille ontvangen en behoort daarmee tot de top 20% van de meest duurzame bedrijven wereldwijd."
-img_alt: "Q-Pall behaalt EcoVadis zilveren medaille"
+crumb: "EcoVadis zilver in 2023"
+h1: "Q-Pall behaalde in 2023 de **EcoVadis zilveren medaille**"
+lead: "Op 15 april 2023 ontving Q-Pall de zilveren medaille van EcoVadis. Daarmee hoorde Q-Pall bij de beste 20% van de bedrijven die EcoVadis wereldwijd beoordeelt."
+img_alt: "Badge van de EcoVadis zilveren medaille 2023 (Sustainability Rating)"
 reading: 2
+published: '2023-04-26'
+updated: '2026-11-02'
 ---
-Q-Pall, een toonaangevende producent van [kunststof pallets](@pallets), is verheugd te kunnen aankondigen dat het bedrijf de prestigieuze EcoVadis Zilveren Medaille heeft ontvangen op 15 april 2023. Dankzij deze erkenning behoort Q-Pall nu tot de top 20% van de meest duurzame bedrijven wereldwijd.
+> **In het kort**
+>
+> * Op 15 april 2023 ontving Q-Pall de zilveren medaille van EcoVadis.
+> * Daarmee hoorde Q-Pall bij de top 20% van de door EcoVadis beoordeelde bedrijven.
+> * EcoVadis beoordeelt bedrijven onafhankelijk op hun milieu-, sociale en ethische prestaties.
+> * In 2025 en in oktober 2026 behaalde Q-Pall de bronzen medaille.
 
-EcoVadis is een internationaal beoordeelplatform dat bedrijven evalueert op hun milieu-, sociale en ethische prestaties. Het is een onafhankelijke en betrouwbare indicator van de duurzaamheidsprestaties van een bedrijf, die wereldwijd wordt erkend door klanten en partners.
+## Wat is EcoVadis?
 
-Deze Zilveren Medaille getuigt van de voortdurende inspanningen van Q-Pall om zijn ecologische voetafdruk te verkleinen, sociale verantwoordelijkheid te nemen en hoge ethische normen te handhaven in zijn bedrijfsvoering. Het bedrijf heeft consequent gewerkt aan het verbeteren van zijn productieprocessen en het versterken van zijn toewijding aan duurzaamheid.
+EcoVadis is een internationaal beoordelingsplatform. Het beoordeelt bedrijven op hun prestaties op het gebied van milieu, sociale omstandigheden en ethiek. Klanten en partners over de hele wereld gebruiken de beoordeling als onafhankelijke graadmeter voor de duurzaamheid van een leverancier.
 
-De directie van Q-Pall is bijzonder trots op deze erkenning en ziet het als een bevestiging van de effectiviteit van de maatregelen die het bedrijf heeft genomen om een positieve bijdrage te leveren aan mens en milieu. Q-Pall is vastbesloten om zijn duurzaamheidsinspanningen verder te versterken en streeft ernaar om in de toekomst nog betere resultaten te behalen op het gebied van duurzaamheid en maatschappelijk verantwoord ondernemen.
+## Zilver in april 2023
 
-## Over Q-Pall
+In april 2023 behaalde Q-Pall de zilveren medaille van EcoVadis. Daarmee hoorde Q-Pall bij de top 20% van de beoordeelde bedrijven.
 
-Q-Pall is een innovatieve producent van hoogwaardige [kunststof pallets](@pallets) en heeft een sterke focus op duurzaamheid en circulariteit. Het bedrijf biedt een breed scala aan palletoplossingen voor verschillende industrieën, waaronder chemie, logistiek, voedingsmiddelen, farmaceutica en retail. Q-Pall is trots op zijn milieuvriendelijke productieprocessen, het gebruik van gerecyclede materialen en de lange levensduur van zijn pallets, waardoor afval wordt geminimaliseerd en natuurlijke hulpbronnen worden gespaard.
+De medaille was een erkenning voor ons werk om de ecologische voetafdruk te verkleinen, sociale verantwoordelijkheid te nemen en hoge ethische normen te hanteren. Dat zit vooral in de manier waarop we pallets maken:
 
-Voor meer informatie over Q-Pall en zijn duurzaamheidsinitiatieven kunt u terecht op www.qpall.com of neem contact op met John van Boesschoten via [boesschoten@qpall.com](mailto:boesschoten@qpall.com) of [+31 6 24506309](tel:+31624506309).
+* **Gerecycled kunststof.** Onze standaardpallets maken we van bijna 100% gerecycled kunststof.
+* **Lokale productie.** We produceren zo dicht mogelijk bij de klant, zodat er minder transport nodig is. Lees meer over [lokaal produceren](@about-local).
+* **Een lange levensduur.** Een kunststof pallet gaat vele jaren mee. Daarna nemen we hem terug en vermalen we hem tot grondstof voor nieuwe pallets.
+
+De directie van Q-Pall zag de medaille als een bevestiging dat de genomen maatregelen werkten, en als een aansporing om verder te verbeteren op het gebied van duurzaamheid en maatschappelijk verantwoord ondernemen.
+
+## Brons in 2025 en 2026
+
+Na de zilveren medaille van 2023 behaalde Q-Pall in 2025 de bronzen medaille van EcoVadis. In oktober 2026 volgde opnieuw brons. Daarmee horen we bij de beste 35% van de beoordeelde bedrijven. Op de pagina [duurzaamheid](@about-sustainability) leest u hoe we werken aan duurzame [kunststof pallets](@pallets), van grondstof tot recycling.
+
+Heeft u voor een leveranciersbeoordeling of uw eigen duurzaamheidsrapportage informatie over Q-Pall nodig? [Neem contact met ons op](@contact).

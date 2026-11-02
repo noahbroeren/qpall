@@ -1,7 +1,7 @@
 ---
 id: sector-retail
 title: "Kunststoffpaletten für Handel und Supermärkte – Q-Pall"
-description: "Kunststoffpaletten für den Handel: Display- und Europaletten, die ohne Umpacken vom Lager ins Regal gehen. Leicht, hygienisch, wiederverwendbar, mit IoT."
+description: "Kunststoffpaletten für den Handel: Display- und Europaletten, die ohne Umpacken vom Lager ins Regal gehen. Leicht, gut zu reinigen und wiederverwendbar."
 eyebrow: "Branche"
 h1: "Kunststoffpaletten für den **Handel**"
 lead: "Im Handel muss die Logistik schnell, sauber und nachhaltig sein. Mit Displaypaletten gelangen Produkte ohne Umpacken ins Regal, und Europaletten halten viele Umläufe."
@@ -10,7 +10,7 @@ faq:
   - q: "Welchen Vorteil haben Displaypaletten in der Filiale?"
     a: "Eine Displaypalette wird im Verteilzentrum beladen und geht direkt in die Filiale. Umpacken ist nicht nötig. Das spart Zeit in der Filiale und sorgt für eine ordentliche Präsentation."
   - q: "Lassen sich Kunststoffpaletten verfolgen?"
-    a: "Ja. Gemeinsam mit Auchan und IBM setzen wir in Frankreich 50.000 intelligente Paletten mit IoT-Technologie zur Erfassung von Standort, Temperatur und Stößen ein. Kontaktieren Sie uns, wenn Sie mehr über intelligente Paletten erfahren möchten."
+    a: "Ja. Gemeinsam mit Auchan und IBM haben wir in Frankreich [50.000 intelligente Paletten](@news-auchan) mit IoT-Technologie zur Erfassung von Standort, Temperatur und Stößen in Betrieb genommen. Kontaktieren Sie uns, wenn Sie mehr über intelligente Paletten erfahren möchten."
   - q: "Sind Kunststoffpaletten im Handel teurer als Holz?"
     a: "Pro Stück oft ja. Pro Umlauf meist nicht. Kunststoffpaletten halten viel länger, werden seltener beschädigt und müssen nicht repariert werden. Mehr dazu in unserem [Preisratgeber](@guide-prices)."
 ---

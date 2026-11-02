@@ -54,4 +54,5 @@
 {% if page_id == 'dealers' and dealer_list and page.fm.list %}{% include '_dealers_more.html' %}{% endif %}
 
 {% if page.faq %}{{ M.faq_section(page.faq, lang, t, soft=not recommend) }}{% endif %}
+{% if news_rel %}{{ M.news_related(news_rel, t, urls, soft=(recommend if page.faq else True)) }}{% endif %}
 {% endblock %}

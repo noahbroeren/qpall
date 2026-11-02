@@ -1,27 +1,61 @@
 ---
 id: news-why-plastic
 title: "Why companies choose plastic pallets – Q-Pall"
-description: "Plastic pallets do not rot or splinter, need less maintenance and are easy to clean. Read the 3 main reasons companies switch from wooden pallets."
+description: "Plastic pallets do not rot or splinter, are easy to clean and last for years. The three main reasons why companies switch from wooden to plastic pallets."
 eyebrow: "News"
 tag: "Know-how"
-crumb: "Why companies choose plastic pallets"
+crumb: "Why plastic pallets?"
 h1: "Why companies **choose plastic pallets**"
-lead: "Plastic pallets do not rot or splinter, need less maintenance and are easy to clean. Read the 3 main reasons companies switch from wooden pallets."
-img_alt: "Why companies choose plastic pallets"
+lead: "Plastic pallets do not rot or splinter, are easy to clean and last for many years. These are the three main reasons why companies switch from wood to plastic."
+img_alt: "Warehouse worker with an electric pallet truck next to a stack of blue plastic pallets"
 reading: 2
+faq:
+- q: "Are plastic pallets more expensive than wooden pallets?"
+  a: "To buy, usually yes. But a plastic pallet lasts much longer and does not need to be repaired or treated. As a result, plastic is often cheaper per trip."
+- q: "Are plastic pallets lighter than wooden pallets?"
+  a: "Often, but it depends on the type. Light pallets are much lighter than wood. A heavy plastic pallet weighs 17 to 28 kg, a wooden Euro pallet about 25 kg."
+- q: "Are plastic pallets really sustainable?"
+  a: "Yes, if they last a long time and are recycled afterwards. Our standard pallets are made from almost 100% recycled plastic and are fully recyclable at the end of their life."
+published: '2021-12-10'
+updated: '2026-11-02'
 ---
-**Anyone who transports goods or needs to store them, will usually make use of pallets. These basic-looking plateaus were designed specifically to conveniently stack and transport goods. In addition to wooden pallets, also plastic pallets are available in the market. These pallets come in different forms, shapes and sizes and have several advantages relative to wooden pallets. Learn more here about the 3 main reasons to switch to plastic pallets from now on!**
+> **In short**
+>
+> * **User-friendly:** no rot, splinters or nails, easy to clean and no ISPM 15 treatment for export.
+> * **Economical:** the purchase price is higher than for wood, but the cost per trip is often lower.
+> * Used plastic pallets from **Q-Used** are up to 40% cheaper than new ones.
+> * **Sustainable:** our standard pallets are made from almost 100% recycled plastic and are fully recyclable.
 
-## 1. Plastic pallets are user-friendly
+## Wood or plastic?
 
-Relative to wooden pallets, plastic pallets offer a number of advantages. For instance, in some respects, they are much more user-friendly. In contrast with wooden pallets, plastic ones, for instance, will not rot or splinter. Also they look more sleek and attractive and they require less maintenance. Furthermore, plastic pallets are easy to clean and do not require pest control treatment before transport. For those reasons the plastic pallet is much more hygienic and therefore utterly suitable in terms of transport for the food industry.
+Anyone who transports or stores goods uses pallets. Besides wooden pallets, there are plastic pallets in many shapes, types and sizes. They have a number of clear advantages over wood.
 
-## 2. An economical option
+Below you can read the three most important ones. For a full comparison, see [plastic or wooden pallets?](@guide-wood)
 
-It is not only because of the user-friendliness that companies opt for **plastic pallets** increasingly more often, generally it is also an economical choice. Firstly, you can choose from either new or used pallets. If you select new pallets, these will be manufactured specifically for your company and you will have the possibility to choose from an array of different shapes, sizes and colours. In many cases however, it is quite economical to go for already used, and therefore much cheaper pallets. Plastic pallets are namely manufactured from a single piece, as a result of which they will not easily get damaged. They will last very long and thus **second-hand pallets** are high-quality as a rule.
+## Plastic pallets are user-friendly
 
-## 3. Plastic pallets are a sustainable choice
+Plastic does not rot or splinter. There are no loose boards or nails that could damage your goods or machines. As a result, plastic pallets need little maintenance.
 
-So, plastic pallets are usually an **economical and user-friendly alternative to wooden pallets**. However, people tend to associate plastic with environmental pollution by definition. Yet, research shows that these pallets are not a worse, but even a better alternative for the environment, over wooden pallets. Many of the new plastic pallets are made of recycled material. Therefore, the production of these pallets is less burdening to the environment. Furthermore, at least 80 per cent of the pallets are being reused. This results in an actual environmental benefit when using the plastic alternative!
+They do not absorb moisture and are easy to clean. Every pallet of the same model has the same size and weight, which prevents faults in automated systems. Plastic pallets are also often lighter than wood, although that depends on the type.
 
-Would you like more information about the use of plastic pallets? Contact us without obligation and we will provide more information and personal advice!
+For export, no pest treatment is needed, because plastic pallets are not covered by ISPM 15. Do you handle unpackaged food? Then choose a hygienic pallet made of virgin plastic.
+
+## Plastic pallets are economical
+
+Per unit, a plastic pallet is often more expensive than a wooden one. But it lasts for many years, does not need repairs and does not damage your goods. As a result, plastic is often cheaper per trip.
+
+Read more in [what does a plastic pallet cost?](@guide-prices)
+
+If you choose new pallets, you can pick from around 130 models in nine sizes. Want your pallets to be recognisable? With [custom options](@about-custom), we adapt an existing model, for example with your logo or your own colour.
+
+Is budget your main concern? Then choose [used plastic pallets](@used): through Q-Used we sell inspected pallets that are up to 40% cheaper than new ones. Because plastic pallets last so long, they are often still in good condition.
+
+## Plastic pallets are a sustainable choice
+
+Many people associate plastic with pollution. With pallets, the story is different. We make our standard pallets from almost 100% recycled plastic, a mix of HDPE and PP from sources such as old crates, caps and packaging.
+
+A plastic pallet lasts for many years. At the end of its life it is fully recyclable: we take it back and grind it into raw material for new pallets. We also produce in six factories across Europe, close to our customers.
+
+Read more about our approach to [sustainability](@about-sustainability).
+
+Curious what plastic pallets could mean for your business? [Request a quote](@quote) and you will usually receive a tailored price within one working day.

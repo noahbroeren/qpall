@@ -1,7 +1,7 @@
 ---
 id: class-heavy
 title: "Palettes plastique Heavy – jusqu’à 2.000 kg en rayonnage"
-description: "Palettes plastique Heavy renforcées : 7.500 kg en statique, jusqu’à 2.200 kg en dynamique et 2.000 kg en rayonnage. Plateau ajouré ou fermé, 3 à 6 semelles."
+description: "Palettes plastique Heavy : jusqu’à 7.500 kg en statique, 2.200 kg en dynamique et 2.000 kg en rayonnage. Plateau ajouré ou fermé, 3 à 6 semelles."
 eyebrow: "Classe de charge Heavy"
 h1: "Palettes plastique **Heavy**"
 lead: "Pour les charges lourdes, les rayonnages de grande hauteur et des années d’usage intensif. [[count]] modèles Heavy, dont des palettes hygiéniques, CP et de pooling."

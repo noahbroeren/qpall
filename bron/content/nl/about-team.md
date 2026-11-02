@@ -8,6 +8,6 @@ lead: "Achter elke pallet staan mensen. Maak kennis met uw vaste contactpersonen
 ---
 ## Altijd een vast aanspreekpunt
 
-Of u nu één pallet zoekt of een vaste palletstroom voor meerdere vestigingen: u heeft bij Q-Pall een vast aanspreekpunt. Zij kennen ons [assortiment](@pallets), de [belastingwaarden](@about-load) en onze [productielocaties](@about-local), en zorgen dat uw vraag snel bij de juiste persoon komt.
+Of u nu één stapel pallets zoekt of een vaste palletstroom voor meerdere vestigingen: u heeft bij Q-Pall een vast aanspreekpunt. Uw contactpersonen kennen ons [assortiment](@pallets), de [belastingwaarden](@about-load) en onze [productielocaties](@about-local), en zorgen dat uw vraag snel bij de juiste persoon komt.
 
 Liever direct een prijs? [Vraag een offerte aan](@quote), dan ontvangt u meestal binnen één werkdag een reactie. Voor andere vragen kunt u ook [contact opnemen](@contact).

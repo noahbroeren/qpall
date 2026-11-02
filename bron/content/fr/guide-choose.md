@@ -54,4 +54,6 @@ La palette reviendra-t-elle ? Une palette plus lourde, qui dure de nombreuses ro
 
 ## Besoin d’aide ?
 
+Vous préférez tout avoir sur papier ? Le [catalogue produits](@catalog) présente notre gamme standard avec dimensions et valeurs de charge, en PDF à télécharger.
+
 Nos spécialistes vous aident volontiers. Dites-nous ce que vous transportez, comment vous le stockez et combien de palettes il vous faut. Nous vous recommanderons alors le modèle le mieux adapté. [Demandez un devis](@quote) ou [contactez-nous](@contact).

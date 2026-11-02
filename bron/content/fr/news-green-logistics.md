@@ -1,45 +1,68 @@
 ---
 id: news-green-logistics
-title: "Les clés de l’avenir de la logistique verte – Q-Pall"
-description: "Moins de poids, moins de carburant : voyez comment les palettes plastique contribuent à une logistique verte et à une chaîne d’approvisionnement durable."
+title: "Logistique verte : le rôle des palettes plastique – Q-Pall"
+description: "Quel rôle jouent les palettes plastique dans la logistique verte ? Poids et carburant, durée de vie, recyclage, production locale et coût par rotation."
 eyebrow: "Actualités"
 tag: "Durabilité"
-crumb: "Les clés de l’avenir de la logistique"
-h1: "Les clés de **l’avenir de la logistique verte**"
-lead: "Moins de poids, moins de carburant : voyez comment les palettes plastique contribuent à une logistique verte et à une chaîne d’approvisionnement durable."
-img_alt: "Les clés de l’avenir de la logistique verte"
-reading: 4
+crumb: "Palettes et logistique verte"
+h1: "Logistique verte : **le rôle des palettes plastique**"
+lead: "Les entreprises sont de plus en plus jugées sur leur impact environnemental. Un élément souvent négligé est la palette. Voici comment les palettes plastique contribuent à une logistique plus verte."
+img_alt: "Trois cubes en bois avec des symboles de coopération, de la Terre et du recyclage sur du broyé de plastique coloré"
+reading: 3
+faq:
+- q: "Qu’est-ce que la logistique verte ?"
+  a: "La logistique verte (green logistics) vise à réduire autant que possible l’impact de la logistique sur l’environnement : moins d’émissions, moins de déchets et une utilisation plus efficace des ressources. Le choix des palettes y contribue aussi."
+- q: "Les palettes plastique sont-elles plus légères que les palettes en bois ?"
+  a: "Souvent, selon le type. Les palettes Light sont beaucoup plus légères que le bois. Les palettes Heavy pèsent de 17 à 28 kg, à peu près autant qu’une palette Europe en bois d’environ 25 kg."
+- q: "Comment la production locale contribue-t-elle à la logistique verte ?"
+  a: "Dans le secteur de la palette, la majeure partie des émissions de CO₂ provient du transport. Nous produisons dans six usines européennes, si bien que presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine."
+published: '2023-09-11'
+updated: '2026-11-02'
 ---
-## Le rôle des palettes en plastique dans la logistique verte
+> **En bref**
+>
+> * La logistique verte vise moins d’émissions et de déchets dans le transport et le stockage. La palette y joue un rôle.
+> * Les palettes plastique sont souvent plus légères que le bois, surtout dans la classe Light. Cela économise du carburant.
+> * Elles durent de nombreuses années et sont ensuite entièrement recyclables.
+> * Nos palettes standard sont en plastique recyclé à près de 100 % : 34.500 tonnes en 2025.
+> * La production locale dans six usines européennes limite le transport des palettes elles-mêmes.
 
-À une époque où la durabilité est devenue un mot à la mode et où les entreprises sont de plus en plus tenues responsables de leur impact environnemental, la logistique verte joue un rôle crucial. La quête d'opérations plus respectueuses de l'environnement dans le secteur logistique a plusieurs facettes, allant d'un transport efficace à une gestion intelligente des entrepôts. Un élément souvent négligé mais essentiel dans cette équation est le choix des palettes. Les palettes en plastique offrent divers avantages écologiques qui contribuent à une chaîne d'approvisionnement plus verte. Dans ce blog, nous discutons de la manière dont les palettes en plastique peuvent être un ajout précieux à votre stratégie de logistique verte.
+## Qu’est-ce que la logistique verte ?
 
-### Moins de poids, moins de carburant
+La logistique verte, ou *green logistics*, vise une logistique plus respectueuse de l’environnement. Elle va du transport efficace à la gestion intelligente des entrepôts. Les entreprises sont de plus en plus jugées sur leur impact environnemental, y compris par leurs clients et leurs partenaires de la chaîne logistique.
 
-Contrairement à leurs homologues en bois, les palettes en plastique sont nettement plus légères. Cela réduit le poids total de la cargaison et peut entraîner une réduction significative de la consommation de carburant pendant le transport. Moins de carburant signifie moins d'émissions, ce qui permet à votre entreprise de réduire son empreinte écologique.
+Un élément souvent négligé est le choix des palettes. Les palettes plastique offrent plusieurs avantages qui contribuent à une chaîne d’approvisionnement plus verte.
 
-### Recyclables
+## Moins de poids, moins de carburant
 
-À la fin de leur cycle de vie, les palettes en plastique peuvent facilement être recyclées. Elles peuvent être broyées puis reconverties en nouveaux produits en plastique, minimisant ainsi l'utilisation de nouvelles matières premières. C'est un avantage significatif par rapport aux palettes en bois, qui finissent souvent comme déchets ou comme combustible pour les centrales électriques, avec tous les effets environnementaux associés.
+Les palettes plastique sont souvent plus légères que les palettes en bois, selon le type. Les [palettes Light](@class-light) en particulier pèsent beaucoup moins. Un poids à vide plus faible signifie plus de charge par trajet et moins de carburant, donc moins d’émissions.
 
-### Réutilisables et durables
+Pour les usages intensifs, la différence est plus faible. Une palette plastique Heavy pèse de 17 à 28 kg, une palette Europe en bois environ 25 kg. L’avantage réside alors surtout dans la longue durée de vie et le poids constant, car le plastique n’absorbe pas l’humidité.
 
-Les palettes en plastique sont plus robustes et ont une durée de vie plus longue que les palettes en bois. Elles résistent mieux à l'usure, aux dégâts des eaux et à d'autres formes de dégradation. En conséquence, elles peuvent être réutilisées plusieurs fois, ce qui entraîne moins de déchets et un besoin réduit de nouvelles palettes.
+## Durables et réutilisables
 
-### Hygiéniques et sûres
+Les palettes plastique sont robustes et durent de nombreuses années, bien plus longtemps qu’une palette en bois moyenne. Elles résistent à l’usure, à l’humidité et aux chocs. Elles peuvent donc être réutilisées très souvent, ce qui signifie moins de déchets et moins de palettes neuves.
 
-Les palettes en plastique sont plus faciles à nettoyer et à désinfecter, minimisant ainsi le risque de contamination croisée des marchandises. À une époque où l'hygiène et la sécurité sont de la plus haute importance, cela ne peut pas être sous-estimé.
+Même lorsqu’une palette est retirée du circuit chez vous, elle est souvent encore tout à fait utilisable. Grâce à [Q-Used](@used), les palettes contrôlées connaissent une seconde vie.
 
-### Économies de coûts
+## Recyclables en fin de vie
 
-Bien que le coût initial des palettes en plastique puisse être supérieur à celui des palettes en bois, les coûts opérationnels sur la durée de vie sont souvent inférieurs. La durabilité et la réutilisabilité des palettes en plastique peuvent entraîner des économies de coûts significatives à long terme.
+En fin de vie, les palettes plastique sont entièrement recyclables. Elles sont broyées puis transformées en nouveaux produits, comme de nouvelles palettes. Il faut ainsi moins de matière première neuve. Découvrez comment dans [le recyclage des palettes plastique](@news-recycling).
 
-### Q-Pall - plus loin
+Les palettes en bois sont généralement broyées ou brûlées en fin de vie, avec les émissions que cela implique.
 
-En ce qui concerne la réduction de l'empreinte écologique en logistique, nous allons plus loin car 99 % de nos palettes sont fabriquées à partir de plastique recyclé. Cela nous permet de consommer environ 30 000 tonnes de plastique recyclé chaque année. Cela soutient non seulement l'économie circulaire mais contribue également directement à lutter contre le problème mondial du plastique. En utilisant des matériaux recyclés, Q-Pall contribue à réduire la quantité de déchets plastiques qui finiraient autrement dans les océans, les décharges ou les incinérateurs. C'est un exemple de la manière dont les entreprises, grâce à des approches innovantes, peuvent non seulement rendre leurs opérations plus durables, mais aussi avoir un impact positif sur les problèmes environnementaux mondiaux.
+## Faciles à nettoyer
 
-### Conclusion
+Les palettes plastique n’absorbent pas l’humidité et se nettoient facilement. Cela aide à éviter de salir les marchandises. Pour le contact alimentaire direct, il existe des [palettes hygiéniques](@type-hygienic) en plastique vierge.
 
-La logistique verte est plus qu'une tendance ; c'est une nécessité dans le monde des affaires moderne. L'utilisation de palettes en plastique peut faire une différence significative dans vos efforts de durabilité. Du poids et des économies de carburant à la durabilité et la recyclabilité, les palettes en plastique offrent une multitude d'avantages qui s'insèrent dans une stratégie de logistique plus verte et plus durable.
+## Un coût par rotation plus bas
 
-En passant aux palettes en plastique, votre entreprise contribue non seulement à une planète plus propre, mais peut également bénéficier d'économies de coûts et d'une efficacité opérationnelle. C'est une situation gagnant-gagnant qui mérite d'être prise en compte dans toute approche de logistique verte.
+À l’achat, les palettes plastique sont souvent plus chères que les palettes en bois. Sur l’ensemble de leur durée de vie, le coût par rotation est toutefois souvent plus bas, grâce à leur longévité et à leur réutilisation. Choix plus verts et coûts plus bas vont donc de pair.
+
+## Q-Pall : un pas plus loin
+
+Nous fabriquons nos palettes standard en plastique recyclé à près de 100 %. En 2025, nous avons transformé 34.500 tonnes de plastique recyclé, soit environ 1.475 camions pleins. Cela contribue à réduire la quantité de déchets plastiques qui finiraient sinon en décharge, en incinérateur ou dans les océans.
+
+Nous produisons en outre [localement](@about-local), dans six usines réparties à travers l’Europe. Dans le secteur de la palette, la majeure partie des émissions de CO₂ provient du transport. Comme presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine Q-Pall, les distances de transport restent courtes.
+
+Vous souhaitez savoir quelles palettes s’intègrent le mieux dans votre logistique verte ? [Demandez un devis](@quote). Vous recevez généralement un prix sur mesure en un jour ouvré.

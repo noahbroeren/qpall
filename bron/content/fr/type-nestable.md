@@ -11,7 +11,7 @@ faq:
   - q: "Puis-je rendre une palette emboîtable plus stable ?"
     a: "Oui. Sur de nombreuses palettes emboîtables sur 9 pieds, vous pouvez clipser des [semelles](@acc-runners) sans outil. Vous obtenez alors une palette sur 3 semelles qui circule mieux sur les convoyeurs à rouleaux. Comme vous ne montez les semelles que sur place, vous conservez l’avantage de l’emboîtement."
   - q: "Les palettes emboîtables conviennent-elles au rayonnage à palettes ?"
-    a: "Non, les palettes emboîtables sont des palettes Light destinées au transport, à l’export et au stockage au sol. Pour le rayonnage, choisissez une palette Medium ou Heavy sur semelles."
+    a: "En général, non. Presque toutes nos palettes emboîtables sont des palettes Light destinées au transport, à l’export et au stockage au sol. Seules quelques palettes display emboîtables existent en Medium et Heavy. Pour le rayonnage, choisissez une palette Medium ou Heavy sur semelles."
 ---
 
 ## Comment fonctionne l’emboîtement ?
