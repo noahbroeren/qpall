@@ -5,6 +5,25 @@ description: "Où que vous soyez, un distributeur Q-Pall est souvent proche. Tro
 eyebrow: "Distributeurs"
 h1: "Un distributeur **près de chez vous**"
 lead: "Q-Pall travaille avec un réseau de distributeurs en Europe et aux États-Unis. Ils connaissent le marché local et livrent aussi de plus petites quantités."
+list:
+  eyebrow: "Distributeurs par pays"
+  title: "Des distributeurs dans **{n} pays**"
+  lead: "Voici nos distributeurs en un coup d’œil. Vous trouverez les adresses et les coordonnées sur la carte des distributeurs."
+compare:
+  eyebrow: "Distributeur ou direct"
+  title: "Quelle option **vous convient** ?"
+  lead: "Cela dépend surtout des quantités et du lieu de livraison."
+  dealer_t: "Via un distributeur"
+  dealer:
+    - "Aussi pour de plus petites quantités"
+    - "Un interlocuteur dans votre pays"
+    - "Des conseils locaux d’un partenaire qui connaît votre marché"
+  dealer_cta: "Ouvrir la carte des distributeurs"
+  direct_t: "Directement chez Q-Pall"
+  direct:
+    - "Pour des volumes par pile ou par camion complet"
+    - "Des palettes personnalisées avec votre logo ou votre couleur"
+    - "Une livraison depuis l’usine la plus proche de chez vous"
 ---
 
 ## Trouvez votre distributeur

@@ -51,5 +51,7 @@
   </div>
 </section>
 
+{% if page_id == 'dealers' and dealer_list and page.fm.list %}{% include '_dealers_more.html' %}{% endif %}
+
 {% if page.faq %}{{ M.faq_section(page.faq, lang, t, soft=not recommend) }}{% endif %}
 {% endblock %}

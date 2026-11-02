@@ -1,0 +1,35 @@
+{# /internationale-dealers/ (update 27): the dealers per country (site_config.DEALERS, shown without loading the map)
+   and dealer or direct. Texts: front matter 'list' and 'compare' in content/<lang>/dealers.md. #}
+{% set D = page.fm.list %}{% set C = page.fm.compare %}
+{% include '_flags_more.html' %}
+<section class="section bg-soft" aria-labelledby="dl-h">
+  <div class="wrap">
+    {{ M.sec_head(D.eyebrow, D.title|replace('{n}', dealer_list|length|string), D.lead, 'dl-h') }}
+    <ul class="dl-grid">
+      {% for g in dealer_list %}<li class="dl-card">
+        <h3 class="dl-c">{{ M.flag(g.flag) }}<span>{{ g.country }}</span></h3>
+        <ul class="dl-list">{% for d in g.dealers %}<li><b>{{ d.name }}</b><span>{{ d.city }}</span></li>{% endfor %}</ul>
+      </li>{% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section" aria-labelledby="dc-h">
+  <div class="wrap">
+    {{ M.sec_head(C.eyebrow, C.title, C.lead, 'dc-h') }}
+    <div class="dc-grid">
+      <div class="dc-card">
+        <span class="dc-ico">{{ M.icon('globe') }}</span>
+        <h3>{{ C.dealer_t }}</h3>
+        <ul class="checks">{% for x in C.dealer %}<li>{{ M.icon('checkc') }}<span>{{ x }}</span></li>{% endfor %}</ul>
+        <a class="btn btn-navy" href="{{ company.dealer_locator }}" target="_blank" rel="noopener">{{ C.dealer_cta }}{{ M.icon('external') }}</a>
+      </div>
+      <div class="dc-card dc-direct">
+        <span class="dc-ico">{{ M.icon('factory') }}</span>
+        <h3>{{ C.direct_t }}</h3>
+        <ul class="checks checks-light">{% for x in C.direct %}<li>{{ M.icon('checkc') }}<span>{{ x }}</span></li>{% endfor %}</ul>
+        <a class="btn btn-primary" href="{{ urls.quote }}">{{ t.cta_quote }}{{ M.icon('arrow') }}</a>
+      </div>
+    </div>
+  </div>
+</section>

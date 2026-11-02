@@ -749,3 +749,14 @@ UPDATE 26 (29 oktober 2026, afbeeldingen voor de bevestigingsmails)
   een kleine productfoto p/<artikelnummer>.jpg (jpg, want Outlook toont geen webp). De productfoto's maak je opnieuw
   met: python3 tools/email_assets.py ../qpall-website (na build.py), daarna build.py nog een keer.
   De mails zelf staan als template in Brevo (nog niet gekoppeld aan de site).
+
+UPDATE 27 (2 november 2026, contactpagina en internationale dealers)
+  Contact: onder het formulier een blok over het hoofdkantoor in Veghel (foto hq-terrace, Sabine en John, knop
+  'Route plannen' naar Google Maps en 'Maak kennis met ons team') en vier veelgestelde vragen (met FAQ-schema).
+  Teksten: 'visit' en 'faq' in content/<taal>/contact.md.
+  Internationale dealers: onder de kaart de dealers per land (met vlag) en 'Dealer of direct'. De dealers staan
+  in site_config.DEALERS (overgenomen van de dealerkaart op 2 november 2026, alleen de zelfstandige dealers). Komt er
+  een dealer bij of gaat er een af: pas die lijst aan en bouw opnieuw. Teksten: 'list' en 'compare' in
+  content/<taal>/dealers.md. Extra vlaggen (BE, AT, CH, FI, NO, SE, SI, PT, US): templates/_flags_more.html.
+  De foto met de handdruk (photo-handshake) is van de site gehaald; de deelafbeeldingen (og) van dealers en de
+  bedankpagina's gebruiken nu stacks, office-open en hq-corner.

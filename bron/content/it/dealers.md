@@ -5,6 +5,25 @@ description: "Ovunque vi troviate, spesso c’è un rivenditore Q-Pall vicino a 
 eyebrow: "Rivenditori"
 h1: "Un rivenditore **vicino a voi**"
 lead: "Q-Pall collabora con una rete di rivenditori in Europa e negli Stati Uniti. Conoscono il mercato locale e forniscono anche quantità più piccole."
+list:
+  eyebrow: "Rivenditori per paese"
+  title: "Rivenditori in **{n} paesi**"
+  lead: "Ecco i nostri rivenditori in sintesi. Indirizzi e contatti si trovano sulla mappa dei rivenditori."
+compare:
+  eyebrow: "Rivenditore o diretto"
+  title: "Cosa fa **per voi**?"
+  lead: "Dipende soprattutto dalle quantità e dal luogo di consegna."
+  dealer_t: "Tramite un rivenditore"
+  dealer:
+    - "Anche per quantità più piccole"
+    - "Un referente nel vostro paese"
+    - "Consulenza locale da un partner che conosce il vostro mercato"
+  dealer_cta: "Apri la mappa dei rivenditori"
+  direct_t: "Direttamente da Q-Pall"
+  direct:
+    - "Per volumi per pila o per camion completo"
+    - "Pallet personalizzati con il vostro logo o colore"
+    - "Consegna dallo stabilimento più vicino a voi"
 ---
 
 ## Trovate il vostro rivenditore

@@ -13,7 +13,7 @@ from markupsafe import Markup, escape
 
 from site_config import (NOINDEX_ALL, GTM_ID, PROD_HOSTS, HUBSPOT_HOSTS, HUBSPOT_ID, HUBSPOT_REGION, HUBSPOT_FORMS, SKU_COLOUR, SB_CROP, ARTICLE_RECOMMEND, LANG_REGION, KB_ITEMS, KB_CATS, DOMAIN, LANGS, X_DEFAULT, PAGES, SIZES, SIZE_BY_KEY, TYPES, TYPE_BY_KEY, CLASSES, SECTORS, COMPANY,
                          LOCATIONS, FACTORIES, COUNTRY, REDIRECTS, CATALOG_FILES, catalog_size, PRICE_VALID_UNTIL, BUILD_DATE,
-                         LOCALE, HTML_LANG, LANG_NAME, TRANSPORT_SITES, OG_PAGES, GUIDES, PREFIX, NEWS_ITEMS, TEAM, TEAM_BY, TEAM_BY_NAME, AUTHORS, KB_SIDE_EXTRA, LAUNCH_DATE)
+                         LOCALE, HTML_LANG, LANG_NAME, TRANSPORT_SITES, OG_PAGES, GUIDES, PREFIX, NEWS_ITEMS, TEAM, TEAM_BY, TEAM_BY_NAME, AUTHORS, KB_SIDE_EXTRA, LAUNCH_DATE, DEALERS)
 from i18n import T, MISSING
 import productcopy as PC
 from productcopy import fmt_int, fmt_dec, fmt_price, rng_txt
@@ -1424,6 +1424,19 @@ def render_page(pid, lang):
             body = Markup(b[:hs[1]] + fig + b[hs[1]:]) if len(hs) > 1 else Markup(b + fig)
         else:
             body = Markup(str(body).replace('</ul>', '</ul>' + fig, 1))
+    if pid == 'dealers':   # dealers per country below the map (update 27), sorted by the country name in this language
+        import unicodedata
+        cn = lambda cc: (COUNTRIES_ALL or {}).get(lang, {}).get(cc) or cc
+        key = lambda x: unicodedata.normalize('NFKD', x).encode('ascii', 'ignore').decode().lower()
+        groups = {}
+        for cc, name, city in DEALERS:
+            groups.setdefault(cc, []).append({'name': name, 'city': city})
+        extra['dealer_list'] = [{'cc': cc, 'flag': 'uk' if cc == 'GB' else cc.lower(), 'country': cn(cc),
+                                 'dealers': sorted(ds, key=lambda d: key(d['name']))}
+                                for cc, ds in sorted(groups.items(), key=lambda kv: key(cn(kv[0])))]
+    if pid == 'contact':   # head office block below the form (update 27): route link like on the transport page
+        extra['hq_route'] = ('https://www.google.com/maps/dir/?api=1&destination=' +
+                             quote_plus(f"Q-Pall, {COMPANY['street']}, {COMPANY['zip']} {COMPANY['city']}, Netherlands"))
     if pid == 'terms':
         extra['toc'] = [(f'article-{n}', f'{n}. {title}') for n, title in terms_articles()]
     if tpl == 'calc':

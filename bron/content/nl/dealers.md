@@ -5,6 +5,25 @@ description: "Waar u ook gevestigd bent, vaak zit er een Q-Pall-dealer bij u in 
 eyebrow: "Dealers"
 h1: "Een dealer **bij u in de buurt**"
 lead: "Q-Pall werkt met een netwerk van dealers in Europa en de Verenigde Staten. Zij kennen de lokale markt en leveren ook kleinere aantallen."
+list:
+  eyebrow: "Dealers per land"
+  title: "Een dealer in **{n} landen**"
+  lead: "Dit zijn onze dealers op een rij. Adressen en contactgegevens vindt u op de dealerkaart."
+compare:
+  eyebrow: "Dealer of direct"
+  title: "Wat past **bij u**?"
+  lead: "Dat hangt vooral af van de aantallen en de plek van levering."
+  dealer_t: "Via een dealer"
+  dealer:
+    - "Ook voor kleinere aantallen"
+    - "Een aanspreekpunt in uw eigen land"
+    - "Lokaal advies van een partij die uw markt kent"
+  dealer_cta: "Open de dealerkaart"
+  direct_t: "Direct bij Q-Pall"
+  direct:
+    - "Voor volumes per stapel of per vrachtwagen"
+    - "Maatwerk met uw eigen logo of kleur"
+    - "Levering vanuit de fabriek die het dichtst bij u ligt"
 ---
 
 ## Vind uw dealer

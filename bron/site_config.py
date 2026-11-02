@@ -82,6 +82,31 @@ COMPANY = {
     'simplybook': 'https://avkplasticsbv.simplybook.it',
 }
 
+# International dealers (update 27): copy of the dealer map (COMPANY['dealer_locator'], mach3locator) on 02-11-2026,
+# independent dealers only (the Q-Pall / AVK-Q-Pall locations on that map are left out). Shown per country below the
+# map on /internationale-dealers/, so the page shows the network without loading the map (cookies).
+# (ISO country code, name, city). When a dealer is added or leaves the map: change this list and rebuild.
+DEALERS = [
+    ('GB', 'All Pallets', 'Eastbourne'),
+    ('FR', 'Bac-Land Pack', 'Balma'),
+    ('PT', 'Carepack', 'Leiria'),
+    ('DE', 'Cargo Plast', 'Salem'),
+    ('IT', 'CMP', 'Saluzzo'),
+    ('DK', 'Dansk Transport Emballage', 'Vojens'),
+    ('CH', 'Dynamex', 'Ossingen'),
+    ('DE', 'GFH Kunststofftechnik', 'Rosenheim'),
+    ('BE', 'Indupack', 'Lommel'),
+    ('BE', 'M-Packaging', 'Wuustwezel'),
+    ('ES', 'Osona Industrial Plastics', 'Sant Miquel de Balenyà'),
+    ('AT', 'Rumpl', 'Graz'),
+    ('NO', 'Strombergs Plast', 'Rælingen'),
+    ('US', 'The Nelson Company', 'Baltimore, MD'),
+    ('SE', 'Tofo Trading', 'Nybro'),
+    ('US', 'Tranpak', 'Madera, CA'),
+    ('SI', 'Tricor', 'Selca'),
+    ('FI', 'Zymotec', 'Riihimäki'),
+]
+
 # contact persons (update 13): shown at 'Praat met een specialist' (homepage), on the thank-you page, on the team page
 # (/over-q-pall/team/) and as author of the knowledge-base articles (Person schema, same @id in every language).
 # Photos: input/team/ (originals + cut-outs) -> static/img/team/<key>.webp (transparent cut-out, square, same framing).

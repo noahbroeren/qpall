@@ -2232,3 +2232,36 @@ picture>source{display:none}   /* with display:contents the <source> would other
 .sb-spin{width:36px;height:36px;border-radius:50%;border:3px solid var(--line);border-top-color:var(--orange);animation:sbspin .8s linear infinite}
 @keyframes sbspin{to{transform:rotate(360deg)}}
 @media (prefers-reduced-motion:reduce){.sb-spin{animation-duration:2.4s}}
+
+/* update 27: contact (head office + contact persons) and international dealers (per country, dealer or direct) */
+.visit .about-img img{aspect-ratio:4/3}
+.visit-txt .lead{margin-bottom:24px}
+.visit-people{display:flex;align-items:center;gap:16px;margin:0 0 28px}
+.visit-people .cp-photo{box-shadow:0 0 0 3px var(--soft),0 0 0 5px var(--light)}
+.visit-people .cp-txt{margin:0;font-size:.92rem;line-height:1.4}
+.visit-people .cp-txt b{display:block;font-weight:600;color:var(--ink)}
+.visit-people .cp-txt span{display:block;color:var(--muted)}
+.dl-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.dl-card{padding:20px 22px 14px;border-radius:var(--r-q-sm);background:#fff;border:1px solid var(--line-2)}
+.dl-c{display:flex;align-items:center;gap:10px;margin:0 0 10px;font-size:1.02rem;font-weight:600}
+.dl-c .flag{width:22px;height:22px}
+.dl-list li{display:flex;align-items:baseline;justify-content:space-between;gap:14px;padding:8px 0;border-top:1px solid var(--line-2);font-size:.92rem;line-height:1.4}
+.dl-list b{font-weight:500;color:var(--ink)}
+.dl-list span{flex:none;max-width:52%;text-align:right;color:var(--muted)}
+.dc-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.dc-card{display:flex;flex-direction:column;align-items:flex-start;padding:34px 34px 32px;border-radius:var(--r-q);background:var(--soft)}
+.dc-ico{display:grid;place-items:center;width:48px;height:48px;margin-bottom:18px;border-radius:50%;background:#fff;color:var(--orange)}
+.dc-ico .ico{width:24px;height:24px}
+.dc-card h3{margin:0 0 16px;font-size:1.35rem}
+.dc-card .checks{gap:10px;margin:0 0 28px}
+.dc-card .checks li{font-size:.98rem}
+.dc-card .btn{margin-top:auto}
+.dc-direct{background:var(--navy)}
+.dc-direct h3{color:#fff}
+.dc-direct .dc-ico{background:rgba(255,255,255,.1)}
+@media (max-width:1100px){.dl-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:720px){
+  .dl-grid,.dc-grid{grid-template-columns:minmax(0,1fr)}
+  .dc-card{padding:26px 22px 24px}
+  .visit-people{margin-bottom:24px}
+}

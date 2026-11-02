@@ -5,6 +5,25 @@ description: "Egal wo Sie sind, oft ist ein Q-Pall-Händler in Ihrer Nähe. Find
 eyebrow: "Händler"
 h1: "Ein Händler **in Ihrer Nähe**"
 lead: "Q-Pall arbeitet mit einem Händlernetz in Europa und den Vereinigten Staaten zusammen. Unsere Händler kennen den lokalen Markt und liefern auch kleinere Mengen."
+list:
+  eyebrow: "Händler nach Land"
+  title: "Händler in **{n} Ländern**"
+  lead: "Hier sehen Sie unsere Händler auf einen Blick. Adressen und Kontaktdaten finden Sie auf der Händlerkarte."
+compare:
+  eyebrow: "Händler oder direkt"
+  title: "Was passt **zu Ihnen**?"
+  lead: "Das hängt vor allem von den Mengen und vom Lieferort ab."
+  dealer_t: "Über einen Händler"
+  dealer:
+    - "Auch für kleinere Mengen"
+    - "Ein Ansprechpartner in Ihrem eigenen Land"
+    - "Lokale Beratung von einem Partner, der Ihren Markt kennt"
+  dealer_cta: "Händlerkarte öffnen"
+  direct_t: "Direkt bei Q-Pall"
+  direct:
+    - "Für Mengen pro Stapel oder pro Lkw-Ladung"
+    - "Individuelle Paletten mit Ihrem Logo oder in Ihrer Farbe"
+    - "Lieferung aus dem Werk, das Ihnen am nächsten liegt"
 ---
 
 ## Finden Sie Ihren Händler
