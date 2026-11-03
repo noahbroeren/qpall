@@ -62,7 +62,7 @@ I nostri pallet da esportazione in plastica sono sempre pallet Light. Offrono pi
 
 * **Pesano poco**, a partire da 2,7 kg. Così risparmiate sui costi di trasporto.
 * **Sono spesso incastrabili.** Da vuoti si inseriscono l’uno nell’altro.
-* **Hanno una portata statica di 2.500 kg e dinamica di 1.000 kg.** Sono pensati per il trasporto e lo stoccaggio a terra, non per le scaffalature porta-pallet.
+* **Hanno una portata statica fino a 2.500 kg e dinamica di 1.000 kg.** Sono pensati per il trasporto e lo stoccaggio a terra, non per le scaffalature porta-pallet.
 * **Non assorbono umidità** e attutiscono gli urti meglio del legno.
 * **Servono più di una volta.** Se maneggiati con cura, potete usarli più volte.
 

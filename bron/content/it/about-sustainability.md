@@ -4,7 +4,7 @@ title: "Sostenibilità: pallet in plastica riciclata – Q-Pall"
 description: "Q-Pall realizza pallet in plastica riciclata quasi al 100%, produce localmente e chiude il cerchio. Scoprite come riduciamo emissioni di CO2 e rifiuti."
 eyebrow: "Sostenibilità"
 h1: "Sostenibili **dalla materia prima al riciclo**"
-lead: "La sostenibilità è nel nostro DNA. Realizziamo i nostri pallet in plastica riciclata quasi al 100%, produciamo vicino ai nostri clienti e, a fine vita, i pallet tornano a essere materia prima."
+lead: "La sostenibilità è nel nostro DNA. Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%, produciamo vicino ai nostri clienti e, a fine vita, i pallet tornano a essere materia prima."
 ---
 
 ## La plastica riciclata come materia prima
@@ -19,7 +19,7 @@ Esaminiamo anche i flussi di rifiuti plastici dei nostri clienti. Ove possibile,
 
 ## Meno trasporti, meno CO2
 
-Oltre l’80% delle emissioni di CO2 nel settore dei pallet deriva dal trasporto. Un camion pieno di pallet trasporta soprattutto aria. Per questo produciamo [localmente](@about-local), in sei stabilimenti distribuiti in tutta Europa. Quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento Q-Pall. Inoltre i pallet in plastica sono più leggeri di molti pallet in legno. Una tara inferiore significa più carico per viaggio e meno carburante.
+Nel settore dei pallet, la maggior parte delle emissioni di CO₂ deriva dal trasporto. Un camion pieno di pallet trasporta soprattutto aria. Per questo produciamo [localmente](@about-local), in sei stabilimenti distribuiti in tutta Europa. Quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento Q-Pall. Inoltre i pallet in plastica sono più leggeri di molti pallet in legno. Una tara inferiore significa più carico per viaggio e meno carburante.
 
 ## Fatti per durare, poi di nuovo materia prima
 

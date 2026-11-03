@@ -12,7 +12,7 @@ lead: "Sinds 2005 richten we ons op één ding: betaalbare, betrouwbare kunststo
 
 Vanaf het begin is onze missie helder: kosteneffectieve en betrouwbare kunststof pallets leveren, met duurzaamheid als uitgangspunt. Omdat we ons volledig richten op de ontwikkeling en productie van kunststof pallets, kunnen we steeds nieuwe oplossingen bieden die aansluiten op de veranderende wensen van onze klanten.
 
-Onze pallets zijn gemaakt van bijna 100% gerecycled kunststof. Ze zijn milieuvriendelijk, zonder dat dit ten koste gaat van sterkte of levensduur. Zo verminderen we afval en leveren we tegelijk pallets waarop u kunt bouwen. Dat noemen we **pallets with a purpose**.
+Onze standaardpallets zijn gemaakt van bijna 100% gerecycled kunststof. Ze zijn milieuvriendelijk, zonder dat dit ten koste gaat van sterkte of levensduur. Zo verminderen we afval en leveren we tegelijk pallets waarop u kunt bouwen. Dat noemen we **pallets with a purpose**.
 
 ## Q-Pall in cijfers
 

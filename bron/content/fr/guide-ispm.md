@@ -33,6 +33,6 @@ La norme ISPM 15 s’applique uniquement aux emballages en bois massif. Le plast
 
 ## Les meilleures palettes plastique pour l’export
 
-Pour l’export, les [palettes export emboîtables](@type-export) légères sont généralement le meilleur choix. Elles pèsent peu, ce qui réduit les frais de fret, et supportent 2.500 kg en statique. Choisissez le format adapté à votre conteneur et à votre destination : [1200 x 800](@size-1200x800) pour l’Europe, [1200 x 1000](@size-1200x1000) pour le Royaume-Uni, [1100 x 1100](@size-1100x1100) pour l’Asie ou les palettes 1220 x 1020 mm pour les États-Unis.
+Pour l’export, les [palettes export emboîtables](@type-export) légères sont généralement le meilleur choix. Elles pèsent peu, ce qui réduit les frais de fret, et supportent jusqu’à 2.500 kg en statique. Choisissez le format adapté à votre conteneur et à votre destination : [1200 x 800](@size-1200x800) pour l’Europe, [1200 x 1000](@size-1200x1000) pour le Royaume-Uni, [1100 x 1100](@size-1100x1100) pour l’Asie ou les palettes 1220 x 1020 mm pour les États-Unis.
 
 Attention : vérifiez toujours les exigences en vigueur dans le pays de destination. Les règles peuvent évoluer.

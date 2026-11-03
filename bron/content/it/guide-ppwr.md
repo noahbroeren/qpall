@@ -47,7 +47,7 @@ La somma di piombo, cadmio, mercurio e cromo esavalente negli imballaggi non pu�
 * Dal 2030 gli imballaggi devono essere progettati per il riciclo (almeno classe C, ovvero 70% o più sulla scala di riciclabilità).
 * Un’etichetta armonizzata sui materiali seguirà dal 12 agosto 2028, una volta adottati gli atti di esecuzione.
 
-I nostri pallet sono costituiti da un’unica famiglia di materiali (HDPE/PP riciclato) e sono completamente riciclabili a fine vita. Ritornano così nel ciclo.
+I nostri pallet standard sono costituiti da un’unica famiglia di materiali (HDPE/PP riciclato) e sono completamente riciclabili a fine vita. Ritornano così nel ciclo.
 
 ## Cosa significa per la scelta del pallet?
 

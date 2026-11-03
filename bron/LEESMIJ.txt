@@ -792,3 +792,28 @@ UPDATE 28 (2 november 2026, feitelijke fouten, nieuws herschreven, productoverzi
   berichten; productpagina's krijgen ze via type en klasse; nieuwsberichten via hetzelfde label. Links naar de
   productcatalogus in /kunststof-pallets/ en de keuzegids. Zijbalk nieuws: 'Alle nieuwsberichten' met de pijl
   op dezelfde regel.
+
+UPDATE 29 (2 november 2026, zijbalk nieuws)
+  'Alle nieuwsberichten' in de nieuwszijbalk is een grijze balk over de volle breedte (pijl altijd op dezelfde
+  regel). Mobiel: 'Alle pallets in …' boven de carrousels op één regel, de pijlknoppen van de carrousels
+  verborgen (vegen werkt).
+
+UPDATE 30 (3 november 2026, laatste feitelijke fouten, offerteformulier, layout)
+  Feiten in alle zes talen: geen EPD's in de begrippenlijst, Ultra van 'bijna 100%' gerecycled kunststof,
+  productzin 'Zoals al onze standaardpallets …' (hygiënische pallets: 'Anders dan onze standaardpallets … virgin',
+  via _HYG_MATERIAL in build.py), geen 48 x 40-uitvoering die niet bestaat, Auchan in de verleden tijd, gebruikte
+  pallets 'goed te reinigen' (niet 'hygiënisch'), geen pioniersclaim, geen '80%', 'onze standaardpallets' i.p.v.
+  'al onze pallets', PPWR per palletgroep, light 'tot 2.500 kg', geen 'vuil en bacteriën'. Metabeschrijvingen
+  van 760 x 1140- en displaypallets met de maat in de volgorde van de categorie (disp_LW uit _fix_names).
+  'Levert binnen dagen in plaats van weken' blijft (akkoord Noah).
+  Termen per taal gelijkgetrokken in data/products.json (klasselabels, FR 'en rack', ES 'patas', IT 'su
+  scaffale').
+  Nieuwsdatums volgens qpall.com waar die er een toont: auchan en local 26-02-2026 (de andere vijf klopten al);
+  de rest houdt de afgeleide datum.
+  Offerteformulier: onder elk productveld een kaartje met foto, volledige naam, artikelnummer en '1 stapel = N'
+  (de naam viel in het veld weg). Werkt vanuit ?sku=, ?items= (laadcalculator) en bij typen.
+  Omslagfoto's HDPE 2 (regrind) en groene logistiek (n-green-logistics) lichter: HEAVY_COVERS in build_assets.py
+  (licht vervaagd, kwaliteit 65, extra 960w-formaat). De tekst van het HDPE 2-artikel is niet aangeraakt.
+  Layout: home-cases tussen 601 en 900 px tonen alle zes (de regel die het derde nieuwsbericht verbergt geldt niet
+  meer voor .cases), megamenu past op 1366 x 768 (compacte tegels bij lage schermen, max-height), Ultra-pagina
+  met productfoto in de kop en de twee uitvoeringen naast een korte uitleg (ULTRA_TXT in build.py).

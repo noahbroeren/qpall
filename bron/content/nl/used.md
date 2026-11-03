@@ -24,7 +24,7 @@ Een kunststof pallet gaat bij normaal gebruik vele jaren mee. Ook als een pallet
 - **Gekeurd:** elke pallet wordt gecontroleerd op schade en constructie.
 - **Maatvast:** kunststof vervormt niet door vocht.
 - **Exportklaar:** net als nieuwe kunststof pallets vrijgesteld van [ISPM 15](@guide-ispm).
-- **Hygiënisch en veilig:** geen roest, splinters of losse delen.
+- **Goed te reinigen en veilig:** geen roest, splinters of losse delen.
 
 ## Zo werkt het
 

@@ -157,7 +157,7 @@ cases:
   lead: "Del supermercado a la obra: algunos ejemplos de empresas que confían en nuestros palets. Puede leer cada caso en nuestras noticias."
   more: "Todas las noticias"
   items:
-    - {id: news-auchan, client: "Auchan · distribución, Francia", title: "50.000 europalets inteligentes", text: "Auchan despliega en toda Francia europalets heavy duty de plástico reciclado, cada uno con tecnología IoT de IBM."}
+    - {id: news-auchan, client: "Auchan · distribución, Francia", title: "50.000 europalets inteligentes", text: "Auchan implantó en toda Francia europalets heavy duty de plástico reciclado, cada uno con tecnología IoT de IBM."}
     - {id: news-mega-order, client: "Drankenpallet Beheer Nederland", title: "Un millón de palets desde Balk", text: "El mayor pedido neerlandés desde 2005: al menos un millón de palets de plástico reciclado para el sector de las bebidas."}
     - {id: news-stackup, client: "Kwakman Afbouw · construcción", title: "70% menos desplazamientos", text: "Juntos desarrollamos el Stack-Up Pallet para la obra: menos cargas, menos residuos y acabados más rápidos."}
     - {id: news-covid, client: "Transporte de vacunas · farmacia", title: "Palets para las vacunas COVID", text: "A través de su socio Goplasticpallets.com, Q-Pall suministró el 1208 HR 5R para el transporte de vacunas a, entre otros, Estados Unidos, China y Corea del Sur."}

@@ -24,7 +24,7 @@ Bei normalem Einsatz hält eine Kunststoffpalette viele Jahre. Auch wenn ein Kun
 - **Geprüft:** Jede Palette wird auf Schäden und ihre Konstruktion kontrolliert.
 - **Maßhaltig:** Kunststoff verzieht sich nicht durch Feuchtigkeit.
 - **Exportfertig:** wie neue Kunststoffpaletten von [ISPM 15](@guide-ispm) ausgenommen.
-- **Hygienisch und sicher:** kein Rost, keine Splitter oder losen Teile.
+- **Leicht zu reinigen und sicher:** kein Rost, keine Splitter oder losen Teile.
 
 ## So funktioniert es
 

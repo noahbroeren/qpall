@@ -33,6 +33,6 @@ La ISPM 15 solo se aplica al material de embalaje de madera maciza. El plástico
 
 ## Los mejores palets de plástico para la exportación
 
-Para la exportación, los [palets de exportación encajables](@type-export) ligeros suelen ser la mejor opción. Pesan poco, lo que ahorra en costes de flete, y soportan 2.500 kg en carga estática. Elija la medida que se adapte a su contenedor y a su destino: [1200 x 800](@size-1200x800) para Europa, [1200 x 1000](@size-1200x1000) para el Reino Unido, [1100 x 1100](@size-1100x1100) para Asia o los palets de 1220 x 1020 mm para Estados Unidos.
+Para la exportación, los [palets de exportación encajables](@type-export) ligeros suelen ser la mejor opción. Pesan poco, lo que ahorra en costes de flete, y soportan hasta 2.500 kg en carga estática. Elija la medida que se adapte a su contenedor y a su destino: [1200 x 800](@size-1200x800) para Europa, [1200 x 1000](@size-1200x1000) para el Reino Unido, [1100 x 1100](@size-1100x1100) para Asia o los palets de 1220 x 1020 mm para Estados Unidos.
 
 Tenga en cuenta que siempre debe comprobar los requisitos vigentes del país de destino. Las normas pueden cambiar.

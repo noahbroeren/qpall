@@ -62,7 +62,7 @@ Nos palettes export en plastique sont toujours des palettes Light. Elles sont pl
 
 * **Elles sont légères**, à partir de 2,7 kg. Vous économisez sur les frais de transport.
 * **Elles sont souvent emboîtables.** À vide, elles s’emboîtent les unes dans les autres.
-* **Elles supportent 2.500 kg en charge statique et 1.000 kg en charge dynamique.** Elles sont destinées au transport et au stockage au sol, pas aux rayonnages à palettes.
+* **Elles supportent jusqu’à 2.500 kg en charge statique et 1.000 kg en charge dynamique.** Elles sont destinées au transport et au stockage au sol, pas aux rayonnages à palettes.
 * **Elles n’absorbent pas l’humidité** et amortissent mieux les chocs que le bois.
 * **Elles servent plus d’une fois.** Manipulées avec soin, elles peuvent être utilisées plusieurs fois.
 

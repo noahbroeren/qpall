@@ -13,9 +13,9 @@ faq:
 - q: "Cos’è l’impronta di carbonio?"
   a: "L’impronta di carbonio (carbon footprint) misura le emissioni di gas serra, espresse in chilogrammi di CO₂ equivalente. Per un pallet contano, tra l’altro, la materia prima, la produzione e il trasporto."
 - q: "I pallet in plastica sono sostenibili?"
-  a: "Sì, se durano a lungo e vengono poi riciclati. I nostri pallet sono realizzati in plastica riciclata quasi al 100%, durano molti anni e a fine vita sono completamente riciclabili. Inoltre produciamo localmente, quindi servono meno trasporti."
+  a: "Sì, se durano a lungo e vengono poi riciclati. I nostri pallet standard sono realizzati in plastica riciclata quasi al 100%, durano molti anni e a fine vita sono completamente riciclabili. Inoltre produciamo localmente, quindi servono meno trasporti."
 - q: "Il PPWR si applica anche ai pallet?"
-  a: "Sì. I pallet sono imballaggi per il trasporto e rientrano nel regolamento europeo sugli imballaggi, che si applica dal 12 agosto 2026. Q-Pall fornisce per ogni modello una dichiarazione PPWR scaricabile dalla pagina del prodotto."
+  a: "Sì. I pallet sono imballaggi per il trasporto e rientrano nel regolamento europeo sugli imballaggi, che si applica dal 12 agosto 2026. Q-Pall dispone di una dichiarazione di conformità PPWR per ogni gruppo di pallet; per la maggior parte dei modelli potete scaricarla dalla pagina del prodotto."
 published: '2022-01-09'
 updated: '2026-11-02'
 ---
@@ -62,6 +62,6 @@ Con [Q-Used](@used) offriamo pallet in plastica usati e controllati, in diversi 
 
 Anche la legislazione chiede più attenzione all’ambiente. Il regolamento europeo sugli imballaggi PPWR è entrato in vigore a febbraio 2025 e si applica dal 12 agosto 2026. I pallet sono imballaggi per il trasporto e quindi rientrano anch’essi nel regolamento.
 
-Dal 2030 gli imballaggi dovranno essere riciclabili in classe A, B o C, dove la classe C significa almeno il 70%. Q-Pall fornisce per ogni modello una dichiarazione PPWR scaricabile dalla pagina del prodotto. Per approfondire leggete la nostra guida [PPWR e pallet in plastica](@guide-ppwr).
+Dal 2030 gli imballaggi dovranno essere riciclabili in classe A, B o C, dove la classe C significa almeno il 70%. Q-Pall dispone di una dichiarazione di conformità PPWR per ogni gruppo di pallet; per la maggior parte dei modelli potete scaricarla dalla pagina del prodotto. Per approfondire leggete la nostra guida [PPWR e pallet in plastica](@guide-ppwr).
 
 Volete sapere quale pallet è adatto alla vostra applicazione e ai vostri obiettivi di sostenibilità? [Contattateci](@contact), saremo lieti di consigliarvi.

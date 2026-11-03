@@ -62,7 +62,7 @@ Unsere Einwegpaletten aus Kunststoff sind immer Light-Paletten. Sie leisten mehr
 
 * **Sie wiegen wenig**, ab 2,7 kg. Das spart Frachtkosten.
 * **Sie sind oft nestbar.** Leer lassen sie sich ineinanderstapeln.
-* **Sie tragen 2.500 kg statisch und 1.000 kg dynamisch.** Sie sind für Transport und Bodenlagerung gedacht, nicht für Palettenregale.
+* **Sie tragen bis 2.500 kg statisch und 1.000 kg dynamisch.** Sie sind für Transport und Bodenlagerung gedacht, nicht für Palettenregale.
 * **Sie nehmen keine Feuchtigkeit auf** und fangen Stöße besser ab als Holz.
 * **Sie halten mehr als eine Reise.** Bei sorgfältigem Umgang lassen sie sich mehrmals einsetzen.
 

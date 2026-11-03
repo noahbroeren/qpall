@@ -1,7 +1,7 @@
 ---
 id: class-light
 title: "Light-Kunststoffpaletten – leicht und nestbar – Q-Pall"
-description: "Light-Kunststoffpaletten für Export und Einmalgebrauch: leicht, oft nestbar, 2.500 kg statisch und 1.000 kg dynamisch. Erhältlich in 7 Größen."
+description: "Light-Kunststoffpaletten für Export und Einmalgebrauch: leicht, oft nestbar, bis 2.500 kg statisch und 1.000 kg dynamisch. Erhältlich in 7 Größen."
 eyebrow: "Lastklasse Light"
 h1: "**Light**-Kunststoffpaletten"
 lead: "Die leichtesten Paletten in unserem Sortiment, gemacht für Export, einmalige Sendungen und Bodenlagerung. Es gibt [[count]] Light-Modelle, ab [[price_from]] pro Stück."

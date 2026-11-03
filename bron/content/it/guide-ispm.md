@@ -33,6 +33,6 @@ L’ISPM 15 si applica solo agli imballaggi in legno massiccio. La plastica non 
 
 ## I migliori pallet in plastica per l’esportazione
 
-Per l’esportazione, i [pallet da esportazione incastrabili](@type-export) leggeri sono di solito la scelta migliore. Pesano poco, il che fa risparmiare sui costi di trasporto, e hanno una portata statica di 2.500 kg. Scegliete il formato adatto al vostro container e alla vostra destinazione: [1200 x 800](@size-1200x800) per l’Europa, [1200 x 1000](@size-1200x1000) per il Regno Unito, [1100 x 1100](@size-1100x1100) per l’Asia o i pallet da 1220 x 1020 mm per gli Stati Uniti.
+Per l’esportazione, i [pallet da esportazione incastrabili](@type-export) leggeri sono di solito la scelta migliore. Pesano poco, il che fa risparmiare sui costi di trasporto, e hanno una portata statica fino a 2.500 kg. Scegliete il formato adatto al vostro container e alla vostra destinazione: [1200 x 800](@size-1200x800) per l’Europa, [1200 x 1000](@size-1200x1000) per il Regno Unito, [1100 x 1100](@size-1100x1100) per l’Asia o i pallet da 1220 x 1020 mm per gli Stati Uniti.
 
 Attenzione: verificate sempre i requisiti vigenti nel paese di destinazione. Le norme possono cambiare.

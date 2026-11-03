@@ -70,6 +70,6 @@ Unsere Standardpaletten fertigen wir zu fast 100 % aus recyceltem Kunststoff: ei
 
 Am Ende ihrer Lebensdauer sind unsere Paletten vollständig recycelbar. Wir nehmen sie zurück und mahlen sie zu Rohstoff für neue Paletten. Gebrauchte Paletten in gutem Zustand bekommen über Q-Used ein zweites Leben.
 
-Bei unseren Modellen finden Sie die PPWR-Erklärung als Download auf der Produktseite. Mehr über unseren Ansatz lesen Sie auf der Seite [Nachhaltigkeit](@about-sustainability).
+Bei den meisten Modellen finden Sie die PPWR-Erklärung als Download auf der Produktseite. Mehr über unseren Ansatz lesen Sie auf der Seite [Nachhaltigkeit](@about-sustainability).
 
 Möchten Sie wissen, welche Palette zu Ihrem Prozess passt und was sie pro Umlauf kostet? [Fordern Sie ein Angebot an](@quote), dann erhalten Sie meist innerhalb eines Werktags einen Preis nach Maß.

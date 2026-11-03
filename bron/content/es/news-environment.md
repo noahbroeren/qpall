@@ -13,9 +13,9 @@ faq:
 - q: "¿Qué es la huella de carbono?"
   a: "La huella de carbono mide las emisiones de gases de efecto invernadero, expresadas en kilogramos de CO₂ equivalente. En un palet cuentan, entre otros, la materia prima, la producción y el transporte."
 - q: "¿Son sostenibles los palets de plástico?"
-  a: "Sí, si duran mucho y después se reciclan. Nuestros palets son de plástico reciclado casi al 100%, duran muchos años y al final de su vida útil son totalmente reciclables. Además, producimos localmente, por lo que se necesita menos transporte."
+  a: "Sí, si duran mucho y después se reciclan. Nuestros palets estándar son de plástico reciclado casi al 100%, duran muchos años y al final de su vida útil son totalmente reciclables. Además, producimos localmente, por lo que se necesita menos transporte."
 - q: "¿El PPWR se aplica también a los palets?"
-  a: "Sí. Los palets son envases de transporte y entran en el reglamento europeo de envases, aplicable desde el 12 de agosto de 2026. Q-Pall ofrece para cada modelo una declaración PPWR descargable en la página del producto."
+  a: "Sí. Los palets son envases de transporte y entran en el reglamento europeo de envases, aplicable desde el 12 de agosto de 2026. Q-Pall dispone de una declaración de conformidad PPWR por grupo de palets; en la mayoría de los modelos puede descargarla en la página del producto."
 published: '2022-01-09'
 updated: '2026-11-02'
 ---
@@ -62,6 +62,6 @@ Con [Q-Used](@used) ofrecemos palets de plástico usados y revisados, en distint
 
 La legislación también exige más atención al medio ambiente. El reglamento europeo de envases PPWR entró en vigor en febrero de 2025 y se aplica desde el 12 de agosto de 2026. Los palets son envases de transporte, así que también están incluidos.
 
-A partir de 2030, los envases deberán ser reciclables en la clase A, B o C, donde la clase C significa al menos un 70%. Q-Pall ofrece para cada modelo una declaración PPWR descargable en la página del producto. Más información en nuestra guía [PPWR y palets de plástico](@guide-ppwr).
+A partir de 2030, los envases deberán ser reciclables en la clase A, B o C, donde la clase C significa al menos un 70%. Q-Pall dispone de una declaración de conformidad PPWR por grupo de palets; en la mayoría de los modelos puede descargarla en la página del producto. Más información en nuestra guía [PPWR y palets de plástico](@guide-ppwr).
 
 ¿Quiere saber qué palet se adapta a su aplicación y a sus objetivos de sostenibilidad? [Contacte con nosotros](@contact) y le asesoraremos con gusto.

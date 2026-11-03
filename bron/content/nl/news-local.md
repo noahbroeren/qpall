@@ -9,7 +9,7 @@ h1: "Van trend naar noodzaak: **lokale productie** als pijler voor een wendbare 
 lead: "In een onrustige wereld is nearshoring geen strategische optie meer, maar een eis voor risicobeheersing. Lokale productie van logistieke middelen levert drie dingen op: veerkracht, minder scope 3-uitstoot en een lagere TCO."
 img_alt: "Robots en spuitgietmachines in de productiehal van de Q-Pall-fabriek in Balk"
 reading: 3
-published: '2026-01-22'
+published: '2026-02-26'
 updated: '2026-11-02'
 ---
 > **In het kort**

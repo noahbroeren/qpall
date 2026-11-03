@@ -70,6 +70,6 @@ Nous fabriquons nos palettes standard en plastique recyclé à près de 100 % : 
 
 En fin de vie, nos palettes sont entièrement recyclables. Nous les reprenons et les broyons pour en faire la matière première de nouvelles palettes. Les palettes d’occasion en bon état ont une seconde vie grâce à Q-Used.
 
-Pour nos modèles, vous trouvez la déclaration PPWR en téléchargement sur la page produit. Découvrez notre démarche sur la page [développement durable](@about-sustainability).
+Pour la plupart des modèles, vous trouvez la déclaration PPWR en téléchargement sur la page produit. Découvrez notre démarche sur la page [développement durable](@about-sustainability).
 
 Vous voulez savoir quelle palette convient à votre processus et ce qu’elle coûte par rotation ? [Demandez un devis](@quote) : vous recevez généralement un prix sur mesure en un jour ouvré.

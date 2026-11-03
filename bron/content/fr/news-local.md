@@ -9,7 +9,7 @@ h1: "De la tendance à la nécessité : la **production locale**, pilier de la r
 lead: "Dans un monde instable, le nearshoring n’est plus une option mais une exigence de gestion des risques. Produire localement ses équipements logistiques apporte : résilience, moins d’émissions de scope 3 et un TCO plus bas."
 img_alt: "Robots et presses à injecter dans le hall de production de l'usine Q-Pall à Balk"
 reading: 4
-published: '2026-01-22'
+published: '2026-02-26'
 updated: '2026-11-02'
 ---
 > **En bref**

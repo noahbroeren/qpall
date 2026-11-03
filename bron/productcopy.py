@@ -87,7 +87,7 @@ ON = {'nl': 'op', 'en': 'on', 'de': 'auf', 'fr': 'sur', 'it': 'su', 'es': 'sobre
 LOAD_WORDS = {
     'nl': ('statisch', 'dynamisch', 'in de stelling', 'en'), 'en': ('static', 'dynamic', 'racking', 'and'),
     'de': ('statisch', 'dynamisch', 'im Regal', 'und'), 'fr': ('statique', 'dynamique', 'en rayonnage', 'et'),
-    'it': ('statico', 'dinamico', 'su scaffale', 'e'), 'es': ('estática', 'dinámica', 'en estantería', 'y'),
+    'it': ('in statica', 'in dinamica', 'su scaffale', 'e'), 'es': ('estática', 'dinámica', 'en estantería', 'y'),
 }
 TAILS = {
     'nl': ('Vanaf {p} excl. btw.', 'Vraag een offerte aan.', 'Bekijk alle specificaties.'),
@@ -245,7 +245,8 @@ def meta_desc(m, lang):
     rk = rng_txt(m['racking'], lang).replace('–', '-') if m['racking'] else None
     tw = TYPEWORD[lang][m['special']]
     ws, wd, wr, wand = LOAD_WORDS[lang]
-    head = f"{tw} {m['L']} x {m['W']} mm, {deck_words(m, lang)} {ON[lang]} {support_words(m, lang)}, {m['class']}"
+    dl, dw = m.get('disp_LW') or (m['L'], m['W'])   # size in category order (760 x 1140, 600 x 800)
+    head = f"{tw} {dl} x {dw} mm, {deck_words(m, lang)} {ON[lang]} {support_words(m, lang)}, {m['class']}"
     if m.get('sku_title'):
         head = f"{m['sku']}: {head}"
     loads = f"{st} {ws}, {dy} {wd}" + (f" {wand} {rk} {wr}" if rk else "")

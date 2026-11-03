@@ -4,7 +4,7 @@ title: "Palettes plastique CP (CP1, CP3, CP6, CP9) – Q-Pall"
 description: "Palettes plastique CP pour l’industrie chimique : CP1 et CP6 (1200 x 1000), CP3 et CP9 (1140 x 1140). Jusqu’à 7.500 kg en statique et 2.200 kg en dynamique."
 eyebrow: "Industrie chimique"
 h1: "**Palettes CP** en plastique"
-lead: "La version plastique de la palette chimique. Q-Pall a été l’un des pionniers de la palette CP en plastique, alternative à la palette CP en bois. Nous proposons les CP1, CP3 et CP9 en Medium et Heavy, et la CP6 en Heavy."
+lead: "La version plastique de la palette chimique. Nous proposons les CP1, CP3 et CP9 en Medium et Heavy, et la CP6 en Heavy."
 faq:
   - q: "Que signifie CP ?"
     a: "CP signifie Chemical Pallet (palette chimique). Les palettes CP ont été conçues à l’origine pour standardiser la gamme de palettes dans l’industrie chimique et la plasturgie européennes. Il en existe neuf types, de CP1 à CP9."

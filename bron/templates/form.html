@@ -18,7 +18,8 @@
           <p class="fstep-stack">{{ M.icon('nest') }}<span>{{ t.form_stack_hint }}</span></p>
           <div class="lines">
             {% for i in range(1, 7) %}<div class="line"{% if i > 1 %} hidden{% endif %}>
-              <div class="field"><label for="prod-{{ i }}">{{ t.form_product }} {{ i }}</label><input id="prod-{{ i }}" list="productlist" placeholder="{{ t.form_choose }}" autocomplete="off"></div>
+              <div class="field"><label for="prod-{{ i }}">{{ t.form_product }} {{ i }}</label><input id="prod-{{ i }}" list="productlist" placeholder="{{ t.form_choose }}" autocomplete="off">
+                <div class="pick" data-art="{{ t.art_nr_short }}" data-per="{{ t.qty_per_stack }}" hidden><img alt="" width="96" height="64" decoding="async"><span><b></b><small></small></span></div></div>
               <div class="field field-qty"><label for="qty-{{ i }}">{{ t.form_qty_pallets }}</label>
                 <div class="qty" data-qty><button class="qty-b" type="button" data-d="-1" aria-label="{{ t.qty_less }}">−</button><input id="qty-{{ i }}" type="number" min="1" step="1" placeholder="1" inputmode="numeric"><button class="qty-b" type="button" data-d="1" aria-label="{{ t.qty_more }}">+</button></div>
                 <small class="qty-n" aria-live="polite" data-one="{{ t.qty_stack_1 }}" data-many="{{ t.qty_stack_n }}"></small><small class="qty-per" data-t="{{ t.qty_per_stack }}"></small></div>

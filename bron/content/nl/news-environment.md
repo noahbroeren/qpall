@@ -13,9 +13,9 @@ faq:
 - q: "Wat is een carbon footprint?"
   a: "De carbon footprint, of CO₂-voetafdruk, is een maat voor de uitstoot van broeikasgassen, uitgedrukt in kilogram CO₂-equivalent. Bij een pallet tellen onder meer de grondstof, de productie en het transport mee."
 - q: "Zijn kunststof pallets duurzaam?"
-  a: "Ja, als ze lang meegaan en daarna gerecycled worden. Onze pallets zijn van bijna 100% gerecycled kunststof, gaan vele jaren mee en zijn aan het einde van hun leven volledig recyclebaar. Bovendien produceren we lokaal, zodat er minder transport nodig is."
+  a: "Ja, als ze lang meegaan en daarna gerecycled worden. Onze standaardpallets zijn van bijna 100% gerecycled kunststof, gaan vele jaren mee en zijn aan het einde van hun leven volledig recyclebaar. Bovendien produceren we lokaal, zodat er minder transport nodig is."
 - q: "Geldt de PPWR ook voor pallets?"
-  a: "Ja. Pallets zijn transportverpakking en vallen onder de Europese verpakkingsverordening, die sinds 12 augustus 2026 van toepassing is. Q-Pall levert per model een PPWR-verklaring als download op de productpagina."
+  a: "Ja. Pallets zijn transportverpakking en vallen onder de Europese verpakkingsverordening, die sinds 12 augustus 2026 van toepassing is. Q-Pall heeft per palletgroep een PPWR-conformiteitsverklaring; bij de meeste modellen downloadt u die op de productpagina."
 published: '2022-01-09'
 updated: '2026-11-02'
 ---
@@ -62,6 +62,6 @@ Via [Q-Used](@used) bieden we gekeurde gebruikte kunststof pallets aan, in versc
 
 Ook de wetgeving vraagt meer aandacht voor het milieu. De Europese verpakkingsverordening PPWR is van kracht sinds februari 2025 en van toepassing sinds 12 augustus 2026. Pallets zijn transportverpakking en vallen er dus ook onder.
 
-Vanaf 2030 moeten verpakkingen recyclebaar zijn in klasse A, B of C, waarbij klasse C minimaal 70% betekent. Q-Pall levert per model een PPWR-verklaring als download op de productpagina. Meer leest u in onze gids over [PPWR en kunststof pallets](@guide-ppwr).
+Vanaf 2030 moeten verpakkingen recyclebaar zijn in klasse A, B of C, waarbij klasse C minimaal 70% betekent. Q-Pall heeft per palletgroep een PPWR-conformiteitsverklaring; bij de meeste modellen downloadt u die op de productpagina. Meer leest u in onze gids over [PPWR en kunststof pallets](@guide-ppwr).
 
 Wilt u weten welke pallet past bij uw toepassing en uw duurzaamheidsdoelen? [Neem contact met ons op](@contact), dan denken we graag met u mee.

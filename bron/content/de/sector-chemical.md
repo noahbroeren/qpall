@@ -29,4 +29,4 @@ Chemische Produkte werden oft in Säcken, Big Bags, Oktabins oder Fässern trans
 
 ## Unsere empfohlenen Paletten
 
-Q-Pall war einer der Pioniere der [CP-Paletten](@type-cp) aus Kunststoff. Die CP1 und CP6 in 1200 x 1000 mm eignen sich für Sackware und Kartons. Die CP3 und CP9 in 1140 x 1140 mm sind für Fässer, Oktabins und Big Bags gemacht. Für große Sackwarenpaletten gibt es das Format [1300 x 1100 mm](@size-1300x1100). Für Seecontainer wählen Sie die Light-Palette in [760 x 1140 mm](@size-760x1140).
+Q-Pall fertigt [CP-Paletten](@type-cp) aus Kunststoff. Die CP1 und CP6 in 1200 x 1000 mm eignen sich für Sackware und Kartons. Die CP3 und CP9 in 1140 x 1140 mm sind für Fässer, Oktabins und Big Bags gemacht. Für große Sackwarenpaletten gibt es das Format [1300 x 1100 mm](@size-1300x1100). Für Seecontainer wählen Sie die Light-Palette in [760 x 1140 mm](@size-760x1140).

@@ -11,7 +11,7 @@ faq:
   - q: "Halten Kunststoffpaletten länger als Holzpaletten?"
     a: "Ja. Bei normalem Einsatz hält eine Kunststoffpalette viele Jahre. Es gibt keine losen Bretter oder Nägel, die sich lösen können, und Kunststoff verrottet nicht und splittert nicht."
   - q: "Sind Kunststoffpaletten wirklich nachhaltig?"
-    a: "Ja, wenn sie lange halten und anschließend recycelt werden. Unsere Paletten bestehen aus fast 100 % recyceltem Kunststoff und sind am Ende ihrer Lebensdauer vollständig recycelbar. Außerdem produzieren wir lokal, sodass weniger Transport nötig ist."
+    a: "Ja, wenn sie lange halten und anschließend recycelt werden. Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff und sind am Ende ihrer Lebensdauer vollständig recycelbar. Außerdem produzieren wir lokal, sodass weniger Transport nötig ist."
 ---
 
 ## Der Vergleich

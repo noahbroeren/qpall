@@ -47,7 +47,7 @@ La somme des concentrations en plomb, cadmium, mercure et chrome hexavalent dans
 * À partir de 2030, les emballages doivent être conçus pour le recyclage (au moins la classe C, soit 70 % ou plus sur l’échelle de recyclabilité).
 * Un étiquetage harmonisé des matériaux suivra à partir du 12 août 2028, une fois les actes d’exécution adoptés.
 
-Nos palettes sont composées d’une seule famille de matériaux (HDPE/PP recyclé) et sont entièrement recyclables en fin de vie. Elles retournent dans la boucle.
+Nos palettes standard sont composées d’une seule famille de matériaux (HDPE/PP recyclé) et sont entièrement recyclables en fin de vie. Elles retournent dans la boucle.
 
 ## Qu’est-ce que cela signifie pour le choix de vos palettes ?
 

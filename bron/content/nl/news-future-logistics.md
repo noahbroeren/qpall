@@ -50,7 +50,7 @@ Schade aan een houten pallet betekent vaak dat hij niet meer bruikbaar is. Kunst
 
 ## Van alternatief voor hout tot slimme ladingdrager
 
-Wat begon als alternatief voor hout, is uitgegroeid tot een technisch product voor moderne logistiek. Onze pallets kunnen worden voorzien van een RFID-tag, zodat u goederenstromen beter kunt volgen. Retailer Auchan gaat nog een stap verder en zet [50.000 slimme Q-Pall pallets](@news-auchan) in die locatie, temperatuur en schokken meten.
+Wat begon als alternatief voor hout, is uitgegroeid tot een technisch product voor moderne logistiek. Onze pallets kunnen worden voorzien van een RFID-tag, zodat u goederenstromen beter kunt volgen. Retailer Auchan ging nog een stap verder en zette [50.000 slimme Q-Pall-pallets](@news-auchan) in die locatie, temperatuur en schokken meten.
 
 Aan het einde van hun leven nemen we de pallets terug. We vermalen ze tot grondstof en maken er nieuwe pallets van. Zo blijft het materiaal in de kringloop.
 

@@ -12,7 +12,7 @@ lead: "Since 2005, we have focused on one thing: affordable, reliable plastic pa
 
 From the start, our mission has been clear: to supply cost-effective and reliable plastic pallets, with sustainability as the starting point. Because we focus entirely on the development and production of plastic pallets, we can keep offering new solutions that meet the changing needs of our customers.
 
-Our pallets are made from almost 100% recycled plastic. They are environmentally friendly, without compromising on strength or service life. This way, we reduce waste and at the same time supply pallets you can build on. We call that **pallets with a purpose**.
+Our standard pallets are made from almost 100% recycled plastic. They are environmentally friendly, without compromising on strength or service life. This way, we reduce waste and at the same time supply pallets you can build on. We call that **pallets with a purpose**.
 
 ## Q-Pall in figures
 

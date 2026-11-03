@@ -4,7 +4,7 @@ title: "Développement durable : palettes en plastique recyclé"
 description: "Q-Pall fabrique des palettes en plastique recyclé à près de 100 %, produit localement et boucle la boucle. Voyez comment nous réduisons CO2 et déchets."
 eyebrow: "Développement durable"
 h1: "Durable **de la matière première au recyclage**"
-lead: "La durabilité fait partie de notre ADN. Nous fabriquons nos palettes en plastique recyclé à près de 100 %, nous produisons près de nos clients et, en fin de vie, les palettes redeviennent matière première."
+lead: "La durabilité fait partie de notre ADN. Nous fabriquons nos palettes standard en plastique recyclé à près de 100 %, nous produisons près de nos clients et, en fin de vie, les palettes redeviennent matière première."
 ---
 
 ## Le plastique recyclé comme matière première
@@ -19,7 +19,7 @@ Nous nous intéressons aussi aux flux de déchets plastiques de nos clients. Dan
 
 ## Moins de transport, moins de CO2
 
-Plus de 80 % des émissions de CO2 du secteur de la palette proviennent du transport. Un camion rempli de palettes transporte surtout de l’air. C’est pourquoi nous produisons [localement](@about-local), dans six usines réparties à travers l’Europe. Presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine Q-Pall. Les palettes plastique sont en outre plus légères que de nombreuses palettes en bois. Un poids à vide plus faible signifie plus de charge par trajet et moins de carburant.
+Dans le secteur de la palette, la majeure partie des émissions de CO₂ provient du transport. Un camion rempli de palettes transporte surtout de l’air. C’est pourquoi nous produisons [localement](@about-local), dans six usines réparties à travers l’Europe. Presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine Q-Pall. Les palettes plastique sont en outre plus légères que de nombreuses palettes en bois. Un poids à vide plus faible signifie plus de charge par trajet et moins de carburant.
 
 ## Conçues pour durer, puis de nouveau matière première
 

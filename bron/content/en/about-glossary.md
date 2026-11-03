@@ -35,7 +35,7 @@ Plastic pallets with anti-static additives. These prevent the pallet from becomi
 A sturdy pallet for industrial use that you can pick up with a forklift from all four sides. See [block pallets](@type-block).
 
 ### Carbon footprint
-The total environmental impact of a pallet over its entire life cycle (raw material, production and transport), expressed in CO2 equivalent. This is recorded in an Environmental Product Declaration (EPD).
+The greenhouse gas emissions of a pallet over its entire life cycle (raw material, production and transport), expressed in CO₂ equivalent.
 
 ### Click-on runners
 Separate runners that you click under a nestable pallet with 9 feet without tools. You transport the pallets nested and make them more stable on site. See [runners](@acc-runners).
@@ -59,7 +59,7 @@ Blocks on the underside of the pallet, usually 9 of them. Pallets with feet are 
 A hygienic plastic pallet in Euro pallet size, originally a pool pallet for the meat industry. See [hygienic pallets](@type-hygienic).
 
 ### HDPE and PP
-The two plastics our pallets are made of: high-density polyethylene (HDPE, recycling code 2) and polypropylene (PP). Both are easy to recycle. Read more about code 2 in [recycled PE-HD 2: what is it exactly?](@news-hdpe)
+The two plastics our standard pallets are made of: high-density polyethylene (HDPE, recycling code 2) and polypropylene (PP). Both are easy to recycle. Read more about code 2 in [recycled PE-HD 2: what is it exactly?](@news-hdpe)
 
 ### ISPM 15
 The international standard for wooden packaging material in export. Plastic pallets are exempt from it. See [ISPM 15 and export](@guide-ispm).

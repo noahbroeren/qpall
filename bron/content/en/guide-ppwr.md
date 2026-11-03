@@ -47,7 +47,7 @@ The sum of lead, cadmium, mercury and hexavalent chromium in packaging may not e
 * From 2030, packaging must be designed for recycling (at least grade C, 70% or more on the recyclability scale).
 * A harmonised material label follows from 12 August 2028, once the implementing acts are adopted.
 
-Our pallets consist of one material family (recycled HDPE/PP) and are fully recyclable at the end of their life. They go back into the loop.
+Our standard pallets consist of one material family (recycled HDPE/PP) and are fully recyclable at the end of their life. They go back into the loop.
 
 ## What does this mean for your pallet choice?
 

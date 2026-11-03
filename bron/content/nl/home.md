@@ -157,7 +157,7 @@ cases:
   lead: "Van supermarkt tot bouwplaats: een paar voorbeelden van bedrijven die op onze pallets vertrouwen. Elke case leest u in het nieuws."
   more: "Alle nieuws"
   items:
-    - {id: news-auchan, client: "Auchan · retail, Frankrijk", title: "50.000 slimme europallets", text: "Auchan rolt in heel Frankrijk heavy duty europallets van gerecycled kunststof uit, elke pallet met IoT-technologie van IBM."}
+    - {id: news-auchan, client: "Auchan · retail, Frankrijk", title: "50.000 slimme europallets", text: "Auchan rolde in heel Frankrijk heavy duty europallets van gerecycled kunststof uit, elke pallet met IoT-technologie van IBM."}
     - {id: news-mega-order, client: "Drankenpallet Beheer Nederland", title: "Een miljoen pallets uit Balk", text: "De grootste Nederlandse order sinds 2005: minimaal een miljoen pallets van gerecycled kunststof voor de drankenbranche."}
     - {id: news-stackup, client: "Kwakman Afbouw · bouw", title: "70% minder loopbewegingen", text: "Samen ontwikkelden we de Stack-Up Pallet voor de bouwplaats: minder sjouwen, minder afval en een snellere afbouw."}
     - {id: news-covid, client: "Vaccintransport · farmacie", title: "Pallets voor COVID-vaccins", text: "Via partner Goplasticpallets.com leverde Q-Pall de 1208 HR 5R voor vaccintransporten naar onder meer Amerika, China en Zuid-Korea."}

@@ -4,7 +4,7 @@ title: "Ultra pallet: heavy duty kunststof poolpallet – Q-Pall"
 description: "De Ultra pallet van 1200 x 1000 x 165 mm: heavy duty, antislip boven en onder, tot 1.375 kg in de stelling. Ontwikkeld met grote drankmerken."
 eyebrow: "Heavy duty poolpallet"
 h1: "De **Ultra pallet**"
-lead: "Een allround heavy duty pallet van 1200 x 1000 x 165 mm, gemaakt van ruim 99% secundaire grondstoffen. Met antislip aan boven- en onderkant en tot 1.375 kg in een palletstelling."
+lead: "Een allround heavy duty pallet van 1200 x 1000 x 165 mm, gemaakt van bijna 100% gerecycled kunststof. Met antislip aan boven- en onderkant en tot 1.375 kg in een palletstelling."
 faq:
   - q: "Wat maakt de Ultra pallet bijzonder?"
     a: "De Ultra pallet combineert een heavy duty constructie met antislip aan boven- en onderkant, zonder metalen versterkingen. Hij draagt tot 1.375 kg in de stelling en is ontwikkeld samen met grote merken uit de drankenindustrie."
@@ -25,7 +25,7 @@ De Ultra pallet is ontwikkeld samen met grote merken uit de drankenindustrie, zo
 - **Gesloten onderlatten**, verkrijgbaar met 3 of 6 onderlatten.
 - **Stellingbelasting tot 1.375 kg** zonder metalen versterkingen.
 - **Slag- en stootvast**, geschikt voor geautomatiseerde transportsystemen.
-- **Circulair:** gemaakt van ruim 99% secundaire grondstoffen, zoals oude kratten en doppen, en volledig recyclebaar.
+- **Circulair:** gemaakt van bijna 100% gerecycled kunststof, onder meer uit oude kratten en doppen, en volledig recyclebaar.
 
 ## Toepassingen
 

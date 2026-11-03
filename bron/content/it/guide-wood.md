@@ -11,7 +11,7 @@ faq:
   - q: "I pallet in plastica durano più a lungo di quelli in legno?"
     a: "Sì. Con un uso normale, un pallet in plastica dura molti anni. Non ci sono assi o chiodi che possano allentarsi, e la plastica non marcisce né si spacca."
   - q: "I pallet in plastica sono davvero sostenibili?"
-    a: "Sì, se durano a lungo e vengono poi riciclati. I nostri pallet sono realizzati in plastica riciclata quasi al 100% e sono completamente riciclabili a fine vita. Inoltre produciamo localmente, quindi servono meno trasporti."
+    a: "Sì, se durano a lungo e vengono poi riciclati. I nostri pallet standard sono realizzati in plastica riciclata quasi al 100% e sono completamente riciclabili a fine vita. Inoltre produciamo localmente, quindi servono meno trasporti."
 ---
 
 ## Il confronto

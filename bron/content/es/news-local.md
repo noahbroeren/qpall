@@ -9,7 +9,7 @@ h1: "De tendencia a necesidad: la **producción local** como pilar de la resilie
 lead: "En un mundo inestable, el nearshoring ya no es una opción, sino un requisito para gestionar el riesgo. La producción local de equipos logísticos aporta tres cosas: resiliencia, menos emisiones de alcance 3 y un TCO más bajo."
 img_alt: "Robots e inyectoras en la nave de producción de la fábrica de Q-Pall en Balk"
 reading: 4
-published: '2026-01-22'
+published: '2026-02-26'
 updated: '2026-11-02'
 ---
 > **En resumen**

@@ -9,7 +9,7 @@ h1: "Da tendenza a necessità: la **produzione locale** come pilastro della resi
 lead: "In un mondo instabile il nearshoring non è più un’opzione, ma un requisito per la gestione del rischio. La produzione locale di attrezzature logistiche porta tre vantaggi: resilienza, meno emissioni scope 3 e un TCO più basso."
 img_alt: "Robot e presse a iniezione nel reparto produttivo dello stabilimento Q-Pall di Balk"
 reading: 3
-published: '2026-01-22'
+published: '2026-02-26'
 updated: '2026-11-02'
 ---
 > **In breve**

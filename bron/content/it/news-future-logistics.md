@@ -50,7 +50,7 @@ Un danno a un pallet in legno spesso significa che non è più utilizzabile. I p
 
 ## Da alternativa al legno a supporto di carico intelligente
 
-Quella che era nata come alternativa al legno è diventata un prodotto tecnico per la logistica moderna. I nostri pallet possono essere dotati di un tag RFID, così potete seguire meglio i flussi di merci. L’insegna Auchan va oltre e adotta [50.000 pallet intelligenti Q-Pall](@news-auchan) che misurano posizione, temperatura e urti.
+Quella che era nata come alternativa al legno è diventata un prodotto tecnico per la logistica moderna. I nostri pallet possono essere dotati di un tag RFID, così potete seguire meglio i flussi di merci. L’insegna Auchan è andata oltre e ha adottato [50.000 pallet intelligenti Q-Pall](@news-auchan) che misurano posizione, temperatura e urti.
 
 A fine vita ritiriamo i pallet. Li maciniamo per ricavarne materia prima e produciamo nuovi pallet. Così il materiale resta nel ciclo.
 

@@ -9,7 +9,7 @@ h1: "From trend to necessity: **local production** as a pillar for supply chain 
 lead: "In an unstable world, nearshoring is no longer a strategic option but a requirement for risk management. Local production of logistics equipment delivers three things: resilience, lower scope 3 emissions and a lower TCO."
 img_alt: "Robots and injection moulding machines in the production hall of the Q-Pall factory in Balk"
 reading: 3
-published: '2026-01-22'
+published: '2026-02-26'
 updated: '2026-11-02'
 ---
 > **In short**

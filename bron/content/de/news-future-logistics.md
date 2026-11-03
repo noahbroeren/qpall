@@ -50,7 +50,7 @@ Ein Schaden an einer Holzpalette bedeutet oft, dass sie nicht mehr nutzbar ist. 
 
 ## Von der Holzalternative zum smarten Ladungsträger
 
-Was als Alternative zu Holz begann, ist zu einem technischen Produkt für die moderne Logistik geworden. Unsere Paletten lassen sich mit einem RFID-Tag ausstatten, damit Sie Warenströme besser verfolgen können. Der Handelskonzern Auchan geht noch einen Schritt weiter und setzt [50.000 smarte Q-Pall Paletten](@news-auchan) ein, die Standort, Temperatur und Stöße messen.
+Was als Alternative zu Holz begann, ist zu einem technischen Produkt für die moderne Logistik geworden. Unsere Paletten lassen sich mit einem RFID-Tag ausstatten, damit Sie Warenströme besser verfolgen können. Der Handelskonzern Auchan ging noch einen Schritt weiter und setzte [50.000 smarte Q-Pall-Paletten](@news-auchan) ein, die Standort, Temperatur und Stöße messen.
 
 Am Ende ihrer Lebensdauer nehmen wir die Paletten zurück. Wir mahlen sie zu Rohstoff und fertigen daraus neue Paletten. So bleibt das Material im Kreislauf.
 

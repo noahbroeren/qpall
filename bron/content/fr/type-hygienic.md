@@ -7,7 +7,7 @@ h1: "**Palettes plastique** hygiéniques"
 lead: "Des palettes lisses et faciles à nettoyer pour l’industrie agroalimentaire, la pharmacie et les salles blanches. Dont des palettes H1 et des palettes salle blanche, en 1200 x 800 et 1200 x 1000 mm."
 faq:
   - q: "Qu’est-ce qui rend une palette hygiénique ?"
-    a: "Une palette hygiénique présente une conception lisse et aussi fermée que possible, sans joints ni recoins où la saleté et les bactéries s’accumulent. La palette n’absorbe pas l’humidité, résiste à un nettoyage intensif et n’a ni échardes ni clous."
+    a: "Une palette hygiénique présente une conception lisse et aussi fermée que possible, sans joints ni recoins où la saleté peut s’accumuler. La palette n’absorbe pas l’humidité, résiste à un nettoyage intensif et n’a ni échardes ni clous."
   - q: "Qu’est-ce qu’une palette H1 ?"
     a: "La palette H1 est une palette plastique au format palette Europe, développée à l’origine comme palette de pooling pour l’industrie de la viande. Aujourd’hui, toute l’industrie agroalimentaire l’utilise. Notre palette Europe H1 possède un plateau ajouré sur 3 semelles."
   - q: "Les palettes hygiéniques sont-elles en plastique vierge ou recyclé ?"

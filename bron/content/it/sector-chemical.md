@@ -29,4 +29,4 @@ I prodotti chimici vengono spesso trasportati in sacchi, big bag, octabin o fust
 
 ## I pallet che consigliamo
 
-Q-Pall è stata tra i pionieri dei [pallet CP](@type-cp) in plastica. I CP1 e CP6 da 1200 x 1000 mm sono adatti a merci in sacchi e scatole. I CP3 e CP9 da 1140 x 1140 mm sono pensati per fusti, octabin e big bag. Per i pallet di grandi dimensioni con merci in sacchi c’è il formato [1300 x 1100 mm](@size-1300x1100). Per i container marittimi scegliete il pallet Light da [760 x 1140 mm](@size-760x1140).
+Q-Pall produce [pallet CP](@type-cp) in plastica. I CP1 e CP6 da 1200 x 1000 mm sono adatti a merci in sacchi e scatole. I CP3 e CP9 da 1140 x 1140 mm sono pensati per fusti, octabin e big bag. Per i pallet di grandi dimensioni con merci in sacchi c’è il formato [1300 x 1100 mm](@size-1300x1100). Per i container marittimi scegliete il pallet Light da [760 x 1140 mm](@size-760x1140).

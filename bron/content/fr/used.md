@@ -24,7 +24,7 @@ Dans des conditions d’utilisation normales, une palette plastique dure de nomb
 - **Contrôlées :** chaque palette est inspectée pour détecter les dommages et vérifier sa construction.
 - **Dimensionnellement stables :** le plastique ne se déforme pas sous l’effet de l’humidité.
 - **Prêtes pour l’export :** comme les palettes plastique neuves, exemptées de la norme [ISPM 15](@guide-ispm).
-- **Hygiéniques et sûres :** ni rouille, ni échardes, ni éléments mal fixés.
+- **Faciles à nettoyer et sûres :** ni rouille, ni échardes, ni éléments mal fixés.
 
 ## Comment ça marche
 

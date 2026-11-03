@@ -1,7 +1,7 @@
 ---
 id: class-light
 title: "Light kunststof pallets – licht en nestbaar – Q-Pall"
-description: "Light kunststof pallets voor export en eenmalig gebruik: licht, vaak nestbaar, 2.500 kg statisch en 1.000 kg dynamisch. In 7 formaten."
+description: "Light kunststof pallets voor export en eenmalig gebruik: licht, vaak nestbaar, tot 2.500 kg statisch en 1.000 kg dynamisch. In 7 formaten."
 eyebrow: "Draagklasse light"
 h1: "**Light** kunststof pallets"
 lead: "De lichtste pallets in ons assortiment, gemaakt voor export, eenmalige zendingen en vloeropslag. Er zijn [[count]] light modellen, vanaf [[price_from]] per stuk."

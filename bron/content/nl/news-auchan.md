@@ -9,7 +9,7 @@ h1: "Auchan zet **50.000 slimme Q-Pall pallets** in, samen met IBM"
 lead: "Vanaf eind 2025 rolde retailer Auchan in heel Frankrijk 50.000 slimme heavy duty europallets van gerecycled kunststof uit. Met IoT-technologie van IBM werd elke pallet een bron van data over de keten."
 img_alt: "Gezin met winkelwagen in een supermarktgangpad"
 reading: 2
-published: '2025-12-12'
+published: '2026-02-26'
 updated: '2026-11-02'
 ---
 > **In het kort**

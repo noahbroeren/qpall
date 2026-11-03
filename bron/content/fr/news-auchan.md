@@ -9,7 +9,7 @@ h1: "Auchan déploie **50.000 palettes Q-Pall intelligentes**, avec IBM"
 lead: "À partir de fin 2025, l’enseigne Auchan a déployé dans toute la France 50.000 palettes Europe heavy duty intelligentes en plastique recyclé. Grâce à l’IoT d’IBM, chaque palette est devenue une source de données."
 img_alt: "Famille avec un chariot dans un rayon de supermarché"
 reading: 2
-published: '2025-12-12'
+published: '2026-02-26'
 updated: '2026-11-02'
 ---
 > **En bref**

@@ -9,7 +9,7 @@ h1: "Auchan setzt **50.000 smarte Q-Pall Paletten** ein, gemeinsam mit IBM"
 lead: "Ab Ende 2025 führte der Händler Auchan in ganz Frankreich 50.000 smarte Schwerlast-Europaletten aus recyceltem Kunststoff ein. Mit IoT-Technologie von IBM wurde jede Palette zur Datenquelle für die Lieferkette."
 img_alt: "Familie mit Einkaufswagen in einem Supermarktgang"
 reading: 2
-published: '2025-12-12'
+published: '2026-02-26'
 updated: '2026-11-02'
 ---
 > **Kurz gesagt**

@@ -15,7 +15,7 @@ faq:
 - q: "Quelles sont les dimensions d’une palette H1 ?"
   a: "Notre palette Europe H1 mesure 1200 x 800 x 160 mm. Elle possède un plateau ajouré sur trois semelles."
 - q: "Combien pèse une palette H1 ?"
-  a: "Notre palette Europe H1 pèse 18 kg. Elle supporte 5.000 kg en statique, 1.250 kg en dynamique et 1.000 kg en rack, avec une charge répartie uniformément."
+  a: "Notre palette Europe H1 pèse 18 kg. Elle supporte 5.000 kg en statique, 1.250 kg en dynamique et 1.000 kg en rayonnage, avec une charge répartie uniformément."
 - q: "La palette H1 est-elle en plastique recyclé ?"
   a: "Non. Nos palettes H1 sont en plastique vierge (neuf), comme nos autres palettes hygiéniques. Les palettes en plastique recyclé ne sont pas destinées au contact direct avec les denrées alimentaires."
 published: '2022-01-11'
@@ -54,7 +54,7 @@ Les principales caractéristiques de notre palette Europe H1 :
 | Classe de charge | heavy |
 | Charge statique | 5.000 kg |
 | Charge dynamique | 1.250 kg |
-| Charge en rack | 1.000 kg |
+| Charge en rayonnage | 1.000 kg |
 | Matériau | Plastique vierge |
 | Par pile | 15 palettes |
 

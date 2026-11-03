@@ -41,7 +41,7 @@ Een stevige pallet voor industrieel gebruik, die u van alle vier de zijden met e
 Het bovenvlak van de pallet, waarop de lading staat. Er zijn twee varianten. Een **open dek** heeft een roosterstructuur: lichter, en vocht en lucht kunnen erdoorheen. Een **gesloten dek** is vlak en dicht: hygiënischer en beter voor kleine verpakkingen.
 
 ### Carbon footprint
-De totale milieu-impact van een pallet, uitgedrukt in CO2-equivalent, over de hele levenscyclus: grondstof, productie en transport. Dit wordt vastgelegd in een milieuproductverklaring (EPD).
+De uitstoot van broeikasgassen van een pallet, uitgedrukt in CO₂-equivalent, over de hele levenscyclus: grondstof, productie en transport.
 
 ### CP-pallet
 Een chemiepallet volgens een van de negen CP-formaten (CP1 t/m CP9) van de Europese chemische industrie. Zie [CP-pallets](@type-cp).
@@ -59,7 +59,7 @@ Pallets met geleidende additieven, zoals carbon black, die elektrostatische ontl
 Een lichte pallet voor een enkele reis, vaak nestbaar. Kunststof exportpallets zijn vrijgesteld van ISPM 15. Zie [exportpallets](@type-export).
 
 ### HDPE en PP
-De twee kunststoffen waar onze pallets van zijn gemaakt: polyethyleen met hoge dichtheid (HDPE, recyclingcode 2) en polypropyleen (PP). Beide zijn goed te recyclen. Meer uitleg over code 2 leest u in [gerecycled PE-HD 2: wat is het precies?](@news-hdpe)
+De twee kunststoffen waar onze standaardpallets van zijn gemaakt: polyethyleen met hoge dichtheid (HDPE, recyclingcode 2) en polypropyleen (PP). Beide zijn goed te recyclen. Meer uitleg over code 2 leest u in [gerecycled PE-HD 2: wat is het precies?](@news-hdpe)
 
 ### H1-pallet
 Een hygiënische kunststof pallet in europalletformaat, oorspronkelijk een poolpallet voor de vleesindustrie. Zie [hygiënische pallets](@type-hygienic).

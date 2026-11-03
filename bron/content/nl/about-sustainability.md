@@ -4,7 +4,7 @@ title: "Duurzaamheid: pallets van gerecycled kunststof – Q-Pall"
 description: "Q-Pall maakt pallets van bijna 100% gerecycled kunststof, produceert lokaal en sluit de kringloop. Lees hoe we CO2-uitstoot en afval verminderen."
 eyebrow: "Duurzaamheid"
 h1: "Duurzaam **van grondstof tot recycling**"
-lead: "Duurzaamheid zit in ons DNA. Onze pallets maken we van bijna 100% gerecycled kunststof, we produceren dicht bij onze klanten en aan het einde van hun levensduur worden de pallets weer grondstof."
+lead: "Duurzaamheid zit in ons DNA. Onze standaardpallets maken we van bijna 100% gerecycled kunststof, we produceren dicht bij onze klanten en aan het einde van hun levensduur worden de pallets weer grondstof."
 ---
 
 ## Gerecycled kunststof als grondstof
@@ -19,7 +19,7 @@ We kijken ook naar de kunststofafvalstromen van onze klanten. Waar mogelijk verw
 
 ## Minder transport, minder CO2
 
-Meer dan 80% van de CO2-uitstoot in de palletbranche komt van transport. Een vrachtwagen vol pallets vervoert vooral lucht. Daarom produceren we [lokaal](@about-local), in zes fabrieken verspreid over Europa. Bijna elke klant zit binnen 600 kilometer van een Q-Pall-fabriek. Bovendien zijn kunststof pallets lichter dan veel houten pallets. Een lager eigen gewicht betekent meer lading per rit en minder brandstof.
+In de palletbranche komt het grootste deel van de CO₂-uitstoot van transport. Een vrachtwagen vol pallets vervoert vooral lucht. Daarom produceren we [lokaal](@about-local), in zes fabrieken verspreid over Europa. Bijna elke klant zit binnen 600 kilometer van een Q-Pall-fabriek. Bovendien zijn kunststof pallets lichter dan veel houten pallets. Een lager eigen gewicht betekent meer lading per rit en minder brandstof.
 
 ## Lang mee, en daarna weer grondstof
 

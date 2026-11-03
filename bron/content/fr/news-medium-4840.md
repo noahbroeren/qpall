@@ -17,7 +17,7 @@ updated: '2026-11-02'
 > * La QP4048M est une palette plastique Medium de 48 x 40 pouces (1220 x 1020 mm), la taille de palette la plus utilisée en Amérique du Nord.
 > * Des coins arrondis et des angles intérieurs biseautés facilitent le passage dans les convoyeurs et la manutention au chariot élévateur.
 > * Des nervures de gerbage aux quatre coins rendent l’empilage simple et sûr.
-> * La palette existe avec un plateau ajouré ou fermé, sur 3 ou 6 semelles.
+> * La palette existe avec un plateau ajouré sur 3 ou 6 semelles, ou avec un plateau fermé sur 3 semelles.
 > * Capacité de charge : 6.000 kg en statique et 1.500 kg en dynamique.
 
 ## Une palette pour le marché nord-américain
@@ -42,7 +42,6 @@ C’est aussi plus sûr : la palette se déplace facilement sans traîner sur le
 
 * **Plateau.** Ajouré ou fermé. Les deux versions se nettoient rapidement et facilement.
 * **Semelles.** Trois ou six.
-* **Antidérapant.** Également disponible avec un plateau antidérapant, avec ou sans nervures de gerbage.
 * **Couleur et logo.** Noir en standard ; une autre couleur ou votre propre logo est possible.
 * **Versions spéciales.** Sur demande en version ESD et en version ignifugée.
 

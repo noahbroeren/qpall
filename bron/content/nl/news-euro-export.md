@@ -62,7 +62,7 @@ Onze kunststof exportpallets zijn altijd light pallets. Ze presteren beter dan u
 
 * **Ze wegen weinig**, vanaf 2,7 kg. Dat scheelt in vrachtkosten.
 * **Ze zijn vaak nestbaar.** Leeg schuift u ze in elkaar.
-* **Ze dragen 2.500 kg statisch en 1.000 kg dynamisch.** Ze zijn bedoeld voor transport en vloeropslag, niet voor palletstellingen.
+* **Ze dragen tot 2.500 kg statisch en 1.000 kg dynamisch.** Ze zijn bedoeld voor transport en vloeropslag, niet voor palletstellingen.
 * **Ze nemen geen vocht op** en vangen schokken beter op dan hout.
 * **Ze gaan vaker mee.** Bij zorgvuldig gebruik kunt u ze meerdere keren inzetten.
 

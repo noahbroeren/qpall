@@ -33,6 +33,6 @@ ISPM 15 geldt alleen voor verpakkingsmateriaal van massief hout. Kunststof is ge
 
 ## De beste kunststof pallets voor export
 
-Voor export zijn lichte, [nestbare exportpallets](@type-export) meestal de beste keuze. Ze wegen weinig, wat scheelt in vrachtkosten, en ze dragen 2.500 kg statisch. Kies het formaat dat past bij uw container en uw bestemming: [1200 x 800](@size-1200x800) voor Europa, [1200 x 1000](@size-1200x1000) voor het VK, [1100 x 1100](@size-1100x1100) voor Azië of de pallets van 1220 x 1020 mm voor de VS.
+Voor export zijn lichte, [nestbare exportpallets](@type-export) meestal de beste keuze. Ze wegen weinig, wat scheelt in vrachtkosten, en ze dragen tot 2.500 kg statisch. Kies het formaat dat past bij uw container en uw bestemming: [1200 x 800](@size-1200x800) voor Europa, [1200 x 1000](@size-1200x1000) voor het VK, [1100 x 1100](@size-1100x1100) voor Azië of de pallets van 1220 x 1020 mm voor de VS.
 
 Let op: controleer altijd de actuele eisen van het land van bestemming. Regels kunnen veranderen.

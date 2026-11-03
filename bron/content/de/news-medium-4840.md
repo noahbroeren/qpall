@@ -17,7 +17,7 @@ updated: '2026-11-02'
 > * Die QP4048M ist eine Medium-Kunststoffpalette von 48 x 40 Zoll (1220 x 1020 mm), der in Nordamerika am häufigsten verwendeten Palettengröße.
 > * Abgerundete Ecken und abgeschrägte Innenecken sorgen für einen reibungslosen Ablauf in Fördersystemen und beim Arbeiten mit dem Gabelstapler.
 > * Stapelrippen an den vier Ecken machen das Stapeln einfach und sicher.
-> * Die Palette ist mit offenem oder geschlossenem Deck und mit 3 oder 6 Kufen erhältlich.
+> * Die Palette ist mit offenem Deck auf 3 oder 6 Kufen oder mit geschlossenem Deck auf 3 Kufen erhältlich.
 > * Tragfähigkeit: 6.000 kg statisch und 1.500 kg dynamisch.
 
 ## Eine Palette für den nordamerikanischen Markt
@@ -42,7 +42,6 @@ Es ist auch sicherer: Die Palette lässt sich leicht bewegen, ohne über den Bod
 
 * **Deck.** Offen oder geschlossen. Beide Ausführungen lassen sich schnell und einfach reinigen.
 * **Kufen.** Drei oder sechs.
-* **Antirutsch.** Auch mit Antirutsch-Deck erhältlich, mit oder ohne Stapelrippen.
 * **Farbe und Logo.** Standardmäßig Schwarz; eine andere Farbe oder Ihr eigenes Logo ist möglich.
 * **Sonderausführungen.** Auf Anfrage in einer ESD-Ausführung und in einer flammhemmenden Ausführung.
 

@@ -11,7 +11,7 @@ faq:
   - q: "Gaan kunststof pallets langer mee dan houten pallets?"
     a: "Ja. Een kunststof pallet gaat bij normaal gebruik vele jaren mee. Er zijn geen losse planken of spijkers die loskomen, en kunststof rot en splijt niet."
   - q: "Zijn kunststof pallets wel duurzaam?"
-    a: "Ja, als ze lang meegaan en daarna gerecycled worden. Onze pallets zijn gemaakt van bijna 100% gerecycled kunststof en zijn aan het einde van hun levensduur volledig recyclebaar. Bovendien produceren we lokaal, zodat er minder transport nodig is."
+    a: "Ja, als ze lang meegaan en daarna gerecycled worden. Onze standaardpallets zijn gemaakt van bijna 100% gerecycled kunststof en zijn aan het einde van hun levensduur volledig recyclebaar. Bovendien produceren we lokaal, zodat er minder transport nodig is."
 ---
 
 ## De vergelijking

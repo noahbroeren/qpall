@@ -47,7 +47,7 @@ La suma de plomo, cadmio, mercurio y cromo hexavalente en los envases no puede s
 * A partir de 2030, los envases deben estar diseñados para el reciclado (como mínimo grado C, es decir, un 70% o más en la escala de reciclabilidad).
 * A partir del 12 de agosto de 2028 se aplicará una etiqueta de material armonizada, una vez adoptados los actos de ejecución.
 
-Nuestros palets están formados por una sola familia de materiales (HDPE/PP reciclado) y son totalmente reciclables al final de su vida útil. Vuelven al ciclo.
+Nuestros palets estándar están formados por una sola familia de materiales (HDPE/PP reciclado) y son totalmente reciclables al final de su vida útil. Vuelven al ciclo.
 
 ## ¿Qué significa esto para su elección de palet?
 

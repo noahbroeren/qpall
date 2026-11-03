@@ -157,7 +157,7 @@ cases:
   lead: "From supermarket to building site: a few examples of companies that rely on our pallets. Read each case in our news."
   more: "All news"
   items:
-    - {id: news-auchan, client: "Auchan · retail, France", title: "50,000 smart Euro pallets", text: "Auchan is rolling out heavy duty Euro pallets made of recycled plastic throughout France, each with IoT technology from IBM."}
+    - {id: news-auchan, client: "Auchan · retail, France", title: "50,000 smart Euro pallets", text: "Auchan rolled out heavy-duty Euro pallets made of recycled plastic throughout France, each with IoT technology from IBM."}
     - {id: news-mega-order, client: "Drankenpallet Beheer Nederland", title: "One million pallets from Balk", text: "The largest Dutch order since 2005: at least one million recycled plastic pallets for the beverage industry."}
     - {id: news-stackup, client: "Kwakman Afbouw · construction", title: "70% fewer walking movements", text: "Together we developed the Stack-Up Pallet for the building site: less carrying, less waste and faster finishing work."}
     - {id: news-covid, client: "Vaccine transport · pharma", title: "Pallets for COVID vaccines", text: "Through partner Goplasticpallets.com, Q-Pall supplied the 1208 HR 5R for vaccine shipments to America, China and South Korea, among others."}

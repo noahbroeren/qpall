@@ -50,7 +50,7 @@ Un daño en un palet de madera suele significar que ya no se puede usar. Los pal
 
 ## De alternativa a la madera a soporte de carga inteligente
 
-Lo que empezó como una alternativa a la madera se ha convertido en un producto técnico para la logística moderna. Nuestros palets pueden equiparse con una etiqueta RFID, para que pueda seguir mejor los flujos de mercancías. La cadena Auchan va un paso más allá e implanta [50.000 palets inteligentes de Q-Pall](@news-auchan) que miden la ubicación, la temperatura y los golpes.
+Lo que empezó como una alternativa a la madera se ha convertido en un producto técnico para la logística moderna. Nuestros palets pueden equiparse con una etiqueta RFID, para que pueda seguir mejor los flujos de mercancías. La cadena Auchan fue un paso más allá e implantó [50.000 palets inteligentes de Q-Pall](@news-auchan) que miden la ubicación, la temperatura y los golpes.
 
 Al final de su vida útil, recogemos los palets. Los trituramos para obtener materia prima y fabricamos con ella nuevos palets. Así, el material se mantiene en el ciclo.
 

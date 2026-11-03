@@ -9,7 +9,7 @@ h1: "Vom Trend zur Notwendigkeit: **lokale Produktion** als Säule resilienter L
 lead: "In einer unsicheren Welt ist Nearshoring keine Option mehr, sondern Pflicht im Risikomanagement. Lokale Produktion von Logistikmitteln bringt dreierlei: Resilienz, weniger Scope-3-Emissionen und niedrigere Gesamtkosten (TCO)."
 img_alt: "Roboter und Spritzgießmaschinen in der Produktionshalle des Q-Pall-Werks in Balk"
 reading: 3
-published: '2026-01-22'
+published: '2026-02-26'
 updated: '2026-11-02'
 ---
 > **Kurz gesagt**

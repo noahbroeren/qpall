@@ -556,7 +556,7 @@
     });
     lines.forEach(function (l) {
       var rm = $('.rm', l);
-      if (rm) rm.addEventListener('click', function () { $$('input', l).forEach(function (i) { i.value = ''; }); var c = $('.qty-n', l); if (c) c.textContent = ''; l.hidden = true; addBtn.hidden = false; });
+      if (rm) rm.addEventListener('click', function () { $$('input', l).forEach(function (i) { i.value = ''; }); var c = $('.qty-n', l); if (c) c.textContent = ''; var pk = $('.pick', l); if (pk) pk.hidden = true; l.hidden = true; addBtn.hidden = false; });
     });
     var qs = new URLSearchParams(location.search), prod = qs.get('product'), sku = (qs.get('sku') || '').trim();
     if (sku) {   // ?sku=5.QP1208MB3RR -> the matching 'SKU – name' option of the list
@@ -573,6 +573,21 @@
       var box = $('[data-qty]', l);
       if (!box) return;
       var inp = $('input', box), prodIn = $('input[list]', l), cap = $('.qty-n', l), per = $('.qty-per', l);
+      // the chosen pallet in full under the field: photo, name, article number, stack size (update 30: the field cut the name off)
+      var pick = $('.pick', l);
+      var showPick = function () {
+        if (!pick) return;
+        var o = OPT[prodIn.value];
+        if (!o) { pick.hidden = true; return; }
+        var v = o.value, i = v.indexOf(' – '), s = stackOf(v), img = $('img', pick), code = i > 0 ? v.slice(0, i) : '', nm = i > 0 ? v.slice(i + 3) : v;
+        if (code && nm.slice(-(code.length + 3)) === ' – ' + code) nm = nm.slice(0, -(code.length + 3));   // the name repeats the article number as its variant
+        $('b', pick).textContent = nm;
+        $('small', pick).textContent = (i > 0 ? pick.dataset.art + ' ' + v.slice(0, i) : '') + (s > 1 ? ' · ' + pick.dataset.per.replace('{n}', s) : '');
+        if (o.dataset.img) { img.src = o.dataset.img; img.hidden = false; } else { img.hidden = true; img.removeAttribute('src'); }
+        pick.hidden = false;
+      };
+      prodIn.addEventListener('input', showPick);
+      prodIn.addEventListener('change', showPick);
       var stepOf = function () { return stackOf(prodIn.value); };
       var show = function () {
         var s = stepOf(), v = parseInt(inp.value, 10) || 0, n = v / s;

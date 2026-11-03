@@ -17,7 +17,7 @@ updated: '2026-11-02'
 > * Il QP4048M è un pallet in plastica Medium da 48 x 40 pollici (1220 x 1020 mm), la misura di pallet più diffusa in Nord America.
 > * Angoli arrotondati e angoli interni smussati garantiscono un passaggio fluido nei sistemi di trasporto e nel lavoro con il carrello elevatore.
 > * Nervature di impilamento nei quattro angoli rendono l’impilamento semplice e sicuro.
-> * Il pallet è disponibile con piano aperto o chiuso, su 3 o 6 slitte.
+> * Il pallet è disponibile con piano aperto su 3 o 6 slitte, oppure con piano chiuso su 3 slitte.
 > * Portata: 6.000 kg in statica e 1.500 kg in dinamica.
 
 ## Un pallet per il mercato nordamericano
@@ -42,7 +42,6 @@ Gli angoli interni sono smussati lungo tutto il profilo del pallet. Così le for
 
 * **Piano.** Aperto o chiuso. Entrambe le versioni si puliscono in modo rapido e semplice.
 * **Slitte.** Tre o sei.
-* **Antiscivolo.** Disponibile anche con piano antiscivolo, con o senza nervature di impilamento.
 * **Colore e logo.** Nero di serie; un altro colore o il vostro logo sono possibili.
 * **Versioni speciali.** Su richiesta in versione ESD e in versione ignifuga.
 

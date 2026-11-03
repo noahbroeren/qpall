@@ -7,7 +7,7 @@ h1: "Hygienic **plastic pallets**"
 lead: "Smooth, easy-to-clean pallets for the food industry, pharmaceuticals and cleanrooms. Including H1 pallets and cleanroom pallets, in 1200 x 800 and 1200 x 1000 mm."
 faq:
   - q: "What makes a pallet hygienic?"
-    a: "A hygienic pallet has a smooth design that is as closed as possible, without seams and corners where dirt and bacteria build up. The pallet does not absorb moisture, can withstand intensive cleaning and has no splinters or nails."
+    a: "A hygienic pallet has a smooth design that is as closed as possible, without seams and corners where dirt can build up. The pallet does not absorb moisture, can withstand intensive cleaning and has no splinters or nails."
   - q: "What is an H1 pallet?"
     a: "The H1 pallet is a plastic pallet in Euro pallet size that was originally developed as a pool pallet for the meat industry. Today, the entire food industry uses it. Our H1 Euro pallet has an open deck on 3 runners."
   - q: "Are hygienic pallets made from virgin or recycled plastic?"

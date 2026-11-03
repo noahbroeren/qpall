@@ -157,7 +157,7 @@ cases:
   lead: "Du supermarché au chantier : quelques exemples d’entreprises qui font confiance à nos palettes. Chaque référence est à lire dans nos actualités."
   more: "Toutes les actualités"
   items:
-    - {id: news-auchan, client: "Auchan · distribution, France", title: "50.000 palettes Europe intelligentes", text: "Auchan déploie dans toute la France des palettes Europe heavy duty en plastique recyclé, chacune équipée de la technologie IoT d’IBM."}
+    - {id: news-auchan, client: "Auchan · distribution, France", title: "50.000 palettes Europe intelligentes", text: "Auchan a déployé dans toute la France des palettes Europe heavy duty en plastique recyclé, chacune équipée de la technologie IoT d’IBM."}
     - {id: news-mega-order, client: "Drankenpallet Beheer Nederland", title: "Un million de palettes produites à Balk", text: "La plus grosse commande néerlandaise depuis 2005 : au moins un million de palettes en plastique recyclé pour le secteur des boissons."}
     - {id: news-stackup, client: "Kwakman Afbouw · construction", title: "70 % de déplacements en moins", text: "Ensemble, nous avons développé la Stack-Up Pallet pour les chantiers : moins de manutention, moins de déchets et des finitions plus rapides."}
     - {id: news-covid, client: "Transport de vaccins · pharmacie", title: "Des palettes pour les vaccins COVID", text: "Via son partenaire Goplasticpallets.com, Q-Pall a fourni la 1208 HR 5R pour le transport de vaccins vers notamment les États-Unis, la Chine et la Corée du Sud."}

@@ -70,6 +70,6 @@ Onze standaardpallets maken we van bijna 100% gerecycled kunststof: een mix van 
 
 Aan het einde van hun leven zijn onze pallets volledig recyclebaar. We nemen ze terug en vermalen ze tot grondstof voor nieuwe pallets. Gebruikte pallets in goede staat krijgen via Q-Used een tweede leven.
 
-Bij onze modellen vindt u de PPWR-verklaring als download op de productpagina. Meer over onze aanpak leest u op de pagina [duurzaamheid](@about-sustainability).
+Bij de meeste modellen vindt u de PPWR-verklaring als download op de productpagina. Meer over onze aanpak leest u op de pagina [duurzaamheid](@about-sustainability).
 
 Wilt u weten welke pallet bij uw proces past, en wat die per omloop kost? [Vraag een offerte aan](@quote), dan ontvangt u meestal binnen één werkdag een prijs op maat.

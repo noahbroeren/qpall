@@ -4,7 +4,7 @@ title: "Sostenibilidad: palets de plástico reciclado – Q-Pall"
 description: "Q-Pall fabrica palets de plástico con plástico reciclado casi al 100%, produce localmente y cierra el ciclo. Descubra cómo reducimos el CO2 y los residuos."
 eyebrow: "Sostenibilidad"
 h1: "Sostenibilidad **de la materia prima al reciclaje**"
-lead: "La sostenibilidad está en nuestro ADN. Fabricamos nuestros palets con plástico reciclado casi al 100%, producimos cerca de nuestros clientes y, al final de su vida útil, los palets vuelven a ser materia prima."
+lead: "La sostenibilidad está en nuestro ADN. Fabricamos nuestros palets estándar con plástico reciclado casi al 100%, producimos cerca de nuestros clientes y, al final de su vida útil, los palets vuelven a ser materia prima."
 ---
 
 ## Plástico reciclado como materia prima
@@ -19,7 +19,7 @@ También estudiamos los flujos de residuos plásticos de nuestros clientes. Siem
 
 ## Menos transporte, menos CO2
 
-Más del 80% de las emisiones de CO2 del sector del palet procede del transporte. Un camión lleno de palets transporta sobre todo aire. Por eso producimos [localmente](@about-local), en seis fábricas repartidas por Europa. Casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall. Además, los palets de plástico son más ligeros que muchos palets de madera. Una tara menor significa más carga por viaje y menos combustible.
+En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Un camión lleno de palets transporta sobre todo aire. Por eso producimos [localmente](@about-local), en seis fábricas repartidas por Europa. Casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall. Además, los palets de plástico son más ligeros que muchos palets de madera. Una tara menor significa más carga por viaje y menos combustible.
 
 ## Hechos para durar y, después, de nuevo materia prima
 

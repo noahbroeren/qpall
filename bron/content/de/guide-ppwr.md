@@ -47,7 +47,7 @@ Die Summe aus Blei, Cadmium, Quecksilber und sechswertigem Chrom in Verpackungen
 * Ab 2030 müssen Verpackungen recyclinggerecht gestaltet sein (mindestens Stufe C, also 70 % oder mehr auf der Skala der Recyclingfähigkeit).
 * Eine harmonisierte Materialkennzeichnung folgt ab dem 12. August 2028, sobald die Durchführungsrechtsakte erlassen sind.
 
-Unsere Paletten bestehen aus einer einzigen Materialfamilie (recyceltes HDPE/PP) und sind am Ende ihrer Lebensdauer vollständig recycelbar. Sie gehen zurück in den Kreislauf.
+Unsere Standardpaletten bestehen aus einer einzigen Materialfamilie (recyceltes HDPE/PP) und sind am Ende ihrer Lebensdauer vollständig recycelbar. Sie gehen zurück in den Kreislauf.
 
 ## Was bedeutet das für Ihre Palettenwahl?
 

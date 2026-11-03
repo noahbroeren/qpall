@@ -38,7 +38,7 @@ Kunststoffpaletten mit antistatischen Additiven. Sie verhindern, dass sich die P
 Eine robuste Palette für den industriellen Einsatz, die Sie mit dem Gabelstapler von allen vier Seiten aufnehmen können. Siehe [Blockpaletten](@type-block).
 
 ### CO2-Fußabdruck
-Die gesamte Umweltbelastung einer Palette über ihren kompletten Lebenszyklus (Rohstoff, Produktion und Transport), ausgedrückt in CO2-Äquivalenten. Sie wird in einer Umweltproduktdeklaration (Environmental Product Declaration, EPD) festgehalten.
+Die Treibhausgasemissionen einer Palette über ihren kompletten Lebenszyklus (Rohstoff, Produktion und Transport), ausgedrückt in CO₂-Äquivalenten.
 
 ### CP-Palette
 Eine Chemiepalette in einer der neun CP-Größen (CP1 bis CP9) der europäischen Chemieindustrie. Siehe [CP-Paletten](@type-cp).
@@ -59,7 +59,7 @@ Klötze an der Unterseite der Palette, meist 9 Stück. Paletten mit Füßen sind
 Eine hygienische Kunststoffpalette im Europalettenformat, ursprünglich eine Poolpalette für die Fleischindustrie. Siehe [Hygienepaletten](@type-hygienic).
 
 ### HDPE und PP
-Die beiden Kunststoffe, aus denen unsere Paletten bestehen: Polyethylen hoher Dichte (HDPE, Recyclingcode 2) und Polypropylen (PP). Beide lassen sich gut recyceln. Mehr zu Code 2 lesen Sie in [Recyceltes PE-HD 2: Was ist das genau?](@news-hdpe)
+Die beiden Kunststoffe, aus denen unsere Standardpaletten bestehen: Polyethylen hoher Dichte (HDPE, Recyclingcode 2) und Polypropylen (PP). Beide lassen sich gut recyceln. Mehr zu Code 2 lesen Sie in [Recyceltes PE-HD 2: Was ist das genau?](@news-hdpe)
 
 ### ISPM 15
 Der internationale Standard für Verpackungsmaterial aus Holz im Export. Kunststoffpaletten sind davon ausgenommen. Siehe [ISPM 15 und Export](@guide-ispm).

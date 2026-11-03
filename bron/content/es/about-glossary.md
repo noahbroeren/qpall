@@ -47,10 +47,10 @@ El peso máximo que soporta un palet en una estantería para palets, cuando solo
 El peso máximo que soporta un palet cuando está parado sobre un suelo plano, por ejemplo en apilado en bloque.
 
 ### HDPE y PP
-Los dos plásticos con los que se fabrican nuestros palets: polietileno de alta densidad (HDPE, código de reciclaje 2) y polipropileno (PP). Ambos son fáciles de reciclar. Más información sobre el código 2 en [PE-HD 2 reciclado (HDPE 2): ¿qué es exactamente?](@news-hdpe)
+Los dos plásticos con los que se fabrican nuestros palets estándar: polietileno de alta densidad (HDPE, código de reciclaje 2) y polipropileno (PP). Ambos son fáciles de reciclar. Más información sobre el código 2 en [PE-HD 2 reciclado (HDPE 2): ¿qué es exactamente?](@news-hdpe)
 
 ### Huella de carbono
-El impacto ambiental total de un palet a lo largo de todo su ciclo de vida (materia prima, producción y transporte), expresado en CO2 equivalente. Se recoge en una declaración ambiental de producto (DAP, en inglés EPD).
+Las emisiones de gases de efecto invernadero de un palet a lo largo de todo su ciclo de vida (materia prima, producción y transporte), expresadas en CO₂ equivalente.
 
 ### ISPM 15
 La norma internacional para el material de embalaje de madera en la exportación. Los palets de plástico están exentos de ella. Consulte [ISPM 15 y exportación](@guide-ispm).

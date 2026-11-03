@@ -62,7 +62,7 @@ Nuestros palets de exportación de plástico son siempre palets Light. Rinden m�
 
 * **Pesan poco**, desde 2,7 kg. Así ahorra en costes de transporte.
 * **A menudo son encajables.** Vacíos, encajan unos dentro de otros.
-* **Soportan 2.500 kg de carga estática y 1.000 kg de carga dinámica.** Están pensados para el transporte y el almacenamiento en suelo, no para estanterías para palets.
+* **Soportan hasta 2.500 kg de carga estática y 1.000 kg de carga dinámica.** Están pensados para el transporte y el almacenamiento en suelo, no para estanterías para palets.
 * **No absorben humedad** y amortiguan los golpes mejor que la madera.
 * **Sirven para más de un viaje.** Con un manejo cuidadoso, puede utilizarlos varias veces.
 

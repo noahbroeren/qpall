@@ -29,4 +29,4 @@ Los productos químicos se transportan a menudo en sacos, big bags, octabins o b
 
 ## Nuestros palets recomendados
 
-Q-Pall fue uno de los pioneros de los [palets CP](@type-cp) de plástico. Los CP1 y CP6 de 1200 x 1000 mm son adecuados para mercancía ensacada y cajas. Los CP3 y CP9 de 1140 x 1140 mm están pensados para bidones, octabins y big bags. Para palets grandes de mercancía ensacada existe la medida de [1300 x 1100 mm](@size-1300x1100). Para contenedores marítimos, elija el palet Light de [760 x 1140 mm](@size-760x1140).
+Q-Pall fabrica [palets CP](@type-cp) de plástico. Los CP1 y CP6 de 1200 x 1000 mm son adecuados para mercancía ensacada y cajas. Los CP3 y CP9 de 1140 x 1140 mm están pensados para bidones, octabins y big bags. Para palets grandes de mercancía ensacada existe la medida de [1300 x 1100 mm](@size-1300x1100). Para contenedores marítimos, elija el palet Light de [760 x 1140 mm](@size-760x1140).

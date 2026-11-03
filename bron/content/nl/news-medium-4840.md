@@ -17,7 +17,7 @@ updated: '2026-11-02'
 > * De QP4048M is een medium kunststof pallet van 48 x 40 inch (1220 x 1020 mm), de meest gebruikte palletmaat in Noord-Amerika.
 > * Afgeronde hoeken en afgeschuinde binnenhoeken zorgen voor een soepele doorvoer in transportsystemen en bij het werken met de heftruck.
 > * Stapelribbels in de vier hoeken maken stapelen eenvoudig en veilig.
-> * De pallet is leverbaar met open of gesloten dek, op 3 of 6 onderlatten.
+> * De pallet is leverbaar met open dek op 3 of 6 onderlatten, of met gesloten dek op 3 onderlatten.
 > * Draagvermogen: 6.000 kg statisch en 1.500 kg dynamisch.
 
 ## Een pallet voor de Noord-Amerikaanse markt
@@ -42,7 +42,6 @@ Het is ook veiliger: de pallet laat zich makkelijk verplaatsen zonder over de vl
 
 * **Dek.** Open of gesloten. Beide uitvoeringen zijn eenvoudig en snel te reinigen.
 * **Onderlatten.** Drie of zes.
-* **Antislip.** Ook leverbaar met een antislipdek, met of zonder stapelribbels.
 * **Kleur en logo.** Standaard zwart; een andere kleur of een eigen logo is mogelijk.
 * **Speciale uitvoeringen.** Op aanvraag in een ESD-uitvoering en in een brandvertragende uitvoering.
 

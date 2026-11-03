@@ -1,7 +1,7 @@
 ---
 id: class-light
 title: "Palettes plastique Light – légères et emboîtables – Q-Pall"
-description: "Palettes plastique Light pour l’export et l’usage unique : légères, souvent emboîtables, 2.500 kg en statique et 1.000 kg en dynamique. En 7 formats."
+description: "Palettes plastique Light pour l’export et l’usage unique : légères, souvent emboîtables, jusqu’à 2.500 kg en statique et 1.000 kg en dynamique. 7 formats."
 eyebrow: "Classe de charge Light"
 h1: "Palettes plastique **Light**"
 lead: "Les palettes les plus légères de notre gamme, conçues pour l’export, les envois ponctuels et le stockage au sol. [[count]] modèles Light, à partir de [[price_from]] l’unité."

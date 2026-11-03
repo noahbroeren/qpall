@@ -4,7 +4,7 @@ title: "CP-pallets van kunststof (CP1, CP3, CP6, CP9) – Q-Pall"
 description: "Kunststof CP-pallets voor de chemische industrie: CP1 en CP6 (1200 x 1000) en CP3 en CP9 (1140 x 1140). Tot 7.500 kg statisch en 2.200 kg dynamisch."
 eyebrow: "Chemische industrie"
 h1: "Kunststof **CP-pallets**"
-lead: "De kunststof versie van de chemiepallet. Q-Pall was een van de pioniers die de houten CP-pallet in kunststof maakten. We hebben CP1, CP3 en CP9 in medium en heavy, en CP6 in heavy."
+lead: "De kunststof versie van de chemiepallet. We hebben CP1, CP3 en CP9 in medium en heavy, en CP6 in heavy."
 faq:
   - q: "Waar staat CP voor?"
     a: "CP staat voor Chemical Pallet. De CP-pallets zijn ooit ontwikkeld om het palletaanbod in de Europese chemische en kunststofindustrie te standaardiseren. Er zijn negen types, van CP1 tot en met CP9."

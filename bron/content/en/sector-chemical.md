@@ -29,4 +29,4 @@ Chemical products are often transported in bags, big bags, octabins or drums. A 
 
 ## Our recommended pallets
 
-Q-Pall was one of the pioneers of plastic [CP pallets](@type-cp). The CP1 and CP6 of 1200 x 1000 mm are suitable for bagged goods and boxes. The CP3 and CP9 of 1140 x 1140 mm are made for drums, octabins and big bags. For large bagged-goods pallets, there is the [1300 x 1100 mm](@size-1300x1100) size. For sea containers, choose the light pallet of [760 x 1140 mm](@size-760x1140).
+Q-Pall makes [CP pallets](@type-cp) in plastic. The CP1 and CP6 of 1200 x 1000 mm are suitable for bagged goods and boxes. The CP3 and CP9 of 1140 x 1140 mm are made for drums, octabins and big bags. For large bagged-goods pallets, there is the [1300 x 1100 mm](@size-1300x1100) size. For sea containers, choose the light pallet of [760 x 1140 mm](@size-760x1140).

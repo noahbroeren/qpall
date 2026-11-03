@@ -4,7 +4,7 @@ title: "Ultra pallet : palette plastique de pooling renforcée"
 description: "Ultra pallet 1200 x 1000 x 165 mm : palette plastique solide, antidérapante double face, jusqu’à 1.375 kg en rayonnage. Conçue avec les géants des boissons."
 eyebrow: "Palette de pooling haute résistance"
 h1: "L’**Ultra pallet**"
-lead: "Une palette polyvalente haute résistance de 1200 x 1000 x 165 mm, fabriquée à plus de 99 % à partir de matières premières secondaires. Antidérapante sur le dessus et le dessous, elle supporte jusqu’à 1.375 kg en rayonnage à palettes."
+lead: "Une palette polyvalente haute résistance de 1200 x 1000 x 165 mm, fabriquée en plastique recyclé à près de 100 %. Antidérapante sur le dessus et le dessous, elle supporte jusqu’à 1.375 kg en rayonnage à palettes."
 faq:
   - q: "Qu’est-ce qui rend l’Ultra pallet si particulière ?"
     a: "L’Ultra pallet associe une construction haute résistance à un antidérapant sur le dessus et le dessous, sans renforts métalliques. Elle supporte jusqu’à 1.375 kg en rayonnage à palettes et a été développée avec de grandes marques de l’industrie des boissons."
@@ -25,7 +25,7 @@ L’Ultra pallet a été développée avec de grandes marques de l’industrie d
 - **Semelles fermées**, en version à 3 ou 6 semelles.
 - **Charge en rayonnage jusqu’à 1.375 kg** sans renforts métalliques.
 - **Résistante aux impacts et aux chocs**, adaptée aux systèmes de convoyage automatisés.
-- **Circulaire :** fabriquée à plus de 99 % à partir de matières premières secondaires, comme d’anciennes caisses et des bouchons, et entièrement recyclable.
+- **Circulaire :** fabriquée en plastique recyclé à près de 100 %, notamment issu d’anciennes caisses et de bouchons, et entièrement recyclable.
 
 ## Applications
 

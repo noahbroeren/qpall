@@ -24,7 +24,7 @@ Con un uso normale, un pallet in plastica dura molti anni. Anche quando un clien
 - **Ispezionati:** ogni pallet viene controllato per individuare danni e verificarne la struttura.
 - **Dimensionalmente stabili:** la plastica non si deforma con l’umidità.
 - **Pronti per l’esportazione:** come i pallet in plastica nuovi, sono esenti dall’[ISPM 15](@guide-ispm).
-- **Igienici e sicuri:** niente ruggine, schegge o parti allentate.
+- **Facili da pulire e sicuri:** niente ruggine, schegge o parti allentate.
 
 ## Come funziona
 

@@ -24,7 +24,7 @@ With normal use, a plastic pallet lasts for many years. Even when a customer tak
 - **Inspected:** every pallet is checked for damage and its construction.
 - **Dimensionally stable:** plastic does not warp from moisture.
 - **Export-ready:** like new plastic pallets, exempt from [ISPM 15](@guide-ispm).
-- **Hygienic and safe:** no rust, splinters or loose parts.
+- **Easy to clean and safe:** no rust, splinters or loose parts.
 
 ## How it works
 

@@ -4,7 +4,7 @@ title: "Kunststoff-CP-Paletten (CP1, CP3, CP6, CP9) – Q-Pall"
 description: "Kunststoff-CP-Paletten für die Chemieindustrie: CP1 und CP6 (1200 x 1000) sowie CP3 und CP9 (1140 x 1140). Bis 7.500 kg statisch und 2.200 kg dynamisch."
 eyebrow: "Chemieindustrie"
 h1: "**CP-Paletten** aus Kunststoff"
-lead: "Die Kunststoffversion der Chemiepalette. Q-Pall gehörte zu den Pionieren, die die CP-Palette aus Holz in Kunststoff umgesetzt haben. Wir bieten CP1, CP3 und CP9 in Medium und Heavy, CP6 in Heavy."
+lead: "Die Kunststoffversion der Chemiepalette. Wir bieten CP1, CP3 und CP9 in Medium und Heavy, CP6 in Heavy."
 faq:
   - q: "Wofür steht CP?"
     a: "CP steht für Chemical Pallet (Chemiepalette). Die CP-Paletten wurden ursprünglich entwickelt, um das Palettenangebot in der europäischen Chemie- und Kunststoffindustrie zu standardisieren. Es gibt neun Typen, von CP1 bis CP9."

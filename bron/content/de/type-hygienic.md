@@ -7,7 +7,7 @@ h1: "Hygienische **Kunststoffpaletten**"
 lead: "Glatte, leicht zu reinigende Paletten für die Lebensmittelindustrie, die Pharmabranche und Reinräume. Darunter H1-Paletten und Reinraumpaletten, in 1200 x 800 und 1200 x 1000 mm."
 faq:
   - q: "Was macht eine Palette hygienisch?"
-    a: "Eine Hygienepalette hat eine glatte, möglichst geschlossene Bauweise ohne Fugen und Ecken, in denen sich Schmutz und Bakterien ansammeln. Die Palette nimmt keine Feuchtigkeit auf, hält intensiver Reinigung stand und hat keine Splitter oder Nägel."
+    a: "Eine Hygienepalette hat eine glatte, möglichst geschlossene Bauweise ohne Fugen und Ecken, in denen sich Schmutz ansammeln kann. Die Palette nimmt keine Feuchtigkeit auf, hält intensiver Reinigung stand und hat keine Splitter oder Nägel."
   - q: "Was ist eine H1-Palette?"
     a: "Die H1-Palette ist eine Kunststoffpalette im Europalettenformat, die ursprünglich als Poolpalette für die Fleischindustrie entwickelt wurde. Heute nutzt sie die gesamte Lebensmittelindustrie. Unsere H1-Europalette hat ein offenes Deck auf 3 Kufen."
   - q: "Sind Hygienepaletten aus Neuware oder aus recyceltem Kunststoff?"

@@ -12,7 +12,7 @@ lead: "Depuis 2005, nous nous concentrons sur une seule chose : des palettes pla
 
 Dès le départ, notre mission a été claire : fournir des palettes plastique économiques et fiables, avec la durabilité comme point de départ. Parce que nous nous consacrons entièrement au développement et à la production de palettes plastique, nous pouvons sans cesse proposer de nouvelles solutions qui répondent aux besoins changeants de nos clients.
 
-Nos palettes sont fabriquées en plastique recyclé à près de 100 %. Elles respectent l’environnement, sans compromis sur la solidité ni sur la durée de vie. Nous réduisons ainsi les déchets tout en fournissant des palettes sur lesquelles vous pouvez compter. C’est ce que nous appelons **pallets with a purpose**.
+Nos palettes standard sont fabriquées en plastique recyclé à près de 100 %. Elles respectent l’environnement, sans compromis sur la solidité ni sur la durée de vie. Nous réduisons ainsi les déchets tout en fournissant des palettes sur lesquelles vous pouvez compter. C’est ce que nous appelons **pallets with a purpose**.
 
 ## Q-Pall en chiffres
 

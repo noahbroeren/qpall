@@ -17,7 +17,7 @@ updated: '2026-11-02'
 > * The QP4048M is a 48 x 40 inch (1220 x 1020 mm) medium plastic pallet, the most widely used pallet size in North America.
 > * Rounded corners and bevelled inside corners ensure smooth handling in conveyor systems and when working with forklifts.
 > * Stacking ridges in the four corners make stacking easy and safe.
-> * The pallet is available with an open or closed deck, on 3 or 6 runners.
+> * The pallet is available with an open deck on 3 or 6 runners, or with a closed deck on 3 runners.
 > * Load capacity: 6,000 kg static and 1,500 kg dynamic.
 
 ## A pallet for the North American market
@@ -42,7 +42,6 @@ It is also safer: the pallet is easy to move without dragging it across the floo
 
 * **Deck.** Open or closed. Both versions are quick and easy to clean.
 * **Runners.** Three or six.
-* **Anti-slip.** Also available with an anti-slip deck, with or without stacking ridges.
 * **Colour and logo.** Black as standard; another colour or your own logo is possible.
 * **Special versions.** On request in an ESD version and in a flame-retardant version.
 

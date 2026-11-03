@@ -15,7 +15,7 @@ faq:
 - q: "Quali sono le misure di un pallet H1?"
   a: "Il nostro europallet H1 misura 1200 x 800 x 160 mm. Ha un piano aperto su tre slitte."
 - q: "Quanto pesa un pallet H1?"
-  a: "Il nostro europallet H1 pesa 18 kg. Porta 5.000 kg statico, 1.250 kg dinamico e 1.000 kg in scaffalatura, con un carico distribuito in modo uniforme."
+  a: "Il nostro europallet H1 pesa 18 kg. Sopporta 5.000 kg in statica, 1.250 kg in dinamica e 1.000 kg su scaffale, con un carico distribuito in modo uniforme."
 - q: "Il pallet H1 è in plastica riciclata?"
   a: "No. I nostri pallet H1 sono in plastica vergine (nuova), come gli altri nostri pallet igienici. I pallet in plastica riciclata non sono destinati al contatto diretto con gli alimenti."
 published: '2022-01-11'
@@ -54,7 +54,7 @@ I dati principali del nostro europallet H1:
 | Classe di portata | heavy |
 | Portata statica | 5.000 kg |
 | Portata dinamica | 1.250 kg |
-| Portata in scaffalatura | 1.000 kg |
+| Portata su scaffale | 1.000 kg |
 | Materiale | Plastica vergine |
 | Per pila | 15 pallet |
 

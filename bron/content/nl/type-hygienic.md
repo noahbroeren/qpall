@@ -7,7 +7,7 @@ h1: "Hygiënische **kunststof pallets**"
 lead: "Gladde, goed reinigbare pallets voor de voedingsmiddelenindustrie, farmacie en cleanrooms. Inclusief H1-pallets en cleanroompallets, in 1200 x 800 en 1200 x 1000 mm."
 faq:
   - q: "Wat maakt een pallet hygiënisch?"
-    a: "Een hygiënische pallet heeft een glad en zo gesloten mogelijk ontwerp, zonder naden en hoeken waar vuil en bacteriën zich ophopen. De pallet neemt geen vocht op, kan tegen intensieve reiniging en heeft geen splinters of spijkers."
+    a: "Een hygiënische pallet heeft een glad en zo gesloten mogelijk ontwerp, zonder naden en hoeken waar vuil zich kan ophopen. De pallet neemt geen vocht op, kan tegen intensieve reiniging en heeft geen splinters of spijkers."
   - q: "Wat is een H1-pallet?"
     a: "De H1-pallet is een kunststof pallet in europalletformaat die oorspronkelijk als poolpallet voor de vleesindustrie is ontwikkeld. Tegenwoordig gebruikt de hele voedingsmiddelenindustrie hem. Onze H1-europallet heeft een open dek op 3 onderlatten."
   - q: "Zijn hygiënische pallets van virgin of gerecycled kunststof?"

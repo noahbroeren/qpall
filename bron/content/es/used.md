@@ -24,7 +24,7 @@ Con un uso normal, un palet de plástico dura muchos años. Incluso cuando un cl
 - **Inspeccionados:** cada palet se revisa en busca de daños y se comprueba su estructura.
 - **Dimensionalmente estables:** el plástico no se deforma con la humedad.
 - **Listos para la exportación:** al igual que los palets de plástico nuevos, están exentos de la [ISPM 15](@guide-ispm).
-- **Higiénicos y seguros:** sin óxido, astillas ni piezas sueltas.
+- **Fáciles de limpiar y seguros:** sin óxido, astillas ni piezas sueltas.
 
 ## Cómo funciona
 

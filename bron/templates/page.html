@@ -14,13 +14,34 @@
     <img class="phero-mock" src="/assets/img/booklets/catalogus-480.webp" srcset="/assets/img/booklets/catalogus-480.webp 480w, /assets/img/booklets/catalogus-800.webp 800w" sizes="(min-width:900px) 380px, 220px" alt="{{ t.mm_catalog }}" width="480" height="498" fetchpriority="high">
   </div>
 </header>
+{% elif page_id == 'ultra' %}
+<header class="phero">
+  <div class="wrap phero-in phero-grid">
+    <div>
+      {{ M.crumbs(crumbs) }}
+      {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
+      <h1>{{ page.h1|bold }}</h1>
+      {% if page.lead %}<p class="lead">{{ page.lead_html }}</p>{% endif %}
+      <div class="phero-actions"><a class="btn btn-primary" href="{{ urls.quote }}?sku={{ ultra_sku }}">{{ t.cta_quote }}{{ M.icon('arrow') }}</a></div>
+    </div>
+    <img class="phero-product" src="{{ ultra_img.lg }}" srcset="{{ ultra_img.md }} 640w, {{ ultra_img.lg }} 1200w" sizes="(min-width:1100px) 520px, 92vw" alt="{{ ultra_img.alt }}" width="1200" height="800" fetchpriority="high" decoding="async">
+  </div>
+</header>
 {% else %}
-{% call M.phero(page, crumbs) %}
-  {% if page_id == 'ultra' %}<div class="phero-actions"><a class="btn btn-primary" href="{{ urls.quote }}?sku={{ ultra_sku }}">{{ t.cta_quote }}{{ M.icon('arrow') }}</a></div>{% endif %}
-{% endcall %}
+{% call M.phero(page, crumbs) %}{% endcall %}
 {% endif %}
 
-{% if recommend %}
+{% if recommend and page_id == 'ultra' %}
+<section class="section-sm" aria-labelledby="rec-h" data-pagefind-ignore>
+  <div class="wrap ultra-models">
+    <div class="ultra-models-txt">
+      {{ M.sec_head(None, ultra_txt.h, None, 'rec-h') }}
+      <p>{{ ultra_txt.p }}</p>
+    </div>
+    <div class="grid-products cols-2 ultra-grid">{% for r in recommend %}{{ M.pcard(r, t, lang, loop.index) }}{% endfor %}</div>
+  </div>
+</section>
+{% elif recommend %}
 <section class="section-sm" aria-labelledby="rec-h" data-pagefind-ignore>
   <div class="wrap">
     {{ M.sec_head(None, recommend_title, None, 'rec-h') }}

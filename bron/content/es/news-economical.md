@@ -70,6 +70,6 @@ Fabricamos nuestros palets estándar con plástico reciclado casi al 100%: una m
 
 Al final de su vida útil, nuestros palets son totalmente reciclables. Los recogemos y los trituramos para convertirlos en materia prima para nuevos palets. Los palets usados en buen estado tienen una segunda vida gracias a Q-Used.
 
-En nuestros modelos encontrará la declaración PPWR para descargar en la página del producto. Conozca nuestro enfoque en la página de [sostenibilidad](@about-sustainability).
+En la mayoría de los modelos encontrará la declaración PPWR para descargar en la página del producto. Conozca nuestro enfoque en la página de [sostenibilidad](@about-sustainability).
 
 ¿Quiere saber qué palet se adapta a su proceso y cuánto cuesta por viaje? [Solicite un presupuesto](@quote) y normalmente recibirá un precio a medida en un día laborable.

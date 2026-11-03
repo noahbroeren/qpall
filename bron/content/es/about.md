@@ -12,7 +12,7 @@ lead: "Desde 2005 nos centramos en una sola cosa: palets de plástico asequibles
 
 Desde el principio, nuestra misión ha sido clara: suministrar palets de plástico rentables y fiables, con la sostenibilidad como punto de partida. Como nos dedicamos por completo al desarrollo y la producción de palets de plástico, podemos seguir ofreciendo nuevas soluciones que responden a las necesidades cambiantes de nuestros clientes.
 
-Nuestros palets están fabricados con plástico reciclado casi al 100%. Son respetuosos con el medio ambiente, sin renunciar a la resistencia ni a la vida útil. Así reducimos residuos y, al mismo tiempo, suministramos palets con los que puede contar. Lo llamamos **pallets with a purpose**.
+Nuestros palets estándar están fabricados con plástico reciclado casi al 100%. Son respetuosos con el medio ambiente, sin renunciar a la resistencia ni a la vida útil. Así reducimos residuos y, al mismo tiempo, suministramos palets con los que puede contar. Lo llamamos **pallets with a purpose**.
 
 ## Q-Pall en cifras
 

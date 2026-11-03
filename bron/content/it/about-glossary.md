@@ -38,10 +38,10 @@ Un pallet con una base che corre lungo tutto il perimetro: slitte su tutti e qua
 Angoli e bordi arrotondati evitano danni a imballaggi, mezzi di movimentazione e persone durante la movimentazione del pallet.
 
 ### HDPE e PP
-Le due plastiche con cui sono realizzati i nostri pallet: polietilene ad alta densità (HDPE, codice di riciclo 2) e polipropilene (PP). Entrambe sono facilmente riciclabili. Per saperne di più sul codice 2 leggete [PE-HD 2 riciclato (HDPE 2): cos’è esattamente?](@news-hdpe)
+Le due plastiche con cui sono realizzati i nostri pallet standard: polietilene ad alta densità (HDPE, codice di riciclo 2) e polipropilene (PP). Entrambe sono facilmente riciclabili. Per saperne di più sul codice 2 leggete [PE-HD 2 riciclato (HDPE 2): cos’è esattamente?](@news-hdpe)
 
 ### Impronta di carbonio (carbon footprint)
-L’impatto ambientale complessivo di un pallet sull’intero ciclo di vita (materia prima, produzione e trasporto), espresso in CO2 equivalente. Viene riportato in una dichiarazione ambientale di prodotto (EPD).
+Le emissioni di gas serra di un pallet sull’intero ciclo di vita (materia prima, produzione e trasporto), espresse in CO₂ equivalente.
 
 ### ISPM 15
 Lo standard internazionale per gli imballaggi in legno destinati all’esportazione. I pallet in plastica ne sono esenti. Vedi anche [ISPM 15 ed esportazione](@guide-ispm).

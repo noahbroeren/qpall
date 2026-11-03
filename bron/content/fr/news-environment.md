@@ -13,9 +13,9 @@ faq:
 - q: "Qu’est-ce que l’empreinte carbone ?"
   a: "L’empreinte carbone mesure les émissions de gaz à effet de serre, exprimées en kilogrammes d’équivalent CO₂. Pour une palette, la matière première, la production et le transport entrent notamment en compte."
 - q: "Les palettes plastique sont-elles durables ?"
-  a: "Oui, si elles servent longtemps et sont ensuite recyclées. Nos palettes sont fabriquées en plastique recyclé à près de 100 %, durent de nombreuses années et sont entièrement recyclables en fin de vie. De plus, nous produisons localement, ce qui réduit les transports."
+  a: "Oui, si elles servent longtemps et sont ensuite recyclées. Nos palettes standard sont fabriquées en plastique recyclé à près de 100 %, durent de nombreuses années et sont entièrement recyclables en fin de vie. De plus, nous produisons localement, ce qui réduit les transports."
 - q: "Le PPWR s’applique-t-il aussi aux palettes ?"
-  a: "Oui. Les palettes sont des emballages de transport et relèvent du règlement européen sur les emballages, applicable depuis le 12 août 2026. Q-Pall fournit pour chaque modèle une déclaration PPWR à télécharger sur la page produit."
+  a: "Oui. Les palettes sont des emballages de transport et relèvent du règlement européen sur les emballages, applicable depuis le 12 août 2026. Q-Pall dispose d’une déclaration de conformité PPWR par groupe de palettes ; pour la plupart des modèles, vous la téléchargez sur la page produit."
 published: '2022-01-09'
 updated: '2026-11-02'
 ---
@@ -62,6 +62,6 @@ Avec [Q-Used](@used), nous proposons des palettes plastique d’occasion contrô
 
 La législation exige elle aussi davantage d’attention pour l’environnement. Le règlement européen sur les emballages (PPWR) est entré en vigueur en février 2025 et s’applique depuis le 12 août 2026. Les palettes sont des emballages de transport : elles sont donc concernées.
 
-À partir de 2030, les emballages devront être recyclables en classe A, B ou C, la classe C correspondant à au moins 70 %. Q-Pall fournit pour chaque modèle une déclaration PPWR à télécharger sur la page produit. Pour en savoir plus, lisez notre guide [PPWR et palettes plastique](@guide-ppwr).
+À partir de 2030, les emballages devront être recyclables en classe A, B ou C, la classe C correspondant à au moins 70 %. Q-Pall dispose d’une déclaration de conformité PPWR par groupe de palettes ; pour la plupart des modèles, vous la téléchargez sur la page produit. Pour en savoir plus, lisez notre guide [PPWR et palettes plastique](@guide-ppwr).
 
 Vous souhaitez savoir quelle palette convient à votre application et à vos objectifs de durabilité ? [Contactez-nous](@contact), nous vous conseillons volontiers.

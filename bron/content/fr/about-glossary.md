@@ -44,10 +44,10 @@ Le poids maximal que porte une palette dans un rayonnage à palettes, lorsqu’e
 Le poids maximal que porte une palette posée immobile sur un sol plat, par exemple en gerbage.
 
 ### Empreinte carbone
-L’impact environnemental total d’une palette sur l’ensemble de son cycle de vie (matière première, production et transport), exprimé en équivalent CO2. Il est consigné dans une déclaration environnementale de produit (EPD).
+Les émissions de gaz à effet de serre d’une palette sur l’ensemble de son cycle de vie (matière première, production et transport), exprimées en équivalent CO₂.
 
 ### HDPE et PP
-Les deux plastiques dont sont faites nos palettes : le polyéthylène haute densité (HDPE, code de recyclage 2) et le polypropylène (PP). Tous deux se recyclent facilement. Pour en savoir plus sur le code 2, lisez [PE-HD 2 recyclé : qu’est-ce que c’est exactement ?](@news-hdpe)
+Les deux plastiques dont sont faites nos palettes standard : le polyéthylène haute densité (HDPE, code de recyclage 2) et le polypropylène (PP). Tous deux se recyclent facilement. Pour en savoir plus sur le code 2, lisez [PE-HD 2 recyclé : qu’est-ce que c’est exactement ?](@news-hdpe)
 
 ### ISPM 15
 La norme internationale applicable aux emballages en bois à l’export. Les palettes plastique en sont exemptées. Voir [ISPM 15 et export](@guide-ispm).

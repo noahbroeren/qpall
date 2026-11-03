@@ -1,7 +1,7 @@
 """Assets, images, downloads, SEO files and Netlify config for build.py."""
 import os, re, json, shutil, glob, subprocess, tempfile
 import numpy as np
-from PIL import Image
+from PIL import Image, ImageFilter
 from site_config import (LANGS, X_DEFAULT, CATALOG_FILES, BUILD_DATE, DOMAIN, REDIRECTS, PREFIX, PAGES as _P, COMPANY)
 from build_util import slugify
 
@@ -51,6 +51,10 @@ def copy_static(ROOT, OUT):
     # Q-op-ondergrond backgrounds (made by tools/q_backgrounds.py)
     shutil.copytree(os.path.join(ROOT, 'static/img/q'), os.path.join(dst, 'img/q'), dirs_exist_ok=True)
     shutil.copy(os.path.join(ROOT, 'input/logo/logo-qpall-2025-RGB_kleur.png'), os.path.join(dst, 'img/brand/q-pall-logo.png'))
+
+
+# Covers with a dense granule texture that weighed 260-330 KB at 1200w (second analysis, 2-11-2026): blur radius, quality.
+HEAVY_COVERS = {'regrind': (0.8, 65), 'n-green-logistics': (0.8, 65)}
 
 
 def _save(im, full, width, quality=IMG_Q):
@@ -127,6 +131,12 @@ def build_images(ROOT, OUT, MODELS, ACCS, acc_item, LANGS, HERO_MODELS):
     for f in glob.glob(os.path.join(ROOT, 'input/brand/photo-*.webp')):
         name = os.path.basename(f).replace('photo-', '').replace('.webp', '')
         im = _open_rgb(f)
+        if name in HEAVY_COVERS:     # granule texture: mild blur + lower quality + a 960w step (update 30)
+            for w in (640, 960, 1200):
+                r = im.resize((w, round(im.height * w / im.width)), Image.LANCZOS) if im.width > w else im
+                r = r.filter(ImageFilter.GaussianBlur(HEAVY_COVERS[name][0] if w > 640 else HEAVY_COVERS[name][0] * 0.6))
+                r.save(os.path.join(A, 'photos', f'{name}-{w}.webp'), 'WEBP', quality=HEAVY_COVERS[name][1], method=6)
+            continue
         for w in ((640, 1200, 1600) if name == 'seaturtle' else (640, 1200)):
             _save(im, os.path.join(A, 'photos', f'{name}-{w}.webp'), w, 82)
     # free-standing hero pallets (input/hero/<class>.png, made by tools/hero_cutouts.py), transparent WebP

@@ -17,7 +17,7 @@ updated: '2026-11-02'
 > * El QP4048M es un palet de plástico Medium de 48 x 40 pulgadas (1220 x 1020 mm), el tamaño de palet más utilizado en Norteamérica.
 > * Las esquinas redondeadas y los ángulos interiores biselados facilitan el paso por sistemas de transporte y el trabajo con carretillas elevadoras.
 > * Los nervios de apilado en las cuatro esquinas hacen que apilar sea fácil y seguro.
-> * El palet está disponible con superficie abierta o cerrada, sobre 3 o 6 patines.
+> * El palet está disponible con superficie abierta sobre 3 o 6 patines, o con superficie cerrada sobre 3 patines.
 > * Capacidad de carga: 6.000 kg de carga estática y 1.500 kg de carga dinámica.
 
 ## Un palet para el mercado norteamericano
@@ -42,7 +42,6 @@ También es más seguro: el palet se mueve con facilidad sin arrastrarse por el 
 
 * **Superficie.** Abierta o cerrada. Ambas versiones se limpian de forma rápida y sencilla.
 * **Patines.** Tres o seis.
-* **Antideslizante.** También disponible con superficie antideslizante, con o sin nervios de apilado.
 * **Color y logotipo.** Negro de serie; es posible otro color o su propio logotipo.
 * **Versiones especiales.** Bajo pedido en versión ESD y en versión ignífuga.
 

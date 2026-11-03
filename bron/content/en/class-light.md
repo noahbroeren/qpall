@@ -1,7 +1,7 @@
 ---
 id: class-light
 title: "Light plastic pallets – lightweight and nestable – Q-Pall"
-description: "Light plastic pallets for export and single use: lightweight, often nestable, 2,500 kg static and 1,000 kg dynamic. Available in 7 sizes."
+description: "Light plastic pallets for export and single use: lightweight, often nestable, up to 2,500 kg static and 1,000 kg dynamic. Available in 7 sizes."
 eyebrow: "Load class light"
 h1: "**Light** plastic pallets"
 lead: "The lightest pallets in our range, made for export, one-off shipments and floor storage. There are [[count]] light models, from [[price_from]] per unit."

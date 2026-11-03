@@ -7,7 +7,7 @@ h1: "**Pallet in plastica** igienici"
 lead: "Pallet lisci e facili da pulire per l’industria alimentare, il settore farmaceutico e le camere bianche. Compresi pallet H1 e pallet per camera bianca, in 1200 x 800 e 1200 x 1000 mm."
 faq:
   - q: "Cosa rende igienico un pallet?"
-    a: "Un pallet igienico ha un design liscio e il più possibile chiuso, senza fessure e angoli in cui si accumulano sporco e batteri. Il pallet non assorbe umidità, resiste a una pulizia intensiva e non ha schegge né chiodi."
+    a: "Un pallet igienico ha un design liscio e il più possibile chiuso, senza fessure e angoli in cui può accumularsi lo sporco. Il pallet non assorbe umidità, resiste a una pulizia intensiva e non ha schegge né chiodi."
   - q: "Che cos’è un pallet H1?"
     a: "Il pallet H1 è un pallet in plastica in formato europallet, sviluppato originariamente come pallet per pooling per l’industria della carne. Oggi lo utilizza l’intera industria alimentare. Il nostro europallet H1 ha un piano aperto su 3 slitte."
   - q: "I pallet igienici sono in plastica vergine o riciclata?"

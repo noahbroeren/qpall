@@ -62,7 +62,7 @@ Our plastic export pallets are always light pallets. They perform better than yo
 
 * **They weigh little**, from 2.7 kg. That saves on freight costs.
 * **They are often nestable.** Empty pallets slide into each other.
-* **They carry 2,500 kg static and 1,000 kg dynamic.** They are intended for transport and floor storage, not for pallet racking.
+* **They carry up to 2,500 kg static and 1,000 kg dynamic.** They are intended for transport and floor storage, not for pallet racking.
 * **They do not absorb moisture** and absorb impacts better than wood.
 * **They can make more than one trip.** With careful handling, you can use them several times.
 

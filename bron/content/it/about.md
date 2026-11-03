@@ -12,7 +12,7 @@ lead: "Dal 2005 ci concentriamo su una sola cosa: pallet in plastica convenienti
 
 Fin dall’inizio la nostra missione è stata chiara: fornire pallet in plastica economici e affidabili, partendo dalla sostenibilità. Poiché ci dedichiamo interamente allo sviluppo e alla produzione di pallet in plastica, possiamo continuare a offrire nuove soluzioni che rispondono alle esigenze in evoluzione dei nostri clienti.
 
-I nostri pallet sono realizzati in plastica riciclata quasi al 100%. Sono rispettosi dell’ambiente, senza compromessi su resistenza e durata. In questo modo riduciamo i rifiuti e, allo stesso tempo, forniamo pallet su cui potete contare. È ciò che chiamiamo **pallets with a purpose**.
+I nostri pallet standard sono realizzati in plastica riciclata quasi al 100%. Sono rispettosi dell’ambiente, senza compromessi su resistenza e durata. In questo modo riduciamo i rifiuti e, allo stesso tempo, forniamo pallet su cui potete contare. È ciò che chiamiamo **pallets with a purpose**.
 
 ## Q-Pall in cifre
 

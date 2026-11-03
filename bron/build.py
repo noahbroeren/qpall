@@ -19,6 +19,7 @@ import productcopy as PC
 from productcopy import fmt_int, fmt_dec, fmt_price, rng_txt
 from drawings import drawing, ACC_ILLU
 from build_util import slugify
+from build_assets import HEAVY_COVERS
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.environ.get('QP_OUT', os.path.join(os.path.dirname(ROOT), 'qpall-website'))
@@ -134,6 +135,7 @@ def _fix_names():
         sz = SIZE_BY_KEY[m['size']]
         if sz['L'] == m['W'] and sz['W'] == m['L'] and m['L'] != m['W']:
             a, b = m['L'], m['W']
+            m['disp_LW'] = (b, a)
             for l in LANGS:
                 m['name'][l] = m['name'][l].replace(f"{a} x {b}", f"{b} x {a}", 1)
                 m['meta_title'][l] = m['meta_title'][l].replace(f"{a}x{b}", f"{b}x{a}", 1).replace(f"{a} x {b}", f"{b} x {a}", 1)
@@ -650,17 +652,17 @@ def is_hyg(m):
 # Hygienic, H1 and cleanroom pallets are made of virgin plastic. The shared product copy says
 # "like all Q-Pall pallets it is made of recycled plastic"; correct that sentence for those models (update 28).
 _HYG_MATERIAL = {
-    'nl': ("Zoals alle pallets van Q-Pall is hij gemaakt van gerecycled kunststof, neemt hij geen vocht op en heeft hij geen",
+    'nl': ("Zoals al onze standaardpallets is hij gemaakt van gerecycled kunststof, neemt hij geen vocht op en heeft hij geen",
            "Anders dan onze standaardpallets is hij gemaakt van virgin (nieuw) kunststof in een eigen kleur. Hij neemt geen vocht op en heeft geen"),
-    'en': ("Like all Q-Pall pallets, it consists of recycled plastic, does not absorb moisture",
+    'en': ("Like all our standard pallets, it consists of recycled plastic, does not absorb moisture",
            "Unlike our standard pallets, it is made of virgin plastic in its own colour. It does not absorb moisture"),
-    'de': ("Wie alle Paletten von Q-Pall besteht sie aus recyceltem Kunststoff, nimmt keine Feuchtigkeit auf",
+    'de': ("Wie alle unsere Standardpaletten besteht sie aus recyceltem Kunststoff, nimmt keine Feuchtigkeit auf",
            "Anders als unsere Standardpaletten besteht sie aus Neuware in einer eigenen Farbe. Sie nimmt keine Feuchtigkeit auf"),
-    'fr': ("Comme toutes les palettes Q-Pall, elle est fabriquée en plastique recyclé.",
+    'fr': ("Comme toutes nos palettes standard, elle est fabriquée en plastique recyclé.",
            "Contrairement à nos palettes standard, elle est fabriquée en plastique vierge, dans une couleur propre."),
-    'it': ("Come tutti i pallet Q-Pall, è realizzato in plastica riciclata, non assorbe umidità",
+    'it': ("Come tutti i nostri pallet standard, è realizzato in plastica riciclata, non assorbe umidità",
            "A differenza dei nostri pallet standard, è realizzato in plastica vergine in un colore proprio. Non assorbe umidità"),
-    'es': ("Como todos los palets de Q-Pall, está fabricado con plástico reciclado, no absorbe humedad",
+    'es': ("Como todos nuestros palets estándar, está fabricado con plástico reciclado, no absorbe humedad",
            "A diferencia de nuestros palets estándar, está fabricado con plástico virgen en un color propio. No absorbe humedad"),
 }
 for _m in MODELS:
@@ -1312,7 +1314,8 @@ def news_img(pid, w=640):
     img = PAGES[pid]['img']
     if img.startswith('photos/'):
         n = img.split('/', 1)[1]
-        return f'/assets/img/{img}-640.webp', f'/assets/img/{img}-640.webp 640w, /assets/img/{img}-1200.webp 1200w' if NEWS_WIDE.get(n, True) else None
+        mid = f'/assets/img/{img}-960.webp 960w, ' if n in HEAVY_COVERS else ''
+        return f'/assets/img/{img}-640.webp', f'/assets/img/{img}-640.webp 640w, {mid}/assets/img/{img}-1200.webp 1200w' if NEWS_WIDE.get(n, True) else None
     return '/assets/img/' + img, None
 
 
@@ -1591,6 +1594,9 @@ def render_page(pid, lang):
         extra['ultra_sku'] = ULTRA_SKU
         extra['recommend'] = [MODEL_BY_ID[i] for i in ULTRA_MODELS]
         extra['recommend_title'] = 'Ultra pallet'
+        um = MODEL_BY_ID[ULTRA_MODELS[-1]]
+        extra['ultra_img'] = {'lg': um['img_lg'], 'md': um['img_url'], 'alt': um['name'][lang]}
+        extra['ultra_txt'] = ULTRA_TXT[lang]
     if pid in PAGE_PHOTO:
         extra['page_photo'] = {'src': '/assets/img/photos/' + PAGE_PHOTO[pid], 'alt': t['photo_alt'].get(PAGE_PHOTO[pid]) or plain(page['h1'])}
     if pid == 'about-sustainability':   # EcoVadis badge next to the EcoVadis paragraph (Noah, update 19)
@@ -1784,6 +1790,15 @@ def render_acc(pid, lang):
 
 
 # photos from the Q-Pall shoot (Noah, update 19): office-open, team, custom-logo, recycled-input, pallet-detail
+# Ultra page: the two versions next to a short explanation (update 30, second analysis: 2 cards in a 4-column grid)
+ULTRA_TXT = {
+    'nl': {'h': 'Twee **uitvoeringen**', 'p': 'Beide uitvoeringen meten 1200 x 1000 x 165 mm en dragen 7.500 kg statisch en 1.500 kg dynamisch. Met 6 onderlatten draagt de Ultra pallet 1.375 kg in de stelling, met 3 onderlatten 1.250 kg.'},
+    'en': {'h': 'Two **versions**', 'p': 'Both versions measure 1200 x 1000 x 165 mm and carry 7,500 kg static and 1,500 kg dynamic. With 6 runners the Ultra pallet carries 1,375 kg in racking, with 3 runners 1,250 kg.'},
+    'de': {'h': 'Zwei **Ausführungen**', 'p': 'Beide Ausführungen messen 1200 x 1000 x 165 mm und tragen 7.500 kg statisch und 1.500 kg dynamisch. Mit 6 Kufen trägt die Ultra-Palette 1.375 kg im Regal, mit 3 Kufen 1.250 kg.'},
+    'fr': {'h': 'Deux **versions**', 'p': 'Les deux versions mesurent 1200 x 1000 x 165 mm et supportent 7.500 kg en statique et 1.500 kg en dynamique. Avec 6 semelles, la palette Ultra supporte 1.375 kg en rayonnage, avec 3 semelles 1.250 kg.'},
+    'it': {'h': 'Due **versioni**', 'p': 'Entrambe le versioni misurano 1200 x 1000 x 165 mm e sopportano 7.500 kg in statica e 1.500 kg in dinamica. Con 6 slitte il pallet Ultra sopporta 1.375 kg su scaffale, con 3 slitte 1.250 kg.'},
+    'es': {'h': 'Dos **versiones**', 'p': 'Ambas versiones miden 1200 x 1000 x 165 mm y soportan 7.500 kg en estática y 1.500 kg en dinámica. Con 6 patines, el palet Ultra soporta 1.375 kg en estantería; con 3 patines, 1.250 kg.'},
+}
 PAGE_PHOTO = {'about': 'hq-corner', 'about-local': 'local', 'about-sustainability': 'seaturtle', 'careers': 'team', 'about-custom': 'custom-logo',
               'job-inside-sales': 'office-open'}
 # two photos after the first list: (photo, photo, i18n key of the alt text, i18n key of the caption)

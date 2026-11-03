@@ -7,7 +7,7 @@ h1: "**Palets de plástico** higiénicos"
 lead: "Palets lisos y fáciles de limpiar para la industria alimentaria, la farmacéutica y las salas blancas. Incluidos palets H1 y palets para sala blanca, en 1200 x 800 y 1200 x 1000 mm."
 faq:
   - q: "¿Qué hace que un palet sea higiénico?"
-    a: "Un palet higiénico tiene un diseño liso y lo más cerrado posible, sin juntas ni rincones donde se acumulen la suciedad y las bacterias. El palet no absorbe humedad, resiste una limpieza intensiva y no tiene astillas ni clavos."
+    a: "Un palet higiénico tiene un diseño liso y lo más cerrado posible, sin juntas ni rincones donde pueda acumularse la suciedad. El palet no absorbe humedad, resiste una limpieza intensiva y no tiene astillas ni clavos."
   - q: "¿Qué es un palet H1?"
     a: "El palet H1 es un palet de plástico con medida de europalet que se desarrolló originalmente como palet para pooling en la industria cárnica. Hoy lo utiliza toda la industria alimentaria. Nuestro europalet H1 tiene superficie abierta sobre 3 patines."
   - q: "¿Los palets higiénicos son de plástico virgen o reciclado?"

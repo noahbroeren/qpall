@@ -1,7 +1,7 @@
 ---
 id: class-light
 title: "Palets de plástico Light – ligeros y encajables – Q-Pall"
-description: "Palets de plástico Light para exportación y un solo uso: ligeros, a menudo encajables, 2.500 kg en estática y 1.000 kg en dinámica. En 7 medidas."
+description: "Palets de plástico Light para exportación y un solo uso: ligeros, a menudo encajables, hasta 2.500 kg en estática y 1.000 kg en dinámica. En 7 medidas."
 eyebrow: "Clase de carga Light"
 h1: "Palets de plástico **Light**"
 lead: "Los palets más ligeros de nuestra gama, pensados para la exportación, los envíos puntuales y el almacenaje en suelo. Hay [[count]] modelos Light, desde [[price_from]] por unidad."

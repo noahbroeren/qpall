@@ -13,9 +13,9 @@ faq:
 - q: "Was ist ein CO₂-Fußabdruck?"
   a: "Der CO₂-Fußabdruck (Carbon Footprint) ist ein Maß für den Ausstoß von Treibhausgasen, angegeben in Kilogramm CO₂-Äquivalent. Bei einer Palette zählen unter anderem Rohstoff, Produktion und Transport."
 - q: "Sind Kunststoffpaletten nachhaltig?"
-  a: "Ja, wenn sie lange genutzt und danach recycelt werden. Unsere Paletten bestehen aus fast 100 % recyceltem Kunststoff, halten viele Jahre und sind am Ende ihrer Lebensdauer vollständig recycelbar. Außerdem produzieren wir lokal, sodass weniger Transport nötig ist."
+  a: "Ja, wenn sie lange genutzt und danach recycelt werden. Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff, halten viele Jahre und sind am Ende ihrer Lebensdauer vollständig recycelbar. Außerdem produzieren wir lokal, sodass weniger Transport nötig ist."
 - q: "Gilt die PPWR auch für Paletten?"
-  a: "Ja. Paletten sind Transportverpackungen und fallen unter die europäische Verpackungsverordnung, die seit dem 12. August 2026 gilt. Q-Pall stellt für jedes Modell eine PPWR-Erklärung als Download auf der Produktseite bereit."
+  a: "Ja. Paletten sind Transportverpackungen und fallen unter die europäische Verpackungsverordnung, die seit dem 12. August 2026 gilt. Q-Pall hat für jede Palettengruppe eine PPWR-Konformitätserklärung; bei den meisten Modellen laden Sie sie auf der Produktseite herunter."
 published: '2022-01-09'
 updated: '2026-11-02'
 ---
@@ -62,6 +62,6 @@ Ist CSR ein wichtiger Teil Ihrer Unternehmensführung? Dann ziehen Sie auch gebr
 
 Auch die Gesetzgebung fordert mehr Rücksicht auf die Umwelt. Die europäische Verpackungsverordnung PPWR ist seit Februar 2025 in Kraft und gilt seit dem 12. August 2026. Paletten sind Transportverpackungen und fallen damit ebenfalls darunter.
 
-Ab 2030 müssen Verpackungen in Klasse A, B oder C recycelbar sein, wobei Klasse C mindestens 70 % bedeutet. Q-Pall stellt für jedes Modell eine PPWR-Erklärung als Download auf der Produktseite bereit. Mehr dazu in unserem Leitfaden [PPWR und Kunststoffpaletten](@guide-ppwr).
+Ab 2030 müssen Verpackungen in Klasse A, B oder C recycelbar sein, wobei Klasse C mindestens 70 % bedeutet. Q-Pall hat für jede Palettengruppe eine PPWR-Konformitätserklärung; bei den meisten Modellen laden Sie sie auf der Produktseite herunter. Mehr dazu in unserem Leitfaden [PPWR und Kunststoffpaletten](@guide-ppwr).
 
 Sie möchten wissen, welche Palette zu Ihrer Anwendung und Ihren Nachhaltigkeitszielen passt? [Sprechen Sie uns an](@contact), wir beraten Sie gern.

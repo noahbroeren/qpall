@@ -13,9 +13,9 @@ faq:
 - q: "What is a carbon footprint?"
   a: "A carbon footprint is a measure of greenhouse gas emissions, expressed in kilograms of CO₂ equivalent. For a pallet, the raw material, production and transport all count."
 - q: "Are plastic pallets sustainable?"
-  a: "Yes, if they last a long time and are recycled afterwards. Our pallets are made from nearly 100% recycled plastic, last for many years and are fully recyclable at the end of their life. We also produce locally, so less transport is needed."
+  a: "Yes, if they last a long time and are recycled afterwards. Our standard pallets are made from nearly 100% recycled plastic, last for many years and are fully recyclable at the end of their life. We also produce locally, so less transport is needed."
 - q: "Does the PPWR also apply to pallets?"
-  a: "Yes. Pallets are transport packaging and fall under the European packaging regulation, which has applied since 12 August 2026. Q-Pall provides a PPWR declaration for each model as a download on the product page."
+  a: "Yes. Pallets are transport packaging and fall under the European packaging regulation, which has applied since 12 August 2026. Q-Pall has a PPWR declaration of conformity for each pallet group; for most models you can download it on the product page."
 published: '2022-01-09'
 updated: '2026-11-02'
 ---
@@ -62,6 +62,6 @@ Through [Q-Used](@used), we offer inspected used plastic pallets in various mode
 
 Legislation also calls for more attention to the environment. The European packaging regulation PPWR entered into force in February 2025 and has applied since 12 August 2026. Pallets are transport packaging, so they fall under it too.
 
-From 2030, packaging must be recyclable in class A, B or C, where class C means at least 70%. Q-Pall provides a PPWR declaration for each model as a download on the product page. Read more in our guide to [PPWR and plastic pallets](@guide-ppwr).
+From 2030, packaging must be recyclable in class A, B or C, where class C means at least 70%. Q-Pall has a PPWR declaration of conformity for each pallet group; for most models you can download it on the product page. Read more in our guide to [PPWR and plastic pallets](@guide-ppwr).
 
 Would you like to know which pallet suits your application and your sustainability goals? [Contact us](@contact) and we will be happy to advise you.

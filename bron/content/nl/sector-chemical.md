@@ -29,4 +29,4 @@ Chemische producten worden vaak in zakken, big bags, octabins of vaten vervoerd.
 
 ## Onze aanbevolen pallets
 
-Q-Pall was een van de pioniers met kunststof [CP-pallets](@type-cp). De CP1 en CP6 van 1200 x 1000 mm zijn geschikt voor zakgoed en dozen. De CP3 en CP9 van 1140 x 1140 mm zijn gemaakt voor vaten, octabins en big bags. Voor grote zakgoedpallets is er het formaat [1300 x 1100 mm](@size-1300x1100). Voor zeecontainers kiest u de lichte pallet van [760 x 1140 mm](@size-760x1140).
+Q-Pall maakt [CP-pallets](@type-cp) van kunststof. De CP1 en CP6 van 1200 x 1000 mm zijn geschikt voor zakgoed en dozen. De CP3 en CP9 van 1140 x 1140 mm zijn gemaakt voor vaten, octabins en big bags. Voor grote zakgoedpallets is er het formaat [1300 x 1100 mm](@size-1300x1100). Voor zeecontainers kiest u de lichte pallet van [760 x 1140 mm](@size-760x1140).

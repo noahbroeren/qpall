@@ -4,7 +4,7 @@ title: "Plastic CP pallets (CP1, CP3, CP6, CP9) – Q-Pall"
 description: "Plastic CP pallets for the chemical industry: CP1 and CP6 (1200 x 1000) and CP3 and CP9 (1140 x 1140). Up to 7,500 kg static and 2,200 kg dynamic."
 eyebrow: "Chemical industry"
 h1: "Plastic **CP pallets**"
-lead: "The plastic version of the chemical pallet. Q-Pall was one of the pioneers in making the wooden CP pallet in plastic. We have CP1, CP3 and CP9 in medium and heavy, and CP6 in heavy."
+lead: "The plastic version of the chemical pallet. We have CP1, CP3 and CP9 in medium and heavy, and CP6 in heavy."
 faq:
   - q: "What does CP stand for?"
     a: "CP stands for Chemical Pallet. The CP pallets were originally developed to standardise the range of pallets in the European chemical and plastics industry. There are nine types, from CP1 to CP9."

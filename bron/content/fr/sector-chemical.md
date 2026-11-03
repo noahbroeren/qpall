@@ -29,4 +29,4 @@ Les produits chimiques sont souvent transportés en sacs, big bags, octabins ou 
 
 ## Nos palettes recommandées
 
-Q-Pall a été l’un des pionniers des [palettes CP](@type-cp) en plastique. Les CP1 et CP6 de 1200 x 1000 mm conviennent aux marchandises en sacs et aux cartons. Les CP3 et CP9 de 1140 x 1140 mm sont conçues pour les fûts, les octabins et les big bags. Pour les grandes palettes de marchandises en sacs, il existe le format [1300 x 1100 mm](@size-1300x1100). Pour les conteneurs maritimes, choisissez la palette Light de [760 x 1140 mm](@size-760x1140).
+Q-Pall fabrique des [palettes CP](@type-cp) en plastique. Les CP1 et CP6 de 1200 x 1000 mm conviennent aux marchandises en sacs et aux cartons. Les CP3 et CP9 de 1140 x 1140 mm sont conçues pour les fûts, les octabins et les big bags. Pour les grandes palettes de marchandises en sacs, il existe le format [1300 x 1100 mm](@size-1300x1100). Pour les conteneurs maritimes, choisissez la palette Light de [760 x 1140 mm](@size-760x1140).

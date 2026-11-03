@@ -47,7 +47,7 @@ De som van lood, cadmium, kwik en zeswaardig chroom in verpakking mag niet hoger
 * Vanaf 2030 moet verpakking ontworpen zijn voor recycling (minimaal klasse C, 70% of hoger op de recyclebaarheidsschaal).
 * Een geharmoniseerd materiaallabel volgt vanaf 12 augustus 2028, zodra de uitvoeringshandelingen er zijn.
 
-Onze pallets bestaan uit één materiaalfamilie (gerecycled HDPE/PP) en zijn aan het einde van hun leven volledig recyclebaar. Ze gaan terug de kringloop in.
+Onze standaardpallets bestaan uit één materiaalfamilie (gerecycled HDPE/PP) en zijn aan het einde van hun leven volledig recyclebaar. Ze gaan terug de kringloop in.
 
 ## Wat betekent dit voor uw palletkeuze?
 

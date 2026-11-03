@@ -50,7 +50,7 @@ Une palette en bois endommagée est souvent inutilisable. Les palettes plastique
 
 ## De l’alternative au bois au support de charge intelligent
 
-Ce qui a commencé comme une alternative au bois est devenu un produit technique au service de la logistique moderne. Nos palettes peuvent être équipées d’une étiquette RFID pour mieux suivre les flux de marchandises. L’enseigne Auchan va plus loin et déploie [50.000 palettes Q-Pall intelligentes](@news-auchan) qui mesurent la localisation, la température et les chocs.
+Ce qui a commencé comme une alternative au bois est devenu un produit technique au service de la logistique moderne. Nos palettes peuvent être équipées d’une étiquette RFID pour mieux suivre les flux de marchandises. L’enseigne Auchan est allée plus loin et a déployé [50.000 palettes Q-Pall intelligentes](@news-auchan) qui mesurent la localisation, la température et les chocs.
 
 En fin de vie, nous reprenons les palettes. Nous les broyons pour en faire de la matière première et fabriquons de nouvelles palettes. La matière reste ainsi dans la boucle.
 

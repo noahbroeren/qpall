@@ -70,6 +70,6 @@ We make our standard pallets from almost 100% recycled plastic: a mix of HDPE (c
 
 At the end of their life, our pallets are fully recyclable. We take them back and grind them into raw material for new pallets. Used pallets in good condition get a second life through Q-Used.
 
-For our models, you will find the PPWR declaration as a download on the product page. Read more about our approach on the [sustainability](@about-sustainability) page.
+For most models, you will find the PPWR declaration as a download on the product page. Read more about our approach on the [sustainability](@about-sustainability) page.
 
 Would you like to know which pallet suits your process and what it costs per trip? [Request a quote](@quote) and you will usually receive a tailored price within one working day.

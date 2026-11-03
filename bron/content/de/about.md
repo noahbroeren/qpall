@@ -12,7 +12,7 @@ lead: "Seit 2005 konzentrieren wir uns auf eine Sache: bezahlbare, zuverlässige
 
 Von Anfang an ist unsere Mission klar: kostengünstige und zuverlässige Kunststoffpaletten zu liefern, mit Nachhaltigkeit als Ausgangspunkt. Weil wir uns ganz auf die Entwicklung und Produktion von Kunststoffpaletten konzentrieren, können wir immer wieder neue Lösungen anbieten, die den sich wandelnden Anforderungen unserer Kunden gerecht werden.
 
-Unsere Paletten bestehen aus fast 100 % recyceltem Kunststoff. Sie sind umweltfreundlich, ohne Abstriche bei Festigkeit oder Lebensdauer. So reduzieren wir Abfall und liefern zugleich Paletten, auf die Sie bauen können. Das nennen wir **pallets with a purpose**.
+Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff. Sie sind umweltfreundlich, ohne Abstriche bei Festigkeit oder Lebensdauer. So reduzieren wir Abfall und liefern zugleich Paletten, auf die Sie bauen können. Das nennen wir **pallets with a purpose**.
 
 ## Q-Pall in Zahlen
 

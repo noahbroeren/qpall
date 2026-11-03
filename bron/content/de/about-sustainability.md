@@ -4,7 +4,7 @@ title: "Nachhaltigkeit: Kunststoffpaletten aus Rezyklat – Q-Pall"
 description: "Q-Pall fertigt Kunststoffpaletten aus fast 100 % recyceltem Kunststoff, produziert lokal und schließt den Kreislauf. So senken wir CO2 und Abfall."
 eyebrow: "Nachhaltigkeit"
 h1: "Nachhaltig **vom Rohstoff bis zum Recycling**"
-lead: "Nachhaltigkeit liegt in unserer DNA. Wir fertigen unsere Paletten aus fast 100 % recyceltem Kunststoff, produzieren nah bei unseren Kunden, und am Ende ihrer Lebensdauer werden die Paletten wieder zu Rohstoff."
+lead: "Nachhaltigkeit liegt in unserer DNA. Wir fertigen unsere Standardpaletten aus fast 100 % recyceltem Kunststoff, produzieren nah bei unseren Kunden, und am Ende ihrer Lebensdauer werden die Paletten wieder zu Rohstoff."
 ---
 
 ## Recycelter Kunststoff als Rohstoff
@@ -19,7 +19,7 @@ Wir betrachten auch die Kunststoffabfallströme unserer Kunden. Wo möglich, ver
 
 ## Weniger Transport, weniger CO2
 
-Mehr als 80 % der CO2-Emissionen in der Palettenbranche entstehen durch den Transport. Ein Lkw voller Paletten transportiert vor allem Luft. Deshalb produzieren wir [lokal](@about-local), in sechs Werken, verteilt über ganz Europa. Fast jeder Kunde befindet sich im Umkreis von 600 Kilometern um ein Q-Pall-Werk. Kunststoffpaletten sind zudem leichter als viele Holzpaletten. Ein geringeres Eigengewicht bedeutet mehr Ladung pro Fahrt und weniger Kraftstoff.
+In der Palettenbranche entsteht der größte Teil der CO₂-Emissionen durch den Transport. Ein Lkw voller Paletten transportiert vor allem Luft. Deshalb produzieren wir [lokal](@about-local), in sechs Werken, verteilt über ganz Europa. Fast jeder Kunde befindet sich im Umkreis von 600 Kilometern um ein Q-Pall-Werk. Kunststoffpaletten sind zudem leichter als viele Holzpaletten. Ein geringeres Eigengewicht bedeutet mehr Ladung pro Fahrt und weniger Kraftstoff.
 
 ## Langlebig und danach wieder Rohstoff
 

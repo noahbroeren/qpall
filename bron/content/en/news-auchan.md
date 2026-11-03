@@ -9,7 +9,7 @@ h1: "Auchan deploys **50,000 smart Q-Pall pallets**, together with IBM"
 lead: "From late 2025, retailer Auchan rolled out 50,000 smart heavy duty Euro pallets made from recycled plastic across France. With IoT technology from IBM, every pallet became a source of data about the supply chain."
 img_alt: "Family with a shopping trolley in a supermarket aisle"
 reading: 2
-published: '2025-12-12'
+published: '2026-02-26'
 updated: '2026-11-02'
 ---
 > **In short**

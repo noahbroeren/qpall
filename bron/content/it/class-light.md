@@ -1,7 +1,7 @@
 ---
 id: class-light
 title: "Pallet in plastica Light – leggeri e incastrabili – Q-Pall"
-description: "Pallet in plastica Light per l’esportazione e l’uso singolo: leggeri, spesso incastrabili, 2.500 kg in statica e 1.000 kg in dinamica. In 7 formati."
+description: "Pallet in plastica Light per l’esportazione e l’uso singolo: leggeri, spesso incastrabili, fino a 2.500 kg in statica e 1.000 kg in dinamica. In 7 formati."
 eyebrow: "Classe di portata Light"
 h1: "Pallet in plastica **Light**"
 lead: "I pallet più leggeri della nostra gamma, pensati per esportazione, spedizioni una tantum e stoccaggio a terra. Sono disponibili [[count]] modelli Light, a partire da [[price_from]] al pezzo."

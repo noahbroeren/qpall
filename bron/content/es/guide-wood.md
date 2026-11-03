@@ -11,7 +11,7 @@ faq:
   - q: "¿Duran más los palets de plástico que los de madera?"
     a: "Sí. Con un uso normal, un palet de plástico dura muchos años. No tiene tablas ni clavos que puedan soltarse, y el plástico no se pudre ni se agrieta."
   - q: "¿Son realmente sostenibles los palets de plástico?"
-    a: "Sí, si duran mucho tiempo y después se reciclan. Nuestros palets están fabricados con plástico reciclado casi al 100% y son totalmente reciclables al final de su vida útil. Además, producimos localmente, por lo que se necesita menos transporte."
+    a: "Sí, si duran mucho tiempo y después se reciclan. Nuestros palets estándar están fabricados con plástico reciclado casi al 100% y son totalmente reciclables al final de su vida útil. Además, producimos localmente, por lo que se necesita menos transporte."
 ---
 
 ## La comparativa

@@ -9,7 +9,7 @@ h1: "Auchan adotta **50.000 pallet intelligenti Q-Pall**, insieme a IBM"
 lead: "Da fine 2025 l’insegna Auchan ha introdotto in tutta la Francia 50.000 europallet heavy duty intelligenti in plastica riciclata. Grazie all’IoT di IBM, ogni pallet è diventato una fonte di dati sulla filiera."
 img_alt: "Famiglia con un carrello della spesa nella corsia di un supermercato"
 reading: 2
-published: '2025-12-12'
+published: '2026-02-26'
 updated: '2026-11-02'
 ---
 > **In breve**

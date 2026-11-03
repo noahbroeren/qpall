@@ -11,7 +11,7 @@ faq:
   - q: "Les palettes plastique durent-elles plus longtemps que les palettes en bois ?"
     a: "Oui. Dans des conditions d’utilisation normales, une palette plastique dure de nombreuses années. Il n’y a ni planches ni clous qui puissent se détacher, et le plastique ne pourrit pas et ne se fend pas."
   - q: "Les palettes plastique sont-elles vraiment durables ?"
-    a: "Oui, si elles durent longtemps et sont ensuite recyclées. Nos palettes sont fabriquées en plastique recyclé à près de 100 % et sont entièrement recyclables en fin de vie. Nous produisons aussi localement, ce qui réduit les besoins de transport."
+    a: "Oui, si elles durent longtemps et sont ensuite recyclées. Nos palettes standard sont fabriquées en plastique recyclé à près de 100 % et sont entièrement recyclables en fin de vie. Nous produisons aussi localement, ce qui réduit les besoins de transport."
 ---
 
 ## Le comparatif

@@ -4,7 +4,7 @@ title: "Ultra pallet: palet de plástico robusto para pools – Q-Pall"
 description: "Ultra pallet de 1200 x 1000 x 165 mm: palet de plástico robusto, antideslizante arriba y abajo, hasta 1.375 kg en estantería. Creado con marcas de bebidas."
 eyebrow: "Palet para pooling de alta resistencia"
 h1: "El **Ultra pallet**"
-lead: "Un palet polivalente de alta resistencia de 1200 x 1000 x 165 mm, fabricado con más del 99% de materias primas secundarias. Con antideslizante en las caras superior e inferior y hasta 1.375 kg en estanterías para palets."
+lead: "Un palet polivalente de alta resistencia de 1200 x 1000 x 165 mm, fabricado con plástico reciclado casi al 100%. Con antideslizante en las caras superior e inferior y hasta 1.375 kg en estanterías para palets."
 faq:
   - q: "¿Qué hace especial al Ultra pallet?"
     a: "El Ultra pallet combina una construcción de alta resistencia con antideslizante en las caras superior e inferior, sin refuerzos metálicos. Soporta hasta 1.375 kg en estanterías para palets y se desarrolló junto con grandes marcas de la industria de bebidas."
@@ -25,7 +25,7 @@ El Ultra pallet se desarrolló junto con grandes marcas de la industria de bebid
 - **Patines cerrados**, disponible con 3 o 6 patines.
 - **Carga en estantería de hasta 1.375 kg** sin refuerzos metálicos.
 - **Resistente a impactos y golpes**, apto para sistemas de transporte automatizados.
-- **Circular:** fabricado con más del 99% de materias primas secundarias, como cajas y tapones usados, y totalmente reciclable.
+- **Circular:** fabricado con plástico reciclado casi al 100%, procedente entre otros de cajas y tapones usados, y totalmente reciclable.
 
 ## Aplicaciones
 

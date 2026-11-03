@@ -9,7 +9,7 @@ h1: "Auchan implanta **50.000 palets inteligentes de Q-Pall**, junto con IBM"
 lead: "Desde finales de 2025, la cadena Auchan implantó en toda Francia 50.000 europalets heavy duty inteligentes de plástico reciclado. Con el IoT de IBM, cada palet pasó a ser una fuente de datos."
 img_alt: "Familia con un carro de la compra en un pasillo de supermercado"
 reading: 2
-published: '2025-12-12'
+published: '2026-02-26'
 updated: '2026-11-02'
 ---
 > **En resumen**

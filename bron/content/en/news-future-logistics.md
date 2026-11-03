@@ -50,7 +50,7 @@ Damage to a wooden pallet often means it can no longer be used. Plastic pallets 
 
 ## From an alternative to wood to a smart load carrier
 
-What started as an alternative to wood has grown into a technical product for modern logistics. Our pallets can be fitted with an RFID tag, so you can track goods flows more closely. Retailer Auchan goes a step further and is deploying [50,000 smart Q-Pall pallets](@news-auchan) that measure location, temperature and shocks.
+What started as an alternative to wood has grown into a technical product for modern logistics. Our pallets can be fitted with an RFID tag, so you can track goods flows more closely. Retailer Auchan went a step further and deployed [50,000 smart Q-Pall pallets](@news-auchan) that measure location, temperature and shocks.
 
 At the end of their life, we take the pallets back. We grind them into raw material and make new pallets from it. That way, the material stays in the loop.
 

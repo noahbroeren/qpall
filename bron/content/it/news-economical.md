@@ -70,6 +70,6 @@ Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%: una mi
 
 A fine vita i nostri pallet sono completamente riciclabili. Li ritiriamo e li maciniamo per ottenere materia prima per nuovi pallet. I pallet usati in buone condizioni hanno una seconda vita grazie a Q-Used.
 
-Per i nostri modelli trovate la dichiarazione PPWR da scaricare nella pagina del prodotto. Scoprite di più sul nostro approccio nella pagina [sostenibilità](@about-sustainability).
+Per la maggior parte dei modelli trovate la dichiarazione PPWR da scaricare nella pagina del prodotto. Scoprite di più sul nostro approccio nella pagina [sostenibilità](@about-sustainability).
 
 Volete sapere quale pallet è adatto al vostro processo e quanto costa per viaggio? [Richiedete un preventivo](@quote): di solito ricevete un prezzo su misura entro un giorno lavorativo.
