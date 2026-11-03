@@ -828,3 +828,10 @@ UPDATE 31 (3 november 2026, HDPE 2-woordje, nieuwe qpall.com-berichten samengevo
   container) plus 2 FAQ's; de sectorpagina voeding (sector-food) kreeg open/gesloten dek, keuze per toepassing en
   verordening (EG) 1935/2004 plus 1 FAQ. Het nieuwe NL-adres verwijst door naar /kennisbank/palletmaten/
   (handmatig toegevoegd in data/redirects-extra.txt; de andere talen stonden er al).
+
+UPDATE 32 (3 november 2026, tweede foto)
+  2.QP1208MB3RR-CD (Ribe) had alleen een bovenfoto. Visueel vergeleken met 3./4./5.QP1208MB3RR-CD: zelfde mal
+  (dek, sleuven, hoeklippen, voeten), dus hun onderkantfoto staat nu als tweede foto in input/photos/qp1208mb3rr-cd
+  (photos.json: n 2, bottom 2). Nog met één foto, omdat er geen gelijk broertje is: QPH1210HR5RR-CD en de drie
+  1140 x 1140-PAS-pallets (QP1140MB6R-PAS, 3.QP1140MB6R-PAS, QP1140MB6R-PAS-CP9: de rand heeft veel meer gaatjes
+  dan het basismodel, dus mogelijk een andere onderkant).

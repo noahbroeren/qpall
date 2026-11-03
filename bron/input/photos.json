@@ -159,11 +159,13 @@
   ]
  },
  "qp1208mb3rr-cd": {
-  "n": 1,
+  "n": 2,
   "src": [
-   "catalog"
+   "catalog",
+   "drive"
   ],
-  "exact": true
+  "exact": true,
+  "bottom": 2
  },
  "qp1210hb3rr": {
   "n": 4,
