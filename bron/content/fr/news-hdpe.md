@@ -105,7 +105,7 @@ Nos palettes standard sont fabriquées en plastique recyclé : un mélange de PE
 Ce que cela vous apporte :
 
 * **Longue durée de vie.** Une palette plastique dure de nombreuses années, bien plus longtemps qu’une palette en bois moyenne.
-* **Hygiénique et constante.** Pas d’échardes, pas d’humidité, et chaque palette a le même poids et les mêmes dimensions.
+* **Propre et constante.** Pas d’échardes, pas d’humidité, et chaque palette a le même poids et les mêmes dimensions.
 * **Pas d’ISPM 15.** À l’export, les palettes plastique ne sont pas soumises aux règles applicables aux [emballages en bois](@guide-ispm).
 * **Boucle fermée.** En fin de vie, nous broyons la palette pour en refaire de la matière première.
 

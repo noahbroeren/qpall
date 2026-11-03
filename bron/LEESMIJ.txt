@@ -817,3 +817,14 @@ UPDATE 30 (3 november 2026, laatste feitelijke fouten, offerteformulier, layout)
   Layout: home-cases tussen 601 en 900 px tonen alle zes (de regel die het derde nieuwsbericht verbergt geldt niet
   meer voor .cases), megamenu past op 1366 x 768 (compacte tegels bij lage schermen, max-height), Ultra-pagina
   met productfoto in de kop en de twee uitvoeringen naast een korte uitleg (ULTRA_TXT in build.py).
+
+UPDATE 31 (3 november 2026, HDPE 2-woordje, nieuwe qpall.com-berichten samengevoegd)
+  HDPE 2: alleen de opsomming 'Hygiënisch en constant' is 'Schoon en constant' geworden (6 talen, akkoord Noah);
+  titel, kopjes, URL en metatekst ongewijzigd.
+  De nieuwe qpall.com-berichten 'Welke palletmaat heb ik nodig voor mijn toepassing?' (NL 02-11-2026, DE
+  23-09-2026) en 'Kunststoffpalette Lebensmittel: Welche ist geeignet?' (DE 22-09-2026) zijn geen eigen
+  nieuwsberichten geworden (zou concurreren met eigen pagina's in Google), maar samengevoegd: de gids Palletmaten
+  (guide-sizes) kreeg EUR 1/2/3/6, 33 europallets per trailer en 'per toepassing' (voeding, export, hoogbouw,
+  container) plus 2 FAQ's; de sectorpagina voeding (sector-food) kreeg open/gesloten dek, keuze per toepassing en
+  verordening (EG) 1935/2004 plus 1 FAQ. Het nieuwe NL-adres verwijst door naar /kennisbank/palletmaten/
+  (handmatig toegevoegd in data/redirects-extra.txt; de andere talen stonden er al).

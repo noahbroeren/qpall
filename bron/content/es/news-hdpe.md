@@ -105,7 +105,7 @@ Fabricamos nuestros palets estándar con plástico reciclado: una mezcla de HDPE
 Lo que esto le aporta:
 
 * **Larga vida útil.** Un palet de plástico dura muchos años, mucho más que un palet de madera medio.
-* **Higiénico y constante.** Sin astillas, sin humedad, y cada palet tiene el mismo peso y las mismas medidas.
+* **Limpio y constante.** Sin astillas, sin humedad, y cada palet tiene el mismo peso y las mismas medidas.
 * **Sin ISPM 15.** En la exportación, los palets de plástico no están sujetos a las [normas para embalajes de madera](@guide-ispm).
 * **Ciclo cerrado.** Al final de su vida útil, trituramos el palet para convertirlo de nuevo en materia prima.
 

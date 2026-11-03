@@ -105,7 +105,7 @@ Our standard pallets are made from recycled plastic: a mix of HDPE and PP from w
 What it means for you:
 
 * **Long service life.** A plastic pallet lasts for many years, much longer than an average wooden pallet.
-* **Hygienic and consistent.** No splinters, no moisture, and every pallet has the same weight and the same dimensions.
+* **Clean and consistent.** No splinters, no moisture, and every pallet has the same weight and the same dimensions.
 * **No ISPM 15.** Plastic pallets fall outside the [rules for wooden packaging material](@guide-ispm) when you export.
 * **Closed loop.** At the end of its life, we grind a pallet back into raw material.
 

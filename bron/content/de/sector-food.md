@@ -13,6 +13,8 @@ faq:
     a: "Ja, Kunststoffpaletten bleiben auch bei niedrigen Temperaturen stabil. Beachten Sie, dass Kunststoff unter dem Gefrierpunkt steifer und empfindlicher gegen harte Stöße wird. Verwenden Sie [Gefrier-Abstandshalter](@acc-freezer), um Ihre Produkte schneller einzufrieren."
   - q: "Was ist eine H1-Palette?"
     a: "Die H1-Palette ist eine hygienische Europalette aus Kunststoff, die für die Fleischindustrie entwickelt wurde und heute in der gesamten Lebensmittelindustrie eingesetzt wird."
+  - q: "Offenes oder geschlossenes Deck für Lebensmittel?"
+    a: "Für unverpackte Produkte und Nassbereiche wählen Sie ein geschlossenes Deck: Es ist schneller zu reinigen, und Feuchtigkeit läuft nicht auf die Ladung darunter. Für verpackte Produkte genügt oft ein offenes Deck."
 ---
 
 ## Die Herausforderung
@@ -27,10 +29,31 @@ In der Lebensmittelindustrie sind die Anforderungen an Hygiene und Lebensmittels
 - **Lange Lebensdauer** und über die gesamte Nutzungsdauer wirtschaftlicher als Holz.
 - **Vollständig recycelbar.**
 
+Einen ausführlichen Vergleich finden Sie unter [Kunststoff- oder Holzpaletten](@guide-wood).
+
 ## Neuware oder Rezyklat?
 
 Für direkten Lebensmittelkontakt verwenden Sie eine Palette aus Neuware, die kein Kontaminationsrisiko birgt. Für verpackte Produkte, bei denen die Palette nicht direkt mit dem Lebensmittel in Berührung kommt, sind unsere anderen Paletten aus recyceltem Kunststoff eine nachhaltige Wahl. Unsere [Hygienepaletten](@type-hygienic) bestehen aus Neuware, alle anderen Q-Pall Paletten aus recyceltem Kunststoff.
 
+## Offenes oder geschlossenes Deck?
+
+| | Offenes Deck | Geschlossenes Deck |
+|---|---|---|
+| Reinigung | Möglich, aber Schmutz bleibt leichter in den Öffnungen zurück | Schnell und gründlich |
+| Feuchtigkeit | Kann durch das Deck laufen | Bleibt auf dem Deck und lässt sich abspülen |
+| Typischer Einsatz | Verpackte Produkte, Lager, Distribution | Unverpackte Produkte, Nassbereiche, Pharma |
+
+## Welche Palette für welchen Einsatz?
+
+- **Fleisch und Fisch:** Die Hygieneanforderungen sind hoch, und Flüssigkeiten wie Blut oder Wasser dürfen nicht auf die Ladung darunter tropfen. Wählen Sie eine [Hygienepalette](@type-hygienic) mit geschlossenem Deck.
+- **Pharma:** eine glatte, geschlossene, porenfreie Oberfläche, beständig gegen Reinigungs- und Desinfektionsmittel und mit festen Maßen für automatisierte Linien. Siehe auch [die Pharmaindustrie](@sector-pharma).
+- **Nassbereiche** wie Produktionshallen und Waschstraßen: ein geschlossenes Deck, das kein Wasser aufnimmt und schnell zu reinigen ist.
+- **Verpackte Produkte und Distribution:** Hier genügt eine Standardpalette aus recyceltem Kunststoff, mit offenem oder geschlossenem Deck.
+
 ## HACCP
 
-Sie arbeiten nach HACCP? Dann möchten Sie das Kontaminationsrisiko so gering wie möglich halten. Eine Palette, die keine Feuchtigkeit aufnimmt, nicht schimmelt und leicht zu reinigen ist, hilft Ihnen dabei.
+Sie arbeiten nach HACCP? Dann möchten Sie das Kontaminationsrisiko so gering wie möglich halten. Eine Palette, die keine Feuchtigkeit aufnimmt, nicht schimmelt und leicht zu reinigen ist, hilft Ihnen dabei. Mehr dazu lesen Sie unter [Paletten und HACCP](@news-haccp).
+
+## Europäische Regeln für den Lebensmittelkontakt
+
+Materialien, die direkt mit Lebensmitteln in Berührung kommen, fallen unter die europäische Verordnung (EG) Nr. 1935/2004. Sie dürfen keine Bestandteile in Mengen an Lebensmittel abgeben, die die Gesundheit gefährden können. Kommt die Palette direkt mit Ihrem Produkt in Kontakt, wählen Sie eine Palette aus Neuware. Gerne besprechen wir, welche Ausführung zu Ihrem Einsatz passt.

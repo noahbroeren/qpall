@@ -13,6 +13,8 @@ faq:
     a: "Sì, i pallet in plastica restano robusti alle basse temperature. Tenete presente che sotto zero la plastica diventa più rigida e più sensibile agli urti violenti. Usate i [distanziatori per congelamento](@acc-freezer) per congelare più velocemente i vostri prodotti."
   - q: "Cos’è un pallet H1?"
     a: "Il pallet H1 è un europallet igienico in plastica, sviluppato per l’industria della carne e oggi utilizzato in tutta l’industria alimentare."
+  - q: "Piano aperto o chiuso per gli alimenti?"
+    a: "Per prodotti sfusi e ambienti umidi scegliete un piano chiuso: si pulisce più rapidamente e l’umidità non passa sul carico sottostante. Per i prodotti confezionati spesso basta un piano aperto."
 ---
 
 ## La sfida
@@ -27,10 +29,31 @@ Nell’industria alimentare i requisiti di igiene e sicurezza alimentare sono el
 - **Lunga durata** e, sull’intero ciclo di vita, più economici del legno.
 - **Completamente riciclabili.**
 
+Per un confronto completo, vedete [pallet in plastica o in legno](@guide-wood).
+
 ## Vergine o riciclata?
 
 Per il contatto diretto con gli alimenti utilizzate un pallet in plastica vergine, che non comporta alcun rischio di contaminazione. Per i prodotti confezionati, in cui il pallet non entra in contatto diretto con gli alimenti, i nostri altri pallet in plastica riciclata sono una scelta sostenibile. I nostri [pallet igienici](@type-hygienic) sono in plastica vergine, tutti gli altri pallet Q-Pall in plastica riciclata.
 
+## Piano aperto o chiuso?
+
+| | Piano aperto | Piano chiuso |
+|---|---|---|
+| Pulizia | Possibile, ma lo sporco resta più facilmente nelle aperture | Rapida e accurata |
+| Umidità | Può passare attraverso il piano | Resta sul piano e si risciacqua facilmente |
+| Uso tipico | Prodotti confezionati, stoccaggio, distribuzione | Prodotti sfusi, ambienti umidi, farmaceutico |
+
+## Quale pallet per quale uso?
+
+- **Carne e pesce:** i requisiti igienici sono elevati e liquidi come sangue o acqua non devono gocciolare sul carico sottostante. Scegliete un [pallet igienico](@type-hygienic) con piano chiuso.
+- **Farmaceutico:** una superficie liscia, chiusa e non porosa, resistente ai detergenti e ai disinfettanti, con misure fisse per le linee automatizzate. Vedete anche [l’industria farmaceutica](@sector-pharma).
+- **Ambienti umidi**, come reparti di produzione e linee di lavaggio: un piano chiuso che non assorbe acqua e si pulisce rapidamente.
+- **Prodotti confezionati e distribuzione:** qui basta un pallet standard in plastica riciclata, con piano aperto o chiuso.
+
 ## HACCP
 
-Lavorate secondo l’HACCP? Allora volete mantenere il rischio di contaminazione il più basso possibile. Un pallet che non assorbe umidità, non ammuffisce ed è facile da pulire vi aiuta a farlo.
+Lavorate secondo l’HACCP? Allora volete mantenere il rischio di contaminazione il più basso possibile. Un pallet che non assorbe umidità, non ammuffisce ed è facile da pulire vi aiuta a farlo. Per saperne di più: [pallet e HACCP](@news-haccp).
+
+## Regole europee per il contatto con gli alimenti
+
+I materiali a contatto diretto con gli alimenti rientrano nel regolamento europeo (CE) n. 1935/2004. Non devono trasferire agli alimenti componenti in quantità tali da costituire un pericolo per la salute umana. Se il pallet entra in contatto diretto con il vostro prodotto, scegliete un pallet in plastica vergine. Saremo lieti di consigliarvi la versione adatta al vostro uso.

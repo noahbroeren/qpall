@@ -112,7 +112,7 @@ I nostri pallet standard sono realizzati in plastica riciclata: una miscela di H
 Cosa significa per voi:
 
 * **Lunga durata.** Un pallet in plastica dura molti anni, molto più di un pallet in legno medio.
-* **Igienico e costante.** Niente schegge, niente umidità, e ogni pallet ha lo stesso peso e le stesse misure.
+* **Pulito e costante.** Niente schegge, niente umidità, e ogni pallet ha lo stesso peso e le stesse misure.
 * **Niente ISPM 15.** All’esportazione i pallet in plastica non sono soggetti alle regole per gli [imballaggi in legno](@guide-ispm).
 * **Ciclo chiuso.** A fine vita macinamo il pallet per trasformarlo di nuovo in materia prima.
 

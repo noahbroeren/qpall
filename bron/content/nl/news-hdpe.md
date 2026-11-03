@@ -105,7 +105,7 @@ Onze standaardpallets maken we van gerecycled kunststof: een mix van HDPE en PP 
 Wat dat u oplevert:
 
 * **Lange levensduur.** Een kunststof pallet gaat vele jaren mee, veel langer dan een gemiddelde houten pallet.
-* **Hygiënisch en constant.** Geen splinters, geen vocht, en elke pallet heeft hetzelfde gewicht en dezelfde maat.
+* **Schoon en constant.** Geen splinters, geen vocht, en elke pallet heeft hetzelfde gewicht en dezelfde maat.
 * **Geen ISPM 15.** Kunststof pallets vallen buiten de [regels voor houten verpakkingsmateriaal](@guide-ispm) bij export.
 * **Kringloop gesloten.** Aan het einde van zijn leven vermalen we een pallet weer tot grondstof.
 

@@ -105,7 +105,7 @@ Unsere Standardpaletten fertigen wir aus recyceltem Kunststoff: einer Mischung a
 Was Sie davon haben:
 
 * **Lange Lebensdauer.** Eine Kunststoffpalette hält viele Jahre, deutlich länger als eine durchschnittliche Holzpalette.
-* **Hygienisch und gleichbleibend.** Keine Splitter, keine Feuchtigkeit, und jede Palette hat dasselbe Gewicht und dieselben Maße.
+* **Sauber und gleichbleibend.** Keine Splitter, keine Feuchtigkeit, und jede Palette hat dasselbe Gewicht und dieselben Maße.
 * **Kein ISPM 15.** Kunststoffpaletten fallen beim Export nicht unter die [Regeln für Verpackungsholz](@guide-ispm).
 * **Geschlossener Kreislauf.** Am Ende ihres Lebens vermahlen wir eine Palette wieder zu Rohstoff.
 
