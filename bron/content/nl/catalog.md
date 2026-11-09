@@ -9,10 +9,10 @@ lead: "Alle pallets per formaat, met afmetingen, gewicht, bovendek, onderzijde e
 
 ## Wat staat erin?
 
-- Ons standaardassortiment, gesorteerd van 600 x 400 mm tot 1300 x 1100 mm.
+- Het complete palletassortiment, gesorteerd van 600 x 400 mm tot 1300 x 1100 mm.
 - Per model: artikelnummer, afmetingen, gewicht, bovendek, onderzijde en de statische, dynamische en stellingbelasting.
 - Light, medium en heavy in één oogopslag, met duidelijke labels.
 - Onderlatten en klikbare onderlatten.
 - De medium antislip pallets (sinds eind 2025).
 
-De catalogus is er in zes talen: Nederlands, Engels, Duits, Frans, Italiaans en Spaans. U downloadt automatisch de versie in de taal van deze website. Een aantal pallets, waaronder de hygiënische pallets en de CP-pallets, staat alleen online. De gegevens op deze website zijn altijd het meest actueel. Bekijk daarom ook ons [online assortiment](@pallets), met filters en alle specificaties.
+De catalogus is er in zes talen: Nederlands, Engels, Duits, Frans, Italiaans en Spaans. U downloadt automatisch de versie in de taal van deze website. De gegevens op deze website zijn altijd het meest actueel. Bekijk daarom ook ons [online assortiment](@pallets), met filters en alle specificaties.

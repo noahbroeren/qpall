@@ -904,9 +904,10 @@ UPDATE 35 (9 november 2026, afwerking: hero-pill, sticky balk, menu, kopjes en z
   UI-teksten rec_eyebrow en news_rel_eyebrow in 6 talen. Ultra-pagina: "Twee uitvoeringen" op één regel.
 
 UPDATE 36 (9 november 2026, nieuwe productcatalogus november 2026)
-  CATALOGUS: input/catalogus/<taal>.pdf vervangen door de catalogus van november 2026 (20 pagina's, ca. 9 MB per taal,
-  code 11-2026 op de achterkant). Zelfde download-URL's als voorheen. CATALOG_EDITION = '2026-11'; "Editie oktober 2026"
-  is overal "Editie november 2026" (menu, zijbalk, kennisbank, home, metabeschrijving van de cataloguspagina).
-  De catalogus bevat de pallets die in de prijslijst staan (in_catalog in products.json). 26 artikelen staan alleen online:
-  hygiënische pallets (QPH/QPW), H1-europallet, CP-pallets (CP1/CP3/CP6/CP9), QP4048-reeks, QP6080LR3RR en
-  QP76114LB3RR(-CD). De cataloguspagina zegt daarom "Ons standaardassortiment" en dat een aantal pallets alleen online staat.
+  CATALOGUS: input/catalogus/<taal>.pdf vervangen door de catalogus van november 2026 (22 pagina's, ca. 9 MB per taal,
+  code 11-2026 op de achterkant), gemaakt uit de productexport (tools/export_xlsx.py). Alle 130 pallets staan erin, plus
+  de losse onderlatten; gecontroleerd per taal op artikelnummer. Zelfde download-URL's als voorheen.
+  CATALOG_EDITION = '2026-11'; "Editie oktober 2026" is overal "Editie november 2026" (menu, zijbalk, kennisbank, home,
+  metabeschrijving van de cataloguspagina).
+  EXPORT: tools/export_xlsx.py maakt een Excel met alle pallets (foto's, maten, belastingen, uitvoering, locaties, stapel,
+  links, namen en teksten in 6 talen). Zonder kolom "In productcatalogus": die kwam uit de oude prijslijst.

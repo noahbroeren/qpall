@@ -135,7 +135,7 @@ cols = [
     ('Geschikt voor stellingen', 11, ''), ('Bovendek', 13, ''), ('Onderzijde', 14, ''), ('Nestbaar', 9, ''),
     ('Antislip', 9, ''), ('Hygiënisch', 10, ''), ('Typen', 26, 'w'), ('Materiaal', 22, 'w'), ('Kleur', 26, 'w'),
     ('ISPM 15', 22, 'w'), ('Productielocatie(s)', 22, 'w'), ('Pallets per stapel', 10, 'n'), ('Stapelmaat (mm)', 18, ''),
-    ('PPWR-conformiteitsverklaring', 14, ''), ('In productcatalogus', 11, ''), ('Basisartikel (familie)', 18, ''),
+    ('PPWR-conformiteitsverklaring', 14, ''), ('Basisartikel (familie)', 18, ''),
     ('Andere uitvoeringen', 24, 'w'), ('Korte omschrijving', 60, 'w'),
     ('Productpagina', 40, 'link'), ('Datasheet (pdf)', 40, 'link'), ("Foto's (groot)", 60, 'w'),
 ]
@@ -166,7 +166,7 @@ for r, m in enumerate(models, 2):
         yes(m['racking']), X['deck_label'], X['support'], yes('nestable' in m['types']),
         yes(m['antislip']), yes(B.is_hyg(m)), type_names(m), S.get(T['material'], ''), X['colour'],
         S.get(T['ispm'], ''), X['locs_txt'], m['stack'] or m.get('pack') or None, stack_place,
-        yes(m['ppwr']), yes(m.get('in_catalog')), anchor['sku'],
+        yes(m['ppwr']), anchor['sku'],
         ', '.join(others), plain(X['intro']),
         DOMAIN + m['url']['nl'], DOMAIN + X['datasheet'], '\n'.join(gallery_lg),
     ]
