@@ -7,7 +7,7 @@
   {% for k, c in [('light', 'groen'), ('medium', 'blauw'), ('heavy', 'paars')] %}{{ M.qbg(c, 'hero-q hero-q-' ~ k ~ (' is-on' if k == 'medium' else ''), '(min-width:1101px) 940px, (min-width:721px) 900px, 640px', eager=(k == 'medium'), defer=(k != 'medium')) }}{% endfor %}
   <div class="wrap hero-in">
     <div class="hero-txt">
-      <a class="hero-badge" href="{{ urls['type-antislip'] }}">{{ H.hero.badge }}{{ M.icon('arrow') }}</a>
+      <a class="hero-badge" href="{{ urls['type-antislip'] }}"><span class="hb-txt">{{ H.hero.badge }}</span><span class="hb-arrow">{{ M.icon('arrow') }}</span></a>
       <p class="eyebrow eyebrow-light">{{ H.hero.eyebrow }}</p>
       <h1 id="hero-h">{{ H.hero.h1|bold }}</h1>
       <p class="lead">{{ H.hero.lead }}</p>

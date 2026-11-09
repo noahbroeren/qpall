@@ -31,7 +31,7 @@
 {% if recommend %}
 <section class="section bg-soft" aria-labelledby="rec-h" data-pagefind-ignore>
   <div class="wrap">
-    {{ M.sec_head(None, recommend_title, None, 'rec-h', urls.pallets, t.all_pallets_link) }}
+    {{ M.sec_head(t.rec_eyebrow, recommend_title|boldlast, None, 'rec-h', urls.pallets, t.all_pallets_link) }}
     <div class="grid-products cols-4">{% for r in recommend %}{{ M.pcard(r, t, lang, loop.index) }}{% endfor %}</div>
   </div>
 </section>
@@ -40,7 +40,7 @@
 {% if news_more %}
 <section class="section{% if not page.faq or recommend %} bg-soft{% endif %}" aria-labelledby="nm-h" data-pagefind-ignore>
   <div class="wrap">
-    {{ M.sec_head(None, t.news_rel, None, 'nm-h', urls.news, t.news_all) }}
+    {{ M.sec_head(t.news_rel_eyebrow, t.news_rel, None, 'nm-h', urls.news, t.news_all) }}
     <ul class="news-grid news-grid-3">{% for n in news_more %}<li>{{ M.ncard(n, t) }}</li>{% endfor %}</ul>
   </div>
 </section>

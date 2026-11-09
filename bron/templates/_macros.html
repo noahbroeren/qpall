@@ -80,7 +80,7 @@
 {% macro news_related(items, t, urls, soft=True) -%}
 <section class="section{% if soft %} bg-soft{% endif %} news-rel" aria-labelledby="nr-h" data-pagefind-ignore>
   <div class="wrap">
-    {{ sec_head(None, t.news_rel, None, 'nr-h', urls.news, t.news_all) }}
+    {{ sec_head(t.news_rel_eyebrow, t.news_rel, None, 'nr-h', urls.news, t.news_all) }}
     <ul class="news-grid news-grid-3">{% for n in items %}<li>{{ ncard(n, t) }}</li>{% endfor %}</ul>
   </div>
 </section>
@@ -137,7 +137,7 @@
 {% macro faq_section(items, lang, t, title=None, soft=True) -%}
 <section class="section{% if soft %} bg-soft{% endif %}" aria-labelledby="faq-h">
   <div class="wrap faq-wrap">
-    <div class="faq-side"><p class="eyebrow">FAQ</p><h2 id="faq-h">{{ (title or t.faq_title)|bold }}</h2></div>
+    <div class="faq-side"><p class="eyebrow">FAQ</p><h2 id="faq-h">{{ (title or t.faq_title)|boldlast|bold }}</h2></div>
     {{ faq(items, lang) }}
   </div>
 </section>

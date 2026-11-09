@@ -61,7 +61,7 @@
 
 <section class="section bg-soft ty-more" aria-labelledby="ty-more-h">
   <div class="wrap">
-    {{ M.sec_head(None, F.more.h, None, 'ty-more-h') }}
+    {{ M.sec_head(None, F.more.h|boldlast, None, 'ty-more-h') }}
     <ul class="ty-cards">
       {% if F.more.cards %}{% for c in F.more.cards %}
       <li><a class="ty-link" href="{{ urls[c.id] }}"><b>{{ c.t }}</b><span>{{ c.d }}</span><em>{{ t.read_more }}{{ M.icon('arrow') }}</em></a></li>{% endfor %}

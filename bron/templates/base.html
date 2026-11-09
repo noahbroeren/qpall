@@ -109,7 +109,6 @@
             </div>
           </div>
         </li>
-        <li class="nav-item"><a class="nav-btn nav-link{% if section == 'knowledge' %} is-active{% endif %}" href="{{ urls.knowledge }}">{{ t.nav_knowledge }}</a></li>
         <li class="nav-item"><a class="nav-btn{% if section == 'about' %} is-active{% endif %}" href="{{ urls.about }}" aria-haspopup="true" aria-expanded="false" aria-controls="mm-about">{{ t.nav_about }}{{ M.icon('chev') }}</a>
           <div class="mega" id="mm-about">
             <div class="wrap mega-in mega-about">
@@ -124,6 +123,7 @@
             </div>
           </div>
         </li>
+        <li class="nav-item"><a class="nav-btn nav-link{% if section == 'knowledge' %} is-active{% endif %}" href="{{ urls.knowledge }}">{{ t.nav_knowledge }}</a></li>
         <li class="nav-item"><a class="nav-btn nav-link{% if section == 'news' %} is-active{% endif %}" href="{{ urls.news }}">{{ t.nav_news }}</a></li>
         <li class="nav-item"><a class="nav-btn nav-link{% if section == 'contact' %} is-active{% endif %}" href="{{ urls.contact }}">{{ t.nav_contact }}</a></li>
       </ul>
@@ -155,8 +155,8 @@
         </div>
       </details>
       <details class="dacc"><summary>{{ t.nav_sectors }}{{ M.icon('chev') }}</summary><div class="dacc-in"><ul class="dlist">{% for s in nav.sectors %}<li><a href="{{ s.url }}">{{ s.label }}</a></li>{% endfor %}<li><a href="{{ urls.sectors }}"><b>{{ t.mm_feature_sectors }}</b></a></li></ul></div></details>
-      <a class="drawer-link" href="{{ urls.knowledge }}">{{ t.nav_knowledge }}</a>
       <details class="dacc"><summary>{{ t.nav_about }}{{ M.icon('chev') }}</summary><div class="dacc-in"><ul class="dlist"><li><a href="{{ urls.about }}"><b>{{ t.nav_about }}</b></a></li>{% for a in nav.about if a.id != 'about' %}<li><a href="{{ a.url }}">{{ a.label }}</a></li>{% endfor %}</ul></div></details>
+      <a class="drawer-link" href="{{ urls.knowledge }}">{{ t.nav_knowledge }}</a>
       <a class="drawer-link" href="{{ urls.news }}">{{ t.nav_news }}</a>
       <a class="drawer-link" href="{{ urls.contact }}">{{ t.nav_contact }}</a>
       <a class="drawer-link" href="{{ urls.transport }}">{{ t.top_transport }}</a>

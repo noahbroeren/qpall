@@ -35,7 +35,7 @@
 <section class="section-sm" aria-labelledby="rec-h" data-pagefind-ignore>
   <div class="wrap ultra-models">
     <div class="ultra-models-txt">
-      {{ M.sec_head(None, ultra_txt.h, None, 'rec-h') }}
+      {{ M.sec_head(t.rec_eyebrow, ultra_txt.h, None, 'rec-h') }}
       <p>{{ ultra_txt.p }}</p>
     </div>
     <div class="grid-products cols-2 ultra-grid">{% for r in recommend %}{{ M.pcard(r, t, lang, loop.index) }}{% endfor %}</div>
@@ -44,7 +44,7 @@
 {% elif recommend %}
 <section class="section-sm" aria-labelledby="rec-h" data-pagefind-ignore>
   <div class="wrap">
-    {{ M.sec_head(None, recommend_title, None, 'rec-h') }}
+    {{ M.sec_head(t.rec_eyebrow, recommend_title|boldlast, None, 'rec-h', urls.pallets, t.all_pallets_link) }}
     <div class="grid-products cols-{{ 2 if recommend|length <= 2 else (3 if recommend|length in (3, 6, 9) else 4) }}">{% for r in recommend %}{{ M.pcard(r, t, lang, loop.index) }}{% endfor %}</div>
   </div>
 </section>

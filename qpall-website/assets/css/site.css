@@ -236,9 +236,15 @@ a:hover>.booklet,a:hover .booklet{transform:rotate(0)}
 .hero-in{display:grid;grid-template-columns:1.02fr 1fr;align-items:center;gap:48px;min-height:620px;padding-top:64px;padding-bottom:116px}
 .hero h1{color:#fff;font-size:clamp(2.4rem,5vw,4.1rem);line-height:1.05;margin-bottom:22px}
 .hero .lead{color:rgba(255,255,255,.82);max-width:540px;margin-bottom:30px}
-.hero-badge{display:inline-flex;align-items:center;gap:10px;height:36px;padding:0 14px 0 5px;margin-bottom:26px;border-radius:var(--r-pill);background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.18);color:#fff;font-size:.85rem;font-weight:500;text-decoration:none}
-.hero-badge:hover{background:rgba(255,255,255,.14);color:#fff}
+/* hero pill (update 35): label and arrow chip, the same glass look as the light/medium/heavy switch */
+.hero-badge{display:inline-flex;align-items:center;gap:12px;height:42px;padding:5px 5px 5px 18px;margin-bottom:26px;border-radius:var(--r-pill);background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.18);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);color:#fff;font-size:.88rem;font-weight:600;line-height:1.2;text-decoration:none;transition:background .2s var(--ease),border-color .2s var(--ease)}
+.hero-badge:hover{background:rgba(255,255,255,.16);border-color:rgba(255,255,255,.3);color:#fff}
+.hb-arrow{display:grid;place-items:center;flex:none;width:30px;height:30px;border-radius:50%}
+.hb-arrow{background:rgba(255,255,255,.14);transition:background .2s var(--ease),color .2s var(--ease)}
 .hero-badge .ico{width:16px;height:16px}
+.hb-arrow .ico{transition:transform .2s var(--ease)}
+.hero-badge:hover .hb-arrow{background:#fff;color:var(--ink)}
+.hero-badge:hover .hb-arrow .ico{transform:translateX(2px)}
 .hero-ctas{display:flex;flex-wrap:wrap;gap:12px}
 .hero-slide{grid-area:1/1;position:relative;display:grid;place-items:center;opacity:0;visibility:hidden;transform:translateX(16px);transition:opacity .6s var(--ease),transform .6s var(--ease),visibility .6s}
 .hero-slide.is-active{opacity:1;visibility:visible;transform:none}
@@ -247,7 +253,7 @@ a:hover>.booklet,a:hover .booklet{transform:rotate(0)}
 .hsw i{width:9px;height:9px;border-radius:50%}
 .hsw.c-light i{background:var(--light)}.hsw.c-medium i{background:var(--medium)}.hsw.c-heavy i{background:var(--heavy)}
 .hsw[aria-pressed="true"]{background:#fff;color:var(--ink)}
-.finder-wrap{position:relative;z-index:5;margin-top:-46px}
+.finder-wrap{position:relative;z-index:5;margin-top:-40px}   /* half the 80px bar: centred on the edge of the hero (update 35) */
 .finder{display:grid;grid-template-columns:auto repeat(4,1fr) auto;align-items:center;gap:0;background:#fff;border-radius:22px;padding:10px 10px 10px 26px;box-shadow:0 24px 50px -24px rgba(29,28,76,.4),0 0 0 1px var(--line-2)}
 .finder-title{display:flex;align-items:center;gap:10px;font-weight:600;color:var(--ink);padding-right:22px;white-space:nowrap}
 .finder-title .ico{width:20px;height:20px;color:var(--orange)}
@@ -385,6 +391,8 @@ a:hover>.booklet,a:hover .booklet{transform:rotate(0)}
 .phero-tag{display:flex;align-items:center;gap:12px;margin:-4px 0 18px;font-size:clamp(1.1rem,1.6vw,1.3rem);font-weight:500;line-height:1.35;color:var(--ink)}
 .phero-tag::before{content:"";flex:0 0 28px;height:2px;background:var(--orange)}
 [data-pid="about"] .phero-tag::before{content:none}   /* update 34: no dash before "Pallets with a purpose" on About */
+[data-pid="about"] .phero-tag{margin:2px 0 22px;font-size:clamp(1.4rem,2.5vw,1.9rem);font-weight:500;letter-spacing:-.01em}   /* update 35: the tagline stands out more */
+[data-pid="about"] .phero-tag strong{color:var(--orange-ink);font-weight:700}
 .phero-tag strong{font-weight:700}
 .phero-dark .phero-tag{color:#fff}
 .phero-dark{background:var(--navy);color:rgba(255,255,255,.82)}
@@ -565,9 +573,12 @@ a:hover>.booklet,a:hover .booklet{transform:rotate(0)}
 .aside-card h3{font-size:1.05rem;margin-bottom:12px}
 .aside-card h2{font-size:1.05rem;font-weight:600;line-height:1.15;letter-spacing:-.01em;margin-bottom:12px}
 .aside-nav ul{display:grid}
-.aside-nav a{display:block;padding:8px 0;border-bottom:1px solid var(--line-2);font-size:.92rem;text-decoration:none}
-.aside-nav li:last-child a{border-bottom:0}
-.aside-nav a[aria-current]{font-weight:600;color:var(--orange-ink)}
+.aside-nav li{border-bottom:1px solid var(--line-2)}
+.aside-nav li:last-child{border-bottom:0}
+.aside-nav a{display:block;padding:8px 0;font-size:.92rem;text-decoration:none}
+/* current item: the same light-orange pill in every sidebar (pages, sectors, news, knowledge base) – update 35 */
+.aside-nav a[aria-current]{margin:5px -10px;padding:7px 10px;border-radius:10px;background:#FEF1E8;color:var(--orange-ink);font-weight:600}
+.aside-nav a:not([aria-current]):hover{color:var(--orange-ink)}
 .aside-cta{background:var(--navy);border-color:var(--navy);color:rgba(255,255,255,.8)}
 .aside-cta h2,.aside-cta h3{color:#fff}
 .aside-cta p{font-size:.9rem}
@@ -1050,7 +1061,6 @@ a:hover>.booklet,a:hover .booklet{transform:rotate(0)}
 .toc ol{margin:0;padding-left:18px;display:grid;gap:6px;font-size:.92rem}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--orange-ink)}
-.kb-side a[aria-current]{display:block;margin:0 -10px;padding:8px 10px;border-radius:10px;background:#FEF1E8;color:var(--orange-ink);font-weight:500}
 /* "All news" at the foot of the news sidebar: a grey pill like the current item, text left, arrow right (update 29) */
 .aside-nav .kb-side-all,.aside-nav a.kb-side-all{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:14px -10px 0;padding:10px 12px 10px 10px;border:0;border-radius:10px;background:var(--soft-2);color:var(--ink);font-size:.9rem;font-weight:600;line-height:1.3;white-space:nowrap;transition:background .16s}
 .aside-nav a.kb-side-all:hover{background:var(--soft)}
@@ -1062,6 +1072,7 @@ a:hover>.booklet,a:hover .booklet{transform:rotate(0)}
 .phero-product{width:100%;max-width:520px;height:auto;justify-self:center;mix-blend-mode:multiply}
 .ultra-models{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:48px;align-items:start}
 .ultra-models-txt p{color:var(--text);line-height:1.7;margin-top:14px}
+.ultra-models-txt .sec-head{grid-template-columns:minmax(0,1fr);margin-bottom:0}
 .ultra-models .grid-products.cols-2{max-width:none}
 @media (max-width:1000px){.ultra-models{grid-template-columns:minmax(0,1fr);gap:20px}}
 
@@ -1095,6 +1106,7 @@ body.has-cmp .ftr{padding-bottom:84px}
 }@media (max-width:1100px){
   .tb-links{display:none}
   .hero-in{grid-template-columns:minmax(0,1fr);gap:28px;min-height:0;padding-top:48px;padding-bottom:120px}
+  .finder-wrap{margin-top:-46px}
   .finder{grid-template-columns:repeat(2,minmax(0,1fr));border-radius:20px;padding:16px;gap:10px}
   .finder-title{grid-column:1/-1;padding:0 4px 4px}
   .finder-f{border:1px solid var(--line);border-radius:12px;padding:8px 12px}
@@ -1186,9 +1198,10 @@ body.has-cmp .ftr{padding-bottom:84px}
   .g-thumbs{grid-template-columns:repeat(5,minmax(0,1fr));gap:6px}
   .g-thumb-draw{padding:2px;font-size:.5rem;line-height:1.2;letter-spacing:-.01em}
   .subnav-cta{display:none}
-  .sticky-cta{position:fixed;left:0;right:0;bottom:0;z-index:65;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:#fff;border-top:1px solid var(--line);box-shadow:0 -10px 30px -18px rgba(29,28,76,.4)}
-  .tpl-product .cmpbar{bottom:80px}
-  .tpl-product .cookie{bottom:84px}
+  .sticky-cta{position:fixed;left:0;right:0;bottom:0;z-index:65;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:#fff;border-top:1px solid var(--line);box-shadow:0 -10px 30px -18px rgba(29,28,76,.4);transform:translateY(110%);visibility:hidden;transition:transform .28s var(--ease),visibility 0s linear .28s}
+  .sticky-cta.is-on{transform:none;visibility:visible;transition:transform .28s var(--ease),visibility 0s}
+  .tpl-product.has-sticky .cmpbar{bottom:80px}
+  .tpl-product.has-sticky .cookie{bottom:84px}
   .dl-grid{grid-template-columns:minmax(0,1fr)}
   .form-card{padding:20px}
   .form-grid{grid-template-columns:minmax(0,1fr)}

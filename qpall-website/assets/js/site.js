@@ -461,6 +461,16 @@
     sort(); apply(false);
   }
 
+  /* ---------- product page: the sticky quote bar only appears once the page's own quote button has scrolled out
+     of view above (update 35) ---------- */
+  var stickyBar = $('.sticky-cta'), mainCta = $('.pricebox .btn');
+  if (stickyBar && mainCta && 'IntersectionObserver' in window) {
+    new IntersectionObserver(function (es) {
+      var e = es[es.length - 1], past = !e.isIntersecting && e.boundingClientRect.top < 0;
+      stickyBar.classList.toggle('is-on', past); d.body.classList.toggle('has-sticky', past);
+    }).observe(mainCta);
+  } else if (stickyBar) { stickyBar.classList.add('is-on'); d.body.classList.add('has-sticky'); }
+
   /* ---------- compare ---------- */
   var CK = 'qp-compare';
   var cmpList = store.get(CK) || [];

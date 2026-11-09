@@ -541,6 +541,8 @@ env.globals['prod_hosts'] = ' '.join(PROD_HOSTS)
 env.globals['hubspot'] = {'id': HUBSPOT_ID, 'region': HUBSPOT_REGION, 'hosts': ' '.join(HUBSPOT_HOSTS),
                          'forms': {k: v for k, v in HUBSPOT_FORMS.items() if v}}
 env.filters['bold'] = bold_filter
+# update 35: section titles without their own ** get the house style (light text, last word bold), e.g. "Veelgestelde **vragen**"
+env.filters['boldlast'] = lambda s: s if (not s or '**' in s or ' ' not in s.strip()) else '{} **{}**'.format(*s.strip().rsplit(' ', 1))
 # soft hyphens at the compound boundary for the few long words that sit in narrow boxes on a phone
 SHY = {k: v.replace('|', '\u00ad') for k, v in {
     # first letter left off, so capitalised and lower-case forms both match

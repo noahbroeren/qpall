@@ -14,7 +14,7 @@
 {% if items %}
 <section class="section-sm" aria-labelledby="acc-h">
   <div class="wrap">
-    {{ M.sec_head(None, t.acc_spec_title, None, 'acc-h') }}
+    {{ M.sec_head(t.rec_eyebrow, t.acc_spec_title|boldlast, None, 'acc-h') }}
     <div class="acc-grid">
       {% for a in items %}
       <article class="acard" id="{{ a.anchor }}">

@@ -886,3 +886,19 @@ UPDATE 34 (9 november 2026, geen prijzen meer, offerteknop op kaarten, foto's, n
   SITL 2025 (1-3 april) 10-04-2025, lokale veerkracht 15-05-2025.
   OVER Q-PALL: geen streepje voor "Pallets with a purpose". Metabeschrijving met hoogte als twee artikelen anders
   dezelfde tekst krijgen (1300 x 1100 x 158/160). Domein: qpall.com zonder www, www stuurt 301 door (netlify.toml).
+
+UPDATE 35 (9 november 2026, afwerking: hero-pill, sticky balk, menu, kopjes en zijbalken gelijkgetrokken)
+  HOME: de pill boven de hero ("Antislip medium pallets") is een glazen pill met ronde pijlknop, zonder icoon ervoor.
+  De zoekbalk "Vind uw pallet" staat precies gecentreerd op de overgang van de donkere hero naar wit
+  (.finder-wrap margin-top -40px, tot 1100px breed -46px).
+  PRODUCTPAGINA MOBIEL: de sticky balk onderaan verschijnt pas als u voorbij de knop "Offerte aanvragen" in het
+  prijsblok bent gescrold (IntersectionObserver in site.js; zonder die API staat de balk direct aan). Vergelijkbalk
+  en cookiemelding schuiven alleen omhoog als de balk zichtbaar is (body.has-sticky).
+  MENU: Over Q-Pall staat nu voor Kennisbank (desktop en mobiel menu).
+  OVER Q-PALL: "Pallets with a purpose" groter en opvallender, met "with a purpose" in oranje.
+  ZIJBALKEN: het actieve item heeft in elke zijbalk (pagina's, sectoren, nieuws, kennisbank) dezelfde lichtoranje
+  pill met ruimte boven en onder, zodat die de scheidingslijnen niet meer raakt.
+  KOPJES: sectiekoppen volgen overal dezelfde stijl (klein oranje label + titel licht met laatste woord vet):
+  "Assortiment / Aanbevolen voor deze sector", "Lees verder / Gerelateerd nieuws", "FAQ / Veelgestelde vragen",
+  "Alle modellen" bij toebehoren, de bedankpagina's en de Ultra-pagina. Filter 'boldlast' in build.py; nieuwe
+  UI-teksten rec_eyebrow en news_rel_eyebrow in 6 talen. Ultra-pagina: "Twee uitvoeringen" op één regel.
