@@ -1,5 +1,5 @@
 Q-PALL WEBSITE  ·  qpall.com
-Statisch websitepakket voor Netlify  ·  build oktober 2026
+Statisch websitepakket voor Netlify  ·  build november 2026
 ======================================================================
 
 INHOUD VAN DIT PAKKET

@@ -149,7 +149,7 @@ ppwr:
   cta: "Read the PPWR guide"
 catalog:
   title: "All pallets **in one PDF**"
-  text: "The product catalogue with all sizes, specifications and load capacities. October 2026 edition."
+  text: "The product catalogue with all sizes, specifications and load capacities. November 2026 edition."
   cta: "Download catalogue"
 cases:
   eyebrow: "Cases"

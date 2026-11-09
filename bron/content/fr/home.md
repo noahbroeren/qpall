@@ -149,7 +149,7 @@ ppwr:
   cta: "Lire le guide PPWR"
 catalog:
   title: "Toutes les palettes **dans un seul PDF**"
-  text: "Le catalogue produits avec tous les formats, caractéristiques et capacités de charge. Édition octobre 2026."
+  text: "Le catalogue produits avec tous les formats, caractéristiques et capacités de charge. Édition novembre 2026."
   cta: "Télécharger le catalogue"
 cases:
   eyebrow: "Références"

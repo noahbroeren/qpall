@@ -149,7 +149,7 @@ ppwr:
   cta: "Zum PPWR-Ratgeber"
 catalog:
   title: "Alle Paletten **in einem PDF**"
-  text: "Der Produktkatalog mit allen Größen, technischen Daten und Tragfähigkeiten. Ausgabe Oktober 2026."
+  text: "Der Produktkatalog mit allen Größen, technischen Daten und Tragfähigkeiten. Ausgabe November 2026."
   cta: "Katalog herunterladen"
 cases:
   eyebrow: "Referenzen"

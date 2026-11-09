@@ -149,7 +149,7 @@ ppwr:
   cta: "Leggete la guida PPWR"
 catalog:
   title: "Tutti i pallet **in un unico PDF**"
-  text: "Il catalogo prodotti con tutte le dimensioni, le specifiche e le portate. Edizione ottobre 2026."
+  text: "Il catalogo prodotti con tutte le dimensioni, le specifiche e le portate. Edizione novembre 2026."
   cta: "Scaricate il catalogo"
 cases:
   eyebrow: "Casi di successo"

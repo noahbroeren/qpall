@@ -36,7 +36,7 @@ HUBSPOT_REGION = 'eu1'
 HUBSPOT_FORMS = {'offerte': '', 'contact': ''}
 
 # productcatalogus per taal (input/catalogus/<taal>.pdf  ->  /downloads/<naam>)
-CATALOG_EDITION = '2026-10'
+CATALOG_EDITION = '2026-11'
 CATALOG_FILES = {
     'nl': 'downloads/q-pall-productcatalogus-2026-nl.pdf',
     'en': 'downloads/q-pall-product-catalogue-2026-en.pdf',

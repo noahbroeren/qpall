@@ -149,7 +149,7 @@ ppwr:
   cta: "Lees de PPWR-gids"
 catalog:
   title: "Alle pallets **in één pdf**"
-  text: "De productcatalogus met alle formaten, specificaties en draagvermogens. Editie oktober 2026."
+  text: "De productcatalogus met alle formaten, specificaties en draagvermogens. Editie november 2026."
   cta: "Download catalogus"
 cases:
   eyebrow: "Cases"
