@@ -1968,9 +1968,10 @@ button.hq-row.is-on,button.hq-row:hover{background:#E9E9F2}
 .g-zoom:hover{border-color:var(--navy);background:#fff}
 .g-zoom .ico{width:20px;height:20px}
 .g-main:has(.g-draw.is-active) .g-zoom{display:none}
-.lightbox{position:fixed;inset:0;z-index:200;display:grid;grid-template-columns:56px minmax(0,1fr) 56px;grid-template-rows:minmax(0,1fr) auto;align-items:center;gap:12px 20px;padding:64px 24px 20px;background:rgba(17,16,46,.94)}
-.lb-fig{grid-column:2;grid-row:1;display:grid;place-items:center;width:100%;height:100%;margin:0;overflow:hidden}
-.lb-fig img{max-width:100%;max-height:min(100%,calc(100vh - 120px));max-height:min(100%,calc(100dvh - 120px));width:auto;height:auto;object-fit:contain;border-radius:var(--r);background:#fff;cursor:zoom-in}
+/* the photo sits exactly in the middle: equal space above (close button) and below (counter) - update 38 */
+.lightbox{position:fixed;inset:0;z-index:200;display:grid;grid-template-columns:56px minmax(0,1fr) 56px;grid-template-rows:minmax(0,1fr);align-items:center;gap:12px 20px;padding:72px 24px;background:rgba(17,16,46,.94)}
+.lb-fig{grid-column:2;grid-row:1;display:flex;align-items:center;justify-content:center;width:100%;height:100%;min-height:0;margin:0;overflow:hidden}
+.lb-fig img{display:block;max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain;border-radius:var(--r);background:#fff;cursor:zoom-in}
 .lightbox.is-zoom .lb-fig{display:block;overflow:auto;overscroll-behavior:contain}
 .lightbox.is-zoom .lb-fig img{max-width:none;max-height:none;cursor:zoom-out}
 .lb-btn{display:grid;place-items:center;width:48px;height:48px;border-radius:50%;border:1px solid rgba(255,255,255,.28);background:rgba(255,255,255,.1);color:#fff;transition:background .18s,border-color .18s}
@@ -1979,13 +1980,12 @@ button.hq-row.is-on,button.hq-row:hover{background:#E9E9F2}
 .lb-close{position:absolute;top:12px;right:16px}
 .lb-prev{grid-column:1;grid-row:1}
 .lb-next{grid-column:3;grid-row:1}
-.lb-cap{grid-column:1/-1;grid-row:2;margin:0;min-height:1.4em;text-align:center;font-size:.85rem;color:rgba(255,255,255,.75)}
+.lb-cap{position:absolute;left:0;right:0;bottom:26px;margin:0;min-height:1.4em;text-align:center;font-size:.85rem;color:rgba(255,255,255,.75)}
 @media (max-width:700px){
-  .lightbox{grid-template-columns:minmax(0,1fr) minmax(0,1fr);grid-template-rows:minmax(0,1fr) auto auto;gap:14px 12px;padding:64px 12px 20px}
+  .lightbox{grid-template-columns:minmax(0,1fr) minmax(0,1fr);grid-template-rows:minmax(0,1fr) auto;gap:14px 12px;padding:72px 12px 64px}
   .lb-fig{grid-column:1/-1}
   .lb-prev{grid-column:1;grid-row:2;justify-self:end}
   .lb-next{grid-column:2;grid-row:2;justify-self:start}
-  .lb-cap{grid-row:3}
 }
 
 /* long Dutch/German compounds (voedingsmiddelenindustrie, Stellingbelasting, Konformitätserklärung ...):

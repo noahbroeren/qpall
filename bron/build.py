@@ -1164,6 +1164,8 @@ CALC_P = {mm.group(1): {'l': int(mm.group(2)), 'w': int(mm.group(3)), 'h': int(m
           for mm in re.finditer(r'\{ id: "([^"]+)", name: "[^"]*", l: (\d+), w: (\d+), h: (\d+)([^}]*)\}', CALC_ENGINE.split('const pallets = [', 1)[1].split('];', 1)[0])
           if 'isRunner' not in mm.group(5)}
 CALC_STD = json.load(open(os.path.join(ROOT, 'data/calc-defaults.json'), encoding='utf-8'))
+# pallets per truck position in the calculator (tautliner, mega/combi): compared with the stack table (data/stapels.json)
+CALC_LIM = {mm.group(1): (int(mm.group(2)), int(mm.group(3))) for mm in re.finditer(r'\{ id: "([^"]+)",[^}]*?limitTautliner: (\d+), limitCombi: (\d+)', CALC_ENGINE)}
 CALC_ALIAS = {'QP6080MB6FR': 'QP6080M6FR', 'RECYPAL1210RR': 'RECYCPAL1210RR'}     # same product, other spelling in the calculator
 CALC_SHIPPING = {'EUROPAL800RR', 'RECYCPAL1210RR'}     # l/w in the calculator = the shipping pallet, not the pallet itself
 CALC_SIZE = {(1200, 800): '1208', (1200, 1000): '1210', (1200, 1200): '1212', (1140, 1140): '1140', (1100, 1100): '1111', (760, 1140): '76114',
@@ -1190,15 +1192,21 @@ def calc_for_model(m):
             return s2, False
     if 'nestable' in m['types']:
         return None, False
+    # a comparable article: same footprint, preferably the same stack per truck position as this article in the stack
+    # table (update 38: the 6-runner PAS pallets stack 16 high, like QP1140MB3RR, not 17 like QP1140MB3R-PAS), then
+    # the same load class and the nearest height
     cl, best = m['class'][0].upper(), None
+    st = STACKS.get(m['sku']) or {}
     for i, p in CALC_P.items():
-        if p['fixed'] or i in CALC_SHIPPING or calc_nestable(i) or sorted((p['l'], p['w'])) != sorted((m['L'], m['W'])) or abs(p['h'] - m['H']) > 3:
+        if p['fixed'] or i in CALC_SHIPPING or calc_nestable(i) or sorted((p['l'], p['w'])) != sorted((m['L'], m['W'])) or abs(p['h'] - m['H']) > 10:
             continue
         mm = re.match(r'QP\d+([LMH])', i)
-        key = (0 if mm and mm.group(1) == cl else 1, abs(p['h'] - m['H']), i)
+        lim = CALC_LIM.get(i, (0, 0))
+        same_stack = st.get('stack') == lim[0] and (st.get('combi') or lim[1]) == lim[1]
+        key = (0 if same_stack else 1, 0 if mm and mm.group(1) == cl else 1, abs(p['h'] - m['H']), i)
         if best is None or key < best:
             best = key
-    return (best[2], False) if best else (None, False)
+    return (best[-1], False) if best else (None, False)
 
 
 def calc_data(lang):

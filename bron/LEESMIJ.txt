@@ -929,3 +929,20 @@ UPDATE 37 (9 november 2026, bevestigingsmail offerte via Brevo)
   quote-mail.json naast de functie. Productfoto's voor e-mail: root/assets/email/p (tools/email_assets.py, nu ook
   toebehoren). Testen zonder te versturen: node tools/mail_test.js ../qpall-website <map> (schrijft de mails als html).
   /netlify/* geeft op de site een 404 (de functiebestanden zijn geen pagina's).
+
+UPDATE 38 (9 november 2026, vergrootglas, fotovenster, laadberekening)
+  PRODUCTFOTO: het vergrootglas heeft geen plusje meer (templates/_sprite.svg, i-zoom). Het fotovenster zet de foto
+  precies in het midden (evenveel ruimte boven en onder, teller onderaan los) en de foto valt er niet meer onderaf, dus
+  alle hoeken zijn rond. Klikken op de foto zoomt nog steeds in.
+  LAADCALCULATOR: displaypallets 600 x 400 en 600 x 800 gaven "past niet" in een 20 ft (en 40 ft) container: de vaste
+  stapel van 2200-2320 mm is hoger dan de 2150 mm die daar (met 0,1 m marge) vrij is. De rekenmotor stapelt zulke vaste
+  stapels nu lager in hele lagen (perLayer: 4 per laag voor 600 x 400 op 1200 x 1000, 2 per laag voor 600 x 800):
+  20 ft: 1.920 (600 x 400), 1.012 (QP6080LR3RR), 858 (QP6080MB6FR/HB6FR). Alle andere getallen blijven gelijk
+  (gecontroleerd: 37 calculatorartikelen x 11 soorten transport, geen nullen meer). data/calc-defaults.json opnieuw
+  gemaakt met tools/calc_defaults.py.
+  VERGELIJKBAAR ARTIKEL: artikelen die de calculator niet zelf kent, krijgen nu bij voorkeur een artikel met dezelfde
+  stapel per vrachtwagenplaats als in de stapeltabel (data/stapels.json). De drie QP1140MB6R-PAS (stapel 16) rekenen
+  nu met QP1140MB3RR (16) in plaats van QP1140MB3R-PAS (17): 352 in plaats van 374 per vrachtwagen.
+  Gecontroleerd voor alle 130 pallets: elk heeft een laadblok, geen "past niet", en de stapel per plaats klopt met de
+  stapeltabel. Open: EUROPAL800RR en RECYPAL1210RR rekenen met 23 per plaats in een vrachtwagen (volgens de lijst van
+  Q-Pall) maar met 14 per plaats in een container; de stapelhoogte van die twee ontbreekt in de stapeltabel.

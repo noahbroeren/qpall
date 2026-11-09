@@ -1,6 +1,8 @@
 /* Q-Pall laadcalculator: rekenmotor + palletgegevens.
    Letterlijk overgenomen uit calculator-embed.html (Noah, oktober 2026; regels 82-1500, zonder de ingesloten foto's).
-   Enige aanpassing (27-10-2026, op verzoek van Q-Pall): 0,1 m marge ook in de hoogte (MARGIN_H).
+   Aanpassingen: 27-10-2026 (Q-Pall) 0,1 m marge ook in de hoogte (MARGIN_H); 9-11-2026 (update 38) vaste stapels
+   (displaypallets, folie) die te hoog zijn voor de laadruimte (20 ft / 40 ft container) worden lager gestapeld, in hele
+   lagen (perLayer), in plaats van "past niet".
    Verder niet aanpassen: de weergave staat in ui.js. build_assets.py plakt beide samen tot /assets/js/calc.js. */
         // Trailer Specifications (Lengths in mm, Width 2450mm, Heights vary)
         const trailers = {
@@ -33,11 +35,11 @@
 
         // Pallet Database extracted from user's PDF list
         const pallets = [
-            { id: "QP6040MB4F", name: "QP6040MB4F (600x400)", l: 1200, w: 1000, h: 150, palletH: 2200, limitTautliner: 200, limitCombi: 200, unitL: 600, unitW: 400, unitH: 155 },
-            { id: "QP6040HB4F", name: "QP6040HB4F (600x400)", l: 1200, w: 1000, h: 150, palletH: 2200, limitTautliner: 200, limitCombi: 200, unitL: 600, unitW: 400, unitH: 155 },
-            { id: "QP6080LR3RR", name: "QP6080LR3RR (600x800)", l: 1200, w: 800, h: 145, palletH: 2320, limitTautliner: 100, limitCombi: 100, useFixedLimit: true },
-            { id: "QP6080M6FR", name: "QP6080M6FR (600x800)", l: 1200, w: 800, h: 145, palletH: 2200, limitTautliner: 80, limitCombi: 80, useFixedLimit: true },
-            { id: "QP6080HB6FR", name: "QP6080HB6FR (600x800)", l: 1200, w: 800, h: 155, palletH: 2200, limitTautliner: 80, limitCombi: 80, useFixedLimit: true },
+            { id: "QP6040MB4F", name: "QP6040MB4F (600x400)", l: 1200, w: 1000, h: 150, palletH: 2200, limitTautliner: 200, limitCombi: 200, unitL: 600, unitW: 400, unitH: 155, perLayer: 4 },
+            { id: "QP6040HB4F", name: "QP6040HB4F (600x400)", l: 1200, w: 1000, h: 150, palletH: 2200, limitTautliner: 200, limitCombi: 200, unitL: 600, unitW: 400, unitH: 155, perLayer: 4 },
+            { id: "QP6080LR3RR", name: "QP6080LR3RR (600x800)", l: 1200, w: 800, h: 145, palletH: 2320, limitTautliner: 100, limitCombi: 100, useFixedLimit: true, perLayer: 2 },
+            { id: "QP6080M6FR", name: "QP6080M6FR (600x800)", l: 1200, w: 800, h: 145, palletH: 2200, limitTautliner: 80, limitCombi: 80, useFixedLimit: true, perLayer: 2 },
+            { id: "QP6080HB6FR", name: "QP6080HB6FR (600x800)", l: 1200, w: 800, h: 155, palletH: 2200, limitTautliner: 80, limitCombi: 80, useFixedLimit: true, perLayer: 2 },
             { id: "QP76114LB9FR", name: "QP76114LB9FR (760x1140)", l: 760, w: 1140, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 50 },
             { id: "QP76114LB3RR", name: "QP76114LB3RR (760x1140)", l: 760, w: 1140, h: 158, limitTautliner: 15, limitCombi: 18 },
             { id: "QP1111LB9FR", name: "QP1111LB9FR (1100x1100)", l: 1100, w: 1100, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 45 },
@@ -385,7 +387,21 @@ const SKUIMG={"QP6040MB4F": "display-pallet-600-x-400-x-155-open-deck-4-feet-med
                     }
                 }
 
-                const found = pallets.find(p => p.id === val || p.name === val);
+                let found = pallets.find(p => p.id === val || p.name === val);
+                // Fixed stacks (display pallets, foil-wrapped stacks) that are higher than the loading space, such as
+                // 2200 mm in a 20 ft container (2150 mm usable): load a lower stack instead of nothing (update 38, Noah).
+                // Whole layers only (perLayer pallets per layer); the stack height shrinks in proportion.
+                if (found && found.palletH && (found.id.startsWith('QP6040') || found.useFixedLimit)) {
+                    const usableH = trailer.height - MARGIN_H;
+                    if (found.palletH > usableH) {
+                        const per = found.perLayer || 1, layers = Math.floor(found.limitTautliner / per);
+                        const fit = Math.floor(layers * usableH / found.palletH);
+                        if (fit >= 1) {
+                            found = Object.assign({}, found, { palletH: Math.floor(found.palletH * fit / layers),
+                                limitTautliner: fit * per, limitCombi: Math.min(found.limitCombi, fit * per) });
+                        }
+                    }
+                }
                 if (found) {
                     let stackFactor;
                     if (found.isRunner) {
