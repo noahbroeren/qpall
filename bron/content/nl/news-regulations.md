@@ -49,7 +49,7 @@ Wat dit precies betekent voor uw pallets, leest u in onze gids [PPWR en kunststo
 
 De PPWR stelt een grens aan zware metalen in verpakkingen. Lood, cadmium, kwik en zeswaardig chroom mogen samen niet meer zijn dan 100 mg/kg.
 
-Daarnaast gebruiken we de RoHS-richtlijn (Restriction of Hazardous Substances) om te bevestigen dat onze pallets aan de eisen van die richtlijn voldoen. RoHS beperkt onder meer deze stoffen:
+Daarnaast gebruiken we de stoffenlijst van de RoHS-richtlijn (Restriction of Hazardous Substances) als maatstaf. Die richtlijn is geschreven voor elektronica, niet voor verpakkingen, maar de grenswaarden zijn een strenge toets voor gerecycled kunststof. RoHS beperkt onder meer deze stoffen:
 
 * lood (Pb), kwik (Hg) en cadmium (Cd)
 * zeswaardig chroom (CrVI)
@@ -57,7 +57,7 @@ Daarnaast gebruiken we de RoHS-richtlijn (Restriction of Hazardous Substances) o
 
 ### Hoe werkt XRF?
 
-Röntgenfluorescentie (X-Ray Fluorescence, XRF) is een snelle methode om elementen te meten in materialen zoals kunststof, metaal of aarde. Het materiaal blijft daarbij heel. XRF meet nauwkeurig de elementen van beryllium (Be) tot uranium (U), tot op ppm-niveau (parts per million).
+Röntgenfluorescentie (X-Ray Fluorescence, XRF) is een snelle methode om elementen te meten in materialen zoals kunststof, metaal of aarde. Het materiaal blijft daarbij heel. XRF meet de totale hoeveelheid van een element, tot op ppm-niveau (parts per million). Zo zien we direct of lood, cadmium, kwik, chroom of broom in de buurt van een grenswaarde komen. Om zeswaardig chroom of bepaalde broomverbindingen apart te bepalen, is een laboratoriumanalyse nodig.
 
 Zo zien we of onze pallets binnen de grenswaarden blijven. Juist bij gerecycled kunststof is die controle belangrijk, omdat het materiaal uit verschillende afvalstromen komt.
 

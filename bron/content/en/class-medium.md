@@ -22,7 +22,7 @@ Medium pallets are the all-rounders in our range. They are sturdier than light p
 
 - **Open deck:** light, moisture drains away and air circulates around the load.
 - **Closed deck:** flat and easy to clean. Good for small packaging.
-- **Anti-slip:** the new generation of medium pallets has an integrated anti-slip deck. See [anti-slip pallets](@type-antislip).
+- **Anti-slip:** since late 2025, medium pallets have also been available with an integrated anti-slip deck. See [anti-slip pallets](@type-antislip).
 - **3, 5 or 6 runners:** more runners give more support on the floor and on roller conveyors.
 
 ## Sizes

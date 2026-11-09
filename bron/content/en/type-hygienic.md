@@ -11,7 +11,7 @@ faq:
   - q: "What is an H1 pallet?"
     a: "The H1 pallet is a plastic pallet in Euro pallet size that was originally developed as a pool pallet for the meat industry. Today, the entire food industry uses it. Our H1 Euro pallet has an open deck on 3 runners."
   - q: "Are hygienic pallets made from virgin or recycled plastic?"
-    a: "Our hygienic pallets are made of virgin plastic, the norm for direct contact with food. All other Q-Pall pallets are made of recycled plastic. They are a sustainable choice for packaged products, where the pallet does not come into direct contact with the food. We are happy to advise you on the right choice."
+    a: "Our hygienic pallets are made of virgin plastic, the norm for direct contact with food. All other Q-Pall pallets are made of nearly 100% recycled plastic. They are a sustainable choice for packaged products, where the pallet does not come into direct contact with the food. We are happy to advise you on the right choice."
   - q: "Can I clean hygienic pallets in a pallet washer or tunnel washer?"
     a: "Plastic pallets can withstand cleaning with water, high pressure and cleaning agents. Ask us about the maximum temperature and suitable agents for the model you choose."
 ---

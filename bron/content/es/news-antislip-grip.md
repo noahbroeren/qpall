@@ -55,7 +55,7 @@ Encontrará los valores de carga de cada modelo en [palets antideslizantes](@typ
 
 En Q-Pall creemos que la innovación y la circularidad deben ir de la mano. Con las soluciones antideslizantes tradicionales, las tiras de goma suelen ser difíciles de reciclar o hay que retirarlas primero a mano.
 
-Con nuestros nuevos palets Medium no hace falta. Las tiras antideslizantes encajan en el mismo proceso de reciclaje que el propio palet. Por tanto, no tiene que despegarlas al final de su vida útil: el palet se tritura **entero, de una sola vez** para obtener granza para nuevos palets de Q-Pall. Al igual que nuestros demás palets estándar, el propio palet está fabricado con plástico reciclado, una mezcla de HDPE y PP.
+Con nuestros nuevos palets Medium no hace falta. Las tiras antideslizantes encajan en el mismo proceso de reciclaje que el propio palet. Por tanto, no tiene que despegarlas al final de su vida útil: el palet se tritura **entero, de una sola vez** para obtener granza para nuevos palets de Q-Pall. Al igual que nuestros demás palets estándar, el propio palet está fabricado con plástico casi 100% reciclado, una mezcla de HDPE y PP.
 
 ## Pruébelos en su propio proceso
 

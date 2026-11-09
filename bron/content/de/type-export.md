@@ -1,6 +1,6 @@
 ---
 id: type-export
-title: "Kunststoff-Einwegpaletten – von ISPM 15 befreit – Q-Pall"
+title: "Einweg- und Exportpaletten aus Kunststoff – Q-Pall"
 description: "Leichte Kunststoffpaletten für den Export, von ISPM 15 befreit: keine Hitzebehandlung und kein Stempel nötig. Oft nestbar, in 7 Größen. Modelle ansehen."
 eyebrow: "Export"
 h1: "**Einwegpaletten** aus Kunststoff"
@@ -9,7 +9,7 @@ faq:
   - q: "Braucht eine Einwegpalette aus Kunststoff einen Stempel nach ISPM 15?"
     a: "Nein. ISPM 15 gilt für Verpackungsmaterial aus Holz. Kunststoffpaletten sind davon befreit, Sie müssen sie also weder behandeln noch stempeln lassen. Mehr dazu in unserer [Erklärung zu ISPM 15](@guide-ispm)."
   - q: "Was ist der Unterschied zwischen einer Einwegpalette und einer Europalette?"
-    a: "Die Europalette bezeichnet das Format (1200 x 800 mm) und soll oft zurückkommen. Eine Einwegpalette ist für eine einzige Fahrt gemacht: so leicht wie möglich, stabil genug für den Transport und ohne den Aufwand rund um ISPM 15. Eine Kunststoffpalette 1200 x 800 mm kann beides sein."
+    a: "Die Europalette bezeichnet das Format (1200 x 800 mm) und soll oft zurückkommen. Eine Einwegpalette ist für eine einzige Fahrt gemacht: so leicht wie möglich, stabil genug für den Transport und ohne Behandlung nach ISPM 15. Eine Kunststoffpalette 1200 x 800 mm kann beides sein."
   - q: "Sind Einwegpaletten für Palettenregale geeignet?"
     a: "Nein. Unsere Einwegpaletten sind Light-Paletten für Transport und Bodenlagerung. Sie tragen bis 2.500 kg statisch und bis 1.000 kg dynamisch, sind aber nicht für die Regallagerung vorgesehen."
   - q: "In welchen Größen gibt es Einwegpaletten?"
@@ -31,8 +31,8 @@ Eine Einwegpalette wird meist nur einmal verwendet. Sie muss also leicht und gü
 
 ## 9 Füße oder 3 Kufen?
 
-Eine Palette mit **9 Füßen** ist am leichtesten und nestbar, und Sie können sie mit Gabelstapler oder Hubwagen von vier Seiten aufnehmen. Eine Palette mit **3 Kufen** ist stabiler, besonders auf Rollenbahnen und beim Stapeln beladener Paletten. Sie möchten beides? Dann klicken Sie [separate Kufen](@acc-runners) an eine nestbare Palette.
+Eine Palette mit **9 Füßen** ist am leichtesten und nestbar, und Sie können sie mit Gabelstapler oder Hubwagen von vier Seiten aufnehmen. Eine Palette mit **3 Kufen** ist stabiler, besonders auf Rollenbahnen und beim Stapeln beladener Paletten. Sie möchten beides? Dann clipsen Sie [lose Klick-Kufen](@acc-runners) unter eine nestbare Palette.
 
 ## Nachhaltig, auch im Einmalgebrauch
 
-Unsere Einwegpaletten bestehen aus recyceltem Kunststoff. Am Ende ihrer Lebensdauer sind sie vollständig recycelbar. Mehr über unseren Ansatz lesen Sie auf der Seite [Nachhaltigkeit](@about-sustainability). Sehen Sie sich auch alle [nestbaren Paletten](@type-nestable) an.
+Unsere Einwegpaletten bestehen aus fast 100 % recyceltem Kunststoff. Am Ende ihrer Lebensdauer sind sie vollständig recycelbar. Mehr über unseren Ansatz lesen Sie auf der Seite [Nachhaltigkeit](@about-sustainability). Sehen Sie sich auch alle [nestbaren Paletten](@type-nestable) an.

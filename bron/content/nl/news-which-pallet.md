@@ -46,7 +46,7 @@ Gaat de pallet maar één keer mee, bijvoorbeeld bij export? Dan is een light pa
 
 ### Gelden er speciale kwaliteitseisen?
 
-Sommige sectoren stellen extra eisen, bijvoorbeeld aan hygiëne, grip of afmetingen. Voor direct contact met levensmiddelen is een pallet van virgin kunststof nodig. Onze standaardpallets maken we van gerecycled kunststof.
+Sommige sectoren stellen extra eisen, bijvoorbeeld aan hygiëne, grip of afmetingen. Voor direct contact met levensmiddelen is een pallet van virgin kunststof nodig. Onze standaardpallets maken we van bijna 100% gerecycled kunststof.
 
 ## Elk model wordt getest
 

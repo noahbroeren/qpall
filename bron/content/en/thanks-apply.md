@@ -5,7 +5,7 @@ description: Thank you for applying to Q-Pall. We have received your application
 eyebrow: Application received
 h1: Thank you! **Your application has arrived.**
 h1_named: Thank you, {name}! **Your application has arrived.**
-lead: Sabine will contact you as soon as possible. Any questions in the meantime? Call us on +31 (0)413 353 111.
+lead: Sabine will contact you as soon as possible. Do you have any questions in the meantime? Call us on +31 (0)413 353 111.
 next:
   h: What happens next?
   steps:

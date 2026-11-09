@@ -59,7 +59,7 @@ Il successo di un pool non dipende solo dai pallet, ma anche da come viene gesti
 
 ### Il riciclo a fine vita
 
-Un pallet in plastica dura molto più a lungo di un pallet in legno medio. Realizziamo i nostri pallet standard in plastica riciclata, una miscela di HDPE (2) e PP (5), senza acciaio né altri materiali.
+Un pallet in plastica dura molto più a lungo di un pallet in legno medio. Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%, una miscela di HDPE (2) e PP (5), senza acciaio né altri materiali.
 
 A fine vita li ritiriamo e li maciniamo per ottenere materia prima per nuovi pallet. Scoprite di più sul nostro approccio alla [sostenibilità](@about-sustainability).
 

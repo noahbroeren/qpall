@@ -22,7 +22,7 @@ Medium pallets zijn de allrounders in ons assortiment. Ze zijn steviger dan ligh
 
 - **Open dek:** licht, vocht loopt weg en lucht circuleert om de lading.
 - **Gesloten dek:** vlak en makkelijk te reinigen. Fijn voor kleine verpakkingen.
-- **Antislip:** de nieuwe generatie medium pallets heeft een geïntegreerd antislipdek. Zie [antislip pallets](@type-antislip).
+- **Antislip:** sinds eind 2025 zijn er medium pallets met een geïntegreerd antislipdek. Zie [antislip pallets](@type-antislip).
 - **3, 5 of 6 onderlatten:** meer onderlatten geven meer steun op de vloer en op rollenbanen.
 
 ## Formaten

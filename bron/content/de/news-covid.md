@@ -5,7 +5,7 @@ description: "Über unseren britischen Partner Goplasticpallets.com lieferte Q-P
 eyebrow: "Aktuelles"
 tag: "Kundenprojekt"
 crumb: "Paletten für COVID-Impfstoffe"
-h1: "Q-Pall Kunststoffpaletten **für den Transport von COVID-Impfstoffen**"
+h1: "Q-Pall-Kunststoffpaletten **für den Transport von COVID-Impfstoffen**"
 lead: "Eines der größten Pharmaunternehmen der Welt suchte für den Transport von COVID-Impfstoffen eine Palette, die strenge Anforderungen erfüllt. Unsere 1208 HR 5R passte genau, und wir konnten schnell liefern."
 img_alt: "Schwarze Kunststoffpalette mit offenem Deck auf Kufen"
 reading: 2

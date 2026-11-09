@@ -1,11 +1,11 @@
 ---
 id: news-auchan
-title: "Auchan adotta 50.000 pallet intelligenti con IBM – Q-Pall"
+title: "Auchan ha usato 50.000 pallet intelligenti con IBM – Q-Pall"
 description: "Auchan ha introdotto in tutta la Francia 50.000 europallet heavy duty intelligenti di Q-Pall, con l’IoT di IBM: posizione, temperatura e urti sempre noti."
 eyebrow: "Notizie"
 tag: "Caso cliente"
 crumb: "Auchan adotta pallet intelligenti"
-h1: "Auchan adotta **50.000 pallet intelligenti Q-Pall**, insieme a IBM"
+h1: "Auchan ha adottato **50.000 pallet intelligenti Q-Pall**, insieme a IBM"
 lead: "Da fine 2025 l’insegna Auchan ha introdotto in tutta la Francia 50.000 europallet heavy duty intelligenti in plastica riciclata. Grazie all’IoT di IBM, ogni pallet è diventato una fonte di dati sulla filiera."
 img_alt: "Famiglia con un carrello della spesa nella corsia di un supermercato"
 reading: 2
@@ -16,7 +16,7 @@ updated: '2026-11-02'
 >
 > * L’insegna Auchan ha introdotto in tutta la Francia 50.000 europallet heavy duty intelligenti di Q-Pall.
 > * I pallet sono in plastica riciclata e dotati della tecnologia IoT di IBM.
-> * Misurano posizione, temperatura e urti, e danno l’allarme in caso di anomalie.
+> * Misuravano posizione, temperatura e urti, e davano l’allarme in caso di anomalie.
 > * L’introduzione è stata preceduta da un progetto pilota con 10.000 pallet in due magazzini.
 > * Risparmio stimato: 21.328 tonnellate di CO₂ in otto anni.
 

@@ -32,7 +32,7 @@ Un palet que no absorbe humedad no deja que el moho ni los olores penetren en el
 
 También importa fuera de esos sectores. Un envío de productos secos sobre un palet de madera húmedo es una reclamación en ciernes. Un producto sobre un palet que ha absorbido olores o restos vuelve como devolución.
 
-¿Su carga entra en contacto directo con alimentos o trabaja usted en una sala blanca? Entonces elija [palets higiénicos](@type-hygienic) de plástico virgen. Nuestros palets de plástico reciclado no están destinados al contacto directo con alimentos.
+¿Su carga entra en contacto directo con alimentos o trabaja en una sala blanca? Entonces elija [palets higiénicos](@type-hygienic) de plástico virgen. Nuestros palets de plástico reciclado no están destinados al contacto directo con alimentos.
 
 **Lo que aporta:** menos rechazos, menos devoluciones y menos discusiones con su cliente sobre el estado del palet.
 
@@ -46,15 +46,15 @@ Las astillas parecen un detalle. Hasta que alguien se rompe un guante, daña un 
 
 Los palets de madera varían de peso: por unidad, por lote y según la estación. Quien trabaja con tara, es decir, cualquiera que facture o transporte por peso, tiene así una fuente constante de imprecisión.
 
-Un palet de peso constante permite que su sistema de pesaje haga exactamente lo que debe. Sin correcciones posteriores, sin márgenes por incertidumbre y sin diferencias entre el albarán y la báscula.
+Un palet de peso prácticamente constante (dentro de un ±5 %) permite que su sistema de pesaje haga lo que debe. Menos correcciones posteriores, márgenes de incertidumbre más pequeños y apenas diferencias entre el albarán y la báscula.
 
 **Lo que aporta:** una tara fiable, costes de transporte previsibles y una administración que cuadra.
 
 ## 4. Las mismas medidas, siempre
 
-A la automatización no le gusta la variación. Paletizadores, AGV, transportadores e instalaciones de apilado están ajustados a una huella fija. Un palet 4 milímetros más ancho, o con una tabla del borde rota, es una avería para un sensor.
+A la automatización no le gusta la variación. Paletizadores, AGV, transportadores e instalaciones de apilado están ajustados a una huella fija. Un palet de madera un centímetro más ancho, o con una tabla del borde rota, es una avería para un sensor.
 
-Un palet con medidas idénticas y duraderas encaja siempre en la misma plantilla. Es la base de un proceso automatizado que funciona sin intervención manual. Más información en nuestra guía sobre [palets para automatización](@guide-automation).
+Un palet de plástico con medidas fijas dentro de tolerancias estrechas (±5 mm) encaja siempre en la misma plantilla. Es la base de un proceso automatizado que funciona sin intervención manual. Más información en nuestra guía sobre [palets para automatización](@guide-automation).
 
 **Lo que aporta:** menos paradas de línea, mayor rendimiento y menores costes de mantenimiento de su instalación.
 
@@ -68,6 +68,6 @@ El palet no es la parte más importante de su cadena logística. Pero forma part
 
 Así que la pregunta no es qué material es mejor. La pregunta es qué propiedades necesita su proceso y qué le aporta que dejen de ser variables.
 
-En Q-Pall fabricamos nuestros palets estándar con plástico reciclado. No porosos, sin astillas, constantes en peso y medidas, con documentación [PPWR](@guide-ppwr) y no sujetos a la ISPM 15. ¿Duda entre madera y plástico? Lea [palets de plástico o de madera](@guide-wood).
+En Q-Pall fabricamos nuestros palets estándar con plástico casi 100% reciclado. No porosos, sin astillas, constantes en peso y medidas, con documentación [PPWR](@guide-ppwr) y no sujetos a la ISPM 15. ¿Duda entre madera y plástico? Lea [palets de plástico o de madera](@guide-wood).
 
 ¿Quiere saber qué palet se adapta mejor a su proceso? [Contacte con nosotros](@contact) y lo analizaremos juntos.

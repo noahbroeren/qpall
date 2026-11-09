@@ -22,7 +22,7 @@ updated: '2026-11-02'
 >
 > * Partite dal carico: statico, dinamico e su scaffale.
 > * Il formato dipende dalla vostra merce e dalle vostre scaffalature, dai camion e dai container.
-> * I nostri pallet standard sono in plastica riciclata; per il contatto diretto con gli alimenti esistono pallet in plastica vergine.
+> * I nostri pallet standard sono in plastica riciclata quasi al 100%; per il contatto diretto con gli alimenti esistono pallet in plastica vergine.
 > * I pallet incastrabili fanno risparmiare spazio nello stoccaggio e nel trasporto di ritorno.
 > * Guardate ai costi sull’intera vita utile, non solo al prezzo d’acquisto.
 
@@ -38,17 +38,17 @@ La portata è probabilmente il fattore più importante. Il peso che un pallet pu
 
 Guardate il valore che corrisponde al vostro utilizzo e prevedete un margine. I valori indicati valgono per un carico distribuito in modo uniforme. Approfondite [la portata dei pallet in plastica](@about-load).
 
-I nostri pallet sono suddivisi in tre classi di portata. I pallet Light sono leggeri e spesso incastrabili, per l’esportazione e le spedizioni a perdere. I pallet Medium sono i tuttofare per il trasporto interno e lo stoccaggio leggero su scaffale. I pallet Heavy sono pensati per l’uso intensivo e le scaffalature porta-pallet, e sostengono fino a 7.500 kg in statica.
+I nostri pallet sono suddivisi in tre classi di portata. I pallet Light sono leggeri e spesso incastrabili, per l’esportazione e le spedizioni a perdere. I pallet Medium sono i tuttofare per il trasporto interno e lo stoccaggio leggero su scaffale. I pallet Heavy sono pensati per l’uso intensivo e le scaffalature porta-pallet, e hanno una portata statica fino a 7.500 kg.
 
 ## Le dimensioni: il pallet è adatto al carico e al trasporto?
 
-Il pallet deve essere abbastanza grande da sostenere bene il carico e trasportarlo in sicurezza. Anche i mezzi di trasporto e le scaffalature determinano il formato: i pallet devono entrare nel vostro camion, rimorchio o container. In Europa lo standard è il 1200 x 800 mm. La nostra gamma comprende circa 130 modelli in nove formati, dal 600 x 400 al 1300 x 1100 mm. La nostra panoramica dei [formati di pallet](@guide-sizes) li elenca tutti.
+Il pallet deve essere abbastanza grande da sostenere bene il carico e trasportarlo in sicurezza. Anche i mezzi di trasporto e le scaffalature determinano il formato: i pallet devono entrare nel vostro camion, rimorchio o container. In Europa lo standard è il 1200 x 800 mm. La nostra gamma comprende circa 130 versioni in nove formati, dal 600 x 400 al 1300 x 1100 mm. La nostra panoramica dei [formati di pallet](@guide-sizes) li elenca tutti.
 
 ## Materiale e peso
 
-Non tutti i pallet in plastica sono fatti dello stesso materiale. Produciamo i nostri pallet standard in plastica riciclata, una miscela di HDPE e PP. I nostri pallet igienici, i pallet H1 e i pallet per camere bianche sono in plastica vergine (nuova), in un colore proprio. I pallet in plastica riciclata non sono destinati al contatto diretto con gli alimenti.
+Non tutti i pallet in plastica sono fatti dello stesso materiale. Produciamo i nostri pallet standard in plastica riciclata quasi al 100%, una miscela di HDPE e PP. I nostri pallet igienici, i pallet H1 e i pallet per camere bianche sono in plastica vergine (nuova), in un colore proprio. I pallet in plastica riciclata non sono destinati al contatto diretto con gli alimenti.
 
-I pallet in plastica sono spesso più leggeri del legno, anche se dipende dal tipo. Un pallet Light è molto più leggero di un europallet in legno da circa 25 kg. Un pallet Heavy pesa da 17 a 28 kg.
+I pallet in plastica sono spesso più leggeri del legno, anche se dipende dal tipo. Un pallet Light è molto più leggero di un europallet in legno da circa 25 kg. Un pallet Heavy pesa da circa 17 a 29 kg.
 
 ## L’incastrabilità: risparmiare spazio
 

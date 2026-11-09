@@ -37,7 +37,7 @@ Dat telt ook in uw eigen rapportage. De uitstoot van ingekochte pallets en het t
 
 ## Matrijzen reizen, pallets niet
 
-Een matrijs is de mal waarin we een pallet spuitgieten. In plaats van pallets door heel Europa te rijden, plaatsen we de matrijs in de fabriek die het dichtst bij de klant ligt. Eén transport van een matrijs vervangt zo veel ritten met pallets. Zo werkt *act global, produce local*: één Europees assortiment, lokaal gemaakt.
+Een matrijs is de mal waarin we een pallet spuitgieten. In plaats van pallets door heel Europa te rijden, plaatsen we de matrijs zo dicht mogelijk bij de klant. Eén transport van een matrijs vervangt zo veel ritten met pallets. Zo werkt *act global, produce local*: één Europees assortiment, lokaal gemaakt.
 
 Elk jaar vertrekken duizenden volle vrachtwagens met pallets uit onze fabrieken. Als we alles op één centrale locatie zouden maken, zou bijna elk van die ritten veel langer zijn.
 

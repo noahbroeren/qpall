@@ -30,7 +30,7 @@ Onze productieprocessen en het materiaal dat we gebruiken, passen bij die manier
 
 Bij het produceren en vervoeren van pallets gebruiken we energie. Bij de verbranding van fossiele brandstoffen zoals kolen, olie en gas komt CO₂ vrij. Dat broeikasgas draagt bij aan de opwarming van de aarde.
 
-In de palletbranche komt het grootste deel van de CO₂-uitstoot van transport. Een vrachtwagen vol pallets vervoert vooral lucht. Daarom plaatsen we de matrijs van een pallet in de fabriek die het dichtst bij de klant ligt. Zo hoeven de pallets zelf geen lange afstanden af te leggen.
+In de palletbranche komt het grootste deel van de CO₂-uitstoot van transport. Een vrachtwagen vol pallets vervoert vooral lucht. Daarom plaatsen we de matrijs van een pallet zo dicht mogelijk bij de klant. Zo hoeven de pallets zelf geen lange afstanden af te leggen.
 
 We produceren in zes fabrieken: in Balk, Ribe, Marktoberdorf, Nantes, Lleida en Chesterfield. Bijna elke klant zit binnen 600 kilometer van een Q-Pall-fabriek. Dat scheelt veel kilometers, CO₂-uitstoot en transportkosten. Meer hierover leest u bij [lokaal produceren](@about-local).
 

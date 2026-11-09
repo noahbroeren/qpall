@@ -8,7 +8,7 @@ lead: "Voedselveiligheid begint bij een schone ondergrond. Onze hygiënische pal
 recommend: [qph1208hp3rr-cdb, h1-europallet, qph1208hr3r-ecor, qph1210hp3rr-cdg, qp1208mb3rr-cd, qp6040mb4f]
 faq:
   - q: "Mag een kunststof pallet direct contact hebben met voedsel?"
-    a: "Voor direct contact met levensmiddelen is virgin kunststof de norm. Daarom zijn onze hygiënische pallets van virgin kunststof. Alle andere Q-Pall pallets zijn van gerecycled kunststof en geschikt als het voedsel verpakt is en niet direct op de pallet ligt. We helpen u graag de juiste uitvoering te kiezen."
+    a: "Voor direct contact met levensmiddelen is virgin kunststof de norm. Daarom zijn onze hygiënische pallets van virgin kunststof. Alle andere Q-Pall pallets zijn van bijna 100% gerecycled kunststof en geschikt als het voedsel verpakt is en niet direct op de pallet ligt. We helpen u graag de juiste uitvoering te kiezen."
   - q: "Zijn kunststof pallets geschikt voor de vriescel?"
     a: "Ja, kunststof pallets blijven sterk bij lage temperaturen. Houd er rekening mee dat kunststof bij vorst stijver wordt en gevoeliger voor harde stoten. Gebruik [freezer spacers](@acc-freezer) om uw producten sneller in te vriezen."
   - q: "Wat is een H1-pallet?"
@@ -33,11 +33,11 @@ Een uitgebreide vergelijking leest u bij [kunststof of houten pallets](@guide-wo
 
 ## Virgin of gerecycled?
 
-Voor direct contact met levensmiddelen gebruikt u een pallet van virgin kunststof, die geen risico op verontreiniging geeft. Voor verpakte producten, waarbij de pallet niet direct met het voedsel in aanraking komt, zijn onze andere pallets van gerecycled kunststof een duurzame keuze. Onze [hygiënische pallets](@type-hygienic) zijn van virgin kunststof, alle andere Q-Pall pallets van gerecycled kunststof.
+Voor direct contact met levensmiddelen gebruikt u een pallet van virgin kunststof, die geen risico op verontreiniging geeft. Voor verpakte producten, waarbij de pallet niet direct met het voedsel in aanraking komt, zijn onze andere pallets van gerecycled kunststof een duurzame keuze. Onze [hygiënische pallets](@type-hygienic) zijn van virgin kunststof, alle andere Q-Pall pallets van bijna 100% gerecycled kunststof.
 
 ## Open of gesloten dek?
 
-| | Open dek | Gesloten dek |
+| Kenmerk | Open dek | Gesloten dek |
 |---|---|---|
 | Reinigen | Kan, maar vuil blijft eerder in de openingen achter | Snel en grondig |
 | Vocht | Kan door het dek lekken | Blijft op het dek en is af te spoelen |
@@ -48,7 +48,7 @@ Voor direct contact met levensmiddelen gebruikt u een pallet van virgin kunststo
 - **Vlees en vis:** de hygiëne-eisen zijn hoog en vocht zoals bloed of water mag niet op de lading eronder druppelen. Kies een [hygiënische pallet](@type-hygienic) met gesloten dek.
 - **Farma:** een glad, gesloten oppervlak zonder poriën, bestand tegen reinigings- en desinfectiemiddelen en met vaste maten voor geautomatiseerde lijnen. Zie ook [de farmaceutische industrie](@sector-pharma).
 - **Natte ruimtes**, zoals productiehallen en spoellijnen: een gesloten dek dat geen water opneemt en snel te reinigen is.
-- **Verpakte producten en distributie:** hier volstaat een standaardpallet van gerecycled kunststof, met open of gesloten dek.
+- **Verpakte producten en distributie:** hier volstaat een standaardpallet van bijna 100% gerecycled kunststof, met open of gesloten dek.
 
 ## HACCP
 

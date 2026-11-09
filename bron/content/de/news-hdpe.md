@@ -19,7 +19,7 @@ faq:
 - q: Was ist der Unterschied zwischen HDPE (2) und LDPE (4)?
   a: "Beides ist Polyethylen. HDPE hat eine höhere Dichte und ist dadurch steifer und fester; es wird für Flaschen, Kisten und Paletten verwendet. LDPE ist weicher und wird vor allem für Folien und Tüten eingesetzt."
 - q: Woraus bestehen die Paletten von Q-Pall?
-  a: "Unsere Standardpaletten fertigen wir aus recyceltem Kunststoff, einer Mischung aus HDPE und PP. Nur unsere Hygienepaletten bestehen aus Neuware. Unsere Paletten aus recyceltem Kunststoff sind nicht für den direkten Lebensmittelkontakt bestimmt. Sie suchen eine Palette für den direkten Lebensmittelkontakt? Sprechen Sie uns an, wir beraten Sie gern."
+  a: "Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE und PP (in Light-Paletten auch LDPE). Nur unsere Hygienepaletten bestehen aus Neuware. Unsere Paletten aus recyceltem Kunststoff sind nicht für den direkten Lebensmittelkontakt bestimmt. Sie suchen eine Palette für den direkten Lebensmittelkontakt? Sprechen Sie uns an, wir beraten Sie gern."
 published: '2024-05-18'
 updated: '2026-10-19'
 ---
@@ -29,7 +29,7 @@ updated: '2026-10-19'
 > * Die Zahl im Dreieck gibt an, um welchen Kunststoff es sich handelt. Sie sagt nicht, dass das Produkt bereits recycelt ist.
 > * HDPE ist fest und leicht, nimmt keine Feuchtigkeit auf und ist gegen viele Chemikalien beständig.
 > * Es gehört zu den am besten recycelbaren Kunststoffen. Im Haushalt gehört es zu den Kunststoffverpackungen.
-> * Unsere Standardpaletten fertigen wir aus recyceltem Kunststoff, einer Mischung aus HDPE und PP.
+> * Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE und PP (in Light-Paletten auch LDPE).
 
 ## Was bedeutet HDPE 2 oder PE-HD 2?
 
@@ -100,12 +100,12 @@ Kunststoffpaletten gehören nicht in den Hausmüll. Sie werden gewerblich gesamm
 
 ## Recyceltes HDPE in Kunststoffpaletten
 
-Unsere Standardpaletten fertigen wir aus recyceltem Kunststoff: einer Mischung aus HDPE und PP aus Abfallströmen wie Kisten, Verschlüssen und Verpackungen. Die Arbeit mit Rezyklat erfordert viel Know-how, denn es verhält sich anders als Neuware. Dieses Know-how bauen wir seit 2005 auf.
+Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff: einer Mischung aus HDPE und PP (in Light-Paletten auch LDPE) aus Abfallströmen wie Kisten, Verschlüssen und Verpackungen. Die Arbeit mit Rezyklat erfordert viel Know-how, denn es verhält sich anders als Neuware. Dieses Know-how bauen wir seit 2005 auf.
 
 Was Sie davon haben:
 
 * **Lange Lebensdauer.** Eine Kunststoffpalette hält viele Jahre, deutlich länger als eine durchschnittliche Holzpalette.
-* **Sauber und gleichbleibend.** Keine Splitter, keine Feuchtigkeit, und jede Palette hat dasselbe Gewicht und dieselben Maße.
+* **Sauber und gleichbleibend.** Keine Splitter, keine Feuchtigkeit, und jede Palette hat nahezu dasselbe Gewicht und dieselben Maße.
 * **Kein ISPM 15.** Kunststoffpaletten fallen beim Export nicht unter die [Regeln für Verpackungsholz](@guide-ispm).
 * **Geschlossener Kreislauf.** Am Ende ihres Lebens vermahlen wir eine Palette wieder zu Rohstoff.
 

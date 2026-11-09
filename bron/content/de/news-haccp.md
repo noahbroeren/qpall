@@ -1,11 +1,11 @@
 ---
 id: news-haccp
-title: "Kunststoffpaletten für die HACCP-Branche – Q-Pall"
+title: "HACCP und Paletten: Welche Kunststoffpalette passt? – Q-Pall"
 description: "Arbeiten Sie nach HACCP? Lesen Sie, was das für Lagerung und Transport bedeutet und wann Sie eine Hygienepalette aus Neuware brauchen."
 eyebrow: "Aktuelles"
 tag: "Wissen"
 crumb: "Paletten und HACCP"
-h1: "Kunststoffpaletten für **die HACCP-Branche**"
+h1: "Paletten und HACCP: **Welche Kunststoffpalette wählen Sie?**"
 lead: "Wer mit Lebensmitteln arbeitet, muss das Risiko einer Kontamination beherrschen, auch bei Lagerung und Transport. Welche Rolle spielt die Palette dabei, und wann wählen Sie eine Hygienepalette?"
 img_alt: "Käselaibe auf Holzregalen und in Körben in einem Käsegeschäft"
 reading: 3
@@ -64,7 +64,7 @@ Mehr über die Unterschiede lesen Sie unter [Kunststoff- oder Holzpaletten?](@gu
 
 ## Hygienepalette oder Palette aus recyceltem Kunststoff?
 
-Unsere Standardpaletten fertigen wir aus recyceltem Kunststoff. Sie sind eine nachhaltige Wahl für verpackte Produkte, bei denen die Palette nicht direkt mit dem Lebensmittel in Berührung kommt. Für den direkten Kontakt mit Lebensmitteln sind sie nicht bestimmt.
+Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff. Sie sind eine nachhaltige Wahl für verpackte Produkte, bei denen die Palette nicht direkt mit dem Lebensmittel in Berührung kommt. Für den direkten Kontakt mit Lebensmitteln sind sie nicht bestimmt.
 
 Liegt das Lebensmittel direkt auf der Palette? Dann wählen Sie eine [Hygienepalette](@type-hygienic). Diese fertigen wir aus Neuware, in einer eigenen Farbe.
 

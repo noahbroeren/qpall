@@ -71,7 +71,7 @@ Per l’export scegliete un formato standard internazionale: 1200 x 800 mm in Eu
 In un magazzino automatico il pallet deve adattarsi al sistema di scaffalatura. Fate attenzione a:
 
 - **Stabilità dimensionale:** ogni pallet ha le stesse misure, anche dopo anni di utilizzo. È importante per trasloelevatori e trasportatori.
-- **Flessione e portata su scaffale:** anche una piccola deformazione può causare guasti. Oltre al carico statico e dinamico, considerate quindi anche la portata su scaffale.
+- **Flessione e portata su scaffale:** anche una piccola deformazione può causare guasti. Oltre alla portata statica e dinamica, considerate quindi anche la portata su scaffale.
 - **Due o quattro vie:** un pallet a due vie si inforca da due lati, un pallet a quattro vie da tutti e quattro.
 - **Altezza di carico:** per i colli 220 cm (pallet più carico) è spesso il limite, ma alcuni trasportatori applicano limiti diversi.
 

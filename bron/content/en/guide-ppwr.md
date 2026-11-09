@@ -53,6 +53,6 @@ Our standard pallets consist of one material family (recycled HDPE/PP) and are f
 
 * **Choose reusable.** A durable plastic pallet counts towards your reuse target; a one-way pallet does not.
 * **Ask for documentation.** Record the declaration of conformity and material composition per pallet model.
-* **Think in trips.** A pallet that lasts longer lowers cost and packaging waste at the same time. Also read [plastic vs wooden pallets](@guide-wood).
+* **Think in cost per trip.** A pallet that lasts longer lowers cost and packaging waste at the same time. Also read [plastic vs wooden pallets](@guide-wood).
 
 This guide is a summary, not legal advice. Sources: Regulation (EU) 2025/40, SGS (January 2025), Certivo and FreshPlaza (August 2026).

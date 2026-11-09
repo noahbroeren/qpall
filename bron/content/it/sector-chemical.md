@@ -25,7 +25,7 @@ I prodotti chimici vengono spesso trasportati in sacchi, big bag, octabin o fust
 - **Niente chiodi né schegge.** L’imballaggio resta integro e il prodotto resta pulito.
 - **Dimensionalmente stabili e di peso costante.** Ideali per robot pallettizzatori e rulliere.
 - **Resistenti come il legno**, ma con una durata molto maggiore.
-- **Circolari:** realizzati in plastica riciclata e completamente riciclabili a fine vita.
+- **Circolari:** realizzati in plastica riciclata quasi al 100% e completamente riciclabili a fine vita.
 
 ## I pallet che consigliamo
 

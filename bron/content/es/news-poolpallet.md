@@ -59,7 +59,7 @@ El éxito de un pool no depende solo de los palets, sino también de cómo se ge
 
 ### Reciclaje al final
 
-Un palet de plástico dura mucho más que un palet de madera medio. Fabricamos nuestros palets estándar con plástico reciclado, una mezcla de HDPE (2) y PP (5), sin acero ni otros materiales.
+Un palet de plástico dura mucho más que un palet de madera medio. Fabricamos nuestros palets estándar con plástico casi 100% reciclado, una mezcla de HDPE (2) y PP (5), sin acero ni otros materiales.
 
 Al final de su vida útil los recogemos y los trituramos para convertirlos en materia prima para nuevos palets. Conozca nuestro enfoque de [sostenibilidad](@about-sustainability).
 

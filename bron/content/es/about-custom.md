@@ -16,7 +16,7 @@ faq:
 
 ## Modificaciones inteligentes dentro de los modelos existentes
 
-Un diseño de palet completamente nuevo cuesta mucho tiempo y dinero. Por eso, primero estudiamos qué es posible dentro de nuestra gama actual de unos 130 modelos. A menudo basta con una pequeña modificación:
+Un diseño de palet completamente nuevo cuesta mucho tiempo y dinero. Por eso, primero estudiamos qué es posible dentro de nuestra gama actual de unas 130 versiones. A menudo basta con una pequeña modificación:
 
 - **Logotipo o impresión** en el palet.
 - **Su propio color**, por ejemplo para distinguir pools o departamentos.
@@ -31,7 +31,7 @@ Un diseño de palet completamente nuevo cuesta mucho tiempo y dinero. Por eso, p
 3. **Ingeniería:** nuestros ingenieros estudian qué solución es viable.
 4. **Prototipo:** si es necesario, hacemos un modelo 3D o un prototipo.
 5. **Molde:** adaptamos el molde o fabricamos un inserto.
-6. **Producción:** producimos en la fábrica más cercana a usted.
+6. **Producción:** producimos lo más cerca posible de usted.
 
 ## Seguridad de suministro
 

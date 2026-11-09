@@ -5,7 +5,7 @@ title: "Wat kost een kunststof pallet? Prijzen 2026 per formaat"
 description: "Wat kost een kunststof pallet in 2026? Vanafprijzen per formaat en draagklasse, van displaypallet tot heavy duty, plus wat de prijs bepaalt."
 eyebrow: "Prijsgids 2026"
 h1: "Wat kost een **kunststof pallet**?"
-lead: "Een kunststof pallet kost van een paar euro voor een displaypallet tot ruim € 50 voor een heavy duty pallet met gesloten dek. Hieronder ziet u de vanafprijzen per formaat en draagklasse, en wat de prijs bepaalt."
+lead: "Een kunststof pallet kost van een paar euro voor een displaypallet tot ruim € 50 voor een heavy duty pallet met gesloten dek. U vindt hier de vanafprijzen per formaat en draagklasse, en wat de prijs bepaalt."
 reading: 5
 faq:
   - q: "Wat kost een kunststof europallet?"

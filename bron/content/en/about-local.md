@@ -1,19 +1,19 @@
 ---
 id: about-local
 title: "Local production in 6 European factories – Q-Pall"
-description: "Q-Pall makes plastic pallets in Balk, Ribe, Marktoberdorf, Nantes, Lleida and Chesterfield. Within 600 km of the customer: less transport and CO2."
+description: "Q-Pall makes plastic pallets in Balk, Ribe, Marktoberdorf, Nantes, Lleida and Chesterfield. Within 600 km of the customer: less transport and CO₂."
 eyebrow: "Act global, produce local"
 h1: "Local **production**"
-lead: "We produce in six factories spread across Europe. This means we are almost always within 600 kilometres of our customers. That saves transport, costs and CO2."
+lead: "We produce in six factories spread across Europe. This means we are almost always within 600 kilometres of our customers. That saves transport, costs and CO₂."
 ---
 
 ## Why produce locally?
 
-An average truck carries around 500 pallets. Over long distances, that mainly means transporting air. Transport is the largest source of CO2 emissions in the pallet chain. The closer to you we produce, the fewer transport kilometres are needed.
+An average truck carries around 500 pallets. Over long distances, that mainly means transporting air. Transport is the largest source of CO₂ emissions in the pallet chain. The closer to you we produce, the fewer transport kilometres are needed.
 
 ## Moulds travel, pallets don't
 
-A mould is the tool in which we injection-mould a pallet. Instead of driving pallets across Europe, we place the mould in the factory closest to you. One mould transport saves many truckloads of pallets. That is what we mean by *act global, produce local*: one European range, made locally.
+A mould is the tool in which we injection-mould a pallet. Instead of driving pallets across Europe, we place the mould as close to the customer as possible. One mould transport saves many truckloads of pallets. That is what we mean by *act global, produce local*: one European range, made locally.
 
 ## Our production sites
 
@@ -29,9 +29,9 @@ Our head office, European operations centre and storage are in **Veghel**, in No
 ## What it means for you
 
 - **Lower transport costs.** You pay less for transport, because the distance is short.
-- **Less CO2.** Fewer kilometres means lower emissions in your scope 3.
-- **Fast delivery.** We keep the most popular models in stock at each factory.
-- **Security of supply.** For many moulds, we have a second production site. If a machine breaks down somewhere, your delivery simply continues.
+- **Less CO₂.** Fewer kilometres means lower emissions in your scope 3.
+- **Fast delivery.** We keep the most popular models in stock at several locations.
+- **Security of supply.** We make some of our models at more than one location. If a machine breaks down somewhere, we can supply those models from another factory.
 - **Raw material from the region.** As far as possible, we source recycled plastic from the area around the factory.
 
 ## Customisation close to you

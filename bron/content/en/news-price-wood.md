@@ -32,7 +32,7 @@ updated: '2026-11-02'
 
 If you compare [plastic and wooden pallets](@guide-wood), plastic wins on many points. Plastic does not absorb moisture and is easy to clean. It does not splinter and there are no nails that work loose.
 
-Plastic pallets are also often lighter, depending on the type. A nestable plastic Euro pallet weighs just over 5 kg, a wooden Euro pallet around 25 kg. A Heavy plastic pallet weighs 17 to 28 kg, roughly the same as a wooden Euro pallet.
+Plastic pallets are also often lighter, depending on the type. A nestable plastic Euro pallet weighs just over 5 kg, a wooden Euro pallet around 25 kg. A heavy plastic pallet weighs around 17 to 29 kg, roughly the same as a wooden Euro pallet.
 
 So why are so many wooden pallets still in use? Mainly because of the price. Per pallet, wood is usually cheaper.
 

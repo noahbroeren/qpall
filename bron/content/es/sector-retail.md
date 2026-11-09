@@ -21,7 +21,7 @@ Las cadenas de distribución buscan una logística que sea a la vez eficiente y 
 
 ## ¿Por qué palets de plástico?
 
-- **Fabricados con plástico reciclado**, con menos consumo de material.
+- **Fabricados con plástico casi 100% reciclado**, con menos consumo de material.
 - **Menor peso:** menos combustible y menores costes de transporte.
 - **Fáciles de limpiar** y resistentes a la humedad.
 - **Aptos para la automatización** y los robots de almacén.
@@ -30,7 +30,7 @@ Las cadenas de distribución buscan una logística que sea a la vez eficiente y 
 
 ## Palets inteligentes con Auchan e IBM
 
-Junto con IBM Consulting, desarrollamos un palet inteligente y sostenible para la cadena de distribución francesa Auchan. Un total de 50.000 europalets de plástico pueden comunicar su ubicación, su temperatura y los golpes que reciben. Así Auchan tiene más visibilidad sobre la cadena y menos desperdicio alimentario. Un palet ya no es solo un soporte, sino una fuente de datos.
+Junto con IBM Consulting, desarrollamos un palet inteligente y sostenible para la cadena de distribución francesa Auchan. Un total de 50.000 europalets de plástico comunicaban su ubicación, su temperatura y los golpes que recibían. Así Auchan obtuvo más visibilidad sobre la cadena y menos desperdicio alimentario. Un palet ya no es solo un soporte, sino una fuente de datos.
 
 ## Nuestros palets recomendados
 

@@ -33,7 +33,7 @@ Anche le normative hanno un peso crescente. Le grandi aziende devono poter dimos
 
 ## Il modello Q-Pall: produrre vicino al cliente
 
-In Q-Pall non vediamo la produzione come una voce di costo, ma come uno strumento per la sicurezza delle forniture. Abbiamo scelto consapevolmente il nearshoring. Produciamo in [sei stabilimenti distribuiti in Europa](@about-local), così quasi ogni cliente si trova a meno di 600 chilometri da uno stabilimento Q-Pall. Non esiste quindi un unico punto di vulnerabilità.
+In Q-Pall non vediamo la produzione come una voce di costo, ma come uno strumento per la sicurezza delle forniture. Abbiamo scelto consapevolmente il nearshoring. Produciamo in [sei stabilimenti distribuiti in Europa](@about-local), così quasi ogni cliente si trova a meno di 600 chilometri da uno stabilimento Q-Pall.
 
 Questo modello funziona diversamente dalle importazioni da lontano. Il trasporto marittimo intercontinentale è soggetto a settimane di ritardo. La nostra rete può adattarsi e consegnare in pochi giorni, senza dipendere da un solo porto o da una sola rotta.
 
@@ -45,7 +45,7 @@ Un approccio regionale rende anche i prezzi più stabili. Le tariffe dei contain
 
 La produzione locale permette anche di controllare il flusso delle materie prime: la *chain of custody*. È essenziale per le aziende che prendono sul serio i propri obiettivi ESG e vogliono evitare il greenwashing.
 
-I nostri pallet standard sono realizzati in plastica riciclata, una miscela di HDPE (codice 2) e PP (codice 5). Per saperne di più su questo materiale leggete [PE-HD 2 riciclato (HDPE 2): cos’è esattamente?](@news-hdpe) Poiché acquistiamo il riciclato vicino a casa, abbiamo una visione diretta della sua qualità e provenienza. I rifiuti non attraversano mezzo mondo prima di avere una nuova vita. Il rifiuto locale diventa materia prima locale e poi un prodotto locale.
+I nostri pallet standard sono realizzati in plastica riciclata quasi al 100%, una miscela di HDPE (codice 2) e PP (codice 5). Per saperne di più su questo materiale leggete [PE-HD 2 riciclato (HDPE 2): cos’è esattamente?](@news-hdpe) Poiché acquistiamo il riciclato vicino a casa, abbiamo una visione diretta della sua qualità e provenienza. I rifiuti non attraversano mezzo mondo prima di avere una nuova vita. Il rifiuto locale diventa materia prima locale e poi un prodotto locale.
 
 Il risultato è un pallet tecnicamente valido (resistente agli urti e alle intemperie, e facile da pulire) che racconta una storia onesta nel vostro report di sostenibilità. A fine vita il pallet è completamente riciclabile, all’interno della stessa filiera regionale. Cosa significa la produzione locale per trasporti, CO₂ e riciclato lo spieghiamo in [produzione locale di pallet in plastica e sostenibilità](@news-local-sustainability).
 

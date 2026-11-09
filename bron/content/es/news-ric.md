@@ -12,12 +12,12 @@ reading: 4
 faq:
 - q: "¿Qué significan los números del 1 al 7 en el triángulo de reciclaje?"
   a: "El número es el código de identificación de resinas (RIC). Indica de qué plástico está hecho un producto: 1 es PET, 2 HDPE (PEAD), 3 PVC, 4 LDPE (PEBD), 5 PP, 6 PS, y el 7 agrupa los demás plásticos y combinaciones."
-- q: "¿Qué tipos de plásticos existen y se pueden reciclar todos?"
-  a: "Hay seis plásticos habituales con código propio y un código 7 para el resto. El PET (1), el HDPE (2) y el PP (5) se reciclan bien y se recogen ampliamente. El PVC (3), el PS (6) y los demás plásticos (7) se reciclan mucho menos."
+- q: "¿Todos los plásticos son reciclables?"
+  a: "No. El PET (1), el HDPE (2) y el PP (5) se reciclan bien y se recogen ampliamente. El PVC (3), el PS (6) y los demás plásticos (7) se reciclan mucho menos. Que un producto se recicle realmente depende también de su composición y de la recogida selectiva en su zona."
 - q: "¿El triángulo de reciclaje significa que el producto es de plástico reciclado?"
   a: "No. El triángulo con el número solo indica de qué plástico se trata. Si además pone «reciclado», o por ejemplo «rHDPE», el producto sí está hecho de material reciclado."
 - q: "¿De qué plástico están hechos los palets de Q-Pall?"
-  a: "Nuestros palets estándar son de plástico reciclado casi al 100%, una mezcla de HDPE (código 2) y PP (código 5). Los palets Light contienen además LDPE (código 4). Solo los palets higiénicos, los palets H1 y los palets para sala blanca son de plástico virgen."
+  a: "Nuestros palets estándar son de plástico casi 100% reciclado, una mezcla de HDPE (código 2) y PP (código 5). Los palets Light contienen además LDPE (código 4). Solo los palets higiénicos, los palets H1 y los palets para sala blanca son de plástico virgen."
 published: '2023-10-02'
 updated: '2026-11-02'
 ---
@@ -27,7 +27,7 @@ updated: '2026-11-02'
 > * El código ayuda a clasificar y reciclar. No significa que el producto ya sea reciclado.
 > * El PET (1), el HDPE (2) y el PP (5) se reciclan bien. El PVC (3), el PS (6) y el código 7, mucho menos.
 > * Que algo se recicle de verdad depende también de su composición, de la demanda de material reciclado y de la recogida.
-> * Fabricamos nuestros palets estándar con plástico reciclado: una mezcla de HDPE (2) y PP (5).
+> * Fabricamos nuestros palets estándar con plástico casi 100% reciclado: una mezcla de HDPE (2) y PP (5).
 
 ## ¿Qué son los códigos de identificación de resinas?
 
@@ -77,7 +77,7 @@ Las normas también son cada vez más estrictas. Según el reglamento europeo de
 
 ## ¿Qué código de resina tienen los palets de plástico?
 
-Depende del fabricante y del tipo de palet. Fabricamos nuestros palets estándar con plástico reciclado casi al 100%: una mezcla de HDPE (código 2) y PP (código 5). Nuestros palets Light contienen además LDPE (código 4). Los tres son poliolefinas.
+Depende del fabricante y del tipo de palet. Fabricamos nuestros palets estándar con plástico casi 100% reciclado: una mezcla de HDPE (código 2) y PP (código 5). Nuestros palets Light contienen además LDPE (código 4). Los tres son poliolefinas.
 
 Solo nuestros [palets higiénicos](@type-hygienic), los palets H1 y los palets para sala blanca se fabrican con plástico virgen (nuevo), en un color propio. Los palets de plástico reciclado no están destinados al contacto directo con alimentos.
 

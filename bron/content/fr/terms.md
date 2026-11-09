@@ -10,6 +10,6 @@ Les conditions générales de Q-PALL BV sont déposées auprès de la Chambre de
 
 [[termsdownload]]
 
-Vous avez une question sur nos conditions ? [Contactez-nous](@contact).
+Vous avez une question sur nos conditions ? [Contactez-nous](@contact).
 
 [[terms]]

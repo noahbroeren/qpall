@@ -37,7 +37,7 @@ Para este último grupo existen los **palets ESD**: palets de plástico con prot
 
 ESD es la sigla de **electrostatic discharge**, en español descarga electrostática. Todo el mundo conoce el fenómeno. Se quita un jersey por la cabeza y oye un chisporroteo: la fricción ha generado una carga estática, que se descarga enseguida.
 
-O se levanta de una silla, toca el marco metálico de una puerta y siente una pequeña descarga. En ese momento, usted se descarga. Puede asustarle un poco, pero no es peligroso.
+O se levanta de una silla, toca el marco metálico de una puerta y siente una pequeña descarga. En ese momento, su cuerpo se descarga. Puede asustarle un poco, pero no es peligroso.
 
 Con electrónica sensible o sustancias inflamables es distinto. Ahí, una descarga tan pequeña sí puede causar daños.
 

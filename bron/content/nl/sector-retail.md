@@ -21,7 +21,7 @@ Retailers zoeken naar logistiek die efficiënt én duurzaam is. Pallets moeten h
 
 ## Waarom kunststof pallets?
 
-- **Gemaakt van gerecycled plastic**, met minder materiaalverbruik.
+- **Gemaakt van bijna 100% gerecycled kunststof**, met minder materiaalverbruik.
 - **Lager gewicht:** minder brandstof en lagere transportkosten.
 - **Eenvoudig schoon te maken** en bestand tegen vocht.
 - **Geschikt voor automatisering** en magazijnrobots.
@@ -30,7 +30,7 @@ Retailers zoeken naar logistiek die efficiënt én duurzaam is. Pallets moeten h
 
 ## Slimme pallets met Auchan en IBM
 
-Samen met IBM Consulting ontwikkelden we voor de Franse retailer Auchan een slimme, groene pallet. 50.000 kunststof europallets kunnen hun locatie, temperatuur en schokken doorgeven. Zo krijgt Auchan meer inzicht in de keten en minder voedselverspilling. Een pallet is niet langer alleen een drager, maar een bron van data.
+Samen met IBM Consulting ontwikkelden we voor de Franse retailer Auchan een slimme, groene pallet. 50.000 kunststof europallets gaven hun locatie, temperatuur en schokken door. Zo kreeg Auchan meer inzicht in de keten en minder voedselverspilling. Een pallet is niet langer alleen een drager, maar een bron van data.
 
 ## Onze aanbevolen pallets
 

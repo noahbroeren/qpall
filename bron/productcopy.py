@@ -32,7 +32,7 @@ def fmt_price(p, lang):
         s = s.replace('.', ',')
     if lang in ('de', 'fr', 'es'):
         return s + ' €'
-    return '€ ' + s
+    return ('€' if lang == 'en' else '€ ') + s      # English writes €34.85 (update 33)
 
 
 def rng_txt(r, lang, unit='kg', dec=False):
@@ -92,9 +92,9 @@ LOAD_WORDS = {
 TAILS = {
     'nl': ('Vanaf {p} excl. btw.', 'Vraag een offerte aan.', 'Bekijk alle specificaties.'),
     'en': ('From {p} excl. VAT.', 'Request a quote.', 'View all specifications.'),
-    'de': ('Ab {p} zzgl. MwSt.', 'Jetzt Angebot anfordern.', 'Alle technischen Daten.'),
+    'de': ('Ab {p} zzgl. MwSt.', 'Jetzt Angebot anfordern.', 'Alle technischen Daten ansehen.'),
     'fr': ('À partir de {p} HT.', 'Demandez un devis.', 'Voir toutes les caractéristiques.'),
-    'it': ('Da {p} IVA esclusa.', 'Richiedi un preventivo.', 'Vedi tutte le specifiche.'),
+    'it': ('Da {p} IVA esclusa.', 'Richiedete un preventivo.', 'Vedete tutte le specifiche.'),
     'es': ('Desde {p} sin IVA.', 'Solicite un presupuesto.', 'Vea todas las especificaciones.'),
 }
 
@@ -246,7 +246,10 @@ def meta_desc(m, lang):
     tw = TYPEWORD[lang][m['special']]
     ws, wd, wr, wand = LOAD_WORDS[lang]
     dl, dw = m.get('disp_LW') or (m['L'], m['W'])   # size in category order (760 x 1140, 600 x 800)
-    head = f"{tw} {dl} x {dw} mm, {deck_words(m, lang)} {ON[lang]} {support_words(m, lang)}, {m['class']}"
+    sw = support_words(m, lang)
+    if lang == 'de':
+        sw = sw.replace('Füße', 'Füßen')      # 'auf' + dative (update 33)
+    head = f"{tw} {dl} x {dw} mm, {deck_words(m, lang)} {ON[lang]} {sw}, {m['class']}"
     if m.get('sku_title'):
         head = f"{m['sku']}: {head}"
     loads = f"{st} {ws}, {dy} {wd}" + (f" {wand} {rk} {wr}" if rk else "")

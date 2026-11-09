@@ -27,7 +27,7 @@ updated: '2026-11-02'
 > * Q-Pall añade estos aditivos adaptando un modelo de palet existente, según su aplicación.
 > * ¿Hay riesgo de explosión o trabaja con electrónica muy sensible? Elija entonces un palet ESD.
 
-Usted utiliza [palets de plástico](@pallets) para transportar y almacenar mercancías con seguridad. Elige el palet con cuidado para que la calidad de la mercancía no se resienta.
+Utiliza [palets de plástico](@pallets) para transportar y almacenar mercancías con seguridad. Elige el palet con cuidado para que la calidad de la mercancía no se resienta.
 
 Aun así, la mercancía sobre el palet puede cargarse de electricidad estática por la fricción entre el embalaje y el palet de plástico. Esto puede causar problemas.
 

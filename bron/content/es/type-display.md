@@ -1,7 +1,7 @@
 ---
 id: type-display
 title: "Palets expositores de plástico 600 x 400 y 600 x 800"
-description: "Palets expositores de plástico para supermercados y distribución: 600 x 400 y 600 x 800 mm. Ligeros, encajables y directos a la tienda. Con precios desde."
+description: "Palets expositores de plástico para supermercados y distribución: 600 x 400 y 600 x 800 mm. Ligeros, encajables y directos a la tienda. Precios de partida."
 eyebrow: "Distribución"
 h1: "**Palets expositores** de plástico"
 lead: "Del centro de distribución al lineal sin reembalar. Nuestros palets expositores son ligeros, encajables y están disponibles en formato de cuarto y de medio palet."
@@ -23,7 +23,7 @@ Con un palet expositor, su producto pasa del centro de distribución a la sala d
 - **Ligeros:** desde 2 kg el de 600 x 400 mm hasta 5,9 kg el de 600 x 800 mm Heavy.
 - **Encajables:** los palets vacíos se encajan unos dentro de otros, por lo que el transporte de retorno ocupa poco espacio.
 - **Limpios:** sin astillas, clavos ni humedad, y fáciles de limpiar. Importante en la [distribución](@sector-retail) y para alimentos.
-- **Sostenibles:** fabricados con plástico reciclado y totalmente reciclables.
+- **Sostenibles:** fabricados con plástico casi 100% reciclado y totalmente reciclables.
 
 ## Elija su medida
 

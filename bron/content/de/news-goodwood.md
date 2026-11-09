@@ -18,7 +18,7 @@ updated: '2026-11-02'
 > * Eingesetzt wurde die QP1210 HR 5R mit einer statischen Belastbarkeit von 7.500 kg.
 > * Auf den Paletten standen unter anderem ein e.GO, ein Kia EV6, ein Jaguar und der Rimac Nevera.
 > * Die Paletten kamen über unseren britischen Partner und Händler Goplasticpallets.com.
-> * Die Palette besteht aus recyceltem Kunststoff.
+> * Die Palette besteht aus fast 100 % recyceltem Kunststoff.
 
 ## Ein Podium aus Kunststoffpaletten
 
@@ -32,6 +32,6 @@ Vom e.GO und dem Kia EV6 bis zu einem Jaguar und dem Rimac Nevera: Alle standen 
 
 Die QP1210 HR 5R ist eine [Schwerlast-Kunststoffpalette](@class-heavy) im Format [1200 x 1000 mm](@size-1200x1000) mit einer statischen Belastbarkeit von 7.500 kg. Das ist die Last, die eine Palette trägt, wenn sie ruhig auf einem ebenen Boden steht. Das Gewicht dieser Autos war für die Palette deshalb kein Problem. Mehr über statische, dynamische und Regalbelastung lesen Sie auf unserer Seite über [die Tragfähigkeit von Kunststoffpaletten](@about-load).
 
-Die Palette ist für den Einsatz in vielen Branchen konstruiert. Und weil sie aus recyceltem Kunststoff besteht, ist sie eine verantwortungsvolle Wahl für Ihre Logistik und Lagerung.
+Die Palette ist für den Einsatz in vielen Branchen konstruiert. Und weil sie aus fast 100 % recyceltem Kunststoff besteht, ist sie eine verantwortungsvolle Wahl für Ihre Logistik und Lagerung.
 
 Möchten Sie die QP1210 HR 5R oder eine andere Schwerlastpalette einsetzen? [Nehmen Sie Kontakt mit uns auf](@contact), wir beraten Sie gern zu Ihrer Anwendung.

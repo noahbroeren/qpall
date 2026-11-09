@@ -5,7 +5,7 @@ title: "Quanto costa un pallet in plastica? Prezzi 2026 per formato"
 description: "Quanto costa un pallet in plastica nel 2026? Prezzi di partenza per formato e classe di portata, dal pallet espositore all’Heavy, e cosa incide sul prezzo."
 eyebrow: "Guida ai prezzi 2026"
 h1: "Quanto costa un **pallet in plastica**?"
-lead: "Un pallet in plastica costa da pochi euro per un pallet espositore a oltre € 50 per un pallet per carichi pesanti con piano chiuso. Qui sotto trovate i prezzi di partenza per formato e classe di portata, e cosa determina il prezzo."
+lead: "Un pallet in plastica costa da pochi euro per un pallet espositore a oltre € 50 per un pallet per carichi pesanti con piano chiuso. Qui trovate i prezzi di partenza per formato e classe di portata, e cosa determina il prezzo."
 reading: 5
 faq:
   - q: "Quanto costa un europallet in plastica?"

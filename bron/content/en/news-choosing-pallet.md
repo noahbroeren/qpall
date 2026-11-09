@@ -22,7 +22,7 @@ updated: '2026-11-02'
 >
 > * Start with the load: static, dynamic and in racking.
 > * The size follows from your goods and from your racking, trucks and containers.
-> * Our standard pallets are made of recycled plastic; for direct food contact, there is virgin plastic.
+> * Our standard pallets are made of nearly 100% recycled plastic; for direct food contact, there is virgin plastic.
 > * Nestable pallets save space in storage and on return transport.
 > * Look at the cost over the entire service life, not just the purchase price.
 
@@ -42,13 +42,13 @@ Our pallets are divided into three load classes. Light pallets are light and oft
 
 ## Size: does the pallet suit your goods and transport?
 
-The pallet must be large enough to carry your load properly and transport it safely. Your means of transport and your racking also determine the size: the pallets have to fit in your truck, trailer or container. In Europe, 1200 x 800 mm is the standard. Our range includes around 130 models in nine sizes, from 600 x 400 to 1300 x 1100 mm. Our overview of [pallet sizes](@guide-sizes) lists them all.
+The pallet must be large enough to carry your load properly and transport it safely. Your means of transport and your racking also determine the size: the pallets have to fit in your truck, trailer or container. In Europe, 1200 x 800 mm is the standard. Our range includes around 130 versions in nine sizes, from 600 x 400 to 1300 x 1100 mm. Our overview of [pallet sizes](@guide-sizes) lists them all.
 
 ## Material and weight
 
-Not every plastic pallet is made of the same material. We make our standard pallets from recycled plastic, a mix of HDPE and PP. Our hygienic pallets, H1 pallets and cleanroom pallets are made of virgin (new) plastic, in their own colour. Pallets made of recycled plastic are not intended for direct food contact.
+Not every plastic pallet is made of the same material. We make our standard pallets from nearly 100% recycled plastic, a mix of HDPE and PP. Our hygienic pallets, H1 pallets and cleanroom pallets are made of virgin (new) plastic, in their own colour. Pallets made of recycled plastic are not intended for direct food contact.
 
-Plastic pallets are often lighter than wood, although this depends on the type. A light pallet is much lighter than a wooden euro pallet of around 25 kg. A heavy pallet weighs 17 to 28 kg.
+Plastic pallets are often lighter than wood, although this depends on the type. A light pallet is much lighter than a wooden euro pallet of around 25 kg. A heavy pallet weighs around 17 to 29 kg.
 
 ## Nestability: saving space
 
@@ -66,6 +66,6 @@ Is budget a major factor? Used plastic pallets from Q-Used are inspected and up 
 
 ## Environment
 
-Sustainability is becoming more and more important for many companies. Our standard pallets are made of almost 100% recycled plastic. At the end of their life, they are fully recyclable: we take them back and grind them into raw material for new pallets.
+Sustainability is becoming more and more important for many companies. Our standard pallets are made of nearly 100% recycled plastic. At the end of their life, they are fully recyclable: we take them back and grind them into raw material for new pallets.
 
 Not sure which pallet suits your load and process best? Tell us what you transport, how you store it and how many pallets you need. [Request a quote](@quote) and you will usually receive a tailored price within one working day.

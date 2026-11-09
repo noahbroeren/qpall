@@ -11,7 +11,7 @@ img_alt: "Terminal de contenedores con un tren de mercancías y estelas de luz q
 reading: 3
 faq:
 - q: "¿Son los palets de plástico más ligeros que los de madera?"
-  a: "A menudo sí, pero depende del tipo. Los palets Light son mucho más ligeros que la madera. Un palet de plástico Heavy pesa entre 17 y 28 kg, frente a unos 25 kg de un europalet de madera."
+  a: "A menudo sí, pero depende del tipo. Los palets Light son mucho más ligeros que la madera. Un palet de plástico Heavy pesa aproximadamente entre 17 y 29 kg, frente a unos 25 kg de un europalet de madera."
 - q: "¿Necesitan los palets de plástico la ISPM 15 para exportar?"
   a: "No. La ISPM 15 solo se aplica a los envases de madera maciza. Los palets de plástico no necesitan tratamiento térmico ni sello."
 - q: "¿Qué ocurre con los palets de plástico al final de su vida útil?"
@@ -58,9 +58,9 @@ Al final de su vida útil, recogemos los palets. Los trituramos para obtener mat
 
 Desde 2005, Q-Pall fabrica exclusivamente palets de plástico. Este es nuestro enfoque:
 
-* **Material reciclado.** Fabricamos nuestros palets estándar con plástico reciclado casi al 100%, una mezcla de HDPE y PP. Más información sobre nuestro enfoque en la página de [sostenibilidad](@about-sustainability).
+* **Material reciclado.** Fabricamos nuestros palets estándar con plástico casi 100% reciclado, una mezcla de HDPE y PP. Más información sobre nuestro enfoque en la página de [sostenibilidad](@about-sustainability).
 * **Producción local.** Fabricamos nuestros palets en seis fábricas en Europa, cerca de nuestros clientes.
-* **Una amplia gama.** Unos 130 modelos en nueve formatos y tres clases: Light, Medium y Heavy.
+* **Una amplia gama.** Unas 130 versiones en nueve formatos y tres clases: Light, Medium y Heavy.
 * **Personalización.** Adaptamos los modelos existentes, por ejemplo con su logotipo, un color propio o un marcado.
 * **Un servicio cercano.** Desde el primer asesoramiento hasta la entrega, pensamos con usted.
 

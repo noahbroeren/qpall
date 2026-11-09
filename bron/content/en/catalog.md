@@ -13,6 +13,6 @@ lead: "All pallets by size, with dimensions, weight, top deck, base and load cap
 - Per model: article number, dimensions, weight, top deck, base and the static, dynamic and racking load.
 - Light, medium and heavy at a glance, with clear labels.
 - Runners and click-on runners.
-- The new medium anti-slip pallets.
+- The medium anti-slip pallets (since late 2025).
 
 The catalogue is available in six languages: Dutch, English, German, French, Italian and Spanish. You automatically download the version in the language of this website. The information on this website is always the most up to date, so also take a look at our [online range](@pallets), with filters and from-prices.

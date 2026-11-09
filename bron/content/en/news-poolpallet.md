@@ -59,7 +59,7 @@ The success of a pool depends not only on the pallets, but also on how the pool 
 
 ### Recycling at the end
 
-A plastic pallet lasts much longer than an average wooden pallet. We make our standard pallets from recycled plastic, a mix of HDPE (2) and PP (5), without steel or other materials.
+A plastic pallet lasts much longer than an average wooden pallet. We make our standard pallets from nearly 100% recycled plastic, a mix of HDPE (2) and PP (5), without steel or other materials.
 
 At the end of their life, we take them back and grind them into raw material for new pallets. Read more about our approach to [sustainability](@about-sustainability).
 
@@ -75,4 +75,4 @@ The idea that pool pallets are a separate category does not do justice to what p
 
 Every Q-Pall pallet, whether light, medium or heavy, can work in a pool, as long as it suits the load, the processes and the desired service life. It all comes down to the right choice and good management. Read more about pooling on [plastic pallets for pooling](@sector-pooling).
 
-Would you like to know which pallet best suits your pool? [Get in touch](@contact) and we will be happy to think along with you.
+Would you like to know which pallet best suits your pool? [Get in touch](@contact) and we will be happy to help you find a solution.

@@ -15,14 +15,14 @@ updated: '2026-11-02'
 >
 > * Q-Pall war gemeinsam mit Partner BacLand auf der SITL 2025 in Paris vertreten, der Fachmesse für Transport und Logistik.
 > * Das Motto lautete „Connecting Our Intelligence“.
-> * Wir zeigten unser Sortiment in drei Belastungsklassen: Light, Medium und Heavy.
+> * Wir zeigten unser Sortiment in drei Lastklassen: Light, Medium und Heavy.
 > * Im Mittelpunkt standen intelligentes Design, recycelter Kunststoff und lokale Produktion.
 
 ## Was wir gezeigt haben
 
 Die Logistik verändert sich schnell. Unternehmen suchen nach intelligenten und nachhaltigen Lösungen, und dazu gehört auch die Palette. Auf der SITL 2025 haben wir gemeinsam mit unserem Partner BacLand gezeigt, wie intelligentes Design, recycelter Kunststoff und lokale Produktion in unseren Paletten zusammenkommen.
 
-Am Stand präsentierten wir unser Sortiment in drei Belastungsklassen, von leichten Paletten für die Distribution bis zu Modellen für die härtesten Einsätze:
+Am Stand präsentierten wir unser Sortiment in drei Lastklassen, von leichten Paletten für die Distribution bis zu Modellen für die härtesten Einsätze:
 
 * **Light.** [Light-Kunststoffpaletten](@class-light) sind leicht und oft nestbar. Für Export, einmalige Sendungen und Distribution.
 * **Medium.** [Medium-Kunststoffpaletten](@class-medium) sind die Allrounder für den innerbetrieblichen Transport und leichte Regalbelastung.
@@ -30,7 +30,7 @@ Am Stand präsentierten wir unser Sortiment in drei Belastungsklassen, von leich
 
 ## Die Geschichte hinter dem Stand
 
-Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE und PP. Wir produzieren sie in sechs Werken in ganz Europa, sodass fast jeder Kunde weniger als 600 Kilometer von einem Werk entfernt ist. Die Werkzeuge reisen, die Paletten nicht: Wir setzen das Werkzeug in dem Werk ein, das dem Kunden am nächsten liegt. Mehr über unsere [lokale Produktion](@about-local).
+Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE und PP. Wir produzieren sie in sechs Werken in ganz Europa, sodass fast jeder Kunde weniger als 600 Kilometer von einem Werk entfernt ist. Die Werkzeuge reisen, die Paletten nicht: Wir setzen das Werkzeug so nah wie möglich beim Kunden ein. Mehr über unsere [lokale Produktion](@about-local).
 
 Besucher konnten mit unserem Team über ihre eigenen Fragen sprechen: CO₂-Emissionen senken, Prozesse automatisieren oder effizienter transportieren. Kunststoffpaletten sind maßhaltig und haben ein konstantes Gewicht. Damit eignen sie sich gut für [Automatisierung und AGVs](@guide-automation).
 

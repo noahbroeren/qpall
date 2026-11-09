@@ -4,7 +4,7 @@ title: "Pallet in plastica incastrabili – salvaspazio – Q-Pall"
 description: "Pallet in plastica incastrabili: da vuoti si inseriscono l’uno nell’altro. Meno spazio a magazzino, resi più economici. Light ed espositori, in 8 formati."
 eyebrow: "Salvaspazio"
 h1: "**Pallet in plastica** incastrabili"
-lead: "Da vuoti si inseriscono l’uno nell’altro. Così i pallet incastrabili occupano una frazione dello spazio a magazzino e nel trasporto di ritorno. Q-Pall offre [[count]] modelli incastrabili."
+lead: "Da vuoti si inseriscono l’uno nell’altro. Così i pallet incastrabili occupano una frazione dello spazio a magazzino e nel trasporto di ritorno. Q-Pall offre [[count]] versioni incastrabili."
 faq:
   - q: "Che cos’è un pallet incastrabile?"
     a: "Un pallet incastrabile ha piedi cavi che si inseriscono esattamente nei piedi del pallet sottostante. Così potete inserire i pallet vuoti l’uno nell’altro, e una pila risulta molto più bassa rispetto ai pallet standard."
@@ -20,11 +20,11 @@ In un pallet incastrabile i piedi sono cavi e rastremati. I pallet vuoti si inse
 
 - **Meno spazio a magazzino** per la vostra scorta di pallet vuoti.
 - **Più pallet per camion** nel trasporto in entrata e di ritorno.
-- **Costi di trasporto più bassi e meno CO2** per pallet.
+- **Costi di trasporto più bassi e meno CO₂** per pallet.
 
 ## Leggeri ed ergonomici
 
-I pallet incastrabili sono i più leggeri della nostra gamma. Un europallet incastrabile da 1200 x 800 mm pesa poco più di 5 kg. Sono quindi facili da movimentare, migliori per il vostro personale e più economici nel trasporto aereo. Nonostante il peso ridotto, sopportano fino a 2.500 kg in statica e 1.000 kg in dinamica.
+I pallet incastrabili sono i più leggeri della nostra gamma. Un europallet incastrabile da 1200 x 800 mm pesa poco più di 5 kg. Sono quindi facili da movimentare, migliori per il vostro personale e più economici nel trasporto aereo. Nonostante il peso ridotto, hanno una portata statica fino a 2.500 kg e una portata dinamica di 1.000 kg.
 
 ## Formati
 

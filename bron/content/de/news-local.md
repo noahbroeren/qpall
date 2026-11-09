@@ -33,7 +33,7 @@ Auch die Regulierung spielt eine immer größere Rolle. Große Unternehmen müss
 
 ## Das Q-Pall-Modell: nah am Kunden produzieren
 
-Bei Q-Pall sehen wir die Produktion nicht als Kostenfaktor, sondern als Instrument für Liefersicherheit. Wir haben uns bewusst für Nearshoring entschieden. Wir produzieren in [sechs Werken in ganz Europa](@about-local), sodass fast jeder Kunde weniger als 600 Kilometer von einem Q-Pall-Werk entfernt ist. So gibt es keinen „Single Point of Failure“.
+Bei Q-Pall sehen wir die Produktion nicht als Kostenfaktor, sondern als Instrument für Liefersicherheit. Wir haben uns bewusst für Nearshoring entschieden. Wir produzieren in [sechs Werken in ganz Europa](@about-local), sodass fast jeder Kunde weniger als 600 Kilometer von einem Q-Pall-Werk entfernt ist.
 
 Das funktioniert anders als Importe aus Übersee. Interkontinentale Seefracht ist anfällig für wochenlange Verzögerungen. Unser Netzwerk kann innerhalb weniger Tage umschalten und liefern, ohne von einem einzigen Hafen oder einer einzigen Route abhängig zu sein.
 
@@ -45,7 +45,7 @@ Ein regionaler Ansatz sorgt zudem für stabilere Preise. Containerraten schwanke
 
 Lokale Produktion schafft auch Kontrolle über den Rohstofffluss, die *Chain of Custody*. Das ist entscheidend für Unternehmen, die ihre ESG-Ziele ernst nehmen und Greenwashing vermeiden wollen.
 
-Unsere Standardpaletten fertigen wir aus recyceltem Kunststoff, einer Mischung aus HDPE (Code 2) und PP (Code 5). Mehr über dieses Material lesen Sie in [Recyceltes PE-HD 2: Was ist das genau?](@news-hdpe) Weil wir das Rezyklat in der Nähe beziehen, haben wir direkten Einblick in Qualität und Herkunft. Abfall wird nicht um die halbe Welt geschickt, bevor er ein neues Leben bekommt. Lokaler Abfall wird zu einem lokalen Rohstoff und einem lokalen Produkt.
+Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE (Code 2) und PP (Code 5). Mehr über dieses Material lesen Sie in [Recyceltes PE-HD 2: Was ist das genau?](@news-hdpe) Weil wir das Rezyklat in der Nähe beziehen, haben wir direkten Einblick in Qualität und Herkunft. Abfall wird nicht um die halbe Welt geschickt, bevor er ein neues Leben bekommt. Lokaler Abfall wird zu einem lokalen Rohstoff und einem lokalen Produkt.
 
 Das Ergebnis ist eine Palette, die technisch stark ist (schlagzäh, witterungsbeständig und leicht zu reinigen) und in Ihrem Nachhaltigkeitsbericht eine ehrliche Geschichte erzählt. Am Ende ihres Lebens ist die Palette vollständig recycelbar, innerhalb derselben regionalen Kette. Was lokale Produktion für Transport, CO₂ und Rezyklat bedeutet, lesen Sie in [lokale Produktion von Kunststoffpaletten und Nachhaltigkeit](@news-local-sustainability).
 

@@ -33,7 +33,7 @@ Regulation also plays an ever larger role. Large companies must be increasingly 
 
 ## The Q-Pall model: producing close to the customer
 
-At Q-Pall we do not see production as a cost item, but as a tool for supply security. We deliberately chose nearshoring. We produce in [six factories spread across Europe](@about-local), so almost every customer is within 600 kilometres of a Q-Pall factory. That way there is no single point of failure.
+At Q-Pall we do not see production as a cost item, but as a tool for supply security. We deliberately chose nearshoring. We produce in [six factories spread across Europe](@about-local), so almost every customer is within 600 kilometres of a Q-Pall factory.
 
 This works differently from long-distance imports. Intercontinental sea freight is prone to weeks of delay. Our network can switch and deliver within a few days, without depending on a single port or route.
 
@@ -45,7 +45,7 @@ A regional approach also keeps prices more stable. Container rates move with glo
 
 Local production also gives control over the raw material flow: the *chain of custody*. That is essential for companies that take their ESG goals seriously and want to avoid greenwashing.
 
-Our standard pallets are made from recycled plastic, a mix of HDPE (code 2) and PP (code 5). You can read more about that material in [recycled PE-HD 2: what is it exactly?](@news-hdpe) Because we source the recycled material close to home, we have direct insight into its quality and origin. Waste is not shipped halfway around the world before it gets a new life. Local waste becomes a local raw material and a local product.
+Our standard pallets are made from nearly 100% recycled plastic, a mix of HDPE (code 2) and PP (code 5). You can read more about that material in [recycled PE-HD 2: what is it exactly?](@news-hdpe) Because we source the recycled material close to home, we have direct insight into its quality and origin. Waste is not shipped halfway around the world before it gets a new life. Local waste becomes a local raw material and a local product.
 
 The result is a pallet that is technically strong (impact resistant, weatherproof and easy to clean) and that tells an honest story in your sustainability report. At the end of its life, the pallet is fully recyclable, within the same regional chain. What local production means for transport, CO₂ and recycled material is explained in [local production of plastic pallets and sustainability](@news-local-sustainability).
 

@@ -27,7 +27,7 @@ updated: '2026-11-02'
 > * De code helpt bij het sorteren en recyclen. Hij zegt niet dat een product al gerecycled is.
 > * PET (1), HDPE (2) en PP (5) zijn goed te recyclen. PVC (3), PS (6) en code 7 veel minder.
 > * Of iets echt gerecycled wordt, hangt ook af van de samenstelling, de vraag naar recyclaat en de inzameling.
-> * Onze standaardpallets maken we van gerecycled kunststof: een mix van HDPE (2) en PP (5).
+> * Onze standaardpallets maken we van bijna 100% gerecycled kunststof: een mix van HDPE (2) en PP (5).
 
 ## Wat zijn RIC-codes?
 

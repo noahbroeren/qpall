@@ -9,7 +9,7 @@ faq:
   - q: "Does a plastic export pallet need an ISPM 15 stamp?"
     a: "No. ISPM 15 applies to wood packaging material. Plastic pallets are exempt from it, so you do not need to have them treated or stamped. Read more in our [explanation of ISPM 15](@guide-ispm)."
   - q: "What is the difference between an export pallet and a Euro pallet?"
-    a: "A Euro pallet refers to the size (1200 x 800 mm) and is often meant to come back. An export pallet is made for a single trip: as light as possible, strong enough for transport and without the ISPM 15 hassle. A 1200 x 800 mm plastic pallet can be both."
+    a: "A Euro pallet refers to the size (1200 x 800 mm) and is often meant to come back. An export pallet is made for a single trip: as light as possible, strong enough for transport and without ISPM 15 treatment. A 1200 x 800 mm plastic pallet can be both."
   - q: "Are export pallets suitable for pallet racking?"
     a: "No. Our export pallets are light pallets for transport and floor storage. They carry up to 2,500 kg static and up to 1,000 kg dynamic, but are not intended for racking storage."
   - q: "What sizes of export pallet are available?"
@@ -35,4 +35,4 @@ A pallet with **9 feet** is the lightest and nestable, and you can pick it up fr
 
 ## Sustainable, even for single use
 
-Our export pallets are made from recycled plastic. At the end of their life, they are fully recyclable. Read more about our approach on the [sustainability](@about-sustainability) page. Also view all [nestable pallets](@type-nestable).
+Our export pallets are made from nearly 100% recycled plastic. At the end of their life, they are fully recyclable. Read more about our approach on the [sustainability](@about-sustainability) page. Also view all [nestable pallets](@type-nestable).

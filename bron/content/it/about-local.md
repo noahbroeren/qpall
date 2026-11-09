@@ -1,19 +1,19 @@
 ---
 id: about-local
 title: "Produzione locale in 6 stabilimenti europei – Q-Pall"
-description: "Q-Pall produce pallet in plastica a Balk, Ribe, Marktoberdorf, Nantes, Lleida e Chesterfield. Entro 600 km dal cliente: meno trasporti e meno CO2."
+description: "Q-Pall produce pallet in plastica a Balk, Ribe, Marktoberdorf, Nantes, Lleida e Chesterfield. Entro 600 km dal cliente: meno trasporti e meno CO₂."
 eyebrow: "Act global, produce local"
 h1: "**Produzione** locale"
-lead: "Produciamo in sei stabilimenti distribuiti in tutta Europa. Così siamo quasi sempre entro 600 chilometri dai nostri clienti. Questo fa risparmiare trasporti, costi e CO2."
+lead: "Produciamo in sei stabilimenti distribuiti in tutta Europa. Così siamo quasi sempre entro 600 chilometri dai nostri clienti. Questo fa risparmiare trasporti, costi e CO₂."
 ---
 
 ## Perché produrre localmente?
 
-Un camion medio trasporta circa 500 pallet. Sulle lunghe distanze, questo significa soprattutto trasportare aria. Il trasporto è la principale fonte di emissioni di CO2 nella filiera dei pallet. Più vicino a voi produciamo, meno chilometri di trasporto servono.
+Un camion medio trasporta circa 500 pallet. Sulle lunghe distanze, questo significa soprattutto trasportare aria. Il trasporto è la principale fonte di emissioni di CO₂ nella filiera dei pallet. Più vicino a voi produciamo, meno chilometri di trasporto servono.
 
 ## Gli stampi viaggiano, i pallet no
 
-Lo stampo è l’attrezzatura in cui stampiamo a iniezione un pallet. Invece di trasportare pallet in tutta Europa, installiamo lo stampo nello stabilimento più vicino a voi. Un solo trasporto dello stampo fa risparmiare molti camion carichi di pallet. È questo che intendiamo con *act global, produce local*: una gamma europea, prodotta localmente.
+Lo stampo è l’attrezzatura in cui stampiamo a iniezione un pallet. Invece di trasportare pallet in tutta Europa, installiamo lo stampo il più vicino possibile al cliente. Un solo trasporto dello stampo fa risparmiare molti camion carichi di pallet. È questo che intendiamo con *act global, produce local*: una gamma europea, prodotta localmente.
 
 ## I nostri siti produttivi
 
@@ -29,9 +29,9 @@ La nostra sede centrale, il centro operativo europeo e il magazzino si trovano a
 ## Cosa significa per voi
 
 - **Costi di trasporto più bassi.** Pagate meno per il trasporto, perché la distanza è breve.
-- **Meno CO2.** Meno chilometri significano emissioni più basse nel vostro Scope 3.
-- **Consegna rapida.** In ogni stabilimento teniamo a magazzino i modelli più richiesti.
-- **Continuità delle forniture.** Per molti stampi disponiamo di un secondo sito produttivo. Se una macchina si guasta da qualche parte, la vostra consegna prosegue senza problemi.
+- **Meno CO₂.** Meno chilometri significano emissioni più basse nel vostro Scope 3.
+- **Consegna rapida.** Teniamo a magazzino i modelli più richiesti in più sedi.
+- **Continuità delle forniture.** Una parte dei nostri modelli viene prodotta in più sedi. Se una macchina si guasta da qualche parte, possiamo consegnare quei modelli da un altro stabilimento.
 - **Materia prima dalla regione.** Per quanto possibile, acquistiamo la plastica riciclata nella zona intorno allo stabilimento.
 
 ## Personalizzazione vicino a voi

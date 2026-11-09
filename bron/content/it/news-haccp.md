@@ -64,7 +64,7 @@ Per saperne di più sulle differenze leggete [pallet in plastica o in legno?](@g
 
 ## Pallet igienico o pallet in plastica riciclata?
 
-Produciamo i nostri pallet standard in plastica riciclata. Sono una scelta sostenibile per i prodotti confezionati, in cui il pallet non entra in contatto diretto con l’alimento. Non sono destinati al contatto diretto con gli alimenti.
+Produciamo i nostri pallet standard in plastica riciclata quasi al 100%. Sono una scelta sostenibile per i prodotti confezionati, in cui il pallet non entra in contatto diretto con l’alimento. Non sono destinati al contatto diretto con gli alimenti.
 
 L’alimento poggia direttamente sul pallet? Scegliete allora un [pallet igienico](@type-hygienic). Lo produciamo in plastica vergine (nuova), in un colore dedicato.
 

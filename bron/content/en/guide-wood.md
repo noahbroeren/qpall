@@ -11,7 +11,7 @@ faq:
   - q: "Do plastic pallets last longer than wooden pallets?"
     a: "Yes. With normal use, a plastic pallet lasts for many years. There are no loose boards or nails that can work loose, and plastic does not rot or split."
   - q: "Are plastic pallets really sustainable?"
-    a: "Yes, if they last a long time and are recycled afterwards. Our standard pallets are made from almost 100% recycled plastic and are fully recyclable at the end of their life. We also produce locally, so less transport is needed."
+    a: "Yes, if they last a long time and are recycled afterwards. Our standard pallets are made from nearly 100% recycled plastic and are fully recyclable at the end of their life. We also produce locally, so less transport is needed."
 ---
 
 ## The comparison

@@ -12,8 +12,8 @@ reading: 4
 faq:
 - q: "Was bedeuten die Zahlen 1 bis 7 im Recycling-Dreieck?"
   a: "Die Zahl ist der Resin Identification Code (RIC). Er gibt an, aus welchem Kunststoff ein Produkt besteht: 1 ist PET, 2 HDPE, 3 PVC, 4 LDPE, 5 PP, 6 PS, und 7 steht für sonstige Kunststoffe und Verbunde."
-- q: "Welche Kunststoffarten gibt es und können alle recycelt werden?"
-  a: "Sechs gängige Kunststoffe haben einen eigenen Code, Code 7 steht für alle übrigen. PET (1), HDPE (2) und PP (5) sind gut recycelbar und werden häufig gesammelt. PVC (3), PS (6) und sonstige Kunststoffe (7) werden deutlich seltener recycelt."
+- q: "Sind alle Kunststoffarten recycelbar?"
+  a: "Nein. PET (1), HDPE (2) und PP (5) sind gut recycelbar und werden häufig gesammelt. PVC (3), PS (6) und sonstige Kunststoffe (7) werden deutlich seltener recycelt. Ob ein Produkt tatsächlich recycelt wird, hängt auch von der Zusammensetzung und der Sammlung vor Ort ab."
 - q: "Bedeutet ein Recycling-Dreieck, dass ein Produkt aus recyceltem Kunststoff besteht?"
   a: "Nein. Das Dreieck mit der Zahl sagt nur, um welchen Kunststoff es sich handelt. Steht zusätzlich „recycelt“ oder zum Beispiel „rHDPE“ darauf, besteht das Produkt aus recyceltem Material."
 - q: "Aus welchem Kunststoff bestehen die Paletten von Q-Pall?"
@@ -27,7 +27,7 @@ updated: '2026-11-02'
 > * Der Code hilft beim Sortieren und Recyceln. Er bedeutet nicht, dass ein Produkt bereits recycelt ist.
 > * PET (1), HDPE (2) und PP (5) sind gut recycelbar. PVC (3), PS (6) und Code 7 deutlich weniger.
 > * Ob etwas tatsächlich recycelt wird, hängt auch von der Zusammensetzung, der Nachfrage nach Rezyklat und der Sammlung ab.
-> * Unsere Standardpaletten fertigen wir aus recyceltem Kunststoff: einer Mischung aus HDPE (2) und PP (5).
+> * Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff: einer Mischung aus HDPE (2) und PP (5).
 
 ## Was sind Recycling-Codes für Kunststoffe?
 
@@ -73,7 +73,7 @@ Ein Code allein ist keine Garantie. Drei Faktoren spielen mit:
 * **Nachfrage nach Rezyklat.** Auch ein technisch recycelbarer Kunststoff wird seltener recycelt, wenn die Nachfrage nach dem recycelten Material gering ist.
 * **Sammlung vor Ort.** Nicht jedes Sammelsystem nimmt alle Kunststoffarten an. Im Zweifel informieren Sie sich bei Ihrer Gemeinde.
 
-Auch die Regeln werden strenger. Nach der europäischen Verpackungsverordnung [PPWR](@guide-ppwr) müssen Verpackungen ab 2030 in Klasse A, B oder C recycelbar sein.
+Auch die Regeln werden strenger. Nach der europäischen Verpackungsverordnung [PPWR](@guide-ppwr) müssen Verpackungen ab 2030 in Stufe A, B oder C recycelbar sein.
 
 ## Welchen Recycling-Code haben Kunststoffpaletten?
 

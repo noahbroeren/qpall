@@ -49,7 +49,7 @@ Was das im Einzelnen für Ihre Paletten bedeutet, lesen Sie in unserem Ratgeber 
 
 Die PPWR begrenzt Schwermetalle in Verpackungen. Blei, Cadmium, Quecksilber und sechswertiges Chrom dürfen zusammen 100 mg/kg nicht überschreiten.
 
-Zusätzlich nutzen wir die RoHS-Richtlinie (Restriction of Hazardous Substances), um zu bestätigen, dass unsere Paletten die Anforderungen dieser Richtlinie erfüllen. RoHS beschränkt unter anderem diese Stoffe:
+Zusätzlich nutzen wir die Stoffliste der RoHS-Richtlinie (Restriction of Hazardous Substances) als Maßstab. Diese Richtlinie wurde für Elektronik geschrieben, nicht für Verpackungen, aber ihre Grenzwerte sind ein strenger Test für recycelten Kunststoff. RoHS beschränkt unter anderem diese Stoffe:
 
 * Blei (Pb), Quecksilber (Hg) und Cadmium (Cd)
 * sechswertiges Chrom (CrVI)
@@ -57,7 +57,7 @@ Zusätzlich nutzen wir die RoHS-Richtlinie (Restriction of Hazardous Substances)
 
 ### Wie funktioniert XRF?
 
-Die Röntgenfluoreszenzanalyse (X-Ray Fluorescence, XRF) ist eine schnelle Methode, um Elemente in Materialien wie Kunststoff, Metall oder Erde zu messen. Das Material bleibt dabei unversehrt. XRF misst die Elemente von Beryllium (Be) bis Uran (U) präzise, bis in den ppm-Bereich (parts per million).
+Die Röntgenfluoreszenzanalyse (X-Ray Fluorescence, XRF) ist eine schnelle Methode, um Elemente in Materialien wie Kunststoff, Metall oder Erde zu messen. Das Material bleibt dabei unversehrt. XRF misst die Gesamtmenge eines Elements, bis in den ppm-Bereich (parts per million). Damit erkennen wir sofort, ob Blei, Cadmium, Quecksilber, Chrom oder Brom in die Nähe eines Grenzwerts kommen. Um sechswertiges Chrom oder bestimmte Bromverbindungen gesondert zu bestimmen, ist eine Laboranalyse nötig.
 
 So sehen wir, ob unsere Paletten innerhalb der Grenzwerte bleiben. Gerade bei recyceltem Kunststoff ist diese Kontrolle wichtig, weil das Material aus verschiedenen Abfallströmen stammt.
 

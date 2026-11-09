@@ -23,7 +23,7 @@ compare:
   direct:
     - "Per volle stapel of per vrachtwagen"
     - "Maatwerk met uw eigen logo of kleur"
-    - "Levering vanuit de fabriek die het dichtst bij u ligt"
+    - "Levering vanuit een fabriek zo dicht mogelijk bij u"
 ---
 
 ## Vind uw dealer

@@ -55,7 +55,7 @@ Auf dem Papier wirkt lokale Produktion manchmal teurer. In der Praxis bringt sie
 * **Höhere Liefertreue.** Das verhindert zu hohe Bestände, Eillieferungen und Stillstand durch Engpässe.
 * **Weniger Fehlerkosten.** Kurze Wege zum Hersteller erleichtern es, die Qualität zu überwachen und Retouren zu begrenzen.
 
-Kunden berichten uns, dass sie weniger Fehlerkosten haben, weniger Pufferbestand brauchen und vor allem Ruhe in ihrer Lieferkette erleben. Das sehen Sie an niedrigeren **Total Cost of Ownership (TCO)**. Wie Sie in Kosten pro Umlauf rechnen, lesen Sie in [Was kostet eine Kunststoffpalette?](@guide-prices)
+Kunden berichten uns, dass sie weniger Fehlerkosten haben, weniger Pufferbestand brauchen und vor allem Ruhe in ihrer Lieferkette erleben. Das sehen Sie an niedrigeren **Total Cost of Ownership (TCO)**. Wie Sie die Kosten pro Umlauf berechnen, lesen Sie in [Was kostet eine Kunststoffpalette?](@guide-prices)
 
 ## Wie abhängig ist Ihr Palettenfluss?
 

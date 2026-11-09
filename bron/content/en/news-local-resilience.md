@@ -45,7 +45,7 @@ It is not only the place of production that determines the impact, but also the 
 * **Better insight into origin.** You know where the material comes from. That is important for credible ESG reporting.
 * **Support for regional recycling.** Using local waste streams strengthens the recycling companies in your own region.
 
-We make our standard pallets from almost 100% recycled plastic: a mix of HDPE (code 2) and PP (code 5). In 2025 we processed 34,500 tonnes of recycled plastic from Europe. That is around 1,475 full trucks of raw material that did not have to come from another continent. What this means for CO₂ and transport is explained in [local production of plastic pallets and sustainability](@news-local-sustainability).
+We make our standard pallets from nearly 100% recycled plastic: a mix of HDPE (code 2) and PP (code 5). In 2025 we processed 34,500 tonnes of recycled plastic from Europe. That is around 1,475 full trucks of raw material that did not have to come from another continent. What this means for CO₂ and transport is explained in [local production of plastic pallets and sustainability](@news-local-sustainability).
 
 ### Lower total cost through stability and speed
 

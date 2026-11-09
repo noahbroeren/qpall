@@ -21,7 +21,7 @@ I retailer cercano una logistica che sia al tempo stesso efficiente e sostenibil
 
 ## Perché i pallet in plastica?
 
-- **Realizzati in plastica riciclata**, con un minore impiego di materiale.
+- **Realizzati in plastica riciclata quasi al 100%**, con un minore impiego di materiale.
 - **Peso inferiore:** meno carburante e costi di trasporto più bassi.
 - **Facili da pulire** e resistenti all’umidità.
 - **Adatti all’automazione** e ai robot di magazzino.
@@ -30,7 +30,7 @@ I retailer cercano una logistica che sia al tempo stesso efficiente e sostenibil
 
 ## Pallet intelligenti con Auchan e IBM
 
-Insieme a IBM Consulting abbiamo sviluppato un pallet intelligente ed ecologico per il retailer francese Auchan. 50.000 europallet in plastica possono comunicare posizione, temperatura e urti. Auchan ottiene così una maggiore visibilità sulla filiera e meno spreco alimentare. Un pallet non è più soltanto un supporto di carico, ma una fonte di dati.
+Insieme a IBM Consulting abbiamo sviluppato un pallet intelligente ed ecologico per il retailer francese Auchan. 50.000 europallet in plastica comunicavano posizione, temperatura e urti. Auchan ha ottenuto così una maggiore visibilità sulla filiera e meno spreco alimentare. Un pallet non è più soltanto un supporto di carico, ma una fonte di dati.
 
 ## I pallet che consigliamo
 

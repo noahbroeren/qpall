@@ -20,7 +20,7 @@ Bij een nestbare pallet zijn de pootjes hol en taps. Lege pallets passen daardoo
 
 - **Minder opslagruimte** voor uw voorraad lege pallets.
 - **Meer pallets per vrachtwagen** bij aanvoer en retourtransport.
-- **Lagere transportkosten en minder CO2** per pallet.
+- **Lagere transportkosten en minder CO₂** per pallet.
 
 ## Licht en ergonomisch
 

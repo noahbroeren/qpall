@@ -1,7 +1,7 @@
 ---
 id: news-medium-gen3
-title: "Palette plastique Medium 1200 x 800 : 3e génération – Q-Pall"
-description: "En 2023, Q-Pall a lancé la troisième génération de sa palette plastique Medium 1200 x 800 mm : recyclée à près de 100 %, à plateau ajouré ou fermé."
+title: "Palette plastique Medium 1200 x 800 : 3e génération – Q-Pall"
+description: "En 2023, Q-Pall a lancé la troisième génération de sa palette plastique Medium 1200 x 800 mm : recyclée à près de 100 %, à plateau ajouré ou fermé."
 eyebrow: "Actualités"
 tag: "Produit"
 crumb: "Palette Medium, 3e génération"
@@ -24,7 +24,7 @@ updated: '2026-11-02'
 
 1200 x 800 mm est le format de l’europalette. C’est un format standard utilisé dans de nombreux pays et compatible avec la plupart des transpalettes, chariots élévateurs et autres équipements de manutention. Découvrez toutes les [palettes plastique 1200 x 800 mm](@size-1200x800).
 
-La troisième génération est une [palette Medium](@class-medium) : la polyvalente pour le transport interne, la distribution et le stockage léger en rayonnage. Elle porte un poids moyen, sans rien sacrifier en solidité ni en durée de vie.
+La troisième génération est une [palette Medium](@class-medium) : la polyvalente pour le transport interne, la distribution et le stockage léger en rayonnage. Elle porte un poids moyen, sans rien sacrifier en solidité ni en durée de vie.
 
 ## Plateau ajouré ou fermé
 
@@ -39,7 +39,7 @@ Ces valeurs s’appliquent à une charge répartie uniformément. Pour en savoir
 
 ## Fabriquée en plastique recyclé
 
-La palette est fabriquée en plastique recyclé à près de 100 %, un mélange de HDPE et de PP. Du plastique qui serait sinon un déchet trouve ainsi une nouvelle vie. En fin de vie, la palette est entièrement recyclable : nous la reprenons et la transformons en matière première pour de nouvelles palettes. Découvrez notre démarche en matière de [durabilité](@about-sustainability).
+La palette est fabriquée en plastique recyclé à près de 100 %, un mélange de HDPE et de PP. Du plastique qui serait sinon un déchet trouve ainsi une nouvelle vie. En fin de vie, la palette est entièrement recyclable : nous la reprenons et la transformons en matière première pour de nouvelles palettes. Découvrez notre démarche en matière de [durabilité](@about-sustainability).
 
 ## Où utiliser cette palette
 
@@ -47,4 +47,4 @@ La palette n’absorbe pas l’humidité et résiste à de nombreux produits chi
 
 Une palette en plastique recyclé n’est pas destinée au contact direct avec les denrées alimentaires. Pour cet usage, nous proposons des [palettes hygiéniques](@type-hygienic) en plastique vierge.
 
-Vous souhaitez savoir quelle version convient le mieux à votre processus ? [Demandez un devis](@quote) ; vous recevrez en général un prix sur mesure sous un jour ouvré.
+Vous souhaitez savoir quelle version convient le mieux à votre processus ? [Demandez un devis](@quote) ; vous recevrez en général un prix sur mesure sous un jour ouvré.

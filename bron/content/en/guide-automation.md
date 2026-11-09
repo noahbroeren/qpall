@@ -21,7 +21,7 @@ In a manual warehouse, a forklift driver corrects a crooked or damaged pallet. I
 
 ## Five properties that count
 
-* **Dimensionally stable.** An injection-moulded plastic pallet always has the same size. It does not swell or shrink with moisture.
+* **Dimensionally stable.** An injection-moulded plastic pallet has a fixed size, within tight tolerances. It does not swell or shrink with moisture.
 * **Constant weight.** Important for weighing systems and checks on the line.
 * **No nails or splinters.** Nothing catches on rollers, chains or sensors.
 * **The right base.** For roller and chain conveyors, choose a pallet with runners, like almost all of our [heavy pallets](@class-heavy): three or six continuous runners give an even running surface. Pallets with feet are less suitable for roller conveyors.

@@ -8,7 +8,7 @@ lead: "A pallet is not a load carrier. It is a process variable. In modern wareh
 recommend: [qp1208hb3rr, qp1210lb9fr, qp1208mb3rr, qp1210mb3rr, qp6040mb4f, qp1208lb9fr]
 faq:
   - q: "Why are plastic pallets better for automation?"
-    a: "Plastic pallets always have the same dimensions and the same weight. They have no loose boards or protruding nails and do not warp from moisture. This means fewer malfunctions on roller conveyors, in crane systems and with AGVs."
+    a: "Plastic pallets have fixed dimensions and a virtually constant weight. They have no loose boards or protruding nails and do not warp from moisture. This means fewer malfunctions on roller conveyors, in crane systems and with AGVs."
   - q: "Which pallet should I choose for pallet racking?"
     a: "A medium or heavy pallet with 3 runners and a racking load above the weight of your load. Read more about [racking load](@about-load)."
   - q: "How do I save on return transport of empty pallets?"
@@ -17,13 +17,13 @@ faq:
 
 ## The challenge
 
-Logistics is about an efficient flow of goods from production to consumer. Supply chains are becoming more complex, warehouses are getting smarter and the pressure to reduce CO2 is growing. The pallet is part of every step. A pallet that deviates just slightly can bring an entire line to a standstill.
+Logistics is about an efficient flow of goods from production to consumer. Supply chains are becoming more complex, warehouses are getting smarter and the pressure to reduce CO₂ is growing. The pallet is part of every step. A pallet that deviates just slightly can bring an entire line to a standstill.
 
 ## Why plastic pallets?
 
 - **Longer service life** than wooden pallets.
 - **Lower transport costs** thanks to a lower tare weight.
-- **Less fuel and CO2**, and fully recyclable.
+- **Less fuel and CO₂**, and fully recyclable.
 - **Fixed dimensions** for automated systems.
 - **Less maintenance:** no repairs to loose boards.
 - **Clean and safe:** they do not absorb moisture, are easy to clean and have no splinters or sharp edges.

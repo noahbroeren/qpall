@@ -835,3 +835,31 @@ UPDATE 32 (3 november 2026, tweede foto)
   (photos.json: n 2, bottom 2). Nog met één foto, omdat er geen gelijk broertje is: QPH1210HR5RR-CD en de drie
   1140 x 1140-PAS-pallets (QP1140MB6R-PAS, 3.QP1140MB6R-PAS, QP1140MB6R-PAS-CP9: de rand heeft veel meer gaatjes
   dan het basismodel, dus mogelijk een andere onderkant).
+
+UPDATE 33 (9 november 2026, claims en taal gelijkgetrokken, zoeken, offerte, toegankelijkheid)
+  Claims overal gelijk (6 talen): standaardpallets "bijna 100% gerecycled kunststof" (en "nearly 100% recycled
+  plastic", de "fast 100 % recyceltem Kunststoff", fr "plastique recyclé à près de 100 %", it "plastica riciclata
+  quasi al 100%", es "plástico casi 100% reciclado"); hygiënische pallets blijven virgin (build.py _HYG_MATERIAL,
+  met een WARN als de zin niet gevonden wordt). "zo'n 130 uitvoeringen", levering "vanuit een fabriek waar uw pallet
+  beschikbaar is, zo dicht mogelijk bij u", voorraad "op meerdere locaties", toleranties ±5 mm / ±5 %, EPAL zo'n
+  675 miljoen, LDPE bij light, light niet voor stellingen, CP1/CP3/CP6/CP9, Auchan in de verleden tijd, antislip
+  "sinds eind 2025" (geen "Nieuw"-badges meer), RoHS/XRF-alinea in nieuws regelgeving herschreven, nieuwe sectie
+  "Terugname van pallets" op Duurzaamheid. Vacaturepagina's in de u-vorm. Termen: draagklasse, onderlatten, heavy duty,
+  farma, CO₂, 20 ft/40 ft, pompwagen, gerecycled kunststof, ca. 17 tot 29 kg. Bedankpagina's "Vandaag of de
+  eerstvolgende werkdag". Vertaalpunten per taal uit de audit van 9 november doorgevoerd.
+  LET OP productteksten: de pagina's gebruiken variants[].seo6 (130), niet de familietekst models[].seo6 (89).
+  Wijzigingen in de familietekst zijn met een 3-weg-merge naar de varianten gebracht (eigen naam, gewicht en hoogte
+  van de variant blijven staan). Pas bij tekstwijzigingen dus altijd ook de varianten aan.
+  Stapelgrootte zonder duizendtalpunt ("1200 x 800", "2000 mm"); EUROPAL800RR en RECYPAL1210RR stapel op aanvraag
+  (brongegevens kloppen niet). Materiaallabel "Bijna 100% gerecycled kunststof (HDPE/PP[/LDPE])". Calculatormeldingen
+  vertaald, sollicitatieformulier toont de vertaalde functietitel, DE-metas "auf … Füßen".
+  Zoeken: categorieën en servicepagina's (offerte, contact, calculator ...) bovenaan, synoniemen (europallet = 1200 x 800,
+  maten in cm zoals 120x80), bijvoeglijke vormen (nestbaar, zware, hygiënisch), stopwoorden, dubbele letters tellen
+  als één (palet = pallet), exact artikelnummer eerst, groepkoppen, klikbare voorbeelden, geen onzinresultaten van
+  Pagefind meer en bij geen resultaat een link naar de offerte (build.py SEARCH_X, site.js).
+  Offertepagina: vijf veelgestelde vragen (met FAQPage) en de twee contactpersonen in de zijkolom.
+  Categoriepagina (130 kaarten): kaarten buiten beeld worden pas getekend als ze in de buurt komen
+  (content-visibility) en de vergelijkingsdata per kaart is 1/3 kleiner (geen dubbele escaping meer).
+  Toegankelijkheid: brede tabellen krijgen tabindex="0", role="region" en een aria-label; de light/medium/heavy-
+  schakelaar op home gebruikt knoppen met aria-pressed; de carrousel heeft role="region"; tabel Voedingsindustrie
+  heeft een eerste kop "Kenmerk".

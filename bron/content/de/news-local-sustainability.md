@@ -37,7 +37,7 @@ Das zählt auch in Ihrer eigenen Berichterstattung. Die Emissionen eingekaufter 
 
 ## Die Werkzeuge reisen, die Paletten nicht
 
-Ein Werkzeug ist die Form, in der wir eine Palette spritzgießen. Statt Paletten quer durch Europa zu fahren, setzen wir das Werkzeug in dem Werk ein, das dem Kunden am nächsten liegt. Ein einziger Werkzeugtransport ersetzt so viele Fahrten mit Paletten. So funktioniert *act global, produce local*: ein europäisches Sortiment, lokal gefertigt.
+Ein Werkzeug ist die Form, in der wir eine Palette spritzgießen. Statt Paletten quer durch Europa zu fahren, setzen wir das Werkzeug so nah wie möglich beim Kunden ein. Ein einziger Werkzeugtransport ersetzt so viele Fahrten mit Paletten. So funktioniert *act global, produce local*: ein europäisches Sortiment, lokal gefertigt.
 
 Jedes Jahr verlassen Tausende volle Lkw mit Paletten unsere Werke. Würden wir alles an einem zentralen Standort fertigen, wäre fast jede dieser Fahrten deutlich länger.
 

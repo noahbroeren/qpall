@@ -32,7 +32,7 @@ updated: '2026-11-02'
 
 Si compara [palets de plástico y de madera](@guide-wood), el plástico gana en muchos aspectos. El plástico no absorbe humedad y se limpia con facilidad. No se astilla y no tiene clavos que se suelten.
 
-Además, los palets de plástico suelen ser más ligeros, según el tipo. Un europalet de plástico encajable pesa algo más de 5 kg, y un europalet de madera unos 25 kg. Un palet de plástico Heavy pesa entre 17 y 28 kg, más o menos lo mismo que un europalet de madera.
+Además, los palets de plástico suelen ser más ligeros, según el tipo. Un europalet de plástico encajable pesa algo más de 5 kg, y un europalet de madera unos 25 kg. Un palet de plástico Heavy pesa aproximadamente entre 17 y 29 kg, más o menos lo mismo que un europalet de madera.
 
 Entonces, ¿por qué se siguen usando tantos palets de madera? Sobre todo por el precio. Por unidad, un palet de madera suele ser más barato.
 
@@ -55,7 +55,7 @@ En la comparación, tenga en cuenta también los costes que con la madera se pas
 * **El tratamiento ISPM 15** que necesitan los palets de madera para la exportación.
 * **Los costes de flete**, porque un palet más ligero ahorra en transporte.
 
-Divida el coste total entre el número de vueltas. En muchos casos, el plástico resulta entonces la opción más rentable. Consulte los precios desde por medida y clase de carga en [¿cuánto cuesta un palet de plástico?](@guide-prices)
+Divida el coste total entre el número de vueltas. En muchos casos, el plástico resulta entonces la opción más rentable. Consulte los precios de partida por medida y clase de carga en [¿cuánto cuesta un palet de plástico?](@guide-prices)
 
 ## Aún más económico: palets de plástico usados
 

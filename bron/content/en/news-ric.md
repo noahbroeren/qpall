@@ -27,7 +27,7 @@ updated: '2026-11-02'
 > * The code helps with sorting and recycling. It does not mean a product has already been recycled.
 > * PET (1), HDPE (2) and PP (5) are easy to recycle. PVC (3), PS (6) and code 7 much less so.
 > * Whether something is actually recycled also depends on its composition, demand for recycled material and local collection.
-> * We make our standard pallets from recycled plastic: a mix of HDPE (2) and PP (5).
+> * We make our standard pallets from nearly 100% recycled plastic: a mix of HDPE (2) and PP (5).
 
 ## What are resin identification codes?
 
@@ -73,7 +73,7 @@ A code alone is no guarantee. Three factors play a role:
 * **Demand for recycled material.** Even if a plastic is technically recyclable, it is recycled less often when there is little demand for the recycled material.
 * **Local collection.** Not every collection scheme accepts all types of plastic. If in doubt, check your local authority’s website.
 
-The rules are also getting stricter. Under the European packaging regulation [PPWR](@guide-ppwr), packaging must be recyclable in class A, B or C from 2030.
+The rules are also getting stricter. Under the European packaging regulation [PPWR](@guide-ppwr), packaging must be recyclable in grade A, B or C from 2030.
 
 ## Which resin code do plastic pallets have?
 

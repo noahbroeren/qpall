@@ -14,7 +14,7 @@ faq:
   a: "Eine Palette, die in einem Pool immer wieder verwendet wird, oft von mehreren Parteien. Ein Poolbetreiber kümmert sich meist um Ausgabe, Abholung, Prüfung und Reparatur."
 - q: "Kann eine Light-Palette eine Poolpalette sein?"
   a: "Ja, wenn sie zu den Anforderungen des Pools passt, etwa zur Ladung, zu den Prozessen und zur gewünschten Lebensdauer. Light-Paletten sind allerdings nicht für Palettenregale gedacht. Dafür wählen Sie eine Medium- oder Heavy-Palette."
-- q: "Welche Q-Pall Palette ist für Pools gemacht?"
+- q: "Welche Q-Pall-Palette ist für Pools gemacht?"
   a: "Die Ultra-Palette: eine Heavy-Palette in 1200 x 1000 mm mit Antirutsch-Funktion oben und unten, gemacht für offene und geschlossene Pools. Für Pools im Europalettenformat gibt es eine Heavy-Palette in 1200 x 800 mm."
 published: '2024-06-28'
 updated: '2026-11-02'
@@ -33,13 +33,13 @@ Eine Poolpalette ist eine Palette, die Teil eines Pools ist. Das ist ein System,
 
 Oft heißt es, Poolpaletten seien eine eigene Kategorie, getrennt von Light, Medium und Heavy. Diese Annahme ist verständlich, aber sie stimmt nicht. Die Anforderungen eines Pools gelten nicht nur für eine bestimmte Palettenart.
 
-## Warum fast jede Q-Pall Palette in einen Pool passt
+## Warum fast jede Q-Pall-Palette in einen Pool passt
 
 ### Lebensdauer und Qualität
 
 In einem Pool läuft eine Palette Dutzende oder Hunderte Male um. Dann zählt ihre Lebensdauer mehr als der Anschaffungspreis. Kunststoffpaletten verrotten und splittern nicht und halten bei normalem Gebrauch viele Jahre.
 
-Ob Light-, Medium- oder Heavy-Palette: Mit der richtigen Wahl bietet jede Q-Pall Palette die Zuverlässigkeit, die ein Pool braucht.
+Ob Light-, Medium- oder Heavy-Palette: Mit der richtigen Wahl bietet jede Q-Pall-Palette die Zuverlässigkeit, die ein Pool braucht.
 
 ### Feste Maße, festes Gewicht und feste Tragfähigkeit
 
@@ -59,7 +59,7 @@ Der Erfolg eines Pools hängt nicht nur von den Paletten ab, sondern auch von se
 
 ### Recycling am Ende
 
-Eine Kunststoffpalette hält viel länger als eine durchschnittliche Holzpalette. Unsere Standardpaletten fertigen wir aus recyceltem Kunststoff, einer Mischung aus HDPE (2) und PP (5), ohne Stahl oder andere Materialien.
+Eine Kunststoffpalette hält viel länger als eine durchschnittliche Holzpalette. Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE (2) und PP (5), ohne Stahl oder andere Materialien.
 
 Am Ende ihrer Lebensdauer nehmen wir sie zurück und mahlen sie zu Rohstoff für neue Paletten. Mehr über unseren Ansatz lesen Sie auf der Seite [Nachhaltigkeit](@about-sustainability).
 
@@ -73,6 +73,6 @@ Arbeitet Ihr Pool im Europalettenformat? Dann wählen Sie eine Heavy-Palette in 
 
 Die Vorstellung, Poolpaletten seien eine eigene Kategorie, wird dem, was Paletten können, nicht gerecht.
 
-Jede Q-Pall Palette, ob Light, Medium oder Heavy, kann in einem Pool funktionieren, wenn sie zu Ladung, Prozessen und gewünschter Lebensdauer passt. Es kommt auf die richtige Wahl und gutes Management an. Mehr über Pooling lesen Sie unter [Kunststoffpaletten für das Pooling](@sector-pooling).
+Jede Q-Pall-Palette, ob Light, Medium oder Heavy, kann in einem Pool funktionieren, wenn sie zu Ladung, Prozessen und gewünschter Lebensdauer passt. Es kommt auf die richtige Wahl und gutes Management an. Mehr über Pooling lesen Sie unter [Kunststoffpaletten für das Pooling](@sector-pooling).
 
 Möchten Sie wissen, welche Palette am besten zu Ihrem Pool passt? [Nehmen Sie Kontakt](@contact) mit uns auf, wir denken gern mit.

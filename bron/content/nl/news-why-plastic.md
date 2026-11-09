@@ -13,7 +13,7 @@ faq:
 - q: "Zijn kunststof pallets duurder dan houten pallets?"
   a: "In aanschaf meestal wel. Maar een kunststof pallet gaat veel langer mee en hoeft niet gerepareerd of behandeld te worden. Per omloop is kunststof daardoor vaak voordeliger."
 - q: "Zijn kunststof pallets lichter dan houten pallets?"
-  a: "Vaak wel, maar dat hangt af van het type. Light pallets zijn veel lichter dan hout. Een heavy kunststof pallet weegt 17 tot 28 kg, een houten europallet zo'n 25 kg."
+  a: "Vaak wel, maar dat hangt af van het type. Light pallets zijn veel lichter dan hout. Een heavy kunststof pallet weegt ca. 17 tot 29 kg, een houten europallet zo'n 25 kg."
 - q: "Zijn kunststof pallets wel duurzaam?"
   a: "Ja, als ze lang meegaan en daarna worden gerecycled. Onze standaardpallets zijn gemaakt van bijna 100% gerecycled kunststof en aan het einde van hun leven volledig recyclebaar."
 published: '2021-12-10'
@@ -36,7 +36,7 @@ Hieronder leest u de drie belangrijkste. Een volledige vergelijking leest u in [
 
 Kunststof rot en splintert niet. Er zijn geen losse planken of spijkers die uw lading of machines beschadigen. Daardoor hebben kunststof pallets weinig onderhoud nodig.
 
-Ze nemen geen vocht op en zijn goed te reinigen. Elke pallet van hetzelfde model heeft dezelfde maat en hetzelfde gewicht, wat storingen in geautomatiseerde systemen voorkomt. Kunststof pallets zijn bovendien vaak lichter dan hout, al hangt dat af van het type.
+Ze nemen geen vocht op en zijn goed te reinigen. Pallets van hetzelfde model hebben binnen nauwe toleranties dezelfde maat en vrijwel hetzelfde gewicht, wat storingen in geautomatiseerde systemen voorkomt. Kunststof pallets zijn bovendien vaak lichter dan hout, al hangt dat af van het type.
 
 Bij export is geen behandeling tegen ongedierte nodig, want kunststof pallets vallen niet onder ISPM 15. Werkt u met onverpakte levensmiddelen? Kies dan een hygiënische pallet van virgin kunststof.
 
@@ -46,7 +46,7 @@ Per stuk is een kunststof pallet vaak duurder dan een houten pallet. Maar hij ga
 
 Meer hierover leest u in [wat kost een kunststof pallet?](@guide-prices)
 
-Kiest u voor nieuwe pallets, dan kiest u uit zo'n 130 modellen in negen formaten. Wilt u uw pallets herkenbaar maken? Met [maatwerk](@about-custom) passen we een bestaand model aan, bijvoorbeeld met uw logo of een eigen kleur.
+Kiest u voor nieuwe pallets, dan kiest u uit zo'n 130 uitvoeringen in negen formaten. Wilt u uw pallets herkenbaar maken? Met [maatwerk](@about-custom) passen we een bestaand model aan, bijvoorbeeld met uw logo of een eigen kleur.
 
 Telt vooral het budget? Kies dan voor [gebruikte kunststof pallets](@used): via Q-Used verkopen we gekeurde pallets die tot 40% voordeliger zijn dan nieuwe. Omdat kunststof pallets lang meegaan, zijn ze vaak nog in goede staat.
 

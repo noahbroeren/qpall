@@ -37,7 +37,7 @@ Questo conta anche nella vostra rendicontazione. Le emissioni dei pallet acquist
 
 ## Gli stampi viaggiano, i pallet no
 
-Lo stampo è l’attrezzatura in cui stampiamo a iniezione un pallet. Invece di trasportare pallet in tutta Europa, installiamo lo stampo nello stabilimento più vicino al cliente. Un solo trasporto dello stampo sostituisce così molti viaggi di pallet. È questo il principio *act global, produce local*: una gamma europea, prodotta localmente.
+Lo stampo è l’attrezzatura in cui stampiamo a iniezione un pallet. Invece di trasportare pallet in tutta Europa, installiamo lo stampo il più vicino possibile al cliente. Un solo trasporto dello stampo sostituisce così molti viaggi di pallet. È questo il principio *act global, produce local*: una gamma europea, prodotta localmente.
 
 Ogni anno migliaia di camion pieni di pallet partono dai nostri stabilimenti. Se producessimo tutto in un unico sito centrale, quasi ognuno di questi viaggi sarebbe molto più lungo.
 

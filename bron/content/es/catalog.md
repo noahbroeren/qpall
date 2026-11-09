@@ -13,6 +13,6 @@ lead: "Todos los palets por medida, con dimensiones, peso, superficie superior, 
 - Por modelo: número de artículo, dimensiones, peso, superficie superior, base y carga estática, dinámica y en estantería.
 - Light, Medium y Heavy de un vistazo, con etiquetas claras.
 - Patines y patines de clic.
-- Los nuevos palets antideslizantes Medium.
+- Los palets antideslizantes Medium (desde finales de 2025).
 
-El catálogo está disponible en seis idiomas: neerlandés, inglés, alemán, francés, italiano y español. Se descarga automáticamente la versión en el idioma de esta web. La información de esta web es siempre la más actualizada, así que eche también un vistazo a nuestra [gama online](@pallets), con filtros y precios desde.
+El catálogo está disponible en seis idiomas: neerlandés, inglés, alemán, francés, italiano y español. Se descarga automáticamente la versión en el idioma de esta web. La información de esta web es siempre la más actualizada, así que eche también un vistazo a nuestra [gama online](@pallets), con filtros y precios de partida.

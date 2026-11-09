@@ -7,7 +7,7 @@ h1: "Kunststof **displaypallets**"
 lead: "Van distributiecentrum naar schap zonder ompakken. Onze displaypallets zijn licht, nestbaar en leverbaar in kwart- en halve europalletformaat."
 faq:
   - q: "Wat is een displaypallet?"
-    a: "Een displaypallet is een kleine pallet, meestal een kwart of een halve europallet, waarop producten direct in de winkel worden gepresenteerd. De pallet wordt in het distributiecentrum (DC) beladen en met een dolly of handpallettruck op de winkelvloer gezet."
+    a: "Een displaypallet is een kleine pallet, meestal een kwart of een halve europallet, waarop producten direct in de winkel worden gepresenteerd. De pallet wordt in het distributiecentrum (DC) beladen en met een dolly of pompwagen op de winkelvloer gezet."
   - q: "Welke formaten displaypallets zijn er?"
     a: "We hebben displaypallets van 600 x 400 mm (kwart europallet) en 600 x 800 mm (halve europallet), in light, medium en heavy."
   - q: "Hoe worden displaypallets verpakt?"
@@ -23,7 +23,7 @@ Met een displaypallet gaat uw product in één keer van het distributiecentrum n
 - **Licht:** van 2 kg voor de 600 x 400 mm tot 5,9 kg voor de heavy 600 x 800 mm.
 - **Nestbaar:** lege pallets schuiven in elkaar, zodat retourtransport weinig ruimte kost.
 - **Schoon:** geen splinters, spijkers of vocht, en eenvoudig te reinigen. Belangrijk in [retail](@sector-retail) en voor levensmiddelen.
-- **Duurzaam:** gemaakt van gerecycled kunststof en volledig recyclebaar.
+- **Duurzaam:** gemaakt van bijna 100% gerecycled kunststof en volledig recyclebaar.
 
 ## Kies uw formaat
 

@@ -30,7 +30,7 @@ On the stand we presented our range in three load classes, from light pallets fo
 
 ## The story behind the stand
 
-We make our standard pallets from almost 100% recycled plastic, a mix of HDPE and PP. We produce them in six factories across Europe, so almost every customer is within 600 kilometres of a factory. Moulds travel, pallets don't: we place the mould in the factory closest to the customer. Read more about [local production](@about-local).
+We make our standard pallets from nearly 100% recycled plastic, a mix of HDPE and PP. We produce them in six factories across Europe, so almost every customer is within 600 kilometres of a factory. Moulds travel, pallets don't: we place the mould as close to the customer as possible. Read more about [local production](@about-local).
 
 Visitors could talk to our team about their own challenges: cutting CO₂ emissions, automating processes or moving goods more efficiently. Plastic pallets are dimensionally stable and have a constant weight. That makes them well suited to [automation and AGVs](@guide-automation).
 

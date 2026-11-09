@@ -50,13 +50,13 @@ Wat dat u oplevert in de handel met het VK:
 * **Geen vertraging door de pallet.** Een kunststof pallet wordt niet afgekeurd op een ontbrekend of onjuist stempel.
 * **Licht en vaak nestbaar.** Onze [exportpallets](@type-export) dragen tot 2.500 kg statisch en schuiven leeg in elkaar.
 * **Een passende maat.** In het VK is de industriepallet van [1200 x 1000 mm](@size-1200x1000) gangbaar.
-* **Circulair.** Onze standaardpallets zijn van gerecycled kunststof en aan het einde van hun leven volledig recyclebaar.
+* **Circulair.** Onze standaardpallets zijn van bijna 100% gerecycled kunststof en aan het einde van hun leven volledig recyclebaar.
 
 ## Q-Pall produceert ook in het VK
 
 Q-Pall maakt kunststof pallets in zes fabrieken: Balk (Nederland), Ribe (Denemarken), Marktoberdorf (Duitsland), Nantes (Frankrijk), Lleida (Spanje) en Chesterfield (Verenigd Koninkrijk). Bijna elke klant zit binnen 600 kilometer van een van onze fabrieken.
 
-Onze aanpak is: matrijzen reizen, pallets niet. We plaatsen de matrijs in de fabriek die het dichtst bij de klant ligt. Voor klanten in het VK kan dat de fabriek in Chesterfield zijn: korte transporten en geen grensovergang voor de pallets zelf. Lees meer over [lokaal produceren](@about-local).
+Onze aanpak is: matrijzen reizen, pallets niet. We plaatsen de matrijs zo dicht mogelijk bij de klant. Voor klanten in het VK kan dat de fabriek in Chesterfield zijn: korte transporten en geen grensovergang voor de pallets zelf. Lees meer over [lokaal produceren](@about-local).
 
 Heeft u kleinere aantallen nodig? Dan kunt u terecht bij een [dealer bij u in de buurt](@dealers). In het VK werken we onder meer samen met dealer Goplasticpallets.com.
 

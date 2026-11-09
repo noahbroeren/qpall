@@ -18,14 +18,14 @@ Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff. Sie sind 
 
 - **Gegründet 2005**, mit Hauptsitz in Veghel.
 - **Sechs Produktionsstandorte** in den Niederlanden, Dänemark, Deutschland, Frankreich, Spanien und dem Vereinigten Königreich.
-- **4 Mio. Paletten pro Jahr** Produktionskapazität, in rund 130 Modellen und neun Größen.
+- **4 Mio. Paletten pro Jahr** Produktionskapazität, in rund 130 Ausführungen und neun Größen.
 - **200+ Menschen in unserer Produktionskette.**
 - **Ein Händlernetz**, das einen Großteil Europas und die Vereinigten Staaten abdeckt.
 - **EcoVadis Bronze** (Oktober 2026) für unsere Nachhaltigkeitsleistung.
 
 ## Act global, produce local
 
-Der Transport ist mit Abstand die größte Quelle von CO2-Emissionen in der Palettenkette. Deshalb produzieren wir so nah wie möglich bei unseren Kunden: in Balk (NL), Ribe (DK), Marktoberdorf (DE), Nantes (FR), Lleida (ES) und Chesterfield (UK). Fast jeder Kunde befindet sich im Umkreis von 600 Kilometern um ein Q-Pall-Werk. Mehr über [lokale Produktion](@about-local).
+Der Transport ist mit Abstand die größte Quelle von CO₂-Emissionen in der Palettenkette. Deshalb produzieren wir so nah wie möglich bei unseren Kunden: in Balk (Niederlande), Ribe (Dänemark), Marktoberdorf (Deutschland), Nantes (Frankreich), Lleida (Spanien) und Chesterfield (Vereinigtes Königreich). Fast jeder Kunde befindet sich im Umkreis von 600 Kilometern um ein Q-Pall-Werk. Mehr über [lokale Produktion](@about-local).
 
 ## Die gesamte Kette in eigener Hand
 

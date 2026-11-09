@@ -37,7 +37,7 @@ Così la plastica resta nel ciclo e serve meno materia prima nuova. È una diffe
 
 ## Di cosa sono fatti i pallet in plastica riciclata?
 
-Realizziamo i nostri pallet standard in plastica riciclata: una miscela di HDPE (codice plastica 2) e PP (codice plastica 5). Sono entrambe poliolefine, che nel riciclo si comportano in modo simile. I nostri pallet Light contengono anche LDPE. Cosa significano i codici sulla plastica e quali tipi si riciclano bene lo spieghiamo in [codici delle resine: tipi di plastica e riciclo](@news-ric).
+Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%: una miscela di HDPE (codice plastica 2) e PP (codice plastica 5). Sono entrambe poliolefine, che nel riciclo si comportano in modo simile. I nostri pallet Light contengono anche LDPE. Cosa significano i codici sulla plastica e quali tipi si riciclano bene lo spieghiamo in [codici delle resine: tipi di plastica e riciclo](@news-ric).
 
 Il materiale proviene da flussi di rifiuti come cassette, tappi di bottiglie di bibite e imballaggi. Lavorare con la plastica riciclata richiede molta competenza, perché si comporta in modo diverso dalla plastica nuova. Questa competenza la sviluppiamo dal 2005.
 
@@ -46,7 +46,7 @@ Il materiale proviene da flussi di rifiuti come cassette, tappi di bottiglie di 
 1. **Raccolta.** Si raccoglie plastica post-consumo e industriale, compresi i rifiuti di imballaggio delle aziende.
 2. **Selezione e controllo.** Il materiale viene controllato, tra l’altro, per granulometria e composizione. Se contiene troppa pellicola o altre impurità, non viene utilizzato.
 3. **Macinazione e pulizia.** La plastica viene macinata, pulita e trasformata in HDPE e PP riciclati.
-4. **Stampaggio a iniezione.** Il materiale riciclato riscaldato viene iniettato in uno stampo, nello [stabilimento più vicino al cliente](@about-local).
+4. **Stampaggio a iniezione.** Il materiale riciclato riscaldato viene iniettato in uno stampo, in uno [stabilimento il più vicino possibile al cliente](@about-local).
 5. **Utilizzo.** Il pallet dura molti anni. È resistente agli urti, non assorbe l’umidità, non ha schegge né chiodi e non richiede il trattamento ISPM 15.
 6. **Di nuovo nel ciclo.** Un pallet a fine vita viene macinato di nuovo per diventare materia prima per nuovi pallet.
 

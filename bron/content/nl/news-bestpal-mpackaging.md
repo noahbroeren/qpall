@@ -1,7 +1,7 @@
 ---
 id: news-bestpal-mpackaging
 title: "#YourBestPal in the spotlight: M-Packaging België – Q-Pall"
-description: "In de reeks #YourBestPal vertelde M-Packaging uit België over de verkoop van kunststof pallets aan klanten in pharma, voeding, logistiek en chemie."
+description: "In de reeks #YourBestPal vertelde M-Packaging uit België over de verkoop van kunststof pallets aan klanten in farma, voeding, logistiek en chemie."
 eyebrow: "Nieuws"
 tag: "Klantcase"
 crumb: "#YourBestPal: M-Packaging"
@@ -16,7 +16,7 @@ updated: '2026-11-02'
 >
 > * M-Packaging werd opgericht in 2020 en verkoopt vooral kunststof pallets. Het is dealer van Q-Pall in België.
 > * Met zusterbedrijf Muller Pallets levert het ook nieuwe en gebruikte houten pallets.
-> * De klanten zitten vooral in pharma, voeding, logistiek en chemie.
+> * De klanten zitten vooral in farma, voeding, logistiek en chemie.
 > * Het meest gevraagd: 1200 x 800 en 1200 x 1000 mm, in light, medium en heavy.
 > * M-Packaging waardeerde vooral de stabiele kwaliteit, de voorraad, de snelle communicatie en de flexibele planning.
 
@@ -28,7 +28,7 @@ M-Packaging werd opgericht in 2020 en houdt zich vooral bezig met de verkoop van
 
 ## Klanten met hoge kwaliteitseisen
 
-M-Packaging levert vooral aan bedrijven in de pharma, de voedingsmiddelenindustrie, de logistiek en de chemie. Het doel is klanten de pallets te leveren die hun eigen klanten willen ontvangen. Daarvoor staat M-Packaging vaak in direct contact met de productie en de productontwikkeling van Q-Pall.
+M-Packaging levert vooral aan bedrijven in de farma, de voedingsmiddelenindustrie, de logistiek en de chemie. Het doel is klanten de pallets te leveren die hun eigen klanten willen ontvangen. Daarvoor staat M-Packaging vaak in direct contact met de productie en de productontwikkeling van Q-Pall.
 
 Die klanten willen vooral een kunststof pallet die altijd aan hun kwaliteitseisen voldoet en geen storingen veroorzaakt. Dat de pallets van bijna 100% gerecycled kunststof zijn gemaakt en aan het einde van hun leven zelf ook recyclebaar zijn, sterkt hen volgens M-Packaging in hun keuze. Meer daarover leest u op onze pagina over [duurzaamheid](@about-sustainability).
 

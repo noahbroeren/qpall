@@ -1,6 +1,6 @@
 ---
 id: dealers
-title: "Internationale Händler für Q-Pall Kunststoffpaletten"
+title: "Internationale Händler für Q-Pall-Kunststoffpaletten"
 description: "Egal wo Sie sind, oft ist ein Q-Pall-Händler in Ihrer Nähe. Finden Sie mit unserer interaktiven Karte einen Händler für Kunststoffpaletten in Ihrem Land."
 eyebrow: "Händler"
 h1: "Ein Händler **in Ihrer Nähe**"
@@ -23,7 +23,7 @@ compare:
   direct:
     - "Pro vollem Stapel oder per Lkw-Ladung"
     - "Individuelle Paletten mit Ihrem Logo oder in Ihrer Farbe"
-    - "Lieferung aus dem Werk, das Ihnen am nächsten liegt"
+    - "Lieferung aus einem Werk möglichst nah bei Ihnen"
 ---
 
 ## Finden Sie Ihren Händler

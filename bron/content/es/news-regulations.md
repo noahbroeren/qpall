@@ -29,7 +29,7 @@ updated: '2026-11-02'
 
 ## Por qué la normativa cuenta al elegir palets
 
-Al comprar palets, usted elige entre madera y plástico. Hace tiempo que esa elección no depende solo del precio. Las empresas tienen cada vez más en cuenta la sostenibilidad, la rentabilidad y el impacto ambiental de sus compras, como parte de su responsabilidad social corporativa (RSC).
+Al comprar palets, puede elegir entre madera y plástico. Hace tiempo que esa elección no depende solo del precio. Las empresas tienen cada vez más en cuenta la sostenibilidad, la rentabilidad y el impacto ambiental de sus compras, como parte de su responsabilidad social corporativa (RSC).
 
 El legislador también fija requisitos, sobre todo para los envases. A continuación puede leer qué normas son las más importantes para los palets de plástico y cómo las aplicamos.
 
@@ -49,7 +49,7 @@ Lo que esto supone en detalle para sus palets lo explicamos en nuestra guía [El
 
 El PPWR fija un límite para los metales pesados en los envases. El plomo, el cadmio, el mercurio y el cromo hexavalente no pueden superar en conjunto los 100 mg/kg.
 
-Además, utilizamos la directiva RoHS (Restriction of Hazardous Substances) para confirmar que nuestros palets cumplen los requisitos de esa directiva. La RoHS restringe, entre otras, estas sustancias:
+Además, utilizamos como referencia la lista de sustancias de la directiva RoHS (Restriction of Hazardous Substances). Esa directiva está pensada para la electrónica, no para los envases, pero sus valores límite son una prueba exigente para el plástico reciclado. La RoHS restringe, entre otras, estas sustancias:
 
 * plomo (Pb), mercurio (Hg) y cadmio (Cd)
 * cromo hexavalente (CrVI)
@@ -57,7 +57,7 @@ Además, utilizamos la directiva RoHS (Restriction of Hazardous Substances) para
 
 ### ¿Cómo funciona el XRF?
 
-La fluorescencia de rayos X (X-Ray Fluorescence, XRF) es un método rápido para medir los elementos presentes en materiales como el plástico, el metal o la tierra. El material permanece intacto. El XRF mide con precisión los elementos desde el berilio (Be) hasta el uranio (U), hasta el nivel de ppm (partes por millón).
+La fluorescencia de rayos X (X-Ray Fluorescence, XRF) es un método rápido para medir los elementos presentes en materiales como el plástico, el metal o la tierra. El material permanece intacto. El XRF mide la cantidad total de un elemento, hasta el nivel de ppm (partes por millón). Así vemos de inmediato si el plomo, el cadmio, el mercurio, el cromo o el bromo se acercan a un valor límite. Para determinar por separado el cromo hexavalente o determinados compuestos de bromo, hace falta un análisis de laboratorio.
 
 Así comprobamos que nuestros palets se mantienen dentro de los valores límite. Este control es especialmente importante en el plástico reciclado, porque el material procede de distintos flujos de residuos.
 
@@ -77,7 +77,7 @@ Para los clientes que comparan productos, la huella de carbono es cada vez más 
 
 Utilizamos los resultados de nuestro análisis de huella de carbono como medición de referencia y como punto de partida para mejorar el comportamiento ambiental de nuestros palets. Con objetivos de diseño estrictos en eficiencia energética y de materiales, mantenemos las emisiones lo más bajas posible. Nos ayudan dos decisiones:
 
-* **Material reciclado.** Fabricamos nuestros palets estándar con plástico reciclado casi al 100%.
+* **Material reciclado.** Fabricamos nuestros palets estándar con plástico casi 100% reciclado.
 * **Distancias cortas.** Producimos en seis fábricas en Europa, cerca de nuestros clientes. Más información sobre la [producción local](@about-local).
 
 En octubre de 2026 volvimos a obtener la medalla de bronce de EcoVadis.

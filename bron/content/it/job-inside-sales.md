@@ -40,7 +40,7 @@ tasks:
   items:
   - icon: support
     title: Consigliare i clienti
-    text: 'Aiutate i clienti a scegliere il pallet giusto: quali dimensioni, quale classe di carico, piano aperto o chiuso.'
+    text: 'Aiutate i clienti a scegliere il pallet giusto: quali dimensioni, quale classe di portata, piano aperto o chiuso.'
   - icon: doc
     title: Preparare offerte
     text: 'Preparate le offerte, le inviate e le seguite in modo proattivo. Non aspettate: alzate il telefono.'
@@ -80,7 +80,7 @@ offer:
 why:
   eyebrow: Chi è Q-Pall
   title: Pallet **con uno scopo**
-  text: Dal 2005 Q-Pall produce esclusivamente pallet in plastica. I nostri pallet standard sono realizzati in plastica riciclata e, con sei stabilimenti in Europa, produciamo sempre vicino al cliente.
+  text: Dal 2005 Q-Pall produce esclusivamente pallet in plastica. I nostri pallet standard sono realizzati in plastica riciclata quasi al 100% e, con sei stabilimenti in Europa, produciamo vicino al cliente.
   link: Scoprite Q-Pall
 process:
   title: Come funziona **la candidatura**

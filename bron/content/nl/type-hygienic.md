@@ -11,7 +11,7 @@ faq:
   - q: "Wat is een H1-pallet?"
     a: "De H1-pallet is een kunststof pallet in europalletformaat die oorspronkelijk als poolpallet voor de vleesindustrie is ontwikkeld. Tegenwoordig gebruikt de hele voedingsmiddelenindustrie hem. Onze H1-europallet heeft een open dek op 3 onderlatten."
   - q: "Zijn hygiënische pallets van virgin of gerecycled kunststof?"
-    a: "Onze hygiënische pallets zijn gemaakt van virgin kunststof, de norm voor direct contact met levensmiddelen. Alle andere Q-Pall pallets maken we van gerecycled kunststof. Die zijn een duurzame keuze voor verpakte producten, waarbij de pallet niet direct in aanraking komt met het voedsel. We adviseren u graag over de juiste keuze."
+    a: "Onze hygiënische pallets zijn gemaakt van virgin kunststof, de norm voor direct contact met levensmiddelen. Alle andere Q-Pall pallets maken we van bijna 100% gerecycled kunststof. Die zijn een duurzame keuze voor verpakte producten, waarbij de pallet niet direct in aanraking komt met het voedsel. We adviseren u graag over de juiste keuze."
   - q: "Kan ik hygiënische pallets in de vaatwasser of tunnelwasser reinigen?"
     a: "Kunststof pallets kunnen tegen reinigen met water, onder hoge druk en met reinigingsmiddelen. Vraag ons naar de maximale temperatuur en geschikte middelen voor het model dat u kiest."
 ---

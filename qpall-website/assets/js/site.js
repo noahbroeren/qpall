@@ -174,9 +174,17 @@
   if (search) {
     var input = $('input', search), res = $('.search-res', search), hint = $('.search-hint', search);
     var products = null, pf = null, seq = 0;
+    // update 33: the index holds products (p), category and service pages (c) and the words to ignore (stop, gen)
     var loadProducts = function () {
       if (products) return Promise.resolve(products);
-      return fetch('/assets/search-' + LANG + '.json').then(function (r) { return r.json(); }).then(function (j) { products = j; return j; }).catch(function () { products = []; return products; });
+      return fetch('/assets/search-' + LANG + '.json').then(function (r) { return r.json(); }).then(function (j) {
+        products = Array.isArray(j) ? { p: j, c: [], stop: [], gen: [] } : j;
+        var prepAll = function (list) { list.forEach(function (x) { x._h = prep(x.t + ' ' + x.k + ' ' + (x.s || '')); }); };
+        prepAll(products.p); prepAll(products.c);
+        products._stop = {}; products.stop.forEach(function (w) { products._stop[prep(w)] = 1; });
+        products._gen = {}; products.gen.forEach(function (w) { products._gen[prep(w)] = 1; });
+        return products;
+      }).catch(function () { products = { p: [], c: [], _stop: {}, _gen: {} }; return products; });
     };
     var loadPf = function () {
       if (pf) return Promise.resolve(pf);
@@ -191,40 +199,61 @@
       if (e.key === '/' && !/input|textarea|select/i.test((e.target.tagName || '')) && !search.classList.contains('is-open')) { e.preventDefault(); openSearch(); }
     });
     var norm = function (s) { return (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[×*]/g, 'x').replace(/\s+/g, ' '); };
-    var render = function (items) {
-      if (!items.length) { res.innerHTML = '<li class="sr-empty">' + esc(I18N.search_none) + '</li>'; return; }
-      res.innerHTML = items.map(function (it) {
-        var img = it.i ? '<img src="' + esc(it.i) + '" alt="' + esc(it.t) + '" loading="lazy">' : '<span class="sr-ico"><svg class="ico" aria-hidden="true"><use href="#i-doc"/></svg></span>';
-        return '<li><a href="' + esc(it.u) + '">' + img + '<span><b>' + esc(it.t) + '</b><small>' + (it.h ? it.s : esc(it.s)) + '</small></span></a></li>';
-      }).join('');
+    // sizes "1200 x 800" -> "1200x800"; double letters count as one, so "palet" finds "pallet" and "nestbaar" finds "nestbare"
+    var prep = function (s) { return norm(s).replace(/(\d)\s*x\s*(\d)/g, '$1x$2').replace(/([a-z])\1+/g, '$1'); };
+    var li = function (it) {
+      var img = it.i ? '<img src="' + esc(it.i) + '" alt="" loading="lazy">' : '<span class="sr-ico"><svg class="ico" aria-hidden="true"><use href="#i-' + (it.c ? 'grid' : it.v ? 'arrow' : 'doc') + '"/></svg></span>';
+      return '<li><a href="' + esc(it.u) + '">' + img + '<span><b>' + esc(it.t) + '</b><small>' + (it.h ? it.s : esc(it.s)) + '</small></span></a></li>';
+    };
+    var head = function (txt) { return '<li class="sr-head" role="presentation">' + esc(txt) + '</li>'; };
+    var render = function (groups) {
+      var used = groups.filter(function (g) { return g.items.length; });
+      if (!used.length) {
+        res.innerHTML = '<li class="sr-empty">' + esc(I18N.search_none) + (search.dataset.quote ? ' <a class="sr-help" href="' + esc(search.dataset.quote) + '">' + esc(search.dataset.quoteTxt) + '</a>' : '') + '</li>';
+        return;
+      }
+      res.innerHTML = used.map(function (g) { return (used.length > 1 ? head(g.label) : '') + g.items.map(li).join(''); }).join('');
     };
     var run = function () {
       var q = input.value.trim(), my = ++seq;
       hint.hidden = !!q;
       if (q.length < 2) { res.innerHTML = ''; return; }
-      var terms = norm(q).replace(/(\d)\s*x\s*(\d)/g, '$1x$2').split(' ').filter(Boolean);
-      loadProducts().then(function (list) {
-        var hits = list.filter(function (p) {
-          var hay = norm(p.t + ' ' + p.k + ' ' + p.s).replace(/(\d)\s*x\s*(\d)/g, '$1x$2');
-          return terms.every(function (t) { return hay.indexOf(t) > -1; });
-        }).slice(0, 6).map(function (p) { return { t: p.t, u: p.u, s: p.s, i: p.i }; });
+      loadProducts().then(function (P) {
+        var all = prep(q).replace(/[,;:!?()"]/g, ' ').split(' ').filter(Boolean).filter(function (w) { return !P._stop[w]; });
+        var terms = all.filter(function (w) { return !P._gen[w]; });
+        var onlyGen = !terms.length;
+        if (onlyGen) terms = all;
+        var has = function (x) { return terms.every(function (t) { return x._h.indexOf(t) > -1; }); };
+        var whole = prep(q).replace(/[,;:!?()"]/g, ' ').replace(/\s+/g, ' ').trim();
+        // ranking: an exact article number first, then items whose nickname is the whole query ("europallet" -> 1200 x 800)
+        var score = function (x) { return ((x.x || []).some(function (s) { return terms.indexOf(norm(s)) > -1; }) ? 2 : 0) + (x.n && prep(x.n) === whole ? 1 : 0); };
+        var rank = function (list) { return list.map(function (x, n) { return { x: x, n: n, e: score(x) }; }).sort(function (a, b) { return b.e - a.e || a.n - b.n; }).map(function (h) { return h.x; }); };
+        var cats = (onlyGen ? P.c.filter(function (c) { return c.all; }) : rank(P.c.filter(has))).slice(0, 2)
+          .map(function (c) { return { t: c.t, u: c.u, s: c.s, c: !c.svc, v: !!c.svc }; });
+        var hits = onlyGen ? [] : rank(P.p.filter(has)).slice(0, 6).map(function (p) { return { t: p.t, u: p.u, s: p.s, i: p.i }; });
         if (my !== seq) return;
-        render(hits.length ? hits : []);
+        var G = [{ label: I18N.search_g_cat, items: cats }, { label: I18N.search_g_prod, items: hits }, { label: I18N.search_g_page, items: [] }];
+        render(G);
         loadPf().then(function (m) {
           if (!m || my !== seq) return;
           m.debouncedSearch(q, {}, 160).then(function (r) {
             if (!r || my !== seq) return;
-            return Promise.all(r.results.slice(0, 8).map(function (x) { return x.data(); })).then(function (data) {
+            return Promise.all(r.results.slice(0, 10).map(function (x) { return x.data(); })).then(function (data) {
               if (my !== seq) return;
-              var seen = {}; hits.forEach(function (h) { seen[h.u] = 1; });
-              var pages = data.filter(function (x) { var u = x.url.replace(/index\.html$/, ''); if (seen[u]) return false; seen[u] = 1; return true; })
-                .map(function (x) { return { t: (x.meta && x.meta.title || '').replace(/ – Q-Pall$/, ''), u: x.url.replace(/index\.html$/, ''), s: x.excerpt, h: true, i: x.meta && x.meta.image }; });
-              render(hits.concat(pages).slice(0, 10));
+              var seen = {}; cats.concat(hits).forEach(function (h) { seen[h.u] = 1; });
+              // Pagefind also answers nonsense with pages that only match a single letter ("x" in sizes): drop those
+              var minLen = Math.min(3, Math.max.apply(null, all.map(function (w) { return w.length; })));
+              var real = function (x) { var mk = (x.excerpt || '').match(/<mark>[^<]*<\/mark>/g); return !mk || mk.some(function (m) { return m.replace(/<\/?mark>/g, '').length >= minLen; }); };
+              G[2].items = data.filter(real).filter(function (x) { var u = x.url.replace(/index\.html$/, ''); if (seen[u]) return false; seen[u] = 1; return true; })
+                .map(function (x) { return { t: (x.meta && x.meta.title || '').replace(/ – Q-Pall$/, ''), u: x.url.replace(/index\.html$/, ''), s: x.excerpt, h: true, i: x.meta && x.meta.image }; })
+                .slice(0, Math.max(3, 10 - cats.length - hits.length));
+              render(G);
             });
           });
         });
       });
     };
+    $$('[data-q]', search).forEach(function (b) { b.addEventListener('click', function () { input.value = b.getAttribute('data-q'); input.focus(); run(); }); });
     input.addEventListener('input', run);
     input.addEventListener('keydown', function (e) {
       var links = $$('a', res); if (!links.length) return;
@@ -271,7 +300,7 @@
       slides.forEach(function (s) { var on = s.dataset.cls === cls; s.classList.toggle('is-active', on); if (s.tagName === 'A') s.tabIndex = on ? 0 : -1; });
       if (heroSec) heroSec.setAttribute('data-hc', cls);   // background gradient + Q follow the class colour
       heroQ.forEach(function (q) { q.classList.toggle('is-on', q.classList.contains('hero-q-' + cls)); });
-      tabs.forEach(function (t) { t.setAttribute('aria-selected', t.dataset.cls === cls ? 'true' : 'false'); });
+      tabs.forEach(function (t) { t.setAttribute('aria-pressed', t.dataset.cls === cls ? 'true' : 'false'); });
       idx = order.indexOf(cls);
     };
     var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -378,6 +407,7 @@
           s.f.every(function (f) { return c.dataset['f' + f] === '1'; }) &&
           (+c.dataset.static >= s.static) && (+c.dataset.dyn >= s.dyn) && (+c.dataset.rack >= s.rack);
         c.classList.toggle('is-hidden', !ok);
+        c.classList.remove('pre-more');
       });
       $$('.pcard', grid).forEach(function (c) {
         if (c.classList.contains('is-hidden')) { c.classList.remove('is-more'); return; }
@@ -406,7 +436,10 @@
       var v = sortSel ? sortSel.value : 'pop';
       var key = { pop: function (c) { return +c.dataset.order; }, price: function (c) { return c.dataset.price ? +c.dataset.price : 1e9; },
         static: function (c) { return -c.dataset.static; }, rack: function (c) { return -c.dataset.rack; }, weight: function (c) { return +c.dataset.weight; } }[v];
-      cards.slice().sort(function (a, b) { return key(a) - key(b) || (+a.dataset.order - +b.dataset.order); }).forEach(function (c) { grid.appendChild(c); });
+      var sorted = cards.slice().sort(function (a, b) { return key(a) - key(b) || (+a.dataset.order - +b.dataset.order); });
+      var cur = $$('.pcard', grid);
+      if (sorted.every(function (c, i) { return cur[i] === c; })) return;     // already in this order: no DOM moves (update 33)
+      sorted.forEach(function (c) { grid.appendChild(c); });
     };
     form.addEventListener('change', function () { limit = PAGE; apply(); });
     if (sortSel) sortSel.addEventListener('change', function () { limit = PAGE; sort(); apply(); });

@@ -19,13 +19,13 @@
 </div>
 {%- endmacro %}
 
-{% macro apply_form(ui, t, urls, action, job_value, cv_max, lang, show_job=True) -%}
+{% macro apply_form(ui, t, urls, action, job_value, cv_max, lang, show_job=True, job_title=None) -%}
 <form class="form-card cr-form" name="sollicitatie" method="POST" action="{{ action }}" enctype="multipart/form-data"{% if lang == 'nl' %} data-netlify="true" netlify-honeypot="bot-field"{% endif %} data-apply data-cv-max="{{ cv_max }}" data-cv-big="{{ ui.cv_big }}" data-sending="{{ ui.sending }}">
   <input type="hidden" name="form-name" value="sollicitatie">
   <input type="hidden" name="taal" value="{{ lang }}">
   <input type="hidden" name="vacature" value="{{ job_value }}">
   <p class="hp"><label>Bot <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
-  {% if show_job %}<p class="cr-form-job">{{ M.icon('work') }}<span>{{ ui.job_for }}: <b>{{ job_value }}</b></span></p>{% endif %}
+  {% if show_job %}<p class="cr-form-job">{{ M.icon('work') }}<span>{{ ui.job_for }}{% if lang == 'fr' %} {% endif %}: <b>{{ job_title or job_value }}</b></span></p>{% endif %}
   <div class="form-grid">
     <div class="field"><label for="a-first">{{ ui.first }} <small>({{ t.form_required }})</small></label><input id="a-first" name="voornaam" required autocomplete="given-name"></div>
     <div class="field"><label for="a-last">{{ ui.last }} <small>({{ t.form_required }})</small></label><input id="a-last" name="achternaam" required autocomplete="family-name"></div>

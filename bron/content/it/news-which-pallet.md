@@ -46,7 +46,7 @@ Il pallet farà un solo viaggio, per esempio per l’esportazione? Allora un pal
 
 ### Ci sono requisiti di qualità particolari?
 
-Alcuni settori hanno requisiti in più, per esempio di igiene, aderenza o dimensioni. Per il contatto diretto con gli alimenti serve un pallet in plastica vergine. I nostri pallet standard sono realizzati in plastica riciclata.
+Alcuni settori hanno requisiti in più, per esempio di igiene, aderenza o dimensioni. Per il contatto diretto con gli alimenti serve un pallet in plastica vergine. I nostri pallet standard sono realizzati in plastica riciclata quasi al 100%.
 
 ## Ogni modello viene testato
 

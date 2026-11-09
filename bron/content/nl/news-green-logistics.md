@@ -13,7 +13,7 @@ faq:
 - q: "Wat is groene logistiek?"
   a: "Groene logistiek, of green logistics, is logistiek met zo weinig mogelijk impact op het milieu: minder uitstoot, minder afval en efficiënter gebruik van middelen. Ook de keuze van pallets speelt daarin mee."
 - q: "Zijn kunststof pallets lichter dan houten pallets?"
-  a: "Vaak wel, afhankelijk van het type. Light pallets zijn veel lichter dan hout. Heavy pallets wegen 17 tot 28 kg, ongeveer evenveel als een houten europallet van zo'n 25 kg."
+  a: "Vaak wel, afhankelijk van het type. Light pallets zijn veel lichter dan hout. Heavy pallets wegen ca. 17 tot 29 kg, ongeveer evenveel als een houten europallet van zo'n 25 kg."
 - q: "Hoe draagt lokale productie bij aan groene logistiek?"
   a: "In de palletbranche komt het grootste deel van de CO₂-uitstoot van transport. Wij produceren in zes Europese fabrieken, zodat bijna elke klant binnen 600 kilometer van een fabriek zit."
 published: '2023-09-11'
@@ -37,7 +37,7 @@ Een onderdeel dat vaak over het hoofd wordt gezien, is de keuze van pallets. Kun
 
 Kunststof pallets zijn vaak lichter dan houten pallets, afhankelijk van het type. Vooral [light pallets](@class-light) wegen veel minder. Een lager eigen gewicht betekent meer lading per rit en minder brandstof, en daarmee minder uitstoot.
 
-Bij zware toepassingen is het verschil kleiner. Een heavy kunststof pallet weegt 17 tot 28 kg, een houten europallet zo'n 25 kg. Het voordeel zit dan vooral in de lange levensduur en het constante gewicht, want kunststof neemt geen vocht op.
+Bij zware toepassingen is het verschil kleiner. Een heavy kunststof pallet weegt ca. 17 tot 29 kg, een houten europallet zo'n 25 kg. Het voordeel zit dan vooral in de lange levensduur en het constante gewicht, want kunststof neemt geen vocht op.
 
 ## Lang mee en herbruikbaar
 

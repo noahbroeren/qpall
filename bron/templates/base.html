@@ -39,6 +39,7 @@
 <link rel="preload" href="/assets/fonts/poppins-700.woff2" as="font" type="font/woff2" crossorigin>
 {% if meta.preload_img %}<link rel="preload" as="image" href="{{ meta.preload_img }}"{% if meta.preload_srcset %} imagesrcset="{{ meta.preload_srcset }}" imagesizes="{{ meta.preload_sizes }}"{% endif %}{% if meta.preload_type %} type="{{ meta.preload_type }}"{% endif %} fetchpriority="high">{% endif %}
 <link rel="stylesheet" href="/assets/css/site.css?v={{ v }}">
+{% if tpl == 'listing' %}<noscript><style>.pcard.pre-more{display:flex}</style></noscript>{% endif %}
 {% for j in jsonld %}{{ M.jsonld(j) }}
 {% endfor %}
 </head>
@@ -89,7 +90,7 @@
               <div class="mega-foot">
                 <a class="mf-cat" href="{{ catalog.url }}" download>{{ M.booklet(catalog, 'mf-book', defer=True) }}<span><b>{{ t.mm_catalog }}</b><small>{{ t.mm_catalog_edition }} · {{ catalog.meta }}</small></span></a>
                 <div class="mf-mid">
-                  <a class="mf-link" href="{{ urls['type-antislip'] }}"><span class="badge badge-new">{{ t.mm_new }}</span>{{ t.mm_new_antislip }}</a>
+                  <a class="mf-link" href="{{ urls['type-antislip'] }}">{{ t.mm_new_antislip }}</a>
                   <a class="mf-link" href="{{ urls.acc }}">{{ M.icon('layers') }}{{ t.mm_acc }}</a>
                 </div>
                 <a class="btn btn-primary" href="{{ urls.pallets }}">{{ t.mm_all }}{{ M.icon('arrow') }}</a>
@@ -171,11 +172,11 @@
   </div>
 </div>
 
-<div class="search" id="search" role="dialog" aria-modal="true" aria-label="{{ t.search }}" data-pagefind-ignore data-lang="{{ lang }}">
+<div class="search" id="search" role="dialog" aria-modal="true" aria-label="{{ t.search }}" data-pagefind-ignore data-lang="{{ lang }}" data-quote="{{ urls.quote }}" data-quote-txt="{{ t.cta_quote }}">
   <div class="search-bg" data-close-search></div>
   <div class="search-box">
     <div class="search-field">{{ M.icon('search') }}<input type="search" placeholder="{{ t.search_ph }}" aria-label="{{ t.search }}" autocomplete="off" spellcheck="false"><button class="icon-btn" type="button" data-close-search aria-label="{{ t.close }}">{{ M.icon('close') }}</button></div>
-    <p class="search-hint">{{ t.search_hint }}</p>
+    {% set hp = t.search_hint.split(':', 1) %}<p class="search-hint">{{ hp[0] }}:{% for w in hp[1].split(',') %} <button type="button" class="sh-chip" data-q="{{ w.strip() }}">{{ w.strip() }}</button>{% endfor %}</p>
     <ul class="search-res" aria-live="polite"></ul>
   </div>
 </div>

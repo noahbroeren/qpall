@@ -15,7 +15,7 @@ faq:
 - q: "Zijn kunststof pallets met code 7 slecht te recyclen?"
   a: "Vaak wel. Veel recyclingbedrijven zijn niet ingericht op deze 'overige' kunststoffen. Vraag daarom altijd naar de samenstelling en naar wat er aan het einde van de levensduur met de pallet gebeurt."
 - q: "Waarvan zijn de pallets van Q-Pall gemaakt?"
-  a: "Onze standaardpallets zijn van gerecycled kunststof, een mix van HDPE (2) en PP (5). Alleen onze hygiënische pallets, H1-pallets en cleanroompallets zijn van virgin kunststof. Aan het einde van hun leven zijn onze pallets volledig recyclebaar."
+  a: "Onze standaardpallets zijn van bijna 100% gerecycled kunststof, een mix van HDPE (2) en PP (5), in light pallets ook LDPE (4). Alleen onze hygiënische pallets, H1-pallets en cleanroompallets zijn van virgin kunststof. Aan het einde van hun leven zijn onze pallets volledig recyclebaar."
 published: '2023-10-09'
 updated: '2026-11-02'
 ---

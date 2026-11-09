@@ -43,7 +43,7 @@ An **open deck** is lighter and cheaper. Moisture drains away and air can circul
 ## Step 5: feet or runners
 
 - **9 feet:** light, often nestable and accessible from four sides by forklift and pallet truck. Ideal for [export](@type-export).
-- **3 runners:** stable on the floor, on roller conveyors and in pallet racking.
+- **3 runners:** stable on the floor and on roller conveyors; in the medium and heavy versions also in pallet racking.
 - **5 or 6 runners:** even more support and a more even load distribution. With 6 runners (perimeter base), the underside is closed all round.
 
 Want a nestable pallet that becomes more stable on site? Then use [click-on runners](@acc-runners).

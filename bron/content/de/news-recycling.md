@@ -37,7 +37,7 @@ So bleibt Kunststoff im Kreislauf, und es wird weniger neuer Rohstoff benötigt.
 
 ## Woraus bestehen Paletten aus recyceltem Kunststoff?
 
-Unsere Standardpaletten fertigen wir aus recyceltem Kunststoff: einer Mischung aus HDPE (Kunststoffcode 2) und PP (Kunststoffcode 5). Beide sind Polyolefine, die sich im Recycling ähnlich verhalten. Unsere Light-Paletten enthalten zusätzlich LDPE. Was die Codes auf Kunststoff bedeuten und welche Arten gut recycelbar sind, lesen Sie in [Recycling-Codes für Kunststoffe](@news-ric).
+Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff: einer Mischung aus HDPE (Kunststoffcode 2) und PP (Kunststoffcode 5). Beide sind Polyolefine, die sich im Recycling ähnlich verhalten. Unsere Light-Paletten enthalten zusätzlich LDPE. Was die Codes auf Kunststoff bedeuten und welche Arten gut recycelbar sind, lesen Sie in [Recycling-Codes für Kunststoffe](@news-ric).
 
 Das Material stammt aus Abfallströmen wie Kisten, Verschlüssen von Getränkeflaschen und Verpackungen. Die Verarbeitung von Rezyklat erfordert viel Know-how, denn es verhält sich anders als neuer Kunststoff. Dieses Know-how bauen wir seit 2005 auf.
 
@@ -46,7 +46,7 @@ Das Material stammt aus Abfallströmen wie Kisten, Verschlüssen von Getränkefl
 1. **Sammeln.** Post-Consumer- und Industriekunststoff wird gesammelt, auch Verpackungsabfälle von Unternehmen.
 2. **Sortieren und prüfen.** Das Material wird unter anderem auf Korngröße und Zusammensetzung geprüft. Enthält es zu viel Folie oder andere Verunreinigungen, wird es nicht verwendet.
 3. **Mahlen und reinigen.** Der Kunststoff wird gemahlen, gereinigt und zu recyceltem HDPE und PP verarbeitet.
-4. **Spritzgießen.** Das erwärmte Rezyklat wird in ein Werkzeug gespritzt. Das geschieht in dem [Werk, das dem Kunden am nächsten liegt](@about-local).
+4. **Spritzgießen.** Das erwärmte Rezyklat wird in ein Werkzeug gespritzt. Das geschieht in einem [Werk möglichst nah beim Kunden](@about-local).
 5. **Nutzen.** Die Palette hält viele Jahre. Sie ist schlagfest, nimmt keine Feuchtigkeit auf, hat keine Splitter oder Nägel und braucht keine Behandlung nach ISPM 15.
 6. **Zurück in den Kreislauf.** Eine ausgediente Palette wird wieder zu Rohstoff für neue Paletten vermahlen.
 

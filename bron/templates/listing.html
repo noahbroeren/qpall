@@ -54,7 +54,7 @@
       </div>
       <div class="active-filters"></div>
       <div class="grid-products">
-        {% for m in models %}{{ M.pcard(m, t, lang, loop.index) }}{% endfor %}
+        {% for m in models %}{{ M.pcard(m, t, lang, loop.index, more=(models|length > 30 and loop.index > 24)) }}{% endfor %}{# cards after the first 24 stay hidden until 'show more' (update 33: no layout of 130 cards on load) #}
       </div>
       <div class="more-wrap" hidden><button class="btn btn-outline" type="button" data-more>{{ t.show_more }}<span data-more-n></span></button></div>
       <div class="no-results" hidden><p>{{ t.no_results }}</p><button class="btn btn-outline btn-sm" type="button" data-reset>{{ t.filter_reset }}</button></div>

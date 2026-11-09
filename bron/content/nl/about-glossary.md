@@ -7,16 +7,16 @@ h1: "Begrippenlijst **kunststof pallets**"
 lead: "Alle termen die u tegenkomt bij het kiezen van een kunststof pallet, kort en helder uitgelegd. Met daaronder de vragen die we het vaakst krijgen."
 faq:
   - q: "Waar worden kunststof pallets van gemaakt?"
-    a: "Q-Pall maakt zijn pallets van gerecycled polyethyleen (HDPE, recyclingcode 2) en polypropyleen (PP). Alleen de hygiënische pallets zijn van virgin kunststof."
+    a: "Q-Pall maakt zijn pallets van bijna 100% gerecycled polyethyleen (HDPE, recyclingcode 2) en polypropyleen (PP); in light pallets zit ook LDPE. Alleen de hygiënische pallets zijn van virgin kunststof."
   - q: "Hoe worden kunststof pallets geproduceerd?"
     a: "Met spuitgieten onder hoge druk. Gesmolten kunststofgranulaat wordt in een stalen matrijs geperst. Zo ontstaat in één keer een complete, maatvaste pallet."
   - q: "Hoeveel soorten kunststof pallets zijn er?"
-    a: "Q-Pall heeft zo'n 130 modellen in negen formaten, van 600 x 400 mm tot 1300 x 1100 mm, in light, medium en heavy. Bekijk het [volledige assortiment](@pallets)."
+    a: "Q-Pall heeft zo'n 130 uitvoeringen in negen formaten, van 600 x 400 mm tot 1300 x 1100 mm, in light, medium en heavy. Bekijk het [volledige assortiment](@pallets)."
   - q: "Waarom zijn kunststof pallets veiliger in gebruik?"
     a: "Ze hebben geen spijkers, splinters of losse planken. Ze nemen geen vocht op, schimmelen niet en zijn vrij van ongedierte, waardoor er geen ISPM 15-behandeling nodig is. Door de vaste maatvoering storen ze minder in geautomatiseerde systemen."
   - q: "Waarom zijn kunststof pallets kosteneffectief?"
     a: "De aanschafprijs is vaak hoger dan die van hout, maar een kunststof pallet gaat veel langer mee. Reken daarom in kosten per omloop. Daarbij komen minder schade aan lading en machines, geen kosten voor reparatie of behandeling en restwaarde bij recycling. Lees meer in onze [prijsgids](@guide-prices)."
-  - q: "Hoe verminderen kunststof pallets de CO2-uitstoot?"
+  - q: "Hoe verminderen kunststof pallets de CO₂-uitstoot?"
     a: "Een lager eigen gewicht betekent meer lading per rit en minder brandstof. Lokale productie verkort de transportafstand. En omdat de pallets lang meegaan en daarna recyclebaar zijn, is er minder nieuwe grondstof nodig."
   - q: "Kan er een bedrijfslogo op de pallets?"
     a: "Ja, via hot stamping, zeefdruk of een inzetstuk in de matrijs. Ook een eigen RAL-kleur is mogelijk bij grotere projecten. Zie [maatwerk](@about-custom)."
@@ -59,7 +59,7 @@ Pallets met geleidende additieven, zoals carbon black, die elektrostatische ontl
 Een lichte pallet voor een enkele reis, vaak nestbaar. Kunststof exportpallets zijn vrijgesteld van ISPM 15. Zie [exportpallets](@type-export).
 
 ### HDPE en PP
-De twee kunststoffen waar onze standaardpallets van zijn gemaakt: polyethyleen met hoge dichtheid (HDPE, recyclingcode 2) en polypropyleen (PP). Beide zijn goed te recyclen. Meer uitleg over code 2 leest u in [gerecycled PE-HD 2: wat is het precies?](@news-hdpe)
+De twee kunststoffen waar onze standaardpallets vooral van zijn gemaakt: polyethyleen met hoge dichtheid (HDPE, recyclingcode 2) en polypropyleen (PP). In light pallets zit daarnaast LDPE. Beide zijn goed te recyclen. Meer uitleg over code 2 leest u in [gerecycled PE-HD 2: wat is het precies?](@news-hdpe)
 
 ### H1-pallet
 Een hygiënische kunststof pallet in europalletformaat, oorspronkelijk een poolpallet voor de vleesindustrie. Zie [hygiënische pallets](@type-hygienic).

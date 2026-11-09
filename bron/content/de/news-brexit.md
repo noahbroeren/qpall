@@ -1,12 +1,12 @@
 ---
 id: news-brexit
 title: "Brexit: Kunststoffpaletten im UK-Handel – Q-Pall"
-description: "Seit dem Brexit müssen Holzpaletten im Handel mit dem UK ISPM 15 erfüllen, Kunststoffpaletten nicht. Q-Pall fertigt Paletten auch in Chesterfield (UK)."
+description: "Seit dem Brexit müssen Holzpaletten im Handel mit dem Vereinigten Königreich ISPM 15 erfüllen, Kunststoffpaletten nicht. Q-Pall produziert in Chesterfield."
 eyebrow: "Aktuelles"
 tag: "Supply Chain"
 crumb: "Paletten nach dem Brexit"
 h1: "Brexit und Paletten: **Was gilt im Handel mit dem Vereinigten Königreich?**"
-lead: "Seit dem Brexit ist das Vereinigte Königreich für Paletten ein Land außerhalb der EU. Holzpaletten müssen daher ISPM 15 erfüllen, Kunststoffpaletten nicht. Zudem fertigt Q-Pall Kunststoffpaletten im UK selbst, in Chesterfield."
+lead: "Seit dem Brexit ist das Vereinigte Königreich für Paletten ein Land außerhalb der EU. Holzpaletten müssen daher ISPM 15 erfüllen, Kunststoffpaletten nicht. Zudem fertigt Q-Pall Kunststoffpaletten im Vereinigten Königreich selbst, in Chesterfield."
 img_alt: "Schild im Stil der Londoner U-Bahn mit dem Wort Brexit vor einer britischen Flagge"
 reading: 3
 faq:
@@ -50,13 +50,13 @@ Das bringt Ihnen im Handel mit dem Vereinigten Königreich:
 * **Keine Verzögerung durch die Palette.** Eine Kunststoffpalette wird nicht wegen eines fehlenden oder falschen Stempels beanstandet.
 * **Leicht und oft nestbar.** Unsere [Einwegpaletten](@type-export) tragen bis zu 2.500 kg statisch und lassen sich leer ineinanderstapeln.
 * **Das passende Maß.** Im Vereinigten Königreich ist die Industriepalette mit [1200 x 1000 mm](@size-1200x1000) üblich.
-* **Kreislauffähig.** Unsere Standardpaletten bestehen aus recyceltem Kunststoff und sind am Ende ihrer Lebensdauer vollständig recycelbar.
+* **Kreislauffähig.** Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff und sind am Ende ihrer Lebensdauer vollständig recycelbar.
 
 ## Q-Pall produziert auch im Vereinigten Königreich
 
 Q-Pall fertigt Kunststoffpaletten in sechs Werken: Balk (Niederlande), Ribe (Dänemark), Marktoberdorf (Deutschland), Nantes (Frankreich), Lleida (Spanien) und Chesterfield (Vereinigtes Königreich). Fast jeder Kunde liegt im Umkreis von 600 Kilometern um eines unserer Werke.
 
-Unser Ansatz: Werkzeuge reisen, Paletten nicht. Wir setzen das Werkzeug in dem Werk ein, das dem Kunden am nächsten liegt. Für Kunden im Vereinigten Königreich kann das das Werk in Chesterfield sein: kurze Transportwege und kein Grenzübertritt für die Paletten selbst. Mehr über [lokale Produktion](@about-local).
+Unser Ansatz: Werkzeuge reisen, Paletten nicht. Wir setzen das Werkzeug so nah wie möglich beim Kunden ein. Für Kunden im Vereinigten Königreich kann das das Werk in Chesterfield sein: kurze Transportwege und kein Grenzübertritt für die Paletten selbst. Mehr über [lokale Produktion](@about-local).
 
 Sie benötigen kleinere Mengen? Dann wenden Sie sich an einen [Händler in Ihrer Nähe](@dealers). Im Vereinigten Königreich arbeiten wir unter anderem mit dem Händler Goplasticpallets.com zusammen.
 

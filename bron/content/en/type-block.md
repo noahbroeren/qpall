@@ -4,14 +4,14 @@ title: "Plastic block pallets 1200 x 1000 mm – Q-Pall"
 description: "Plastic block pallets of 1200 x 1000 mm: robust, four-way entry and suitable for racking up to 1,375 kg. Medium and heavy, open or closed deck."
 eyebrow: "Industry and racking storage"
 h1: "Plastic **block pallets**"
-lead: "Sturdy 1200 x 1000 mm pallets for intensive use, pallet racking and automation. With [[count]] models in medium and heavy."
+lead: "Sturdy 1200 x 1000 mm pallets for intensive use, pallet racking and automation. With [[count]] versions in medium and heavy."
 faq:
   - q: "What is a block pallet?"
     a: "A block pallet is a sturdy pallet that stands on blocks or runners and can be picked up with a forklift from all four sides. Plastic block pallets are available with an open or closed deck and with 3, 5 or 6 runners."
   - q: "Are plastic block pallets suitable for pallet racking?"
     a: "Yes. Our medium block pallets carry 750 to 1,375 kg in racking, the heavy block pallets 1,250 to 1,375 kg. Always choose a model with a racking load that is higher than the weight of your load."
   - q: "Which block pallet has anti-slip?"
-    a: "The new medium block pallets with closed deck are also available with anti-slip, on 3 or 5 runners. View the [anti-slip pallets](@type-antislip)."
+    a: "The medium block pallets with closed deck are also available with anti-slip, on 3 or 5 runners. View the [anti-slip pallets](@type-antislip)."
 ---
 
 ## Sturdy, dimensionally stable and four-way entry

@@ -21,7 +21,7 @@ In einem manuellen Lager korrigiert ein Staplerfahrer eine schiefe oder beschäd
 
 ## Fünf Eigenschaften, die zählen
 
-* **Maßhaltig.** Eine spritzgegossene Kunststoffpalette hat immer dieselbe Größe. Sie quillt nicht auf und schrumpft nicht durch Feuchtigkeit.
+* **Maßhaltig.** Eine spritzgegossene Kunststoffpalette hat feste Maße, innerhalb enger Toleranzen. Sie quillt nicht auf und schrumpft nicht durch Feuchtigkeit.
 * **Konstantes Gewicht.** Wichtig für Wiegesysteme und Kontrollen an der Linie.
 * **Keine Nägel oder Splitter.** Nichts verhakt sich an Rollen, Ketten oder Sensoren.
 * **Der richtige Unterbau.** Wählen Sie für Rollen- und Kettenförderer eine Palette mit Kufen, wie fast alle unsere [Heavy-Paletten](@class-heavy): Drei oder sechs durchgehende Kufen ergeben eine gleichmäßige Lauffläche. Paletten mit Füßen eignen sich weniger für Rollenbahnen.

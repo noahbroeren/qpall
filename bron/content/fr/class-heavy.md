@@ -1,22 +1,22 @@
 ---
 id: class-heavy
 title: "Palettes plastique Heavy – jusqu’à 2.000 kg en rayonnage"
-description: "Palettes plastique Heavy : jusqu’à 7.500 kg en statique, 2.200 kg en dynamique et 2.000 kg en rayonnage. Plateau ajouré ou fermé, 3 à 6 semelles."
+description: "Palettes plastique Heavy : jusqu’à 7.500 kg en statique, 2.200 kg en dynamique et 2.000 kg en rayonnage. Plateau ajouré ou fermé, 3 à 6 semelles."
 eyebrow: "Classe de charge Heavy"
 h1: "Palettes plastique **Heavy**"
-lead: "Pour les charges lourdes, les rayonnages de grande hauteur et des années d’usage intensif. [[count]] modèles Heavy, dont des palettes hygiéniques, CP et de pooling."
+lead: "Pour les charges lourdes, les rayonnages de grande hauteur et des années d’usage intensif. [[count]] versions Heavy, dont des palettes hygiéniques, CP et de pooling."
 faq:
-  - q: "Quelle charge supporte une palette plastique Heavy ?"
+  - q: "Quelle charge supporte une palette plastique Heavy ?"
     a: "Nos palettes Heavy supportent jusqu’à 7.500 kg en statique, jusqu’à 2.200 kg en dynamique et jusqu’à 2.000 kg en rayonnage à palettes. Les valeurs exactes varient selon le modèle. Vous les trouverez sur chaque fiche produit."
-  - q: "Les palettes plastique Heavy ont-elles besoin de renforts en acier ?"
+  - q: "Les palettes plastique Heavy ont-elles besoin de renforts en acier ?"
     a: "Non. Nos palettes Heavy tirent leur résistance de leur construction et de leur matériau. L’Ultra pallet, par exemple, supporte jusqu’à 1.375 kg en rayonnage sans renforts métalliques."
-  - q: "Quand une palette Heavy est-elle le bon choix ?"
+  - q: "Quand une palette Heavy est-elle le bon choix ?"
     a: "Lorsque la palette reste des années dans une boucle fermée ou un pool, lorsque vous stockez des charges lourdes en rayonnage à palettes, ou lorsque la palette est souvent déplacée au chariot élévateur. En usage intensif, une palette Heavy est souvent le choix le plus économique par rotation."
 ---
 
 ## Conçues pour un usage intensif
 
-Les palettes Heavy ont une construction plus robuste, avec des semelles renforcées et un plateau plus rigide. Elles sont conçues pour les conditions les plus difficiles : rayonnages de grande hauteur, charges lourdes et de longues années d’utilisation avec des chariots élévateurs, des transpalettes et des systèmes automatisés.
+Les palettes Heavy ont une construction plus robuste, avec des semelles renforcées et un plateau plus rigide. Elles sont conçues pour les conditions les plus difficiles : rayonnages de grande hauteur, charges lourdes et de longues années d’utilisation avec des chariots élévateurs, des transpalettes et des systèmes automatisés.
 
 ## Versions
 

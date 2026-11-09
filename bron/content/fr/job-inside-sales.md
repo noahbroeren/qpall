@@ -1,6 +1,6 @@
 ---
 id: job-inside-sales
-title: 'Offre d’emploi : commercial sédentaire – Q-Pall Veghel'
+title: 'Offre d’emploi : commercial sédentaire – Q-Pall Veghel'
 description: Commercial sédentaire (H/F) chez Q-Pall à Veghel (Pays-Bas), 32-36 heures. Conseillez nos clients dans toute l’Europe. Postulez en 2 minutes.
 eyebrow: Offre d’emploi · Inside Sales
 h1: Commercial **sédentaire** (H/F)
@@ -40,10 +40,10 @@ tasks:
   items:
   - icon: support
     title: Conseiller les clients
-    text: 'Vous aidez les clients à choisir la bonne palette : quelles dimensions, quelle classe de charge, plateau ajouré ou plein.'
+    text: 'Vous aidez les clients à choisir la bonne palette : quelles dimensions, quelle classe de charge, plateau ajouré ou plein.'
   - icon: doc
     title: Établir des devis
-    text: 'Vous rédigez les devis, les envoyez et les relancez de façon proactive. Vous n’attendez pas : vous décrochez le téléphone.'
+    text: 'Vous rédigez les devis, les envoyez et les relancez de façon proactive. Vous n’attendez pas : vous décrochez le téléphone.'
   - icon: handshake
     title: Développer les relations
     text: Vous entretenez le contact avec les clients existants et développez de nouvelles relations commerciales.
@@ -53,17 +53,17 @@ tasks:
   - icon: bulb
     title: Proposer des idées
     text: Vous contribuez à des processus plus efficaces et à une satisfaction client toujours plus élevée.
-photos_caption: 'Notre siège à Veghel : c’est ici que vous travaillez avec l’équipe Inside Sales.'
+photos_caption: 'Notre siège à Veghel : c’est ici que vous travaillez avec l’équipe Inside Sales.'
 profile:
   title: Votre **profil**
   items:
   - Niveau de formation professionnelle (MBO+) ou d’études supérieures (HBO).
   - Vous parlez et écrivez bien le néerlandais et l’anglais.
-  - Vous maîtrisez Microsoft Office ; une expérience d’un CRM est un atout.
+  - Vous maîtrisez Microsoft Office ; une expérience d’un CRM est un atout.
   - Vous avez le sens du commerce, aimez apprendre et prenez des initiatives.
-  note: Débutant ou expérimenté ? Les deux sont les bienvenus. La motivation et l’énergie comptent le plus.
+  note: Débutant ou expérimenté ? Les deux sont les bienvenus. La motivation et l’énergie comptent le plus.
 offer:
-  title: Ce que **nous offrons**
+  title: Ce que **nous vous offrons**
   items:
   - icon: book
     title: Un bon départ
@@ -80,7 +80,7 @@ offer:
 why:
   eyebrow: À propos de Q-Pall
   title: Des palettes **qui ont du sens**
-  text: Depuis 2005, Q-Pall fabrique uniquement des palettes plastique. Nos palettes standard sont fabriquées en plastique recyclé et, avec six usines en Europe, nous produisons toujours près du client.
+  text: Depuis 2005, Q-Pall fabrique uniquement des palettes plastique. Nos palettes standard sont fabriquées en plastique recyclé à près de 100 % et, avec six usines en Europe, nous produisons près du client.
   link: En savoir plus sur Q-Pall
 process:
   title: Comment se déroule **votre candidature**
@@ -94,14 +94,14 @@ process:
 apply:
   title: Postuler **maintenant**
   lead: Laissez vos coordonnées et téléchargez votre CV. Pas besoin de lettre de motivation.
-contact_text: Une question sur le poste ou la candidature ? N’hésitez pas à nous contacter.
+contact_text: Une question sur le poste ou la candidature ? N’hésitez pas à nous contacter.
 faq:
-- q: Puis-je postuler en tant que débutant ?
+- q: Puis-je postuler en tant que débutant ?
   a: Oui. Les débutants comme les profils expérimentés sont les bienvenus. La motivation et l’énergie priment.
-- q: Combien d’heures par semaine ?
+- q: Combien d’heures par semaine ?
   a: 32 à 36 heures par semaine, à notre siège de Veghel (Pays-Bas).
-- q: Quelles langues faut-il parler ?
+- q: Quelles langues faut-il parler ?
   a: Le néerlandais et l’anglais, à l’oral et à l’écrit. Vous êtes en contact avec des clients dans toute l’Europe.
-- q: Dois-je écrire une lettre de motivation ?
-  a: Non. Un CV suffit. Vous souhaitez ajouter quelque chose ? Vous pouvez le faire dans le formulaire, en quelques phrases.
+- q: Dois-je écrire une lettre de motivation ?
+  a: Non. Un CV suffit. Vous souhaitez ajouter quelque chose ? Vous pouvez le faire dans le formulaire, en quelques phrases.
 ---

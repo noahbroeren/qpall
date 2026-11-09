@@ -43,7 +43,7 @@ Una **superficie abierta** es más ligera y más económica. La humedad se escur
 ## Paso 5: pies o patines
 
 - **9 pies:** ligero, a menudo encajable y accesible por los cuatro lados con carretilla elevadora y transpaleta. Ideal para la [exportación](@type-export).
-- **3 patines:** estable en el suelo, en transportadores de rodillos y en estanterías para palets.
+- **3 patines:** estable en el suelo y en transportadores de rodillos; en las versiones Medium y Heavy, también en estanterías para palets.
 - **5 o 6 patines:** aún más apoyo y un reparto de la carga más uniforme. Con 6 patines (base perimetral), la parte inferior queda cerrada en todo su contorno.
 
 ¿Quiere un palet encajable que gane estabilidad en destino? Utilice [patines de clic](@acc-runners).

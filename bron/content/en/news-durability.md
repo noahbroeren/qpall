@@ -30,7 +30,7 @@ Our production processes and the material we use fit this way of doing business.
 
 Producing and transporting pallets uses energy. Burning fossil fuels such as coal, oil and gas releases CO₂. This greenhouse gas contributes to global warming.
 
-In the pallet industry, most CO₂ emissions come from transport. A truck full of pallets mainly carries air. That is why we place a pallet’s mould in the factory closest to the customer. This way, the pallets themselves do not have to travel long distances.
+In the pallet industry, most CO₂ emissions come from transport. A truck full of pallets mainly carries air. That is why we place a pallet’s mould as close to the customer as possible. This way, the pallets themselves do not have to travel long distances.
 
 We produce in six factories: in Balk, Ribe, Marktoberdorf, Nantes, Lleida and Chesterfield. Almost every customer is within 600 kilometres of a Q-Pall factory. That saves a lot of kilometres, CO₂ emissions and transport costs. Read more about [local production](@about-local).
 

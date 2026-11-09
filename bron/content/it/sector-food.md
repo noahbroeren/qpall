@@ -8,7 +8,7 @@ lead: "La sicurezza alimentare inizia da una base pulita. I nostri pallet igieni
 recommend: [qph1208hp3rr-cdb, h1-europallet, qph1208hr3r-ecor, qph1210hp3rr-cdg, qp1208mb3rr-cd, qp6040mb4f]
 faq:
   - q: "Un pallet in plastica può entrare in contatto diretto con gli alimenti?"
-    a: "Per il contatto diretto con gli alimenti lo standard è la plastica vergine. Per questo i nostri pallet igienici sono in plastica vergine. Tutti gli altri pallet Q-Pall sono in plastica riciclata e sono adatti se gli alimenti sono confezionati e non poggiano direttamente sul pallet. Vi aiutiamo volentieri a scegliere la versione giusta."
+    a: "Per il contatto diretto con gli alimenti lo standard è la plastica vergine. Per questo i nostri pallet igienici sono in plastica vergine. Tutti gli altri pallet Q-Pall sono in plastica riciclata quasi al 100% e sono adatti se gli alimenti sono confezionati e non poggiano direttamente sul pallet. Vi aiutiamo volentieri a scegliere la versione giusta."
   - q: "I pallet in plastica sono adatti alle celle di congelamento?"
     a: "Sì, i pallet in plastica restano robusti alle basse temperature. Tenete presente che sotto zero la plastica diventa più rigida e più sensibile agli urti violenti. Usate i [distanziatori per congelamento](@acc-freezer) per congelare più velocemente i vostri prodotti."
   - q: "Cos’è un pallet H1?"
@@ -33,11 +33,11 @@ Per un confronto completo, vedete [pallet in plastica o in legno](@guide-wood).
 
 ## Vergine o riciclata?
 
-Per il contatto diretto con gli alimenti utilizzate un pallet in plastica vergine, che non comporta alcun rischio di contaminazione. Per i prodotti confezionati, in cui il pallet non entra in contatto diretto con gli alimenti, i nostri altri pallet in plastica riciclata sono una scelta sostenibile. I nostri [pallet igienici](@type-hygienic) sono in plastica vergine, tutti gli altri pallet Q-Pall in plastica riciclata.
+Per il contatto diretto con gli alimenti utilizzate un pallet in plastica vergine, che non comporta alcun rischio di contaminazione. Per i prodotti confezionati, in cui il pallet non entra in contatto diretto con gli alimenti, i nostri altri pallet in plastica riciclata sono una scelta sostenibile. I nostri [pallet igienici](@type-hygienic) sono in plastica vergine, tutti gli altri pallet Q-Pall in plastica riciclata quasi al 100%.
 
 ## Piano aperto o chiuso?
 
-| | Piano aperto | Piano chiuso |
+| Caratteristica | Piano aperto | Piano chiuso |
 |---|---|---|
 | Pulizia | Possibile, ma lo sporco resta più facilmente nelle aperture | Rapida e accurata |
 | Umidità | Può passare attraverso il piano | Resta sul piano e si risciacqua facilmente |
@@ -48,7 +48,7 @@ Per il contatto diretto con gli alimenti utilizzate un pallet in plastica vergin
 - **Carne e pesce:** i requisiti igienici sono elevati e liquidi come sangue o acqua non devono gocciolare sul carico sottostante. Scegliete un [pallet igienico](@type-hygienic) con piano chiuso.
 - **Farmaceutico:** una superficie liscia, chiusa e non porosa, resistente ai detergenti e ai disinfettanti, con misure fisse per le linee automatizzate. Vedete anche [l’industria farmaceutica](@sector-pharma).
 - **Ambienti umidi**, come reparti di produzione e linee di lavaggio: un piano chiuso che non assorbe acqua e si pulisce rapidamente.
-- **Prodotti confezionati e distribuzione:** qui basta un pallet standard in plastica riciclata, con piano aperto o chiuso.
+- **Prodotti confezionati e distribuzione:** qui basta un pallet standard in plastica riciclata quasi al 100%, con piano aperto o chiuso.
 
 ## HACCP
 

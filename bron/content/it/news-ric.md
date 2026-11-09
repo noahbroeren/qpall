@@ -12,8 +12,8 @@ reading: 4
 faq:
 - q: "Cosa significano i numeri da 1 a 7 nel triangolo di riciclo?"
   a: "Il numero è il codice di identificazione della resina (RIC). Indica di quale plastica è fatto un prodotto: 1 è il PET, 2 l’HDPE, 3 il PVC, 4 l’LDPE, 5 il PP, 6 il PS, mentre il 7 indica le altre plastiche e le combinazioni di materiali."
-- q: "Quali sono i tipi di plastica e quali possono essere riciclati?"
-  a: "Sei plastiche comuni hanno un proprio codice e il codice 7 raggruppa tutte le altre. PET (1), HDPE (2) e PP (5) si riciclano bene e sono raccolti ovunque in grandi quantità. PVC (3), PS (6) e le altre plastiche (7) vengono riciclati molto meno."
+- q: "Tutte le plastiche sono riciclabili?"
+  a: "No. PET (1), HDPE (2) e PP (5) si riciclano bene e vengono raccolti in grandi quantità. PVC (3), PS (6) e le altre plastiche (7) vengono riciclati molto meno. Se un prodotto viene davvero riciclato dipende anche dalla sua composizione e dalla raccolta nella vostra zona."
 - q: "Il triangolo di riciclo significa che il prodotto è in plastica riciclata?"
   a: "No. Il triangolo con il numero indica solo di quale plastica si tratta. Se c’è scritto anche «riciclato», o per esempio «rHDPE», allora il prodotto è fatto di materiale riciclato."
 - q: "Di quale plastica sono fatti i pallet Q-Pall?"
@@ -27,7 +27,7 @@ updated: '2026-11-02'
 > * Il codice aiuta la selezione e il riciclo. Non significa che il prodotto sia già riciclato.
 > * PET (1), HDPE (2) e PP (5) si riciclano bene. PVC (3), PS (6) e il codice 7 molto meno.
 > * Il riciclo effettivo dipende anche dalla composizione, dalla domanda di materiale riciclato e dalla raccolta.
-> * I nostri pallet standard sono realizzati in plastica riciclata: una miscela di HDPE (2) e PP (5).
+> * I nostri pallet standard sono realizzati in plastica riciclata quasi al 100%: una miscela di HDPE (2) e PP (5).
 
 ## Cosa sono i codici di identificazione delle resine?
 

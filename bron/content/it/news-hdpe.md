@@ -21,7 +21,7 @@ faq:
 - q: Che differenza c’è tra HDPE (2) e LDPE (4)?
   a: "Sono entrambi polietilene. L’HDPE ha una densità maggiore ed è quindi più rigido e resistente: si usa per flaconi, cassette e pallet. L’LDPE è più morbido e si usa soprattutto per film e sacchetti."
 - q: Di cosa sono fatti i pallet Q-Pall?
-  a: "I nostri pallet standard sono realizzati in plastica riciclata, una miscela di HDPE e PP. Solo i nostri pallet igienici sono in plastica vergine. I nostri pallet in plastica riciclata non sono destinati al contatto diretto con gli alimenti. Cercate un pallet per il contatto diretto con gli alimenti? Contattateci, saremo lieti di consigliarvi."
+  a: "I nostri pallet standard sono realizzati in plastica riciclata quasi al 100%, una miscela di HDPE e PP (nei pallet Light anche LDPE). Solo i nostri pallet igienici sono in plastica vergine. I nostri pallet in plastica riciclata non sono destinati al contatto diretto con gli alimenti. Cercate un pallet per il contatto diretto con gli alimenti? Contattateci, saremo lieti di consigliarvi."
 published: '2025-02-12'
 updated: '2026-10-19'
 ---
@@ -31,7 +31,7 @@ updated: '2026-10-19'
 > * Il numero nel triangolo indica di quale plastica si tratta. Non significa che il prodotto sia già riciclato.
 > * L’HDPE è resistente e leggero, non assorbe l’umidità e resiste a molte sostanze chimiche.
 > * È una delle plastiche più riciclabili. In casa va nella **raccolta della plastica**.
-> * I nostri pallet standard sono realizzati in plastica riciclata, una miscela di HDPE e PP.
+> * I nostri pallet standard sono realizzati in plastica riciclata quasi al 100%, una miscela di HDPE e PP (nei pallet Light anche LDPE).
 
 ## Cosa significa HDPE 2 o PE-HD 2?
 
@@ -107,12 +107,12 @@ Con questi granuli si producono nuovi oggetti. L’HDPE può essere riciclato pi
 
 ## HDPE riciclato nei pallet in plastica
 
-I nostri pallet standard sono realizzati in plastica riciclata: una miscela di HDPE e PP proveniente da flussi di rifiuti come cassette, tappi e imballaggi. Lavorare con il riciclato richiede molta esperienza, perché si comporta in modo diverso dalla plastica nuova. Questa esperienza la costruiamo dal 2005.
+I nostri pallet standard sono realizzati in plastica riciclata quasi al 100%: una miscela di HDPE e PP (nei pallet Light anche LDPE) proveniente da flussi di rifiuti come cassette, tappi e imballaggi. Lavorare con il riciclato richiede molta esperienza, perché si comporta in modo diverso dalla plastica nuova. Questa esperienza la costruiamo dal 2005.
 
 Cosa significa per voi:
 
 * **Lunga durata.** Un pallet in plastica dura molti anni, molto più di un pallet in legno medio.
-* **Pulito e costante.** Niente schegge, niente umidità, e ogni pallet ha lo stesso peso e le stesse misure.
+* **Pulito e costante.** Niente schegge, niente umidità, e ogni pallet ha quasi lo stesso peso e le stesse misure.
 * **Niente ISPM 15.** All’esportazione i pallet in plastica non sono soggetti alle regole per gli [imballaggi in legno](@guide-ispm).
 * **Ciclo chiuso.** A fine vita macinamo il pallet per trasformarlo di nuovo in materia prima.
 

@@ -12,7 +12,7 @@ faq:
   - q: "Quanti pallet vuoti entrano in un container?"
     a: "In un container da 20 piedi entrano da 140 a 154 europallet con slitte, o 451 europallet incastrabili. In un container da 40 piedi high cube sono da 320 a 391, o 1.081 incastrabili. I numeri per gli altri formati sono nella tabella dei carichi standard."
   - q: "Quanto è preciso il calcolatore di carico?"
-    a: "Il risultato è un'indicazione basata sulle misure standard del vano di carico e dei pallet. Per un piano di carico esatto o un prezzo trasporto incluso, [richiedete un preventivo](@quote)."
+    a: "Il risultato è un’indicazione basata sulle misure standard del vano di carico e dei pallet. Per un piano di carico esatto o un prezzo trasporto incluso, [richiedete un preventivo](@quote)."
 ---
 ## Quanti pallet entrano in un camion?
 
@@ -25,11 +25,11 @@ Il calcolatore lavora con pallet vuoti, come li consegna Q-Pall. La tabella qui 
 
 ## Incastrabile o impilabile
 
-I pallet incastrabili (Light, su 9 piedi) si infilano uno nell'altro. Per questo in un camion ne entrano quasi tre volte tanti rispetto ai pallet con slitte. I pallet con slitte o piedi vengono impilati uno sopra l'altro, fino all'altezza massima di impilamento del modello.
+I pallet incastrabili (Light, su 9 piedi) si infilano uno nell’altro. Per questo in un camion ne entrano quasi tre volte tanti rispetto ai pallet con slitte. I pallet con slitte o piedi vengono impilati uno sopra l’altro, fino all’altezza massima di impilamento del modello.
 
 ## Camion, mega trailer o container
 
-Un mega trailer è lungo quanto un camion standard (13,6 m), ma all'interno è alto 3 m invece di 2,65 m. Con i pallet impilati ne entrano quindi fino a poco più del 20% in più. Un container marittimo è più stretto e più basso di un camion. Per gli europallet, un container da 20 piedi contiene circa un terzo di un carico di camion e un container da 40 piedi high cube circa tre quarti. I pallet quadrati da 1200 x 1200 mm in un container entrano solo uno in larghezza, quindi lì la differenza è maggiore.
+Un mega trailer è lungo quanto un camion standard (13,6 m), ma all’interno è alto 3 m invece di 2,65 m. Con i pallet impilati ne entrano quindi fino a poco più del 20% in più. Un container marittimo è più stretto e più basso di un camion. Per gli europallet, un container da 20 piedi contiene circa un terzo di un carico di camion e un container da 40 piedi high cube circa tre quarti. I pallet quadrati da 1200 x 1200 mm in un container entrano solo uno in larghezza, quindi lì la differenza è maggiore.
 
 ## Come funziona il calcolatore di carico
 
@@ -40,7 +40,7 @@ Un mega trailer è lungo quanto un camion standard (13,6 m), ma all'interno è a
 
 ## Buono a sapersi
 
-- Il risultato è un'indicazione basata su misure standard.
+- Il risultato è un’indicazione basata su misure standard.
 - Il calcolatore tiene un margine di 0,1 m in lunghezza e in altezza del vano di carico. Non in larghezza: altrimenti tre europallet non entrerebbero più affiancati.
 - Il vano di carico è già in parte occupato? Indicate allora la percentuale ancora disponibile.
 - Ogni pagina prodotto mostra anche il carico standard del modello.

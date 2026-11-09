@@ -11,7 +11,7 @@ img_alt: "Containerterminal mit Güterzug und Lichtlinien, die digitale Datenstr
 reading: 3
 faq:
 - q: "Sind Kunststoffpaletten leichter als Holzpaletten?"
-  a: "Oft ja, aber das hängt vom Typ ab. Light-Paletten sind deutlich leichter als Holz. Eine Heavy-Kunststoffpalette wiegt 17 bis 28 kg, eine Europalette aus Holz rund 25 kg."
+  a: "Oft ja, aber das hängt vom Typ ab. Light-Paletten sind deutlich leichter als Holz. Eine Heavy-Kunststoffpalette wiegt ca. 17 bis 29 kg, eine Europalette aus Holz rund 25 kg."
 - q: "Brauchen Kunststoffpaletten für den Export ISPM 15?"
   a: "Nein. ISPM 15 gilt nur für Verpackungen aus Massivholz. Kunststoffpaletten brauchen weder Hitzebehandlung noch Stempel."
 - q: "Was passiert mit Kunststoffpaletten am Ende ihrer Lebensdauer?"
@@ -60,7 +60,7 @@ Q-Pall stellt seit 2005 ausschließlich Kunststoffpaletten her. Das ist unser An
 
 * **Recyceltes Material.** Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE und PP. Mehr über unseren Ansatz auf der Seite [Nachhaltigkeit](@about-sustainability).
 * **Lokal produziert.** Wir fertigen unsere Paletten in sechs Werken in Europa, nah bei unseren Kunden.
-* **Breites Sortiment.** Rund 130 Modelle in neun Formaten und drei Klassen: Light, Medium und Heavy.
+* **Breites Sortiment.** Rund 130 Ausführungen in neun Formaten und drei Klassen: Light, Medium und Heavy.
 * **Individuelle Anpassungen.** Bestehende Modelle passen wir zum Beispiel mit Ihrem Logo, einer eigenen Farbe oder einer Markierung an.
 * **Engagierter Service.** Von der ersten Beratung bis zur Lieferung denken wir mit.
 

@@ -1,11 +1,11 @@
 ---
 id: news-auchan
-title: "Auchan zet 50.000 slimme Q-Pall pallets in met IBM – Q-Pall"
+title: "Auchan zette 50.000 slimme pallets in met IBM – Q-Pall"
 description: "Retailer Auchan rolde in heel Frankrijk 50.000 slimme heavy duty europallets van Q-Pall uit, met IoT van IBM: locatie, temperatuur en schokken in beeld."
 eyebrow: "Nieuws"
 tag: "Klantcase"
 crumb: "Auchan zet slimme pallets in"
-h1: "Auchan zet **50.000 slimme Q-Pall pallets** in, samen met IBM"
+h1: "Auchan zette **50.000 slimme Q-Pall pallets** in, samen met IBM"
 lead: "Vanaf eind 2025 rolde retailer Auchan in heel Frankrijk 50.000 slimme heavy duty europallets van gerecycled kunststof uit. Met IoT-technologie van IBM werd elke pallet een bron van data over de keten."
 img_alt: "Gezin met winkelwagen in een supermarktgangpad"
 reading: 2
@@ -16,7 +16,7 @@ updated: '2026-11-02'
 >
 > * Retailer Auchan zette 50.000 slimme heavy duty europallets van Q-Pall in, verspreid over heel Frankrijk.
 > * De pallets zijn van gerecycled kunststof en uitgerust met IoT-technologie van IBM.
-> * Ze meten locatie, temperatuur en schokken, en slaan alarm bij afwijkingen.
+> * Ze maten locatie, temperatuur en schokken, en sloegen alarm bij afwijkingen.
 > * Aan de uitrol ging een pilot met 10.000 pallets in twee magazijnen vooraf.
 > * Geschatte besparing: 21.328 ton CO₂ in acht jaar.
 

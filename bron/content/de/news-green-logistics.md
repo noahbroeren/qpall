@@ -13,7 +13,7 @@ faq:
 - q: "Was ist grüne Logistik?"
   a: "Grüne Logistik (Green Logistics) ist Logistik mit möglichst geringer Umweltwirkung: weniger Emissionen, weniger Abfall und effizienterer Einsatz von Ressourcen. Auch die Wahl der Paletten spielt dabei eine Rolle."
 - q: "Sind Kunststoffpaletten leichter als Holzpaletten?"
-  a: "Oft ja, je nach Typ. Light-Paletten sind viel leichter als Holz. Heavy-Paletten wiegen 17 bis 28 kg, also etwa so viel wie eine Europalette aus Holz mit rund 25 kg."
+  a: "Oft ja, je nach Typ. Light-Paletten sind viel leichter als Holz. Heavy-Paletten wiegen ca. 17 bis 29 kg, also etwa so viel wie eine Europalette aus Holz mit rund 25 kg."
 - q: "Wie trägt lokale Produktion zur grünen Logistik bei?"
   a: "In der Palettenbranche entsteht der größte Teil der CO₂-Emissionen durch den Transport. Wir produzieren in sechs europäischen Werken, sodass fast jeder Kunde im Umkreis von 600 Kilometern um ein Werk liegt."
 published: '2023-09-11'
@@ -37,7 +37,7 @@ Ein Element, das dabei oft übersehen wird, ist die Wahl der Paletten. Kunststof
 
 Kunststoffpaletten sind oft leichter als Holzpaletten, je nach Typ. Vor allem [Light-Paletten](@class-light) wiegen deutlich weniger. Ein geringeres Eigengewicht bedeutet mehr Ladung pro Fahrt und weniger Kraftstoff, und damit weniger Emissionen.
 
-Bei schweren Anwendungen ist der Unterschied kleiner. Eine Heavy-Kunststoffpalette wiegt 17 bis 28 kg, eine Europalette aus Holz rund 25 kg. Der Vorteil liegt dann vor allem in der langen Lebensdauer und dem konstanten Gewicht, denn Kunststoff nimmt keine Feuchtigkeit auf.
+Bei schweren Anwendungen ist der Unterschied kleiner. Eine Heavy-Kunststoffpalette wiegt ca. 17 bis 29 kg, eine Europalette aus Holz rund 25 kg. Der Vorteil liegt dann vor allem in der langen Lebensdauer und dem konstanten Gewicht, denn Kunststoff nimmt keine Feuchtigkeit auf.
 
 ## Langlebig und wiederverwendbar
 

@@ -17,7 +17,7 @@ Alcune parti del sito vengono caricate da un servizio esterno. Questi servizi po
 
 | Servizio | Dove | Scopo |
 |---|---|---|
-| SimplyBook | [Registra un trasporto](@transport) | Prenotazione di una fascia oraria per il carico o lo scarico |
+| SimplyBook | [Registrazione trasporti](@transport) | Prenotazione di una fascia oraria per il carico o lo scarico |
 | Mach3 Locator | [Rivenditori internazionali](@dealers) | Mappa interattiva dei rivenditori |
 
 ## Statistiche e marketing

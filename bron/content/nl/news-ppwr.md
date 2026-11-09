@@ -74,7 +74,7 @@ Voor palletstromen binnen de EU wordt hergebruik de norm. Denk aan pallets die r
 
 ### Eenmalige pallets en export
 
-Niet elke pallet komt terug. Voor zendingen buiten de EU kiezen veel bedrijven een lichte [exportpallet](@type-export) die bij de ontvanger blijft. Zo'n eenmalige pallet telt niet mee voor het hergebruikdoel. De eisen voor recyclebaarheid gelden wel. Onze exportpallets zijn van gerecycled kunststof en aan het einde van hun leven volledig recyclebaar.
+Niet elke pallet komt terug. Voor zendingen buiten de EU kiezen veel bedrijven een lichte [exportpallet](@type-export) die bij de ontvanger blijft. Zo'n eenmalige pallet telt niet mee voor het hergebruikdoel. De eisen voor recyclebaarheid gelden wel. Onze exportpallets zijn van bijna 100% gerecycled kunststof en aan het einde van hun leven volledig recyclebaar.
 
 ### Houten pallets
 

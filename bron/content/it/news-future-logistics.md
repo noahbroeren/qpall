@@ -11,7 +11,7 @@ img_alt: "Terminal container con un treno merci e scie luminose che rappresentan
 reading: 3
 faq:
 - q: "I pallet in plastica sono più leggeri dei pallet in legno?"
-  a: "Spesso sì, ma dipende dal tipo. I pallet Light sono molto più leggeri del legno. Un pallet in plastica Heavy pesa da 17 a 28 kg, contro i circa 25 kg di un europallet in legno."
+  a: "Spesso sì, ma dipende dal tipo. I pallet Light sono molto più leggeri del legno. Un pallet in plastica Heavy pesa da circa 17 a 29 kg, contro i circa 25 kg di un europallet in legno."
 - q: "I pallet in plastica hanno bisogno dell’ISPM 15 per l’esportazione?"
   a: "No. L’ISPM 15 vale solo per gli imballaggi in legno massiccio. I pallet in plastica non richiedono trattamento termico né timbro."
 - q: "Cosa succede ai pallet in plastica a fine vita?"
@@ -60,7 +60,7 @@ Dal 2005 Q-Pall produce esclusivamente pallet in plastica. Ecco il nostro approc
 
 * **Materiale riciclato.** Produciamo i nostri pallet standard con plastica riciclata quasi al 100%, una miscela di HDPE e PP. Scoprite di più sul nostro approccio nella pagina [sostenibilità](@about-sustainability).
 * **Produzione locale.** Produciamo i nostri pallet in sei stabilimenti in Europa, vicino ai nostri clienti.
-* **Un’ampia gamma.** Circa 130 modelli in nove formati e tre classi: Light, Medium e Heavy.
+* **Un’ampia gamma.** Circa 130 versioni in nove formati e tre classi: Light, Medium e Heavy.
 * **Personalizzazione.** Adattiamo i modelli esistenti, per esempio con il vostro logo, un colore dedicato o una marcatura.
 * **Un servizio attento.** Dalla prima consulenza alla consegna, lavoriamo insieme a voi.
 

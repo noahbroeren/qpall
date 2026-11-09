@@ -15,7 +15,7 @@ faq:
 - q: "¿Son difíciles de reciclar los palets de plástico con código 7?"
   a: "A menudo sí. Muchas empresas de reciclaje no están preparadas para estos «otros» plásticos. Por eso, pregunte siempre por la composición y por lo que ocurre con el palet al final de su vida útil."
 - q: "¿De qué están hechos los palets de Q-Pall?"
-  a: "Nuestros palets estándar son de plástico reciclado, una mezcla de HDPE (2) y PP (5). Solo nuestros palets higiénicos, palets H1 y palets para sala blanca son de plástico virgen. Al final de su vida útil, nuestros palets son totalmente reciclables."
+  a: "Nuestros palets estándar son de plástico casi 100% reciclado, una mezcla de HDPE (2) y PP (5), y en los palets Light también LDPE (4). Solo nuestros palets higiénicos, palets H1 y palets para sala blanca son de plástico virgen. Al final de su vida útil, nuestros palets son totalmente reciclables."
 published: '2023-10-09'
 updated: '2026-11-02'
 ---
@@ -66,7 +66,7 @@ Cuanto antes lo tenga en cuenta, menos sorpresas tendrá después. Encontrará m
 
 ## ¿Con qué fabricamos nuestros palets?
 
-Fabricamos nuestros palets estándar con plástico reciclado casi al 100%: una mezcla de HDPE (código 2) y PP (código 5). Nuestros palets Light contienen además LDPE (código 4). Todos son poliolefinas, plásticos que se comportan de forma similar en el reciclaje.
+Fabricamos nuestros palets estándar con plástico casi 100% reciclado: una mezcla de HDPE (código 2) y PP (código 5). Nuestros palets Light contienen además LDPE (código 4). Todos son poliolefinas, plásticos que se comportan de forma similar en el reciclaje.
 
 Al final de su vida útil, nuestros palets son totalmente reciclables. Los recogemos y los trituramos para convertirlos en materia prima para nuevos palets. Los palets usados en buen estado tienen una segunda vida gracias a Q-Used.
 

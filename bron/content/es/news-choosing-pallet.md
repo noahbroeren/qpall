@@ -22,7 +22,7 @@ updated: '2026-11-02'
 >
 > * Empiece por la carga: estática, dinámica y en estantería.
 > * La medida depende de su mercancía y de sus estanterías, camiones y contenedores.
-> * Nuestros palets estándar son de plástico reciclado; para el contacto directo con alimentos hay palets de plástico virgen.
+> * Nuestros palets estándar son de plástico casi 100% reciclado; para el contacto directo con alimentos hay palets de plástico virgen.
 > * Los palets encajables ahorran espacio en el almacenamiento y en el transporte de retorno.
 > * Fíjese en el coste durante toda la vida útil, no solo en el precio de compra.
 
@@ -42,13 +42,13 @@ Nuestros palets se dividen en tres clases de carga. Los palets Light son ligeros
 
 ## Las medidas: ¿el palet se adapta a la carga y al transporte?
 
-El palet debe ser lo bastante grande para soportar bien la carga y transportarla con seguridad. Sus medios de transporte y sus estanterías también determinan la medida: los palets tienen que caber en su camión, remolque o contenedor. En Europa, el estándar es 1200 x 800 mm. Nuestra gama incluye unos 130 modelos en nueve formatos, de 600 x 400 a 1300 x 1100 mm. En nuestro resumen de [medidas de palets](@guide-sizes) los encontrará todos.
+El palet debe ser lo bastante grande para soportar bien la carga y transportarla con seguridad. Sus medios de transporte y sus estanterías también determinan la medida: los palets tienen que caber en su camión, remolque o contenedor. En Europa, el estándar es 1200 x 800 mm. Nuestra gama incluye unas 130 versiones en nueve formatos, de 600 x 400 a 1300 x 1100 mm. En nuestro resumen de [medidas de palets](@guide-sizes) los encontrará todos.
 
 ## Material y peso
 
-No todos los palets de plástico están hechos del mismo material. Fabricamos nuestros palets estándar con plástico reciclado, una mezcla de HDPE y PP. Nuestros palets higiénicos, palets H1 y palets para salas blancas son de plástico virgen (nuevo), en un color propio. Los palets de plástico reciclado no están destinados al contacto directo con alimentos.
+No todos los palets de plástico están hechos del mismo material. Fabricamos nuestros palets estándar con plástico casi 100% reciclado, una mezcla de HDPE y PP. Nuestros palets higiénicos, palets H1 y palets para salas blancas son de plástico virgen (nuevo), en un color propio. Los palets de plástico reciclado no están destinados al contacto directo con alimentos.
 
-Los palets de plástico suelen ser más ligeros que los de madera, aunque depende del tipo. Un palet Light es mucho más ligero que un europalet de madera de unos 25 kg. Un palet Heavy pesa entre 17 y 28 kg.
+Los palets de plástico suelen ser más ligeros que los de madera, aunque depende del tipo. Un palet Light es mucho más ligero que un europalet de madera de unos 25 kg. Un palet Heavy pesa aproximadamente entre 17 y 29 kg.
 
 ## La encajabilidad: ahorrar espacio
 
@@ -66,6 +66,6 @@ El precio depende de la medida, la versión, el material y la cantidad. Los pale
 
 ## El medio ambiente
 
-La sostenibilidad es cada vez más importante para muchas empresas. Nuestros palets estándar están fabricados con plástico reciclado casi al 100%. Al final de su vida útil son totalmente reciclables: los recogemos y los trituramos para obtener materia prima para nuevos palets.
+La sostenibilidad es cada vez más importante para muchas empresas. Nuestros palets estándar están fabricados con plástico casi 100% reciclado. Al final de su vida útil son totalmente reciclables: los recogemos y los trituramos para obtener materia prima para nuevos palets.
 
 ¿No está seguro de qué palet se adapta mejor a su carga y a su proceso? Cuéntenos qué transporta, cómo lo almacena y cuántos palets necesita. [Solicite un presupuesto](@quote) y normalmente recibirá un precio a medida en un día laborable.

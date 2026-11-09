@@ -57,7 +57,7 @@ In het bovendek van een antislip pallet zitten stroken van een rubberachtig mate
 
 ## Antislip pallets van Q-Pall
 
-Antislip pallets zijn bij ons standaard leverbaar. De nieuwe generatie [medium antislip pallets](@type-antislip) heeft een gesloten bovendek met geïntegreerde antislipstroken:
+Antislip pallets zijn bij ons standaard leverbaar. De [medium antislip pallets](@type-antislip) die we eind 2025 introduceerden, hebben een gesloten bovendek met geïntegreerde antislipstroken:
 
 * **1200 x 800 mm** op 3 onderlatten.
 * **1200 x 1000 mm** op 3 of 5 onderlatten.

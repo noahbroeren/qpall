@@ -1,7 +1,7 @@
 ---
 id: pallets
 title: "Kunststof pallets kopen vanaf [[from_price]] - Q-Pall"
-description: "Kunststof pallets direct van de fabrikant: zo'n 130 modellen, light tot heavy. Vanaf [[from_price]] excl. btw en transport. Vraag vrijblijvend een offerte aan."
+description: "Kunststof pallets direct van de fabrikant: zo'n 130 uitvoeringen, light tot heavy. Vanaf [[from_price]] excl. btw en transport. Vraag vrijblijvend een offerte aan."
 eyebrow: "Assortiment"
 h1: "Kunststof pallets **direct van de fabrikant**"
 lead: "Van lichte nestbare exportpallet tot zware stellingpallet tot 2.000 kg. Filter op afmeting, draagvermogen en uitvoering. Bij elk model ziet u de volledige specificaties en, waar beschikbaar, een vanafprijs."
@@ -11,7 +11,7 @@ faq:
   - q: "Wat is het verschil tussen light, medium en heavy?"
     a: "Light pallets zijn licht en vaak nestbaar, bedoeld voor export en eenmalig gebruik op de vloer. Medium pallets zijn de allrounders voor intern transport en lichte stellingbelasting. Heavy pallets hebben een zwaardere constructie voor intensief gebruik, hoge dynamische lasten en opslag in palletstellingen. Lees meer over [light](@class-light), [medium](@class-medium) en [heavy](@class-heavy)."
   - q: "Zijn de pallets van gerecycled kunststof?"
-    a: "Ja. Onze standaardpallets maken we van gerecycled kunststof, een mix van HDPE en PP. Alleen onze hygiënische pallets zijn van virgin kunststof. Meer hierover leest u op de pagina [duurzaamheid](@about-sustainability)."
+    a: "Ja. Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE en PP (in light pallets ook LDPE). Alleen onze hygiënische pallets zijn van virgin kunststof. Meer hierover leest u op de pagina [duurzaamheid](@about-sustainability)."
   - q: "Wat kost een kunststof pallet?"
     a: "Bij de meeste standaardpallets tonen we een indicatieve vanafprijs per stuk, exclusief btw en transport. Uw uiteindelijke prijs hangt af van aantal, productielocatie en levering. Een overzicht van prijzen per formaat vindt u in onze [prijsgids voor kunststof pallets](@guide-prices)."
   - q: "Kan ik één pallet bestellen?"
@@ -41,7 +41,7 @@ why:
 
 ## Kunststof pallets voor elke toepassing
 
-Q-Pall ontwikkelt en produceert alleen kunststof pallets, al sinds 2005. Die focus ziet u terug in het assortiment: zo'n 130 modellen in negen formaten, van de compacte [displaypallet van 600 x 400 mm](@size-600x400) tot de grote [1300 x 1100 mm voor de chemie](@size-1300x1100). Elk model is ontworpen voor een duidelijke taak: transport, opslag, export, pooling of geautomatiseerde logistiek.
+Q-Pall ontwikkelt en produceert alleen kunststof pallets, al sinds 2005. Die focus ziet u terug in het assortiment: zo'n 130 uitvoeringen in negen formaten, van de compacte [displaypallet van 600 x 400 mm](@size-600x400) tot de grote [1300 x 1100 mm voor de chemie](@size-1300x1100). Elk model is ontworpen voor een duidelijke taak: transport, opslag, export, pooling of geautomatiseerde logistiek.
 
 ### Kies eerst op afmeting
 
@@ -53,6 +53,6 @@ Elke pallet heeft drie belastingwaarden: statisch (op de vloer), dynamisch (tijd
 
 ### Open of gesloten dek, pootjes of onderlatten
 
-Een **open dek** is lichter en laat vocht en lucht door. Een **gesloten dek** is makkelijker te reinigen en geeft kleine verpakkingen een vlakke ondergrond. Pallets met **9 pootjes** zijn vaak nestbaar en ideaal voor export. Pallets met **3, 5 of 6 onderlatten** zijn stabieler op rollenbanen en geschikt voor stellingen.
+Een **open dek** is lichter en laat vocht en lucht door. Een **gesloten dek** is makkelijker te reinigen en geeft kleine verpakkingen een vlakke ondergrond. Pallets met **9 pootjes** zijn vaak nestbaar en ideaal voor export. Pallets met **3, 5 of 6 onderlatten** zijn stabieler op rollenbanen; in medium- en heavy uitvoering zijn ze ook geschikt voor stellingen.
 
 Liever alles op papier? In de [productcatalogus](@catalog) staat ons standaardassortiment met maten en belastingwaarden, als pdf om te downloaden.

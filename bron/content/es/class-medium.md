@@ -4,7 +4,7 @@ title: "Palets de plástico Medium – el todoterreno – Q-Pall"
 description: "Palets de plástico Medium: el todoterreno para transporte interno, distribución y estantería hasta 1.375 kg. Abiertos o cerrados, también antideslizantes."
 eyebrow: "Clase de carga Medium"
 h1: "Palets de plástico **Medium**"
-lead: "La mejor relación calidad-precio para el uso diario en almacén, producción y distribución. Hay [[count]] modelos Medium en siete medidas."
+lead: "La mejor relación calidad-precio para el uso diario en almacén, producción y distribución. Hay [[count]] versiones Medium en siete medidas."
 faq:
   - q: "¿Cuánto soporta un palet de plástico Medium?"
     a: "Los palets Medium soportan de 5.000 a 7.500 kg en estática y de 1.250 a 1.500 kg en dinámica. En estantería para palets, el valor oscila entre 200 kg y 1.375 kg, según el modelo. Los palets expositores Medium soportan menos."
@@ -22,7 +22,7 @@ Los palets Medium son los todoterreno de nuestra gama. Son más robustos que los
 
 - **Superficie abierta:** ligera, la humedad escurre y el aire circula alrededor de la carga.
 - **Superficie cerrada:** plana y fácil de limpiar. Buena para envases pequeños.
-- **Antideslizante:** la nueva generación de palets Medium tiene una superficie antideslizante integrada. Vea [palets antideslizantes](@type-antislip).
+- **Antideslizante:** desde finales de 2025 hay palets Medium con una superficie antideslizante integrada. Vea [palets antideslizantes](@type-antislip).
 - **3, 5 o 6 patines:** más patines dan más apoyo en el suelo y en los transportadores de rodillos.
 
 ## Medidas

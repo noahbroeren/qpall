@@ -74,7 +74,7 @@ Per i flussi di pallet all’interno dell’UE il riutilizzo diventa la regola. 
 
 ### Pallet monouso ed esportazione
 
-Non tutti i pallet tornano indietro. Per le spedizioni fuori dall’UE molte aziende scelgono un leggero [pallet da esportazione](@type-export) che resta al destinatario. Un pallet monouso di questo tipo non conta per l’obiettivo di riutilizzo. I requisiti di riciclabilità però valgono. I nostri pallet da esportazione sono in plastica riciclata e a fine vita sono completamente riciclabili.
+Non tutti i pallet tornano indietro. Per le spedizioni fuori dall’UE molte aziende scelgono un leggero [pallet da esportazione](@type-export) che resta al destinatario. Un pallet monouso di questo tipo non conta per l’obiettivo di riutilizzo. I requisiti di riciclabilità però valgono. I nostri pallet da esportazione sono in plastica riciclata quasi al 100% e a fine vita sono completamente riciclabili.
 
 ### Pallet in legno
 

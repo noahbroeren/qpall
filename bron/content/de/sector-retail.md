@@ -21,7 +21,7 @@ Händler suchen eine Logistik, die zugleich effizient und nachhaltig ist. Palett
 
 ## Warum Kunststoffpaletten?
 
-- **Aus recyceltem Kunststoff**, mit geringerem Materialeinsatz.
+- **Aus fast 100 % recyceltem Kunststoff**, mit geringerem Materialeinsatz.
 - **Geringeres Gewicht:** weniger Kraftstoff und niedrigere Transportkosten.
 - **Leicht zu reinigen** und feuchtigkeitsbeständig.
 - **Geeignet für Automatisierung** und Lagerroboter.
@@ -30,7 +30,7 @@ Händler suchen eine Logistik, die zugleich effizient und nachhaltig ist. Palett
 
 ## Intelligente Paletten mit Auchan und IBM
 
-Gemeinsam mit IBM Consulting haben wir für den französischen Händler Auchan eine intelligente, grüne Palette entwickelt. 50.000 Europaletten aus Kunststoff können ihren Standort, ihre Temperatur und Stöße melden. Das verschafft Auchan mehr Einblick in die Kette und verringert die Lebensmittelverschwendung. Eine Palette ist nicht mehr nur ein Ladungsträger, sondern eine Datenquelle.
+Gemeinsam mit IBM Consulting haben wir für den französischen Händler Auchan eine intelligente, grüne Palette entwickelt. 50.000 Europaletten aus Kunststoff meldeten ihren Standort, ihre Temperatur und Stöße. Das verschaffte Auchan mehr Einblick in die Kette und verringerte die Lebensmittelverschwendung. Eine Palette ist nicht mehr nur ein Ladungsträger, sondern eine Datenquelle.
 
 ## Unsere empfohlenen Paletten
 

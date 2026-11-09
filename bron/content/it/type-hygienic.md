@@ -11,7 +11,7 @@ faq:
   - q: "Che cos’è un pallet H1?"
     a: "Il pallet H1 è un pallet in plastica in formato europallet, sviluppato originariamente come pallet per pooling per l’industria della carne. Oggi lo utilizza l’intera industria alimentare. Il nostro europallet H1 ha un piano aperto su 3 slitte."
   - q: "I pallet igienici sono in plastica vergine o riciclata?"
-    a: "I nostri pallet igienici sono realizzati in plastica vergine, la norma per il contatto diretto con gli alimenti. Tutti gli altri pallet Q-Pall sono realizzati in plastica riciclata: una scelta sostenibile per i prodotti confezionati, in cui il pallet non entra in contatto diretto con gli alimenti. Saremo lieti di consigliarvi la scelta giusta."
+    a: "I nostri pallet igienici sono realizzati in plastica vergine, la norma per il contatto diretto con gli alimenti. Tutti gli altri pallet Q-Pall sono realizzati in plastica riciclata quasi al 100%: una scelta sostenibile per i prodotti confezionati, in cui il pallet non entra in contatto diretto con gli alimenti. Saremo lieti di consigliarvi la scelta giusta."
   - q: "Posso lavare i pallet igienici in una lavapallet o in un tunnel di lavaggio?"
     a: "I pallet in plastica resistono al lavaggio con acqua, alta pressione e detergenti. Chiedeteci la temperatura massima e i detergenti adatti al modello che scegliete."
 ---
@@ -22,7 +22,7 @@ Nell’industria alimentare, nel settore farmaceutico e nelle camere bianche, un
 
 ## La gamma
 
-- **Pallet igienici 1200 x 800 mm:** piano chiuso o aperto su 3 slitte, 7.500 kg in statica e fino a 1.750 kg su scaffale.
+- **Pallet igienici 1200 x 800 mm:** piano chiuso o aperto su 3 slitte, portata statica di 7.500 kg e su scaffale fino a 1.750 kg.
 - **Europallet H1:** il noto pallet dell’industria della carne, con piano aperto su 3 slitte.
 - **Pallet igienici 1200 x 1000 mm:** piano chiuso su 3 slitte, portata su scaffale fino a 2.000 kg.
 - **Pallet per camera bianca:** pallet con piano chiuso su 3 o 5 slitte per camere bianche e altri ambienti controllati.

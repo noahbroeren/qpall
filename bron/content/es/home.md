@@ -5,7 +5,7 @@ description: "Q-Pall diseña palets de plástico reciclado que se fabrican cerca
 hero:
   eyebrow: "Fabricante de palets sostenibles desde 2005"
   h1: "Palets reutilizables de **plástico reciclado**"
-  lead: "Unos 130 modelos de palets de plástico, desde palets de exportación encajables hasta palets para estantería de uso intensivo. Producidos en seis fábricas europeas, nunca lejos de usted."
+  lead: "Unas 130 versiones de palets de plástico, desde palets de exportación encajables hasta palets para estantería de uso intensivo. Producidos en seis fábricas europeas, nunca lejos de usted."
   cta1: "Ver todos los palets de plástico"
   cta2: "Solicitar presupuesto"
   badge: "Palets Medium antideslizantes"
@@ -40,11 +40,11 @@ intro:
   strike: ["Cajas.", "Cubetas.", "Contenedores."]
   final: "Palets."
   title: "Un solo producto. **Toda nuestra atención.**"
-  text: "La mayoría de los fabricantes de envases de plástico reparten sus moldes, su I+D y su atención entre cajas, cubetas y contenedores. Nosotros lo dedicamos todo a un solo producto. Por eso nuestra gama abarca nueve medidas, tres clases de carga y unos 130 modelos, y por eso en Q-Pall una consulta sobre palets nunca es un asunto secundario."
+  text: "La mayoría de los fabricantes de envases de plástico reparten sus moldes, su I+D y su atención entre cajas, cubetas y contenedores. Nosotros lo dedicamos todo a un solo producto. Por eso nuestra gama abarca nueve medidas, tres clases de carga y unas 130 versiones, y por eso en Q-Pall una consulta sobre palets nunca es un asunto secundario."
   points:
     - icon: "factory"
       t: "Directo del fabricante"
-      d: "Usted habla con las personas que desarrollan y fabrican su palet."
+      d: "Hablará directamente con quienes desarrollan y fabrican su palet."
     - icon: "leaf"
       t: "Casi 100% reciclado"
       d: "De plástico posconsumo e industrial, totalmente reciclable."
@@ -55,13 +55,13 @@ intro:
 range:
   eyebrow: "Nuestra gama"
   title: "Encuentre el palet **que se adapta a usted**"
-  lead: "Elija por medida o por aplicación. En cada ficha encontrará todos los modelos con sus especificaciones y, cuando esté disponible, un precio desde."
+  lead: "Elija por medida o por aplicación. En cada ficha encontrará todos los modelos con sus especificaciones y, cuando esté disponible, un precio de partida."
   tab_sizes: "Por medida"
   tab_types: "Por aplicación"
   all: "Ver todos los palets de plástico"
 promo:
   title: "Palets Medium **antideslizantes**"
-  text: "La nueva generación de palets Medium en 1200 x 800 y 1200 x 1000 mm tiene una superficie antideslizante integrada. Su carga se queda en su sitio."
+  text: "Desde finales de 2025 hay palets Medium en 1200 x 800 y 1200 x 1000 mm con una superficie antideslizante integrada. Su carga se queda en su sitio."
   points: ["Más seguridad", "Menos film estirable", "Mayor velocidad de línea", "Aptos para AGV y transportadores de rodillos"]
   cta: "Ver los palets antideslizantes"
   img_alt: "Palet de plástico Medium con superficie antideslizante"
@@ -90,7 +90,7 @@ sustain:
       d: "Clasificado, limpiado y convertido en HDPE y PP reciclados."
     - icon: "mould"
       t: "Moldear"
-      d: "Como palet de Q-Pall, en la fábrica más cercana a usted."
+      d: "Como palet de Q-Pall, fabricado lo más cerca posible de usted."
     - icon: "pallet"
       t: "Usar"
       d: "Durante años. Lavable, sin astillas ni clavos y sin tratamiento ISPM 15."
@@ -103,16 +103,16 @@ sustain_cta:
   btn: "Hable con un especialista"
 local:
   eyebrow: "Act global, produce local"
-  title: "Seis fábricas. **Siempre una cerca.**"
+  title: "Seis fábricas. **Cerca del cliente.**"
   lead: "Producimos en seis fábricas repartidas por Europa y trasladamos moldes en lugar de palets. Así, casi todos nuestros clientes están a menos de 600 kilómetros de una fábrica de Q-Pall: menos transporte, menos costes y menos CO₂."
-  note: "Los modelos más demandados están en stock en todas las fábricas, y muchos modelos se fabrican en más de una. Así el suministro continúa, incluso en temporada alta."
+  note: "Los modelos más demandados están en stock en varias ubicaciones, y una parte de nuestros modelos se fabrica en más de una fábrica. Así también podemos suministrar en temporada alta."
   cta: "Sobre la producción local"
 sectors:
   eyebrow: "Sectores"
   title: "Hechos para **su sector**"
   lead: "Desde palets higiénicos para la industria láctea hasta palets CP pesados para la química: un solo especialista para cada flujo de su cadena de suministro."
   tiles:
-    chemical: {sub: "De CP1 a CP9, pesados y aptos para estantería", big: "CP1–CP9"}
+    chemical: {sub: "CP1, CP3, CP6 y CP9, aptos para estantería", big: "CP"}
     food: {sub: "Cerrados, higiénicos y fáciles de limpiar", big: "HACCP"}
     pharma: {sub: "Sala blanca y GMP", big: "Limpio."}
     beverage: {sub: "Ultra pallet para pools de bebidas"}
@@ -131,7 +131,7 @@ about:
   cta2: "Trabajar en Q-Pall"
   img_alt: "Nave de producción con inyectoras y robots en la fábrica de Q-Pall en Balk"
 knowledge:
-  eyebrow: "Base de conocimiento"
+  eyebrow: "Guías"
   title: "Elija **bien**"
 ppwr:
   eyebrow: "PPWR · EU 2025/40"
@@ -171,7 +171,7 @@ faq:
   - q: "¿Cuánto cuesta un palet de plástico?"
     a: "Un palet expositor de 600 x 400 mm cuesta unos pocos euros, un europalet encajable desde unos seis euros y un palet de uso intensivo desde unos 24 euros, IVA y transporte no incluidos. Consulte todos los precios de partida en nuestra [guía de precios](@guide-prices)."
   - q: "¿Con qué rapidez puede entregar Q-Pall?"
-    a: "Tenemos en stock los modelos más demandados en cada fábrica. El plazo de entrega depende del modelo, la cantidad y la ubicación. [Solicite un presupuesto](@quote) y normalmente le diremos en un día laborable qué es posible."
+    a: "Tenemos en stock los modelos más demandados en varias ubicaciones. El plazo de entrega depende del modelo, la cantidad y la ubicación. [Solicite un presupuesto](@quote) y normalmente le diremos en un día laborable qué es posible."
   - q: "¿Entregan fuera de los Países Bajos?"
     a: "Sí. Entregamos en toda Europa desde nuestras fábricas en los Países Bajos, Dinamarca, Alemania, Francia, España y el Reino Unido, y trabajamos con [distribuidores](@dealers) en Europa y Estados Unidos."
 ---

@@ -13,7 +13,7 @@ faq:
 - q: "Cos’è la logistica verde?"
   a: "La logistica verde (green logistics) è una logistica con il minor impatto ambientale possibile: meno emissioni, meno rifiuti e un uso più efficiente delle risorse. Anche la scelta dei pallet ha un ruolo."
 - q: "I pallet in plastica sono più leggeri di quelli in legno?"
-  a: "Spesso sì, a seconda del tipo. I pallet Light sono molto più leggeri del legno. I pallet Heavy pesano da 17 a 28 kg, più o meno come un europallet in legno di circa 25 kg."
+  a: "Spesso sì, a seconda del tipo. I pallet Light sono molto più leggeri del legno. I pallet Heavy pesano da circa 17 a 29 kg, più o meno come un europallet in legno di circa 25 kg."
 - q: "Come contribuisce la produzione locale alla logistica verde?"
   a: "Nel settore dei pallet la maggior parte delle emissioni di CO₂ deriva dal trasporto. Produciamo in sei stabilimenti europei, così quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento."
 published: '2023-09-11'
@@ -37,7 +37,7 @@ Un elemento spesso trascurato è la scelta dei pallet. I pallet in plastica offr
 
 I pallet in plastica sono spesso più leggeri dei pallet in legno, a seconda del tipo. Soprattutto i [pallet Light](@class-light) pesano molto meno. Una tara inferiore significa più carico per viaggio e meno carburante, quindi meno emissioni.
 
-Negli impieghi pesanti la differenza è minore. Un pallet in plastica Heavy pesa da 17 a 28 kg, un europallet in legno circa 25 kg. Il vantaggio sta allora soprattutto nella lunga durata e nel peso costante, perché la plastica non assorbe l’umidità.
+Negli impieghi pesanti la differenza è minore. Un pallet in plastica Heavy pesa da circa 17 a 29 kg, un europallet in legno circa 25 kg. Il vantaggio sta allora soprattutto nella lunga durata e nel peso costante, perché la plastica non assorbe l’umidità.
 
 ## Durevoli e riutilizzabili
 

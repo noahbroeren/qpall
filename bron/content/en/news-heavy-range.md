@@ -30,7 +30,7 @@ The mould for the QP series has a flexible set-up. With different mould options 
 
 The QP 1111H, 1140H and 1212H carry 7,500 kg static and 2,000 kg dynamic. In racking they carry up to 1,375 kg; the exact value depends on the model and version. You can read what these values mean on our page about [the load capacity of plastic pallets](@about-load).
 
-No metal reinforcements are needed. That is down to the design and to the high-quality plastic, which is almost 100% recycled. Without metal, the pallets stand up well to tough conditions and are easy to recycle at the end of their life.
+No metal reinforcements are needed. That is down to the design and to the high-quality plastic, which is nearly 100% recycled. Without metal, the pallets stand up well to tough conditions and are easy to recycle at the end of their life.
 
 ## A design for intensive use
 

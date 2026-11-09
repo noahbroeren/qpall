@@ -23,7 +23,7 @@ compare:
   direct:
     - "Per pila completa o per camion completo"
     - "Pallet personalizzati con il vostro logo o colore"
-    - "Consegna dallo stabilimento più vicino a voi"
+    - "Consegna da uno stabilimento il più vicino possibile a voi"
 ---
 
 ## Trovate il vostro rivenditore

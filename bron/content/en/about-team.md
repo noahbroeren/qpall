@@ -4,7 +4,7 @@ title: "Our team: your contacts at Q-Pall"
 description: "Meet Sabine Oudshoorn and John van Boesschoten from Business Development. They help you choose the right plastic pallet for your load and logistics."
 eyebrow: "Team"
 h1: "Our **team**"
-lead: "Behind every pallet are people. Meet your contacts at Q-Pall: they think along with you, from the first question to delivery."
+lead: "Behind every pallet are people. Meet your contacts at Q-Pall: they help you find the right solution, from the first question to delivery."
 ---
 ## Always one point of contact
 

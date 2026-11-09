@@ -18,7 +18,7 @@ updated: '2026-11-02'
 > * Se trataba del QP1210 HR 5R, con una carga estática de 7.500 kg.
 > * Sobre los palets había, entre otros, un e.GO, un Kia EV6, un Jaguar y el Rimac Nevera.
 > * Los palets llegaron a través de nuestro socio y distribuidor británico Goplasticpallets.com.
-> * El palet está fabricado con plástico reciclado.
+> * El palet está fabricado con plástico casi 100% reciclado.
 
 ## Un podio de palets de plástico
 
@@ -32,6 +32,6 @@ Del e.GO y el Kia EV6 a un Jaguar y el Rimac Nevera: todos ocuparon su lugar en 
 
 El QP1210 HR 5R es un [palet de plástico Heavy](@class-heavy) de [1200 x 1000 mm](@size-1200x1000) con una carga estática de 7.500 kg. Es la carga que soporta un palet cuando está quieto sobre un suelo plano. Por eso, el peso de estos coches no fue ningún problema para el palet. Encontrará más información sobre las cargas estática, dinámica y en estantería en nuestra página sobre [la capacidad de carga de los palets de plástico](@about-load).
 
-El palet está diseñado para utilizarse en muchos sectores. Y como está fabricado con plástico reciclado, es una opción responsable para su logística y su almacenaje.
+El palet está diseñado para utilizarse en muchos sectores. Y como está fabricado con plástico casi 100% reciclado, es una opción responsable para su logística y su almacenaje.
 
 ¿Quiere utilizar el QP1210 HR 5R u otro palet Heavy? [Póngase en contacto con nosotros](@contact) para recibir asesoramiento sobre su aplicación.

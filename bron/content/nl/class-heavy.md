@@ -23,7 +23,7 @@ Heavy pallets hebben een zwaardere constructie met verstevigde onderlatten en ee
 - **Open of gesloten dek**, op 3, 5 of 6 onderlatten.
 - **[Hygiënische en cleanroompallets](@type-hygienic)** voor de voedings- en farmaceutische industrie.
 - **[CP-pallets](@type-cp)** voor de chemische industrie.
-- **De [Ultra pallet](@ultra)**, een heavy-duty poolpallet met antislip aan boven- en onderkant.
+- **De [Ultra pallet](@ultra)**, een heavy duty poolpallet met antislip aan boven- en onderkant.
 - **[Blokpallets](@type-block)** van 1200 x 1000 mm.
 
 ## De juiste stellingbelasting kiezen

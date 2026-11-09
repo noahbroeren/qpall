@@ -19,7 +19,7 @@ faq:
 - q: Wat is het verschil tussen HDPE (2) en LDPE (4)?
   a: "Beide zijn polyethyleen. HDPE heeft een hogere dichtheid en is daardoor stijver en sterker; het wordt gebruikt voor flessen, kratten en pallets. LDPE is soepeler en wordt vooral gebruikt voor folies en tassen."
 - q: Waarvan zijn de pallets van Q-Pall gemaakt?
-  a: "Onze standaardpallets maken we van gerecycled kunststof, een mix van HDPE en PP. Alleen onze hygiënische pallets zijn van virgin kunststof. Onze pallets van gerecycled kunststof zijn niet bedoeld voor direct contact met levensmiddelen. Zoekt u een pallet voor direct voedselcontact? Neem contact met ons op, dan denken we graag mee."
+  a: "Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE en PP (in light pallets ook LDPE). Alleen onze hygiënische pallets zijn van virgin kunststof. Onze pallets van gerecycled kunststof zijn niet bedoeld voor direct contact met levensmiddelen. Zoekt u een pallet voor direct voedselcontact? Neem contact met ons op, dan denken we graag mee."
 published: '2024-05-29'
 updated: '2026-10-19'
 ---
@@ -29,7 +29,7 @@ updated: '2026-10-19'
 > * Het cijfer in de driehoek zegt welke kunststof het is. Het zegt niet dat het product al gerecycled is.
 > * HDPE is sterk, licht, neemt geen vocht op en is bestand tegen veel chemicaliën.
 > * Het is een van de best recyclebare kunststoffen. Thuis hoort het bij het plastic verpakkingsafval.
-> * Onze standaardpallets maken we van gerecycled kunststof, een mix van HDPE en PP.
+> * Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE en PP (in light pallets ook LDPE).
 
 ## Wat betekent HDPE 2 of PE-HD 2?
 
@@ -100,12 +100,12 @@ Kunststof pallets horen niet bij het huishoudelijk afval. Ze worden zakelijk ing
 
 ## Gerecycled HDPE in kunststof pallets
 
-Onze standaardpallets maken we van gerecycled kunststof: een mix van HDPE en PP uit afvalstromen van onder meer kratten, doppen en verpakkingen. Werken met recyclaat vraagt veel kennis, want het gedraagt zich anders dan nieuw kunststof. Die kennis bouwen we sinds 2005 op.
+Onze standaardpallets maken we van bijna 100% gerecycled kunststof: een mix van HDPE en PP (in light pallets ook LDPE) uit afvalstromen van onder meer kratten, doppen en verpakkingen. Werken met recyclaat vraagt veel kennis, want het gedraagt zich anders dan nieuw kunststof. Die kennis bouwen we sinds 2005 op.
 
 Wat dat u oplevert:
 
 * **Lange levensduur.** Een kunststof pallet gaat vele jaren mee, veel langer dan een gemiddelde houten pallet.
-* **Schoon en constant.** Geen splinters, geen vocht, en elke pallet heeft hetzelfde gewicht en dezelfde maat.
+* **Schoon en constant.** Geen splinters, geen vocht, en elke pallet heeft vrijwel hetzelfde gewicht en dezelfde maat.
 * **Geen ISPM 15.** Kunststof pallets vallen buiten de [regels voor houten verpakkingsmateriaal](@guide-ispm) bij export.
 * **Kringloop gesloten.** Aan het einde van zijn leven vermalen we een pallet weer tot grondstof.
 

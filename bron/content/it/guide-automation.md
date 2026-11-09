@@ -21,7 +21,7 @@ In un magazzino manuale, il carrellista corregge un pallet storto o danneggiato.
 
 ## Cinque caratteristiche che contano
 
-* **Stabilità dimensionale.** Un pallet in plastica stampato a iniezione ha sempre le stesse dimensioni. Non si gonfia né si ritira con l’umidità.
+* **Stabilità dimensionale.** Un pallet in plastica stampato a iniezione ha dimensioni fisse, entro tolleranze ristrette. Non si gonfia né si ritira con l’umidità.
 * **Peso costante.** Importante per i sistemi di pesatura e i controlli sulla linea.
 * **Niente chiodi né schegge.** Nulla si impiglia in rulli, catene o sensori.
 * **La base giusta.** Per trasportatori a rulli e a catena scegliete un pallet con slitte, come quasi tutti i nostri [pallet Heavy](@class-heavy): tre o sei slitte continue offrono una superficie di scorrimento uniforme. I pallet con piedi sono meno adatti alle rulliere.

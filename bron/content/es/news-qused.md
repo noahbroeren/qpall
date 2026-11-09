@@ -48,7 +48,7 @@ Los palets de plástico duran mucho más que los [palets de madera](@guide-wood)
 
 Q-Used no tiene tienda online. El stock cambia continuamente, según los palets que entran. En la práctica funciona así:
 
-1. Usted nos indica la medida, la carga y el número de palets que busca.
+1. Nos indica la medida, la carga y el número de palets que busca.
 2. Comprobamos qué hay en stock y le enviamos un presupuesto.
 3. Los palets se entregan desde nuestro almacén de Veghel.
 

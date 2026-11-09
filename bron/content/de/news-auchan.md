@@ -1,11 +1,11 @@
 ---
 id: news-auchan
-title: "Auchan setzt 50.000 smarte Paletten mit IBM ein – Q-Pall"
+title: "Auchan setzte 50.000 smarte Paletten mit IBM ein – Q-Pall"
 description: "Der Händler Auchan führte in ganz Frankreich 50.000 smarte Schwerlast-Europaletten von Q-Pall ein, mit IoT von IBM: Standort, Temperatur und Stöße im Blick."
 eyebrow: "Aktuelles"
 tag: "Kundenprojekt"
 crumb: "Auchan setzt smarte Paletten ein"
-h1: "Auchan setzt **50.000 smarte Q-Pall Paletten** ein, gemeinsam mit IBM"
+h1: "Auchan setzte **50.000 smarte Q-Pall-Paletten** ein, gemeinsam mit IBM"
 lead: "Ab Ende 2025 führte der Händler Auchan in ganz Frankreich 50.000 smarte Schwerlast-Europaletten aus recyceltem Kunststoff ein. Mit IoT-Technologie von IBM wurde jede Palette zur Datenquelle für die Lieferkette."
 img_alt: "Familie mit Einkaufswagen in einem Supermarktgang"
 reading: 2
@@ -16,7 +16,7 @@ updated: '2026-11-02'
 >
 > * Der Händler Auchan setzte in ganz Frankreich 50.000 smarte Schwerlast-Europaletten von Q-Pall ein.
 > * Die Paletten bestehen aus recyceltem Kunststoff und sind mit IoT-Technologie von IBM ausgestattet.
-> * Sie messen Standort, Temperatur und Stöße und schlagen bei Abweichungen Alarm.
+> * Sie maßen Standort, Temperatur und Stöße und schlugen bei Abweichungen Alarm.
 > * Dem Rollout ging ein Pilotprojekt mit 10.000 Paletten in zwei Lagern voraus.
 > * Geschätzte Einsparung: 21.328 Tonnen CO₂ in acht Jahren.
 

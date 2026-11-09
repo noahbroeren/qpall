@@ -13,7 +13,7 @@ faq:
 - q: "Waarom zijn kunststof pallets geschikt voor de horeca?"
   a: "Kunststof pallets splinteren niet, nemen geen vocht op en zijn goed te reinigen. Vuil kan zich niet in het materiaal nestelen, zoals bij poreus hout wel gebeurt."
 - q: "Mogen levensmiddelen direct op een kunststof pallet?"
-  a: "Voor direct contact met levensmiddelen is virgin kunststof de norm. Onze hygiënische pallets zijn daarom van virgin kunststof. Onze andere pallets zijn van gerecycled kunststof en bedoeld voor verpakte producten."
+  a: "Voor direct contact met levensmiddelen is virgin kunststof de norm. Onze hygiënische pallets zijn daarom van virgin kunststof. Onze andere pallets zijn van bijna 100% gerecycled kunststof en bedoeld voor verpakte producten."
 - q: "Kan ik ook een paar pallets bestellen?"
   a: "We leveren per volle stapel, bijvoorbeeld 45 nestbare of 17 medium pallets. Heeft u minder nodig? Dan helpt een [dealer bij u in de buurt](@dealers) u verder."
 published: '2022-01-12'
@@ -43,7 +43,7 @@ Gebruikt u ook een lekbak? Die vangt lekkende vloeistoffen op voordat ze de rest
 
 ## Hygiënische pallets voor voedselcontact en HACCP
 
-Onze standaardpallets maken we van gerecycled kunststof. Ze zijn bedoeld voor verpakte producten, niet voor direct contact met levensmiddelen. Komt voedsel direct op de pallet, of werkt u in een HACCP-omgeving met strenge eisen? Kies dan een [hygiënische pallet](@type-hygienic). Die is van virgin (nieuw) kunststof en volledig glad uitgevoerd, zodat u hem snel en grondig reinigt.
+Onze standaardpallets maken we van bijna 100% gerecycled kunststof. Ze zijn bedoeld voor verpakte producten, niet voor direct contact met levensmiddelen. Komt voedsel direct op de pallet, of werkt u in een HACCP-omgeving met strenge eisen? Kies dan een [hygiënische pallet](@type-hygienic). Die is van virgin (nieuw) kunststof en volledig glad uitgevoerd, zodat u hem snel en grondig reinigt.
 
 ## Van pallet naar afgesloten box
 

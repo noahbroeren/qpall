@@ -22,7 +22,7 @@ Medium-Paletten sind die Allrounder in unserem Sortiment. Sie sind stabiler als 
 
 - **Offenes Deck:** leicht, Feuchtigkeit läuft ab und Luft zirkuliert um die Ladung.
 - **Geschlossenes Deck:** eben und leicht zu reinigen. Gut für kleine Verpackungen.
-- **Antirutsch:** Die neue Generation der Medium-Paletten hat ein integriertes Antirutsch-Deck. Siehe [Antirutsch-Paletten](@type-antislip).
+- **Antirutsch:** Seit Ende 2025 gibt es Medium-Paletten mit integriertem Antirutsch-Deck. Siehe [Antirutsch-Paletten](@type-antislip).
 - **3, 5 oder 6 Kufen:** Mehr Kufen bieten mehr Auflage auf dem Boden und auf Rollenbahnen.
 
 ## Größen

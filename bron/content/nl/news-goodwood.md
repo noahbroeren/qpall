@@ -18,7 +18,7 @@ updated: '2026-11-02'
 > * Het ging om de QP1210 HR 5R, met een statische belasting van 7.500 kg.
 > * Onder meer een e.GO, een Kia EV6, een Jaguar en de Rimac Nevera stonden op de pallets.
 > * De pallets kwamen er via onze Britse partner en dealer Goplasticpallets.com.
-> * De pallet is gemaakt van gerecycled kunststof.
+> * De pallet is gemaakt van bijna 100% gerecycled kunststof.
 
 ## Een podium van kunststof pallets
 
@@ -32,6 +32,6 @@ Van de e.GO en de Kia EV6 tot een Jaguar en de Rimac Nevera: allemaal stonden ze
 
 De QP1210 HR 5R is een [heavy duty kunststof pallet](@class-heavy) van [1200 x 1000 mm](@size-1200x1000) met een statische belasting van 7.500 kg. Dat is wat een pallet draagt als hij stilstaat op een vlakke vloer. Het gewicht van deze auto's was voor de pallet dan ook geen probleem. Meer over statische, dynamische en stellingbelasting leest u op de pagina over [de belasting van kunststof pallets](@about-load).
 
-De pallet is ontworpen voor gebruik in uiteenlopende sectoren. En omdat hij van gerecycled kunststof is gemaakt, is hij een verantwoorde keuze voor uw logistiek en opslag.
+De pallet is ontworpen voor gebruik in uiteenlopende sectoren. En omdat hij van bijna 100% gerecycled kunststof is gemaakt, is hij een verantwoorde keuze voor uw logistiek en opslag.
 
 Wilt u de QP1210 HR 5R of een andere heavy duty pallet inzetten? [Neem contact met ons op](@contact) voor advies over uw toepassing.

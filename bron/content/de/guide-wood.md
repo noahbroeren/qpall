@@ -42,4 +42,4 @@ Für Einwegsendungen innerhalb Europas, bei denen die Palette Teil eines Tauschs
 
 ## Die Rechnung
 
-Ein fairer Vergleich erfolgt in Kosten pro Umlauf. Rechnen Sie Schäden an Ladung und Maschinen, Reparaturkosten, Stillstände von Linien und die Kosten der Behandlung nach ISPM 15 für den Export hinzu. In vielen Fällen erweist sich Kunststoff dann als die wirtschaftlichste Option. Sehen Sie sich die aktuellen [Preise für Kunststoffpaletten](@guide-prices) an.
+Für einen fairen Vergleich rechnen Sie mit den Kosten pro Umlauf. Rechnen Sie Schäden an Ladung und Maschinen, Reparaturkosten, Stillstände von Linien und die Kosten der Behandlung nach ISPM 15 für den Export hinzu. In vielen Fällen erweist sich Kunststoff dann als die wirtschaftlichste Option. Sehen Sie sich die aktuellen [Preise für Kunststoffpaletten](@guide-prices) an.

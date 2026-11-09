@@ -11,7 +11,7 @@ list:
   lead: "Voici nos distributeurs en un coup d’œil. Vous trouverez les adresses et les coordonnées sur la carte des distributeurs."
 compare:
   eyebrow: "Distributeur ou direct"
-  title: "Quelle option **vous convient** ?"
+  title: "Quelle option **vous convient** ?"
   lead: "Cela dépend surtout des quantités et du lieu de livraison."
   dealer_t: "Via un distributeur"
   dealer:
@@ -23,15 +23,15 @@ compare:
   direct:
     - "Par pile complète ou par camion complet"
     - "Des palettes personnalisées avec votre logo ou votre couleur"
-    - "Une livraison depuis l’usine la plus proche de chez vous"
+    - "Une livraison depuis une usine au plus près de chez vous"
 ---
 
 ## Trouvez votre distributeur
 
-Utilisez la carte ci-dessous pour trouver un distributeur dans votre pays ou votre région. Pas de distributeur à proximité, ou vous recherchez de gros volumes ? [Contactez-nous directement](@contact).
+Utilisez la carte ci-dessous pour trouver un distributeur dans votre pays ou votre région. Pas de distributeur à proximité, ou vous recherchez de gros volumes ? [Contactez-nous directement](@contact).
 
 [[dealermap]]
 
-## Vous souhaitez devenir distributeur ?
+## Vous souhaitez devenir distributeur ?
 
-Vous aimeriez vendre les palettes plastique Q-Pall dans votre région ? Nous serons ravis d’avoir de vos nouvelles. Envoyez un message via notre [formulaire de contact](@contact) ou écrivez à info@qpall.com.
+Vous aimeriez vendre les palettes plastique Q-Pall dans votre région ? Nous serons ravis d’avoir de vos nouvelles. Envoyez un message via notre [formulaire de contact](@contact) ou écrivez à info@qpall.com.

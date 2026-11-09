@@ -46,15 +46,15 @@ Splinters seem like a detail. Until someone tears a glove, damages a product or 
 
 Wooden pallets vary in weight: per piece, per batch and per season. Anyone who works with tare weights, and that is everyone who invoices or ships by weight, has a constant source of inaccuracy as a result.
 
-A pallet with a constant weight lets your weighing system do exactly what it should. No corrections afterwards, no margins for uncertainty and no difference between delivery note and weighbridge.
+A pallet with a virtually constant weight (within ±5%) lets your weighing system do what it should. Fewer corrections afterwards, smaller margins for uncertainty and hardly any difference between delivery note and weighbridge.
 
 **What it delivers:** a reliable tare, predictable freight costs and records that add up.
 
 ## 4. The same size, every time
 
-Automation does not like variation. Palletisers, AGVs, conveyors and stacking systems are set to a fixed footprint. A pallet that is 4 millimetres too wide, or that has a broken edge board, is a fault for a sensor.
+Automation does not like variation. Palletisers, AGVs, conveyors and stacking systems are set to a fixed footprint. A wooden pallet that is a centimetre too wide, or that has a broken edge board, is a fault for a sensor.
 
-A pallet with identical, lasting dimensions fits the same template every time. That is the basis for an automated process that runs without manual intervention. Read more in our guide on [pallets for automation](@guide-automation).
+A plastic pallet with fixed dimensions within tight tolerances (±5 mm) fits the same template every time. That is the basis for an automated process that runs without manual intervention. Read more in our guide on [pallets for automation](@guide-automation).
 
 **What it delivers:** fewer line stoppages, higher throughput and lower maintenance costs for your installation.
 
@@ -68,6 +68,6 @@ A pallet is not the most important part of your logistics chain. But it is part 
 
 So the question is not which material is better. The question is which properties your process needs, and what it delivers when they are no longer variable.
 
-At Q-Pall we make our standard pallets from recycled plastic. Non-porous, splinter-free, constant in weight and size, with [PPWR](@guide-ppwr) documentation and free from ISPM 15. Unsure whether to choose wood or plastic? Read [plastic vs wooden pallets](@guide-wood).
+At Q-Pall we make our standard pallets from nearly 100% recycled plastic. Non-porous, splinter-free, constant in weight and size, with [PPWR](@guide-ppwr) documentation and free from ISPM 15. Unsure whether to choose wood or plastic? Read [plastic vs wooden pallets](@guide-wood).
 
-Would you like to know which pallet suits your process best? [Get in touch with us](@contact) and we will think along with you.
+Would you like to know which pallet suits your process best? [Get in touch with us](@contact) and we will help you find a solution.

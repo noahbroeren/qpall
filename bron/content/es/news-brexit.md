@@ -50,13 +50,13 @@ Lo que le aporta en el comercio con el Reino Unido:
 * **Sin retrasos por el palet.** Un palet de plástico no se rechaza por un sello ausente o incorrecto.
 * **Ligero y a menudo encajable.** Nuestros [palets de exportación](@type-export) soportan hasta 2.500 kg de carga estática y, vacíos, encajan unos dentro de otros.
 * **El tamaño adecuado.** En el Reino Unido es habitual el palet industrial de [1200 x 1000 mm](@size-1200x1000).
-* **Circular.** Nuestros palets estándar son de plástico reciclado y, al final de su vida útil, son totalmente reciclables.
+* **Circular.** Nuestros palets estándar son de plástico casi 100% reciclado y, al final de su vida útil, son totalmente reciclables.
 
 ## Q-Pall también produce en el Reino Unido
 
 Q-Pall fabrica palets de plástico en seis fábricas: Balk (Países Bajos), Ribe (Dinamarca), Marktoberdorf (Alemania), Nantes (Francia), Lleida (España) y Chesterfield (Reino Unido). Casi todos nuestros clientes están a menos de 600 kilómetros de una de nuestras fábricas.
 
-Nuestro enfoque: los moldes viajan, los palets no. Instalamos el molde en la fábrica más cercana al cliente. Para los clientes del Reino Unido, puede ser la fábrica de Chesterfield: transportes cortos y ningún paso de frontera para los propios palets. Más información sobre la [producción local](@about-local).
+Nuestro enfoque: los moldes viajan, los palets no. Instalamos el molde lo más cerca posible del cliente. Para los clientes del Reino Unido, puede ser la fábrica de Chesterfield: transportes cortos y ningún paso de frontera para los propios palets. Más información sobre la [producción local](@about-local).
 
 ¿Necesita cantidades más pequeñas? Diríjase a un [distribuidor cerca de usted](@dealers). En el Reino Unido trabajamos, entre otros, con el distribuidor Goplasticpallets.com.
 

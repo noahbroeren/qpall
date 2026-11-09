@@ -27,7 +27,7 @@ next:
   - when: Nu
     t: Aanvraag ontvangen
     d: Uw aanvraag staat bij ons verkoopteam in Veghel.
-  - when: Vandaag
+  - when: Vandaag of de eerstvolgende werkdag
     t: Een specialist kijkt mee
     d: We kiezen de juiste pallet, kijken in welke fabriek die beschikbaar is en zoeken de beste manier van transport.
   - when: Meestal binnen 1 werkdag

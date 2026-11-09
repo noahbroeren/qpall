@@ -43,7 +43,7 @@ Ein **offenes Deck** ist leichter und günstiger. Feuchtigkeit läuft ab und Luf
 ## Schritt 5: Füße oder Kufen
 
 - **9 Füße:** leicht, oft nestbar und von vier Seiten mit Gabelstapler und Hubwagen unterfahrbar. Ideal für den [Export](@type-export).
-- **3 Kufen:** stabil auf dem Boden, auf Rollenbahnen und im Palettenregal.
+- **3 Kufen:** stabil auf dem Boden und auf Rollenbahnen; in Medium- und Heavy-Ausführung auch im Palettenregal.
 - **5 oder 6 Kufen:** noch mehr Unterstützung und eine gleichmäßigere Lastverteilung. Mit 6 Kufen (umlaufende Kufen) ist die Unterseite rundum geschlossen.
 
 Sie möchten eine nestbare Palette, die vor Ort stabiler wird? Dann verwenden Sie [Klick-Kufen](@acc-runners).

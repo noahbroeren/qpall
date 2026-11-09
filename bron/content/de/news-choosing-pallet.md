@@ -22,7 +22,7 @@ updated: '2026-11-02'
 >
 > * Beginnen Sie mit der Belastung: statisch, dynamisch und im Regal.
 > * Die Größe ergibt sich aus Ihrer Ladung und aus Ihren Regalen, Lkw und Containern.
-> * Unsere Standardpaletten bestehen aus recyceltem Kunststoff; für direkten Lebensmittelkontakt gibt es Paletten aus Neuware.
+> * Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff; für direkten Lebensmittelkontakt gibt es Paletten aus Neuware.
 > * Nestbare Paletten sparen Platz bei Lagerung und Rücktransport.
 > * Achten Sie auf die Kosten über die gesamte Lebensdauer, nicht nur auf den Anschaffungspreis.
 
@@ -42,13 +42,13 @@ Unsere Paletten sind in drei Lastklassen eingeteilt. Light-Paletten sind leicht 
 
 ## Abmessungen: Passt die Palette zu Ladung und Transport?
 
-Die Palette muss groß genug sein, um Ihre Ladung gut zu tragen und sicher zu transportieren. Auch Ihre Transportmittel und Regale bestimmen die Größe: Die Paletten müssen in Ihren Lkw, Auflieger oder Container passen. In Europa ist 1200 x 800 mm der Standard. Unser Sortiment umfasst rund 130 Modelle in neun Formaten, von 600 x 400 bis 1300 x 1100 mm. In unserer Übersicht der [Palettengrößen](@guide-sizes) finden Sie alle auf einen Blick.
+Die Palette muss groß genug sein, um Ihre Ladung gut zu tragen und sicher zu transportieren. Auch Ihre Transportmittel und Regale bestimmen die Größe: Die Paletten müssen in Ihren Lkw, Auflieger oder Container passen. In Europa ist 1200 x 800 mm der Standard. Unser Sortiment umfasst rund 130 Ausführungen in neun Formaten, von 600 x 400 bis 1300 x 1100 mm. In unserer Übersicht der [Palettengrößen](@guide-sizes) finden Sie alle auf einen Blick.
 
 ## Material und Gewicht
 
-Nicht jede Kunststoffpalette besteht aus demselben Material. Unsere Standardpaletten fertigen wir aus recyceltem Kunststoff, einer Mischung aus HDPE und PP. Unsere Hygienepaletten, H1-Paletten und Reinraumpaletten bestehen aus Neuware, in einer eigenen Farbe. Paletten aus recyceltem Kunststoff sind nicht für den direkten Kontakt mit Lebensmitteln gedacht.
+Nicht jede Kunststoffpalette besteht aus demselben Material. Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE und PP. Unsere Hygienepaletten, H1-Paletten und Reinraumpaletten bestehen aus Neuware, in einer eigenen Farbe. Paletten aus recyceltem Kunststoff sind nicht für den direkten Kontakt mit Lebensmitteln gedacht.
 
-Kunststoffpaletten sind oft leichter als Holz, das hängt aber vom Typ ab. Eine Light-Palette ist viel leichter als eine Holz-Europalette mit rund 25 kg. Eine Heavy-Palette wiegt 17 bis 28 kg.
+Kunststoffpaletten sind oft leichter als Holz, das hängt aber vom Typ ab. Eine Light-Palette ist viel leichter als eine Holz-Europalette mit rund 25 kg. Eine Heavy-Palette wiegt ca. 17 bis 29 kg.
 
 ## Nestbarkeit: Platz sparen
 

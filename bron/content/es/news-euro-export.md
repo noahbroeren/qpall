@@ -76,10 +76,10 @@ Un palet de 1200 x 800 mm también puede ser un palet de exportación. En ese ca
 
 ### Alimentación y farmacia
 
-Nuestros palets de exportación son de plástico reciclado. Son fáciles de limpiar y no contienen residuos orgánicos, pero no están destinados al contacto directo con alimentos. Para aplicaciones con requisitos de higiene estrictos, como en la industria alimentaria y farmacéutica, ofrecemos [palets higiénicos](@type-hygienic) de plástico virgen.
+Nuestros palets de exportación son de plástico casi 100% reciclado. Son fáciles de limpiar y no contienen residuos orgánicos, pero no están destinados al contacto directo con alimentos. Para aplicaciones con requisitos de higiene estrictos, como en la industria alimentaria y farmacéutica, ofrecemos [palets higiénicos](@type-hygienic) de plástico virgen.
 
 ## Lo mejor de ambos mundos
 
-En Q-Pall combinamos ambos usos. Usted elige un palet de plástico en el formato del europalet: como palet reutilizable para su propio circuito o como palet de exportación ligero para un solo viaje. Al final de su vida útil, cada palet es totalmente reciclable.
+En Q-Pall combinamos ambos usos. Puede elegir un palet de plástico en el formato del europalet: como palet reutilizable para su propio circuito o como palet de exportación ligero para un solo viaje. Al final de su vida útil, cada palet es totalmente reciclable.
 
 ¿Duda sobre qué palet se adapta a sus envíos? [Solicite un presupuesto](@quote) indicando el destino y la carga. Normalmente recibirá un precio a medida en un día laborable.

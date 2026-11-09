@@ -46,7 +46,7 @@ Dipende soprattutto dalla portata statica del pallet in basso: il peso massimo c
 
 Un esempio: impilate quattro pallet che pesano ciascuno 800 kg compreso il carico. Il pallet in basso sostiene allora il proprio carico e i tre pallet sovrastanti, in totale 3.200 kg. Scegliete un pallet con una portata statica ben superiore.
 
-Per carichi pesanti, i [pallet Heavy](@class-heavy) sono la scelta logica: sostengono fino a 7.500 kg in statica. I valori esatti sono indicati per ogni modello. Per saperne di più, consultate la nostra pagina sulla [portata dei pallet in plastica](@about-load).
+Per carichi pesanti, i [pallet Heavy](@class-heavy) sono la scelta logica: hanno una portata statica fino a 7.500 kg. I valori esatti sono indicati per ogni modello. Per saperne di più, consultate la nostra pagina sulla [portata dei pallet in plastica](@about-load).
 
 ## Fino a che altezza si può impilare?
 

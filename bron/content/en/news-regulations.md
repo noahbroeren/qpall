@@ -49,7 +49,7 @@ What this means for your pallets in detail is explained in our guide [PPWR and p
 
 The PPWR sets a limit for heavy metals in packaging. Lead, cadmium, mercury and hexavalent chromium together may not exceed 100 mg/kg.
 
-We also use the RoHS directive (Restriction of Hazardous Substances) to confirm that our pallets meet the requirements of that directive. RoHS restricts substances including:
+We also use the substance list of the RoHS directive (Restriction of Hazardous Substances) as a benchmark. That directive was written for electronics, not for packaging, but its limit values are a strict test for recycled plastic. RoHS restricts substances including:
 
 * lead (Pb), mercury (Hg) and cadmium (Cd)
 * hexavalent chromium (CrVI)
@@ -57,7 +57,7 @@ We also use the RoHS directive (Restriction of Hazardous Substances) to confirm 
 
 ### How does XRF work?
 
-X-ray fluorescence (XRF) is a fast method for measuring elements in materials such as plastic, metal or soil. The material stays intact. XRF accurately measures the elements from beryllium (Be) to uranium (U), down to ppm level (parts per million).
+X-ray fluorescence (XRF) is a fast method for measuring elements in materials such as plastic, metal or soil. The material stays intact. XRF measures the total amount of an element, down to ppm level (parts per million). That way we can see straight away whether lead, cadmium, mercury, chromium or bromine is getting close to a limit value. Determining hexavalent chromium or certain bromine compounds separately requires a laboratory analysis.
 
 This shows us whether our pallets stay within the limits. That check is especially important for recycled plastic, because the material comes from different waste streams.
 
@@ -77,7 +77,7 @@ For customers who compare products, the carbon footprint is increasingly a decid
 
 We use the results of our carbon footprint analysis as a baseline and as a starting point for improving the environmental performance of our pallets. With strict design targets for energy and material efficiency, we keep emissions as low as possible. Two choices help here:
 
-* **Recycled material.** We make our standard pallets from almost 100% recycled plastic.
+* **Recycled material.** We make our standard pallets from nearly 100% recycled plastic.
 * **Short distances.** We produce in six factories across Europe, close to our customers. Read more about [local production](@about-local).
 
 In October 2026 we again earned the EcoVadis bronze medal.

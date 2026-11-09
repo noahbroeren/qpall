@@ -25,7 +25,7 @@ Chemische Produkte werden oft in Säcken, Big Bags, Oktabins oder Fässern trans
 - **Keine Nägel oder Splitter.** Ihre Verpackung bleibt intakt und Ihr Produkt sauber.
 - **Maßhaltig mit gleichbleibendem Gewicht.** Ideal für Palettierroboter und Rollenbahnen.
 - **So stark wie Holz**, aber mit einer viel längeren Lebensdauer.
-- **Zirkulär:** aus recyceltem Kunststoff hergestellt und am Ende der Lebensdauer vollständig recycelbar.
+- **Zirkulär:** aus fast 100 % recyceltem Kunststoff hergestellt und am Ende der Lebensdauer vollständig recycelbar.
 
 ## Unsere empfohlenen Paletten
 

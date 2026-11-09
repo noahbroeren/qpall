@@ -7,16 +7,16 @@ h1: "**Plastic pallet** glossary"
 lead: "All the terms you come across when choosing a plastic pallet, explained briefly and clearly. Followed by the questions we are asked most often."
 faq:
   - q: "What are plastic pallets made of?"
-    a: "Q-Pall makes its pallets from recycled polyethylene (HDPE, recycling code 2) and polypropylene (PP). Only the hygienic pallets are made of virgin plastic."
+    a: "Q-Pall makes its pallets from nearly 100% recycled polyethylene (HDPE, recycling code 2) and polypropylene (PP); light pallets also contain LDPE. Only the hygienic pallets are made of virgin plastic."
   - q: "How are plastic pallets produced?"
     a: "By high-pressure injection moulding. Molten plastic granulate is pressed into a steel mould. This creates a complete, dimensionally stable pallet in one go."
   - q: "How many types of plastic pallets are there?"
-    a: "Q-Pall has around 130 models in nine sizes, from 600 x 400 mm to 1300 x 1100 mm, in light, medium and heavy. See the [full range](@pallets)."
+    a: "Q-Pall has around 130 versions in nine sizes, from 600 x 400 mm to 1300 x 1100 mm, in light, medium and heavy. See the [full range](@pallets)."
   - q: "Why are plastic pallets safer to use?"
     a: "They have no nails, splinters or loose boards. They do not absorb moisture, do not go mouldy and are free of pests, so no ISPM 15 treatment is needed. Thanks to their fixed dimensions, they cause fewer disruptions in automated systems."
   - q: "Why are plastic pallets cost-effective?"
     a: "The purchase price is often higher than for wood, but a plastic pallet lasts much longer. So calculate the cost per trip. On top of that, there is less damage to loads and machines, no repair or treatment costs, and residual value when the pallet is recycled. Read more in our [price guide](@guide-prices)."
-  - q: "How do plastic pallets reduce CO2 emissions?"
+  - q: "How do plastic pallets reduce CO₂ emissions?"
     a: "A lower tare weight means more load per trip and less fuel. Local production shortens the transport distance. And because the pallets last a long time and can be recycled afterwards, less new raw material is needed."
   - q: "Can you put a company logo on the pallets?"
     a: "Yes, by hot stamping, screen printing or an insert in the mould. Your own RAL colour is also possible for larger projects. See [customisation](@about-custom)."
@@ -59,7 +59,7 @@ Blocks on the underside of the pallet, usually 9 of them. Pallets with feet are 
 A hygienic plastic pallet in Euro pallet size, originally a pool pallet for the meat industry. See [hygienic pallets](@type-hygienic).
 
 ### HDPE and PP
-The two plastics our standard pallets are made of: high-density polyethylene (HDPE, recycling code 2) and polypropylene (PP). Both are easy to recycle. Read more about code 2 in [recycled PE-HD 2: what is it exactly?](@news-hdpe)
+The two plastics our standard pallets are mainly made of: high-density polyethylene (HDPE, recycling code 2) and polypropylene (PP). Light pallets also contain LDPE. Both are easy to recycle. Read more about code 2 in [recycled PE-HD 2: what is it exactly?](@news-hdpe)
 
 ### ISPM 15
 The international standard for wooden packaging material in export. Plastic pallets are exempt from it. See [ISPM 15 and export](@guide-ispm).

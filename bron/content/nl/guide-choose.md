@@ -43,7 +43,7 @@ Een **open dek** is lichter en goedkoper. Vocht loopt weg en lucht kan circulere
 ## Stap 5: pootjes of onderlatten
 
 - **9 pootjes:** licht, vaak nestbaar en van vier kanten in te steken met heftruck en pompwagen. Ideaal voor [export](@type-export).
-- **3 onderlatten:** stabiel op de vloer, op rollenbanen en in palletstellingen.
+- **3 onderlatten:** stabiel op de vloer en op rollenbanen; in medium- en heavy uitvoering ook in palletstellingen.
 - **5 of 6 onderlatten:** nog meer steun en een gelijkmatigere verdeling van de last. Bij 6 onderlatten (rondloper) is de onderzijde rondom gesloten.
 
 Wilt u een nestbare pallet die op locatie stabieler wordt? Gebruik dan [klikbare onderlatten](@acc-runners).

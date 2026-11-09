@@ -5,7 +5,7 @@ title: "What does a plastic pallet cost? 2026 prices by size"
 description: "What does a plastic pallet cost in 2026? From-prices by size and load class, from display pallet to heavy-duty, plus what determines the price."
 eyebrow: "Price guide 2026"
 h1: "What does a **plastic pallet** cost?"
-lead: "A plastic pallet costs anything from a few euros for a display pallet to over € 50 for a heavy-duty pallet with a closed deck. Below you can see the from-prices by size and load class, and what determines the price."
+lead: "A plastic pallet costs anything from a few euros for a display pallet to over € 50 for a heavy-duty pallet with a closed deck. On this page you will find the from-prices by size and load class, and what determines the price."
 reading: 5
 faq:
   - q: "What does a plastic Euro pallet cost?"

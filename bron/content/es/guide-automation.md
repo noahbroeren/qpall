@@ -21,7 +21,7 @@ En un almacén manual, el carretillero corrige un palet torcido o dañado. En un
 
 ## Cinco propiedades que cuentan
 
-* **Estabilidad dimensional.** Un palet de plástico moldeado por inyección siempre tiene la misma medida. No se hincha ni se encoge con la humedad.
+* **Estabilidad dimensional.** Un palet de plástico moldeado por inyección tiene una medida fija, dentro de tolerancias estrechas. No se hincha ni se encoge con la humedad.
 * **Peso constante.** Importante para los sistemas de pesaje y los controles en la línea.
 * **Sin clavos ni astillas.** Nada se engancha en rodillos, cadenas o sensores.
 * **La base adecuada.** Para transportadores de rodillos y de cadenas, elija un palet con patines, como casi todos nuestros [palets Heavy](@class-heavy): tres o seis patines continuos ofrecen una superficie de rodadura uniforme. Los palets con pies son menos adecuados para transportadores de rodillos.

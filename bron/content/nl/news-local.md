@@ -33,7 +33,7 @@ Ook regelgeving speelt een steeds grotere rol. Grote bedrijven moeten steeds bet
 
 ## Het Q-Pall-model: dicht bij de klant produceren
 
-Bij Q-Pall zien we productie niet als een kostenpost, maar als een instrument voor leverzekerheid. We kozen bewust voor nearshoring. We produceren in [zes fabrieken verspreid over Europa](@about-local), zodat bijna elke klant binnen 600 kilometer van een Q-Pall-fabriek zit. Zo is er geen 'single point of failure'.
+Bij Q-Pall zien we productie niet als een kostenpost, maar als een instrument voor leverzekerheid. We kozen bewust voor nearshoring. We produceren in [zes fabrieken verspreid over Europa](@about-local), zodat bijna elke klant binnen 600 kilometer van een Q-Pall-fabriek zit.
 
 Dat werkt anders dan import van verre. Intercontinentale zeevracht is gevoelig voor weken vertraging. Ons netwerk kan binnen enkele dagen schakelen en leveren, zonder afhankelijk te zijn van één haven of één route.
 
@@ -45,7 +45,7 @@ Een regionale aanpak zorgt ook voor stabielere prijzen. Containertarieven schomm
 
 Lokale productie geeft ook grip op de grondstofstroom: de *chain of custody*. Dat is essentieel voor bedrijven die hun ESG-doelen serieus nemen en greenwashing willen voorkomen.
 
-Onze standaardpallets maken we van gerecycled kunststof, een mix van HDPE (code 2) en PP (code 5). Meer over dat materiaal leest u in [gerecycled PE-HD 2: wat is het precies?](@news-hdpe) Doordat we het recyclaat dicht bij huis inkopen, hebben we direct zicht op de kwaliteit en herkomst. Afval wordt niet de halve wereld over gestuurd voordat het een nieuw leven krijgt. Lokaal afval wordt een lokale grondstof en een lokaal product.
+Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE (code 2) en PP (code 5). Meer over dat materiaal leest u in [gerecycled PE-HD 2: wat is het precies?](@news-hdpe) Doordat we het recyclaat dicht bij huis inkopen, hebben we direct zicht op de kwaliteit en herkomst. Afval wordt niet de halve wereld over gestuurd voordat het een nieuw leven krijgt. Lokaal afval wordt een lokale grondstof en een lokaal product.
 
 Het resultaat is een pallet die technisch sterk is (slagvast, weersbestendig en goed te reinigen) en die een eerlijk verhaal vertelt in uw duurzaamheidsverslag. Aan het einde van zijn leven is de pallet volledig recyclebaar, in dezelfde regionale keten. Wat lokale productie betekent voor transport, CO₂ en recyclaat, leest u in [lokale productie van kunststof pallets en duurzaamheid](@news-local-sustainability).
 

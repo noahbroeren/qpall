@@ -7,7 +7,7 @@ h1: "**Pallet espositori** in plastica"
 lead: "Dal centro di distribuzione allo scaffale senza riconfezionare. I nostri pallet espositori sono leggeri, incastrabili e disponibili nei formati quarto di pallet e mezzo pallet."
 faq:
   - q: "Che cos’è un pallet espositore?"
-    a: "Un pallet espositore è un piccolo pallet, di solito un quarto o un mezzo pallet, su cui i prodotti vengono presentati direttamente in negozio. Il pallet viene caricato al centro di distribuzione e posizionato nel punto vendita con un carrello porta-pallet o un transpallet manuale."
+    a: "Un pallet espositore è un piccolo pallet, di solito un quarto o un mezzo pallet, su cui i prodotti vengono presentati direttamente in negozio. Il pallet viene caricato al centro di distribuzione e posizionato nel punto vendita con un carrello porta-pallet o un transpallet."
   - q: "In quali formati sono disponibili i pallet espositori?"
     a: "Abbiamo pallet espositori da 600 x 400 mm (quarto di pallet) e da 600 x 800 mm (mezzo pallet), nelle classi Light, Medium e Heavy."
   - q: "Come vengono imballati i pallet espositori?"
@@ -23,7 +23,7 @@ Con un pallet espositore il vostro prodotto va dal centro di distribuzione al pu
 - **Leggeri:** da 2 kg per il 600 x 400 mm a 5,9 kg per il 600 x 800 mm Heavy.
 - **Incastrabili:** i pallet vuoti si inseriscono l’uno nell’altro, così il trasporto di ritorno occupa poco spazio.
 - **Puliti:** niente schegge, chiodi o umidità, e facili da pulire. Importante nella [grande distribuzione](@sector-retail) e per gli alimenti.
-- **Sostenibili:** realizzati in plastica riciclata e completamente riciclabili.
+- **Sostenibili:** realizzati in plastica riciclata quasi al 100% e completamente riciclabili.
 
 ## Scegliete il formato
 

@@ -1,7 +1,7 @@
 ---
 id: news-stackup
-title: "Stack-Up Pallet : 70 % de déplacements en moins – Q-Pall"
-description: "Kwakman Afbouw et Q-Pall ont développé ensemble la Stack-Up Pallet pour le BTP : emboîtable, ergonomique et déjà en place dès le gros œuvre."
+title: "Stack-Up Pallet : 70 % de déplacements en moins – Q-Pall"
+description: "Kwakman Afbouw et Q-Pall ont développé ensemble la Stack-Up Pallet pour le BTP : emboîtable, ergonomique et déjà en place dès le gros œuvre."
 eyebrow: "Actualités"
 tag: "Innovation"
 crumb: "Stack-Up Pallet"
@@ -17,8 +17,8 @@ updated: '2026-11-02'
 >
 > * La Stack-Up Pallet est une palette plastique pour le BTP, développée par Q-Pall avec son partenaire Kwakman Afbouw.
 > * Chaque palette porte quarante plaques de plâtre et est hissée au bon étage dès la phase de gros œuvre.
-> * Résultat : 70 % de déplacements en moins, moins de pénibilité et un chantier plus propre.
-> * Emboîtable : un chargement retour contient cinq à six fois plus de palettes.
+> * Résultat : 70 % de déplacements en moins, moins de pénibilité et un chantier plus propre.
+> * Emboîtable : un chargement retour contient cinq à six fois plus de palettes.
 > * En juin 2026, le lancement était prévu au premier trimestre 2027.
 
 ## Pourquoi le chantier avait besoin d’une meilleure palette
@@ -34,7 +34,7 @@ Pour l’entreprise néerlandaise de second œuvre Kwakman Afbouw, c’était un
 * **Hauteur ergonomique.** La palette amène les plaques à une hauteur de travail confortable pour les monteurs.
 * **Emboîtable.** Les palettes vides s’emboîtent les unes dans les autres, comme nos [palettes emboîtables](@type-nestable). Un chargement retour contient cinq à six fois plus de palettes. Cela réduit les coûts de transport et la main-d’œuvre.
 
-Résultat : **70 % de déplacements en moins** sur le chantier, moins de pénibilité pour les monteurs et un flux de travail plus propre et plus rapide.
+Résultat : **70 % de déplacements en moins** sur le chantier, moins de pénibilité pour les monteurs et un flux de travail plus propre et plus rapide.
 
 ## Une conception circulaire
 
@@ -46,4 +46,4 @@ En juin 2026, les premiers projets pilotes avaient reçu un accueil positif. Le 
 
 La Stack-Up Pallet est un projet que nous avons développé avec un partenaire. Pour d’autres clients, nous adaptons des modèles existants, par exemple avec une couleur propre, un logo ou un marquage. En savoir plus sur le [sur-mesure](@about-custom).
 
-Vous souhaitez savoir quelle palette plastique peut améliorer votre processus sur le chantier ? [Contactez-nous](@contact), nous y réfléchirons volontiers avec vous.
+Vous souhaitez savoir quelle palette plastique peut améliorer votre processus sur le chantier ? [Contactez-nous](@contact), nous y réfléchirons volontiers avec vous.

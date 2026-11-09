@@ -57,7 +57,7 @@ Il piano superiore di un pallet antiscivolo contiene strisce di un materiale sim
 
 ## I pallet antiscivolo di Q-Pall
 
-I pallet antiscivolo fanno parte della nostra gamma standard. La nuova generazione di [pallet Medium antiscivolo](@type-antislip) ha un piano superiore chiuso con strisce antiscivolo integrate:
+I pallet antiscivolo fanno parte della nostra gamma standard. I [pallet Medium antiscivolo](@type-antislip) che abbiamo introdotto a fine 2025 hanno un piano superiore chiuso con strisce antiscivolo integrate:
 
 * **1200 x 800 mm** su 3 slitte.
 * **1200 x 1000 mm** su 3 o 5 slitte.

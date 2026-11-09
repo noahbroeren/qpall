@@ -1,13 +1,13 @@
 ---
 id: class-light
 title: "Pallet in plastica Light – leggeri e incastrabili – Q-Pall"
-description: "Pallet in plastica Light per l’esportazione e l’uso singolo: leggeri, spesso incastrabili, fino a 2.500 kg in statica e 1.000 kg in dinamica. In 7 formati."
+description: "Pallet in plastica Light per l’esportazione e l’uso singolo: leggeri, spesso incastrabili, portata statica fino a 2.500 kg, dinamica 1.000 kg. In 7 formati."
 eyebrow: "Classe di portata Light"
 h1: "Pallet in plastica **Light**"
-lead: "I pallet più leggeri della nostra gamma, pensati per esportazione, spedizioni una tantum e stoccaggio a terra. Sono disponibili [[count]] modelli Light, a partire da [[price_from]] al pezzo."
+lead: "I pallet più leggeri della nostra gamma, pensati per esportazione, spedizioni una tantum e stoccaggio a terra. Sono disponibili [[count]] versioni Light, a partire da [[price_from]] al pezzo."
 faq:
   - q: "Quanto sopporta un pallet in plastica Light?"
-    a: "La maggior parte dei pallet Light sopporta 2.500 kg in statica e 1.000 kg in dinamica. Il pallet espositore Light da 600 x 800 mm sopporta 500 kg in statica. I pallet Light non sono pensati per le scaffalature porta-pallet."
+    a: "La maggior parte dei pallet Light ha una portata statica di 2.500 kg e una portata dinamica di 1.000 kg. Il pallet espositore Light da 600 x 800 mm ha una portata statica di 500 kg. I pallet Light non sono pensati per le scaffalature porta-pallet."
   - q: "Quando scegliere un pallet Light?"
     a: "Quando il pallet non torna indietro, quando il peso conta (ad esempio nel trasporto aereo) o quando volete stoccare i pallet vuoti in modo compatto. Per il trasporto interno con molte movimentazioni o per lo stoccaggio su scaffale, Medium o Heavy sono una scelta migliore."
   - q: "Un pallet Light può andare su scaffale?"

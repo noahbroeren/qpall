@@ -1,7 +1,7 @@
 ---
 id: thanks-apply
 title: Gracias por su candidatura – Q-Pall
-description: Gracias por postularse en Q-Pall. Hemos recibido sus datos y su CV, y nos pondremos en contacto con usted lo antes posible.
+description: Gracias por enviar su candidatura a Q-Pall. Hemos recibido sus datos y su CV, y nos pondremos en contacto con usted lo antes posible.
 eyebrow: Candidatura recibida
 h1: ¡Gracias! **Su candidatura ha llegado.**
 h1_named: ¡Gracias, {name}! **Su candidatura ha llegado.**

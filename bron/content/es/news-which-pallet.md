@@ -46,7 +46,7 @@ Cada palet tiene tres valores de carga: estática (parado en el suelo), dinámic
 
 ### ¿Hay requisitos de calidad especiales?
 
-Algunos sectores tienen requisitos adicionales, por ejemplo de higiene, agarre o dimensiones. El contacto directo con alimentos exige un palet de plástico virgen. Nuestros palets estándar se fabrican con plástico reciclado.
+Algunos sectores tienen requisitos adicionales, por ejemplo de higiene, agarre o dimensiones. El contacto directo con alimentos exige un palet de plástico virgen. Nuestros palets estándar se fabrican con plástico casi 100% reciclado.
 
 ## Cada modelo se prueba
 

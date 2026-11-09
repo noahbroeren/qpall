@@ -27,7 +27,7 @@ next:
   - when: Jetzt
     t: Anfrage erhalten
     d: Ihre Anfrage liegt bei unserem Vertriebsteam in Veghel.
-  - when: Heute
+  - when: Heute oder am nächsten Werktag
     t: Ein Spezialist prüft
     d: Wir wählen die passende Palette, prüfen, in welchem Werk sie verfügbar ist, und suchen den besten Transportweg.
   - when: In der Regel innerhalb 1 Werktages

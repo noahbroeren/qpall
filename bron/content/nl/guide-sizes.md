@@ -13,7 +13,7 @@ faq:
   - q: "Wat zijn de ISO-palletmaten?"
     a: "ISO 6780 noemt zes palletmaten: 1200 x 800, 1200 x 1000, 1219 x 1016 (48 x 40 inch), 1165 x 1165, 1100 x 1100 en 1067 x 1067 mm."
   - q: "Welke palletmaat past het best in een zeecontainer?"
-    a: "Dat hangt af van het type container. Vierkante pallets van 1100 x 1100 mm passen per twee naast elkaar. Met pallets van 760 x 1140 mm laadt u tot 31 pallets in een 40ft container."
+    a: "Dat hangt af van het type container. Vierkante pallets van 1100 x 1100 mm passen per twee naast elkaar. Met pallets van 760 x 1140 mm laadt u tot 31 pallets in een 40 ft container."
   - q: "Wat is het verschil tussen EUR 2 en EUR 3?"
     a: "Beide hebben een grondvlak van 1200 x 1000 mm, maar ze verschillen in opbouw en hoogte. Een houten EUR 2-pallet is 162 mm hoog, een EUR 3-pallet 144 mm, net als de europallet. De EUR 3 wordt vaak als 1000 x 1200 mm geschreven."
   - q: "Hoeveel europallets passen in een vrachtwagen?"
@@ -79,7 +79,7 @@ Meer over [kunststof pallets voor automatisering](@guide-automation).
 
 ### Containers
 
-Een 20ft zeecontainer is binnen ongeveer 5,9 meter lang, een 40ft container ongeveer 12 meter. Europallets vullen een container niet altijd goed. Met industriepallets van 1200 x 1000 mm, vierkante pallets van [1100 x 1100 mm](@size-1100x1100) of CP5-pallets van [760 x 1140 mm](@size-760x1140) benut u de ruimte vaak beter.
+Een 20 ft zeecontainer is binnen ongeveer 5,9 meter lang, een 40 ft container ongeveer 12 meter. Europallets vullen een container niet altijd goed. Met industriepallets van 1200 x 1000 mm, vierkante pallets van [1100 x 1100 mm](@size-1100x1100) of CP5-pallets van [760 x 1140 mm](@size-760x1140) benut u de ruimte vaak beter.
 
 ## Hoogte en vrije insteekhoogte
 

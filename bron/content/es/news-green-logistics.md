@@ -13,7 +13,7 @@ faq:
 - q: "¿Qué es la logística verde?"
   a: "La logística verde (green logistics) es una logística con el menor impacto ambiental posible: menos emisiones, menos residuos y un uso más eficiente de los recursos. La elección de los palets también influye."
 - q: "¿Los palets de plástico son más ligeros que los de madera?"
-  a: "A menudo sí, según el tipo. Los palets Light son mucho más ligeros que la madera. Los palets Heavy pesan de 17 a 28 kg, más o menos lo mismo que un europalet de madera de unos 25 kg."
+  a: "A menudo sí, según el tipo. Los palets Light son mucho más ligeros que la madera. Los palets Heavy pesan aproximadamente de 17 a 29 kg, más o menos lo mismo que un europalet de madera de unos 25 kg."
 - q: "¿Cómo contribuye la producción local a la logística verde?"
   a: "En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Producimos en seis fábricas europeas, de modo que casi todos los clientes están a menos de 600 kilómetros de una fábrica."
 published: '2023-09-11'
@@ -24,7 +24,7 @@ updated: '2026-11-02'
 > * La logística verde busca menos emisiones y residuos en el transporte y el almacenaje. El palet también cuenta.
 > * Los palets de plástico suelen ser más ligeros que los de madera, sobre todo en la clase Light. Eso ahorra combustible.
 > * Duran muchos años y después son totalmente reciclables.
-> * Nuestros palets estándar son de plástico reciclado casi al 100%: 34.500 toneladas en 2025.
+> * Nuestros palets estándar son de plástico casi 100% reciclado: 34.500 toneladas en 2025.
 > * La producción local en seis fábricas europeas limita el transporte de los propios palets.
 
 ## ¿Qué es la logística verde?
@@ -37,7 +37,7 @@ Un elemento que a menudo se pasa por alto es la elección de los palets. Los pal
 
 Los palets de plástico suelen ser más ligeros que los de madera, según el tipo. Sobre todo los [palets Light](@class-light) pesan mucho menos. Una tara menor significa más carga por viaje y menos combustible, y por tanto menos emisiones.
 
-En aplicaciones pesadas, la diferencia es menor. Un palet de plástico Heavy pesa de 17 a 28 kg, un europalet de madera unos 25 kg. La ventaja está entonces sobre todo en la larga vida útil y el peso constante, porque el plástico no absorbe humedad.
+En aplicaciones pesadas, la diferencia es menor. Un palet de plástico Heavy pesa aproximadamente de 17 a 29 kg, un europalet de madera unos 25 kg. La ventaja está entonces sobre todo en la larga vida útil y el peso constante, porque el plástico no absorbe humedad.
 
 ## Duraderos y reutilizables
 
@@ -61,7 +61,7 @@ En la compra, los palets de plástico suelen ser más caros que los de madera. S
 
 ## Q-Pall: un paso más allá
 
-Fabricamos nuestros palets estándar con plástico reciclado casi al 100%. En 2025 procesamos 34.500 toneladas de plástico reciclado, unos 1.475 camiones completos. Esto ayuda a reducir la cantidad de residuos plásticos que, de otro modo, acabarían en vertederos, incineradoras o en los océanos.
+Fabricamos nuestros palets estándar con plástico casi 100% reciclado. En 2025 procesamos 34.500 toneladas de plástico reciclado, unos 1.475 camiones completos. Esto ayuda a reducir la cantidad de residuos plásticos que, de otro modo, acabarían en vertederos, incineradoras o en los océanos.
 
 Además, producimos [localmente](@about-local), en seis fábricas repartidas por Europa. En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Como casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall, las distancias de transporte son cortas.
 

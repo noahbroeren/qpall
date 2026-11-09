@@ -32,7 +32,7 @@ updated: '2026-11-02'
 
 Vergelijkt u [kunststof pallets met houten pallets](@guide-wood), dan wint kunststof op veel punten. Kunststof neemt geen vocht op en is goed te reinigen. Het splintert niet en er zijn geen spijkers die loskomen.
 
-Kunststof pallets zijn bovendien vaak lichter, afhankelijk van het type. Een nestbare kunststof europallet weegt ruim 5 kg, een houten europallet zo'n 25 kg. Een heavy kunststof pallet weegt 17 tot 28 kg, dus ongeveer evenveel als een houten europallet.
+Kunststof pallets zijn bovendien vaak lichter, afhankelijk van het type. Een nestbare kunststof europallet weegt ruim 5 kg, een houten europallet zo'n 25 kg. Een heavy kunststof pallet weegt ca. 17 tot 29 kg, dus ongeveer evenveel als een houten europallet.
 
 Waarom worden er dan nog zoveel houten pallets gebruikt? Vooral vanwege de prijs. Per stuk is een houten pallet meestal goedkoper.
 

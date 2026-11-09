@@ -15,7 +15,7 @@ faq:
 - q: "I pallet in plastica con codice 7 sono difficili da riciclare?"
   a: "Spesso sì. Molti impianti di riciclo non sono attrezzati per queste «altre» plastiche. Chiedete quindi sempre la composizione e cosa succede al pallet a fine vita."
 - q: "Di cosa sono fatti i pallet Q-Pall?"
-  a: "I nostri pallet standard sono in plastica riciclata, una miscela di HDPE (2) e PP (5). Solo i nostri pallet igienici, i pallet H1 e i pallet per camera bianca sono in plastica vergine. A fine vita i nostri pallet sono completamente riciclabili."
+  a: "I nostri pallet standard sono in plastica riciclata quasi al 100%, una miscela di HDPE (2) e PP (5), nei pallet Light anche LDPE (4). Solo i nostri pallet igienici, i pallet H1 e i pallet per camera bianca sono in plastica vergine. A fine vita i nostri pallet sono completamente riciclabili."
 published: '2023-10-09'
 updated: '2026-11-02'
 ---

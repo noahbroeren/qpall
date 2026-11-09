@@ -13,7 +13,7 @@ faq:
 - q: "Warum eignen sich Kunststoffpaletten für das Gastgewerbe?"
   a: "Kunststoffpaletten splittern nicht, nehmen keine Feuchtigkeit auf und lassen sich gut reinigen. Schmutz kann sich nicht im Material festsetzen, wie es bei porösem Holz der Fall ist."
 - q: "Dürfen Lebensmittel direkt auf eine Kunststoffpalette?"
-  a: "Für direkten Lebensmittelkontakt ist Neuware der Standard. Deshalb bestehen unsere Hygienepaletten aus Neuware. Unsere anderen Paletten sind aus recyceltem Kunststoff und für verpackte Produkte gedacht."
+  a: "Für direkten Lebensmittelkontakt ist Neuware der Standard. Deshalb bestehen unsere Hygienepaletten aus Neuware. Unsere anderen Paletten sind aus fast 100 % recyceltem Kunststoff und für verpackte Produkte gedacht."
 - q: "Kann ich auch nur wenige Paletten bestellen?"
   a: "Wir liefern pro vollem Stapel, zum Beispiel 45 nestbare oder 17 Medium-Paletten. Brauchen Sie weniger? Dann hilft Ihnen ein [Händler in Ihrer Nähe](@dealers) weiter."
 published: '2022-01-12'
@@ -43,7 +43,7 @@ Verwenden Sie auch eine Auffangwanne? Sie fängt auslaufende Flüssigkeiten auf,
 
 ## Hygienepaletten für Lebensmittelkontakt und HACCP
 
-Unsere Standardpaletten fertigen wir aus recyceltem Kunststoff. Sie sind für verpackte Produkte gedacht, nicht für den direkten Kontakt mit Lebensmitteln. Kommen Lebensmittel direkt auf die Palette, oder arbeiten Sie in einem HACCP-Umfeld mit strengen Anforderungen? Dann wählen Sie eine [Hygienepalette](@type-hygienic). Sie besteht aus Neuware und ist vollständig glatt ausgeführt, sodass Sie sie schnell und gründlich reinigen können.
+Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff. Sie sind für verpackte Produkte gedacht, nicht für den direkten Kontakt mit Lebensmitteln. Kommen Lebensmittel direkt auf die Palette, oder arbeiten Sie in einem HACCP-Umfeld mit strengen Anforderungen? Dann wählen Sie eine [Hygienepalette](@type-hygienic). Sie besteht aus Neuware und ist vollständig glatt ausgeführt, sodass Sie sie schnell und gründlich reinigen können.
 
 ## Von der Palette zur geschlossenen Box
 

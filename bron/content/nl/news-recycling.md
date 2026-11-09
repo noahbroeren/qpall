@@ -37,7 +37,7 @@ Zo blijft kunststof in de kringloop en is er minder nieuwe grondstof nodig. Dat 
 
 ## Van welk kunststof zijn gerecyclede pallets gemaakt?
 
-Onze standaardpallets maken we van gerecycled kunststof: een mix van HDPE (kunststofcode 2) en PP (kunststofcode 5). Het zijn allebei polyolefinen, die zich in de recycling vergelijkbaar gedragen. Onze light pallets bevatten daarnaast LDPE. Wat de codes op kunststof betekenen en welke soorten goed te recyclen zijn, leest u in [RIC-codes van kunststoffen](@news-ric).
+Onze standaardpallets maken we van bijna 100% gerecycled kunststof: een mix van HDPE (kunststofcode 2) en PP (kunststofcode 5). Het zijn allebei polyolefinen, die zich in de recycling vergelijkbaar gedragen. Onze light pallets bevatten daarnaast LDPE. Wat de codes op kunststof betekenen en welke soorten goed te recyclen zijn, leest u in [RIC-codes van kunststoffen](@news-ric).
 
 Het materiaal komt uit afvalstromen van onder meer kratten, doppen van frisdrankflessen en verpakkingen. Werken met recyclaat vraagt veel kennis, want het gedraagt zich anders dan nieuw kunststof. Die kennis bouwen we sinds 2005 op.
 
@@ -46,7 +46,7 @@ Het materiaal komt uit afvalstromen van onder meer kratten, doppen van frisdrank
 1. **Inzamelen.** Post-consumer en industrieel kunststof wordt ingezameld, ook verpakkingsafval van bedrijven.
 2. **Sorteren en controleren.** Het materiaal wordt onder meer gecontroleerd op deeltjesgrootte en samenstelling. Zit er te veel folie of ander vuil in, dan wordt het niet gebruikt.
 3. **Vermalen en reinigen.** Het kunststof wordt vermalen, gereinigd en verwerkt tot gerecycled HDPE en PP.
-4. **Spuitgieten.** Het opgewarmde recyclaat wordt in een matrijs gespoten. Dat gebeurt in de [fabriek die het dichtst bij de klant ligt](@about-local).
+4. **Spuitgieten.** Het opgewarmde recyclaat wordt in een matrijs gespoten. Dat gebeurt in een [fabriek zo dicht mogelijk bij de klant](@about-local).
 5. **Gebruiken.** De pallet gaat vele jaren mee. Hij is slagvast, neemt geen vocht op, heeft geen splinters of spijkers en hoeft niet volgens ISPM 15 te worden behandeld.
 6. **Terug in de kringloop.** Een afgedankte pallet wordt opnieuw vermalen tot grondstof voor nieuwe pallets.
 

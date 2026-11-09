@@ -51,7 +51,7 @@ De belangrijkste gegevens van onze H1-europallet op een rij:
 | Gewicht | 18 kg |
 | Bovendek | Open dek |
 | Onderzijde | 3 onderlatten |
-| Belastingklasse | heavy |
+| Draagklasse | heavy |
 | Statische belasting | 5.000 kg |
 | Dynamische belasting | 1.250 kg |
 | Stellingbelasting | 1.000 kg |

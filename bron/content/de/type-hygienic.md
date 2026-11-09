@@ -11,7 +11,7 @@ faq:
   - q: "Was ist eine H1-Palette?"
     a: "Die H1-Palette ist eine Kunststoffpalette im Europalettenformat, die ursprünglich als Poolpalette für die Fleischindustrie entwickelt wurde. Heute nutzt sie die gesamte Lebensmittelindustrie. Unsere H1-Europalette hat ein offenes Deck auf 3 Kufen."
   - q: "Sind Hygienepaletten aus Neuware oder aus recyceltem Kunststoff?"
-    a: "Unsere Hygienepaletten bestehen aus Neuware, der Norm für den direkten Kontakt mit Lebensmitteln. Alle anderen Q-Pall Paletten fertigen wir aus recyceltem Kunststoff. Sie sind eine nachhaltige Wahl für verpackte Produkte, bei denen die Palette nicht direkt mit dem Lebensmittel in Berührung kommt. Wir beraten Sie gern bei der richtigen Wahl."
+    a: "Unsere Hygienepaletten bestehen aus Neuware, der Norm für den direkten Kontakt mit Lebensmitteln. Alle anderen Q-Pall-Paletten fertigen wir aus fast 100 % recyceltem Kunststoff. Sie sind eine nachhaltige Wahl für verpackte Produkte, bei denen die Palette nicht direkt mit dem Lebensmittel in Berührung kommt. Wir beraten Sie gern bei der richtigen Wahl."
   - q: "Kann ich Hygienepaletten in einer Paletten- oder Tunnelwaschanlage reinigen?"
     a: "Kunststoffpaletten halten der Reinigung mit Wasser, Hochdruck und Reinigungsmitteln stand. Fragen Sie uns nach der maximalen Temperatur und geeigneten Mitteln für das Modell Ihrer Wahl."
 ---

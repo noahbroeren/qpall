@@ -23,7 +23,7 @@ Mit einer Displaypalette gelangt Ihr Produkt in einem Zug vom Distributionszentr
 - **Leicht:** von 2 kg bei 600 x 400 mm bis 5,9 kg bei der Heavy-Palette 600 x 800 mm.
 - **Nestbar:** Leere Paletten lassen sich ineinanderschieben, der Rücktransport braucht also wenig Platz.
 - **Sauber:** keine Splitter, Nägel oder Feuchtigkeit und leicht zu reinigen. Wichtig im [Handel](@sector-retail) und bei Lebensmitteln.
-- **Nachhaltig:** aus recyceltem Kunststoff und vollständig recycelbar.
+- **Nachhaltig:** aus fast 100 % recyceltem Kunststoff und vollständig recycelbar.
 
 ## Wählen Sie Ihre Größe
 

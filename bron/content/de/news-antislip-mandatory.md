@@ -1,17 +1,17 @@
 ---
 id: news-antislip-mandatory
-title: "Rutschfeste Paletten: Sind sie Pflicht? – Q-Pall"
-description: "Sind rutschfeste Paletten Pflicht? Nein, aber Ihre Ladung muss sicher stehen. Erfahren Sie, wann eine Antirutsch-Palette sinnvoll ist und welche es gibt."
+title: "Antirutsch-Paletten: Sind sie Pflicht? – Q-Pall"
+description: "Sind Antirutsch-Paletten Pflicht? Nein, aber Ihre Ladung muss sicher stehen. Erfahren Sie, wann eine Antirutsch-Palette sinnvoll ist und welche es gibt."
 eyebrow: "Aktuelles"
 tag: "Vorschriften"
-crumb: "Rutschfeste Paletten: Pflicht?"
-h1: "Rutschfeste Paletten: **Sind sie Pflicht?**"
-lead: "Glatte Ladung kann auf einer Palette verrutschen. Ist eine rutschfeste Palette dann Pflicht? Nein, aber oft sinnvoll. Wir erklären, wann Antirutsch hilft und welche Antirutsch-Paletten es gibt."
+crumb: "Antirutsch-Paletten: Pflicht?"
+h1: "Antirutsch-Paletten: **Sind sie Pflicht?**"
+lead: "Glatte Ladung kann auf einer Palette verrutschen. Ist eine Antirutsch-Palette dann Pflicht? Nein, aber oft sinnvoll. Wir erklären, wann Antirutsch hilft und welche Antirutsch-Paletten es gibt."
 img_alt: "Schwarze Kunststoffpalette auf drei Kufen mit orangefarbenen Antirutsch-Streifen im Oberdeck"
 reading: 3
 faq:
-- q: "Sind rutschfeste Paletten gesetzlich vorgeschrieben?"
-  a: "Nein, rutschfeste Paletten sind keine gesetzliche Pflicht. Ihre Ladung muss aber bei Transport und Lagerung sicher stehen. Eine Antirutsch-Palette hilft dabei, vor allem bei glatten Verpackungen."
+- q: "Sind Antirutsch-Paletten gesetzlich vorgeschrieben?"
+  a: "Nein, Antirutsch-Paletten sind keine gesetzliche Pflicht. Ihre Ladung muss aber bei Transport und Lagerung sicher stehen. Eine Antirutsch-Palette hilft dabei, vor allem bei glatten Verpackungen."
 - q: "Wie funktioniert das Antirutsch-Deck einer Palette?"
   a: "Im Oberdeck sind Streifen aus einem gummiartigen Material (TPE) eingearbeitet. Sie erzeugen zusätzliche Reibung zwischen Palette und Ladung, sodass die Ladung weniger leicht verrutscht."
 - q: "Brauche ich mit einer Antirutsch-Palette noch Stretchfolie?"
@@ -21,12 +21,12 @@ updated: '2026-11-02'
 ---
 > **Kurz gesagt**
 >
-> * Rutschfeste Paletten sind keine gesetzliche Pflicht.
+> * Antirutsch-Paletten sind keine gesetzliche Pflicht.
 > * Ihre Ladung muss aber bei Transport und Lagerung sicher auf der Palette stehen. Dafür sind Sie verantwortlich.
 > * Antirutsch hilft vor allem bei glatten Verpackungen, wertvoller oder gefährlicher Ladung und schnellen Prozessen mit Rollenbahnen oder AGVs.
 > * Q-Pall hat Antirutsch-Paletten im Standardsortiment: Medium-Paletten in 1200 x 800 und 1200 x 1000 mm sowie die Ultra-Palette der Klasse Heavy.
 
-Eine Palette soll dafür sorgen, dass Waren unbeschädigt ankommen. Steht jedoch glatte Ladung darauf, kann diese bei Transport oder Lagerung verrutschen. Das führt zu Schäden, und bei manchen Produkten können Stoffe austreten, die gesundheitsgefährdend sind. Eine rutschfeste Palette hilft, das zu verhindern. Aber sind Sie verpflichtet, rutschfeste Paletten zu verwenden?
+Eine Palette soll dafür sorgen, dass Waren unbeschädigt ankommen. Steht jedoch glatte Ladung darauf, kann diese bei Transport oder Lagerung verrutschen. Das führt zu Schäden, und bei manchen Produkten können Stoffe austreten, die gesundheitsgefährdend sind. Eine Antirutsch-Palette hilft, das zu verhindern. Aber sind Sie verpflichtet, Antirutsch-Paletten zu verwenden?
 
 ## Warum Ladung auf einer Palette verrutscht
 
@@ -36,11 +36,11 @@ Verpackte Produkte mit glatter Oberfläche, etwa glatte Kartons, Trays, Säcke o
 * **Gefahr.** Herabfallende Ladung kann Mitarbeitende verletzen. Bei Gefahrstoffen kann eine beschädigte Verpackung undicht werden.
 * **Störungen.** In einem automatisierten Lager kann ein einziger verrutschter Karton eine ganze Linie stoppen.
 
-## Sind rutschfeste Paletten Pflicht?
+## Sind Antirutsch-Paletten Pflicht?
 
-Nein. Es gibt keine gesetzliche Pflicht, rutschfeste Paletten zu verwenden. Eine Ladung muss bei Transport und Lagerung aber sicher stehen. Wer Waren befördert oder befördern lässt, muss dafür sorgen.
+Nein. Es gibt keine gesetzliche Pflicht, Antirutsch-Paletten zu verwenden. Eine Ladung muss bei Transport und Lagerung aber sicher stehen. Wer Waren befördert oder befördern lässt, muss dafür sorgen.
 
-Das geht mit Stretchfolie, Spanngurten, einer geeigneten Palette oder einer Kombination davon. Ist Ihre Ladung wertvoll, oder entsteht bei einer Beschädigung eine Gefahr? Dann ist eine rutschfeste Palette auf jeden Fall zu empfehlen.
+Das geht mit Stretchfolie, Spanngurten, einer geeigneten Palette oder einer Kombination davon. Ist Ihre Ladung wertvoll, oder entsteht bei einer Beschädigung eine Gefahr? Dann ist eine Antirutsch-Palette auf jeden Fall zu empfehlen.
 
 ## Wann ist eine Antirutsch-Palette sinnvoll?
 
@@ -57,7 +57,7 @@ Im Oberdeck einer Antirutsch-Palette sind Streifen aus einem gummiartigen Materi
 
 ## Antirutsch-Paletten von Q-Pall
 
-Antirutsch-Paletten gehören bei uns zum Standardsortiment. Die neue Generation der [Medium-Antirutsch-Paletten](@type-antislip) hat ein geschlossenes Oberdeck mit integrierten Antirutsch-Streifen:
+Antirutsch-Paletten gehören bei uns zum Standardsortiment. Die Ende 2025 eingeführten [Medium-Antirutsch-Paletten](@type-antislip) haben ein geschlossenes Oberdeck mit integrierten Antirutsch-Streifen:
 
 * **1200 x 800 mm** auf 3 Kufen.
 * **1200 x 1000 mm** auf 3 oder 5 Kufen.

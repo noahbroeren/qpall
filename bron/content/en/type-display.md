@@ -7,7 +7,7 @@ h1: "Plastic **display pallets**"
 lead: "From distribution centre to shelf without repacking. Our display pallets are light, nestable and available in quarter and half Euro pallet size."
 faq:
   - q: "What is a display pallet?"
-    a: "A display pallet is a small pallet, usually a quarter or half Euro pallet, on which products are presented directly in the shop. The pallet is loaded at the distribution centre (DC) and placed on the shop floor with a dolly or hand pallet truck."
+    a: "A display pallet is a small pallet, usually a quarter or half Euro pallet, on which products are presented directly in the shop. The pallet is loaded at the distribution centre (DC) and placed on the shop floor with a dolly or pallet truck."
   - q: "What sizes of display pallet are available?"
     a: "We have display pallets of 600 x 400 mm (quarter Euro pallet) and 600 x 800 mm (half Euro pallet), in light, medium and heavy."
   - q: "How are display pallets packed?"
@@ -23,7 +23,7 @@ With a display pallet, your product goes from the distribution centre to the sho
 - **Light:** from 2 kg for the 600 x 400 mm to 5.9 kg for the heavy 600 x 800 mm.
 - **Nestable:** empty pallets slide into each other, so return transport takes up little space.
 - **Clean:** no splinters, nails or moisture, and easy to clean. Important in [retail](@sector-retail) and for food.
-- **Sustainable:** made from recycled plastic and fully recyclable.
+- **Sustainable:** made from nearly 100% recycled plastic and fully recyclable.
 
 ## Choose your size
 

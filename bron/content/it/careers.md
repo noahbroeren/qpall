@@ -6,7 +6,7 @@ eyebrow: Lavora con noi
 h1: Lavorare **in Q-Pall**
 lead: In Q-Pall lavorate a pallet con uno scopo. In un team internazionale, con comunicazione diretta e tanto spazio per le vostre iniziative.
 hero:
-  cta: Vedi le posizioni
+  cta: Vedete le posizioni
   cta2: Candidatura spontanea
 why:
   eyebrow: Perché Q-Pall
@@ -14,7 +14,7 @@ why:
   items:
   - icon: leaf
     title: Un prodotto che conta
-    text: Produciamo pallet in plastica riciclata e aiutiamo i clienti di tutta Europa a lavorare in modo più sostenibile.
+    text: Produciamo pallet in plastica riciclata quasi al 100% e aiutiamo i clienti di tutta Europa a lavorare in modo più sostenibile.
   - icon: globe
     title: Internazionale
     text: Sei stabilimenti in Europa e clienti in tutto il mondo. Ogni giorno lavorate oltre i confini.
@@ -27,7 +27,7 @@ why:
 jobs:
   eyebrow: Posizioni aperte
   title: Entrate nel **nostro team**
-  more: Vedi la posizione
+  more: Vedete la posizione
 gallery:
   eyebrow: Il nostro ufficio
   title: Uno sguardo **a Veghel**

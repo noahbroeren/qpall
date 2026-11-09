@@ -55,7 +55,7 @@ You will find the load values for each model under [anti-slip pallets](@type-ant
 
 At Q-Pall, we believe innovation and circularity should go hand in hand. With traditional anti-slip solutions, rubber strips are often difficult to recycle or have to be removed by hand first.
 
-With our new medium pallets, that is not necessary. The anti-slip strips fit into the same recycling process as the pallet itself. So you do not need to detach them at the end of the pallet's life: the pallet is ground **in its entirety, in one go** into granulate for new Q-Pall pallets. Like our other standard pallets, the pallet itself is made of recycled plastic, a mix of HDPE and PP.
+With our new medium pallets, that is not necessary. The anti-slip strips fit into the same recycling process as the pallet itself. So you do not need to detach them at the end of the pallet's life: the pallet is ground **in its entirety, in one go** into granulate for new Q-Pall pallets. Like our other standard pallets, the pallet itself is made of nearly 100% recycled plastic, a mix of HDPE and PP.
 
 ## Testing in your own process
 

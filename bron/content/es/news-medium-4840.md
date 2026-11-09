@@ -36,7 +36,7 @@ Las esquinas del palet son redondeadas. Así, el palet circula sin problemas por
 
 Los ángulos interiores están biselados en todo el perfil del palet. De este modo, las horquillas de la carretilla no se enganchan. Esto evita interrupciones en el proceso logístico y costes adicionales.
 
-También es más seguro: el palet se mueve con facilidad sin arrastrarse por el suelo. Unos pernos de esquina de nuevo diseño hacen que el palet sea especialmente robusto. Con los nervios de apilado en las cuatro esquinas, usted apila los palets de forma fácil y segura.
+También es más seguro: el palet se mueve con facilidad sin arrastrarse por el suelo. Unos pernos de esquina de nuevo diseño hacen que el palet sea especialmente robusto. Con los nervios de apilado en las cuatro esquinas, los palets se apilan de forma fácil y segura.
 
 ## Versiones y capacidad de carga
 

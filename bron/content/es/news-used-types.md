@@ -58,6 +58,6 @@ Nuestros palets higiénicos están fabricados con plástico virgen (nuevo), en u
 
 ## Comprar palets usados
 
-Q-Used no tiene tienda online. El stock cambia continuamente, según los palets que entran. Usted nos indica la medida, la carga y el número de palets que busca, y le decimos qué hay en stock.
+Q-Used no tiene tienda online. El stock cambia continuamente, según los palets que entran. Nos indica la medida, la carga y el número de palets que busca, y le decimos qué hay en stock.
 
 ¿Busca un tipo concreto de palet usado? [Contacte con nosotros](@contact) para conocer el stock actual y recibir un presupuesto.

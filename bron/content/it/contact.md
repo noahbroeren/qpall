@@ -17,7 +17,7 @@ faq:
   - q: "Posso ordinare anche un piccolo numero di pallet?"
     a: "Q-Pall fornisce aziende e vende sempre per pila completa, ad esempio 17 pallet Medium o 45 pallet incastrabili. Gli ordini più grandi vengono consegnati per camion completo. Per quantità più piccole vi indirizziamo volentieri a un [rivenditore vicino a voi](@dealers)."
   - q: "Vengo a caricare o scaricare. Devo registrarmi?"
-    a: "Sì, per favore. Prenotate in anticipo una fascia oraria tramite [registra un trasporto](@transport), possibilmente almeno un giorno lavorativo prima. Così il vostro carico è pronto e ripartite subito."
+    a: "Sì. Prenotate in anticipo una fascia oraria tramite la [registrazione trasporti](@transport), possibilmente almeno un giorno lavorativo prima. Così il vostro carico è pronto e ripartite subito."
   - q: "Vorrei lavorare in Q-Pall. Dove trovo le posizioni aperte?"
     a: "Tutte le posizioni aperte sono sulla nostra [pagina carriere](@careers). Non c’è nulla che faccia per voi? Anche una candidatura spontanea è benvenuta."
 ---

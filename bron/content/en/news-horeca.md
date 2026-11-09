@@ -13,7 +13,7 @@ faq:
 - q: "Why are plastic pallets suitable for the hospitality industry?"
   a: "Plastic pallets do not splinter, do not absorb moisture and are easy to clean. Dirt cannot settle into the material, as it does with porous wood."
 - q: "Can food be placed directly on a plastic pallet?"
-  a: "Virgin plastic is the standard for direct food contact. That is why our hygienic pallets are made of virgin plastic. Our other pallets are made of recycled plastic and are intended for packaged products."
+  a: "Virgin plastic is the standard for direct food contact. That is why our hygienic pallets are made of virgin plastic. Our other pallets are made of nearly 100% recycled plastic and are intended for packaged products."
 - q: "Can I order just a few pallets?"
   a: "We deliver per full stack, for example 45 nestable or 17 medium pallets. Need fewer? Then a [dealer near you](@dealers) can help."
 published: '2022-01-12'
@@ -43,7 +43,7 @@ Do you also use a drip tray? It catches leaking liquids before they soak the res
 
 ## Hygienic pallets for food contact and HACCP
 
-We make our standard pallets from recycled plastic. They are intended for packaged products, not for direct contact with food. Does food come into direct contact with the pallet, or do you work in a HACCP environment with strict requirements? Then choose a [hygienic pallet](@type-hygienic). It is made of virgin (new) plastic and has a completely smooth finish, so you can clean it quickly and thoroughly.
+We make our standard pallets from nearly 100% recycled plastic. They are intended for packaged products, not for direct contact with food. Does food come into direct contact with the pallet, or do you work in a HACCP environment with strict requirements? Then choose a [hygienic pallet](@type-hygienic). It is made of virgin (new) plastic and has a completely smooth finish, so you can clean it quickly and thoroughly.
 
 ## From pallet to closed box
 

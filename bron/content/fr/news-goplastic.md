@@ -24,7 +24,7 @@ updated: '2026-11-02'
 
 Goplasticpallets.com (All Pallets Ltd, Eastbourne) vend les palettes plastique de Q-Pall au Royaume-Uni et y est notre partenaire et [distributeur](@dealers). En 2022, le partenariat a fêté ses dix ans.
 
-À cette occasion, le directeur général Jim Hardisty a fait le point. Qu’est-ce qui rend ce partenariat particulier, quelles palettes marchent bien sur le marché britannique et qu’attend-il de l’avenir ?
+À cette occasion, le directeur général Jim Hardisty a fait le point. Qu’est-ce qui rend ce partenariat particulier, quelles palettes marchent bien sur le marché britannique et qu’attend-il de l’avenir ?
 
 <figure class="prose-fig is-portrait"><img src="/assets/img/news/jim-hardisty.webp" alt="Jim Hardisty, directeur général de Goplasticpallets.com" width="600" height="800" loading="lazy" decoding="async"><figcaption>Jim Hardisty, directeur général de Goplasticpallets.com</figcaption></figure>
 
@@ -56,4 +56,4 @@ Jim Hardisty a aussi souligné la bonne relation personnelle avec l’équipe de
 
 « Nous voyons un partenariat long et fructueux », a déclaré Jim Hardisty en 2022. « Q-Pall continuera à développer sa gamme pour répondre à l’évolution des besoins de la logistique et de l’industrie. Nous continuerons à étoffer notre stock pour répondre aux besoins de nos clients. Ces dix premières années ont été agréables et enrichissantes, et nous nous réjouissons de partager les dix prochaines. »
 
-Vous cherchez des palettes plastique pour votre entreprise, au Royaume-Uni ou ailleurs en Europe ? [Demandez un devis](@quote) : vous recevez généralement un prix sur mesure en un jour ouvrable.
+Vous cherchez des palettes plastique pour votre entreprise, au Royaume-Uni ou ailleurs en Europe ? [Demandez un devis](@quote) : vous recevez généralement un prix sur mesure en un jour ouvrable.

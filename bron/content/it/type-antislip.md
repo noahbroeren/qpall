@@ -1,8 +1,8 @@
 ---
 id: type-antislip
-title: "Pallet in plastica antiscivolo – novità – Q-Pall"
-description: "Novità: pallet in plastica Medium 1200 x 800 e 1200 x 1000 con piano antiscivolo integrato e l’Ultra pallet Heavy. Più presa, meno film estensibile."
-eyebrow: "Novità in gamma"
+title: "Pallet in plastica antiscivolo – Q-Pall"
+description: "Pallet in plastica antiscivolo: Medium 1200 x 800 e 1200 x 1000 con piano antiscivolo integrato e l’Ultra pallet Heavy. Più presa, meno film estensibile."
+eyebrow: "In gamma da fine 2025"
 h1: "Pallet in plastica **con superficie antiscivolo**"
 lead: "Un piano antiscivolo integrato mantiene il carico al suo posto. È più sicuro, usate meno film estensibile e la velocità della linea può aumentare. Adatti ad AGV e rulliere."
 faq:
@@ -11,7 +11,7 @@ faq:
   - q: "Come funziona il piano antiscivolo?"
     a: "Il piano superiore contiene strisce di un materiale simile alla gomma (TPE), che crea un attrito supplementare tra pallet e carico. L’Ultra pallet ha l’antiscivolo anche sul lato inferiore, così è meno probabile che il pallet stesso si sposti."
   - q: "Quali pallet antiscivolo sono disponibili?"
-    a: "I nuovi modelli sono pallet Medium con piano chiuso antiscivolo: 1200 x 800 mm su 3 slitte e 1200 x 1000 mm su 3 o 5 slitte. C’è inoltre l’[Ultra pallet](@ultra) Heavy da 1200 x 1000 mm con antiscivolo sopra e sotto."
+    a: "Da fine 2025 sono disponibili pallet Medium con piano chiuso antiscivolo: 1200 x 800 mm su 3 slitte e 1200 x 1000 mm su 3 o 5 slitte. C’è inoltre l’[Ultra pallet](@ultra) Heavy da 1200 x 1000 mm con antiscivolo sopra e sotto."
 ---
 
 ## Perché l’antiscivolo?
@@ -23,9 +23,9 @@ Nei processi rapidi di order picking e trasporto il carico si sposta facilmente,
 - **Maggiore velocità di linea:** i pallet possono muoversi più velocemente sulle rulliere e nelle curve.
 - **Adatti ad AGV e rulliere:** le slitte chiuse scorrono in modo fluido sui sistemi di trasporto.
 
-## I nuovi pallet Medium antiscivolo
+## I pallet Medium antiscivolo
 
-La nuova generazione di pallet Medium ha un piano superiore chiuso con strisce antiscivolo integrate. Sono disponibili in [1200 x 800 mm](@size-1200x800) su 3 slitte e in [1200 x 1000 mm](@size-1200x1000) su 3 o 5 slitte. Sopportano 6.000 kg in statica, 1.500 kg in dinamica e da 750 a 1.000 kg su scaffale.
+Da fine 2025 offriamo pallet Medium con piano superiore chiuso e strisce antiscivolo integrate. Sono disponibili in [1200 x 800 mm](@size-1200x800) su 3 slitte e in [1200 x 1000 mm](@size-1200x1000) su 3 o 5 slitte. Hanno una portata statica di 6.000 kg, una portata dinamica di 1.500 kg e una portata su scaffale da 750 a 1.000 kg.
 
 ## L’Ultra pallet: per carichi pesanti e antiscivolo
 

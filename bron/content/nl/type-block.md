@@ -4,14 +4,14 @@ title: "Kunststof blokpallets 1200 x 1000 mm – Q-Pall"
 description: "Kunststof blokpallets van 1200 x 1000 mm: robuust, vierzijdig in te steken en geschikt voor stellingen tot 1.375 kg. Medium en heavy, open of gesloten dek."
 eyebrow: "Industrie en stellingopslag"
 h1: "Kunststof **blokpallets**"
-lead: "Stevige pallets van 1200 x 1000 mm voor intensief gebruik, palletstellingen en automatisering. Met [[count]] modellen in medium en heavy."
+lead: "Stevige pallets van 1200 x 1000 mm voor intensief gebruik, palletstellingen en automatisering. Met [[count]] uitvoeringen in medium en heavy."
 faq:
   - q: "Wat is een blokpallet?"
     a: "Een blokpallet is een stevige pallet die op blokken of onderlatten staat en vanaf alle vier de zijden met een heftruck is op te pakken. Kunststof blokpallets zijn er met een open of gesloten dek en met 3, 5 of 6 onderlatten."
   - q: "Zijn kunststof blokpallets geschikt voor palletstellingen?"
     a: "Ja. Onze medium blokpallets dragen 750 tot 1.375 kg in de stelling, de heavy blokpallets 1.250 tot 1.375 kg. Kies altijd een model met een stellingbelasting die hoger is dan het gewicht van uw lading."
   - q: "Welke blokpallet heeft antislip?"
-    a: "De nieuwe medium blokpallets met gesloten dek zijn er ook met antislip, op 3 of 5 onderlatten. Bekijk de [antislip pallets](@type-antislip)."
+    a: "De medium blokpallets met gesloten dek zijn er ook met antislip, op 3 of 5 onderlatten. Bekijk de [antislip pallets](@type-antislip)."
 ---
 
 ## Stevig, maatvast en vierzijdig in te steken

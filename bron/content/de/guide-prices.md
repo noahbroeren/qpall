@@ -5,7 +5,7 @@ title: "Was kostet eine Kunststoffpalette? Preise 2026 nach Größe"
 description: "Was kostet eine Kunststoffpalette 2026? Ab-Preise nach Größe und Lastklasse, von der Displaypalette bis zur Heavy-Duty-Palette, und was den Preis bestimmt."
 eyebrow: "Preisratgeber 2026"
 h1: "Was kostet eine **Kunststoffpalette**?"
-lead: "Eine Kunststoffpalette kostet zwischen wenigen Euro für eine Displaypalette und über 50 € für eine Heavy-Duty-Palette mit geschlossenem Deck. Unten sehen Sie die Ab-Preise nach Größe und Lastklasse und was den Preis bestimmt."
+lead: "Eine Kunststoffpalette kostet zwischen wenigen Euro für eine Displaypalette und über 50 € für eine Heavy-Duty-Palette mit geschlossenem Deck. Hier finden Sie die Ab-Preise nach Größe und Lastklasse und erfahren, was den Preis bestimmt."
 reading: 5
 faq:
   - q: "Was kostet eine Europalette aus Kunststoff?"
@@ -44,7 +44,7 @@ Bei größeren Mengen und kompletten Lkw-Ladungen sinken die Kosten pro Palette.
 
 Der Transport macht einen erheblichen Teil der Kosten aus. Q-Pall produziert in [sechs europäischen Werken](@about-local), daher ist die Entfernung zu Ihnen meist gering. Bei jedem Produkt sehen Sie, an welchen Standorten es hergestellt wird.
 
-## Rechnen Sie in Kosten pro Umlauf
+## Kosten pro Umlauf berechnen
 
 Eine Holzpalette wirkt günstig. Wenn sie aber nach wenigen Umläufen bricht, Splitter in Ihrer Ladung hinterlässt oder für den Export erst behandelt werden muss, sieht die Rechnung anders aus. Eine Kunststoffpalette hält viele Jahre. Teilen Sie den Preis durch die Zahl der Umläufe, dann sehen Sie die tatsächlichen Kosten. Sie suchen einen niedrigeren Einstiegspreis? Sehen Sie sich unsere [gebrauchten Kunststoffpaletten](@used) an.
 

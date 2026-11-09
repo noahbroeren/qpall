@@ -20,7 +20,7 @@ On a nestable pallet, the feet are hollow and tapered. Empty pallets therefore f
 
 - **Less storage space** for your stock of empty pallets.
 - **More pallets per truck** for inbound and return transport.
-- **Lower transport costs and less CO2** per pallet.
+- **Lower transport costs and less CO₂** per pallet.
 
 ## Light and ergonomic
 

@@ -13,6 +13,6 @@ lead: "Alle Paletten nach Größe, mit Abmessungen, Gewicht, Oberdeck, Unterbau 
 - Pro Modell: Artikelnummer, Abmessungen, Gewicht, Oberdeck, Unterbau sowie statische, dynamische und Regalbelastung.
 - Light, Medium und Heavy auf einen Blick, mit deutlichen Kennzeichnungen.
 - Kufen und Klick-Kufen.
-- Die neuen Medium-Antirutsch-Paletten.
+- Die Medium-Antirutsch-Paletten (seit Ende 2025).
 
 Der Katalog ist in sechs Sprachen erhältlich: Niederländisch, Englisch, Deutsch, Französisch, Italienisch und Spanisch. Sie laden automatisch die Version in der Sprache dieser Website herunter. Die Informationen auf dieser Website sind immer am aktuellsten, werfen Sie daher auch einen Blick auf unser [Online-Sortiment](@pallets) mit Filtern und Ab-Preisen.

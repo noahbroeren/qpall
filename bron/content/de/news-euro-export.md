@@ -76,7 +76,7 @@ Eine Palette mit 1200 x 800 mm kann auch eine Einwegpalette sein. Sie ist dann k
 
 ### Lebensmittel und Pharma
 
-Unsere Einwegpaletten bestehen aus recyceltem Kunststoff. Sie sind leicht zu reinigen und enthalten keine organischen Rückstände, sind aber nicht für den direkten Kontakt mit Lebensmitteln bestimmt. Für Anwendungen mit strengen Hygieneanforderungen, etwa in der Lebensmittel- und Pharmaindustrie, bieten wir [Hygienepaletten](@type-hygienic) aus Neuware an.
+Unsere Einwegpaletten bestehen aus fast 100 % recyceltem Kunststoff. Sie sind leicht zu reinigen und enthalten keine organischen Rückstände, sind aber nicht für den direkten Kontakt mit Lebensmitteln bestimmt. Für Anwendungen mit strengen Hygieneanforderungen, etwa in der Lebensmittel- und Pharmaindustrie, bieten wir [Hygienepaletten](@type-hygienic) aus Neuware an.
 
 ## Das Beste aus beiden Welten
 

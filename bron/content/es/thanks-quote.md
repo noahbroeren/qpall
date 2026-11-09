@@ -27,7 +27,7 @@ next:
   - when: Ahora
     t: Solicitud recibida
     d: Su solicitud está en manos de nuestro equipo comercial en Veghel.
-  - when: Hoy
+  - when: Hoy o el siguiente día laborable
     t: Un especialista la revisa
     d: Elegimos el palet adecuado, comprobamos en qué fábrica está disponible y buscamos el mejor transporte.
   - when: Normalmente en 1 día laborable

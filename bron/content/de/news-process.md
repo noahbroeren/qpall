@@ -46,15 +46,15 @@ Splitter scheinen ein Detail zu sein. Bis jemand sich den Handschuh aufreißt, e
 
 Holzpaletten schwanken im Gewicht: pro Stück, pro Charge und je nach Jahreszeit. Wer mit Tara arbeitet, und das tut jeder, der nach Gewicht abrechnet oder transportiert, hat damit eine ständige Quelle von Ungenauigkeit.
 
-Eine Palette mit konstantem Gewicht lässt Ihr Wiegesystem genau das tun, was es soll. Keine Korrekturen im Nachhinein, keine Puffer für Unsicherheit und keine Abweichung zwischen Lieferschein und Waage.
+Eine Palette mit nahezu konstantem Gewicht (innerhalb von ±5 %) lässt Ihr Wiegesystem tun, was es soll. Weniger Korrekturen im Nachhinein, kleinere Puffer für Unsicherheit und kaum Abweichungen zwischen Lieferschein und Waage.
 
 **Was es bringt:** eine verlässliche Tara, planbare Frachtkosten und eine stimmige Buchhaltung.
 
 ## 4. Jedes Mal das gleiche Maß
 
-Automatisierung mag keine Schwankungen. Palettierer, FTS, Fördertechnik und Stapelanlagen sind auf eine feste Grundfläche eingestellt. Eine Palette, die 4 Millimeter zu breit ist oder an der ein Randbrett abgebrochen ist, ist für einen Sensor eine Störung.
+Automatisierung mag keine Schwankungen. Palettierer, FTS, Fördertechnik und Stapelanlagen sind auf eine feste Grundfläche eingestellt. Eine Holzpalette, die einen Zentimeter zu breit ist oder an der ein Randbrett abgebrochen ist, ist für einen Sensor eine Störung.
 
-Eine Palette mit identischen, dauerhaften Maßen passt jedes Mal in dieselbe Aufnahme. Das ist die Grundlage für einen automatisierten Prozess ohne manuelle Eingriffe. Mehr dazu in unserem Ratgeber [Paletten für die Automatisierung](@guide-automation).
+Eine Kunststoffpalette mit festen Maßen innerhalb enger Toleranzen (±5 mm) passt jedes Mal in dieselbe Aufnahme. Das ist die Grundlage für einen automatisierten Prozess ohne manuelle Eingriffe. Mehr dazu in unserem Ratgeber [Paletten für die Automatisierung](@guide-automation).
 
 **Was es bringt:** weniger Anlagenstörungen, ein höherer Durchsatz und geringere Wartungskosten für Ihre Anlage.
 
@@ -68,6 +68,6 @@ Die Palette ist nicht der wichtigste Teil Ihrer Logistikkette. Aber sie ist Teil
 
 Die Frage ist also nicht, welches Material besser ist. Die Frage ist, welche Eigenschaften Ihr Prozess braucht und was es Ihnen bringt, wenn diese nicht mehr schwanken.
 
-Bei Q-Pall fertigen wir unsere Standardpaletten aus recyceltem Kunststoff. Nicht porös, splitterfrei, konstant in Gewicht und Maß, mit [PPWR](@guide-ppwr)-Dokumentation und frei von ISPM 15. Noch unentschieden zwischen Holz und Kunststoff? Lesen Sie [Kunststoff- oder Holzpaletten](@guide-wood).
+Bei Q-Pall fertigen wir unsere Standardpaletten aus fast 100 % recyceltem Kunststoff. Nicht porös, splitterfrei, konstant in Gewicht und Maß, mit [PPWR](@guide-ppwr)-Dokumentation und frei von ISPM 15. Noch unentschieden zwischen Holz und Kunststoff? Lesen Sie [Kunststoff- oder Holzpaletten](@guide-wood).
 
 Möchten Sie wissen, welche Palette am besten zu Ihrem Prozess passt? [Nehmen Sie Kontakt mit uns auf](@contact), wir beraten Sie gern.

@@ -1,12 +1,12 @@
 ---
 id: news-medium-gen3
 title: "Medium plastic pallet 1200 x 800: third generation – Q-Pall"
-description: "In 2023 Q-Pall introduced the third generation of its 1200 x 800 mm medium plastic pallet: almost 100% recycled, with an open or closed deck."
+description: "In 2023 Q-Pall introduced the third generation of its 1200 x 800 mm medium plastic pallet: nearly 100% recycled, with an open or closed deck."
 eyebrow: "News"
 tag: "Product"
 crumb: "Third-generation medium pallet"
 h1: "The third generation **medium plastic pallet 1200 x 800**"
-lead: "In 2023 Q-Pall introduced the third generation of its 1200 x 800 mm medium plastic pallet. The pallet is made from almost 100% recycled plastic and carries up to 750 kg in racking."
+lead: "In 2023 Q-Pall introduced the third generation of its 1200 x 800 mm medium plastic pallet. The pallet is made from nearly 100% recycled plastic and carries up to 750 kg in racking."
 img_alt: "Medium plastic pallet 1200 x 800 mm, half with an open and half with a closed deck, with the text Racking load: 750 kg"
 reading: 2
 published: '2023-03-09'
@@ -15,7 +15,7 @@ updated: '2026-11-02'
 > **In short**
 >
 > * In 2023 Q-Pall introduced the third generation of its 1200 x 800 mm medium plastic pallet.
-> * The pallet is made from almost 100% recycled plastic.
+> * The pallet is made from nearly 100% recycled plastic.
 > * There is a version with an open deck (QP1208MB3RR) and one with a closed deck (QP1208MB3RR-CD), both on three runners.
 > * In racking, the pallet carries up to 500 kg with an open deck and up to 750 kg with a closed deck.
 > * The pallet does not absorb moisture and resists many chemicals.
@@ -39,7 +39,7 @@ These values apply to an evenly distributed load. You can find more information 
 
 ## Made from recycled plastic
 
-The pallet is made from almost 100% recycled plastic, a mix of HDPE and PP. This gives plastic that would otherwise be waste a new life. At the end of its life the pallet is fully recyclable: we take it back and turn it into raw material for new pallets. Read more about our approach to [sustainability](@about-sustainability).
+The pallet is made from nearly 100% recycled plastic, a mix of HDPE and PP. This gives plastic that would otherwise be waste a new life. At the end of its life the pallet is fully recyclable: we take it back and turn it into raw material for new pallets. Read more about our approach to [sustainability](@about-sustainability).
 
 ## Where you can use the pallet
 

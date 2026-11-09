@@ -18,14 +18,14 @@ I nostri pallet standard sono realizzati in plastica riciclata quasi al 100%. So
 
 - **Fondata nel 2005**, con sede centrale a Veghel.
 - **Sei siti produttivi** nei Paesi Bassi, in Danimarca, Germania, Francia, Spagna e nel Regno Unito.
-- **4 milioni di pallet all’anno** di capacità produttiva, in circa 130 modelli e nove formati.
+- **4 milioni di pallet all’anno** di capacità produttiva, in circa 130 versioni e nove formati.
 - **200+ persone nella nostra catena produttiva.**
 - **Una rete di rivenditori** che copre gran parte dell’Europa e gli Stati Uniti.
 - **EcoVadis Bronze** (ottobre 2026) per le nostre prestazioni in materia di sostenibilità.
 
 ## Act global, produce local
 
-Il trasporto è di gran lunga la principale fonte di emissioni di CO2 nella filiera dei pallet. Per questo produciamo il più vicino possibile ai nostri clienti: a Balk (NL), Ribe (DK), Marktoberdorf (DE), Nantes (FR), Lleida (ES) e Chesterfield (UK). Quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento Q-Pall. Scoprite di più sulla [produzione locale](@about-local).
+Il trasporto è di gran lunga la principale fonte di emissioni di CO₂ nella filiera dei pallet. Per questo produciamo il più vicino possibile ai nostri clienti: a Balk (NL), Ribe (DK), Marktoberdorf (DE), Nantes (FR), Lleida (ES) e Chesterfield (UK). Quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento Q-Pall. Scoprite di più sulla [produzione locale](@about-local).
 
 ## Tutta la filiera nelle nostre mani
 

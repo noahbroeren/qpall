@@ -76,7 +76,7 @@ Een pallet van 1200 x 800 mm kan ook een exportpallet zijn. Het is dan geen offi
 
 ### Levensmiddelen en farma
 
-Onze exportpallets zijn van gerecycled kunststof. Ze zijn eenvoudig te reinigen en bevatten geen organische resten, maar ze zijn niet bedoeld voor direct contact met levensmiddelen. Voor toepassingen met strenge hygiëne-eisen, zoals in de voedingsmiddelen- en farmaceutische industrie, hebben we [hygiënische pallets](@type-hygienic) van virgin kunststof.
+Onze exportpallets zijn van bijna 100% gerecycled kunststof. Ze zijn eenvoudig te reinigen en bevatten geen organische resten, maar ze zijn niet bedoeld voor direct contact met levensmiddelen. Voor toepassingen met strenge hygiëne-eisen, zoals in de voedingsmiddelen- en farmaceutische industrie, hebben we [hygiënische pallets](@type-hygienic) van virgin kunststof.
 
 ## Het beste van beide werelden
 

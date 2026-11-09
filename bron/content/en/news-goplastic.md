@@ -17,7 +17,7 @@ updated: '2026-11-02'
 > * Goplasticpallets.com (All Pallets Ltd, Eastbourne) is Q-Pall's UK partner and dealer.
 > * In 2022 the partnership turned ten.
 > * Goplasticpallets.com supplies direct from stock, so Q-Pall has to deliver large quantities quickly.
-> * In the UK, medium and heavy duty pallets sold best, along with nestable pallets for retail and display.
+> * In the UK, medium and heavy-duty pallets sold best, along with nestable pallets for retail and display.
 > * In 2022 Q-Pall had four production sites. Today there are six, including Chesterfield in the United Kingdom.
 
 ## Ten years together
@@ -42,7 +42,7 @@ In 2022 those four sites were in the Netherlands, Denmark and two in Germany. To
 
 ## The pallets UK customers choose
 
-Goplasticpallets.com offered the complete Q-Pall range. The core of the partnership was the range of [medium](@class-medium) and [heavy duty](@class-heavy) pallets.
+Goplasticpallets.com offered the complete Q-Pall range. The core of the partnership was the range of [medium](@class-medium) and [heavy-duty](@class-heavy) pallets.
 
 The company also sold all [nestable pallets](@type-nestable). These are popular with retail customers for point of sale and display, because they are light and easy to handle.
 

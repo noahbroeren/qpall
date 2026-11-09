@@ -1,26 +1,26 @@
 ---
 id: type-nestable
 title: "Palettes plastique emboîtables – gain de place – Q-Pall"
-description: "Les palettes plastique emboîtables s’imbriquent à vide : moins d’espace de stockage et un transport retour moins cher. Light et display, en 8 formats."
+description: "Les palettes plastique emboîtables s’imbriquent à vide : moins d’espace de stockage et un transport retour moins cher. Light et display, en 8 formats."
 eyebrow: "Gain de place"
 h1: "**Palettes plastique** emboîtables"
-lead: "À vide, elles s’emboîtent les unes dans les autres. Les palettes emboîtables n’occupent ainsi qu’une fraction de l’espace au stockage et lors du transport retour. Q-Pall propose [[count]] modèles emboîtables."
+lead: "À vide, elles s’emboîtent les unes dans les autres. Les palettes emboîtables n’occupent ainsi qu’une fraction de l’espace au stockage et lors du transport retour. Q-Pall propose [[count]] versions emboîtables."
 faq:
-  - q: "Qu’est-ce qu’une palette emboîtable ?"
+  - q: "Qu’est-ce qu’une palette emboîtable ?"
     a: "Une palette emboîtable possède des pieds creux qui s’insèrent exactement dans les pieds de la palette du dessous. Les palettes vides s’emboîtent ainsi les unes dans les autres, et une pile est bien moins haute qu’avec des palettes standard."
-  - q: "Puis-je rendre une palette emboîtable plus stable ?"
+  - q: "Puis-je rendre une palette emboîtable plus stable ?"
     a: "Oui. Sur de nombreuses palettes emboîtables sur 9 pieds, vous pouvez clipser des [semelles](@acc-runners) sans outil. Vous obtenez alors une palette sur 3 semelles qui circule mieux sur les convoyeurs à rouleaux. Comme vous ne montez les semelles que sur place, vous conservez l’avantage de l’emboîtement."
-  - q: "Les palettes emboîtables conviennent-elles au rayonnage à palettes ?"
+  - q: "Les palettes emboîtables conviennent-elles au rayonnage à palettes ?"
     a: "En général, non. Presque toutes nos palettes emboîtables sont des palettes Light destinées au transport, à l’export et au stockage au sol. Seules quelques palettes display emboîtables existent en Medium et Heavy. Pour le rayonnage, choisissez une palette Medium ou Heavy sur semelles."
 ---
 
-## Comment fonctionne l’emboîtement ?
+## Comment fonctionne l’emboîtement ?
 
-Sur une palette emboîtable, les pieds sont creux et coniques. Les palettes vides s’imbriquent donc les unes dans les autres, comme des gobelets en plastique. Une pile de palettes vides est bien moins haute qu’une pile de palettes standard. Cela présente trois avantages majeurs :
+Sur une palette emboîtable, les pieds sont creux et coniques. Les palettes vides s’imbriquent donc les unes dans les autres, comme des gobelets en plastique. Une pile de palettes vides est bien moins haute qu’une pile de palettes standard. Cela présente trois avantages majeurs :
 
 - **Moins d’espace de stockage** pour votre stock de palettes vides.
 - **Plus de palettes par camion** à l’aller comme au retour.
-- **Des coûts de transport réduits et moins de CO2** par palette.
+- **Des coûts de transport réduits et moins de CO₂** par palette.
 
 ## Légères et ergonomiques
 

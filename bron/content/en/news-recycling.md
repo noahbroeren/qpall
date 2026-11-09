@@ -37,7 +37,7 @@ This keeps plastic in the loop and reduces the need for new raw material. It is 
 
 ## What are recycled plastic pallets made of?
 
-We make our standard pallets from recycled plastic: a mix of HDPE (plastic code 2) and PP (plastic code 5). Both are polyolefins, which behave similarly in recycling. Our light pallets also contain LDPE. To find out what the codes on plastic mean and which types are easy to recycle, read [resin identification codes explained](@news-ric).
+We make our standard pallets from nearly 100% recycled plastic: a mix of HDPE (plastic code 2) and PP (plastic code 5). Both are polyolefins, which behave similarly in recycling. Our light pallets also contain LDPE. To find out what the codes on plastic mean and which types are easy to recycle, read [resin identification codes explained](@news-ric).
 
 The material comes from waste streams such as crates, soft drink bottle caps and packaging. Working with recycled plastic takes a lot of expertise, because it behaves differently from new plastic. We have been building up that expertise since 2005.
 
@@ -46,7 +46,7 @@ The material comes from waste streams such as crates, soft drink bottle caps and
 1. **Collection.** Post-consumer and industrial plastic is collected, including packaging waste from businesses.
 2. **Sorting and checking.** The material is checked for particle size and composition, among other things. If it contains too much film or other dirt, it is not used.
 3. **Grinding and cleaning.** The plastic is ground, cleaned and turned into recycled HDPE and PP.
-4. **Injection moulding.** The heated recycled material is injected into a mould. This happens in the [factory closest to the customer](@about-local).
+4. **Injection moulding.** The heated recycled material is injected into a mould. This happens in a [factory as close to the customer as possible](@about-local).
 5. **Use.** The pallet lasts for many years. It is impact resistant, does not absorb moisture, has no splinters or nails and does not need ISPM 15 treatment.
 6. **Back into the loop.** A discarded pallet is ground again into raw material for new pallets.
 

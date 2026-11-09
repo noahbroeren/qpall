@@ -58,7 +58,7 @@ Verwenden Sie nur Mittel und Temperaturen, die für Kunststoff geeignet sind. Fr
 
 In der Lebensmittel- und Pharmaindustrie sind die Hygieneanforderungen hoch. Achten Sie bei der Reinigung daher immer auf die HACCP-Anforderungen in Ihrer Branche. Legen Sie fest, wie oft Sie die Paletten reinigen, mit welchen Mitteln und wer das kontrolliert.
 
-Mehr über die Rolle der Palette lesen Sie unter [Kunststoffpaletten für die HACCP-Branche](@news-haccp).
+Mehr über die Rolle der Palette lesen Sie unter [Paletten und HACCP](@news-haccp).
 
 ### Reinraumpaletten
 

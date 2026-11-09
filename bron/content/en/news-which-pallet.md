@@ -46,7 +46,7 @@ Will the pallet make only one trip, for example for export? Then a light pallet,
 
 ### Are there special quality requirements?
 
-Some sectors have extra requirements, for example for hygiene, grip or dimensions. Direct contact with food requires a pallet made of virgin plastic. Our standard pallets are made from recycled plastic.
+Some sectors have extra requirements, for example for hygiene, grip or dimensions. Direct contact with food requires a pallet made of virgin plastic. Our standard pallets are made from nearly 100% recycled plastic.
 
 ## Every model is tested
 

@@ -62,6 +62,6 @@ Ist CSR ein wichtiger Teil Ihrer Unternehmensführung? Dann ziehen Sie auch gebr
 
 Auch die Gesetzgebung fordert mehr Rücksicht auf die Umwelt. Die europäische Verpackungsverordnung PPWR ist seit Februar 2025 in Kraft und gilt seit dem 12. August 2026. Paletten sind Transportverpackungen und fallen damit ebenfalls darunter.
 
-Ab 2030 müssen Verpackungen in Klasse A, B oder C recycelbar sein, wobei Klasse C mindestens 70 % bedeutet. Q-Pall hat für jede Palettengruppe eine PPWR-Konformitätserklärung; bei den meisten Modellen laden Sie sie auf der Produktseite herunter. Mehr dazu in unserem Leitfaden [PPWR und Kunststoffpaletten](@guide-ppwr).
+Ab 2030 müssen Verpackungen in Stufe A, B oder C recycelbar sein, wobei Stufe C mindestens 70 % bedeutet. Q-Pall hat für jede Palettengruppe eine PPWR-Konformitätserklärung; bei den meisten Modellen laden Sie sie auf der Produktseite herunter. Mehr dazu in unserem Leitfaden [PPWR und Kunststoffpaletten](@guide-ppwr).
 
 Sie möchten wissen, welche Palette zu Ihrer Anwendung und Ihren Nachhaltigkeitszielen passt? [Sprechen Sie uns an](@contact), wir beraten Sie gern.

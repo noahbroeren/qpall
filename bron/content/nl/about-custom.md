@@ -16,7 +16,7 @@ faq:
 
 ## Slimme aanpassingen binnen bestaande modellen
 
-Een volledig nieuw palletontwerp kost veel tijd en geld. Daarom kijken we eerst naar wat er kan binnen ons bestaande assortiment van zo'n 130 modellen. Vaak is een kleine aanpassing genoeg:
+Een volledig nieuw palletontwerp kost veel tijd en geld. Daarom kijken we eerst naar wat er kan binnen ons bestaande assortiment van zo'n 130 uitvoeringen. Vaak is een kleine aanpassing genoeg:
 
 - **Logo of bedrukking** op de pallet.
 - **Een eigen kleur**, bijvoorbeeld om pools of afdelingen te onderscheiden.
@@ -31,7 +31,7 @@ Een volledig nieuw palletontwerp kost veel tijd en geld. Daarom kijken we eerst 
 3. **Engineering:** onze engineers bekijken welke oplossing haalbaar is.
 4. **Prototype:** waar nodig maken we een 3D-model of prototype.
 5. **Matrijs:** we passen de matrijs aan of maken een inzetstuk.
-6. **Productie:** we produceren in de fabriek die het dichtst bij u ligt.
+6. **Productie:** we produceren zo dicht mogelijk bij u.
 
 ## Leverzekerheid
 

@@ -19,7 +19,7 @@ faq:
 - q: ¿Qué diferencia hay entre el HDPE (2) y el LDPE (4)?
   a: "Ambos son polietileno. El HDPE tiene una densidad mayor, por lo que es más rígido y resistente; se usa en botellas, cajas y palets. El LDPE es más flexible y se usa sobre todo en films y bolsas."
 - q: ¿De qué están hechos los palets de Q-Pall?
-  a: "Fabricamos nuestros palets estándar con plástico reciclado, una mezcla de HDPE y PP. Solo nuestros palets higiénicos son de plástico virgen. Nuestros palets de plástico reciclado no están destinados al contacto directo con alimentos. ¿Busca un palet para contacto directo con alimentos? Contáctenos y le asesoraremos con gusto."
+  a: "Fabricamos nuestros palets estándar con plástico casi 100% reciclado, una mezcla de HDPE y PP (en los palets Light, también LDPE). Solo nuestros palets higiénicos son de plástico virgen. Nuestros palets de plástico reciclado no están destinados al contacto directo con alimentos. ¿Busca un palet para contacto directo con alimentos? Contáctenos y le asesoraremos con gusto."
 published: '2025-04-19'
 updated: '2026-10-19'
 ---
@@ -29,7 +29,7 @@ updated: '2026-10-19'
 > * El número del triángulo indica de qué plástico se trata. No significa que el producto ya sea reciclado.
 > * El HDPE es resistente y ligero, no absorbe humedad y resiste muchos productos químicos.
 > * Es uno de los plásticos más reciclables. En casa va con los envases de plástico.
-> * Fabricamos nuestros palets estándar con plástico reciclado, una mezcla de HDPE y PP.
+> * Fabricamos nuestros palets estándar con plástico casi 100% reciclado, una mezcla de HDPE y PP (en los palets Light, también LDPE).
 
 ## ¿Qué significa HDPE 2, PEAD 2 o PE-HD 2?
 
@@ -100,12 +100,12 @@ Los palets de plástico no son residuos domésticos. Las empresas los recogen y,
 
 ## HDPE reciclado en palets de plástico
 
-Fabricamos nuestros palets estándar con plástico reciclado: una mezcla de HDPE y PP procedente de flujos de residuos como cajas, tapones y envases. Trabajar con material reciclado exige mucha experiencia, porque se comporta de forma distinta al plástico nuevo. Esa experiencia la acumulamos desde 2005.
+Fabricamos nuestros palets estándar con plástico casi 100% reciclado: una mezcla de HDPE y PP (en los palets Light, también LDPE) procedente de flujos de residuos como cajas, tapones y envases. Trabajar con material reciclado exige mucha experiencia, porque se comporta de forma distinta al plástico nuevo. Esa experiencia la acumulamos desde 2005.
 
 Lo que esto le aporta:
 
 * **Larga vida útil.** Un palet de plástico dura muchos años, mucho más que un palet de madera medio.
-* **Limpio y constante.** Sin astillas, sin humedad, y cada palet tiene el mismo peso y las mismas medidas.
+* **Limpio y constante.** Sin astillas, sin humedad, y cada palet tiene prácticamente el mismo peso y las mismas medidas.
 * **Sin ISPM 15.** En la exportación, los palets de plástico no están sujetos a las [normas para embalajes de madera](@guide-ispm).
 * **Ciclo cerrado.** Al final de su vida útil, trituramos el palet para convertirlo de nuevo en materia prima.
 

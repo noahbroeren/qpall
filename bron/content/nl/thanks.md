@@ -12,7 +12,7 @@ next:
   - when: Nu
     t: Bericht ontvangen
     d: Uw bericht staat bij ons verkoopteam in Veghel.
-  - when: Vandaag
+  - when: Vandaag of de eerstvolgende werkdag
     t: We lezen uw vraag
     d: Een collega die het onderwerp kent, bekijkt uw bericht.
   - when: Meestal binnen 1 werkdag

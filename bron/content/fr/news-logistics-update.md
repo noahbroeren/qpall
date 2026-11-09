@@ -1,7 +1,7 @@
 ---
 id: news-logistics-update
-title: "Logistique mondiale et palettes Q-Pall : le point – Q-Pall"
-description: "Comment Q-Pall a-t-elle géré la pression sur la logistique mondiale en mars 2026 ? Production européenne, fiabilité, coûts de transport et stocks."
+title: "Logistique mondiale et palettes Q-Pall : le point – Q-Pall"
+description: "Comment Q-Pall a-t-elle géré la pression sur la logistique mondiale en mars 2026 ? Production européenne, fiabilité, coûts de transport et stocks."
 eyebrow: "Actualités"
 tag: "Supply chain"
 crumb: "Point logistique mars 2026"
@@ -25,11 +25,11 @@ Au printemps 2026, les événements au Moyen-Orient ont eu un impact net sur la 
 
 ## Une position européenne stable
 
-Pendant cette période, Q-Pall a opéré depuis une position relativement stable. Notre production et nos achats se font entièrement en Europe : nous fabriquons nos palettes dans [six usines réparties en Europe](@about-local) et achetons la matière recyclée dans la région autant que possible.
+Pendant cette période, Q-Pall a opéré depuis une position relativement stable. Notre production et nos achats se font entièrement en Europe : nous fabriquons nos palettes dans [six usines réparties en Europe](@about-local) et achetons la matière recyclée dans la région autant que possible.
 
 > « Cela nous rend nettement moins dépendants des flux intercontinentaux de matières premières et nous permet de réagir plus rapidement aux changements si nécessaire. »
 
-Pourquoi la production locale rend la chaîne plus résiliente ? Vous le découvrirez dans notre article sur [la production locale, pilier de la résilience de la supply chain](@news-local).
+Pourquoi la production locale rend la chaîne plus résiliente ? Vous le découvrirez dans notre article sur [la production locale, pilier de la résilience de la supply chain](@news-local).
 
 ## Pression sur les transports et stock de sécurité
 
@@ -39,17 +39,17 @@ Pour sécuriser les livraisons, nous avons pris des mesures supplémentaires. No
 
 ## Ce que cela a signifié en pratique
 
-En dehors des coûts de transport, nous n’avons vu aucune raison directe d’ajuster nos prix. La hausse des coûts de transport peut toutefois avoir un effet indirect sur les prix d’achat des matières premières et des produits semi-finis. Il était difficile de prévoir comment la situation allait évoluer et combien de temps elle durerait. Nous avons donc appliqué trois principes :
+En dehors des coûts de transport, nous n’avons vu aucune raison directe d’ajuster nos prix. La hausse des coûts de transport peut toutefois avoir un effet indirect sur les prix d’achat des matières premières et des produits semi-finis. Il était difficile de prévoir comment la situation allait évoluer et combien de temps elle durerait. Nous avons donc appliqué trois principes :
 
 * **Nouvelles demandes et commandes.** Elles étaient basées sur l’évolution actuelle des coûts.
 * **Devis existants.** Ils pouvaient être révisés en fonction de la situation du marché si nécessaire.
 * **Transport.** La composante transport pouvait être ajustée séparément lorsque les circonstances l’exigeaient.
 
-Notre point de départ est resté inchangé : **fiabilité d’approvisionnement, transparence et partenariat**. Dans une telle période, des circuits de communication courts et un dialogue ouvert sont plus que jamais précieux. Pour en savoir plus sur notre rôle dans la chaîne, consultez la page [palettes plastique pour la logistique](@sector-logistics).
+Notre point de départ est resté inchangé : **fiabilité d’approvisionnement, transparence et partenariat**. Dans une telle période, des circuits de communication courts et un dialogue ouvert sont plus que jamais précieux. Pour en savoir plus sur notre rôle dans la chaîne, consultez la page [palettes plastique pour la logistique](@sector-logistics).
 
 ## Préparer votre chaîne d’approvisionnement
 
-Vous souhaitez discuter de votre planification des stocks ou de commandes en cours ? Nos spécialistes sont à votre écoute.
+Vous souhaitez discuter de votre planification des stocks ou de commandes en cours ? Nos spécialistes sont à votre écoute.
 
 [Contactez nos experts](@contact){: .btn .btn-primary}
 {: .btn-row}

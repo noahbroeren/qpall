@@ -60,4 +60,4 @@ Daarom houden we deze volgorde aan: eerst zo lang mogelijk hergebruiken, daarna 
 
 Onze standaardpallets maken we zelf ook van bijna 100% gerecycled kunststof. Zo sluiten we de kringloop. Meer over onze aanpak leest u op de pagina [duurzaamheid](@about-sustainability).
 
-Zoekt u gebruikte kunststof pallets in een bepaald formaat of een bepaalde belastingklasse? [Neem contact met ons op](@contact) voor het actuele aanbod.
+Zoekt u gebruikte kunststof pallets in een bepaald formaat of een bepaalde draagklasse? [Neem contact met ons op](@contact) voor het actuele aanbod.

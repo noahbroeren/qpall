@@ -16,7 +16,7 @@ faq:
 
 ## Clevere Anpassungen bestehender Modelle
 
-Ein komplett neues Palettendesign kostet viel Zeit und Geld. Deshalb prüfen wir zuerst, was innerhalb unseres bestehenden Sortiments von rund 130 Modellen möglich ist. Oft reicht schon eine kleine Änderung:
+Ein komplett neues Palettendesign kostet viel Zeit und Geld. Deshalb prüfen wir zuerst, was innerhalb unseres bestehenden Sortiments von rund 130 Ausführungen möglich ist. Oft reicht schon eine kleine Änderung:
 
 - **Logo oder Bedruckung** auf der Palette.
 - **Ihre eigene Farbe**, zum Beispiel um Pools oder Abteilungen zu unterscheiden.
@@ -31,7 +31,7 @@ Ein komplett neues Palettendesign kostet viel Zeit und Geld. Deshalb prüfen wir
 3. **Engineering:** Unsere Ingenieure prüfen, welche Lösung machbar ist.
 4. **Prototyp:** Bei Bedarf erstellen wir ein 3D-Modell oder einen Prototyp.
 5. **Werkzeug:** Wir passen das Werkzeug an oder fertigen einen Einsatz.
-6. **Produktion:** Wir produzieren in dem Werk, das Ihnen am nächsten liegt.
+6. **Produktion:** Wir produzieren so nah wie möglich bei Ihnen.
 
 ## Liefersicherheit
 

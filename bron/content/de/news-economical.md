@@ -15,7 +15,7 @@ faq:
 - q: "Lassen sich Kunststoffpaletten mit Code 7 schlecht recyceln?"
   a: "Oft ja. Viele Recyclingbetriebe sind auf diese „sonstigen“ Kunststoffe nicht eingerichtet. Fragen Sie deshalb immer nach der Zusammensetzung und danach, was am Ende der Lebensdauer mit der Palette geschieht."
 - q: "Woraus bestehen die Paletten von Q-Pall?"
-  a: "Unsere Standardpaletten bestehen aus recyceltem Kunststoff, einer Mischung aus HDPE (2) und PP (5). Nur unsere Hygienepaletten, H1-Paletten und Reinraumpaletten sind aus Neuware. Am Ende ihrer Lebensdauer sind unsere Paletten vollständig recycelbar."
+  a: "Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE (2) und PP (5), in Light-Paletten auch LDPE (4). Nur unsere Hygienepaletten, H1-Paletten und Reinraumpaletten sind aus Neuware. Am Ende ihrer Lebensdauer sind unsere Paletten vollständig recycelbar."
 published: '2023-10-09'
 updated: '2026-11-02'
 ---
@@ -53,7 +53,7 @@ Kunststoffe mit Code 7 lassen sich oft nur schwer oder gar nicht recyceln. Viele
 
 Eine Palette, die sich nicht recyceln lässt, kostet bei der Entsorgung Geld. Auch die Vorschriften werden strenger. Seit dem 12. August 2026 gilt die europäische Verpackungsverordnung PPWR, und Paletten fallen als Transportverpackung darunter.
 
-Ab 2030 müssen Verpackungen in Klasse A, B oder C recycelbar sein. Klasse C bedeutet mindestens 70 %.
+Ab 2030 müssen Verpackungen in Stufe A, B oder C recycelbar sein. Stufe C bedeutet mindestens 70 %.
 
 Je früher Sie das berücksichtigen, desto weniger Überraschungen gibt es später. Mehr dazu unter [PPWR und Kunststoffpaletten](@guide-ppwr).
 
@@ -62,11 +62,11 @@ Je früher Sie das berücksichtigen, desto weniger Überraschungen gibt es spät
 * **Fragen Sie nach der Zusammensetzung.** Ein guter Lieferant sagt Ihnen, aus welchen Kunststoffen die Palette besteht.
 * **Fragen Sie, was am Ende geschieht.** Nimmt der Lieferant die Paletten zurück, und werden sie wieder zu Rohstoff?
 * **Fragen Sie nach Unterlagen.** Nach der PPWR können Sie den Hersteller um eine Konformitätserklärung bitten.
-* **Rechnen Sie in Kosten pro Umlauf.** Eine Palette, die viele Jahre hält und danach recycelt wird, ist pro Umlauf oft günstiger. Siehe auch [Was kostet eine Kunststoffpalette?](@guide-prices)
+* **Kosten pro Umlauf berechnen.** Eine Palette, die viele Jahre hält und danach recycelt wird, ist pro Umlauf oft günstiger. Siehe auch [Was kostet eine Kunststoffpalette?](@guide-prices)
 
 ## Woraus fertigen wir unsere Paletten?
 
-Unsere Standardpaletten fertigen wir zu fast 100 % aus recyceltem Kunststoff: einer Mischung aus HDPE (Code 2) und PP (Code 5). Unsere Light-Paletten enthalten zusätzlich LDPE (Code 4). Alles sind Polyolefine, also Kunststoffe, die sich im Recycling ähnlich verhalten.
+Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff: einer Mischung aus HDPE (Code 2) und PP (Code 5). Unsere Light-Paletten enthalten zusätzlich LDPE (Code 4). Alles sind Polyolefine, also Kunststoffe, die sich im Recycling ähnlich verhalten.
 
 Am Ende ihrer Lebensdauer sind unsere Paletten vollständig recycelbar. Wir nehmen sie zurück und mahlen sie zu Rohstoff für neue Paletten. Gebrauchte Paletten in gutem Zustand bekommen über Q-Used ein zweites Leben.
 

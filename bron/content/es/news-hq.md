@@ -35,7 +35,7 @@ El diseño es sobrio y sencillo. Grandes ventanales, amplios voladizos y una pro
 
 ## Producir cerca del cliente
 
-Q-Pall fabrica exclusivamente palets de plástico. Nuestra seña de identidad es producirlos lo más cerca posible del cliente. No viajan los palets, sino los moldes con los que se fabrican. Instalamos un molde en la fábrica más cercana al cliente. Así ahorramos muchos kilómetros de transporte, costes y emisiones de CO₂.
+Q-Pall fabrica exclusivamente palets de plástico. Nuestra seña de identidad es producirlos lo más cerca posible del cliente. No viajan los palets, sino los moldes con los que se fabrican. Instalamos un molde lo más cerca posible del cliente. Así ahorramos muchos kilómetros de transporte, costes y emisiones de CO₂.
 
 Un ejemplo: si los palets destinados al mercado francés se fabrican en los Países Bajos, muchos camiones llenos tienen que hacer largos trayectos hacia el sur y de vuelta. Si solo se envía el molde a nuestra fábrica de Nantes, la mayoría de esos viajes dejan de ser necesarios.
 
@@ -45,6 +45,6 @@ Q-Pall produce en seis fábricas: Balk (Países Bajos), Ribe (Dinamarca), Markto
 
 Q-Pall no solo se encarga de la producción, sino también del diseño, la distribución y la venta de los palets. Como estamos presentes en toda la cadena, todas las partes encajan bien entre sí.
 
-Nuestros palets estándar están fabricados con plástico reciclado casi al 100 %. Al final de su vida útil son totalmente reciclables: los recogemos y los trituramos para convertirlos en materia prima para nuevos palets. Los palets que siguen en buen estado tienen una segunda vida con [Q-Used](@used).
+Nuestros palets estándar están fabricados con plástico casi 100% reciclado. Al final de su vida útil son totalmente reciclables: los recogemos y los trituramos para convertirlos en materia prima para nuevos palets. Los palets que siguen en buen estado tienen una segunda vida con [Q-Used](@used).
 
 ¿Quiere saber qué palet de plástico se adapta a su aplicación? [Contacte con nosotros](@contact).

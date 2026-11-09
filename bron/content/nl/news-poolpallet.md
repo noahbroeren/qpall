@@ -59,7 +59,7 @@ Het succes van een pool hangt niet alleen af van de pallets, maar ook van het be
 
 ### Recycling aan het einde
 
-Een kunststof pallet gaat veel langer mee dan een gemiddelde houten pallet. Onze standaardpallets maken we van gerecycled kunststof, een mix van HDPE (2) en PP (5), zonder staal of andere materialen.
+Een kunststof pallet gaat veel langer mee dan een gemiddelde houten pallet. Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE (2) en PP (5), zonder staal of andere materialen.
 
 Aan het einde van hun leven nemen we ze terug en vermalen we ze tot grondstof voor nieuwe pallets. Lees meer over onze aanpak voor [duurzaamheid](@about-sustainability).
 

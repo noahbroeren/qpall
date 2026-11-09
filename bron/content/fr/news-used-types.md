@@ -1,21 +1,21 @@
 ---
 id: news-used-types
 title: "3 types courants de palettes plastique d’occasion – Q-Pall"
-description: "Les palettes plastique d’occasion sont économiques et préservent les ressources. Voici 3 types courants : réutilisables, CP et palettes hygiéniques."
+description: "Les palettes plastique d’occasion sont économiques et préservent les ressources. Voici 3 types courants : réutilisables, CP et palettes hygiéniques."
 eyebrow: "Actualités"
 tag: "Conseils"
 crumb: "Types de palettes d’occasion"
 h1: "3 types courants **de palettes plastique d’occasion**"
-lead: "Les palettes plastique d’occasion sont jusqu’à 40 % moins chères que les neuves et ne demandent aucune nouvelle matière première. Trois types sont courants : réutilisables, CP et hygiéniques."
+lead: "Les palettes plastique d’occasion sont jusqu’à 40 % moins chères que les neuves et ne demandent aucune nouvelle matière première. Trois types sont courants : réutilisables, CP et hygiéniques."
 img_alt: "Palette plastique noire à plateau ajouré sur pieds, posée sur un sol en béton ensoleillé"
 reading: 2
 faq:
-- q: "Quels types de palettes plastique d’occasion existe-t-il ?"
+- q: "Quels types de palettes plastique d’occasion existe-t-il ?"
   a: "Les types courants sont les palettes réutilisables (aussi appelées palettes de pooling ou palettes consignées), les palettes CP pour la chimie et les palettes hygiéniques. Le stock disponible évolue en permanence."
-- q: "Une palette plastique d’occasion est-elle beaucoup moins chère ?"
+- q: "Une palette plastique d’occasion est-elle beaucoup moins chère ?"
   a: "Une palette d’occasion est jusqu’à 40 % moins chère qu’une neuve. Le prix dépend du type, de la qualité et de la disponibilité."
-- q: "Quelle différence entre une palette réutilisable et une palette à usage unique ?"
-  a: "Une palette réutilisable est conçue pour de nombreuses rotations : elle est donc solide et dimensionnellement stable. Une palette à usage unique, comme une palette export légère, est prévue pour un seul trajet et coûte moins cher à l’achat."
+- q: "Quelle différence entre une palette réutilisable et une palette à usage unique ?"
+  a: "Une palette réutilisable est conçue pour de nombreuses rotations : elle est donc solide et dimensionnellement stable. Une palette à usage unique, comme une palette export légère, est prévue pour un seul trajet et coûte moins cher à l’achat."
 published: '2022-01-08'
 updated: '2026-11-02'
 ---
@@ -23,14 +23,14 @@ updated: '2026-11-02'
 >
 > * Les palettes plastique d’occasion sont jusqu’à 40 % moins chères que les neuves.
 > * Une palette d’occasion ne demande ni nouvelle matière première ni énergie de production.
-> * Trois types sont courants : palettes réutilisables, palettes CP et palettes hygiéniques.
+> * Trois types sont courants : palettes réutilisables, palettes CP et palettes hygiéniques.
 > * Le stock évolue. Demandez-nous donc l’offre actuelle.
 
 Choisir des palettes plastique, c’est déjà faire un choix durable. Nous fabriquons nos palettes standard en plastique recyclé à près de 100 %, notamment à partir de bouchons et de caisses. Pour aller encore plus loin, optez pour des palettes plastique d’occasion.
 
 Avec [Q-Used](@used), nous rachetons des palettes usagées, les contrôlons et les revendons. Elles sont jusqu’à 40 % moins chères que des palettes neuves. De plus, elles ne demandent ni nouvelle matière première ni énergie de production.
 
-Quels sont les types de palettes plastique d’occasion les plus courants ? Voici les trois principaux.
+Quels sont les types de palettes plastique d’occasion les plus courants ? Voici les trois principaux.
 
 ## 1. Palettes réutilisables
 
@@ -60,4 +60,4 @@ Nos palettes hygiéniques sont fabriquées en plastique vierge (neuf), dans une 
 
 Q-Used n’a pas de boutique en ligne. Le stock évolue en permanence, selon les palettes qui arrivent. Vous nous indiquez le format, la charge et le nombre de palettes recherchés, et nous vous disons ce qui est en stock.
 
-Vous cherchez un type précis de palette d’occasion ? [Contactez-nous](@contact) pour connaître le stock actuel et obtenir un devis.
+Vous cherchez un type précis de palette d’occasion ? [Contactez-nous](@contact) pour connaître le stock actuel et obtenir un devis.

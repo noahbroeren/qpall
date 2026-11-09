@@ -13,7 +13,7 @@ faq:
 - q: "¿Por qué los palets de plástico son adecuados para la hostelería?"
   a: "Los palets de plástico no se astillan, no absorben humedad y son fáciles de limpiar. La suciedad no puede incrustarse en el material, como ocurre con la madera porosa."
 - q: "¿Se pueden colocar alimentos directamente sobre un palet de plástico?"
-  a: "Para el contacto directo con alimentos, la norma es el plástico virgen. Por eso nuestros palets higiénicos son de plástico virgen. Nuestros demás palets son de plástico reciclado y están pensados para productos envasados."
+  a: "Para el contacto directo con alimentos, la norma es el plástico virgen. Por eso nuestros palets higiénicos son de plástico virgen. Nuestros demás palets son de plástico casi 100% reciclado y están pensados para productos envasados."
 - q: "¿Puedo pedir solo unos pocos palets?"
   a: "Suministramos por pila completa, por ejemplo 45 palets encajables o 17 palets Medium. ¿Necesita menos? Entonces un [distribuidor cerca de usted](@dealers) puede ayudarle."
 published: '2022-01-12'
@@ -43,7 +43,7 @@ En la hostelería, a veces algo gotea: una botella, un cubo o un envase de salsa
 
 ## Palets higiénicos para el contacto con alimentos y APPCC
 
-Fabricamos nuestros palets estándar con plástico reciclado. Están pensados para productos envasados, no para el contacto directo con alimentos. ¿Los alimentos se colocan directamente sobre el palet, o trabaja en un entorno APPCC con requisitos estrictos? Entonces elija un [palet higiénico](@type-hygienic). Está fabricado con plástico virgen (nuevo) y es completamente liso, de modo que puede limpiarlo de forma rápida y a fondo.
+Fabricamos nuestros palets estándar con plástico casi 100% reciclado. Están pensados para productos envasados, no para el contacto directo con alimentos. ¿Los alimentos se colocan directamente sobre el palet, o trabaja en un entorno APPCC con requisitos estrictos? Entonces elija un [palet higiénico](@type-hygienic). Está fabricado con plástico virgen (nuevo) y es completamente liso, de modo que puede limpiarlo de forma rápida y a fondo.
 
 ## Del palet a la caja cerrada
 

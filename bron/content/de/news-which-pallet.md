@@ -46,7 +46,7 @@ Geht die Palette nur einmal auf die Reise, zum Beispiel beim Export? Dann ist ei
 
 ### Gelten besondere Qualitätsanforderungen?
 
-Manche Branchen stellen zusätzliche Anforderungen, etwa an Hygiene, Rutschfestigkeit oder Abmessungen. Für den direkten Kontakt mit Lebensmitteln ist eine Palette aus Neuware nötig. Unsere Standardpaletten fertigen wir aus recyceltem Kunststoff.
+Manche Branchen stellen zusätzliche Anforderungen, etwa an Hygiene, Rutschfestigkeit oder Abmessungen. Für den direkten Kontakt mit Lebensmitteln ist eine Palette aus Neuware nötig. Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff.
 
 ## Jedes Modell wird geprüft
 

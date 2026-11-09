@@ -8,7 +8,7 @@ lead: "Lebensmittelsicherheit beginnt mit einer sauberen Basis. Unsere Hygienepa
 recommend: [qph1208hp3rr-cdb, h1-europallet, qph1208hr3r-ecor, qph1210hp3rr-cdg, qp1208mb3rr-cd, qp6040mb4f]
 faq:
   - q: "Darf eine Kunststoffpalette direkt mit Lebensmitteln in Kontakt kommen?"
-    a: "Für direkten Lebensmittelkontakt ist Neuware der Standard. Deshalb bestehen unsere Hygienepaletten aus Neuware. Alle anderen Q-Pall Paletten sind aus recyceltem Kunststoff und eignen sich, wenn die Lebensmittel verpackt sind und nicht direkt auf der Palette liegen. Wir helfen Ihnen gern bei der Wahl der richtigen Ausführung."
+    a: "Für direkten Lebensmittelkontakt ist Neuware der Standard. Deshalb bestehen unsere Hygienepaletten aus Neuware. Alle anderen Q-Pall-Paletten sind aus fast 100 % recyceltem Kunststoff und eignen sich, wenn die Lebensmittel verpackt sind und nicht direkt auf der Palette liegen. Wir helfen Ihnen gern bei der Wahl der richtigen Ausführung."
   - q: "Eignen sich Kunststoffpaletten für Tiefkühlräume?"
     a: "Ja, Kunststoffpaletten bleiben auch bei niedrigen Temperaturen stabil. Beachten Sie, dass Kunststoff unter dem Gefrierpunkt steifer und empfindlicher gegen harte Stöße wird. Verwenden Sie [Gefrier-Abstandshalter](@acc-freezer), um Ihre Produkte schneller einzufrieren."
   - q: "Was ist eine H1-Palette?"
@@ -33,11 +33,11 @@ Einen ausführlichen Vergleich finden Sie unter [Kunststoff- oder Holzpaletten](
 
 ## Neuware oder Rezyklat?
 
-Für direkten Lebensmittelkontakt verwenden Sie eine Palette aus Neuware, die kein Kontaminationsrisiko birgt. Für verpackte Produkte, bei denen die Palette nicht direkt mit dem Lebensmittel in Berührung kommt, sind unsere anderen Paletten aus recyceltem Kunststoff eine nachhaltige Wahl. Unsere [Hygienepaletten](@type-hygienic) bestehen aus Neuware, alle anderen Q-Pall Paletten aus recyceltem Kunststoff.
+Für direkten Lebensmittelkontakt verwenden Sie eine Palette aus Neuware, die kein Kontaminationsrisiko birgt. Für verpackte Produkte, bei denen die Palette nicht direkt mit dem Lebensmittel in Berührung kommt, sind unsere anderen Paletten aus recyceltem Kunststoff eine nachhaltige Wahl. Unsere [Hygienepaletten](@type-hygienic) bestehen aus Neuware, alle anderen Q-Pall-Paletten aus fast 100 % recyceltem Kunststoff.
 
 ## Offenes oder geschlossenes Deck?
 
-| | Offenes Deck | Geschlossenes Deck |
+| Merkmal | Offenes Deck | Geschlossenes Deck |
 |---|---|---|
 | Reinigung | Möglich, aber Schmutz bleibt leichter in den Öffnungen zurück | Schnell und gründlich |
 | Feuchtigkeit | Kann durch das Deck laufen | Bleibt auf dem Deck und lässt sich abspülen |
@@ -48,7 +48,7 @@ Für direkten Lebensmittelkontakt verwenden Sie eine Palette aus Neuware, die ke
 - **Fleisch und Fisch:** Die Hygieneanforderungen sind hoch, und Flüssigkeiten wie Blut oder Wasser dürfen nicht auf die Ladung darunter tropfen. Wählen Sie eine [Hygienepalette](@type-hygienic) mit geschlossenem Deck.
 - **Pharma:** eine glatte, geschlossene, porenfreie Oberfläche, beständig gegen Reinigungs- und Desinfektionsmittel und mit festen Maßen für automatisierte Linien. Siehe auch [die Pharmaindustrie](@sector-pharma).
 - **Nassbereiche** wie Produktionshallen und Waschstraßen: ein geschlossenes Deck, das kein Wasser aufnimmt und schnell zu reinigen ist.
-- **Verpackte Produkte und Distribution:** Hier genügt eine Standardpalette aus recyceltem Kunststoff, mit offenem oder geschlossenem Deck.
+- **Verpackte Produkte und Distribution:** Hier genügt eine Standardpalette aus fast 100 % recyceltem Kunststoff, mit offenem oder geschlossenem Deck.
 
 ## HACCP
 

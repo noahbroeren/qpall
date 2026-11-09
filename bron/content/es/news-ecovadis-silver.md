@@ -29,7 +29,7 @@ En abril de 2023, Q-Pall obtuvo la medalla de plata de EcoVadis. Con ella, Q-Pal
 
 La medalla reconocía nuestro trabajo para reducir la huella ecológica, asumir nuestra responsabilidad social y mantener altos estándares éticos. Gran parte de ese trabajo está en la forma en que fabricamos los palets:
 
-* **Plástico reciclado.** Fabricamos nuestros palets estándar con plástico reciclado casi al 100 %.
+* **Plástico reciclado.** Fabricamos nuestros palets estándar con plástico casi 100% reciclado.
 * **Producción local.** Producimos lo más cerca posible del cliente, de modo que se necesita menos transporte. Más información sobre la [producción local](@about-local).
 * **Una larga vida útil.** Un palet de plástico dura muchos años. Después lo recogemos y lo trituramos para convertirlo en materia prima para nuevos palets.
 

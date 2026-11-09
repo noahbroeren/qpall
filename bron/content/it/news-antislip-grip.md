@@ -55,7 +55,7 @@ I valori di portata di ogni modello sono riportati alla pagina [pallet antiscivo
 
 In Q-Pall crediamo che innovazione e circolarità debbano andare di pari passo. Con le soluzioni antiscivolo tradizionali, le strisce in gomma sono spesso difficili da riciclare o devono prima essere rimosse a mano.
 
-Con i nostri nuovi pallet Medium non serve. Le strisce antiscivolo rientrano nello stesso processo di riciclo del pallet. A fine vita non dovete quindi staccarle: il pallet viene macinato **interamente, in un’unica volta** in granulo per nuovi pallet Q-Pall. Come gli altri nostri pallet standard, il pallet stesso è realizzato in plastica riciclata, una miscela di HDPE e PP.
+Con i nostri nuovi pallet Medium non serve. Le strisce antiscivolo rientrano nello stesso processo di riciclo del pallet. A fine vita non dovete quindi staccarle: il pallet viene macinato **interamente, in un’unica volta** in granulo per nuovi pallet Q-Pall. Come gli altri nostri pallet standard, il pallet stesso è realizzato in plastica riciclata quasi al 100%, una miscela di HDPE e PP.
 
 ## Provarli nel vostro processo
 

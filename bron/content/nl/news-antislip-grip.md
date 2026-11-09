@@ -55,7 +55,7 @@ De belastingwaarden per model vindt u bij [antislip pallets](@type-antislip). Vo
 
 Bij Q-Pall vinden we dat innovatie en circulariteit samen moeten gaan. Bij traditionele antislipoplossingen zijn rubberen strips vaak lastig te recyclen, of moeten ze eerst met de hand worden verwijderd.
 
-Bij onze nieuwe medium pallets is dat niet nodig. De antislipstroken passen in hetzelfde recyclingproces als de pallet zelf. U hoeft ze aan het einde van de levensduur dus niet los te maken: de pallet wordt **in zijn geheel, in één keer** vermalen tot granulaat voor nieuwe Q-Pall pallets. Net als onze andere standaardpallets is de pallet zelf gemaakt van gerecycled kunststof, een mix van HDPE en PP.
+Bij onze nieuwe medium pallets is dat niet nodig. De antislipstroken passen in hetzelfde recyclingproces als de pallet zelf. U hoeft ze aan het einde van de levensduur dus niet los te maken: de pallet wordt **in zijn geheel, in één keer** vermalen tot granulaat voor nieuwe Q-Pall pallets. Net als onze andere standaardpallets is de pallet zelf gemaakt van bijna 100% gerecycled kunststof, een mix van HDPE en PP.
 
 ## Testen in uw eigen proces
 

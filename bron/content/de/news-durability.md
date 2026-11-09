@@ -30,7 +30,7 @@ Unsere Produktionsprozesse und das Material, das wir verwenden, passen zu dieser
 
 Für die Herstellung und den Transport von Paletten brauchen wir Energie. Bei der Verbrennung fossiler Brennstoffe wie Kohle, Öl und Gas wird CO₂ freigesetzt. Dieses Treibhausgas trägt zur Erderwärmung bei.
 
-In der Palettenbranche entsteht der größte Teil der CO₂-Emissionen durch den Transport. Ein Lkw voller Paletten transportiert vor allem Luft. Deshalb setzen wir das Werkzeug einer Palette in dem Werk ein, das dem Kunden am nächsten liegt. So müssen die Paletten selbst keine langen Strecken zurücklegen.
+In der Palettenbranche entsteht der größte Teil der CO₂-Emissionen durch den Transport. Ein Lkw voller Paletten transportiert vor allem Luft. Deshalb setzen wir das Werkzeug einer Palette so nah wie möglich beim Kunden ein. So müssen die Paletten selbst keine langen Strecken zurücklegen.
 
 Wir produzieren in sechs Werken: in Balk, Ribe, Marktoberdorf, Nantes, Lleida und Chesterfield. Fast jeder Kunde befindet sich im Umkreis von 600 Kilometern um ein Q-Pall-Werk. Das spart viele Kilometer, CO₂-Emissionen und Transportkosten. Mehr dazu unter [lokale Produktion](@about-local).
 

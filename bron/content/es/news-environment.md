@@ -13,7 +13,7 @@ faq:
 - q: "¿Qué es la huella de carbono?"
   a: "La huella de carbono mide las emisiones de gases de efecto invernadero, expresadas en kilogramos de CO₂ equivalente. En un palet cuentan, entre otros, la materia prima, la producción y el transporte."
 - q: "¿Son sostenibles los palets de plástico?"
-  a: "Sí, si duran mucho y después se reciclan. Nuestros palets estándar son de plástico reciclado casi al 100%, duran muchos años y al final de su vida útil son totalmente reciclables. Además, producimos localmente, por lo que se necesita menos transporte."
+  a: "Sí, si duran mucho y después se reciclan. Nuestros palets estándar son de plástico casi 100% reciclado, duran muchos años y al final de su vida útil son totalmente reciclables. Además, producimos localmente, por lo que se necesita menos transporte."
 - q: "¿El PPWR se aplica también a los palets?"
   a: "Sí. Los palets son envases de transporte y entran en el reglamento europeo de envases, aplicable desde el 12 de agosto de 2026. Q-Pall dispone de una declaración de conformidad PPWR por grupo de palets; en la mayoría de los modelos puede descargarla en la página del producto."
 published: '2022-01-09'
@@ -23,7 +23,7 @@ updated: '2026-11-02'
 >
 > * Al elegir un palet cuenta la función, pero cada vez más también el impacto ambiental.
 > * La huella de carbono de un palet se genera sobre todo en la materia prima, la producción y el transporte.
-> * Fabricamos nuestros palets estándar con plástico reciclado casi al 100%, en seis fábricas cerca de nuestros clientes.
+> * Fabricamos nuestros palets estándar con plástico casi 100% reciclado, en seis fábricas cerca de nuestros clientes.
 > * La reutilización y el reciclaje al final de la vida útil reducen aún más el impacto.
 > * Desde el 12 de agosto de 2026 se aplica el reglamento europeo de envases PPWR, también a los palets.
 
@@ -41,7 +41,7 @@ En un producto como un palet, todos los gases de efecto invernadero necesarios p
 
 ## ¿Dónde se generan las emisiones de un palet?
 
-* **Materia prima.** Extraer y producir materias primas nuevas consume mucha energía. Fabricamos nuestros palets estándar con plástico reciclado casi al 100%, una mezcla de HDPE y PP. Así sustituimos materia prima nueva por plástico que ya existe.
+* **Materia prima.** Extraer y producir materias primas nuevas consume mucha energía. Fabricamos nuestros palets estándar con plástico casi 100% reciclado, una mezcla de HDPE y PP. Así sustituimos materia prima nueva por plástico que ya existe.
 * **Producción.** En el desarrollo de nuevos palets aplicamos objetivos de diseño estrictos en eficiencia energética y de materiales.
 * **Transporte.** En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Por eso producimos [localmente](@about-local), en seis fábricas repartidas por Europa. Casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall.
 * **Fin de la vida útil.** Al final de su vida útil, nuestros palets son totalmente reciclables. El material se convierte en materia prima para nuevos palets.

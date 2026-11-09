@@ -43,6 +43,6 @@ The pallets for DPB come from our factory in Balk, in the province of Friesland.
 
 ## About Q-Pall
 
-Since 2005, Q-Pall has made only plastic pallets and is part of the AVK Group. The head office is in Veghel. We produce in six factories in Europe: Balk, Ribe, Marktoberdorf, Nantes, Lleida and Chesterfield. The range comprises around 130 models in nine sizes. We also work with 18 dealers in 15 countries in Europe and the United States.
+Since 2005, Q-Pall has made only plastic pallets and is part of the AVK Group. The head office is in Veghel. We produce in six factories in Europe: Balk, Ribe, Marktoberdorf, Nantes, Lleida and Chesterfield. The range comprises around 130 versions in nine sizes. We also work with 18 dealers in 15 countries in Europe and the United States.
 
 Are you looking for pallets for a pool or for the beverage industry? [Request a quote](@quote) and you will usually receive a tailored price within one working day.

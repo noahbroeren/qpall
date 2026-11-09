@@ -49,7 +49,7 @@ Our starting point remained unchanged: **reliability of supply, transparency and
 
 ## Preparing your supply chain
 
-Would you like to discuss your stock planning or current orders with us? Our specialists will be glad to think along with you.
+Would you like to discuss your stock planning or current orders with us? Our specialists will be glad to work it out with you.
 
 [Contact our experts](@contact){: .btn .btn-primary}
 {: .btn-row}

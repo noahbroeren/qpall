@@ -25,7 +25,7 @@ Chemische producten worden vaak in zakken, big bags, octabins of vaten vervoerd.
 - **Geen spijkers of splinters.** Uw verpakkingen blijven heel en uw product blijft schoon.
 - **Maatvast en constant gewicht.** Ideaal voor palletiseerrobots en rollenbanen.
 - **Even sterk als hout**, maar met een veel langere levensduur.
-- **Circulair:** gemaakt van gerecycled kunststof en aan het einde van de levensduur volledig recyclebaar.
+- **Circulair:** gemaakt van bijna 100% gerecycled kunststof en aan het einde van de levensduur volledig recyclebaar.
 
 ## Onze aanbevolen pallets
 

@@ -13,7 +13,7 @@ faq:
 - q: "What is green logistics?"
   a: "Green logistics means logistics with as little environmental impact as possible: fewer emissions, less waste and more efficient use of resources. The choice of pallets plays a part in this too."
 - q: "Are plastic pallets lighter than wooden pallets?"
-  a: "Often, depending on the type. Light pallets are much lighter than wood. Heavy pallets weigh 17 to 28 kg, roughly the same as a wooden Euro pallet of around 25 kg."
+  a: "Often, depending on the type. Light pallets are much lighter than wood. Heavy pallets weigh around 17 to 29 kg, roughly the same as a wooden Euro pallet of around 25 kg."
 - q: "How does local production contribute to green logistics?"
   a: "In the pallet industry, most CO₂ emissions come from transport. We produce in six European factories, so almost every customer is within 600 kilometres of a factory."
 published: '2023-09-11'
@@ -37,7 +37,7 @@ One element that is often overlooked is the choice of pallets. Plastic pallets o
 
 Plastic pallets are often lighter than wooden pallets, depending on the type. [Light pallets](@class-light) in particular weigh much less. A lower tare weight means more load per trip and less fuel, and therefore fewer emissions.
 
-For heavy-duty applications, the difference is smaller. A heavy plastic pallet weighs 17 to 28 kg, a wooden Euro pallet around 25 kg. The advantage then lies mainly in the long service life and the constant weight, because plastic does not absorb moisture.
+For heavy-duty applications, the difference is smaller. A heavy plastic pallet weighs around 17 to 29 kg, a wooden Euro pallet around 25 kg. The advantage then lies mainly in the long service life and the constant weight, because plastic does not absorb moisture.
 
 ## Long-lasting and reusable
 

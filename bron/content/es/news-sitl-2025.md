@@ -30,7 +30,7 @@ En el estand presentamos nuestra gama en tres clases de carga, desde palets lige
 
 ## La historia detrás del estand
 
-Fabricamos nuestros palets estándar con plástico reciclado casi al 100%, una mezcla de HDPE y PP. Los producimos en seis fábricas repartidas por Europa, de modo que casi todos los clientes están a menos de 600 kilómetros de una fábrica. Los moldes viajan, los palets no: instalamos el molde en la fábrica más cercana al cliente. Más información sobre nuestra [producción local](@about-local).
+Fabricamos nuestros palets estándar con plástico casi 100% reciclado, una mezcla de HDPE y PP. Los producimos en seis fábricas repartidas por Europa, de modo que casi todos los clientes están a menos de 600 kilómetros de una fábrica. Los moldes viajan, los palets no: instalamos el molde lo más cerca posible del cliente. Más información sobre nuestra [producción local](@about-local).
 
 Los visitantes pudieron hablar con nuestro equipo sobre sus propios retos: reducir las emisiones de CO₂, automatizar procesos o transportar de forma más eficiente. Los palets de plástico son dimensionalmente estables y tienen un peso constante. Por eso son adecuados para la [automatización y los AGV](@guide-automation).
 

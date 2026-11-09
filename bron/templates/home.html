@@ -7,7 +7,7 @@
   {% for k, c in [('light', 'groen'), ('medium', 'blauw'), ('heavy', 'paars')] %}{{ M.qbg(c, 'hero-q hero-q-' ~ k ~ (' is-on' if k == 'medium' else ''), '(min-width:1101px) 940px, (min-width:721px) 900px, 640px', eager=(k == 'medium'), defer=(k != 'medium')) }}{% endfor %}
   <div class="wrap hero-in">
     <div class="hero-txt">
-      <a class="hero-badge" href="{{ urls['type-antislip'] }}"><span class="badge badge-new">{{ t.mm_new }}</span>{{ H.hero.badge }}{{ M.icon('arrow') }}</a>
+      <a class="hero-badge" href="{{ urls['type-antislip'] }}">{{ H.hero.badge }}{{ M.icon('arrow') }}</a>
       <p class="eyebrow eyebrow-light">{{ H.hero.eyebrow }}</p>
       <h1 id="hero-h">{{ H.hero.h1|bold }}</h1>
       <p class="lead">{{ H.hero.lead }}</p>
@@ -17,8 +17,8 @@
       </div>
     </div>
     <div class="hero-vis" data-hero>
-      <div class="hc-switch" role="tablist" aria-label="{{ t.hero_switch }}">
-        {% for h in hero %}<button type="button" role="tab" class="hsw c-{{ h.key }}" data-cls="{{ h.key }}" aria-selected="{{ 'true' if h.key == 'medium' else 'false' }}"><i></i>{{ h.name }}</button>{% endfor %}
+      <div class="hc-switch" role="group" aria-label="{{ t.hero_switch }}">
+        {% for h in hero %}<button type="button" class="hsw c-{{ h.key }}" data-cls="{{ h.key }}" aria-pressed="{{ 'true' if h.key == 'medium' else 'false' }}"><i></i>{{ h.name }}</button>{% endfor %}
       </div>
       <div class="hv-stage">
         {% for h in hero %}
@@ -32,7 +32,7 @@
       </div>
       {% for h in hero %}
       <div class="hv-box{% if h.key == 'medium' %} is-active{% endif %}" data-slide data-cls="{{ h.key }}">
-        <div class="hv-badges"><span class="badge badge-{{ h.key }}">{{ h.name }}</span>{% if h.new %}<span class="badge badge-new">{{ t.mm_new }}</span>{% endif %}</div>
+        <div class="hv-badges"><span class="badge badge-{{ h.key }}">{{ h.name }}</span></div>
         <a class="hv-name" href="{{ h.url }}" tabindex="-1">{{ h.title }}</a>
         <p class="hv-sku">{{ t.art_nr_short }} {{ h.sku }}</p>
         <dl class="hv-loads">
@@ -112,7 +112,7 @@
     </div>
     <div class="range-panel" id="rt-types" role="tabpanel" aria-labelledby="rtb-types" hidden>
       <ul class="tile-grid tg-4">
-        {% for ty in nav.types %}<li><a class="ptile" href="{{ ty.url }}"><span class="ptile-img"><img src="{{ ty.img }}" alt="{{ ty.alt }}" width="320" height="213" loading="lazy" decoding="async">{% if ty.new %}<span class="badge badge-new">{{ t.mm_new }}</span>{% endif %}</span><span class="ptile-txt"><b>{{ ty.label }}</b> <small>{{ ty.sub }}</small></span>{{ M.icon('arrow') }}</a></li>{% endfor %}
+        {% for ty in nav.types %}<li><a class="ptile" href="{{ ty.url }}"><span class="ptile-img"><img src="{{ ty.img }}" alt="{{ ty.alt }}" width="320" height="213" loading="lazy" decoding="async"></span><span class="ptile-txt"><b>{{ ty.label }}</b> <small>{{ ty.sub }}</small></span>{{ M.icon('arrow') }}</a></li>{% endfor %}
         <li><a class="ptile" href="{{ nav.ultra.url }}"><span class="ptile-img"><img src="{{ nav.ultra.img }}" alt="{{ nav.ultra.alt }}" width="320" height="213" loading="lazy" decoding="async"></span><span class="ptile-txt"><b>{{ nav.ultra.label }}</b> <small>{{ nav.ultra.sub }}</small></span>{{ M.icon('arrow') }}</a></li>
       </ul>
     </div>
@@ -125,7 +125,6 @@
     <div class="promo">
       {{ M.qbg('blauw', 'promo-q', '(min-width:1101px) 760px, (min-width:721px) 700px, 520px') }}
       <div class="promo-txt">
-        <span class="badge badge-new">{{ t.mm_new }}</span>
         <h2 id="promo-h">{{ H.promo.title|bold }}</h2>
         <p class="lead">{{ H.promo.text }}</p>
         <ul class="checks checks-light promo-points">{% for p in H.promo.points %}<li>{{ M.icon('checkc') }}{{ p }}</li>{% endfor %}</ul>

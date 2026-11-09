@@ -12,7 +12,7 @@ job:
   - FULL_TIME
   - PART_TIME
   hours: 32-36 Stunden pro Woche
-  education: Abgeschlossene kaufmännische Ausbildung (MBO+) oder Studium (HBO)
+  education: 'Denk- und Arbeitsniveau einer Berufsausbildung oder eines Hochschulstudiums (NL: MBO+/HBO)'
   skills: Niederländisch und Englisch in Wort und Schrift, Microsoft Office, CRM-Kenntnisse von Vorteil
   industry: Herstellung und Vertrieb von Kunststoffpaletten
   direct_apply: true
@@ -26,7 +26,7 @@ hero:
     text: 32-36 Stunden pro Woche
   - icon: book
     label: Qualifikation
-    text: Kaufmännische Ausbildung oder Studium
+    text: Ausbildungs- oder Hochschulniveau
   - icon: language
     label: Sprachen
     text: Niederländisch und Englisch
@@ -57,7 +57,7 @@ photos_caption: 'Unser Hauptsitz in Veghel: Hier arbeiten Sie mit dem Inside-Sal
 profile:
   title: Ihr **Profil**
   items:
-  - Abgeschlossene kaufmännische Ausbildung (MBO+) oder Studium (HBO).
+  - 'Denk- und Arbeitsniveau einer Berufsausbildung oder eines Hochschulstudiums (NL: MBO+/HBO).'
   - Sie sprechen und schreiben gut Niederländisch und Englisch.
   - Sie arbeiten sicher mit Microsoft Office; Erfahrung mit einem CRM-System ist von Vorteil.
   - Sie sind vertriebsstark, lernbereit und ergreifen selbst die Initiative.
@@ -80,7 +80,7 @@ offer:
 why:
   eyebrow: Über Q-Pall
   title: Paletten **mit Mission**
-  text: Q-Pall stellt seit 2005 ausschließlich Kunststoffpaletten her. Unsere Standardpaletten bestehen aus recyceltem Kunststoff, und mit sechs Werken in Europa produzieren wir immer nah beim Kunden.
+  text: Q-Pall stellt seit 2005 ausschließlich Kunststoffpaletten her. Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff, und mit sechs Werken in Europa produzieren wir nah beim Kunden.
   link: Mehr über Q-Pall
 process:
   title: So läuft **Ihre Bewerbung**

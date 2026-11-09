@@ -25,7 +25,7 @@ Chemical products are often transported in bags, big bags, octabins or drums. A 
 - **No nails or splinters.** Your packaging stays intact and your product stays clean.
 - **Dimensionally stable with a consistent weight.** Ideal for palletising robots and roller conveyors.
 - **As strong as wood**, but with a much longer service life.
-- **Circular:** made from recycled plastic and fully recyclable at the end of its life.
+- **Circular:** made from nearly 100% recycled plastic and fully recyclable at the end of its life.
 
 ## Our recommended pallets
 

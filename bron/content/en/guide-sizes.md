@@ -13,7 +13,7 @@ faq:
   - q: "What are the ISO pallet sizes?"
     a: "ISO 6780 lists six pallet sizes: 1200 x 800, 1200 x 1000, 1219 x 1016 (48 x 40 inch), 1165 x 1165, 1100 x 1100 and 1067 x 1067 mm."
   - q: "Which pallet size fits best in a sea container?"
-    a: "That depends on the type of container. Square pallets of 1100 x 1100 mm fit two side by side. With pallets of 760 x 1140 mm you can load up to 31 pallets in a 40ft container."
+    a: "That depends on the type of container. Square pallets of 1100 x 1100 mm fit two side by side. With pallets of 760 x 1140 mm you can load up to 31 pallets in a 40 ft container."
   - q: "What is the difference between EUR 2 and EUR 3?"
     a: "Both have a footprint of 1200 x 1000 mm, but they differ in construction and height. A wooden EUR 2 pallet is 162 mm high, a EUR 3 pallet 144 mm, the same as the Euro pallet. EUR 3 is often written as 1000 x 1200 mm."
   - q: "How many Euro pallets fit in a truck?"
@@ -79,7 +79,7 @@ More about [plastic pallets for automation](@guide-automation).
 
 ### Containers
 
-A 20ft sea container is about 5.9 metres long inside, a 40ft container about 12 metres. Euro pallets do not always fill a container well. With industrial pallets of 1200 x 1000 mm, square pallets of [1100 x 1100 mm](@size-1100x1100) or CP5 pallets of [760 x 1140 mm](@size-760x1140), you often make better use of the space.
+A 20 ft sea container is about 5.9 metres long inside, a 40 ft container about 12 metres. Euro pallets do not always fill a container well. With industrial pallets of 1200 x 1000 mm, square pallets of [1100 x 1100 mm](@size-1100x1100) or CP5 pallets of [760 x 1140 mm](@size-760x1140), you often make better use of the space.
 
 ## Height and fork entry height
 

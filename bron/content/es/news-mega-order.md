@@ -43,6 +43,6 @@ Los palets para DPB salen de nuestra fábrica de Balk, en la provincia de Frisia
 
 ## Acerca de Q-Pall
 
-Desde 2005, Q-Pall fabrica exclusivamente palets de plástico y forma parte de AVK Group. La sede central está en Veghel. Producimos en seis fábricas en Europa: Balk, Ribe, Marktoberdorf, Nantes, Lleida y Chesterfield. La gama incluye unos 130 modelos en nueve formatos. Además, trabajamos con 18 distribuidores en 15 países de Europa y Estados Unidos.
+Desde 2005, Q-Pall fabrica exclusivamente palets de plástico y forma parte de AVK Group. La sede central está en Veghel. Producimos en seis fábricas en Europa: Balk, Ribe, Marktoberdorf, Nantes, Lleida y Chesterfield. La gama incluye unas 130 versiones en nueve formatos. Además, trabajamos con 18 distribuidores en 15 países de Europa y Estados Unidos.
 
 ¿Busca palets para un pool o para la industria de bebidas? [Solicite un presupuesto](@quote) y normalmente recibirá un precio a medida en un día laborable.

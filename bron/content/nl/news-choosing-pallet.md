@@ -22,7 +22,7 @@ updated: '2026-11-02'
 >
 > * Begin bij de belasting: statisch, dynamisch en in de stelling.
 > * Het formaat volgt uit uw lading en uit uw stellingen, vrachtwagens en containers.
-> * Onze standaardpallets zijn van gerecycled kunststof; voor direct contact met levensmiddelen is er virgin kunststof.
+> * Onze standaardpallets zijn van bijna 100% gerecycled kunststof; voor direct contact met levensmiddelen is er virgin kunststof.
 > * Nestbare pallets besparen ruimte bij opslag en retourtransport.
 > * Kijk naar de kosten over de hele levensduur, niet alleen naar de aanschafprijs.
 
@@ -38,21 +38,21 @@ Het draagvermogen is waarschijnlijk de belangrijkste factor. Hoeveel gewicht een
 
 Kijk naar de waarde die past bij uw gebruik en neem wat marge. De opgegeven waarden gelden bij een gelijkmatig verdeelde lading. Meer hierover leest u bij [de belasting van kunststof pallets](@about-load).
 
-Onze pallets zijn verdeeld over drie belastingklassen. Light pallets zijn licht en vaak nestbaar, voor export en eenmalig gebruik. Medium pallets zijn de allrounders voor intern transport en lichte stellingbelasting. Heavy pallets zijn gemaakt voor zwaar gebruik en palletstellingen, en dragen tot 7.500 kg statisch.
+Onze pallets zijn verdeeld over drie draagklassen. Light pallets zijn licht en vaak nestbaar, voor export en eenmalig gebruik. Medium pallets zijn de allrounders voor intern transport en lichte stellingbelasting. Heavy pallets zijn gemaakt voor zwaar gebruik en palletstellingen, en dragen tot 7.500 kg statisch.
 
 ## Afmetingen: past de pallet bij lading en transport?
 
-De pallet moet groot genoeg zijn om uw lading goed te dragen en veilig te vervoeren. Ook uw transportmiddelen en stellingen bepalen de maat: de pallets moeten passen in uw vrachtwagen, trailer of container. In Europa is 1200 x 800 mm de standaard. Ons assortiment telt zo'n 130 modellen in negen formaten, van 600 x 400 tot 1300 x 1100 mm. In ons overzicht van [palletmaten](@guide-sizes) staan ze op een rij.
+De pallet moet groot genoeg zijn om uw lading goed te dragen en veilig te vervoeren. Ook uw transportmiddelen en stellingen bepalen de maat: de pallets moeten passen in uw vrachtwagen, trailer of container. In Europa is 1200 x 800 mm de standaard. Ons assortiment telt zo'n 130 uitvoeringen in negen formaten, van 600 x 400 tot 1300 x 1100 mm. In ons overzicht van [palletmaten](@guide-sizes) staan ze op een rij.
 
 ## Materiaal en gewicht
 
-Niet elke kunststof pallet is van hetzelfde materiaal. Onze standaardpallets maken we van gerecycled kunststof, een mix van HDPE en PP. Onze hygiënische pallets, H1-pallets en cleanroompallets zijn van virgin (nieuw) kunststof, in een eigen kleur. Pallets van gerecycled kunststof zijn niet bedoeld voor direct contact met levensmiddelen.
+Niet elke kunststof pallet is van hetzelfde materiaal. Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE en PP. Onze hygiënische pallets, H1-pallets en cleanroompallets zijn van virgin (nieuw) kunststof, in een eigen kleur. Pallets van gerecycled kunststof zijn niet bedoeld voor direct contact met levensmiddelen.
 
-Kunststof pallets zijn vaak lichter dan hout, al hangt dat af van het type. Een light pallet is veel lichter dan een houten europallet van zo'n 25 kg. Een heavy pallet weegt 17 tot 28 kg.
+Kunststof pallets zijn vaak lichter dan hout, al hangt dat af van het type. Een light pallet is veel lichter dan een houten europallet van zo'n 25 kg. Een heavy pallet weegt ca. 17 tot 29 kg.
 
 ## Nestbaarheid: ruimte besparen
 
-Sommige kunststof pallets zijn nestbaar: lege pallets schuiven in elkaar. Dat bespaart ruimte bij opslag en retourtransport. Een volle stapel bevat bijvoorbeeld 45 [nestbare pallets](@type-nestable), tegen 17 medium pallets. Nestbare pallets zijn meestal light pallets. Wilt u op locatie toch meer stabiliteit? Dan kunt u er klikbare runners onder zetten.
+Sommige kunststof pallets zijn nestbaar: lege pallets schuiven in elkaar. Dat bespaart ruimte bij opslag en retourtransport. Een volle stapel bevat bijvoorbeeld 45 [nestbare pallets](@type-nestable), tegen 17 medium pallets. Nestbare pallets zijn meestal light pallets. Wilt u op locatie toch meer stabiliteit? Dan kunt u er klikbare onderlatten onder zetten.
 
 ## Hygiëne
 

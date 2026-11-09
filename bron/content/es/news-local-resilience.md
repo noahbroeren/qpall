@@ -42,10 +42,10 @@ En la práctica, Q-Pall fabrica palets de plástico en [seis fábricas en seis p
 El impacto no depende solo del lugar de producción, sino también del origen de la materia prima.
 
 * **Cadenas de aprovisionamiento más cortas.** El plástico reciclado de la región no tiene que llegar de otro continente.
-* **Más transparencia sobre el origen.** Usted sabe de dónde procede el material. Es importante para unos informes ESG creíbles.
+* **Más transparencia sobre el origen.** Sabe de dónde procede el material. Es importante para unos informes ESG creíbles.
 * **Apoyo al reciclaje regional.** Utilizar flujos de residuos locales refuerza a las empresas de reciclaje de su propia región.
 
-Fabricamos nuestros palets estándar con plástico reciclado casi al 100%: una mezcla de HDPE (código 2) y PP (código 5). En 2025 procesamos 34.500 toneladas de plástico reciclado procedente de Europa. Son unos 1.475 camiones llenos de materia prima que no tuvieron que venir de otro continente. Qué significa esto para el CO₂ y el transporte lo explicamos en [producción local de palets de plástico y sostenibilidad](@news-local-sustainability).
+Fabricamos nuestros palets estándar con plástico casi 100% reciclado: una mezcla de HDPE (código 2) y PP (código 5). En 2025 procesamos 34.500 toneladas de plástico reciclado procedente de Europa. Son unos 1.475 camiones llenos de materia prima que no tuvieron que venir de otro continente. Qué significa esto para el CO₂ y el transporte lo explicamos en [producción local de palets de plástico y sostenibilidad](@news-local-sustainability).
 
 ### Menor coste total gracias a la estabilidad y la rapidez
 
@@ -55,7 +55,7 @@ Sobre el papel, la producción local a veces parece más cara. En la práctica a
 * **Mayor fiabilidad de entrega.** Evita el exceso de existencias, los envíos urgentes y las paradas por falta de material.
 * **Menos costes de no calidad.** La relación directa con el fabricante facilita el control de la calidad y reduce las devoluciones.
 
-Nuestros clientes nos cuentan que tienen menos costes de no calidad, necesitan menos existencias de seguridad y, sobre todo, ganan tranquilidad en su cadena. Usted lo nota en un **coste total de propiedad (TCO)** más bajo. Cómo calcular el coste por rotación lo explicamos en [¿cuánto cuesta un palet de plástico?](@guide-prices)
+Nuestros clientes nos cuentan que tienen menos costes de no calidad, necesitan menos existencias de seguridad y, sobre todo, ganan tranquilidad en su cadena. Eso se nota en un **coste total de propiedad (TCO)** más bajo. Cómo calcular el coste por rotación lo explicamos en [¿cuánto cuesta un palet de plástico?](@guide-prices)
 
 ## ¿Qué dependencia tiene su flujo de palets?
 

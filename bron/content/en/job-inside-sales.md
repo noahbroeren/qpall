@@ -12,7 +12,7 @@ job:
   - FULL_TIME
   - PART_TIME
   hours: 32-36 hours a week
-  education: Secondary vocational education (MBO+) or higher professional education (HBO) level
+  education: MBO+ (upper secondary vocational) or HBO (bachelor's) level, or equivalent
   skills: Dutch and English, spoken and written; Microsoft Office; CRM experience is a plus
   industry: Manufacturing and sale of plastic pallets
   direct_apply: true
@@ -26,7 +26,7 @@ hero:
     text: 32-36 hours a week
   - icon: book
     label: Level
-    text: MBO+ or HBO level
+    text: MBO+ or HBO (bachelor's) level
   - icon: language
     label: Languages
     text: Dutch and English
@@ -43,7 +43,7 @@ tasks:
     text: 'You help customers choose the right pallet: which size, which load class, open or closed deck.'
   - icon: doc
     title: Prepare quotations
-    text: You prepare quotations, send them and follow them up proactively. You don't wait, you pick up the phone.
+    text: You prepare quotations, send them and follow them up proactively. Rather than waiting, you pick up the phone.
   - icon: handshake
     title: Build relationships
     text: You stay in touch with existing customers and build new business relationships.
@@ -51,13 +51,13 @@ tasks:
     title: Work together
     text: You coordinate with logistics and production, so we deliver what we promise our customers.
   - icon: bulb
-    title: Think along
+    title: Share ideas
     text: You help find smarter processes and even higher customer satisfaction.
 photos_caption: 'Our head office in Veghel: this is where you work with the Inside Sales team.'
 profile:
   title: Who **we are looking for**
   items:
-  - MBO+ or HBO level of work and thinking.
+  - Education at MBO+ (upper secondary vocational) or HBO (bachelor's) level, or equivalent.
   - You speak and write Dutch and English well.
   - You are at home in Microsoft Office; experience with a CRM system is a plus.
   - You are commercial, eager to learn and take the initiative.
@@ -80,7 +80,7 @@ offer:
 why:
   eyebrow: About Q-Pall
   title: Pallets **with a purpose**
-  text: Since 2005 Q-Pall has made only plastic pallets. Our standard pallets are made from recycled plastic, and with six factories in Europe we always produce close to the customer.
+  text: Since 2005 Q-Pall has made only plastic pallets. Our standard pallets are made from nearly 100% recycled plastic, and with six factories in Europe we produce close to the customer.
   link: More about Q-Pall
 process:
   title: How **applying works**
@@ -103,5 +103,5 @@ faq:
 - q: Which languages do I need to speak?
   a: Dutch and English, spoken and written. You are in touch with customers across Europe.
 - q: Do I need to write a cover letter?
-  a: No. A CV is enough. Want to add something? You can do so in the form, in a few sentences.
+  a: No. A CV is enough. Would you like to add something? You can do so in the form, in a few sentences.
 ---

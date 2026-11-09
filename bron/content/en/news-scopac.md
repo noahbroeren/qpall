@@ -34,7 +34,7 @@ A composite is a material made up of several components, in this case plastic wi
 
 ## Q-Pall's role
 
-We already make our standard pallets from almost 100% recycled plastic, a mix of HDPE and PP. Read more about this material in [recycled PE-HD 2: what is it exactly?](@news-hdpe)
+We already make our standard pallets from nearly 100% recycled plastic, a mix of HDPE and PP. Read more about this material in [recycled PE-HD 2: what is it exactly?](@news-hdpe)
 
 In SCOPAC, we investigated whether the new composites can be used in pallets and how they perform in logistics environments. In this way, we helped to map out the potential of a new circular material.
 

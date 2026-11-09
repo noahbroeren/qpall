@@ -1,7 +1,7 @@
 ---
 id: careers
 title: 'Trabaje en Q-Pall: ofertas de empleo en Veghel'
-description: ¿Trabajar en un fabricante internacional y en crecimiento de palets de plástico sostenibles? Vea las ofertas de empleo de Q-Pall en Veghel y postúlese.
+description: ¿Trabajar en un fabricante internacional y en crecimiento de palets de plástico sostenibles? Vea las ofertas de Q-Pall en Veghel y envíe su candidatura.
 eyebrow: Empleo
 h1: Trabajar **en Q-Pall**
 lead: En Q-Pall trabaja en palets con propósito. En un equipo internacional, con comunicación directa y mucho espacio para su propia iniciativa.
@@ -14,7 +14,7 @@ why:
   items:
   - icon: leaf
     title: Un producto que importa
-    text: Fabricamos palets de plástico reciclado y ayudamos a clientes de toda Europa a trabajar de forma más sostenible.
+    text: Fabricamos palets de plástico casi 100% reciclado y ayudamos a clientes de toda Europa a trabajar de forma más sostenible.
   - icon: globe
     title: Internacional
     text: Seis fábricas en Europa y clientes en todo el mundo. Cada día trabaja más allá de las fronteras.

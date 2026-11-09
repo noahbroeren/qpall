@@ -13,6 +13,6 @@ lead: "Alle pallets per formaat, met afmetingen, gewicht, bovendek, onderzijde e
 - Per model: artikelnummer, afmetingen, gewicht, bovendek, onderzijde en de statische, dynamische en stellingbelasting.
 - Light, medium en heavy in één oogopslag, met duidelijke labels.
 - Onderlatten en klikbare onderlatten.
-- De nieuwe medium antislip pallets.
+- De medium antislip pallets (sinds eind 2025).
 
 De catalogus is er in zes talen: Nederlands, Engels, Duits, Frans, Italiaans en Spaans. U downloadt automatisch de versie in de taal van deze website. De gegevens op deze website zijn altijd het meest actueel. Bekijk daarom ook ons [online assortiment](@pallets), met filters en vanafprijzen.

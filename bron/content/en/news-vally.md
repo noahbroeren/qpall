@@ -29,16 +29,16 @@ Vally is no stranger to the world of [plastic pallets](@pallets) and plastics pr
 
 Vally has a background in mechanical engineering and years of experience in product development and technical operations. This allows him to bridge the gap between what customers need and what Q-Pall makes.
 
-In his new role, he supports colleagues and our European sales network in matching the right plastic pallet to the right application. Think of pallets for the food industry, [hygienic pallets](@type-hygienic) for pharma or robust [heavy duty pallets](@class-heavy) for heavy logistics.
+In his new role, he supports colleagues and our European sales network in matching the right plastic pallet to the right application. Think of pallets for the food industry, [hygienic pallets](@type-hygienic) for pharma or robust [heavy-duty pallets](@class-heavy) for heavy logistics.
 
 What sets Vally apart? He understands both the technology behind the pallet and the commercial side of the market. That is a combination we can make good use of at Q-Pall.
 
 ## Sustainable and local: a shared conviction
 
-Like Q-Pall, Vally believes in local production and circular materials. We make our standard pallets from almost 100% recycled plastic, a mix of HDPE and PP. At the end of their service life, they are fully recyclable.
+Like Q-Pall, Vally believes in local production and circular materials. We make our standard pallets from nearly 100% recycled plastic, a mix of HDPE and PP. At the end of their service life, they are fully recyclable.
 
 We produce in [six factories across Europe](@about-local), close to our customers. Short supply chains, less CO₂ and more control: that is the idea. Vally has brought that conviction with him from day one.
 
 Welcome to the team, Vally.
 
-Would you like to know which pallet best suits your application? [Contact us](@contact) and we will be happy to think along with you.
+Would you like to know which pallet best suits your application? [Contact us](@contact) and we will be happy to help you find a solution.

@@ -62,6 +62,6 @@ Through [Q-Used](@used), we offer inspected used plastic pallets in various mode
 
 Legislation also calls for more attention to the environment. The European packaging regulation PPWR entered into force in February 2025 and has applied since 12 August 2026. Pallets are transport packaging, so they fall under it too.
 
-From 2030, packaging must be recyclable in class A, B or C, where class C means at least 70%. Q-Pall has a PPWR declaration of conformity for each pallet group; for most models you can download it on the product page. Read more in our guide to [PPWR and plastic pallets](@guide-ppwr).
+From 2030, packaging must be recyclable in grade A, B or C, where grade C means at least 70%. Q-Pall has a PPWR declaration of conformity for each pallet group; for most models you can download it on the product page. Read more in our guide to [PPWR and plastic pallets](@guide-ppwr).
 
 Would you like to know which pallet suits your application and your sustainability goals? [Contact us](@contact) and we will be happy to advise you.

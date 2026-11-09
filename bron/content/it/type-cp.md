@@ -1,7 +1,7 @@
 ---
 id: type-cp
 title: "Pallet CP in plastica (CP1, CP3, CP6, CP9) – Q-Pall"
-description: "Pallet CP in plastica per l’industria chimica: CP1 e CP6 (1200 x 1000) e CP3 e CP9 (1140 x 1140). Fino a 7.500 kg in statica e 2.200 kg in dinamica."
+description: "Pallet CP in plastica per l’industria chimica: CP1 e CP6 (1200 x 1000) e CP3 e CP9 (1140 x 1140). Portata statica fino a 7.500 kg, dinamica fino a 2.200 kg."
 eyebrow: "Industria chimica"
 h1: "**Pallet CP** in plastica"
 lead: "La versione in plastica del pallet per la chimica. Offriamo CP1, CP3 e CP9 nelle classi Medium e Heavy, e CP6 in Heavy."
@@ -42,4 +42,4 @@ Nell’[industria chimica](@sector-chemical) sicurezza e qualità del prodotto v
 
 ## Medium o Heavy?
 
-I pallet CP **Medium** sono pensati per carichi normali e stoccaggio a terra. I pallet CP **Heavy** sopportano fino a 7.500 kg in statica, fino a 2.200 kg in dinamica e fino a 1.375 kg su scaffale. Non siete sicuri? Nella nostra pagina sulla [portata](@about-load) potete leggere come scegliere il valore giusto.
+I pallet CP **Medium** sono pensati per carichi normali e stoccaggio a terra. I pallet CP **Heavy** hanno una portata statica fino a 7.500 kg, una portata dinamica fino a 2.200 kg e una portata su scaffale fino a 1.375 kg. Non siete sicuri? Nella nostra pagina sulla [portata](@about-load) potete leggere come scegliere il valore giusto.

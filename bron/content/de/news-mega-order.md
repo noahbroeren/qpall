@@ -43,6 +43,6 @@ Die Paletten für DPB kommen aus unserem Werk in Balk in der Provinz Friesland. 
 
 ## Über Q-Pall
 
-Q-Pall stellt seit 2005 ausschließlich Kunststoffpaletten her und gehört zur AVK Group. Der Hauptsitz befindet sich in Veghel. Wir produzieren in sechs Werken in Europa: Balk, Ribe, Marktoberdorf, Nantes, Lleida und Chesterfield. Das Sortiment umfasst rund 130 Modelle in neun Formaten. Außerdem arbeiten wir mit 18 Händlern in 15 Ländern in Europa und den Vereinigten Staaten zusammen.
+Q-Pall stellt seit 2005 ausschließlich Kunststoffpaletten her und gehört zur AVK Group. Der Hauptsitz befindet sich in Veghel. Wir produzieren in sechs Werken in Europa: Balk, Ribe, Marktoberdorf, Nantes, Lleida und Chesterfield. Das Sortiment umfasst rund 130 Ausführungen in neun Formaten. Außerdem arbeiten wir mit 18 Händlern in 15 Ländern in Europa und den Vereinigten Staaten zusammen.
 
 Suchen Sie Paletten für einen Pool oder für die Getränkeindustrie? [Fordern Sie ein Angebot an](@quote), Sie erhalten meist innerhalb eines Werktags einen individuellen Preis.

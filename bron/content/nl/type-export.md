@@ -9,7 +9,7 @@ faq:
   - q: "Heeft een kunststof exportpallet een ISPM 15-stempel nodig?"
     a: "Nee. ISPM 15 geldt voor verpakkingshout. Kunststof pallets zijn daarvan vrijgesteld, dus u hoeft ze niet te laten behandelen of stempelen. Lees meer in onze [uitleg over ISPM 15](@guide-ispm)."
   - q: "Wat is het verschil tussen een exportpallet en een europallet?"
-    a: "Een europallet zegt iets over het formaat (1200 x 800 mm) en is vaak bedoeld om terug te komen. Een exportpallet is gemaakt voor een enkele reis: zo licht mogelijk, sterk genoeg voor transport en zonder ISPM 15-gedoe. Een kunststof pallet van 1200 x 800 mm kan allebei zijn."
+    a: "Een europallet zegt iets over het formaat (1200 x 800 mm) en is vaak bedoeld om terug te komen. Een exportpallet is gemaakt voor een enkele reis: zo licht mogelijk, sterk genoeg voor transport en zonder ISPM 15-behandeling. Een kunststof pallet van 1200 x 800 mm kan allebei zijn."
   - q: "Zijn exportpallets geschikt voor een palletstelling?"
     a: "Nee. Onze exportpallets zijn light pallets voor transport en vloeropslag. Ze dragen tot 2.500 kg statisch en tot 1.000 kg dynamisch, maar zijn niet bedoeld voor stellingopslag."
   - q: "Welke formaten exportpallets zijn er?"
@@ -35,4 +35,4 @@ Een pallet met **9 pootjes** is het lichtst en nestbaar, en u kunt hem van vier 
 
 ## Duurzaam, ook bij eenmalig gebruik
 
-Onze exportpallets zijn gemaakt van gerecycled kunststof. Aan het einde van hun leven zijn ze volledig recyclebaar. Lees meer over onze aanpak op de pagina [duurzaamheid](@about-sustainability). Bekijk ook alle [nestbare pallets](@type-nestable).
+Onze exportpallets zijn gemaakt van bijna 100% gerecycled kunststof. Aan het einde van hun leven zijn ze volledig recyclebaar. Lees meer over onze aanpak op de pagina [duurzaamheid](@about-sustainability). Bekijk ook alle [nestbare pallets](@type-nestable).

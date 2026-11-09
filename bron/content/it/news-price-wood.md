@@ -32,7 +32,7 @@ updated: '2026-11-02'
 
 Se confrontate i [pallet in plastica e quelli in legno](@guide-wood), la plastica vince su molti punti. La plastica non assorbe umidità e si pulisce facilmente. Non si scheggia e non ci sono chiodi che si allentano.
 
-I pallet in plastica sono inoltre spesso più leggeri, a seconda del tipo. Un europallet in plastica incastrabile pesa poco più di 5 kg, un europallet in legno circa 25 kg. Un pallet in plastica Heavy pesa da 17 a 28 kg, più o meno quanto un europallet in legno.
+I pallet in plastica sono inoltre spesso più leggeri, a seconda del tipo. Un europallet in plastica incastrabile pesa poco più di 5 kg, un europallet in legno circa 25 kg. Un pallet in plastica Heavy pesa da circa 17 a 29 kg, più o meno quanto un europallet in legno.
 
 Perché allora si usano ancora così tanti pallet in legno? Soprattutto per il prezzo. Al pezzo, un pallet in legno costa di solito meno.
 

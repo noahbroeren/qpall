@@ -77,7 +77,7 @@
     <div>
       <h2 id="apply-h">{{ J.apply.title|bold }}</h2>
       <p class="lead">{{ J.apply.lead }}</p>
-      {{ CR.apply_form(ui, t, urls, apply_url, job_value, cv_max, lang) }}
+      {{ CR.apply_form(ui, t, urls, apply_url, job_value, cv_max, lang, job_title=job_title) }}
     </div>
     <aside class="cr-apply-side" id="contactpersoon">
       {{ CR.contact_card(contact, ui, J.contact_text, company) }}

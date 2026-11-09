@@ -33,7 +33,7 @@ La normativa también tiene un peso creciente. Las grandes empresas deben poder 
 
 ## El modelo Q-Pall: producir cerca del cliente
 
-En Q-Pall no vemos la producción como una partida de costes, sino como una herramienta para garantizar el suministro. Elegimos de forma consciente el nearshoring. Producimos en [seis fábricas repartidas por Europa](@about-local), de modo que casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall. Así no existe un punto único de fallo.
+En Q-Pall no vemos la producción como una partida de costes, sino como una herramienta para garantizar el suministro. Elegimos de forma consciente el nearshoring. Producimos en [seis fábricas repartidas por Europa](@about-local), de modo que casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall.
 
 Este modelo funciona de forma distinta a las importaciones lejanas. El transporte marítimo intercontinental está expuesto a semanas de retraso. Nuestra red puede adaptarse y entregar en pocos días, sin depender de un solo puerto ni de una sola ruta.
 
@@ -45,7 +45,7 @@ Un enfoque regional también estabiliza los precios. Las tarifas de los contened
 
 La producción local también permite controlar el flujo de materias primas: la *cadena de custodia*. Es esencial para las empresas que se toman en serio sus objetivos ESG y quieren evitar el greenwashing.
 
-Fabricamos nuestros palets estándar con plástico reciclado, una mezcla de HDPE (código 2) y PP (código 5). Puede leer más sobre este material en [PE-HD 2 reciclado (HDPE 2): ¿qué es exactamente?](@news-hdpe) Como compramos el material reciclado cerca, tenemos una visión directa de su calidad y su origen. Los residuos no recorren medio mundo antes de tener una nueva vida. El residuo local se convierte en materia prima local y en un producto local.
+Fabricamos nuestros palets estándar con plástico casi 100% reciclado, una mezcla de HDPE (código 2) y PP (código 5). Puede leer más sobre este material en [PE-HD 2 reciclado (HDPE 2): ¿qué es exactamente?](@news-hdpe) Como compramos el material reciclado cerca, tenemos una visión directa de su calidad y su origen. Los residuos no recorren medio mundo antes de tener una nueva vida. El residuo local se convierte en materia prima local y en un producto local.
 
 El resultado es un palet técnicamente sólido (resistente a los impactos y a la intemperie, y fácil de limpiar) que cuenta una historia honesta en su informe de sostenibilidad. Al final de su vida útil, el palet es totalmente reciclable dentro de la misma cadena regional. Qué supone la producción local para el transporte, el CO₂ y el material reciclado lo explicamos en [producción local de palets de plástico y sostenibilidad](@news-local-sustainability).
 

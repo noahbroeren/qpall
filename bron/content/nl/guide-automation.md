@@ -21,7 +21,7 @@ In een handmatig magazijn corrigeert een heftruckchauffeur een scheve of beschad
 
 ## Vijf eigenschappen die tellen
 
-* **Maatvast.** Een spuitgegoten kunststof pallet heeft altijd dezelfde maat. Hij zwelt niet op en krimpt niet bij vocht.
+* **Maatvast.** Een spuitgegoten kunststof pallet heeft een vaste maat, binnen nauwe toleranties. Hij zwelt niet op en krimpt niet bij vocht.
 * **Constant gewicht.** Belangrijk voor weegsystemen en controles op de lijn.
 * **Geen spijkers of splinters.** Er blijft niets haken aan rollen, kettingen of sensoren.
 * **De juiste onderzijde.** Voor rollenbanen en kettingtransporteurs kiest u een pallet met onderlatten, zoals vrijwel al onze [heavy pallets](@class-heavy): drie of zes doorlopende latten geven een egaal loopvlak. Pootjespallets zijn minder geschikt voor rollenbanen.

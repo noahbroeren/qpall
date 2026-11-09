@@ -76,7 +76,7 @@ Anche un pallet da 1200 x 800 mm può essere un pallet da esportazione. In quest
 
 ### Alimentare e farmaceutico
 
-I nostri pallet da esportazione sono in plastica riciclata. Si puliscono facilmente e non contengono residui organici, ma non sono destinati al contatto diretto con gli alimenti. Per le applicazioni con requisiti igienici rigorosi, come nell’industria alimentare e farmaceutica, offriamo [pallet igienici](@type-hygienic) in plastica vergine.
+I nostri pallet da esportazione sono in plastica riciclata quasi al 100%. Si puliscono facilmente e non contengono residui organici, ma non sono destinati al contatto diretto con gli alimenti. Per le applicazioni con requisiti igienici rigorosi, come nell’industria alimentare e farmaceutica, offriamo [pallet igienici](@type-hygienic) in plastica vergine.
 
 ## Il meglio di entrambi i mondi
 

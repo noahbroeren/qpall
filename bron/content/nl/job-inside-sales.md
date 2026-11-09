@@ -4,7 +4,7 @@ title: Vacature commercieel medewerker binnendienst – Q-Pall Veghel
 description: Commercieel medewerker binnendienst bij Q-Pall in Veghel, 32-36 uur. Adviseer klanten in heel Europa over kunststof pallets. Solliciteer in 2 minuten.
 eyebrow: Vacature · Inside Sales
 h1: Commercieel medewerker **binnendienst**
-lead: Jij bent de stem van Q-Pall voor klanten in heel Europa. Je adviseert, maakt offertes en zorgt dat beloftes worden waargemaakt. Wegens groei zoeken we een nieuwe collega voor ons Inside Sales-team in Veghel.
+lead: U bent de stem van Q-Pall voor klanten in heel Europa. U adviseert, maakt offertes en zorgt dat beloftes worden waargemaakt. Wegens groei zoeken we een nieuwe collega voor ons Inside Sales-team in Veghel.
 job:
   title: Commercieel medewerker binnendienst
   posted: '2026-10-28'
@@ -31,39 +31,39 @@ hero:
     label: Talen
     text: Nederlands en Engels
   cta: Solliciteer direct
-  cta2: Stel je vraag
-  note: Solliciteren kost je 2 minuten. Een cv is genoeg.
+  cta2: Stel uw vraag
+  note: Solliciteren kost u 2 minuten. Een cv is genoeg.
 tasks:
   eyebrow: De functie
-  title: Dit ga **je doen**
-  lead: Geen dag is hetzelfde. Je hebt dagelijks contact met klanten in heel Europa, van voedingsproducenten tot logistieke dienstverleners, en schakelt soepel tussen advies en verkoop.
+  title: Dit gaat **u doen**
+  lead: Geen dag is hetzelfde. U hebt dagelijks contact met klanten in heel Europa, van voedingsproducenten tot logistieke dienstverleners, en schakelt soepel tussen advies en verkoop.
   items:
   - icon: support
     title: Klanten adviseren
-    text: 'Je helpt klanten de juiste pallet te kiezen: welke maat, welke draagklasse, open of gesloten dek.'
+    text: 'U helpt klanten de juiste pallet te kiezen: welke maat, welke draagklasse, open of gesloten dek.'
   - icon: doc
     title: Offertes maken
-    text: Je stelt offertes op, verstuurt ze en belt ze proactief na. Je wacht niet af, maar pakt de telefoon.
+    text: U stelt offertes op, verstuurt ze en belt ze proactief na. U wacht niet af, maar pakt de telefoon.
   - icon: handshake
     title: Relaties opbouwen
-    text: Je onderhoudt contact met bestaande klanten en bouwt nieuwe zakelijke relaties op.
+    text: U onderhoudt contact met bestaande klanten en bouwt nieuwe zakelijke relaties op.
   - icon: truck
     title: Samenwerken
-    text: Je schakelt met logistiek en productie, zodat we waarmaken wat we klanten beloven.
+    text: U schakelt met logistiek en productie, zodat we waarmaken wat we klanten beloven.
   - icon: bulb
     title: Meedenken
-    text: Je denkt mee over slimmere processen en een nog hogere klanttevredenheid.
-photos_caption: 'Ons hoofdkantoor in Veghel: hier werk je samen met het Inside Sales-team.'
+    text: U denkt mee over slimmere processen en een nog hogere klanttevredenheid.
+photos_caption: 'Ons hoofdkantoor in Veghel: hier werkt u samen met het Inside Sales-team.'
 profile:
   title: Wie **zoeken we?**
   items:
   - Mbo+ of hbo werk- en denkniveau.
-  - Je spreekt en schrijft goed Nederlands en Engels.
-  - Je werkt makkelijk met Microsoft Office; ervaring met een CRM-systeem is een pré.
-  - Je bent commercieel, leergierig en neemt zelf het initiatief.
+  - U spreekt en schrijft goed Nederlands en Engels.
+  - U werkt makkelijk met Microsoft Office; ervaring met een CRM-systeem is een pré.
+  - U bent commercieel, leergierig en neemt zelf het initiatief.
   note: Starter of ervaren? Allebei welkom. Motivatie en drive tellen het zwaarst.
 offer:
-  title: Wat **bieden we jou?**
+  title: Wat **bieden we u?**
   items:
   - icon: book
     title: Een goede start
@@ -80,28 +80,28 @@ offer:
 why:
   eyebrow: Over Q-Pall
   title: Pallets **met een doel**
-  text: Q-Pall maakt sinds 2005 alleen kunststof pallets. Onze standaardpallets zijn gemaakt van gerecycled kunststof, en met zes fabrieken in Europa produceren we altijd dicht bij de klant.
+  text: Q-Pall maakt sinds 2005 alleen kunststof pallets. Onze standaardpallets zijn gemaakt van bijna 100% gerecycled kunststof, en met zes fabrieken in Europa produceren we dicht bij de klant.
   link: Meer over Q-Pall
 process:
-  title: Zo verloopt **je sollicitatie**
+  title: Zo verloopt **uw sollicitatie**
   steps:
-  - title: Je solliciteert
-    text: Vul het formulier in en voeg je cv toe. Dat kost je een paar minuten.
+  - title: U solliciteert
+    text: Vul het formulier in en voeg uw cv toe. Dat kost u een paar minuten.
   - title: We nemen contact op
-    text: Sabine bekijkt je sollicitatie en neemt zo snel mogelijk contact met je op.
+    text: Sabine bekijkt uw sollicitatie en neemt zo snel mogelijk contact met u op.
   - title: Kennismaken
-    text: Je komt langs op ons kantoor in Veghel en maakt kennis met het team.
+    text: U komt langs op ons kantoor in Veghel en maakt kennis met het team.
 apply:
   title: Solliciteer **direct**
-  lead: Laat je gegevens achter en upload je cv. Een motivatiebrief is niet nodig.
+  lead: Laat uw gegevens achter en upload uw cv. Een motivatiebrief is niet nodig.
 contact_text: Vragen over de functie of over solliciteren? Neem gerust contact op.
 faq:
 - q: Kan ik ook als starter solliciteren?
   a: Ja. Zowel starters als ervaren krachten zijn welkom. Motivatie en drive staan voorop.
-- q: Hoeveel uur werk je per week?
+- q: Hoeveel uur werkt u per week?
   a: 32 tot 36 uur per week, op ons hoofdkantoor in Veghel.
 - q: Welke talen moet ik spreken?
-  a: Nederlands en Engels, in woord en geschrift. Je hebt contact met klanten in heel Europa.
+  a: Nederlands en Engels, in woord en geschrift. U hebt contact met klanten in heel Europa.
 - q: Moet ik een motivatiebrief schrijven?
-  a: Nee. Een cv is genoeg. Wil je iets toelichten? Dat kan in het formulier, in een paar zinnen.
+  a: Nee. Een cv is genoeg. Wilt u iets toelichten? Dat kan in het formulier, in een paar zinnen.
 ---

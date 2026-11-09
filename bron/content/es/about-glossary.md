@@ -7,23 +7,23 @@ h1: "Glosario de **palets de plástico**"
 lead: "Todos los términos con los que se encontrará al elegir un palet de plástico, explicados de forma breve y clara. A continuación, las preguntas que más nos hacen."
 faq:
   - q: "¿De qué están hechos los palets de plástico?"
-    a: "Q-Pall fabrica sus palets con polietileno reciclado (HDPE, código de reciclaje 2) y polipropileno (PP). Solo los palets higiénicos son de plástico virgen."
+    a: "Q-Pall fabrica sus palets con polietileno (HDPE, código de reciclaje 2) y polipropileno (PP) casi 100% reciclados; los palets Light contienen además LDPE. Solo los palets higiénicos son de plástico virgen."
   - q: "¿Cómo se fabrican los palets de plástico?"
     a: "Mediante moldeo por inyección a alta presión. El granulado de plástico fundido se inyecta en un molde de acero. Así se obtiene de una sola vez un palet completo y dimensionalmente estable."
   - q: "¿Cuántos tipos de palets de plástico existen?"
-    a: "Q-Pall tiene unos 130 modelos en nueve medidas, de 600 x 400 mm a 1300 x 1100 mm, en las clases Light, Medium y Heavy. Consulte la [gama completa](@pallets)."
+    a: "Q-Pall tiene unas 130 versiones en nueve medidas, de 600 x 400 mm a 1300 x 1100 mm, en las clases Light, Medium y Heavy. Consulte la [gama completa](@pallets)."
   - q: "¿Por qué los palets de plástico son más seguros?"
     a: "No tienen clavos, astillas ni tablas sueltas. No absorben humedad, no crían moho y están libres de plagas, por lo que no necesitan tratamiento ISPM 15. Gracias a sus dimensiones fijas, provocan menos interrupciones en los sistemas automatizados."
   - q: "¿Por qué son rentables los palets de plástico?"
     a: "El precio de compra suele ser más alto que el de la madera, pero un palet de plástico dura mucho más. Por eso conviene calcular el coste por viaje. Además, hay menos daños en las cargas y en las máquinas, no hay costes de reparación ni de tratamiento, y el palet conserva un valor residual cuando se recicla. Más información en nuestra [guía de precios](@guide-prices)."
-  - q: "¿Cómo reducen los palets de plástico las emisiones de CO2?"
+  - q: "¿Cómo reducen los palets de plástico las emisiones de CO₂?"
     a: "Una tara menor significa más carga por viaje y menos combustible. La producción local acorta la distancia de transporte. Y como los palets duran mucho tiempo y después se pueden reciclar, se necesita menos materia prima nueva."
   - q: "¿Pueden poner el logotipo de la empresa en los palets?"
     a: "Sí, mediante estampación en caliente, serigrafía o un inserto en el molde. En proyectos de mayor volumen también es posible su propio color RAL. Consulte [personalización](@about-custom)."
   - q: "¿Dónde puedo comprar palets de plástico?"
     a: "Directamente a Q-Pall o a través de uno de nuestros [distribuidores internacionales](@dealers). Para grandes volúmenes, contacte directamente con nosotros."
   - q: "¿Cuánto cuesta un palet de plástico?"
-    a: "El precio depende de la medida, del peso y, por tanto, de la cantidad de material, del volumen del pedido y de la distancia a nuestra fábrica más cercana. Para muchos modelos mostramos un precio desde. Encontrará una visión general en nuestra [guía de precios](@guide-prices)."
+    a: "El precio depende de la medida, del peso y, por tanto, de la cantidad de material, del volumen del pedido y de la distancia a nuestra fábrica más cercana. Para muchos modelos mostramos un precio de partida. Encontrará una visión general en nuestra [guía de precios](@guide-prices)."
 ---
 
 ## De la A a la Z
@@ -47,7 +47,7 @@ El peso máximo que soporta un palet en una estantería para palets, cuando solo
 El peso máximo que soporta un palet cuando está parado sobre un suelo plano, por ejemplo en apilado en bloque.
 
 ### HDPE y PP
-Los dos plásticos con los que se fabrican nuestros palets estándar: polietileno de alta densidad (HDPE, código de reciclaje 2) y polipropileno (PP). Ambos son fáciles de reciclar. Más información sobre el código 2 en [PE-HD 2 reciclado (HDPE 2): ¿qué es exactamente?](@news-hdpe)
+Los dos plásticos con los que se fabrican principalmente nuestros palets estándar: polietileno de alta densidad (HDPE, código de reciclaje 2) y polipropileno (PP). Los palets Light contienen además LDPE. El HDPE y el PP son fáciles de reciclar. Más información sobre el código 2 en [PE-HD 2 reciclado (HDPE 2): ¿qué es exactamente?](@news-hdpe)
 
 ### Huella de carbono
 Las emisiones de gases de efecto invernadero de un palet a lo largo de todo su ciclo de vida (materia prima, producción y transporte), expresadas en CO₂ equivalente.

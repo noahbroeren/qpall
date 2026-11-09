@@ -21,7 +21,7 @@ Retailers are looking for logistics that are both efficient and sustainable. Pal
 
 ## Why plastic pallets?
 
-- **Made from recycled plastic**, with less material use.
+- **Made from nearly 100% recycled plastic**, with less material use.
 - **Lower weight:** less fuel and lower transport costs.
 - **Easy to clean** and resistant to moisture.
 - **Suitable for automation** and warehouse robots.
@@ -30,7 +30,7 @@ Retailers are looking for logistics that are both efficient and sustainable. Pal
 
 ## Smart pallets with Auchan and IBM
 
-Together with IBM Consulting, we developed a smart, green pallet for the French retailer Auchan. 50,000 plastic Euro pallets can report their location, temperature and shocks. This gives Auchan more insight into the chain and helps reduce food waste. A pallet is no longer just a carrier, but a source of data.
+Together with IBM Consulting, we developed a smart, green pallet for the French retailer Auchan. 50,000 plastic Euro pallets reported their location, temperature and shocks. This gave Auchan more insight into the chain and helped reduce food waste. A pallet is no longer just a carrier, but a source of data.
 
 ## Our recommended pallets
 

@@ -18,7 +18,7 @@ updated: '2026-11-02'
 > * Angoli arrotondati e angoli interni smussati garantiscono un passaggio fluido nei sistemi di trasporto e nel lavoro con il carrello elevatore.
 > * Nervature di impilamento nei quattro angoli rendono l’impilamento semplice e sicuro.
 > * Il pallet è disponibile con piano aperto su 3 o 6 slitte, oppure con piano chiuso su 3 slitte.
-> * Portata: 6.000 kg in statica e 1.500 kg in dinamica.
+> * Portata statica di 6.000 kg e portata dinamica di 1.500 kg.
 
 ## Un pallet per il mercato nordamericano
 
@@ -45,7 +45,7 @@ Gli angoli interni sono smussati lungo tutto il profilo del pallet. Così le for
 * **Colore e logo.** Nero di serie; un altro colore o il vostro logo sono possibili.
 * **Versioni speciali.** Su richiesta in versione ESD e in versione ignifuga.
 
-Tutte le versioni portano 6.000 kg in statica e 1.500 kg in dinamica. Su scaffale il pallet con piano aperto porta 750 kg e quello con piano chiuso 1.375 kg.
+Tutte le versioni hanno una portata statica di 6.000 kg e una portata dinamica di 1.500 kg. La portata su scaffale è di 750 kg per il pallet con piano aperto e di 1.375 kg per quello con piano chiuso.
 
 ## Perché la plastica negli Stati Uniti
 

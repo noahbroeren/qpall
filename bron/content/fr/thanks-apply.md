@@ -3,11 +3,11 @@ id: thanks-apply
 title: Merci pour votre candidature – Q-Pall
 description: Merci pour votre candidature chez Q-Pall. Nous avons bien reçu vos informations et votre CV, et vous contacterons dès que possible.
 eyebrow: Candidature reçue
-h1: Merci ! **Votre candidature est bien arrivée.**
-h1_named: Merci, {name} ! **Votre candidature est bien arrivée.**
-lead: Sabine vous contactera dès que possible. Une question d’ici là ? Appelez-nous au +31 (0)413 353 111.
+h1: Merci ! **Votre candidature est bien arrivée.**
+h1_named: Merci, {name} ! **Votre candidature est bien arrivée.**
+lead: Sabine vous contactera dès que possible. Une question d’ici là ? Appelez-nous au +31 (0)413 353 111.
 next:
-  h: Et maintenant ?
+  h: Et maintenant ?
   steps:
   - when: Maintenant
     t: Candidature reçue
@@ -19,7 +19,7 @@ next:
     t: Faire connaissance
     d: Vous venez nous voir à Veghel et rencontrez l’équipe.
 contact:
-  h: Une question sur votre candidature ?
+  h: Une question sur votre candidature ?
   t: N’hésitez pas à appeler ou écrire à Sabine.
 more:
   h: Découvrez **Q-Pall**

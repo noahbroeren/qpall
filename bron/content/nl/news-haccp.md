@@ -64,7 +64,7 @@ Lees meer over de verschillen in [kunststof of houten pallets](@guide-wood).
 
 ## Hygiënische pallet of pallet van gerecycled kunststof?
 
-Onze standaardpallets maken we van gerecycled kunststof. Ze zijn een duurzame keuze voor verpakte producten, waarbij de pallet niet direct met het voedsel in aanraking komt. Voor direct contact met levensmiddelen zijn ze niet bedoeld.
+Onze standaardpallets maken we van bijna 100% gerecycled kunststof. Ze zijn een duurzame keuze voor verpakte producten, waarbij de pallet niet direct met het voedsel in aanraking komt. Voor direct contact met levensmiddelen zijn ze niet bedoeld.
 
 Ligt het voedsel direct op de pallet? Kies dan een [hygiënische pallet](@type-hygienic). Die maken we van virgin (nieuw) kunststof, in een eigen kleur.
 

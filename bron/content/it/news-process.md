@@ -46,15 +46,15 @@ Le schegge sembrano un dettaglio. Finché qualcuno non si strappa un guanto, dan
 
 I pallet in legno variano di peso: da pezzo a pezzo, da lotto a lotto e da stagione a stagione. Chi lavora con la tara, cioè chiunque fatturi o trasporti a peso, ha così una fonte costante di imprecisione.
 
-Un pallet dal peso costante permette al vostro sistema di pesatura di fare esattamente ciò che deve. Nessuna correzione a posteriori, nessun margine per l’incertezza e nessuna differenza tra documento di trasporto e pesa.
+Un pallet dal peso pressoché costante (entro ±5%) permette al vostro sistema di pesatura di fare ciò che deve. Meno correzioni a posteriori, margini di incertezza più ridotti e quasi nessuna differenza tra documento di trasporto e pesa.
 
 **Cosa vi porta:** una tara affidabile, costi di trasporto prevedibili e una contabilità che torna.
 
 ## 4. Le stesse misure, ogni volta
 
-L’automazione non ama le variazioni. Pallettizzatori, AGV, trasportatori e impianti di impilamento sono regolati su un’impronta fissa. Un pallet più largo di 4 millimetri, o con una tavola di bordo rotta, per un sensore è un guasto.
+L’automazione non ama le variazioni. Pallettizzatori, AGV, trasportatori e impianti di impilamento sono regolati su un’impronta fissa. Un pallet in legno più largo di un centimetro, o con una tavola di bordo rotta, per un sensore è un guasto.
 
-Un pallet con misure identiche e durature entra ogni volta nella stessa sagoma. È la base di un processo automatizzato che funziona senza interventi manuali. Approfondite nella nostra guida sui [pallet per l’automazione](@guide-automation).
+Un pallet in plastica con misure fisse entro tolleranze ristrette (±5 mm) entra ogni volta nella stessa sagoma. È la base di un processo automatizzato che funziona senza interventi manuali. Approfondite nella nostra guida sui [pallet per l’automazione](@guide-automation).
 
 **Cosa vi porta:** meno fermi linea, una produttività più alta e costi di manutenzione più bassi per il vostro impianto.
 
@@ -68,6 +68,6 @@ Il pallet non è la parte più importante della vostra catena logistica. Ma fa p
 
 La domanda quindi non è quale materiale sia migliore. La domanda è quali proprietà servono al vostro processo, e cosa vi porta il fatto che non siano più variabili.
 
-In Q-Pall realizziamo i nostri pallet standard in plastica riciclata. Non porosi, senza schegge, costanti nel peso e nelle misure, con documentazione [PPWR](@guide-ppwr) e non soggetti all’ISPM 15. Siete indecisi tra legno e plastica? Leggete [pallet in plastica o in legno](@guide-wood).
+In Q-Pall realizziamo i nostri pallet standard in plastica riciclata quasi al 100%. Non porosi, senza schegge, costanti nel peso e nelle misure, con documentazione [PPWR](@guide-ppwr) e non soggetti all’ISPM 15. Siete indecisi tra legno e plastica? Leggete [pallet in plastica o in legno](@guide-wood).
 
 Volete sapere quale pallet si adatta meglio al vostro processo? [Contattateci](@contact) e valuteremo insieme la soluzione giusta.

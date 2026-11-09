@@ -35,7 +35,7 @@ Il design è lineare e semplice. Grandi vetrate, ampi sbalzi e schermature solar
 
 ## Produrre vicino al cliente
 
-Q-Pall produce esclusivamente pallet in plastica. La nostra caratteristica è produrli il più vicino possibile al cliente. A viaggiare non sono i pallet, ma gli stampi con cui vengono realizzati. Installiamo uno stampo nello stabilimento più vicino al cliente. In questo modo risparmiamo molti chilometri di trasporto, costi ed emissioni di CO₂.
+Q-Pall produce esclusivamente pallet in plastica. La nostra caratteristica è produrli il più vicino possibile al cliente. A viaggiare non sono i pallet, ma gli stampi con cui vengono realizzati. Installiamo uno stampo il più vicino possibile al cliente. In questo modo risparmiamo molti chilometri di trasporto, costi ed emissioni di CO₂.
 
 Un esempio: se i pallet destinati al mercato francese vengono prodotti nei Paesi Bassi, molti camion pieni devono percorrere lunghi tragitti verso sud e ritorno. Se allo stabilimento di Nantes viene inviato solo lo stampo, la maggior parte di questi viaggi non è più necessaria.
 

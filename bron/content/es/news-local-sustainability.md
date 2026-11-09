@@ -13,7 +13,7 @@ faq:
 - q: "¿Por qué es más sostenible la producción local de palets?"
   a: "En la cadena del palet, el transporte es la mayor fuente de emisiones de CO₂. Cuanto más cerca está la fábrica del cliente, menos kilómetros y emisiones. Casi todos los clientes de Q-Pall están a menos de 600 kilómetros de una de nuestras seis fábricas."
 - q: "¿De qué están hechos los palets de Q-Pall?"
-  a: "Fabricamos nuestros palets estándar con plástico reciclado casi al 100%, una mezcla de HDPE (código 2) y PP (código 5). Solo los palets higiénicos, los palets H1 y los palets para sala blanca son de plástico virgen (nuevo)."
+  a: "Fabricamos nuestros palets estándar con plástico casi 100% reciclado, una mezcla de HDPE (código 2) y PP (código 5). Solo los palets higiénicos, los palets H1 y los palets para sala blanca son de plástico virgen (nuevo)."
 - q: "¿Qué ocurre con un palet de plástico al final de su vida útil?"
   a: "Los palets de plástico son totalmente reciclables. Los recogemos: los palets en buen estado tienen una segunda vida como palets usados y los dañados se trituran para convertirse en materia prima de nuevos palets."
 published: '2024-01-31'
@@ -23,7 +23,7 @@ updated: '2026-11-02'
 >
 > * En la cadena del palet, el transporte es la mayor fuente de emisiones de CO₂. Por eso producimos cerca del cliente.
 > * Fabricamos nuestros palets en seis fábricas europeas. Casi todos los clientes están a menos de 600 kilómetros de una fábrica.
-> * Nuestros palets estándar son de plástico reciclado casi al 100%. En 2025 procesamos 34.500 toneladas de material reciclado.
+> * Nuestros palets estándar son de plástico casi 100% reciclado. En 2025 procesamos 34.500 toneladas de material reciclado.
 > * Compramos ese material reciclado en la región siempre que es posible. Así también ahorramos transporte de materias primas.
 > * Al final de su vida útil, recogemos los palets para reutilizarlos o reciclarlos.
 
@@ -37,13 +37,13 @@ Esto también cuenta en sus propios informes. Las emisiones de los palets compra
 
 ## Los moldes viajan, los palets no
 
-Un molde es la herramienta con la que inyectamos un palet. En lugar de llevar palets por toda Europa, instalamos el molde en la fábrica más cercana al cliente. Un solo transporte de molde sustituye así muchos viajes con palets. Así funciona *act global, produce local*: una gama europea, fabricada localmente.
+Un molde es la herramienta con la que inyectamos un palet. En lugar de llevar palets por toda Europa, instalamos el molde lo más cerca posible del cliente. Un solo transporte de molde sustituye así muchos viajes con palets. Así funciona *act global, produce local*: una gama europea, fabricada localmente.
 
 Cada año salen de nuestras fábricas miles de camiones llenos de palets. Si lo fabricáramos todo en un único centro, casi todos esos viajes serían mucho más largos.
 
 ## Plástico reciclado de la región
 
-Fabricamos nuestros palets estándar con plástico reciclado casi al 100%: una mezcla de HDPE (código 2) y PP (código 5). Ambos son poliolefinas, que se comportan de forma similar en el reciclaje. ¿Qué es exactamente el HDPE? Lea [PE-HD 2 reciclado (HDPE 2): ¿qué es exactamente?](@news-hdpe)
+Fabricamos nuestros palets estándar con plástico casi 100% reciclado: una mezcla de HDPE (código 2) y PP (código 5). Ambos son poliolefinas, que se comportan de forma similar en el reciclaje. ¿Qué es exactamente el HDPE? Lea [PE-HD 2 reciclado (HDPE 2): ¿qué es exactamente?](@news-hdpe)
 
 En 2025 procesamos 34.500 toneladas de material reciclado, unos 1.475 camiones llenos. Es plástico que ha tenido una nueva vida como palet. Lo compramos lo más cerca posible de nuestras fábricas, con dos ventajas:
 

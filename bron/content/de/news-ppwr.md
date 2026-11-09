@@ -74,7 +74,7 @@ Für Palettenströme innerhalb der EU wird die Wiederverwendung zur Regel. Denke
 
 ### Einwegpaletten und Export
 
-Nicht jede Palette kommt zurück. Für Sendungen außerhalb der EU wählen viele Unternehmen eine leichte [Einwegpalette](@type-export), die beim Empfänger bleibt. Eine solche Einwegpalette zählt nicht für das Wiederverwendungsziel. Die Anforderungen an die Recyclingfähigkeit gelten aber trotzdem. Unsere Einwegpaletten bestehen aus recyceltem Kunststoff und sind am Ende ihrer Lebensdauer vollständig recycelbar.
+Nicht jede Palette kommt zurück. Für Sendungen außerhalb der EU wählen viele Unternehmen eine leichte [Einwegpalette](@type-export), die beim Empfänger bleibt. Eine solche Einwegpalette zählt nicht für das Wiederverwendungsziel. Die Anforderungen an die Recyclingfähigkeit gelten aber trotzdem. Unsere Einwegpaletten bestehen aus fast 100 % recyceltem Kunststoff und sind am Ende ihrer Lebensdauer vollständig recycelbar.
 
 ### Holzpaletten
 
@@ -94,7 +94,7 @@ Mit diesen vier Schritten ermitteln Sie, was die PPWR für Ihre Paletten bedeute
 1. **Erfassen Sie Ihre Palettenströme.** Welche Paletten zirkulieren innerhalb der EU, welche kommen zurück und welche gehen einmalig über die Grenze?
 2. **Setzen Sie wo möglich auf Mehrweg.** Für feste Ströme zwischen eigenen Standorten oder innerhalb eines Mitgliedstaats gilt ab 2030 grundsätzlich 100 % Wiederverwendung.
 3. **Fordern Sie Dokumentation an.** Halten Sie Konformitätserklärung und Materialzusammensetzung je Palettenmodell fest.
-4. **Rechnen Sie in Kosten pro Umlauf.** Eine Palette, die öfter im Einsatz ist, senkt Kosten und Verpackungsabfall zugleich. Das stärkt auch Ihre Nachhaltigkeitsberichterstattung.
+4. **Kosten pro Umlauf berechnen.** Eine Palette, die öfter im Einsatz ist, senkt Kosten und Verpackungsabfall zugleich. Das stärkt auch Ihre Nachhaltigkeitsberichterstattung.
 
 Dieser Artikel ist eine Zusammenfassung und keine Rechtsberatung.
 

@@ -5,7 +5,7 @@ description: "Q-Pall ontwerpt pallets van gerecycled kunststof en laat ze dicht 
 hero:
   eyebrow: "Producent van duurzame pallets sinds 2005"
   h1: "Herbruikbare pallets van **gerecycled kunststof**"
-  lead: "Zo'n 130 modellen kunststof pallets, van nestbare exportpallet tot heavy duty stellingpallet. Gemaakt in zes Europese fabrieken, nooit ver van u vandaan."
+  lead: "Zo'n 130 uitvoeringen kunststof pallets, van nestbare exportpallet tot heavy duty stellingpallet. Gemaakt in zes Europese fabrieken, nooit ver van u vandaan."
   cta1: "Bekijk alle kunststof pallets"
   cta2: "Offerte aanvragen"
   badge: "Antislip medium pallets"
@@ -40,7 +40,7 @@ intro:
   strike: ["Kratten.", "Bakken.", "Boxen."]
   final: "Pallets."
   title: "Eén product. **Alle aandacht.**"
-  text: "De meeste kunststof verpakkingsfabrikanten verdelen hun matrijzen, R&D en aandacht over kratten, bakken en containers. Wij stoppen alles in één product. Daarom heeft onze range negen maten, drie draagklassen en zo'n 130 modellen, en is een palletvraag bij Q-Pall nooit een bijzaak."
+  text: "De meeste kunststof verpakkingsfabrikanten verdelen hun matrijzen, R&D en aandacht over kratten, bakken en containers. Wij stoppen alles in één product. Daarom heeft onze range negen maten, drie draagklassen en zo'n 130 uitvoeringen, en is een palletvraag bij Q-Pall nooit een bijzaak."
   points:
     - icon: "factory"
       t: "Direct van de fabrikant"
@@ -61,7 +61,7 @@ range:
   all: "Bekijk alle kunststof pallets"
 promo:
   title: "Medium pallets **met antislip**"
-  text: "De nieuwe generatie medium pallets in 1200 x 800 en 1200 x 1000 mm heeft een geïntegreerd antislipdek. Uw lading blijft op zijn plek."
+  text: "Sinds eind 2025 zijn er medium pallets in 1200 x 800 en 1200 x 1000 mm met een geïntegreerd antislipdek. Uw lading blijft op zijn plek."
   points: ["Meer veiligheid", "Minder stretchfolie", "Hogere lijnsnelheid", "Geschikt voor AGV's en rollenbanen"]
   cta: "Bekijk de antislip pallets"
   img_alt: "Medium kunststof pallet met antislipdek"
@@ -90,7 +90,7 @@ sustain:
       d: "Gesorteerd, gereinigd en verwerkt tot gerecycled HDPE en PP."
     - icon: "mould"
       t: "Spuitgieten"
-      d: "Tot een Q-Pall-pallet, in de fabriek die het dichtst bij u ligt."
+      d: "Tot een Q-Pall-pallet, gemaakt zo dicht mogelijk bij u."
     - icon: "pallet"
       t: "Gebruiken"
       d: "Jarenlang. Wasbaar, zonder splinters of spijkers en zonder ISPM 15-behandeling."
@@ -103,16 +103,16 @@ sustain_cta:
   btn: "Praat met een specialist"
 local:
   eyebrow: "Act global, produce local"
-  title: "Zes fabrieken. **Altijd één dichtbij.**"
+  title: "Zes fabrieken. **Dicht bij de klant.**"
   lead: "We produceren in zes fabrieken verspreid over Europa en verplaatsen matrijzen in plaats van pallets. Zo zit bijna elke klant binnen 600 kilometer van een Q-Pall-fabriek: minder transport, lagere kosten en minder CO₂."
-  note: "Veelgevraagde modellen liggen bij elke fabriek op voorraad, en veel modellen maken we in meer dan één fabriek. Zo blijft u leveren, ook als het druk is."
+  note: "Veelgevraagde modellen liggen op meerdere locaties op voorraad, en een deel van onze modellen maken we in meer dan één fabriek. Zo kunnen we ook leveren als het druk is."
   cta: "Over lokaal produceren"
 sectors:
   eyebrow: "Sectoren"
   title: "Gemaakt voor **uw branche**"
   lead: "Van hygiënische pallets voor de zuivel tot zware CP-pallets voor de chemie: één specialist voor elke stroom in uw keten."
   tiles:
-    chemical: {sub: "CP1 tot CP9, zwaar en geschikt voor stellingen", big: "CP1–CP9"}
+    chemical: {sub: "CP1, CP3, CP6 en CP9, geschikt voor stellingen", big: "CP"}
     food: {sub: "Gesloten, hygiënisch en goed reinigbaar", big: "HACCP"}
     pharma: {sub: "Cleanroom en GMP", big: "Clean."}
     beverage: {sub: "Ultra pallet voor drankpools"}
@@ -171,7 +171,7 @@ faq:
   - q: "Wat kost een kunststof pallet?"
     a: "Een displaypallet van 600 x 400 mm is er vanaf een paar euro, een nestbare europallet vanaf ongeveer zes euro en een heavy duty pallet vanaf ongeveer 24 euro, exclusief btw en transport. Bekijk onze [prijsgids](@guide-prices) voor alle vanafprijzen."
   - q: "Hoe snel kan Q-Pall leveren?"
-    a: "De veelgevraagde modellen hebben we per fabriek op voorraad. De levertijd hangt af van model, aantal en locatie. Vraag een [offerte](@quote) aan, dan hoort u meestal binnen één werkdag wat er mogelijk is."
+    a: "De veelgevraagde modellen hebben we op meerdere locaties op voorraad. De levertijd hangt af van model, aantal en locatie. Vraag een [offerte](@quote) aan, dan hoort u meestal binnen één werkdag wat er mogelijk is."
   - q: "Leveren jullie ook buiten Nederland?"
     a: "Ja. We leveren in heel Europa vanuit onze fabrieken in Nederland, Denemarken, Duitsland, Frankrijk, Spanje en het Verenigd Koninkrijk, en werken met [dealers](@dealers) in Europa en de Verenigde Staten."
 ---

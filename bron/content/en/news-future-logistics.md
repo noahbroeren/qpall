@@ -11,7 +11,7 @@ img_alt: "Container terminal with a freight train and light trails representing 
 reading: 3
 faq:
 - q: "Are plastic pallets lighter than wooden pallets?"
-  a: "Often, but it depends on the type. Light pallets are much lighter than wood. A heavy plastic pallet weighs 17 to 28 kg, compared with around 25 kg for a wooden Euro pallet."
+  a: "Often, but it depends on the type. Light pallets are much lighter than wood. A heavy plastic pallet weighs around 17 to 29 kg, compared with around 25 kg for a wooden Euro pallet."
 - q: "Do plastic pallets need ISPM 15 for export?"
   a: "No. ISPM 15 only applies to packaging made of solid wood. Plastic pallets need no heat treatment or stamp."
 - q: "What happens to plastic pallets at the end of their life?"
@@ -58,10 +58,10 @@ At the end of their life, we take the pallets back. We grind them into raw mater
 
 Since 2005, Q-Pall has made nothing but plastic pallets. This is our approach:
 
-* **Recycled material.** We make our standard pallets from almost 100% recycled plastic, a mix of HDPE and PP. Read more about our approach on the [sustainability](@about-sustainability) page.
+* **Recycled material.** We make our standard pallets from nearly 100% recycled plastic, a mix of HDPE and PP. Read more about our approach on the [sustainability](@about-sustainability) page.
 * **Produced locally.** We make our pallets in six factories across Europe, close to our customers.
-* **A broad range.** Around 130 models in nine sizes and three classes: light, medium and heavy.
+* **A broad range.** Around 130 versions in nine sizes and three classes: light, medium and heavy.
 * **Customisation.** We adapt existing models with, for example, your logo, your own colour or a marking.
-* **Dedicated service.** From initial advice to delivery, we think along with you.
+* **Dedicated service.** From initial advice to delivery, we help you find the right solution.
 
 Curious which plastic pallet suits your processes? [Request a quote](@quote). You will usually receive a tailored price within one working day.

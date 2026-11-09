@@ -16,7 +16,7 @@ updated: '2026-11-02'
 >
 > * Una empresa sostenible tiene en cuenta a las personas, el medio ambiente y la economía: People, Planet y Profit.
 > * Producimos localmente en seis fábricas europeas. El molde viaja, los palets no.
-> * Fabricamos nuestros palets estándar con plástico reciclado casi al 100%: 34.500 toneladas en 2025.
+> * Fabricamos nuestros palets estándar con plástico casi 100% reciclado: 34.500 toneladas en 2025.
 > * En la producción apostamos por un diseño ligero, menos pérdidas de material y la reutilización de los restos de producción.
 > * EcoVadis evalúa de forma independiente nuestro desempeño. En octubre de 2026 volvimos a obtener el bronce.
 
@@ -30,7 +30,7 @@ Nuestros procesos de producción y el material que utilizamos encajan en esta fo
 
 Producir y transportar palets consume energía. Al quemar combustibles fósiles como el carbón, el petróleo y el gas se libera CO₂. Este gas de efecto invernadero contribuye al calentamiento global.
 
-En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Un camión lleno de palets transporta sobre todo aire. Por eso colocamos el molde de un palet en la fábrica más cercana al cliente. Así, los propios palets no tienen que recorrer largas distancias.
+En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Un camión lleno de palets transporta sobre todo aire. Por eso colocamos el molde de un palet lo más cerca posible del cliente. Así, los propios palets no tienen que recorrer largas distancias.
 
 Producimos en seis fábricas: en Balk, Ribe, Marktoberdorf, Nantes, Lleida y Chesterfield. Casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall. Eso ahorra muchos kilómetros, emisiones de CO₂ y costes de transporte. Más información sobre la [producción local](@about-local).
 
@@ -38,7 +38,7 @@ Producimos en seis fábricas: en Balk, Ribe, Marktoberdorf, Nantes, Lleida y Che
 
 Otro punto importante es reducir los residuos plásticos. La «sopa de plástico» de los océanos amenaza a animales, plantas y corales. Los palets de plástico son sostenibles en varios sentidos, entre otras cosas porque el plástico se puede reutilizar bien.
 
-Por eso el reciclaje desempeña un gran papel en Q-Pall. Al fundarse la empresa en 2005, el objetivo era reutilizar el 90% del plástico. Ese objetivo se ha superado con creces: fabricamos nuestros palets estándar con plástico reciclado casi al 100%, una mezcla de HDPE y PP.
+Por eso el reciclaje desempeña un gran papel en Q-Pall. Al fundarse la empresa en 2005, el objetivo era reutilizar el 90% del plástico. Ese objetivo se ha superado con creces: fabricamos nuestros palets estándar con plástico casi 100% reciclado, una mezcla de HDPE y PP.
 
 En 2025 procesamos 34.500 toneladas de plástico reciclado, unos 1.475 camiones completos. Al final de su vida útil, nuestros palets son totalmente reciclables. Además, apoyamos proyectos que llaman la atención sobre el problema de los residuos plásticos.
 

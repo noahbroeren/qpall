@@ -13,7 +13,7 @@ Este sitio web utiliza almacenamiento funcional en su navegador (localStorage), 
 
 ## Servicios externos
 
-Algunas partes se cargan desde un servicio externo. Estos servicios pueden instalar sus propias cookies. Solo los cargamos después de que usted dé su consentimiento, a través del aviso de cookies o con el botón de la propia página.
+Algunas partes se cargan desde un servicio externo. Estos servicios pueden instalar sus propias cookies. Solo los cargamos después de que dé su consentimiento, a través del aviso de cookies o con el botón de la propia página.
 
 | Servicio | Dónde | Finalidad |
 |---|---|---|

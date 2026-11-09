@@ -74,7 +74,7 @@ En los flujos de palets dentro de la UE, la reutilización se convierte en la no
 
 ### Palets de un solo uso y exportación
 
-No todos los palets vuelven. Para los envíos fuera de la UE, muchas empresas eligen un [palet de exportación](@type-export) ligero que se queda en destino. Un palet de un solo uso como este no cuenta para el objetivo de reutilización. Los requisitos de reciclabilidad, en cambio, sí se aplican. Nuestros palets de exportación son de plástico reciclado y, al final de su vida útil, son totalmente reciclables.
+No todos los palets vuelven. Para los envíos fuera de la UE, muchas empresas eligen un [palet de exportación](@type-export) ligero que se queda en destino. Un palet de un solo uso como este no cuenta para el objetivo de reutilización. Los requisitos de reciclabilidad, en cambio, sí se aplican. Nuestros palets de exportación son de plástico casi 100% reciclado y, al final de su vida útil, son totalmente reciclables.
 
 ### Palets de madera
 
@@ -82,7 +82,7 @@ Los palets de madera también pueden ser reutilizables, sobre todo dentro de un 
 
 ## Los palets de plástico de Q-Pall y el PPWR
 
-* **Material reciclado.** Fabricamos nuestros palets estándar con plástico reciclado casi al 100%: una mezcla de HDPE (código 2) y PP (código 5).
+* **Material reciclado.** Fabricamos nuestros palets estándar con plástico casi 100% reciclado: una mezcla de HDPE (código 2) y PP (código 5).
 * **Una sola familia de materiales.** El HDPE y el PP son poliolefinas y en el reciclaje se procesan a menudo juntos. Al final de su vida útil, nuestros palets son totalmente reciclables.
 * **Recogida.** Recogemos los palets usados, para reutilizarlos a través de [Q-Used](@used) o para reciclarlos como materia prima para nuevos palets.
 * **Documentación.** Hemos elaborado una declaración UE de conformidad para cada grupo de palets. Para la mayoría de los modelos puede descargarla directamente en la página del producto, junto con la ficha técnica.

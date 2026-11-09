@@ -35,6 +35,8 @@ ACCS = DATA['accessories']
 PHOTOS = json.load(open(os.path.join(INPUT, 'photos.json')))
 # pallets per stack (= per pallet place on a tautliner) per article number: tools/stapels.py -> data/stapels.json
 STACKS = json.load(open(os.path.join(ROOT, 'data/stapels.json'), encoding='utf-8'))
+for _k in ('EUROPAL800RR', 'RECYPAL1210RR'):   # update 33: source row gives a wrong footprint and height; 'on request' until Q-Pall confirms
+    STACKS.pop(_k, None)
 LOGO = json.load(open(os.path.join(ROOT, 'data/logo_paths.json')))
 PPWR_FILES = {re.search(r'PG-(\d+)', f).group(1): os.path.basename(f) for f in glob.glob(os.path.join(INPUT, 'ppwr/*.pdf'))}
 
@@ -275,8 +277,8 @@ for m in MODELS:
             'datasheet': datasheet_path(m, l), 'colour': col_txt,
             # sold per full stack only; the stack height is only given for pallets that are stacked, not nested
             'stack_per': t['stack_per'].format(n=fmt_int(m['stack'], l)) if m['stack'] else t['stack_req'],
-            'stack_height': (t['stack_place'].format(d=' x '.join(fmt_int(x, l) for x in m['stack_place'])) if m['stack_place']
-                             else None if not m['stack'] or 'nestable' in m['types'] else t['stack_height'].format(h=fmt_int(m['stack'] * h[1], l))),
+            'stack_height': (t['stack_place'].format(d=' x '.join(str(x) for x in m['stack_place'])) if m['stack_place']
+                             else None if not m['stack'] or 'nestable' in m['types'] else t['stack_height'].format(h=str(round(m['stack'] * h[1])))),
         }
         m['txt'][l] = X
         m['cmp'][l] = {'id': m['id'], 'name': m['name'][l], 'url': m['url'][l], 'img': m['img_sm'], 'dims': dims, 'weight': w,
@@ -652,17 +654,17 @@ def is_hyg(m):
 # Hygienic, H1 and cleanroom pallets are made of virgin plastic. The shared product copy says
 # "like all Q-Pall pallets it is made of recycled plastic"; correct that sentence for those models (update 28).
 _HYG_MATERIAL = {
-    'nl': ("Zoals al onze standaardpallets is hij gemaakt van gerecycled kunststof, neemt hij geen vocht op en heeft hij geen",
+    'nl': ("Zoals al onze standaardpallets is hij gemaakt van bijna 100% gerecycled kunststof, neemt hij geen vocht op en heeft hij geen",
            "Anders dan onze standaardpallets is hij gemaakt van virgin (nieuw) kunststof in een eigen kleur. Hij neemt geen vocht op en heeft geen"),
-    'en': ("Like all our standard pallets, it consists of recycled plastic, does not absorb moisture",
+    'en': ("Like all our standard pallets, it is made of nearly 100% recycled plastic, does not absorb moisture",
            "Unlike our standard pallets, it is made of virgin plastic in its own colour. It does not absorb moisture"),
-    'de': ("Wie alle unsere Standardpaletten besteht sie aus recyceltem Kunststoff, nimmt keine Feuchtigkeit auf",
+    'de': ("Wie alle unsere Standardpaletten besteht sie aus fast 100 % recyceltem Kunststoff, nimmt keine Feuchtigkeit auf",
            "Anders als unsere Standardpaletten besteht sie aus Neuware in einer eigenen Farbe. Sie nimmt keine Feuchtigkeit auf"),
-    'fr': ("Comme toutes nos palettes standard, elle est fabriquée en plastique recyclé.",
+    'fr': ("Comme toutes nos palettes standard, elle est fabriquée en plastique recyclé à près de 100 %.",
            "Contrairement à nos palettes standard, elle est fabriquée en plastique vierge, dans une couleur propre."),
-    'it': ("Come tutti i nostri pallet standard, è realizzato in plastica riciclata, non assorbe umidità",
+    'it': ("Come tutti i nostri pallet standard, è realizzato in plastica riciclata quasi al 100%, non assorbe umidità",
            "A differenza dei nostri pallet standard, è realizzato in plastica vergine in un colore proprio. Non assorbe umidità"),
-    'es': ("Como todos nuestros palets estándar, está fabricado con plástico reciclado, no absorbe humedad",
+    'es': ("Como todos nuestros palets estándar, está fabricado con plástico casi 100% reciclado, no absorbe humedad",
            "A diferencia de nuestros palets estándar, está fabricado con plástico virgen en un color propio. No absorbe humedad"),
 }
 for _m in MODELS:
@@ -670,6 +672,8 @@ for _m in MODELS:
         _m['seo6'] = dict(_m['seo6'])
         for _l, (_old, _new) in _HYG_MATERIAL.items():
             if _m['seo6'].get(_l):
+                if _old not in _m['seo6'][_l]:      # update 33: a hygienic page must never keep the recycled sentence
+                    WARN.append(f"HYG material sentence not found: {_m['id']} {_l}")
                 _m['seo6'][_l] = _m['seo6'][_l].replace(_old, _new)
             _tx = (_m.get('txt') or {}).get(_l)       # the page texts were already made from seo6
             if isinstance(_tx, dict):
@@ -779,6 +783,11 @@ def itemlist_ld(models, lang, name):
             'itemListElement': [{'@type': 'ListItem', 'position': i + 1, 'url': abs_url(m['url'][lang]), 'name': m['name'][lang]} for i, m in enumerate(models)]}
 
 
+def mat_label(m, t):
+    """Material of a standard (recycled) pallet in the page language; light pallets also contain LDPE (update 33)."""
+    return t['mat_recycled_ldpe'] if 'LDPE' in (m.get('material') or '') else t['mat_recycled']
+
+
 def product_ld(m, lang):
     t = T[lang]
     X = m['txt'][lang]
@@ -799,7 +808,7 @@ def product_ld(m, lang):
         'image': [abs_url(g['lg']) for g in m['gallery']] or [abs_url(m['img_url'])],
         'sku': m['primary'], 'mpn': m['primary'], 'brand': {'@type': 'Brand', 'name': 'Q-Pall'}, 'manufacturer': {'@id': ORG_ID},
         'category': T[lang]['nav_pallets'] + ' > ' + m['size_label'],
-        'material': t['mat_hyg'] if hyg else (m.get('material') or t['mat_recycled']),
+        'material': t['mat_hyg'] if hyg else mat_label(m, t),
         'depth': {'@type': 'QuantitativeValue', 'value': m['L'], 'unitCode': 'MMT'},
         'width': {'@type': 'QuantitativeValue', 'value': m['W'], 'unitCode': 'MMT'},
         'height': {'@type': 'QuantitativeValue', 'value': m['H'], 'unitCode': 'MMT'},
@@ -836,7 +845,7 @@ def ultra_ld(lang, fm):
     d = {'@context': 'https://schema.org', '@type': 'Product', '@id': u + '#product', 'name': 'Ultra pallet', 'description': fm['description'],
          'url': u, 'image': [abs_url(x['gallery'][0]['lg'] if x['gallery'] else x['img_url']) for x in ms],
          'sku': ULTRA_SKU, 'mpn': ULTRA_SKU, 'brand': {'@type': 'Brand', 'name': 'Q-Pall'}, 'manufacturer': {'@id': ORG_ID},
-         'category': t['nav_pallets'] + ' > ' + m['size_label'], 'material': m.get('material') or t['mat_recycled'],
+         'category': t['nav_pallets'] + ' > ' + m['size_label'], 'material': mat_label(m, t),
          'depth': {'@type': 'QuantitativeValue', 'value': m['L'], 'unitCode': 'MMT'},
          'width': {'@type': 'QuantitativeValue', 'value': m['W'], 'unitCode': 'MMT'},
          'height': {'@type': 'QuantitativeValue', 'value': m['H'], 'unitCode': 'MMT'},
@@ -901,7 +910,7 @@ def og_for(pid, lang):
     return f'/assets/og/{lang}/{key}.jpg'
 
 
-JS_I18N = {l: {k: T[l][k] for k in ('results', 'result', 'search_none', 'search_loading', 'compare_max', 'on_request', 'close', 'filter_reset',
+JS_I18N = {l: {k: T[l][k] for k in ('results', 'result', 'search_none', 'search_loading', 'search_g_cat', 'search_g_prod', 'search_g_page', 'compare_max', 'on_request', 'close', 'filter_reset',
                                      'f_any', 'from_cap', 'compare_title', 'show_more', 'tr_unavailable', 'tr_open_new', 'tr_loading')}
            | {'cmp_rows': {'name': T[l]['model'], 'dims': T[l]['dims'], 'weight': T[l]['weight'], 'cls': T[l]['class'], 'deck': T[l]['deck'],
                            'base': T[l]['bottom'], 'static': T[l]['static_l'], 'dyn': T[l]['dynamic_l'], 'rack': T[l]['racking_l'],
@@ -949,6 +958,10 @@ def write(path, htmlstr):
         full = os.path.join(full, 'index.html')
     os.makedirs(os.path.dirname(full), exist_ok=True)
     htmlstr = re.sub(r'\n\s*\n+', '\n', htmlstr)
+    # wide tables scroll sideways: make the scroll box reachable by keyboard and name it (update 33, accessibility)
+    _m = re.search(r'<html lang="([a-z]{2})', htmlstr)
+    _lab = T[_m.group(1)]['tbl_scroll'] if _m and _m.group(1) in T else 'Tabel'
+    htmlstr = htmlstr.replace('<div class="table-scroll">', f'<div class="table-scroll" tabindex="0" role="region" aria-label="{_lab}">')
     open(full, 'w', encoding='utf-8').write(htmlstr)
 
 
@@ -1065,7 +1078,7 @@ def spec_groups(m, lang, price=True):
           (t['nestable'], t['yes'] if 'nestable' in m['types'] else t['no'])]
     if m['antislip']:
         g2.append((t['f_antislip'], t['yes']))
-    mat = t['mat_hyg'] if hyg else (m.get('material') or t['mat_recycled'])
+    mat = t['mat_hyg'] if hyg else mat_label(m, t)
     g2 += [(t['material'], mat), (t['colour'], X['colour']), (t['ispm'], t['ispm_v'])]
     g3 = [(t['static_l'], X['static']), (t['dynamic_l'], X['dynamic']), (t['racking_l'], X['racking'] or t['not_rackable'])]
     g4 = [(t['locations'] if len(m['locations']) > 1 else t['location'], X['locs_txt'])]
@@ -1190,7 +1203,7 @@ def calc_table(lang):
     for L, W in CALC_TBL_SIZES:
         ids = [i for i in sorted(on_site) if i in CALC_STD and CALC_NAME_SIZE.get(i) in ((L, W), (W, L))]
         for kind in ('nest', 'stack'):
-            grp = [i for i in ids if calc_nestable(i) == (kind == 'nest')]
+            grp = [i for i in ids if (calc_nestable(i) or i.startswith('QP60')) == (kind == 'nest')]   # display pallets nest (update 33)
             if not grp:
                 continue
             cells = []
@@ -1203,7 +1216,7 @@ def calc_table(lang):
                 else:
                     cells.append(f'{fmt_int(min(vals), lang)}\u2013{fmt_int(max(vals), lang)}')
             key = f'{L}x{W}'
-            rows.append({'size': f'{L}\u00a0x\u00a0{W}\u00a0mm', 'nick': t['size_nick'].get(key) or t['size_nick'].get(f'{W}x{L}') or ('48 x 40 inch' if key == '1220x1020' else ''),
+            rows.append({'size': f'{L}\u00a0x\u00a0{W}\u00a0mm', 'nick': t['size_nick'].get(key) or t['size_nick'].get(f'{W}x{L}') or (t['calc_ui']['sub_us'] if key == '1220x1020' else ''),
                          'kind': t['calc_tbl'][kind], 'n': len(grp), 'cells': cells})
     for i, r in enumerate(rows):      # the size cell spans the nestable + stackable rows of that size
         r['span'] = 0 if i and rows[i - 1]['size'] == r['size'] else sum(1 for x in rows if x['size'] == r['size'])
@@ -1490,6 +1503,7 @@ def careers_ctx(pid, lang, fm):
         d['photos'] = [{'src': n, 'alt': t['apply'][k][i]} for n, k, i in JOB_PHOTOS]
         d['hero_photo'] = JOB_HERO
         d['job_value'] = CONTENT['nl'].get(pid, {}).get('fm', {}).get('job', {}).get('title') or fm['job']['title']
+        d['job_title'] = fm['job']['title']      # shown above the form in the page language (update 33)
     return d
 
 
@@ -1873,17 +1887,102 @@ def render_404(lang):
     return env.get_template('404.html').render(**ctx)
 
 
+# update 33: extra search words per language, so the instant search also finds adjectives ("nestbaar", "zware"),
+# synonyms ("europallet" = 1200 x 800), sizes in cm ("120x80") and the service pages (quote, contact, calculator ...).
+# 'stop' words are ignored, 'gen' words (pallet, kunststof ...) only count when nothing else is typed.
+SEARCH_X = {
+ 'nl': {'stop': 'voor met van een de het en in op of naar die dat', 'gen': 'pallet pallets kunststof kunststoffen plastic',
+        'type': {'nestable': 'nestbaar nestbare', 'hygienic': 'hygiënisch hygiënische haccp', 'export': 'export eenmalig wegwerp',
+                 'antislip': 'antislip anti-slip slipvrij', 'cp': 'cp chemie chemisch', 'display': 'display winkel', 'block': 'blok'},
+        'class': {'light': 'licht lichte lichtgewicht', 'medium': 'middelzwaar', 'heavy': 'zwaar zware'},
+        'rack': 'stelling stellingen stellingpallet',
+        'svc': {'quote': 'offerte prijsopgave aanvragen prijs', 'contact': 'contact telefoon bellen e-mail adres', 'calc': 'calculator laadcalculator berekenen container vrachtwagen',
+                'used': 'gebruikt gebruikte tweedehands', 'dealers': 'dealer dealers', 'careers': 'vacature vacatures werken baan solliciteren',
+                'acc': 'accessoires toebehoren', 'transport': 'transport ophalen vervoerder'}},
+ 'en': {'stop': 'for with of a an the and in on or to', 'gen': 'pallet pallets plastic',
+        'type': {'nestable': 'nestable nesting', 'hygienic': 'hygienic haccp', 'export': 'export one-way',
+                 'antislip': 'anti-slip antislip non-slip', 'cp': 'cp chemical', 'display': 'display retail', 'block': 'block'},
+        'class': {'light': 'light lightweight', 'medium': 'medium', 'heavy': 'heavy heavy-duty'},
+        'rack': 'racking rackable rack',
+        'svc': {'quote': 'quote quotation request price', 'contact': 'contact phone call email address', 'calc': 'calculator load container truck',
+                'used': 'used second-hand', 'dealers': 'dealer dealers distributor', 'careers': 'jobs job vacancy vacancies careers',
+                'acc': 'accessories', 'transport': 'transport collection pickup carrier'}},
+ 'de': {'stop': 'für mit von ein eine einen der die das und in auf oder zu', 'gen': 'palette paletten kunststoff kunststoffpalette kunststoffpaletten plastik',
+        'type': {'nestable': 'nestbar nestbare', 'hygienic': 'hygienisch hygiene haccp', 'export': 'einweg export',
+                 'antislip': 'antirutsch rutschfest', 'cp': 'cp chemie chemisch', 'display': 'display', 'block': 'block'},
+        'class': {'light': 'leicht leichte', 'medium': 'mittelschwer', 'heavy': 'schwer schwere schwerlast'},
+        'rack': 'regal regale regalfähig',
+        'svc': {'quote': 'angebot anfrage preis', 'contact': 'kontakt telefon anrufen e-mail adresse', 'calc': 'rechner ladungsrechner berechnen container lkw',
+                'used': 'gebraucht gebrauchte', 'dealers': 'händler vertrieb', 'careers': 'stellen stellenangebote jobs karriere bewerbung',
+                'acc': 'zubehör', 'transport': 'transport abholung spedition'}},
+ 'fr': {'stop': 'pour avec de des du un une le la les et en à au aux ou', 'gen': 'palette palettes plastique plastiques',
+        'type': {'nestable': 'emboîtable emboîtables', 'hygienic': 'hygiénique hygiéniques haccp', 'export': 'export perdue',
+                 'antislip': 'antidérapant antidérapante antidérapantes', 'cp': 'cp chimie chimique', 'display': 'display présentoir', 'block': 'bloc blocs'},
+        'class': {'light': 'légère léger', 'medium': 'moyenne', 'heavy': 'lourde lourd'},
+        'rack': 'rayonnage rack',
+        'svc': {'quote': 'devis demande prix', 'contact': 'contact téléphone appeler e-mail adresse', 'calc': 'calculateur calcul conteneur camion',
+                'used': 'occasion usagée usagées', 'dealers': 'revendeur revendeurs distributeur', 'careers': 'emploi emplois offres carrière recrutement',
+                'acc': 'accessoires', 'transport': 'transport enlèvement transporteur'}},
+ 'it': {'stop': 'per con di da un una il lo la le i gli e in o al', 'gen': 'pallet bancale bancali plastica',
+        'type': {'nestable': 'incastrabile incastrabili', 'hygienic': 'igienico igienici igienica haccp', 'export': 'esportazione export',
+                 'antislip': 'antiscivolo', 'cp': 'cp chimico chimica', 'display': 'espositore espositori display', 'block': 'blocco blocchi'},
+        'class': {'light': 'leggero leggera leggeri', 'medium': 'medio', 'heavy': 'pesante pesanti'},
+        'rack': 'scaffale scaffali scaffalatura',
+        'svc': {'quote': 'preventivo richiesta prezzo', 'contact': 'contatto contatti telefono email indirizzo', 'calc': 'calcolatore calcolo container camion',
+                'used': 'usato usati', 'dealers': 'rivenditore rivenditori distributore', 'careers': 'lavoro offerte carriera candidatura',
+                'acc': 'accessori', 'transport': 'trasporto ritiro vettore'}},
+ 'es': {'stop': 'para con de del un una el la los las y en o al', 'gen': 'palet palets paleta paletas plástico',
+        'type': {'nestable': 'encajable encajables', 'hygienic': 'higiénico higiénicos haccp', 'export': 'exportación export',
+                 'antislip': 'antideslizante antideslizantes', 'cp': 'cp químico química', 'display': 'expositor expositores display', 'block': 'bloque bloques'},
+        'class': {'light': 'ligero ligera ligeros', 'medium': 'medio', 'heavy': 'pesado pesada pesados'},
+        'rack': 'estantería estanterías rack',
+        'svc': {'quote': 'presupuesto solicitud precio', 'contact': 'contacto teléfono llamar email dirección', 'calc': 'calculadora cálculo contenedor camión',
+                'used': 'usado usados segunda mano', 'dealers': 'distribuidor distribuidores', 'careers': 'empleo empleos ofertas trabajo',
+                'acc': 'accesorios', 'transport': 'transporte recogida transportista'}},
+}
+
+
+def _size_words(key, lang):
+    L, W = key.split('x')
+    cm = lambda v: str(int(v) // 10) if int(v) % 10 == 0 else str(int(v) / 10).rstrip('0')
+    return ' '.join([f'{L}x{W}', f'{W}x{L}', f'{cm(L)}x{cm(W)}', f'{cm(W)}x{cm(L)}', T[lang]['size_nick'][key]])
+
+
 def search_records():
-    """Light-weight product data per language for instant search before the Pagefind index answers."""
+    """Light-weight data per language for the instant search (before the Pagefind index answers):
+    p = products, c = categories and service pages, stop/gen = words the search ignores (update 33)."""
     for lang in LANGS:
-        t = T[lang]
+        t, X = T[lang], SEARCH_X[lang]
         out = []
         for m in MODELS:
+            words = [m['size_label'], _size_words(m['size'], lang), m['class'], X['class'][m['class']],
+                     ' '.join(t['type_name'][ty] + ' ' + X['type'].get(ty, '') for ty in m['types']),
+                     X['rack'] if m['rackable'] else '', ' '.join(v['sku'] for v in m['variants'])]
             out.append({'t': m['name'][lang], 'u': m['url'][lang], 'i': m['img_sm'],
                         's': f"{t['art_nr_short']} {m['sku_txt']} · {m['size_label']} · {m['class'].capitalize()} · {t['static']} {m['txt'][lang]['static_short']}",
-                        'k': ' '.join([m['size_label'], m['size_label'].replace(' x ', 'x').replace(' mm', ''), m['class'],
-                                       ' '.join(t['type_name'][ty] for ty in m['types']), ' '.join(v['sku'] for v in m['variants'])])})
-        json.dump(out, open(os.path.join(OUT, f'assets/search-{lang}.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
+                        'k': re.sub(r'\s+', ' ', ' '.join(words)).strip(), 'x': [v['sku'].lower() for v in m['variants']], 'n': t['size_nick'][m['size']]})
+        cats = []
+        for pid, pg in PAGES.items():
+            if pg.get('tpl') != 'listing' or pid not in CONTENT[lang]:
+                continue
+            spec = pg['listing']
+            ms = listing_models(spec)
+            if not ms:
+                continue
+            k = [plain(CONTENT[lang][pid]['fm'].get('h1', ''))]
+            if 'size' in spec:
+                k.append(_size_words(spec['size'], lang))
+            if 'type' in spec:
+                k.append(X['type'].get(spec['type'], ''))
+            if 'class' in spec:
+                k.append(X['class'][spec['class']])
+            nick = t['size_nick'][spec['size']] if 'size' in spec else ''
+            cats.append({'t': short_title(pid, lang), 'u': url(pid, lang), 's': mcount(len(ms), lang), 'k': ' '.join(k), 'n': nick, 'all': not spec})
+        for pid, words in X['svc'].items():
+            if pid in PAGES and pid in CONTENT[lang]:
+                cats.append({'t': short_title(pid, lang), 'u': url(pid, lang), 's': plain(CONTENT[lang][pid]['fm'].get('h1', '')), 'k': words, 'svc': True})
+        json.dump({'p': out, 'c': cats, 'stop': X['stop'].split(), 'gen': X['gen'].split()},
+                  open(os.path.join(OUT, f'assets/search-{lang}.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
 
 
 # ------------------------------------------------------------------------------------------------ main

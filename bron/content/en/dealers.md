@@ -23,7 +23,7 @@ compare:
   direct:
     - "Per full stack or per truckload"
     - "Custom pallets with your own logo or colour"
-    - "Delivery from the factory closest to you"
+    - "Delivery from a factory as close to you as possible"
 ---
 
 ## Find your dealer

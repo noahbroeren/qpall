@@ -6,7 +6,7 @@ eyebrow: "Aktuelles"
 tag: "Wissen"
 crumb: "Kunststoff oder Holz beim Preis"
 h1: "Kunststoff oder Holz: **Wer gewinnt beim Preis?**"
-lead: "Pro Stück ist eine Holzpalette meist günstiger. Doch Holzpreise schwanken stark, und eine Kunststoffpalette hält viel länger. Rechnen Sie in Kosten pro Umlauf, liegt Kunststoff oft vorn."
+lead: "Pro Stück ist eine Holzpalette meist günstiger. Doch Holzpreise schwanken stark, und eine Kunststoffpalette hält viel länger. Rechnet man mit den Kosten pro Umlauf, liegt Kunststoff oft vorn."
 img_alt: "Schwarze Kunststoffpaletten und gestapelte Holz-Europaletten nebeneinander, dazwischen „vs.“"
 reading: 3
 faq:
@@ -32,7 +32,7 @@ updated: '2026-11-02'
 
 Vergleichen Sie [Kunststoff- und Holzpaletten](@guide-wood), liegt Kunststoff in vielen Punkten vorn. Kunststoff nimmt keine Feuchtigkeit auf und lässt sich gut reinigen. Er splittert nicht, und es gibt keine Nägel, die sich lösen.
 
-Kunststoffpaletten sind zudem oft leichter, je nach Typ. Eine nestbare Kunststoff-Europalette wiegt gut 5 kg, eine Holz-Europalette rund 25 kg. Eine Heavy-Kunststoffpalette wiegt 17 bis 28 kg, also etwa so viel wie eine Holz-Europalette.
+Kunststoffpaletten sind zudem oft leichter, je nach Typ. Eine nestbare Kunststoff-Europalette wiegt gut 5 kg, eine Holz-Europalette rund 25 kg. Eine Heavy-Kunststoffpalette wiegt ca. 17 bis 29 kg, also etwa so viel wie eine Holz-Europalette.
 
 Warum werden dann noch so viele Holzpaletten verwendet? Vor allem wegen des Preises. Pro Stück ist eine Holzpalette meist günstiger.
 
@@ -44,7 +44,7 @@ Diese Erwartung erwies sich als falsch. Die Bauwirtschaft lief auf Hochtouren we
 
 Wer viele Holzpaletten einsetzt, spürt solche Preissprünge sofort, weil Holzpaletten oft ersetzt werden müssen. Eine Kunststoffpalette kaufen Sie viel seltener. Deshalb fällt der Anschaffungspreis weniger ins Gewicht.
 
-## Rechnen Sie in Kosten pro Umlauf
+## Kosten pro Umlauf berechnen
 
 Ein fairer Vergleich erfolgt nicht pro Stück, sondern pro Umlauf. Bei normalem Einsatz hält eine Kunststoffpalette viele Jahre. Eine Holzpalette muss dagegen oft schon nach wenigen Jahren repariert oder ersetzt werden.
 

@@ -14,7 +14,7 @@ why:
   items:
   - icon: leaf
     title: A product that matters
-    text: We make pallets from recycled plastic and help customers across Europe work more sustainably.
+    text: We make pallets from nearly 100% recycled plastic and help customers across Europe work more sustainably.
   - icon: globe
     title: International
     text: Six factories in Europe and customers worldwide. You work across borders every day.
@@ -34,6 +34,6 @@ gallery:
   caption: 'Lunch at the long table, coffee at the bar or a quick read in the swing: this is our head office in Veghel.'
 open:
   title: Open **application**
-  lead: Can't find your dream job? Send us your CV and tell us in a few sentences what you would like to do for Q-Pall. We keep your details no longer than necessary.
+  lead: Is your dream job not listed? Send us your CV and tell us in a few sentences what you would like to do for Q-Pall. We keep your details no longer than necessary.
 contact_text: Questions about working at Q-Pall? Feel free to get in touch.
 ---

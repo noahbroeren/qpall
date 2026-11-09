@@ -11,7 +11,7 @@ img_alt: "Containerterminal met een goederentrein en lichtlijnen die digitale da
 reading: 3
 faq:
 - q: "Zijn kunststof pallets lichter dan houten pallets?"
-  a: "Vaak wel, maar het hangt af van het type. Light pallets zijn veel lichter dan hout. Een heavy kunststof pallet weegt 17 tot 28 kg, een houten europallet zo'n 25 kg."
+  a: "Vaak wel, maar het hangt af van het type. Light pallets zijn veel lichter dan hout. Een heavy kunststof pallet weegt ca. 17 tot 29 kg, een houten europallet zo'n 25 kg."
 - q: "Hebben kunststof pallets ISPM 15 nodig voor export?"
   a: "Nee. ISPM 15 geldt alleen voor verpakkingen van massief hout. Kunststof pallets hebben geen hittebehandeling of stempel nodig."
 - q: "Wat gebeurt er met kunststof pallets aan het einde van hun leven?"
@@ -60,7 +60,7 @@ Q-Pall maakt sinds 2005 alleen kunststof pallets. Dit is onze aanpak:
 
 * **Gerecycled materiaal.** Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE en PP. Lees meer over onze aanpak op de pagina [duurzaamheid](@about-sustainability).
 * **Lokaal geproduceerd.** We maken onze pallets in zes fabrieken in Europa, dicht bij onze klanten.
-* **Breed assortiment.** Zo'n 130 modellen in negen formaten en drie klassen: light, medium en heavy.
+* **Breed assortiment.** Zo'n 130 uitvoeringen in negen formaten en drie klassen: light, medium en heavy.
 * **Aanpassingen op maat.** Bestaande modellen passen we aan met bijvoorbeeld uw logo, een eigen kleur of een markering.
 * **Betrokken service.** Van het eerste advies tot de levering denken we met u mee.
 

@@ -19,7 +19,7 @@ faq:
 - q: What is the difference between HDPE (2) and LDPE (4)?
   a: "Both are polyethylene. HDPE has a higher density, which makes it stiffer and stronger; it is used for bottles, crates and pallets. LDPE is more flexible and is mainly used for films and bags."
 - q: What are Q-Pall pallets made of?
-  a: "Our standard pallets are made from recycled plastic, a mix of HDPE and PP. Only our hygienic pallets are made of virgin plastic. Our recycled plastic pallets are not intended for direct food contact. Looking for a pallet for direct food contact? Contact us and we will be happy to advise you."
+  a: "Our standard pallets are made from nearly 100% recycled plastic, a mix of HDPE and PP (light pallets also contain LDPE). Only our hygienic pallets are made of virgin plastic. Our recycled plastic pallets are not intended for direct food contact. Looking for a pallet for direct food contact? Contact us and we will be happy to advise you."
 published: '2024-05-18'
 updated: '2026-10-19'
 ---
@@ -29,7 +29,7 @@ updated: '2026-10-19'
 > * The number in the triangle tells you which plastic it is. It does not mean the product is already recycled.
 > * HDPE is strong and light, does not absorb moisture and resists many chemicals.
 > * It is one of the most recyclable plastics. At home it belongs with your plastic packaging waste.
-> * Our standard pallets are made from recycled plastic, a mix of HDPE and PP.
+> * Our standard pallets are made from nearly 100% recycled plastic, a mix of HDPE and PP (light pallets also contain LDPE).
 
 ## What does HDPE 2 or PE-HD 2 mean?
 
@@ -100,12 +100,12 @@ Plastic pallets do not belong in household waste. They are collected commerciall
 
 ## Recycled HDPE in plastic pallets
 
-Our standard pallets are made from recycled plastic: a mix of HDPE and PP from waste streams such as crates, caps and packaging. Working with recycled material takes a lot of know-how, because it behaves differently from new plastic. We have been building that know-how since 2005.
+Our standard pallets are made from nearly 100% recycled plastic: a mix of HDPE and PP (light pallets also contain LDPE) from waste streams such as crates, caps and packaging. Working with recycled material takes a lot of know-how, because it behaves differently from new plastic. We have been building that know-how since 2005.
 
 What it means for you:
 
 * **Long service life.** A plastic pallet lasts for many years, much longer than an average wooden pallet.
-* **Clean and consistent.** No splinters, no moisture, and every pallet has the same weight and the same dimensions.
+* **Clean and consistent.** No splinters, no moisture, and every pallet has virtually the same weight and the same dimensions.
 * **No ISPM 15.** Plastic pallets fall outside the [rules for wooden packaging material](@guide-ispm) when you export.
 * **Closed loop.** At the end of its life, we grind a pallet back into raw material.
 

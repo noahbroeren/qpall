@@ -74,7 +74,7 @@ For pallet flows within the EU, reuse is becoming the norm. Think of pallets tha
 
 ### One-way pallets and export
 
-Not every pallet comes back. For shipments outside the EU, many companies choose a lightweight [export pallet](@type-export) that stays with the recipient. A one-way pallet like this does not count towards the reuse target. The recyclability requirements do apply, though. Our export pallets are made from recycled plastic and are fully recyclable at the end of their life.
+Not every pallet comes back. For shipments outside the EU, many companies choose a lightweight [export pallet](@type-export) that stays with the recipient. A one-way pallet like this does not count towards the reuse target. The recyclability requirements do apply, though. Our export pallets are made from nearly 100% recycled plastic and are fully recyclable at the end of their life.
 
 ### Wooden pallets
 
@@ -82,7 +82,7 @@ Wooden pallets can be reusable too, especially within a well-managed pool. Howev
 
 ## Q-Pall plastic pallets and the PPWR
 
-* **Recycled material.** We make our standard pallets from almost 100% recycled plastic: a mix of HDPE (resin code 2) and PP (resin code 5).
+* **Recycled material.** We make our standard pallets from nearly 100% recycled plastic: a mix of HDPE (resin code 2) and PP (resin code 5).
 * **One material family.** HDPE and PP are both polyolefins and are often processed together in recycling. Our pallets are fully recyclable at the end of their life.
 * **Take-back.** We take back used pallets, either for reuse through [Q-Used](@used) or for recycling into raw material for new pallets.
 * **Documentation.** We have drawn up an EU declaration of conformity for each pallet group. For most models you can download it directly on the product page, together with the technical datasheet.

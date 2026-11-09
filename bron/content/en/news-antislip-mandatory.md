@@ -57,7 +57,7 @@ The top deck of an anti-slip pallet contains strips of a rubber-like material (T
 
 ## Anti-slip pallets from Q-Pall
 
-Anti-slip pallets are part of our standard range. The new generation of [medium anti-slip pallets](@type-antislip) has a closed top deck with integrated anti-slip strips:
+Anti-slip pallets are part of our standard range. The [medium anti-slip pallets](@type-antislip) we introduced in late 2025 have a closed top deck with integrated anti-slip strips:
 
 * **1200 x 800 mm** on 3 runners.
 * **1200 x 1000 mm** on 3 or 5 runners.

@@ -1,10 +1,10 @@
 ---
 id: job-inside-sales
 title: 'Empleo: comercial de ventas internas – Q-Pall Veghel'
-description: Comercial de ventas internas en Q-Pall en Veghel (Países Bajos), 32-36 horas. Asesore a clientes de toda Europa. Postúlese en 2 minutos.
+description: Comercial de ventas internas en Q-Pall en Veghel (Países Bajos), 32-36 horas. Asesore a clientes de toda Europa. Inscríbase en 2 minutos.
 eyebrow: Oferta de empleo · Inside Sales
 h1: Comercial de **ventas internas**
-lead: Usted es la voz de Q-Pall para clientes de toda Europa. Asesora, prepara ofertas y se asegura de que cumplimos lo que prometemos. Por nuestro crecimiento buscamos un nuevo compañero o compañera para el equipo de Inside Sales en Veghel (Países Bajos).
+lead: Será la voz de Q-Pall para clientes de toda Europa. Asesorará, preparará ofertas y se asegurará de que cumplamos lo que prometemos. Por nuestro crecimiento buscamos un nuevo compañero o compañera para el equipo de Inside Sales en Veghel (Países Bajos).
 job:
   title: Comercial de ventas internas
   posted: '2026-10-28'
@@ -30,9 +30,9 @@ hero:
   - icon: language
     label: Idiomas
     text: Neerlandés e inglés
-  cta: Postúlese ahora
+  cta: Envíe su candidatura
   cta2: Haga una pregunta
-  note: Postularse lleva 2 minutos. Basta con su CV.
+  note: Enviar su candidatura le llevará 2 minutos. Basta con su CV.
 tasks:
   eyebrow: El puesto
   title: Sus **funciones**
@@ -80,23 +80,23 @@ offer:
 why:
   eyebrow: Sobre Q-Pall
   title: Palets **con propósito**
-  text: Desde 2005 Q-Pall fabrica únicamente palets de plástico. Nuestros palets estándar están hechos de plástico reciclado y, con seis fábricas en Europa, siempre producimos cerca del cliente.
+  text: Desde 2005 Q-Pall fabrica únicamente palets de plástico. Nuestros palets estándar están hechos de plástico casi 100% reciclado y, con seis fábricas en Europa, producimos cerca del cliente.
   link: Más sobre Q-Pall
 process:
   title: Cómo funciona **su candidatura**
   steps:
-  - title: Se postula
+  - title: Envía su candidatura
     text: Rellene el formulario y adjunte su CV. Solo le llevará unos minutos.
   - title: Le contactamos
     text: Sabine revisa su candidatura y se pone en contacto con usted lo antes posible.
   - title: Nos conocemos
     text: Nos visita en Veghel y conoce al equipo.
 apply:
-  title: Postúlese **ahora**
+  title: Envíe su candidatura **ahora**
   lead: Deje sus datos y suba su CV. No hace falta carta de presentación.
 contact_text: ¿Preguntas sobre el puesto o la candidatura? Contáctenos sin compromiso.
 faq:
-- q: ¿Puedo postularme sin experiencia?
+- q: ¿Puedo optar al puesto sin experiencia?
   a: Sí. Son bienvenidos tanto perfiles junior como con experiencia. Lo primero son la motivación y las ganas.
 - q: ¿Cuántas horas semanales son?
   a: De 32 a 36 horas semanales, en nuestra sede de Veghel (Países Bajos).

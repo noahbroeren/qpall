@@ -33,7 +33,7 @@ La terza generazione è un [pallet Medium](@class-medium): il più versatile per
 
 ## Portata
 
-Il pallet misura 1200 x 800 x 145 mm e porta 5.000 kg in statica. Su scaffalatura porta-pallet la versione con piano aperto porta fino a 500 kg e quella con piano chiuso fino a 750 kg. Potete quindi usare il pallet anche nelle scaffalature di magazzino.
+Il pallet misura 1200 x 800 x 145 mm e ha una portata statica di 5.000 kg. La portata su scaffale arriva fino a 500 kg per la versione con piano aperto e fino a 750 kg per quella con piano chiuso. Potete quindi usare il pallet anche nelle scaffalature di magazzino.
 
 Questi valori valgono per un carico distribuito in modo uniforme. Approfondite l’argomento nella pagina sulla [portata dei pallet in plastica](@about-load).
 

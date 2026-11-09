@@ -27,7 +27,7 @@ next:
   - when: Ora
     t: Richiesta ricevuta
     d: La vostra richiesta è presso il nostro team commerciale a Veghel.
-  - when: Oggi
+  - when: Oggi o il primo giorno lavorativo successivo
     t: Uno specialista la esamina
     d: Scegliamo il pallet giusto, verifichiamo in quale stabilimento è disponibile e cerchiamo il trasporto migliore.
   - when: Di solito entro 1 giorno lavorativo

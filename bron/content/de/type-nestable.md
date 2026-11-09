@@ -20,7 +20,7 @@ Bei einer nestbaren Palette sind die Füße hohl und konisch. Leere Paletten pas
 
 - **Weniger Lagerfläche** für Ihren Bestand an Leerpaletten.
 - **Mehr Paletten pro Lkw** bei An- und Rücktransport.
-- **Niedrigere Transportkosten und weniger CO2** pro Palette.
+- **Niedrigere Transportkosten und weniger CO₂** pro Palette.
 
 ## Leicht und ergonomisch
 

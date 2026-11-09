@@ -1,13 +1,13 @@
 ---
 id: class-heavy
 title: "Pallet in plastica Heavy – fino a 2.000 kg su scaffale"
-description: "Pallet in plastica Heavy per carichi pesanti: fino a 7.500 kg in statica, 2.200 kg in dinamica e 2.000 kg su scaffale. Piano aperto o chiuso, 3–6 slitte."
+description: "Pallet in plastica Heavy per carichi pesanti: portata statica fino a 7.500 kg, dinamica 2.200 kg, su scaffale 2.000 kg. Piano aperto o chiuso, 3–6 slitte."
 eyebrow: "Classe di portata Heavy"
 h1: "Pallet in plastica **Heavy**"
-lead: "Per carichi pesanti, scaffalature alte e anni di uso intensivo. Sono disponibili [[count]] modelli Heavy, tra cui pallet igienici, pallet CP e pallet per pooling."
+lead: "Per carichi pesanti, scaffalature alte e anni di uso intensivo. Sono disponibili [[count]] versioni Heavy, tra cui pallet igienici, pallet CP e pallet per pooling."
 faq:
   - q: "Quanto sopporta un pallet in plastica Heavy?"
-    a: "I nostri pallet Heavy sopportano fino a 7.500 kg in statica, fino a 2.200 kg in dinamica e fino a 2.000 kg su scaffalatura porta-pallet. I valori esatti variano da modello a modello e li trovate nella scheda di ciascun prodotto."
+    a: "I nostri pallet Heavy hanno una portata statica fino a 7.500 kg, una portata dinamica fino a 2.200 kg e una portata su scaffale fino a 2.000 kg. I valori esatti variano da modello a modello e li trovate nella scheda di ciascun prodotto."
   - q: "I pallet in plastica Heavy necessitano di rinforzi in acciaio?"
     a: "No. I nostri pallet Heavy devono la loro robustezza alla struttura e al materiale. L’Ultra pallet, ad esempio, sopporta fino a 1.375 kg su scaffale senza rinforzi metallici."
   - q: "Quando un pallet Heavy è la scelta giusta?"

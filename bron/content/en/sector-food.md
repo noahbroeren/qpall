@@ -8,7 +8,7 @@ lead: "Food safety starts with a clean base. Our hygienic pallets are smooth, ea
 recommend: [qph1208hp3rr-cdb, h1-europallet, qph1208hr3r-ecor, qph1210hp3rr-cdg, qp1208mb3rr-cd, qp6040mb4f]
 faq:
   - q: "Can a plastic pallet come into direct contact with food?"
-    a: "For direct food contact, virgin plastic is the standard. That is why our hygienic pallets are made of virgin plastic. All other Q-Pall pallets are made of recycled plastic and are suitable if the food is packaged and does not lie directly on the pallet. We are happy to help you choose the right version."
+    a: "For direct food contact, virgin plastic is the standard. That is why our hygienic pallets are made of virgin plastic. All other Q-Pall pallets are made of nearly 100% recycled plastic and are suitable if the food is packaged and does not lie directly on the pallet. We are happy to help you choose the right version."
   - q: "Are plastic pallets suitable for freezer rooms?"
     a: "Yes, plastic pallets remain strong at low temperatures. Bear in mind that plastic becomes stiffer below freezing and more sensitive to hard impacts. Use [freezer spacers](@acc-freezer) to freeze your products faster."
   - q: "What is an H1 pallet?"
@@ -33,11 +33,11 @@ For a full comparison, see [plastic or wooden pallets](@guide-wood).
 
 ## Virgin or recycled?
 
-For direct food contact, use a pallet made of virgin plastic, which poses no risk of contamination. For packaged products, where the pallet does not come into direct contact with the food, our other pallets made of recycled plastic are a sustainable choice. Our [hygienic pallets](@type-hygienic) are made of virgin plastic, all other Q-Pall pallets of recycled plastic.
+For direct food contact, use a pallet made of virgin plastic, which poses no risk of contamination. For packaged products, where the pallet does not come into direct contact with the food, our other pallets made of recycled plastic are a sustainable choice. Our [hygienic pallets](@type-hygienic) are made of virgin plastic, all other Q-Pall pallets of nearly 100% recycled plastic.
 
 ## Open or closed deck?
 
-| | Open deck | Closed deck |
+| Feature | Open deck | Closed deck |
 |---|---|---|
 | Cleaning | Possible, but dirt stays behind in the openings more easily | Quick and thorough |
 | Moisture | Can leak through the deck | Stays on the deck and can be rinsed off |
@@ -48,7 +48,7 @@ For direct food contact, use a pallet made of virgin plastic, which poses no ris
 - **Meat and fish:** hygiene requirements are high, and moisture such as blood or water must not drip onto the load below. Choose a [hygienic pallet](@type-hygienic) with a closed deck.
 - **Pharma:** a smooth, closed, non-porous surface that resists cleaning agents and disinfectants, with fixed dimensions for automated lines. See also [the pharmaceutical industry](@sector-pharma).
 - **Wet areas**, such as production halls and washing lines: a closed deck that does not absorb water and is quick to clean.
-- **Packaged products and distribution:** a standard pallet made of recycled plastic, with an open or closed deck, is sufficient here.
+- **Packaged products and distribution:** a standard pallet made of nearly 100% recycled plastic, with an open or closed deck, is sufficient here.
 
 ## HACCP
 

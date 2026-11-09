@@ -11,7 +11,7 @@ img_alt: "Quesos en estantes de madera y en cestas en una quesería"
 reading: 4
 faq:
 - q: "¿Es obligatorio un palet higiénico según HACCP?"
-  a: "El sistema HACCP no prescribe ningún tipo de palet. Usted identifica los riesgos de su propio proceso y elige un palet adecuado. Si el alimento va directamente sobre el palet, lo lógico es un palet higiénico de plástico virgen."
+  a: "El sistema HACCP no prescribe ningún tipo de palet. Es usted quien identifica los riesgos de su propio proceso y elige un palet adecuado. Si el alimento va directamente sobre el palet, lo lógico es un palet higiénico de plástico virgen."
 - q: "¿Se pueden colocar alimentos directamente sobre un palet de plástico?"
   a: "Solo sobre un palet destinado a ello. Nuestros palets higiénicos son de plástico virgen. Nuestros palets de plástico reciclado no están destinados al contacto directo con alimentos."
 - q: "¿Qué diferencia hay entre un palet higiénico y un palet H1?"
@@ -23,7 +23,7 @@ updated: '2026-11-02'
 >
 > * HACCP significa Hazard Analysis and Critical Control Points (en español, APPCC): un método para controlar los riesgos para la seguridad alimentaria.
 > * Las empresas que preparan, procesan, envasan, transportan o venden alimentos están obligadas por ley a trabajar así. Esto incluye el almacenamiento y el transporte.
-> * El sistema HACCP no prescribe un palet concreto. Usted decide qué palet se ajusta a los riesgos de su proceso.
+> * El sistema HACCP no prescribe un palet concreto: el palet se elige en función de los riesgos de su proceso.
 > * ¿Los alimentos entran en contacto directo con el palet? Elija entonces un palet higiénico de plástico virgen.
 > * Los palets de plástico reciclado están pensados para productos envasados, no para el contacto directo con alimentos.
 
@@ -33,7 +33,7 @@ Un palet de plástico puede ayudar, pero no todos los palets sirven para todas l
 
 ## ¿Qué es HACCP?
 
-HACCP significa *Hazard Analysis and Critical Control Points*; en español se conoce como APPCC (Análisis de Peligros y Puntos de Control Crítico). Es un sistema con el que una empresa identifica y controla los riesgos para la seguridad alimentaria. Usted determina en qué punto del proceso algo puede salir mal y cómo evitarlo y controlarlo.
+HACCP significa *Hazard Analysis and Critical Control Points*; en español se conoce como APPCC (Análisis de Peligros y Puntos de Control Crítico). Es un sistema con el que una empresa identifica y controla los riesgos para la seguridad alimentaria. Determina en qué punto del proceso algo puede salir mal y cómo evitarlo y controlarlo.
 
 Por eso, las normas HACCP también se conocen como normas de higiene alimentaria.
 
@@ -52,7 +52,7 @@ En resumen: allí donde se manipulan o venden alimentos, se aplican las normas H
 
 También durante el transporte y el almacenamiento, las materias primas, los productos semielaborados y los productos terminados deben manipularse correctamente. El embalaje debe proteger, pero también cuenta cómo transporta y almacena los productos. El objetivo es reducir al mínimo los riesgos para la seguridad y la salud.
 
-El sistema HACCP no prescribe ningún tipo de palet. Usted evalúa los riesgos de su propio proceso y elige un palet adecuado. Algunas preguntas útiles: si el producto va directamente sobre el palet, con qué frecuencia limpia los palets y en qué zonas los utiliza.
+El sistema HACCP no prescribe ningún tipo de palet. Evalúe los riesgos de su propio proceso y elija un palet adecuado. Algunas preguntas útiles: si el producto va directamente sobre el palet, con qué frecuencia limpia los palets y en qué zonas los utiliza.
 
 ## ¿Por qué palets de plástico en lugar de madera?
 
@@ -64,7 +64,7 @@ Más información sobre las diferencias en [¿palets de plástico o de madera?](
 
 ## ¿Palet higiénico o palet de plástico reciclado?
 
-Fabricamos nuestros palets estándar con plástico reciclado. Son una opción sostenible para productos envasados, en los que el palet no entra en contacto directo con el alimento. No están destinados al contacto directo con alimentos.
+Fabricamos nuestros palets estándar con plástico casi 100% reciclado. Son una opción sostenible para productos envasados, en los que el palet no entra en contacto directo con el alimento. No están destinados al contacto directo con alimentos.
 
 ¿El alimento va directamente sobre el palet? Elija entonces un [palet higiénico](@type-hygienic). Lo fabricamos con plástico virgen (nuevo), en un color propio.
 

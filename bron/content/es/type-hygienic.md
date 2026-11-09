@@ -11,7 +11,7 @@ faq:
   - q: "¿Qué es un palet H1?"
     a: "El palet H1 es un palet de plástico con medida de europalet que se desarrolló originalmente como palet para pooling en la industria cárnica. Hoy lo utiliza toda la industria alimentaria. Nuestro europalet H1 tiene superficie abierta sobre 3 patines."
   - q: "¿Los palets higiénicos son de plástico virgen o reciclado?"
-    a: "Nuestros palets higiénicos están fabricados con plástico virgen, la norma para el contacto directo con alimentos. Todos los demás palets de Q-Pall se fabrican con plástico reciclado: una opción sostenible para productos envasados, en los que el palet no entra en contacto directo con el alimento. Le asesoramos con gusto sobre la opción correcta."
+    a: "Nuestros palets higiénicos están fabricados con plástico virgen, la norma para el contacto directo con alimentos. Todos los demás palets de Q-Pall se fabrican con plástico casi 100% reciclado: una opción sostenible para productos envasados, en los que el palet no entra en contacto directo con el alimento. Le asesoramos con gusto sobre la opción correcta."
   - q: "¿Puedo limpiar los palets higiénicos en una lavadora de palets o en un túnel de lavado?"
     a: "Los palets de plástico resisten la limpieza con agua, alta presión y productos de limpieza. Consúltenos la temperatura máxima y los productos adecuados para el modelo que elija."
 ---

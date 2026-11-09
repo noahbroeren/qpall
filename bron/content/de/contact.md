@@ -1,6 +1,6 @@
 ---
 id: contact
-title: "Kontakt: Q-Pall Kunststoffpaletten in Veghel"
+title: "Kontakt: Q-Pall-Kunststoffpaletten in Veghel"
 description: "Kontaktieren Sie Q-Pall in Veghel: Telefon +31 (0)413 353 111, E-Mail info@qpall.com oder Nachricht. Wir antworten meist innerhalb eines Werktags."
 eyebrow: "Kontakt"
 h1: "Nehmen Sie **Kontakt** auf"

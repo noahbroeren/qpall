@@ -14,7 +14,7 @@ why:
   items:
   - icon: leaf
     title: Ein Produkt, das zählt
-    text: Wir stellen Paletten aus recyceltem Kunststoff her und helfen Kunden in ganz Europa, nachhaltiger zu arbeiten.
+    text: Wir stellen Paletten aus fast 100 % recyceltem Kunststoff her und helfen Kunden in ganz Europa, nachhaltiger zu arbeiten.
   - icon: globe
     title: International
     text: Sechs Werke in Europa und Kunden weltweit. Sie arbeiten jeden Tag über Grenzen hinweg.

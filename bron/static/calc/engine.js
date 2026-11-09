@@ -344,7 +344,7 @@ const SKUIMG={"QP6040MB4F": "display-pallet-600-x-400-x-155-open-deck-4-feet-med
                 const runnerSelects = document.querySelectorAll('.dynamic-runner-select');
                 for (let i = 0; i < runnerSelects.length; i++) {
                     if (!runnerSelects[i].value) {
-                        alert("Please select a runner type for each selected nestable pallet.");
+                        alert((window.QPC_T && window.QPC_T.err_runner) || "Please select a runner type for each selected nestable pallet.");
                         return;
                     }
                 }
@@ -363,7 +363,7 @@ const SKUIMG={"QP6040MB4F": "display-pallet-600-x-400-x-155-open-deck-4-feet-med
 
             const palletRows = document.querySelectorAll('.pallet-row');
             if (palletRows.length === 0) {
-                alert("Please add at least one pallet type.");
+                alert((window.QPC_T && window.QPC_T.err_none) || "Please add at least one pallet type.");
                 return;
             }
 
@@ -445,7 +445,7 @@ const SKUIMG={"QP6040MB4F": "display-pallet-600-x-400-x-155-open-deck-4-feet-med
             });
 
             if (loadItems.length === 0) {
-                alert("Please select at least one valid pallet type.");
+                alert((window.QPC_T && window.QPC_T.err_invalid) || "Please select at least one valid pallet type.");
                 return;
             }
 

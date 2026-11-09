@@ -30,7 +30,7 @@ I nostri processi produttivi e il materiale che usiamo rientrano in questo modo 
 
 Produrre e trasportare pallet richiede energia. Bruciando combustibili fossili come carbone, petrolio e gas si libera CO₂. Questo gas serra contribuisce al riscaldamento globale.
 
-Nel settore dei pallet la maggior parte delle emissioni di CO₂ deriva dal trasporto. Un camion pieno di pallet trasporta soprattutto aria. Per questo installiamo lo stampo di un pallet nello stabilimento più vicino al cliente. Così i pallet stessi non devono percorrere lunghe distanze.
+Nel settore dei pallet la maggior parte delle emissioni di CO₂ deriva dal trasporto. Un camion pieno di pallet trasporta soprattutto aria. Per questo installiamo lo stampo di un pallet il più vicino possibile al cliente. Così i pallet stessi non devono percorrere lunghe distanze.
 
 Produciamo in sei stabilimenti: a Balk, Ribe, Marktoberdorf, Nantes, Lleida e Chesterfield. Quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento Q-Pall. Si risparmiano così molti chilometri, emissioni di CO₂ e costi di trasporto. Per saperne di più leggete [produzione locale](@about-local).
 

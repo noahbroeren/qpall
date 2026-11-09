@@ -50,13 +50,13 @@ Cosa vi offre negli scambi con il Regno Unito:
 * **Nessun ritardo causato dal pallet.** Un pallet in plastica non viene respinto per un timbro mancante o errato.
 * **Leggero e spesso incastrabile.** I nostri [pallet da esportazione](@type-export) hanno una portata statica fino a 2.500 kg e da vuoti si incastrano l’uno nell’altro.
 * **Il formato giusto.** Nel Regno Unito è diffuso il pallet industriale da [1200 x 1000 mm](@size-1200x1000).
-* **Circolare.** I nostri pallet standard sono in plastica riciclata e a fine vita sono completamente riciclabili.
+* **Circolare.** I nostri pallet standard sono in plastica riciclata quasi al 100% e a fine vita sono completamente riciclabili.
 
 ## Q-Pall produce anche nel Regno Unito
 
 Q-Pall produce pallet in plastica in sei stabilimenti: Balk (Paesi Bassi), Ribe (Danimarca), Marktoberdorf (Germania), Nantes (Francia), Lleida (Spagna) e Chesterfield (Regno Unito). Quasi ogni cliente si trova entro 600 chilometri da uno dei nostri stabilimenti.
 
-Il nostro approccio: gli stampi viaggiano, i pallet no. Installiamo lo stampo nello stabilimento più vicino al cliente. Per i clienti nel Regno Unito può essere lo stabilimento di Chesterfield: trasporti brevi e nessun passaggio di confine per i pallet stessi. Scoprite di più sulla [produzione locale](@about-local).
+Il nostro approccio: gli stampi viaggiano, i pallet no. Installiamo lo stampo il più vicino possibile al cliente. Per i clienti nel Regno Unito può essere lo stabilimento di Chesterfield: trasporti brevi e nessun passaggio di confine per i pallet stessi. Scoprite di più sulla [produzione locale](@about-local).
 
 Vi servono quantità più piccole? Rivolgetevi a un [rivenditore vicino a voi](@dealers). Nel Regno Unito collaboriamo, tra gli altri, con il rivenditore Goplasticpallets.com.
 

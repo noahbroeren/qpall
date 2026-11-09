@@ -1,11 +1,11 @@
 ---
 id: news-bestpal-mpackaging
-title: "#YourBestPal en vedette : M-Packaging Belgique – Q-Pall"
+title: "#YourBestPal en vedette : M-Packaging Belgique – Q-Pall"
 description: "Dans notre série #YourBestPal, M-Packaging (Belgique) a parlé de la vente de palettes plastique aux clients de la pharma, l’agroalimentaire et la chimie."
 eyebrow: "Actualités"
 tag: "Cas client"
-crumb: "#YourBestPal : M-Packaging"
-h1: "#YourBestPal sous les projecteurs : **M-Packaging Belgique**"
+crumb: "#YourBestPal : M-Packaging"
+h1: "#YourBestPal sous les projecteurs : **M-Packaging Belgique**"
 lead: "En juillet 2025, M-Packaging était à l’honneur dans notre série #YourBestPal. Le distributeur belge a parlé de ses clients, des palettes qu’ils choisissent et de sa collaboration avec Q-Pall."
 img_alt: "Homme entre un bac en bois rempli de déchets plastiques et une pile de palettes plastique noires à bandes orange"
 reading: 3
@@ -17,7 +17,7 @@ updated: '2026-11-02'
 > * M-Packaging a été fondée en 2020 et vend surtout des palettes plastique. C’est un distributeur de Q-Pall en Belgique.
 > * Avec sa société sœur Muller Pallets, elle fournit aussi des palettes en bois neuves et d’occasion.
 > * Ses clients sont surtout actifs dans la pharma, l’agroalimentaire, la logistique et la chimie.
-> * Les plus demandées : 1200 x 800 et 1200 x 1000 mm, en versions light, medium et heavy.
+> * Les plus demandées : 1200 x 800 et 1200 x 1000 mm, en versions light, medium et heavy.
 > * M-Packaging appréciait surtout la qualité constante, le stock, la communication rapide et la souplesse du planning.
 
 ## Le bois et le plastique sous un même toit
@@ -58,6 +58,6 @@ Comme M-Packaging propose des palettes en bois et en plastique, elle dispose de 
 
 ## Ce que signifie #YourBestPal
 
-Pour M-Packaging, #YourBestPal signifie un fournisseur qui réfléchit avec vous, qui est flexible et qui communique bien et vite. Son conseil aux entreprises qui cherchent un partenaire palettes : « Vous cherchez un fournisseur de palettes de qualité, durable, inventif et fiable, qui communique rapidement et clairement ? Alors vous êtes à la bonne adresse. »
+Pour M-Packaging, #YourBestPal signifie un fournisseur qui réfléchit avec vous, qui est flexible et qui communique bien et vite. Son conseil aux entreprises qui cherchent un partenaire palettes : « Vous cherchez un fournisseur de palettes de qualité, durable, inventif et fiable, qui communique rapidement et clairement ? Alors vous êtes à la bonne adresse. »
 
-Vous souhaitez savoir quelle palette plastique convient à votre application ? [Demandez un devis](@quote) : vous recevez généralement un prix sur mesure en un jour ouvrable.
+Vous souhaitez savoir quelle palette plastique convient à votre application ? [Demandez un devis](@quote) : vous recevez généralement un prix sur mesure en un jour ouvrable.

@@ -43,14 +43,14 @@ Un **piano aperto** è più leggero ed economico. L’umidità defluisce e l’a
 ## Passo 5: piedi o slitte
 
 - **9 piedi:** leggero, spesso incastrabile e inforcabile da quattro lati con carrello elevatore e transpallet. Ideale per l’[esportazione](@type-export).
-- **3 slitte:** stabile a terra, sulle rulliere e nelle scaffalature porta-pallet.
+- **3 slitte:** stabile a terra e sulle rulliere; nelle versioni Medium e Heavy anche nelle scaffalature porta-pallet.
 - **5 o 6 slitte:** ancora più sostegno e una distribuzione del carico più uniforme. Con 6 slitte (base perimetrale) il lato inferiore è chiuso su tutto il perimetro.
 
 Volete un pallet incastrabile che diventi più stabile una volta a destinazione? Usate allora le [slitte a incastro](@acc-runners).
 
 ## Passo 6: pensate all’intera vita utile
 
-Il pallet tornerà indietro? Allora conviene un pallet più pesante che dura molti viaggi. Si tratta di un viaggio di sola andata? Allora un [pallet incastrabile](@type-nestable) leggero è la soluzione più economica. Considerate anche gli extra: un logo o un colore personalizzato (vedi [soluzioni personalizzate](@about-custom)), [sponde per pallet](@acc-collars) e [coperchi](@acc-lids), oppure [pallet usati](@used) se il budget conta.
+Il pallet tornerà indietro? Allora conviene un pallet più pesante che dura molti viaggi. Si tratta di un viaggio di sola andata? Allora un [pallet incastrabile](@type-nestable) leggero è la soluzione più economica. Considerate anche gli extra: un logo o un colore personalizzato (vedete [soluzioni personalizzate](@about-custom)), [sponde per pallet](@acc-collars) e [coperchi](@acc-lids), oppure [pallet usati](@used) se il budget conta.
 
 ## Serve aiuto?
 

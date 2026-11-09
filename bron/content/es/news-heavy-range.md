@@ -30,7 +30,7 @@ El molde de la serie QP tiene un planteamiento flexible. Con distintas opciones 
 
 Los modelos QP 1111H, 1140H y 1212H soportan 7.500 kg de carga estática y 2.000 kg de carga dinámica. En estantería soportan hasta 1.375 kg; el valor exacto depende del modelo y de la versión. Qué significan estos valores lo explicamos en nuestra página sobre [la capacidad de carga de los palets de plástico](@about-load).
 
-No se necesitan refuerzos metálicos. Esto se debe al diseño y a un plástico de alta calidad, reciclado casi al 100%. Sin metal, los palets resisten bien las condiciones duras y son fáciles de reciclar al final de su vida útil.
+No se necesitan refuerzos metálicos. Esto se debe al diseño y a un plástico casi 100% reciclado de alta calidad. Sin metal, los palets resisten bien las condiciones duras y son fáciles de reciclar al final de su vida útil.
 
 ## Un diseño para uso intensivo
 

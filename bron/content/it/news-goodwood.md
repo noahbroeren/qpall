@@ -1,7 +1,7 @@
 ---
 id: news-goodwood
 title: "In pole position al Goodwood Festival of Speed – Q-Pall"
-description: "Al Goodwood Festival of Speed le auto elettriche erano esposte sul nostro pallet in plastica Heavy QP1210 HR 5R, con un carico statico di 7.500 kg."
+description: "Al Goodwood Festival of Speed le auto elettriche erano esposte sul nostro pallet in plastica Heavy QP1210 HR 5R, con una portata statica di 7.500 kg."
 eyebrow: "Notizie"
 tag: "Evento"
 crumb: "Goodwood Festival of Speed"
@@ -15,10 +15,10 @@ updated: '2026-11-02'
 > **In breve**
 >
 > * Al Goodwood Festival of Speed le auto elettriche erano esposte su pallet in plastica Heavy di Q-Pall.
-> * Si trattava del QP1210 HR 5R, con un carico statico di 7.500 kg.
+> * Si trattava del QP1210 HR 5R, con una portata statica di 7.500 kg.
 > * Sui pallet c’erano, tra le altre, una e.GO, una Kia EV6, una Jaguar e la Rimac Nevera.
 > * I pallet sono stati forniti dal nostro partner e rivenditore britannico Goplasticpallets.com.
-> * Il pallet è realizzato in plastica riciclata.
+> * Il pallet è realizzato in plastica riciclata quasi al 100%.
 
 ## Un podio di pallet in plastica
 
@@ -30,8 +30,8 @@ Dalla e.GO e dalla Kia EV6 a una Jaguar e alla Rimac Nevera: tutte hanno preso p
 
 ## La star dello spettacolo: il QP1210 HR 5R
 
-Il QP1210 HR 5R è un [pallet in plastica Heavy](@class-heavy) da [1200 x 1000 mm](@size-1200x1000) con un carico statico di 7.500 kg. È il carico che un pallet sostiene quando è fermo su un pavimento piano. Il peso di queste auto non è stato quindi un problema per il pallet. Per saperne di più su portata statica, dinamica e su scaffale, visitate la pagina sulla [portata dei pallet in plastica](@about-load).
+Il QP1210 HR 5R è un [pallet in plastica Heavy](@class-heavy) da [1200 x 1000 mm](@size-1200x1000) con una portata statica di 7.500 kg. È il peso massimo che un pallet sostiene quando è fermo su un pavimento piano. Il peso di queste auto non è stato quindi un problema per il pallet. Per saperne di più su portata statica, dinamica e su scaffale, visitate la pagina sulla [portata dei pallet in plastica](@about-load).
 
-Il pallet è progettato per l’uso in molti settori. E poiché è realizzato in plastica riciclata, è una scelta responsabile per la vostra logistica e il vostro stoccaggio.
+Il pallet è progettato per l’uso in molti settori. E poiché è realizzato in plastica riciclata quasi al 100%, è una scelta responsabile per la vostra logistica e il vostro stoccaggio.
 
 Volete utilizzare il QP1210 HR 5R o un altro pallet Heavy? [Contattateci](@contact) per una consulenza sulla vostra applicazione.

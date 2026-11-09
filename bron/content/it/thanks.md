@@ -12,7 +12,7 @@ next:
   - when: Ora
     t: Messaggio ricevuto
     d: Il vostro messaggio è arrivato al nostro team vendite di Veghel.
-  - when: Oggi
+  - when: Oggi o il primo giorno lavorativo successivo
     t: Leggiamo la vostra domanda
     d: Un collega esperto dell’argomento esamina il vostro messaggio.
   - when: Di solito entro 1 giorno lavorativo

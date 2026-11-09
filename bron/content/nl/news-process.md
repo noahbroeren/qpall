@@ -46,15 +46,15 @@ Splinters lijken een detail. Tot iemand er een handschoen mee scheurt, een produ
 
 Houten pallets verschillen in gewicht: per stuk, per partij en per seizoen. Wie met tarra werkt, en dat doet iedereen die per gewicht factureert of vervoert, heeft daardoor een doorlopende bron van onnauwkeurigheid.
 
-Een pallet met een constant gewicht laat uw weegsysteem precies doen wat het moet doen. Geen correcties achteraf, geen marges voor onzekerheid en geen verschil tussen pakbon en weegbrug.
+Een pallet met een nagenoeg constant gewicht (binnen ±5 %) laat uw weegsysteem doen wat het moet doen. Minder correcties achteraf, kleinere marges voor onzekerheid en nauwelijks verschil tussen pakbon en weegbrug.
 
 **Wat het oplevert:** een betrouwbare tarra, voorspelbare vrachtkosten en een sluitende administratie.
 
 ## 4. Dezelfde maat, elke keer
 
-Automatisering houdt niet van variatie. Palletizers, AGV's, transportbanen en stapelinstallaties zijn afgesteld op een vaste voetafdruk. Een pallet die 4 millimeter te breed is, of waarvan een randplank is afgebroken, is voor een sensor een storing.
+Automatisering houdt niet van variatie. Palletizers, AGV's, transportbanen en stapelinstallaties zijn afgesteld op een vaste voetafdruk. Een houten pallet die een centimeter te breed is, of waarvan een randplank is afgebroken, is voor een sensor een storing.
 
-Een pallet met een identieke, blijvende maatvoering past elke keer in dezelfde mal. Dat is de basis voor een geautomatiseerd proces dat draait zonder handmatig ingrijpen. Lees meer in onze gids over [pallets voor automatisering](@guide-automation).
+Een kunststof pallet met een vaste maatvoering binnen nauwe toleranties (±5 mm) past elke keer in dezelfde mal. Dat is de basis voor een geautomatiseerd proces dat draait zonder handmatig ingrijpen. Lees meer in onze gids over [pallets voor automatisering](@guide-automation).
 
 **Wat het oplevert:** minder lijnstoringen, een hogere doorzet en lagere onderhoudskosten van uw installatie.
 
@@ -68,6 +68,6 @@ Een pallet is niet het belangrijkste onderdeel van uw logistieke keten. Maar hij
 
 De vraag is dus niet welk materiaal beter is. De vraag is welke eigenschappen uw proces nodig heeft, en wat het u oplevert als die niet langer variabel zijn.
 
-Bij Q-Pall maken we onze standaardpallets van gerecycled kunststof. Niet poreus, zonder splinters, constant in gewicht en maat, met [PPWR](@guide-ppwr)-documentatie en vrij van ISPM 15. Twijfelt u tussen hout en kunststof? Lees dan [kunststof of houten pallets](@guide-wood).
+Bij Q-Pall maken we onze standaardpallets van bijna 100% gerecycled kunststof. Niet poreus, zonder splinters, constant in gewicht en maat, met [PPWR](@guide-ppwr)-documentatie en vrij van ISPM 15. Twijfelt u tussen hout en kunststof? Lees dan [kunststof of houten pallets](@guide-wood).
 
 Wilt u weten welke pallet het best bij uw proces past? [Neem contact met ons op](@contact), dan denken we met u mee.

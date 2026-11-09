@@ -12,7 +12,7 @@ next:
   - when: Ahora
     t: Mensaje recibido
     d: Su mensaje ya está con nuestro equipo comercial en Veghel.
-  - when: Hoy
+  - when: Hoy o el siguiente día laborable
     t: Leemos su pregunta
     d: Un compañero que conoce el tema revisa su mensaje.
   - when: Normalmente en 1 día laborable

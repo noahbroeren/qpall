@@ -1,7 +1,7 @@
 ---
 id: pallets
 title: "Plastic pallets from [[from_price]] - Q-Pall"
-description: "Plastic pallets direct from the manufacturer: around 130 models, light to heavy. From [[from_price]] per pallet, excl. VAT and transport. Request a free quote."
+description: "Plastic pallets direct from the manufacturer: around 130 versions, light to heavy. From [[from_price]] excl. VAT and transport. Request a free quote."
 eyebrow: "Product range"
 h1: "Plastic pallets **direct from the manufacturer**"
 lead: "From a light nestable export pallet to a heavy racking pallet for up to 2,000 kg. Filter by size, load capacity and version. For each model you see the full specifications and, where available, a from-price."
@@ -11,7 +11,7 @@ faq:
   - q: "What is the difference between light, medium and heavy?"
     a: "Light pallets are lightweight and often nestable, intended for export and single use on the floor. Medium pallets are the all-rounders for internal transport and light racking loads. Heavy pallets have a heavier construction for intensive use, high dynamic loads and storage in pallet racking. Read more about [light](@class-light), [medium](@class-medium) and [heavy](@class-heavy)."
   - q: "Are the pallets made from recycled plastic?"
-    a: "Yes. We make our standard pallets from recycled plastic, a mix of HDPE and PP. Only our hygienic pallets are made of virgin plastic. You can read more about this on the [sustainability](@about-sustainability) page."
+    a: "Yes. We make our standard pallets from nearly 100% recycled plastic, a mix of HDPE and PP (light pallets also contain LDPE). Only our hygienic pallets are made of virgin plastic. You can read more about this on the [sustainability](@about-sustainability) page."
   - q: "How much does a plastic pallet cost?"
     a: "For most standard pallets we show an indicative from-price per unit, excluding VAT and transport. Your final price depends on quantity, production location and delivery. You will find an overview of prices per size in our [price guide for plastic pallets](@guide-prices)."
   - q: "Can I order a single pallet?"
@@ -41,7 +41,7 @@ why:
 
 ## Plastic pallets for every application
 
-Q-Pall develops and produces only plastic pallets, and has done so since 2005. You can see that focus in the range: around 130 models in nine sizes, from the compact [600 x 400 mm display pallet](@size-600x400) to the large [1300 x 1100 mm pallet for the chemical industry](@size-1300x1100). Each model is designed for a clear task: transport, storage, export, pooling or automated logistics.
+Q-Pall develops and produces only plastic pallets, and has done so since 2005. You can see that focus in the range: around 130 versions in nine sizes, from the compact [600 x 400 mm display pallet](@size-600x400) to the large [1300 x 1100 mm pallet for the chemical industry](@size-1300x1100). Each model is designed for a clear task: transport, storage, export, pooling or automated logistics.
 
 ### Choose by size first
 
@@ -53,6 +53,6 @@ Every pallet has three load values: static (on the floor), dynamic (during trans
 
 ### Open or closed deck, feet or runners
 
-An **open deck** is lighter and lets moisture and air through. A **closed deck** is easier to clean and gives small packaging a flat base. Pallets with **9 feet** are often nestable and ideal for export. Pallets with **3, 5 or 6 runners** are more stable on roller conveyors and suitable for racking.
+An **open deck** is lighter and lets moisture and air through. A **closed deck** is easier to clean and gives small packaging a flat base. Pallets with **9 feet** are often nestable and ideal for export. Pallets with **3, 5 or 6 runners** are more stable on roller conveyors; in the medium and heavy versions they are also suitable for racking.
 
 Prefer everything on paper? The [product catalogue](@catalog) shows our standard range with dimensions and load values, as a PDF to download.

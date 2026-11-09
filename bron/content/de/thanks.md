@@ -12,7 +12,7 @@ next:
   - when: Jetzt
     t: Nachricht erhalten
     d: Ihre Nachricht liegt bei unserem Vertriebsteam in Veghel.
-  - when: Heute
+  - when: Heute oder am nächsten Werktag
     t: Wir lesen Ihre Frage
     d: Ein Kollege, der sich mit dem Thema auskennt, sieht sich Ihre Nachricht an.
   - when: In der Regel innerhalb 1 Werktages

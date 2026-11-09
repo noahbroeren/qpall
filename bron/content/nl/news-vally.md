@@ -29,7 +29,7 @@ Vally is geen vreemde in de wereld van [kunststof pallets](@pallets) en kunststo
 
 Vally heeft een achtergrond in werktuigbouwkunde en jarenlange ervaring in productontwikkeling en technische operaties. Daarmee slaat hij de brug tussen wat klanten nodig hebben en wat Q-Pall maakt.
 
-In zijn nieuwe rol ondersteunt hij collega's en ons Europese salesnetwerk bij het koppelen van de juiste kunststof pallet aan de juiste toepassing. Denk aan pallets voor de voedingsmiddelenindustrie, [hygiënische pallets](@type-hygienic) voor de pharma of robuuste [heavy pallets](@class-heavy) voor zware logistiek.
+In zijn nieuwe rol ondersteunt hij collega's en ons Europese salesnetwerk bij het koppelen van de juiste kunststof pallet aan de juiste toepassing. Denk aan pallets voor de voedingsmiddelenindustrie, [hygiënische pallets](@type-hygienic) voor de farma of robuuste [heavy pallets](@class-heavy) voor zware logistiek.
 
 Wat Vally onderscheidt? Hij begrijpt zowel de techniek achter de pallet als de commerciële kant van de markt. Die combinatie kunnen we bij Q-Pall goed gebruiken.
 

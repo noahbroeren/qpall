@@ -7,16 +7,16 @@ h1: "Glossar rund um **Kunststoffpaletten**"
 lead: "Alle Begriffe, denen Sie bei der Wahl einer Kunststoffpalette begegnen, kurz und verständlich erklärt. Danach folgen die Fragen, die uns am häufigsten gestellt werden."
 faq:
   - q: "Woraus bestehen Kunststoffpaletten?"
-    a: "Q-Pall fertigt seine Paletten aus recyceltem Polyethylen (HDPE, Recyclingcode 2) und Polypropylen (PP). Nur die Hygienepaletten bestehen aus Neuware."
+    a: "Q-Pall fertigt seine Paletten aus fast 100 % recyceltem Polyethylen (HDPE, Recyclingcode 2) und Polypropylen (PP); Light-Paletten enthalten zusätzlich LDPE. Nur die Hygienepaletten bestehen aus Neuware."
   - q: "Wie werden Kunststoffpaletten hergestellt?"
     a: "Im Hochdruck-Spritzgussverfahren. Geschmolzenes Kunststoffgranulat wird in ein Stahlwerkzeug gepresst. So entsteht in einem Arbeitsgang eine vollständige, maßhaltige Palette."
   - q: "Wie viele Arten von Kunststoffpaletten gibt es?"
-    a: "Q-Pall bietet rund 130 Modelle in neun Größen, von 600 x 400 mm bis 1300 x 1100 mm, in Light, Medium und Heavy. Sehen Sie sich das [gesamte Sortiment](@pallets) an."
+    a: "Q-Pall bietet rund 130 Ausführungen in neun Größen, von 600 x 400 mm bis 1300 x 1100 mm, in Light, Medium und Heavy. Sehen Sie sich das [gesamte Sortiment](@pallets) an."
   - q: "Warum sind Kunststoffpaletten sicherer im Einsatz?"
     a: "Sie haben keine Nägel, Splitter oder losen Bretter. Sie nehmen keine Feuchtigkeit auf, schimmeln nicht und sind frei von Schädlingen, daher ist keine Behandlung nach ISPM 15 nötig. Dank ihrer festen Abmessungen verursachen sie weniger Störungen in automatisierten Systemen."
   - q: "Warum sind Kunststoffpaletten wirtschaftlich?"
     a: "Der Anschaffungspreis liegt oft höher als bei Holz, aber eine Kunststoffpalette hält viel länger. Rechnen Sie daher mit den Kosten pro Umlauf. Hinzu kommen weniger Schäden an Ladung und Maschinen, keine Reparatur- oder Behandlungskosten und ein Restwert, wenn die Palette recycelt wird. Mehr dazu in unserem [Preisratgeber](@guide-prices)."
-  - q: "Wie senken Kunststoffpaletten die CO2-Emissionen?"
+  - q: "Wie senken Kunststoffpaletten die CO₂-Emissionen?"
     a: "Ein geringeres Eigengewicht bedeutet mehr Ladung pro Fahrt und weniger Kraftstoff. Lokale Produktion verkürzt die Transportwege. Und weil die Paletten lange halten und danach recycelt werden können, wird weniger neuer Rohstoff benötigt."
   - q: "Können Sie ein Firmenlogo auf die Paletten bringen?"
     a: "Ja, per Heißprägung, Siebdruck oder mit einem Einsatz im Werkzeug. Bei größeren Projekten ist auch Ihre eigene RAL-Farbe möglich. Siehe [individuelle Anpassungen](@about-custom)."
@@ -37,7 +37,7 @@ Kunststoffpaletten mit antistatischen Additiven. Sie verhindern, dass sich die P
 ### Blockpalette
 Eine robuste Palette für den industriellen Einsatz, die Sie mit dem Gabelstapler von allen vier Seiten aufnehmen können. Siehe [Blockpaletten](@type-block).
 
-### CO2-Fußabdruck
+### CO₂-Fußabdruck
 Die Treibhausgasemissionen einer Palette über ihren kompletten Lebenszyklus (Rohstoff, Produktion und Transport), ausgedrückt in CO₂-Äquivalenten.
 
 ### CP-Palette
@@ -59,7 +59,7 @@ Klötze an der Unterseite der Palette, meist 9 Stück. Paletten mit Füßen sind
 Eine hygienische Kunststoffpalette im Europalettenformat, ursprünglich eine Poolpalette für die Fleischindustrie. Siehe [Hygienepaletten](@type-hygienic).
 
 ### HDPE und PP
-Die beiden Kunststoffe, aus denen unsere Standardpaletten bestehen: Polyethylen hoher Dichte (HDPE, Recyclingcode 2) und Polypropylen (PP). Beide lassen sich gut recyceln. Mehr zu Code 2 lesen Sie in [Recyceltes PE-HD 2: Was ist das genau?](@news-hdpe)
+Die beiden Kunststoffe, aus denen unsere Standardpaletten vor allem bestehen: Polyethylen hoher Dichte (HDPE, Recyclingcode 2) und Polypropylen (PP). Light-Paletten enthalten zusätzlich LDPE. HDPE und PP lassen sich gut recyceln. Mehr zu Code 2 lesen Sie in [Recyceltes PE-HD 2: Was ist das genau?](@news-hdpe)
 
 ### ISPM 15
 Der internationale Standard für Verpackungsmaterial aus Holz im Export. Kunststoffpaletten sind davon ausgenommen. Siehe [ISPM 15 und Export](@guide-ispm).

@@ -27,7 +27,7 @@ next:
   - when: Now
     t: Request received
     d: Your request is with our sales team in Veghel.
-  - when: Today
+  - when: Today or the next working day
     t: A specialist takes a look
     d: We choose the right pallet, check which factory has it available and find the best way to transport it.
   - when: Usually within 1 working day

@@ -49,7 +49,7 @@ Cosa significa in dettaglio per i vostri pallet lo spieghiamo nella guida [PPWR 
 
 Il PPWR fissa un limite per i metalli pesanti negli imballaggi. Piombo, cadmio, mercurio e cromo esavalente insieme non devono superare 100 mg/kg.
 
-Inoltre utilizziamo la direttiva RoHS (Restriction of Hazardous Substances) per confermare che i nostri pallet soddisfano i requisiti di questa direttiva. La RoHS limita, tra le altre, queste sostanze:
+Inoltre utilizziamo come riferimento l’elenco delle sostanze della direttiva RoHS (Restriction of Hazardous Substances). Questa direttiva è stata scritta per l’elettronica, non per gli imballaggi, ma i suoi valori limite sono una prova severa per la plastica riciclata. La RoHS limita, tra le altre, queste sostanze:
 
 * piombo (Pb), mercurio (Hg) e cadmio (Cd)
 * cromo esavalente (CrVI)
@@ -57,7 +57,7 @@ Inoltre utilizziamo la direttiva RoHS (Restriction of Hazardous Substances) per 
 
 ### Come funziona la XRF?
 
-La fluorescenza a raggi X (X-Ray Fluorescence, XRF) è un metodo rapido per misurare gli elementi in materiali come plastica, metallo o terreno. Il materiale resta intatto. La XRF misura con precisione gli elementi dal berillio (Be) all’uranio (U), fino al livello di ppm (parti per milione).
+La fluorescenza a raggi X (X-Ray Fluorescence, XRF) è un metodo rapido per misurare gli elementi in materiali come plastica, metallo o terreno. Il materiale resta intatto. La XRF misura la quantità totale di un elemento, fino al livello di ppm (parti per milione). Così vediamo subito se piombo, cadmio, mercurio, cromo o bromo si avvicinano a un valore limite. Per determinare separatamente il cromo esavalente o determinati composti del bromo serve un’analisi di laboratorio.
 
 Così verifichiamo che i nostri pallet restino entro i valori limite. Questo controllo è particolarmente importante per la plastica riciclata, perché il materiale proviene da diversi flussi di rifiuti.
 

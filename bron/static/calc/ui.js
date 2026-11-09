@@ -5,6 +5,7 @@
   var root = document.getElementById('qpc'), main = document.getElementById('qpc-main'), stepsEl = document.getElementById('qpc-steps');
   var D = {}; try { D = JSON.parse(document.getElementById('qpc-data').textContent); } catch (e) {}
   var TX = D.t || {}, NICK = D.nick || {}, CAT = D.cat || {};
+  window.QPC_T = TX;     // translated alert texts for engine.js (update 33)
   var t = function (k) { return TX[k] || k; };
   var nf = function (n) { return String(Math.round(Number(n) || 0)).replace(/\B(?=(\d{3})+(?!\d))/g, '.'); };   // 7.500 in every language, like the rest of the site
   var esc = function (x) { return String(x).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };

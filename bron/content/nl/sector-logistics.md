@@ -8,7 +8,7 @@ lead: "Een pallet is geen ladingdrager, het is een procesvariabele. In moderne m
 recommend: [qp1208hb3rr, qp1210lb9fr, qp1208mb3rr, qp1210mb3rr, qp6040mb4f, qp1208lb9fr]
 faq:
   - q: "Waarom zijn kunststof pallets beter voor automatisering?"
-    a: "Kunststof pallets hebben altijd dezelfde afmetingen en hetzelfde gewicht. Ze hebben geen losse planken of uitstekende spijkers en vervormen niet door vocht. Daardoor zijn er minder storingen op rollenbanen, in kraansystemen en bij AGV's."
+    a: "Kunststof pallets hebben vaste afmetingen en een nagenoeg constant gewicht. Ze hebben geen losse planken of uitstekende spijkers en vervormen niet door vocht. Daardoor zijn er minder storingen op rollenbanen, in kraansystemen en bij AGV's."
   - q: "Welke pallet kies ik voor een palletstelling?"
     a: "Een medium of heavy pallet met 3 onderlatten en een stellingbelasting boven het gewicht van uw lading. Lees meer over [stellingbelasting](@about-load)."
   - q: "Hoe bespaar ik op retourtransport van lege pallets?"
@@ -17,13 +17,13 @@ faq:
 
 ## De uitdaging
 
-Logistiek gaat over een efficiënte goederenstroom van productie tot consument. Ketens worden complexer, magazijnen worden slimmer en de druk om CO2 te verminderen groeit. De pallet zit in elke stap. Een pallet die net iets afwijkt, kan een hele lijn stilleggen.
+Logistiek gaat over een efficiënte goederenstroom van productie tot consument. Ketens worden complexer, magazijnen worden slimmer en de druk om CO₂ te verminderen groeit. De pallet zit in elke stap. Een pallet die net iets afwijkt, kan een hele lijn stilleggen.
 
 ## Waarom kunststof pallets?
 
 - **Langere levensduur** dan houten pallets.
 - **Lagere transportkosten** door een lager eigen gewicht.
-- **Minder brandstof en CO2**, en volledig recyclebaar.
+- **Minder brandstof en CO₂**, en volledig recyclebaar.
 - **Vaste maatvoering** voor geautomatiseerde systemen.
 - **Minder onderhoud:** geen reparaties aan losse planken.
 - **Schoon en veilig:** ze nemen geen vocht op, zijn goed te reinigen en hebben geen splinters of scherpe randen.

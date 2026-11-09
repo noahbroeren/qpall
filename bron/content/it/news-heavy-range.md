@@ -1,7 +1,7 @@
 ---
 id: news-heavy-range
 title: "Pallet Heavy serie QP: la forma segue la funzione – Q-Pall"
-description: "I pallet Heavy della serie QP portano 7.500 kg in statica, 2.000 kg in dinamica e fino a 1.375 kg su scaffale, senza alcun rinforzo metallico."
+description: "I pallet Heavy della serie QP hanno una portata statica di 7.500 kg, dinamica di 2.000 kg e su scaffale fino a 1.375 kg, senza rinforzi metallici."
 eyebrow: "Notizie"
 tag: "Prodotto"
 crumb: "Pallet Heavy serie QP"
@@ -15,7 +15,7 @@ updated: '2026-11-02'
 > **In breve**
 >
 > * Con la serie QP, Q-Pall ha ampliato la sua gamma di pallet in plastica Heavy con i modelli QP 1111H, 1140H e 1212H.
-> * I pallet portano 7.500 kg in statica, 2.000 kg in dinamica e fino a 1.375 kg su scaffale.
+> * I pallet hanno una portata statica di 7.500 kg, una portata dinamica di 2.000 kg e una portata su scaffale fino a 1.375 kg.
 > * Dimensioni: 1100 x 1100, 1140 x 1140 e 1200 x 1200 mm, tutti con un’altezza di 165 mm.
 > * Grazie al design e alla plastica riciclata non servono rinforzi metallici.
 > * Esistono versioni con tre o sei slitte e con piano aperto o chiuso.
@@ -28,7 +28,7 @@ Lo stampo della serie QP è concepito in modo flessibile. Con diverse opzioni di
 
 ## Resistenti senza metallo
 
-I modelli QP 1111H, 1140H e 1212H portano 7.500 kg in statica e 2.000 kg in dinamica. Su scaffale portano fino a 1.375 kg; il valore esatto dipende dal modello e dalla versione. Cosa significano questi valori lo spieghiamo nella pagina sulla [portata dei pallet in plastica](@about-load).
+I modelli QP 1111H, 1140H e 1212H hanno una portata statica di 7.500 kg e una portata dinamica di 2.000 kg. La portata su scaffale arriva fino a 1.375 kg; il valore esatto dipende dal modello e dalla versione. Cosa significano questi valori lo spieghiamo nella pagina sulla [portata dei pallet in plastica](@about-load).
 
 I rinforzi metallici non servono. Il merito è del design e della plastica di alta qualità, riciclata quasi al 100%. Senza metallo i pallet resistono bene alle condizioni difficili e a fine vita si riciclano facilmente.
 

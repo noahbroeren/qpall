@@ -1,16 +1,16 @@
 ---
 id: class-medium
 title: "Palettes plastique Medium – la palette polyvalente – Q-Pall"
-description: "Palettes plastique Medium : la palette polyvalente pour transport interne, distribution et rayonnage (1.375 kg). Plateau ajouré, fermé ou antidérapant."
+description: "Palettes plastique Medium : la palette polyvalente pour transport interne, distribution et rayonnage (1.375 kg). Plateau ajouré, fermé ou antidérapant."
 eyebrow: "Classe de charge Medium"
 h1: "Palettes plastique **Medium**"
-lead: "Le meilleur rapport qualité-prix pour un usage quotidien en entrepôt, en production et en distribution. [[count]] modèles Medium en sept formats."
+lead: "Le meilleur rapport qualité-prix pour un usage quotidien en entrepôt, en production et en distribution. [[count]] versions Medium en sept formats."
 faq:
-  - q: "Quelle charge supporte une palette plastique Medium ?"
+  - q: "Quelle charge supporte une palette plastique Medium ?"
     a: "Les palettes Medium supportent de 5.000 à 7.500 kg en statique et de 1.250 à 1.500 kg en dynamique. En rayonnage à palettes, la charge va de 200 kg à 1.375 kg selon le modèle. Les palettes display Medium supportent moins."
-  - q: "Puis-je utiliser une palette Medium en rayonnage ?"
-    a: "Oui, la plupart des palettes Medium sur semelles conviennent au stockage en rayonnage. Vérifiez bien la charge en rayonnage de chaque modèle : elle est de 200 à 300 kg pour certaines palettes carrées et peut atteindre 1.375 kg pour les palettes à blocs Medium."
-  - q: "Quelle différence avec une palette Heavy ?"
+  - q: "Puis-je utiliser une palette Medium en rayonnage ?"
+    a: "Oui, la plupart des palettes Medium sur semelles conviennent au stockage en rayonnage. Vérifiez bien la charge en rayonnage de chaque modèle : elle est de 200 à 300 kg pour certaines palettes carrées et peut atteindre 1.375 kg pour les palettes à blocs Medium."
+  - q: "Quelle différence avec une palette Heavy ?"
     a: "Une palette Heavy a une construction plus robuste. Elle est conçue pour des charges dynamiques plus élevées, un usage intensif et des charges plus lourdes en rayonnage. Pour en savoir plus, consultez [palettes Heavy](@class-heavy)."
 ---
 
@@ -20,10 +20,10 @@ Les palettes Medium sont les polyvalentes de notre gamme. Elles sont plus robust
 
 ## Versions
 
-- **Plateau ajouré :** léger, il laisse s’écouler l’humidité et circuler l’air autour de la charge.
-- **Plateau fermé :** plan et facile à nettoyer. Idéal pour les petits emballages.
-- **Antidérapant :** la nouvelle génération de palettes Medium dispose d’un plateau antidérapant intégré. Voir [palettes antidérapantes](@type-antislip).
-- **3, 5 ou 6 semelles :** plus il y a de semelles, meilleur est l’appui au sol et sur les convoyeurs à rouleaux.
+- **Plateau ajouré :** léger, il laisse s’écouler l’humidité et circuler l’air autour de la charge.
+- **Plateau fermé :** plan et facile à nettoyer. Idéal pour les petits emballages.
+- **Antidérapant :** depuis fin 2025, il existe des palettes Medium à plateau antidérapant intégré. Voir [palettes antidérapantes](@type-antislip).
+- **3, 5 ou 6 semelles :** plus il y a de semelles, meilleur est l’appui au sol et sur les convoyeurs à rouleaux.
 
 ## Formats
 

@@ -35,7 +35,7 @@ Per DPB contavano qualità, rapidità e l’uso di materiale riciclato. Christia
 
 Bjorn Oosterhof, cofondatore e direttore di Q-Pall, era orgoglioso dell’ordine:
 
-> «Siamo estremamente orgogliosi che, come azienda olandese, ci sia stata affidata la fiducia di sviluppare e realizzare il pallet per quasi tutta l’industria olandese delle bevande. Grazie a uno sviluppo congiunto con DPB è nato un pallet robusto, leggero ma resistente e sostenibile. Alla base ci sono state approfondite attività di ricerca e sviluppo. Inoltre, i pallet sono realizzati quasi al 100% con le cosiddette materie prime secondarie, come vecchie casse, tappi e altri rifiuti di plastica. In questo modo contribuiamo direttamente alla soluzione del problema globale della plastica. Circolare dall’inizio alla fine.»
+> «Siamo estremamente orgogliosi che, come azienda olandese, ci sia stata accordata la fiducia per sviluppare e produrre il pallet per quasi tutta l’industria olandese delle bevande. Grazie a uno sviluppo congiunto con DPB è nato un pallet robusto, leggero ma resistente e sostenibile. Alla base ci sono state approfondite attività di ricerca e sviluppo. Inoltre, i pallet sono realizzati quasi al 100% con le cosiddette materie prime secondarie, come vecchie casse, tappi e altri rifiuti di plastica. In questo modo contribuiamo direttamente alla soluzione del problema globale della plastica. Circolare dall’inizio alla fine.»
 
 ## Prodotti localmente
 
@@ -43,6 +43,6 @@ I pallet per DPB escono dal nostro stabilimento di Balk, nella provincia della F
 
 ## Informazioni su Q-Pall
 
-Dal 2005 Q-Pall produce esclusivamente pallet in plastica e fa parte di AVK Group. La sede centrale si trova a Veghel. Produciamo in sei stabilimenti in Europa: Balk, Ribe, Marktoberdorf, Nantes, Lleida e Chesterfield. La gamma comprende circa 130 modelli in nove formati. Collaboriamo inoltre con 18 rivenditori in 15 paesi in Europa e negli Stati Uniti.
+Dal 2005 Q-Pall produce esclusivamente pallet in plastica e fa parte di AVK Group. La sede centrale si trova a Veghel. Produciamo in sei stabilimenti in Europa: Balk, Ribe, Marktoberdorf, Nantes, Lleida e Chesterfield. La gamma comprende circa 130 versioni in nove formati. Collaboriamo inoltre con 18 rivenditori in 15 paesi in Europa e negli Stati Uniti.
 
 Cercate pallet per un pool o per l’industria delle bevande? [Richiedete un preventivo](@quote): di solito riceverete un prezzo su misura entro un giorno lavorativo.

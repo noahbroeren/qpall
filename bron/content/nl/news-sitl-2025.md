@@ -15,14 +15,14 @@ updated: '2026-11-02'
 >
 > * Q-Pall stond op SITL 2025 in Parijs, de vakbeurs voor transport en logistiek, samen met partner BacLand.
 > * Het thema was "Connecting Our Intelligence".
-> * We toonden ons assortiment in drie belastingklassen: light, medium en heavy.
+> * We toonden ons assortiment in drie draagklassen: light, medium en heavy.
 > * Centraal stonden slim ontwerp, gerecycled kunststof en lokale productie.
 
 ## Wat we lieten zien
 
 De logistiek verandert snel. Bedrijven zoeken slimme en duurzame oplossingen, en daar hoort ook de pallet bij. Op SITL 2025 lieten we samen met onze partner BacLand zien hoe slim ontwerp, gerecycled kunststof en lokale productie samenkomen in onze pallets.
 
-Op de stand stond ons assortiment in drie belastingklassen, van lichte pallets voor distributie tot modellen voor de zwaarste toepassingen:
+Op de stand stond ons assortiment in drie draagklassen, van lichte pallets voor distributie tot modellen voor de zwaarste toepassingen:
 
 * **Light.** [Lichte kunststof pallets](@class-light), vaak nestbaar. Voor export, eenmalig gebruik en distributie.
 * **Medium.** [Medium kunststof pallets](@class-medium) zijn de allrounders voor intern transport en lichte stellingbelasting.
@@ -30,7 +30,7 @@ Op de stand stond ons assortiment in drie belastingklassen, van lichte pallets v
 
 ## Het verhaal achter de stand
 
-Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE en PP. We produceren ze in zes fabrieken verspreid over Europa, zodat bijna elke klant binnen 600 kilometer van een fabriek zit. Matrijzen reizen, pallets niet: we plaatsen de matrijs in de fabriek die het dichtst bij de klant ligt. Lees meer over [lokaal produceren](@about-local).
+Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE en PP. We produceren ze in zes fabrieken verspreid over Europa, zodat bijna elke klant binnen 600 kilometer van een fabriek zit. Matrijzen reizen, pallets niet: we plaatsen de matrijs zo dicht mogelijk bij de klant. Lees meer over [lokaal produceren](@about-local).
 
 Bezoekers konden met ons team praten over hun eigen vraagstukken: CO₂-uitstoot verlagen, processen automatiseren of slimmer transporteren. Kunststof pallets zijn maatvast en hebben een constant gewicht. Dat maakt ze geschikt voor [automatisering en AGV's](@guide-automation).
 

@@ -35,7 +35,7 @@ Het ontwerp is strak en eenvoudig. Grote raampartijen, ruime overstekken en zonw
 
 ## Produceren dicht bij de klant
 
-Q-Pall maakt alleen kunststof pallets. Kenmerkend is dat we die zo dicht mogelijk bij de klant produceren. Niet de pallets reizen, maar de matrijzen waarmee ze worden gemaakt. We plaatsen een matrijs in de fabriek die het dichtst bij de klant ligt. Zo besparen we veel transportkilometers, kosten en CO₂-uitstoot.
+Q-Pall maakt alleen kunststof pallets. Kenmerkend is dat we die zo dicht mogelijk bij de klant produceren. Niet de pallets reizen, maar de matrijzen waarmee ze worden gemaakt. We plaatsen een matrijs zo dicht mogelijk bij de klant. Zo besparen we veel transportkilometers, kosten en CO₂-uitstoot.
 
 Een voorbeeld: worden pallets voor de Franse markt in Nederland gemaakt, dan rijden er veel volle vrachtwagens lange ritten naar het zuiden en weer terug. Gaat alleen de matrijs naar onze fabriek in Nantes, dan blijven die ritten grotendeels achterwege.
 

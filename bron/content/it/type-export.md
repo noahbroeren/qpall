@@ -9,9 +9,9 @@ faq:
   - q: "Un pallet da esportazione in plastica necessita del marchio ISPM 15?"
     a: "No. L’ISPM 15 si applica agli imballaggi in legno. I pallet in plastica ne sono esenti, quindi non dovete farli trattare né marchiare. Approfondite nella nostra [spiegazione dell’ISPM 15](@guide-ispm)."
   - q: "Qual è la differenza tra un pallet da esportazione e un europallet?"
-    a: "Europallet si riferisce al formato (1200 x 800 mm) e di solito è pensato per tornare indietro. Un pallet da esportazione è fatto per un solo viaggio: il più leggero possibile, abbastanza robusto per il trasporto e senza le complicazioni dell’ISPM 15. Un pallet in plastica da 1200 x 800 mm può essere entrambe le cose."
+    a: "Europallet si riferisce al formato (1200 x 800 mm) e di solito è pensato per tornare indietro. Un pallet da esportazione è fatto per un solo viaggio: il più leggero possibile, abbastanza robusto per il trasporto e senza trattamento ISPM 15. Un pallet in plastica da 1200 x 800 mm può essere entrambe le cose."
   - q: "I pallet da esportazione sono adatti alle scaffalature porta-pallet?"
-    a: "No. I nostri pallet da esportazione sono pallet Light per il trasporto e lo stoccaggio a terra. Sopportano fino a 2.500 kg in statica e 1.000 kg in dinamica, ma non sono pensati per lo stoccaggio su scaffale."
+    a: "No. I nostri pallet da esportazione sono pallet Light per il trasporto e lo stoccaggio a terra. Hanno una portata statica fino a 2.500 kg e una portata dinamica di 1.000 kg, ma non sono pensati per lo stoccaggio su scaffale."
   - q: "In quali formati sono disponibili i pallet da esportazione?"
     a: "Produciamo pallet da esportazione nei formati 600 x 800, 760 x 1140, 1100 x 1100, 1140 x 1140, 1200 x 800, 1200 x 1000 e 1200 x 1200 mm. Troverete quindi un formato adatto a ogni container e a ogni mercato."
 ---
@@ -26,7 +26,7 @@ Un pallet da esportazione di solito si usa una sola volta. Deve quindi essere le
 
 - **pesano poco**, da 2,7 kg per un mezzo pallet a poco più di 10 kg per un pallet 1200 x 1000 con piano chiuso e slitte. Si risparmia sui costi di trasporto, soprattutto nel trasporto aereo.
 - **sono spesso incastrabili.** Da vuoti, i modelli con 9 piedi si inseriscono l’uno nell’altro. Risparmiate molto spazio a magazzino e nel trasporto in entrata.
-- **sopportano fino a 2.500 kg in statica e 1.000 kg in dinamica**, sufficienti per la maggior parte dei carichi da esportazione.
+- **hanno una portata statica fino a 2.500 kg e dinamica di 1.000 kg**, sufficiente per la maggior parte dei carichi da esportazione.
 - **sono dimensionalmente stabili e puliti:** niente schegge, chiodi o umidità nel vostro carico.
 
 ## 9 piedi o 3 slitte?
@@ -35,4 +35,4 @@ Un pallet con **9 piedi** è il più leggero ed è incastrabile, e potete prelev
 
 ## Sostenibili, anche per l’uso singolo
 
-I nostri pallet da esportazione sono realizzati in plastica riciclata. A fine vita sono completamente riciclabili. Approfondite il nostro approccio nella pagina [sostenibilità](@about-sustainability). Scoprite anche tutti i [pallet incastrabili](@type-nestable).
+I nostri pallet da esportazione sono realizzati in plastica riciclata quasi al 100%. A fine vita sono completamente riciclabili. Approfondite il nostro approccio nella pagina [sostenibilità](@about-sustainability). Scoprite anche tutti i [pallet incastrabili](@type-nestable).

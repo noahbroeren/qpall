@@ -5,7 +5,7 @@ description: "Q-Pall designs pallets made from recycled plastic and has them pro
 hero:
   eyebrow: "Manufacturer of sustainable pallets since 2005"
   h1: "Reusable pallets made from **recycled plastic**"
-  lead: "Around 130 plastic pallet models, from nestable export pallets to heavy-duty racking pallets. Made in six European factories, never far away from you."
+  lead: "Around 130 versions of plastic pallets, from nestable export pallets to heavy-duty racking pallets. Made in six European factories, never far away from you."
   cta1: "View all plastic pallets"
   cta2: "Request a quote"
   badge: "Anti-slip medium pallets"
@@ -40,7 +40,7 @@ intro:
   strike: ["Crates.", "Bins.", "Boxes."]
   final: "Pallets."
   title: "One product. **All our attention.**"
-  text: "Most plastic packaging manufacturers spread their moulds, R&D and attention over crates, bins and containers. We put all of it into one product. That is why our range covers nine sizes, three load classes and around 130 models, and why a pallet question is never a sideline at Q-Pall."
+  text: "Most plastic packaging manufacturers spread their moulds, R&D and attention over crates, bins and containers. We put all of it into one product. That is why our range covers nine sizes, three load classes and around 130 versions, and why a pallet question is never a sideline at Q-Pall."
   points:
     - icon: "factory"
       t: "Direct from the manufacturer"
@@ -61,7 +61,7 @@ range:
   all: "View all plastic pallets"
 promo:
   title: "Medium pallets **with anti-slip**"
-  text: "The new generation of medium pallets in 1200 x 800 and 1200 x 1000 mm has an integrated anti-slip deck. Your load stays put."
+  text: "Since late 2025, medium pallets in 1200 x 800 and 1200 x 1000 mm have been available with an integrated anti-slip deck. Your load stays put."
   points: ["More safety", "Less stretch film", "Higher line speed", "Suitable for AGVs and roller conveyors"]
   cta: "View the anti-slip pallets"
   img_alt: "Medium plastic pallet with anti-slip deck"
@@ -90,7 +90,7 @@ sustain:
       d: "Sorted, cleaned and turned into recycled HDPE and PP."
     - icon: "mould"
       t: "Mould"
-      d: "Into a Q-Pall pallet, in the factory closest to you."
+      d: "Into a Q-Pall pallet, made as close to you as possible."
     - icon: "pallet"
       t: "Use"
       d: "For years. Washable, no splinters or nails and no ISPM 15 treatment."
@@ -103,16 +103,16 @@ sustain_cta:
   btn: "Talk to a specialist"
 local:
   eyebrow: "Act global, produce local"
-  title: "Six factories. **Always one nearby.**"
+  title: "Six factories. **Close to the customer.**"
   lead: "We produce in six factories across Europe and move moulds instead of pallets. That puts almost every customer within 600 kilometres of a Q-Pall factory: less transport, lower costs and less CO₂."
-  note: "Popular models are in stock at every factory, and many models are made in more than one factory. So supply keeps going, even in busy periods."
-  cta: "About producing local"
+  note: "Popular models are in stock at several locations, and some of our models are made in more than one factory. So we can keep supplying, even in busy periods."
+  cta: "About local production"
 sectors:
   eyebrow: "Sectors"
   title: "Made for **your industry**"
   lead: "From hygienic pallets for dairy to heavy CP pallets for chemicals: one specialist for every flow in your supply chain."
   tiles:
-    chemical: {sub: "CP1 to CP9, heavy and rackable", big: "CP1–CP9"}
+    chemical: {sub: "CP1, CP3, CP6 and CP9, rackable", big: "CP"}
     food: {sub: "Closed, hygienic and easy to clean", big: "HACCP"}
     pharma: {sub: "Cleanroom and GMP", big: "Clean."}
     beverage: {sub: "Ultra pallet for beverage pools"}
@@ -159,9 +159,9 @@ cases:
   items:
     - {id: news-auchan, client: "Auchan · retail, France", title: "50,000 smart Euro pallets", text: "Auchan rolled out heavy-duty Euro pallets made of recycled plastic throughout France, each with IoT technology from IBM."}
     - {id: news-mega-order, client: "Drankenpallet Beheer Nederland", title: "One million pallets from Balk", text: "The largest Dutch order since 2005: at least one million recycled plastic pallets for the beverage industry."}
-    - {id: news-stackup, client: "Kwakman Afbouw · construction", title: "70% fewer walking movements", text: "Together we developed the Stack-Up Pallet for the building site: less carrying, less waste and faster finishing work."}
+    - {id: news-stackup, client: "Kwakman Afbouw · construction", title: "70% less walking", text: "Together we developed the Stack-Up Pallet for the building site: less carrying, less waste and faster finishing work."}
     - {id: news-covid, client: "Vaccine transport · pharma", title: "Pallets for COVID vaccines", text: "Through partner Goplasticpallets.com, Q-Pall supplied the 1208 HR 5R for vaccine shipments to America, China and South Korea, among others."}
-    - {id: news-goodwood, client: "Goodwood Festival of Speed", title: "Electric cars on a pallet", text: "At the festival the heavy duty QP1210 HR 5R carried electric cars, thanks to a static load of 7,500 kg."}
+    - {id: news-goodwood, client: "Goodwood Festival of Speed", title: "Electric cars on a pallet", text: "At the festival the heavy-duty QP1210 HR 5R carried electric cars, thanks to a static load of 7,500 kg."}
     - {id: news-goplastic, client: "Goplasticpallets.com · United Kingdom", title: "Ten years of partnership", text: "In 2022, Q-Pall and its UK partner Goplasticpallets.com celebrated ten years of working together."}
 faq:
   - q: "Why choose plastic pallets?"
@@ -171,7 +171,7 @@ faq:
   - q: "What does a plastic pallet cost?"
     a: "A 600 x 400 mm display pallet costs a few euros, a nestable Euro pallet starts at around six euros and a heavy-duty pallet at around 24 euros, excluding VAT and transport. See our [price guide](@guide-prices) for all from-prices."
   - q: "How quickly can Q-Pall deliver?"
-    a: "We keep popular models in stock at every factory. The lead time depends on model, quantity and location. [Request a quote](@quote) and we will usually tell you within one working day what is possible."
+    a: "We keep popular models in stock at several locations. The lead time depends on model, quantity and location. [Request a quote](@quote) and we will usually tell you within one working day what is possible."
   - q: "Do you deliver outside the Netherlands?"
     a: "Yes. We deliver throughout Europe from our factories in the Netherlands, Denmark, Germany, France, Spain and the United Kingdom, and we work with [dealers](@dealers) in Europe and the United States."
 ---

@@ -2,7 +2,7 @@
 id: about-load
 title: "Capacidad de carga de palets: estática, dinámica, estantería"
 description: "La diferencia entre la carga estática, dinámica y en estantería de los palets de plástico. Con el método de ensayo y consejos para elegir el palet adecuado."
-eyebrow: "Base de conocimiento"
+eyebrow: "Guías"
 h1: "La capacidad de carga de los **palets de plástico**"
 lead: "Cada palet tiene tres valores de carga. Cuál cuenta para usted depende de cómo use el palet: en el suelo, en movimiento o en una estantería para palets."
 faq:

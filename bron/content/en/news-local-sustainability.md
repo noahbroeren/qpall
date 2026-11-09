@@ -13,7 +13,7 @@ faq:
 - q: "Why is local pallet production more sustainable?"
   a: "In the pallet chain, transport is the largest source of CO₂ emissions. The closer the factory is to the customer, the fewer kilometres and emissions. Almost every Q-Pall customer is within 600 kilometres of one of our six factories."
 - q: "What are Q-Pall pallets made of?"
-  a: "We make our standard pallets from almost 100% recycled plastic, a mix of HDPE (code 2) and PP (code 5). Only hygienic pallets, H1 pallets and cleanroom pallets are made from virgin (new) plastic."
+  a: "We make our standard pallets from nearly 100% recycled plastic, a mix of HDPE (code 2) and PP (code 5). Only hygienic pallets, H1 pallets and cleanroom pallets are made from virgin (new) plastic."
 - q: "What happens to a plastic pallet at the end of its life?"
   a: "Plastic pallets are fully recyclable. We take them back: pallets in good condition get a second life as used pallets, and damaged pallets are ground into raw material for new pallets."
 published: '2024-01-31'
@@ -23,7 +23,7 @@ updated: '2026-11-02'
 >
 > * In the pallet chain, transport is the largest source of CO₂ emissions. That is why we produce close to the customer.
 > * We make our pallets in six European factories. Almost every customer is within 600 kilometres of a factory.
-> * Our standard pallets are made from almost 100% recycled plastic. In 2025 we processed 34,500 tonnes of recyclate.
+> * Our standard pallets are made from nearly 100% recycled plastic. In 2025 we processed 34,500 tonnes of recyclate.
 > * We source that recyclate in the region wherever possible. That also saves on transporting raw materials.
 > * At the end of their life, we take pallets back for reuse or recycling.
 
@@ -37,13 +37,13 @@ This also counts in your own reporting. The emissions from purchased pallets and
 
 ## Moulds travel, pallets don't
 
-A mould is the tool in which we injection-mould a pallet. Instead of driving pallets across Europe, we place the mould in the factory closest to the customer. One transport of a mould replaces many trips with pallets. That is how *act global, produce local* works: one European range, made locally.
+A mould is the tool in which we injection-mould a pallet. Instead of driving pallets across Europe, we place the mould as close to the customer as possible. One transport of a mould replaces many trips with pallets. That is how *act global, produce local* works: one European range, made locally.
 
 Every year, thousands of full trucks of pallets leave our factories. If we made everything at one central location, almost every one of those trips would be much longer.
 
 ## Recycled plastic from the region
 
-We make our standard pallets from almost 100% recycled plastic: a mix of HDPE (code 2) and PP (code 5). Both are polyolefins, which behave similarly in recycling. What HDPE is exactly, you can read in [recycled PE-HD 2: what is it exactly?](@news-hdpe)
+We make our standard pallets from nearly 100% recycled plastic: a mix of HDPE (code 2) and PP (code 5). Both are polyolefins, which behave similarly in recycling. What HDPE is exactly, you can read in [recycled PE-HD 2: what is it exactly?](@news-hdpe)
 
 In 2025 we processed 34,500 tonnes of recyclate, around 1,475 full trucks. That is plastic that got a new life as a pallet. We source it close to our factories wherever possible. That has two advantages:
 

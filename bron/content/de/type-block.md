@@ -4,14 +4,14 @@ title: "Kunststoff-Blockpaletten 1200 x 1000 mm – Q-Pall"
 description: "Kunststoff-Blockpaletten 1200 x 1000 mm: robust, vierseitig unterfahrbar und regaltauglich bis 1.375 kg. Medium und Heavy, offenes oder geschlossenes Deck."
 eyebrow: "Industrie und Regallagerung"
 h1: "**Blockpaletten** aus Kunststoff"
-lead: "Stabile Paletten 1200 x 1000 mm für intensiven Einsatz, Palettenregale und Automatisierung. Mit [[count]] Modellen in Medium und Heavy."
+lead: "Stabile Paletten 1200 x 1000 mm für intensiven Einsatz, Palettenregale und Automatisierung. Mit [[count]] Ausführungen in Medium und Heavy."
 faq:
   - q: "Was ist eine Blockpalette?"
     a: "Eine Blockpalette ist eine stabile Palette, die auf Klötzen oder Kufen steht und mit dem Gabelstapler von allen vier Seiten aufgenommen werden kann. Blockpaletten aus Kunststoff gibt es mit offenem oder geschlossenem Deck und mit 3, 5 oder 6 Kufen."
   - q: "Sind Kunststoff-Blockpaletten für Palettenregale geeignet?"
     a: "Ja. Unsere Medium-Blockpaletten tragen im Regal 750 bis 1.375 kg, die Heavy-Blockpaletten 1.250 bis 1.375 kg. Wählen Sie immer ein Modell mit einer Regalbelastung, die über dem Gewicht Ihrer Ladung liegt."
   - q: "Welche Blockpalette hat Antirutsch?"
-    a: "Die neuen Medium-Blockpaletten mit geschlossenem Deck gibt es auch mit Antirutsch, auf 3 oder 5 Kufen. Sehen Sie sich die [Antirutsch-Paletten](@type-antislip) an."
+    a: "Die Medium-Blockpaletten mit geschlossenem Deck gibt es auch mit Antirutsch, auf 3 oder 5 Kufen. Sehen Sie sich die [Antirutsch-Paletten](@type-antislip) an."
 ---
 
 ## Stabil, maßhaltig und vierseitig unterfahrbar

@@ -1,7 +1,7 @@
 ---
 id: about-sustainability
 title: "Duurzaamheid: pallets van gerecycled kunststof – Q-Pall"
-description: "Q-Pall maakt pallets van bijna 100% gerecycled kunststof, produceert lokaal en sluit de kringloop. Lees hoe we CO2-uitstoot en afval verminderen."
+description: "Q-Pall maakt pallets van bijna 100% gerecycled kunststof, produceert lokaal en sluit de kringloop. Lees hoe we CO₂-uitstoot en afval verminderen."
 eyebrow: "Duurzaamheid"
 h1: "Duurzaam **van grondstof tot recycling**"
 lead: "Duurzaamheid zit in ons DNA. Onze standaardpallets maken we van bijna 100% gerecycled kunststof, we produceren dicht bij onze klanten en aan het einde van hun levensduur worden de pallets weer grondstof."
@@ -9,15 +9,15 @@ lead: "Duurzaamheid zit in ons DNA. Onze standaardpallets maken we van bijna 100
 
 ## Gerecycled kunststof als grondstof
 
-Onze standaardpallets maken we van gerecycled kunststof, een mix van HDPE en PP. Dat materiaal komt uit afvalstromen van onder meer kratten, doppen en verpakkingen. Werken met recyclaat vraagt veel kennis, want het gedraagt zich anders dan nieuw (virgin) kunststof. Die kennis hebben we sinds 2005 opgebouwd. Wat HDPE met code 2 precies is, leest u in [gerecycled PE-HD 2: wat is het precies?](@news-hdpe) Het resultaat: pallets die doen wat ze moeten doen, met voor elk model vaste [belastingwaarden](@about-load).
+Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE en PP (in light pallets ook LDPE). Dat materiaal komt uit afvalstromen van onder meer kratten, doppen en verpakkingen. Werken met recyclaat vraagt veel kennis, want het gedraagt zich anders dan nieuw (virgin) kunststof. Die kennis hebben we sinds 2005 opgebouwd. Wat HDPE met code 2 precies is, leest u in [gerecycled PE-HD 2: wat is het precies?](@news-hdpe) Het resultaat: pallets die doen wat ze moeten doen, met voor elk model vaste [belastingwaarden](@about-load).
 
-Alleen onze [hygiënische pallets](@type-hygienic) maken we van virgin kunststof, voor toepassingen met direct contact met levensmiddelen. Alle andere Q-Pall pallets zijn van gerecycled kunststof.
+Alleen onze [hygiënische pallets](@type-hygienic) maken we van virgin kunststof, voor toepassingen met direct contact met levensmiddelen. Alle andere Q-Pall pallets zijn van bijna 100% gerecycled kunststof.
 
 ## Uw eigen kunststofafval als grondstof
 
 We kijken ook naar de kunststofafvalstromen van onze klanten. Waar mogelijk verwerken we ingezameld plastic tot grondstof voor nieuwe pallets. Zo sluiten we samen de kringloop. Neem [contact](@contact) met ons op als u wilt weten wat er met uw afvalstroom mogelijk is.
 
-## Minder transport, minder CO2
+## Minder transport, minder CO₂
 
 In de palletbranche komt het grootste deel van de CO₂-uitstoot van transport. Een vrachtwagen vol pallets vervoert vooral lucht. Daarom produceren we [lokaal](@about-local), in zes fabrieken verspreid over Europa. Bijna elke klant zit binnen 600 kilometer van een Q-Pall-fabriek. Bovendien zijn kunststof pallets lichter dan veel houten pallets. Een lager eigen gewicht betekent meer lading per rit en minder brandstof.
 
@@ -32,3 +32,7 @@ Onze duurzaamheidsprestaties worden onafhankelijk beoordeeld door EcoVadis. In a
 ## Pallets with a purpose
 
 Zo werken we elke dag aan pallets die een verschil maken. Voor uw logistiek en voor de planeet. Lees ook ons artikel over [kunststof of houten pallets](@guide-wood).
+
+## Terugname van pallets
+
+Zijn uw Q-Pall pallets aan het einde van hun leven, of zijn ze beschadigd? Dan nemen we ze terug. We vermalen ze tot nieuwe grondstof voor nieuwe pallets, zodat het kunststof in de kringloop blijft. Hoe de terugname gaat en wat erbij komt kijken, hangt af van het aantal pallets en waar ze staan. [Neem contact met ons op](@contact), dan bespreken we de mogelijkheden.

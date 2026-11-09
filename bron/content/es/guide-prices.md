@@ -2,10 +2,10 @@
 id: guide-prices
 tag: "Compra y precios"
 title: "¿Cuánto cuesta un palet de plástico? Precios 2026 por medida"
-description: "¿Cuánto cuesta un palet de plástico en 2026? Precios desde por medida y clase de carga, del palet expositor al más resistente, y qué determina el precio."
+description: "¿Cuánto cuesta un palet de plástico en 2026? Precios de partida por medida y clase de carga, del expositor al más resistente, y qué determina el precio."
 eyebrow: "Guía de precios 2026"
 h1: "¿Cuánto cuesta un **palet de plástico**?"
-lead: "Un palet de plástico cuesta desde unos pocos euros, en el caso de un palet expositor, hasta más de 50 €, en el de un palet de alta resistencia con superficie cerrada. A continuación puede ver los precios desde por medida y clase de carga, y qué determina el precio."
+lead: "Un palet de plástico cuesta desde unos pocos euros, en el caso de un palet expositor, hasta más de 50 €, en el de un palet de alta resistencia con superficie cerrada. Aquí encontrará los precios de partida por medida y clase de carga, y qué determina el precio."
 reading: 5
 faq:
   - q: "¿Cuánto cuesta un europalet de plástico?"
@@ -13,12 +13,12 @@ faq:
   - q: "¿Es un palet de plástico más caro que uno de madera?"
     a: "Por unidad, un palet de plástico suele ser más caro. Pero dura mucho más, no daña su carga y no hay que repararlo ni tratarlo. Por eso, el plástico suele salir más barato por viaje. Lea también [palets de plástico o de madera](@guide-wood)."
   - q: "¿Los precios incluyen el transporte?"
-    a: "No. Los precios mostrados son precios desde orientativos por unidad, con IVA no incluido y sin transporte. Como producimos en seis fábricas europeas, la distancia hasta usted suele ser corta. Así los costes de transporte se mantienen bajos."
+    a: "No. Los precios mostrados son precios de partida orientativos por unidad, con IVA no incluido y sin transporte. Como producimos en seis fábricas europeas, la distancia hasta usted suele ser corta. Así los costes de transporte se mantienen bajos."
   - q: "¿Obtengo descuento por cantidades mayores?"
     a: "Su precio depende de la cantidad y de la forma de entrega, por ejemplo por pila o por camión completo. Solicite un presupuesto para obtener un precio a medida."
 ---
 
-## Precios desde por medida y clase de carga
+## Precios de partida por medida y clase de carga
 
 La tabla muestra el precio de tarifa más bajo por unidad según nuestra lista de precios, con IVA no incluido y sin transporte. Haga clic en una medida para ver todos los modelos y precios.
 
@@ -50,4 +50,4 @@ Un palet de madera parece barato. Pero si se rompe tras unos pocos viajes, deja 
 
 ## Obtenga ya un precio a medida
 
-Los precios desde le dan una buena primera indicación. Para un precio exacto con entrega en su ubicación, [solicite un presupuesto](@quote). Solemos responder en un día laborable.
+Los precios de partida le dan una buena primera indicación. Para un precio exacto con entrega en su ubicación, [solicite un presupuesto](@quote). Solemos responder en un día laborable.

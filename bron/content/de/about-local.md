@@ -1,19 +1,19 @@
 ---
 id: about-local
 title: "Lokale Produktion in 6 europäischen Werken – Q-Pall"
-description: "Q-Pall fertigt Kunststoffpaletten in Balk, Ribe, Marktoberdorf, Nantes, Lleida und Chesterfield. Im Umkreis von 600 km: weniger Transport und CO2."
+description: "Q-Pall fertigt Kunststoffpaletten in Balk, Ribe, Marktoberdorf, Nantes, Lleida und Chesterfield. Im Umkreis von 600 km: weniger Transport und CO₂."
 eyebrow: "Act global, produce local"
 h1: "Lokale **Produktion**"
-lead: "Wir produzieren in sechs Werken, verteilt über ganz Europa. Dadurch sind wir fast immer weniger als 600 Kilometer von unseren Kunden entfernt. Das spart Transport, Kosten und CO2."
+lead: "Wir produzieren in sechs Werken, verteilt über ganz Europa. Dadurch sind wir fast immer weniger als 600 Kilometer von unseren Kunden entfernt. Das spart Transport, Kosten und CO₂."
 ---
 
 ## Warum lokal produzieren?
 
-Ein durchschnittlicher Lkw transportiert rund 500 Paletten. Über lange Strecken heißt das vor allem: Luft transportieren. Der Transport ist die größte Quelle von CO2-Emissionen in der Palettenkette. Je näher wir bei Ihnen produzieren, desto weniger Transportkilometer sind nötig.
+Ein durchschnittlicher Lkw transportiert rund 500 Paletten. Über lange Strecken heißt das vor allem: Luft transportieren. Der Transport ist die größte Quelle von CO₂-Emissionen in der Palettenkette. Je näher wir bei Ihnen produzieren, desto weniger Transportkilometer sind nötig.
 
 ## Werkzeuge reisen, Paletten nicht
 
-Ein Werkzeug ist die Form, in der wir eine Palette spritzgießen. Statt Paletten quer durch Europa zu fahren, setzen wir das Werkzeug in dem Werk ein, das Ihnen am nächsten liegt. Ein einziger Werkzeugtransport spart so viele Lkw-Ladungen Paletten. Das meinen wir mit *act global, produce local*: ein europäisches Sortiment, lokal gefertigt.
+Ein Werkzeug ist die Form, in der wir eine Palette spritzgießen. Statt Paletten quer durch Europa zu fahren, setzen wir das Werkzeug so nah wie möglich beim Kunden ein. Ein einziger Werkzeugtransport spart so viele Lkw-Ladungen Paletten. Das meinen wir mit *act global, produce local*: ein europäisches Sortiment, lokal gefertigt.
 
 ## Unsere Produktionsstandorte
 
@@ -29,9 +29,9 @@ Unser Hauptsitz, unser europäisches Operations-Center und unser Lager befinden 
 ## Was das für Sie bedeutet
 
 - **Niedrigere Transportkosten.** Sie zahlen weniger für den Transport, weil die Strecke kurz ist.
-- **Weniger CO2.** Weniger Kilometer bedeuten geringere Emissionen in Ihrem Scope 3.
-- **Schnelle Lieferung.** Die gefragtesten Modelle haben wir in jedem Werk auf Lager.
-- **Liefersicherheit.** Für viele Werkzeuge haben wir einen zweiten Produktionsstandort. Fällt irgendwo eine Maschine aus, läuft Ihre Lieferung einfach weiter.
+- **Weniger CO₂.** Weniger Kilometer bedeuten geringere Emissionen in Ihrem Scope 3.
+- **Schnelle Lieferung.** Die gefragtesten Modelle haben wir an mehreren Standorten auf Lager.
+- **Liefersicherheit.** Einen Teil unserer Modelle fertigen wir an mehreren Standorten. Fällt irgendwo eine Maschine aus, können wir diese Modelle aus einem anderen Werk liefern.
 - **Rohstoff aus der Region.** Recycelten Kunststoff beziehen wir so weit wie möglich aus dem Umland des Werks.
 
 ## Individuelle Lösungen in Ihrer Nähe

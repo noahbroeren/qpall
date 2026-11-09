@@ -32,7 +32,7 @@ La portata su scaffale è il peso massimo che un pallet sostiene in una scaffala
 
 [[loadill:racking]]
 
-## Come testa Q-Pall i valori di carico?
+## Come testa Q-Pall i valori di portata?
 
 Determiniamo la portata su scaffale con una prova con sacchi da 25 kg su una scaffalatura porta-pallet convenzionale: il pallet appoggia con le sue slitte sui due correnti, senza ripiano sottostante.
 

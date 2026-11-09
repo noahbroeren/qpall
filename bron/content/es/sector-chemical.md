@@ -25,7 +25,7 @@ Los productos químicos se transportan a menudo en sacos, big bags, octabins o b
 - **Sin clavos ni astillas.** Su embalaje se mantiene intacto y su producto, limpio.
 - **Dimensionalmente estables y con un peso constante.** Ideales para robots paletizadores y transportadores de rodillos.
 - **Tan resistentes como la madera**, pero con una vida útil mucho más larga.
-- **Circulares:** fabricados con plástico reciclado y totalmente reciclables al final de su vida útil.
+- **Circulares:** fabricados con plástico casi 100% reciclado y totalmente reciclables al final de su vida útil.
 
 ## Nuestros palets recomendados
 

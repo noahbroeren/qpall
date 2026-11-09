@@ -35,7 +35,7 @@ The design is clean and simple. Large windows, generous overhangs and sun shadin
 
 ## Producing close to the customer
 
-Q-Pall makes only plastic pallets. A key feature is that we produce them as close to the customer as possible. It is not the pallets that travel, but the moulds used to make them. We place a mould in the factory closest to the customer. This saves a great many transport kilometres, costs and CO₂ emissions.
+Q-Pall makes only plastic pallets. A key feature is that we produce them as close to the customer as possible. It is not the pallets that travel, but the moulds used to make them. We place each mould in a factory near the customer. This saves a great many transport kilometres, costs and CO₂ emissions.
 
 An example: if pallets for the French market are made in the Netherlands, many full trucks have to make long journeys south and back again. If only the mould goes to our factory in Nantes, most of those journeys are no longer needed.
 

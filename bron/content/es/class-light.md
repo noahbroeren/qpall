@@ -4,7 +4,7 @@ title: "Palets de plástico Light – ligeros y encajables – Q-Pall"
 description: "Palets de plástico Light para exportación y un solo uso: ligeros, a menudo encajables, hasta 2.500 kg en estática y 1.000 kg en dinámica. En 7 medidas."
 eyebrow: "Clase de carga Light"
 h1: "Palets de plástico **Light**"
-lead: "Los palets más ligeros de nuestra gama, pensados para la exportación, los envíos puntuales y el almacenaje en suelo. Hay [[count]] modelos Light, desde [[price_from]] por unidad."
+lead: "Los palets más ligeros de nuestra gama, pensados para la exportación, los envíos puntuales y el almacenaje en suelo. Hay [[count]] versiones Light, desde [[price_from]] por unidad."
 faq:
   - q: "¿Cuánto soporta un palet de plástico Light?"
     a: "La mayoría de los palets Light soportan 2.500 kg en estática y 1.000 kg en dinámica. El palet expositor Light de 600 x 800 mm soporta 500 kg en estática. Los palets Light no están pensados para estanterías para palets."

@@ -12,7 +12,7 @@ next:
   - when: Now
     t: Message received
     d: Your message is with our sales team in Veghel.
-  - when: Today
+  - when: Today or the next working day
     t: We read your question
     d: A colleague who knows the subject looks at your message.
   - when: Usually within 1 working day

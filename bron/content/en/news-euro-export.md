@@ -76,7 +76,7 @@ A 1200 x 800 mm pallet can also be an export pallet. It is then not an official 
 
 ### Food and pharmaceuticals
 
-Our export pallets are made from recycled plastic. They are easy to clean and contain no organic residues, but they are not intended for direct contact with food. For applications with strict hygiene requirements, such as in the food and pharmaceutical industries, we offer [hygienic pallets](@type-hygienic) made from virgin plastic.
+Our export pallets are made from nearly 100% recycled plastic. They are easy to clean and contain no organic residues, but they are not intended for direct contact with food. For applications with strict hygiene requirements, such as in the food and pharmaceutical industries, we offer [hygienic pallets](@type-hygienic) made from virgin plastic.
 
 ## The best of both worlds
 

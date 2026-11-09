@@ -35,7 +35,7 @@ Das Design ist geradlinig und schlicht. Große Fensterflächen, weite Auskragung
 
 ## Produktion nah am Kunden
 
-Q-Pall stellt ausschließlich Kunststoffpaletten her. Kennzeichnend ist, dass wir sie so nah wie möglich am Kunden produzieren. Nicht die Paletten reisen, sondern die Formen, mit denen sie hergestellt werden. Wir setzen eine Form in dem Werk ein, das dem Kunden am nächsten liegt. So sparen wir viele Transportkilometer, Kosten und CO₂-Emissionen.
+Q-Pall stellt ausschließlich Kunststoffpaletten her. Kennzeichnend ist, dass wir sie so nah wie möglich am Kunden produzieren. Nicht die Paletten reisen, sondern die Formen, mit denen sie hergestellt werden. Wir setzen eine Form so nah wie möglich beim Kunden ein. So sparen wir viele Transportkilometer, Kosten und CO₂-Emissionen.
 
 Ein Beispiel: Werden Paletten für den französischen Markt in den Niederlanden hergestellt, müssen viele volle Lkw lange Strecken nach Süden und wieder zurück fahren. Geht nur die Form in unser Werk in Nantes, entfallen diese Fahrten größtenteils.
 

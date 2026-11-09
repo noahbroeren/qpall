@@ -64,7 +64,7 @@ Read more about the differences in [plastic or wooden pallets](@guide-wood).
 
 ## Hygienic pallet or recycled plastic pallet?
 
-We make our standard pallets from recycled plastic. They are a sustainable choice for packaged products, where the pallet does not come into direct contact with the food. They are not intended for direct contact with food.
+We make our standard pallets from nearly 100% recycled plastic. They are a sustainable choice for packaged products, where the pallet does not come into direct contact with the food. They are not intended for direct contact with food.
 
 Does the food sit directly on the pallet? Then choose a [hygienic pallet](@type-hygienic). We make these from virgin (new) plastic, in a colour of their own.
 

@@ -5,7 +5,7 @@ description: "Q-Pall entwickelt Paletten aus recyceltem Kunststoff und lässt si
 hero:
   eyebrow: "Hersteller nachhaltiger Paletten seit 2005"
   h1: "Mehrwegpaletten aus **recyceltem Kunststoff**"
-  lead: "Rund 130 Modelle Kunststoffpaletten, von nestbaren Einwegpaletten bis zu Schwerlast-Regalpaletten. Gefertigt in sechs europäischen Werken – nie weit von Ihnen entfernt."
+  lead: "Rund 130 Ausführungen an Kunststoffpaletten, von nestbaren Einwegpaletten bis zu Schwerlast-Regalpaletten. Gefertigt in sechs europäischen Werken – nie weit von Ihnen entfernt."
   cta1: "Alle Kunststoffpaletten ansehen"
   cta2: "Angebot anfordern"
   badge: "Medium-Paletten in Antirutsch-Ausführung"
@@ -40,7 +40,7 @@ intro:
   strike: ["Kisten.", "Behälter.", "Boxen."]
   final: "Paletten."
   title: "Ein Produkt. **Volle Aufmerksamkeit.**"
-  text: "Die meisten Hersteller von Kunststoffverpackungen verteilen ihre Werkzeuge, ihre Entwicklung und ihre Aufmerksamkeit auf Kisten, Behälter und Container. Wir stecken alles in ein einziges Produkt. Deshalb umfasst unser Sortiment neun Größen, drei Lastklassen und rund 130 Modelle – und deshalb ist eine Palettenfrage bei Q-Pall nie Nebensache."
+  text: "Die meisten Hersteller von Kunststoffverpackungen verteilen ihre Werkzeuge, ihre Entwicklung und ihre Aufmerksamkeit auf Kisten, Behälter und Container. Wir stecken alles in ein einziges Produkt. Deshalb umfasst unser Sortiment neun Größen, drei Lastklassen und rund 130 Ausführungen – und deshalb ist eine Palettenfrage bei Q-Pall nie Nebensache."
   points:
     - icon: "factory"
       t: "Direkt vom Hersteller"
@@ -61,7 +61,7 @@ range:
   all: "Alle Kunststoffpaletten ansehen"
 promo:
   title: "Medium-Paletten **mit Antirutsch-Deck**"
-  text: "Die neue Generation Medium-Paletten in 1200 x 800 und 1200 x 1000 mm hat ein integriertes Antirutsch-Deck. Ihre Ladung bleibt, wo sie hingehört."
+  text: "Seit Ende 2025 gibt es Medium-Paletten in 1200 x 800 und 1200 x 1000 mm mit integriertem Antirutsch-Deck. Ihre Ladung bleibt, wo sie hingehört."
   points: ["Mehr Sicherheit", "Weniger Stretchfolie", "Höhere Liniengeschwindigkeit", "Geeignet für AGVs und Rollenbahnen"]
   cta: "Antirutsch-Paletten ansehen"
   img_alt: "Medium-Kunststoffpalette mit Antirutsch-Deck"
@@ -90,7 +90,7 @@ sustain:
       d: "Sortiert, gereinigt und zu recyceltem HDPE und PP verarbeitet."
     - icon: "mould"
       t: "Formen"
-      d: "Zu einer Q-Pall-Palette, im Werk, das Ihnen am nächsten liegt."
+      d: "Zu einer Q-Pall-Palette, gefertigt möglichst nah bei Ihnen."
     - icon: "pallet"
       t: "Nutzen"
       d: "Jahrelang. Waschbar, ohne Splitter oder Nägel und ohne Behandlung nach ISPM 15."
@@ -103,16 +103,16 @@ sustain_cta:
   btn: "Mit einem Spezialisten sprechen"
 local:
   eyebrow: "Act global, produce local"
-  title: "Sechs Werke. **Immer eines in Ihrer Nähe.**"
+  title: "Sechs Werke. **Nah beim Kunden.**"
   lead: "Wir produzieren in sechs Werken in ganz Europa und transportieren Werkzeuge statt Paletten. So liegt fast jeder Kunde weniger als 600 Kilometer von einem Q-Pall-Werk entfernt: weniger Transport, niedrigere Kosten und weniger CO₂."
-  note: "Gängige Modelle sind in jedem Werk auf Lager, und viele Modelle werden in mehr als einem Werk gefertigt. So bleibt die Versorgung auch in Spitzenzeiten gesichert."
+  note: "Gängige Modelle sind an mehreren Standorten auf Lager, und einen Teil unserer Modelle fertigen wir in mehr als einem Werk. So können wir auch in Spitzenzeiten liefern."
   cta: "Mehr zur lokalen Produktion"
 sectors:
   eyebrow: "Branchen"
   title: "Gemacht für **Ihre Branche**"
   lead: "Von Hygienepaletten für Molkereien bis zu schweren CP-Paletten für die Chemie: ein Spezialist für jeden Warenstrom in Ihrer Lieferkette."
   tiles:
-    chemical: {sub: "CP1 bis CP9, schwer und regaltauglich", big: "CP1–CP9"}
+    chemical: {sub: "CP1, CP3, CP6 und CP9, regaltauglich", big: "CP"}
     food: {sub: "Geschlossen, hygienisch und leicht zu reinigen", big: "HACCP"}
     pharma: {sub: "Reinraum und GMP", big: "Rein."}
     beverage: {sub: "Ultra-Palette für Getränkepools"}
@@ -131,7 +131,7 @@ about:
   cta2: "Karriere bei Q-Pall"
   img_alt: "Produktionshalle mit Spritzgießmaschinen und Robotern im Q-Pall-Werk in Balk"
 knowledge:
-  eyebrow: "Wissensdatenbank"
+  eyebrow: "Wissen"
   title: "**Clever** wählen"
 ppwr:
   eyebrow: "PPWR · EU 2025/40"
@@ -159,7 +159,7 @@ cases:
   items:
     - {id: news-auchan, client: "Auchan · Handel, Frankreich", title: "50.000 smarte Europaletten", text: "Auchan führte in ganz Frankreich Heavy-Duty-Europaletten aus recyceltem Kunststoff ein, jede mit IoT-Technologie von IBM."}
     - {id: news-mega-order, client: "Drankenpallet Beheer Nederland", title: "Eine Million Paletten aus Balk", text: "Der größte niederländische Auftrag seit 2005: mindestens eine Million Paletten aus recyceltem Kunststoff für die Getränkebranche."}
-    - {id: news-stackup, client: "Kwakman Afbouw · Bau", title: "70 % weniger Laufwege", text: "Gemeinsam haben wir die Stack-Up Pallet für die Baustelle entwickelt: weniger Schleppen, weniger Abfall und ein schnellerer Innenausbau."}
+    - {id: news-stackup, client: "Kwakman Afbouw · Bau", title: "70 % weniger Laufwege", text: "Gemeinsam haben wir die Stack-Up Palette für die Baustelle entwickelt: weniger Schleppen, weniger Abfall und ein schnellerer Innenausbau."}
     - {id: news-covid, client: "Impfstofftransport · Pharma", title: "Paletten für COVID-Impfstoffe", text: "Über den Partner Goplasticpallets.com lieferte Q-Pall die 1208 HR 5R für Impfstofftransporte unter anderem in die USA, nach China und Südkorea."}
     - {id: news-goodwood, client: "Goodwood Festival of Speed", title: "Elektroautos auf einer Palette", text: "Auf dem Festival trug die Heavy-Duty-Palette QP1210 HR 5R Elektroautos, dank einer statischen Belastbarkeit von 7.500 kg."}
     - {id: news-goplastic, client: "Goplasticpallets.com · Vereinigtes Königreich", title: "Zehn Jahre Partnerschaft", text: "2022 feierten Q-Pall und der britische Partner Goplasticpallets.com zehn Jahre Zusammenarbeit."}
@@ -171,7 +171,7 @@ faq:
   - q: "Was kostet eine Kunststoffpalette?"
     a: "Eine Displaypalette im Format 600 x 400 mm kostet wenige Euro, eine nestbare Europalette gibt es ab etwa sechs Euro und eine Schwerlastpalette ab etwa 24 Euro, jeweils zzgl. MwSt. und Transport. Alle Ab-Preise finden Sie in unserem [Preisratgeber](@guide-prices)."
   - q: "Wie schnell kann Q-Pall liefern?"
-    a: "Gängige Modelle haben wir in jedem Werk auf Lager. Die Lieferzeit hängt von Modell, Menge und Standort ab. [Fordern Sie ein Angebot an](@quote), und wir sagen Ihnen in der Regel innerhalb eines Werktags, was möglich ist."
+    a: "Gängige Modelle haben wir an mehreren Standorten auf Lager. Die Lieferzeit hängt von Modell, Menge und Standort ab. [Fordern Sie ein Angebot an](@quote), und wir sagen Ihnen in der Regel innerhalb eines Werktags, was möglich ist."
   - q: "Liefern Sie auch außerhalb der Niederlande?"
     a: "Ja. Wir liefern in ganz Europa aus unseren Werken in den Niederlanden, Dänemark, Deutschland, Frankreich, Spanien und dem Vereinigten Königreich und arbeiten mit [Händlern](@dealers) in Europa und den Vereinigten Staaten zusammen."
 ---

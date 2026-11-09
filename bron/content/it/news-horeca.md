@@ -13,7 +13,7 @@ faq:
 - q: "Perché i pallet in plastica sono adatti alla ristorazione?"
   a: "I pallet in plastica non si scheggiano, non assorbono umidità e si puliscono facilmente. Lo sporco non può annidarsi nel materiale, come accade invece con il legno poroso."
 - q: "Gli alimenti possono essere appoggiati direttamente su un pallet in plastica?"
-  a: "Per il contatto diretto con gli alimenti la norma è la plastica vergine. Per questo i nostri pallet igienici sono in plastica vergine. Gli altri nostri pallet sono in plastica riciclata e sono destinati ai prodotti confezionati."
+  a: "Per il contatto diretto con gli alimenti la norma è la plastica vergine. Per questo i nostri pallet igienici sono in plastica vergine. Gli altri nostri pallet sono in plastica riciclata quasi al 100% e sono destinati ai prodotti confezionati."
 - q: "Posso ordinare anche pochi pallet?"
   a: "Consegniamo per pila completa, ad esempio 45 pallet incastrabili o 17 pallet Medium. Ve ne servono meno? Allora può aiutarvi un [rivenditore vicino a voi](@dealers)."
 published: '2022-01-12'
@@ -43,7 +43,7 @@ Usate anche una vasca di raccolta? Raccoglie i liquidi che fuoriescono prima che
 
 ## Pallet igienici per il contatto con gli alimenti e l’HACCP
 
-Produciamo i nostri pallet standard in plastica riciclata. Sono destinati ai prodotti confezionati, non al contatto diretto con gli alimenti. Gli alimenti vengono appoggiati direttamente sul pallet, o lavorate in un ambiente HACCP con requisiti rigorosi? Scegliete allora un [pallet igienico](@type-hygienic). È realizzato in plastica vergine (nuova) ed è completamente liscio, così potete pulirlo in modo rapido e accurato.
+Produciamo i nostri pallet standard in plastica riciclata quasi al 100%. Sono destinati ai prodotti confezionati, non al contatto diretto con gli alimenti. Gli alimenti vengono appoggiati direttamente sul pallet, o lavorate in un ambiente HACCP con requisiti rigorosi? Scegliete allora un [pallet igienico](@type-hygienic). È realizzato in plastica vergine (nuova) ed è completamente liscio, così potete pulirlo in modo rapido e accurato.
 
 ## Dal pallet al contenitore chiuso
 

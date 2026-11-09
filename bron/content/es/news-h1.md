@@ -74,7 +74,7 @@ Un palet que no absorbe humedad y se limpia fácilmente ayuda a reducir esos rie
 
 La madera es porosa. Absorbe humedad y ofrece a plagas e insectos un lugar donde anidar. Los palets de madera también pueden astillarse, y las astillas son precisamente lo que no quiere cerca de los alimentos.
 
-El plástico no es poroso y no se astilla. Un palet H1 no tiene clavos y es totalmente liso. Así, la suciedad encuentra pocos lugares donde quedarse y usted limpia el palet de forma rápida y a fondo.
+El plástico no es poroso y no se astilla. Un palet H1 no tiene clavos y es totalmente liso. Así, la suciedad encuentra pocos lugares donde quedarse y el palet se limpia de forma rápida y a fondo.
 
 Descubra cómo en [limpiar palets de plástico](@news-cleaning).
 

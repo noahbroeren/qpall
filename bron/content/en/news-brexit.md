@@ -50,13 +50,13 @@ What this means for you in trade with the UK:
 * **No delays caused by the pallet.** A plastic pallet will not be rejected for a missing or incorrect stamp.
 * **Light and often nestable.** Our [export pallets](@type-export) carry up to 2,500 kg static and nest inside each other when empty.
 * **The right size.** The [1200 x 1000 mm](@size-1200x1000) industrial pallet is common in the UK.
-* **Circular.** Our standard pallets are made from recycled plastic and are fully recyclable at the end of their life.
+* **Circular.** Our standard pallets are made from nearly 100% recycled plastic and are fully recyclable at the end of their life.
 
 ## Q-Pall also produces in the UK
 
 Q-Pall makes plastic pallets in six factories: Balk (the Netherlands), Ribe (Denmark), Marktoberdorf (Germany), Nantes (France), Lleida (Spain) and Chesterfield (United Kingdom). Almost every customer is within 600 kilometres of one of our factories.
 
-Our approach: moulds travel, pallets do not. We place the mould in the factory closest to the customer. For customers in the UK, that can be the factory in Chesterfield: short transport distances and no border crossing for the pallets themselves. Read more about [local production](@about-local).
+Our approach: moulds travel, pallets do not. We place the mould as close to the customer as possible. For customers in the UK, that can be the factory in Chesterfield: short transport distances and no border crossing for the pallets themselves. Read more about [local production](@about-local).
 
 Do you need smaller quantities? Then you can turn to a [dealer near you](@dealers). In the UK, our partners include the dealer Goplasticpallets.com.
 

@@ -36,4 +36,4 @@ Nos palettes plastique se sont vu confier le transport des vaccins. Lorsque d’
 
 En partie grâce à la rapidité de livraison et à la bonne spécification de la palette, les vaccins ont pu être distribués rapidement dans le monde entier. Nous en sommes fiers.
 
-Vous cherchez une palette qui doit répondre à des exigences spécifiques ? [Contactez-nous](@contact) : nous examinerons volontiers quel modèle convient à votre application.
+Vous cherchez une palette qui doit répondre à des exigences spécifiques ? [Contactez-nous](@contact) : nous examinerons volontiers quel modèle convient à votre application.

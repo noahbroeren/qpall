@@ -22,11 +22,11 @@ updated: '2026-11-02'
 > **En resumen**
 >
 > * Los palets antideslizantes no son una obligación legal.
-> * Sin embargo, la carga debe mantenerse estable sobre el palet durante el transporte y el almacenamiento. Usted es responsable de ello.
+> * Sin embargo, la carga debe mantenerse estable sobre el palet durante el transporte y el almacenamiento. La responsabilidad es suya.
 > * El antideslizante ayuda sobre todo con envases lisos, cargas valiosas o peligrosas y procesos rápidos con transportadores de rodillos o AGV.
 > * Q-Pall tiene palets antideslizantes en su gama estándar: palets Medium de 1200 x 800 y 1200 x 1000 mm y el Ultra pallet Heavy.
 
-Un palet debe hacer que la mercancía llegue intacta. Pero si se coloca encima una carga lisa, esta puede desplazarse durante el transporte o el almacenamiento. Eso provoca daños y, con algunos productos, pueden liberarse sustancias peligrosas para la salud. Un palet antideslizante ayuda a evitarlo. Pero ¿está usted obligado a utilizar palets antideslizantes?
+Un palet debe hacer que la mercancía llegue intacta. Pero si se coloca encima una carga lisa, esta puede desplazarse durante el transporte o el almacenamiento. Eso provoca daños y, con algunos productos, pueden liberarse sustancias peligrosas para la salud. Un palet antideslizante ayuda a evitarlo. Pero ¿está obligado a utilizar palets antideslizantes?
 
 ## Por qué se desplaza la carga sobre un palet
 
@@ -57,7 +57,7 @@ La superficie superior de un palet antideslizante incorpora tiras de un material
 
 ## Los palets antideslizantes de Q-Pall
 
-Los palets antideslizantes forman parte de nuestra gama estándar. La nueva generación de [palets Medium antideslizantes](@type-antislip) tiene una superficie superior cerrada con tiras antideslizantes integradas:
+Los palets antideslizantes forman parte de nuestra gama estándar. Los [palets Medium antideslizantes](@type-antislip) que presentamos a finales de 2025 tienen una superficie superior cerrada con tiras antideslizantes integradas:
 
 * **1200 x 800 mm** sobre 3 patines.
 * **1200 x 1000 mm** sobre 3 o 5 patines.

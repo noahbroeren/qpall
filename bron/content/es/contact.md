@@ -17,7 +17,7 @@ faq:
   - q: "¿Puedo pedir un número pequeño de palets?"
     a: "Q-Pall suministra a empresas y vende siempre por pila completa, por ejemplo 17 palets Medium o 45 palets encajables. Los pedidos más grandes se entregan por camión completo. Para cantidades más pequeñas, le remitiremos con gusto a un [distribuidor cerca de usted](@dealers)."
   - q: "Vengo a cargar o descargar. ¿Tengo que registrarme?"
-    a: "Sí, por favor. Reserve con antelación una franja horaria en [registrar un transporte](@transport), preferiblemente al menos un día laborable antes. Así su carga estará lista y volverá pronto a la carretera."
+    a: "Sí. Reserve con antelación una franja horaria en [registrar un transporte](@transport), preferiblemente al menos un día laborable antes. Así su carga estará lista y volverá pronto a la carretera."
   - q: "Quiero trabajar en Q-Pall. ¿Dónde encuentro las vacantes?"
     a: "Todas las vacantes están en nuestra [página de empleo](@careers). ¿No hay nada que encaje con usted? Una candidatura espontánea también es bienvenida."
 ---
