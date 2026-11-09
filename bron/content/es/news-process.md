@@ -1,6 +1,6 @@
 ---
 id: news-process
-title: "El palet es una variable de proceso – Q-Pall"
+title: "4 propiedades del palet que deciden su proceso – Q-Pall"
 description: "Cuatro propiedades del palet deciden si su proceso funciona bien: no poroso, sin astillas, peso y medidas constantes. Y además, la ISPM 15."
 eyebrow: "Noticias"
 tag: "Opinión"

@@ -1,6 +1,6 @@
 ---
 id: class-heavy
-title: "Palets de plástico Heavy – hasta 2.000 kg en estantería"
+title: "Palets de plástico Heavy – para cargas pesadas – Q-Pall"
 description: "Palets de plástico Heavy: hasta 7.500 kg en estática, 2.200 kg en dinámica y hasta 2.000 kg en estantería. Abiertos o cerrados, 3 a 6 patines."
 eyebrow: "Clase de carga Heavy"
 h1: "Palets de plástico **Heavy**"

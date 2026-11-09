@@ -1,6 +1,6 @@
 ---
 id: news-process
-title: "La palette, une variable de processus – Q-Pall"
+title: "4 propriétés clés de la palette pour vos processus – Q-Pall"
 description: "Quatre propriétés de la palette décident si votre processus tourne bien : non poreuse, sans échardes, poids et dimensions constants. Et l’ISPM 15."
 eyebrow: "Actualités"
 tag: "Point de vue"

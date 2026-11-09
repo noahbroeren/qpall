@@ -1,6 +1,6 @@
 ---
 id: class-heavy
-title: "Schwerlast-Kunststoffpaletten – bis 2.000 kg Regalbelastung"
+title: "Schwerlast-Kunststoffpaletten – hoch belastbar – Q-Pall"
 description: "Schwerlast-Kunststoffpaletten: bis 7.500 kg statisch, bis 2.200 kg dynamisch und bis 2.000 kg im Regal. Offenes oder geschlossenes Deck, 3 bis 6 Kufen."
 eyebrow: "Lastklasse Heavy"
 h1: "**Schwerlast**-Kunststoffpaletten"

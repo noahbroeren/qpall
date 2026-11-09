@@ -960,3 +960,10 @@ UPDATE 39 (9 november 2026, klikbare onderlatten nestbaar, kleur displaypallets;
   opnieuw berekend (tools/calc_defaults.py), bijv. QP1208LB3RR: 1.170 / 1.430 / 328 / 846. Datasheets van de 14
   artikelen opnieuw gemaakt.
   KLEUR: QP6040MB4F, QP6080MB6FR en QP6080HB6FR zijn grijs (zoals op de foto's), via SKU_COLOUR in site_config.py.
+
+UPDATE 40 (9 november 2026) - zwakste titels verbeterd, in 6 talen (alleen de <title>, H1 en tekst ongewijzigd):
+  news           "Nieuws over kunststof pallets – Q-Pall" (merknaam stond er dubbel in)
+  news-process   "4 palleteigenschappen die uw proces bepalen – Q-Pall" (was abstract: "Een pallet is een procesvariabele")
+  type-antislip  "Antislip kunststof pallets 1200x800 en 1200x1000 – Q-Pall" (was te kort)
+  class-heavy    "Heavy duty kunststof pallets – zwaar belastbaar – Q-Pall" (zelfde patroon als light en medium, met merknaam)
+  De homepagetitel van iClicks blijft. Alle nieuwe titels <= 561 px (Arial 20 px).

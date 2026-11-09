@@ -1,6 +1,6 @@
 ---
 id: type-antislip
-title: "Palets de plástico antideslizantes – Q-Pall"
+title: "Palets de plástico antideslizantes 1200x800 y 1200x1000"
 description: "Palets de plástico antideslizantes: Medium 1200 x 800 y 1200 x 1000 con superficie antideslizante y el Ultra pallet Heavy. Más agarre, menos film."
 eyebrow: "En la gama desde finales de 2025"
 h1: "Palets de plástico **antideslizantes**"

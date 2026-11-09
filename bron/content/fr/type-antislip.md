@@ -1,6 +1,6 @@
 ---
 id: type-antislip
-title: "Palettes plastique antidérapantes – Q-Pall"
+title: "Palette plastique antidérapante 1200x800, 1200x1000 – Q-Pall"
 description: "Palettes plastique antidérapantes : Medium 1200 x 800 et 1200 x 1000 à plateau antidérapant intégré, et Ultra pallet Heavy. Plus d’adhérence, moins de film."
 eyebrow: "Dans la gamme depuis fin 2025"
 h1: "Palettes plastique **antidérapantes**"

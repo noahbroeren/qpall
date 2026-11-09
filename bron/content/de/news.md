@@ -1,6 +1,6 @@
 ---
 id: news
-title: "Aktuelles zu Kunststoffpaletten und Q-Pall – Q-Pall"
+title: "Aktuelles zu Kunststoffpaletten – Q-Pall"
 description: "Neuigkeiten von Q-Pall: neue Paletten, Kundenprojekte, Werkstoffe und Entwicklungen in Logistik, Nachhaltigkeit und Regulierung."
 eyebrow: "Aktuelles"
 h1: "Aktuelles von **Q-Pall**"

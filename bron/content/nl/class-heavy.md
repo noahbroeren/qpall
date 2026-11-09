@@ -1,6 +1,6 @@
 ---
 id: class-heavy
-title: "Heavy duty kunststof pallets – tot 2.000 kg stelling"
+title: "Heavy duty kunststof pallets – zwaar belastbaar – Q-Pall"
 description: "Heavy duty kunststof pallets: tot 7.500 kg statisch, tot 2.200 kg dynamisch en tot 2.000 kg in de stelling. Open of gesloten dek, 3 tot 6 onderlatten."
 eyebrow: "Draagklasse heavy"
 h1: "**Heavy duty** kunststof pallets"

@@ -1,6 +1,6 @@
 ---
 id: news
-title: "News about plastic pallets and Q-Pall – Q-Pall"
+title: "News about plastic pallets – Q-Pall"
 description: "The latest news from Q-Pall: new pallets, customer projects, materials and developments in logistics, sustainability and regulation."
 eyebrow: "News"
 h1: "News from **Q-Pall**"

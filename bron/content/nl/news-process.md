@@ -1,6 +1,6 @@
 ---
 id: news-process
-title: "Een pallet is een procesvariabele – Q-Pall"
+title: "4 palleteigenschappen die uw proces bepalen – Q-Pall"
 description: "Vier eigenschappen van de pallet bepalen of uw proces soepel loopt: niet poreus, geen splinters, constant gewicht en constante maat. Plus ISPM 15."
 eyebrow: "Nieuws"
 tag: "Visie"

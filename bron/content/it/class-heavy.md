@@ -1,6 +1,6 @@
 ---
 id: class-heavy
-title: "Pallet in plastica Heavy – fino a 2.000 kg su scaffale"
+title: "Pallet in plastica Heavy – per carichi pesanti – Q-Pall"
 description: "Pallet in plastica Heavy per carichi pesanti: portata statica fino a 7.500 kg, dinamica 2.200 kg, su scaffale 2.000 kg. Piano aperto o chiuso, 3–6 slitte."
 eyebrow: "Classe di portata Heavy"
 h1: "Pallet in plastica **Heavy**"

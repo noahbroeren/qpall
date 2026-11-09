@@ -1,6 +1,6 @@
 ---
 id: type-antislip
-title: "Anti-slip plastic pallets – Q-Pall"
+title: "Anti-slip plastic pallets 1200x800 and 1200x1000 – Q-Pall"
 description: "Anti-slip plastic pallets: medium 1200 x 800 and 1200 x 1000 with integrated anti-slip deck, and the heavy Ultra pallet. More grip, less stretch film."
 eyebrow: "In the range since late 2025"
 h1: "Plastic pallets **with anti-slip**"

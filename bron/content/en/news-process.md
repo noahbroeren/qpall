@@ -1,6 +1,6 @@
 ---
 id: news-process
-title: "A pallet is a process variable, not a load carrier – Q-Pall"
+title: "4 pallet properties that shape your process – Q-Pall"
 description: "Four pallet properties decide whether your process runs smoothly: non-porous, no splinters, constant weight and constant size. Plus ISPM 15."
 eyebrow: "News"
 tag: "Opinion"

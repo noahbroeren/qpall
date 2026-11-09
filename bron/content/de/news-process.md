@@ -1,6 +1,6 @@
 ---
 id: news-process
-title: "Palette: Prozessvariable statt Ladungsträger – Q-Pall"
+title: "4 Paletteneigenschaften, die Ihren Prozess prägen – Q-Pall"
 description: "Vier Eigenschaften der Palette entscheiden, ob Ihr Prozess rund läuft: nicht porös, splitterfrei, konstantes Gewicht und konstante Maße. Plus ISPM 15."
 eyebrow: "Aktuelles"
 tag: "Standpunkt"

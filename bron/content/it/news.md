@@ -1,6 +1,6 @@
 ---
 id: news
-title: "Notizie su pallet in plastica e Q-Pall – Q-Pall"
+title: "Notizie sui pallet in plastica – Q-Pall"
 description: "Le ultime notizie di Q-Pall: nuovi pallet, progetti con i clienti, materiali e novità su logistica, sostenibilità e normative di settore."
 eyebrow: "Notizie"
 h1: "Notizie da **Q-Pall**"

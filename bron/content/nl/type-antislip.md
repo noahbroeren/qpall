@@ -1,6 +1,6 @@
 ---
 id: type-antislip
-title: "Antislip kunststof pallets – Q-Pall"
+title: "Antislip kunststof pallets 1200x800 en 1200x1000 – Q-Pall"
 description: "Antislip kunststof pallets: medium 1200 x 800 en 1200 x 1000 met geïntegreerd antislipdek, en de heavy Ultra pallet. Meer grip, minder stretchfolie."
 eyebrow: "Sinds eind 2025 in het assortiment"
 h1: "Kunststof pallets **met antislip**"

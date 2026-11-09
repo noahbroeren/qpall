@@ -1,6 +1,6 @@
 ---
 id: type-antislip
-title: "Pallet in plastica antiscivolo – Q-Pall"
+title: "Pallet in plastica antiscivolo 1200x800 e 1200x1000 – Q-Pall"
 description: "Pallet in plastica antiscivolo: Medium 1200 x 800 e 1200 x 1000 con piano antiscivolo integrato e l’Ultra pallet Heavy. Più presa, meno film estensibile."
 eyebrow: "In gamma da fine 2025"
 h1: "Pallet in plastica **con superficie antiscivolo**"

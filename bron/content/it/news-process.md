@@ -1,6 +1,6 @@
 ---
 id: news-process
-title: "Il pallet è una variabile di processo – Q-Pall"
+title: "4 proprietà del pallet che incidono sul processo – Q-Pall"
 description: "Quattro proprietà del pallet decidono se il vostro processo funziona: non poroso, senza schegge, peso e misure costanti. E in più l’ISPM 15."
 eyebrow: "Notizie"
 tag: "Opinione"

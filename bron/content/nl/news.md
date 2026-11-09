@@ -1,6 +1,6 @@
 ---
 id: news
-title: "Nieuws over kunststof pallets en Q-Pall – Q-Pall"
+title: "Nieuws over kunststof pallets – Q-Pall"
 description: "Het laatste nieuws van Q-Pall: nieuwe pallets, projecten met klanten, materialen en ontwikkelingen in logistiek, duurzaamheid en regelgeving."
 eyebrow: "Nieuws"
 h1: "Nieuws van **Q-Pall**"

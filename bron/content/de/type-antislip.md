@@ -1,6 +1,6 @@
 ---
 id: type-antislip
-title: "Antirutsch-Kunststoffpaletten – Q-Pall"
+title: "Antirutsch-Kunststoffpaletten 1200x800, 1200x1000 – Q-Pall"
 description: "Antirutsch-Kunststoffpaletten: Medium 1200 x 800 und 1200 x 1000 mit Antirutsch-Deck sowie die Ultra-Palette (Heavy). Mehr Halt, weniger Stretchfolie."
 eyebrow: "Seit Ende 2025 im Sortiment"
 h1: "Kunststoffpaletten **mit Antirutsch-Funktion**"
