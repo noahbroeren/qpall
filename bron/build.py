@@ -1690,22 +1690,7 @@ def render_page(pid, lang):
         extra['product_names'] = [m['name'][lang] for m in MODELS]
         # quote form: choose by article number (every version of every pallet, then the accessories)
         # every option carries its stack size (data-stack: pallets per full stack) and its page (for the thank-you page)
-        sku2m = {x['sku']: x for x in MODELS}
-        opts, seen = [], set()
-        for m in sorted(MODELS, key=model_sort_key):
-            for v in sorted(m['variants'], key=lambda v: v['sku']):
-                if v['sku'] in seen:
-                    continue
-                seen.add(v['sku'])
-                st = STACKS.get(v['sku'])
-                a = sku2m.get(v['sku'], m)
-                opts.append({'v': f"{v['sku']} – {m['name'][lang]}", 'nl': f"{v['sku']} – {m['name']['nl']}", 'acc': False, 'stack': st['stack'] if st else 1,
-                             'url': a['url'][lang], 'img': a['img_sm']})
-        um = MODEL_BY_ID[ULTRA_MODELS[0]]     # Ultra pallet as one line (QP1210H), so ?sku=QP1210H from the Ultra page is recognised
-        opts.append({'v': f"{ULTRA_SKU} – Ultra pallet", 'acc': False, 'stack': (STACKS.get(um['variants'][0]['sku']) or {}).get('stack', 1),
-                     'url': url('ultra', lang), 'img': um['img_sm']})
-        opts += [{'v': f"{a['sku']} – {acc_item(a, lang)['name']}", 'nl': f"{a['sku']} – {acc_item(a, 'nl')['name']}", 'acc': True, 'stack': 1, 'url': acc_item(a, lang).get('url', ''), 'img': ''}
-                 for a in ACCS]   # accessories: per piece
+        opts = quote_options(lang)
         extra['product_opts'] = opts
         extra['stack'] = 1
         extra['t_nl'] = T['nl']   # radio values in Dutch for sales; the visitor sees the own language (update 23)
@@ -1760,6 +1745,28 @@ ACC_PHOTO = {'collar': '/assets/img/acc/photo-collar.webp', 'lid': '/assets/img/
              'grating': '/assets/img/acc/photo-grating.webp', 'grid': '/assets/img/acc/photo-grid.webp'}
 # per-article photo: input/acc-photos/<sku in lower case>.png|webp (e.g. qpfsi1208-blue.webp) wins over the kind photo
 ACC_SKU_PHOTO = {os.path.splitext(os.path.basename(f))[0] for f in glob.glob(os.path.join(INPUT, 'acc-photos', '*.*'))}
+
+
+def quote_options(lang):
+    """The quote form's product list: every version of every pallet, the Ultra pallet as one line, then the accessories.
+    Each option carries its stack size (pallets per full stack), its page and photo. Also used by the confirmation e-mail."""
+    sku2m = {x['sku']: x for x in MODELS}
+    opts, seen = [], set()
+    for m in sorted(MODELS, key=model_sort_key):
+        for v in sorted(m['variants'], key=lambda v: v['sku']):
+            if v['sku'] in seen:
+                continue
+            seen.add(v['sku'])
+            st = STACKS.get(v['sku'])
+            a = sku2m.get(v['sku'], m)
+            opts.append({'v': f"{v['sku']} – {m['name'][lang]}", 'nl': f"{v['sku']} – {m['name']['nl']}", 'acc': False, 'stack': st['stack'] if st else 1,
+                         'url': a['url'][lang], 'img': a['img_sm']})
+    um = MODEL_BY_ID[ULTRA_MODELS[0]]     # Ultra pallet as one line (QP1210H), so ?sku=QP1210H from the Ultra page is recognised
+    opts.append({'v': f"{ULTRA_SKU} – Ultra pallet", 'acc': False, 'stack': (STACKS.get(um['variants'][0]['sku']) or {}).get('stack', 1),
+                 'url': url('ultra', lang), 'img': um['img_sm']})
+    opts += [{'v': f"{a['sku']} – {acc_item(a, lang)['name']}", 'nl': f"{a['sku']} – {acc_item(a, 'nl')['name']}", 'acc': True, 'stack': 1, 'url': acc_item(a, lang).get('url', ''), 'img': ''}
+             for a in ACCS]   # accessories: per piece
+    return opts
 
 
 def acc_item(a, lang):
@@ -2060,6 +2067,8 @@ def main():
     search_records()
     BA.write_seo_files(OUT, page_order, PAGES, MODEL_BY_ID, abs_url)
     BA.write_netlify(OUT)
+    import mailgen, sys
+    mailgen.write(sys.modules[__name__], OUT)     # quote confirmation e-mail: templates + Netlify function (update 37)
     json.dump({'models': [{'id': m['id'], 'sku': m['sku'], 'family': m['family'], 'name': m['name'], 'url': m['url'], 'txt': {l: {k: v for k, v in m['txt'][l].items() if k not in ('desc_html',)} for l in LANGS}}
                           for m in MODELS]}, open(os.path.join(ROOT, 'data/_build_models.json'), 'w'), ensure_ascii=False, default=str)
     print(f'pages written: {count}  models: {len(MODELS)}  languages: {len(LANGS)}  out: {OUT}  v={VERSION}')

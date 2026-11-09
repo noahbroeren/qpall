@@ -21,3 +21,22 @@ for v, a in re.findall(r'<option value="([^"]+)"([^>]*)>', page):
     c = Image.new('RGB', (192, 128), 'white'); c.paste(im, ((192 - im.width) // 2, (128 - im.height) // 2))
     c.save(os.path.join(OUT, re.sub(r'[^a-z0-9.-]+', '-', sku.lower()) + '.jpg'), quality=85, optimize=True); n += 1
 print(n, 'product photos in', OUT)
+
+# accessories (update 37): their photo from the site as a jpg too, so the quote confirmation shows every product
+sys.path.insert(0, ROOT)
+os.environ.setdefault('QP_KEEP_IMAGES', '1')
+_argv = sys.argv; sys.argv = ['build.py']
+import build as B   # noqa: E402  (loads the data only)
+sys.argv = _argv
+k = 0
+for a in B.ACCS:
+    rel = B.acc_item(a, 'nl').get('img') or ''
+    src = os.path.join(SITE, rel.lstrip('/'))
+    if not rel.endswith('.webp') or not os.path.exists(src):
+        continue
+    im = Image.open(src).convert('RGBA')
+    bg = Image.new('RGBA', im.size, (255, 255, 255, 255)); bg.alpha_composite(im); im = bg.convert('RGB')
+    im.thumbnail((192, 128))
+    c = Image.new('RGB', (192, 128), 'white'); c.paste(im, ((192 - im.width) // 2, (128 - im.height) // 2))
+    c.save(os.path.join(OUT, re.sub(r'[^a-z0-9.-]+', '-', a['sku'].lower()) + '.jpg'), quality=85, optimize=True); k += 1
+print(k, 'accessory photos in', OUT)

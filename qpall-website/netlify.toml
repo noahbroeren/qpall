@@ -2,6 +2,11 @@
 [build]
   publish = "."
 
+# Functie submission-created: stuurt na elke offerteaanvraag de bevestigingsmail via Brevo (update 37).
+# Zet in Netlify de omgevingsvariabele BREVO_API_KEY; zonder sleutel verstuurt de functie niets.
+[functions]
+  directory = "netlify/functions"
+
 [[headers]]
   for = "/*"
   [headers.values]

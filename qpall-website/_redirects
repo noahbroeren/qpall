@@ -1,5 +1,6 @@
 # Q-Pall redirects (Netlify). Format: from  to  status. De eerste regel die past wint.
 /LEESMIJ.txt  /404.html  404!
+/netlify/*  /404.html  404!
 # Oude landendomeinen (ook als domain alias in Netlify toevoegen)
 https://qpall-kunststof-pallets.nl/*  https://qpall.com/kunststof-pallets/  301!
 http://qpall-kunststof-pallets.nl/*  https://qpall.com/kunststof-pallets/  301!

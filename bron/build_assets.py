@@ -267,7 +267,8 @@ def write_seo_files(OUT, page_list, PAGES, MODEL_BY_ID, abs_url):
     open(os.path.join(OUT, 'site.webmanifest'), 'w').write(json.dumps(manifest, indent=2))
     ROOT = os.path.dirname(os.path.abspath(__file__))
     rd = ['# Q-Pall redirects (Netlify). Format: from  to  status. De eerste regel die past wint.',
-          '/LEESMIJ.txt  /404.html  404!']
+          '/LEESMIJ.txt  /404.html  404!',
+          '/netlify/*  /404.html  404!']   # source of the Netlify function (mail templates) is not a page
     # old country domains -> category page in their language, in one step (site_config.COUNTRY_DOMAINS)
     from site_config import COUNTRY_DOMAINS
     rd.append('# Oude landendomeinen (ook als domain alias in Netlify toevoegen)')
@@ -311,6 +312,11 @@ def write_netlify(OUT):
     toml = f'''# Netlify configuratie voor qpall.com
 [build]
   publish = "."
+
+# Functie submission-created: stuurt na elke offerteaanvraag de bevestigingsmail via Brevo (update 37).
+# Zet in Netlify de omgevingsvariabele BREVO_API_KEY; zonder sleutel verstuurt de functie niets.
+[functions]
+  directory = "netlify/functions"
 
 [[headers]]
   for = "/*"

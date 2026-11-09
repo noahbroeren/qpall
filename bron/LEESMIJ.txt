@@ -911,3 +911,21 @@ UPDATE 36 (9 november 2026, nieuwe productcatalogus november 2026)
   metabeschrijving van de cataloguspagina).
   EXPORT: tools/export_xlsx.py maakt een Excel met alle pallets (foto's, maten, belastingen, uitvoering, locaties, stapel,
   links, namen en teksten in 6 talen). Zonder kolom "In productcatalogus": die kwam uit de oude prijslijst.
+
+UPDATE 37 (9 november 2026, bevestigingsmail offerte via Brevo)
+  WERKING: na elke offerteaanvraag start Netlify de functie submission-created (qpall-website/netlify/functions/).
+  Die maakt de bevestigingsmail in de taal van het formulier (verborgen veld 'taal'; anders de taal uit het adres van de
+  pagina) en verstuurt hem via de Brevo-API naar het ingevulde e-mailadres. Van/antwoorden: info@qpall.com.
+  Alleen formulier 'offerte'; contact en sollicitatie krijgen (nog) geen mail. Spam (honeypot/Netlify-filter) start de
+  functie niet. Zonder BREVO_API_KEY verstuurt de functie niets; de aanvraag komt dan gewoon binnen zoals altijd.
+  INSTELLEN (eenmalig): in Brevo het domein qpall.com verifiëren (DNS: Brevo-code, DKIM, DMARC) en info@qpall.com als
+  afzender; een API-sleutel maken (SMTP & API > API-sleutels). In Netlify: Site configuration > Environment variables >
+  BREVO_API_KEY (scope Functions), daarna opnieuw deployen. Optioneel: MAIL_BCC (kopie van elke bevestiging),
+  MAIL_FROM, MAIL_FROM_NAME, MAIL_REPLY_TO, MAIL_BASE_URL. Logs: Netlify > Logs > Functions > submission-created;
+  verzonden mails: Brevo > Transactional > Logs (tags 'offerte' en 'offerte-<taal>').
+  ONTWERP EN TEKSTEN: mail/quote.j2 en mail/_parts.j2 (ontwerp van 29 oktober: navy kop met de hele Q, oranje accenten,
+  volledig logo met PLASTIC PALLETS), teksten uit content/<taal>/thanks-quote.md, i18n en mail/texts.json (onderwerp,
+  groet, kaarten). mailgen.py zet bij elke build per taal het sjabloon en de productlijst (naam, link, foto, stapel) in
+  quote-mail.json naast de functie. Productfoto's voor e-mail: root/assets/email/p (tools/email_assets.py, nu ook
+  toebehoren). Testen zonder te versturen: node tools/mail_test.js ../qpall-website <map> (schrijft de mails als html).
+  /netlify/* geeft op de site een 404 (de functiebestanden zijn geen pagina's).

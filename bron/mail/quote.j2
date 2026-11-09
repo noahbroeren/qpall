@@ -1,0 +1,89 @@
+{#- Quote confirmation e-mail (design chosen 29 Oct 2026: navy header with the whole Q, orange accents).
+    Rendered once per language by mailgen.py. The parts that depend on the request are tokens that the Netlify
+    function fills in: [[BASE]] site address, [[H1]] heading, [[PRODUCTS]], [[FACTS]], [[MESSAGE]], [[STEPS]]. -#}
+{%- import '_parts.j2' as P with context -%}
+{%- set F = P.F -%}
+{%- set hero_css -%}.hero{background-image:url('[[BASE]]/assets/email/kop-q-mobiel.jpg')!important;background-size:cover!important;background-position:right top!important}
+    .hero-in{padding:28px 22px 30px!important}{%- endset -%}
+{{ P.head(subject, preheader, lang, extra_css=hero_css) }}
+  {#- header: logo, eyebrow, title, lead; the whole Q-shape on the right -#}
+  <tr><td class="hero" background="[[BASE]]/assets/email/kop-q.jpg" bgcolor="#1D1C4C" valign="top" style="background:#1D1C4C url('[[BASE]]/assets/email/kop-q.jpg') no-repeat right top;background-size:600px auto;border-radius:14px 34px 0 0;">
+    <!--[if gte mso 9]><v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px;"><v:fill type="frame" src="[[BASE]]/assets/email/kop-q.jpg" color="#1D1C4C" /><v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0"><![endif]-->
+    <div class="hero-in" style="padding:32px 170px 40px 36px;{{ F }}">
+      <a href="[[BASE]]{{ home }}"><img src="[[BASE]]/assets/email/logo-wit-volledig.png" width="124" height="50" alt="Q-Pall plastic pallets" style="display:block;border:0;width:124px;height:50px;"></a>
+      {{ P.eyebrow(fm.eyebrow, accent, 26) }}
+      <h1 class="h1" style="margin:12px 0 0;{{ F }}font-size:27px;line-height:33px;font-weight:normal;color:#FFFFFF;">[[H1]]</h1>
+      <p style="margin:12px 0 0;{{ F }}font-size:14px;line-height:22px;color:#D2D1E2;">{{ fm.lead }}</p>
+    </div>
+    <!--[if gte mso 9]></v:textbox></v:rect><![endif]-->
+  </td></tr>
+
+  {#- the request: products, details, message -#}
+  <tr><td bgcolor="#FFFFFF" class="px" style="background:#FFFFFF;padding:32px 36px 0;{{ F }}">
+    {{ P.h2(fm.sum.h, bar=accent) }}[[PRODUCTS]][[FACTS]][[MESSAGE]]{{ P.change(fm) }}
+  </td></tr>
+
+  {#- what happens next (the step colours of the website) -#}
+  <tr><td bgcolor="#FFFFFF" class="px" style="background:#FFFFFF;padding:34px 36px 0;{{ F }}">{{ P.h2(fm.next.h, bar=accent) }}[[STEPS]]</td></tr>
+
+  {#- contact, like the call-to-action band on the website: text left, buttons right -#}
+  <tr><td bgcolor="#FFFFFF" class="px" style="background:#FFFFFF;padding:32px 36px 0;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#1D1C4C" style="background:#1D1C4C;border-radius:14px 34px 14px 14px;"><tr>
+      <td class="stk" style="padding:26px 12px 26px 28px;vertical-align:middle;{{ F }}">
+        {{ P.eyebrow(fm.contact.h, accent) }}
+        <p style="margin:10px 0 0;{{ F }}font-size:20px;line-height:26px;font-weight:normal;color:#FFFFFF;">{{ contact_a }}{% if contact_b %} <strong style="font-weight:bold;">{{ contact_b }}</strong>{% endif %}</p>
+        <p style="margin:8px 0 0;{{ F }}font-size:12px;line-height:18px;color:#A9A8C6;">{{ hours }}</p>
+      </td>
+      <td class="stk-last" width="214" style="width:214px;padding:26px 28px 26px 0;vertical-align:middle;{{ F }}">
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td bgcolor="{{ accent }}" align="center" style="background:{{ accent }};border-radius:22px;text-align:center;">
+          <a href="tel:+31413353111" style="display:block;padding:12px 16px;{{ F }}font-size:14px;line-height:18px;font-weight:bold;color:#FFFFFF;text-decoration:none;white-space:nowrap;"><img src="[[BASE]]/assets/email/icoon-telefoon.png" width="16" height="16" alt="" style="border:0;width:16px;height:16px;vertical-align:-3px;margin-right:8px;">+31 (0)413 353 111</a>
+        </td></tr></table>
+        <div style="height:10px;line-height:10px;font-size:10px;">&nbsp;</div>
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="border:1.5px solid #6E6D93;border-radius:22px;text-align:center;">
+          <a href="mailto:info@qpall.com" style="display:block;padding:11px 16px;{{ F }}font-size:14px;line-height:18px;font-weight:bold;color:#FFFFFF;text-decoration:none;white-space:nowrap;"><img src="[[BASE]]/assets/email/icoon-mail.png" width="16" height="16" alt="" style="border:0;width:16px;height:16px;vertical-align:-3px;margin-right:8px;">info@qpall.com</a>
+        </td></tr></table>
+      </td>
+    </tr></table>
+  </td></tr>
+
+  {#- sign-off -#}
+  <tr><td bgcolor="#FFFFFF" class="px" style="background:#FFFFFF;padding:28px 36px 0;{{ F }}">{{ P.signoff(x) }}</td></tr>
+
+  {#- handy in the meantime: four cards (as on the thank-you page, the catalogue download replaced by About Q-Pall) -#}
+  <tr><td bgcolor="#FFFFFF" class="px" style="background:#FFFFFF;padding:34px 36px 36px;{{ F }}">
+    {{ P.h2(more_h, bar=accent) }}
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;">
+      {%- for row in cards|batch(2) %}
+      {%- if not loop.first %}<tr><td class="hide-sm" colspan="3" height="12" style="height:12px;font-size:0;line-height:0;">&nbsp;</td></tr>{% endif %}
+      <tr>
+        {%- for c in row %}
+        {%- if not loop.first %}<td class="hide-sm" width="12" style="width:12px;font-size:0;line-height:0;">&nbsp;</td>{% endif %}
+        <td class="card2" width="49%" bgcolor="#F3F3F3" style="width:49%;background:#F3F3F3;border-radius:12px 26px 12px 12px;padding:18px 18px 16px;vertical-align:top;{{ F }}">
+          <a href="[[BASE]]{{ c.href }}" style="{{ F }}font-size:15px;line-height:20px;font-weight:bold;color:#1D1C4C;text-decoration:none;">{{ c.t }}</a><br>
+          <span style="display:block;margin-top:4px;{{ F }}font-size:12px;line-height:18px;color:#46455F;">{{ c.d }}</span>
+          <a href="[[BASE]]{{ c.href }}" style="display:inline-block;margin-top:8px;{{ F }}font-size:12px;line-height:18px;font-weight:bold;color:#1D1C4C;text-decoration:none;">{{ c.cta }} <span style="color:{{ accent }};">&rarr;</span></a>
+        </td>
+        {%- endfor %}
+      </tr>
+      {%- endfor %}
+    </table>
+  </td></tr>
+
+  {#- footer, like the website footer -#}
+  <tr><td bgcolor="#1D1C4C" style="background:#1D1C4C;border-radius:0 0 14px 14px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+      <td class="px" style="padding:30px 10px 30px 36px;vertical-align:top;{{ F }}">
+        <a href="[[BASE]]{{ home }}"><img src="[[BASE]]/assets/email/logo-wit-volledig.png" width="104" height="42" alt="Q-Pall plastic pallets" style="display:block;border:0;width:104px;height:42px;"></a>
+        <p style="margin:14px 0 0;{{ F }}font-size:13px;line-height:20px;color:#C9C8DA;">{{ footer_about }}</p>
+        <p style="margin:14px 0 0;{{ F }}font-size:12px;line-height:19px;color:#A9A8C6;">Q-Pall B.V. &middot; Edisonweg 9 &middot; 5466 AR Veghel &middot; {{ x.country_name }}<br>
+          <a href="tel:+31413353111" style="color:#FFFFFF;text-decoration:none;">+31 (0)413 353 111</a><span style="color:{{ accent }};">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="mailto:info@qpall.com" style="color:#FFFFFF;text-decoration:none;">info@qpall.com</a><span style="color:{{ accent }};">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="[[BASE]]{{ home }}" style="color:#FFFFFF;text-decoration:none;font-weight:bold;">qpall.com</a></p>
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:16px 0 0;"><tr>
+          <td style="padding:0 12px 0 0;vertical-align:middle;"><img src="[[BASE]]/assets/email/ecovadis.png" width="44" height="44" alt="EcoVadis Bronze" style="display:block;border:0;width:44px;height:44px;"></td>
+          <td style="vertical-align:middle;"><a href="https://www.linkedin.com/company/q-pall-bv/"><img src="[[BASE]]/assets/email/linkedin.png" width="22" height="22" alt="LinkedIn" style="display:block;border:0;width:22px;height:22px;"></a></td>
+        </tr></table>
+      </td>
+      <td class="hide-sm" width="140" valign="bottom" style="width:140px;padding:0 22px 26px 0;vertical-align:bottom;line-height:0;font-size:0;"><img src="[[BASE]]/assets/email/voet-q.png" width="118" height="110" alt="" style="display:block;border:0;width:118px;height:110px;"></td>
+    </tr></table>
+  </td></tr>
+  <tr><td class="px" align="center" style="padding:18px 36px 0;text-align:center;{{ F }}"><span style="{{ F }}font-size:12px;line-height:18px;color:#6B6A82;">{{ x.reason }}</span></td></tr>
+{{ P.end() }}
