@@ -818,5 +818,10 @@
  "your_contacts": "Vos interlocuteurs",
  "card_quote": "Devis rapide",
  "rec_eyebrow": "Notre gamme",
- "news_rel_eyebrow": "À lire aussi"
+ "news_rel_eyebrow": "À lire aussi",
+ "click_h": "Livrées emboîtées, semelles fournies à part",
+ "click_p": "Les trois semelles de cette palette sont des semelles clipsables. Nous livrons les palettes emboîtées, avec les semelles fournies à part. Vous les clipsez sans outil dès que vous utilisez les palettes. Ainsi, beaucoup plus de palettes tiennent dans un camion.",
+ "click_spec_l": "Livraison",
+ "click_spec_v": "Emboîtées, semelles à part",
+ "calc_note_click": "Les palettes voyagent emboîtées ; les semelles sont sur des palettes séparées et sont comprises dans le calcul."
 }

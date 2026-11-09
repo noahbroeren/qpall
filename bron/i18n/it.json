@@ -818,5 +818,10 @@
  "your_contacts": "I vostri referenti",
  "card_quote": "Preventivo rapido",
  "rec_eyebrow": "La nostra gamma",
- "news_rel_eyebrow": "Da leggere"
+ "news_rel_eyebrow": "Da leggere",
+ "click_h": "Consegnati incastrati, slitte a parte",
+ "click_p": "Le tre slitte di questo pallet sono slitte a incastro. Consegniamo i pallet incastrati, con le slitte fornite a parte. Le agganciate senza attrezzi quando iniziate a usare i pallet. Così in un camion entrano molti più pallet.",
+ "click_spec_l": "Consegna",
+ "click_spec_v": "Incastrati, slitte a parte",
+ "calc_note_click": "I pallet viaggiano incastrati; le slitte sono su pallet separati e sono incluse nel calcolo."
 }

@@ -36,10 +36,10 @@
   "container40hc": 1410
  },
  "QP76114LB3RR": {
-  "tautliner": 525,
-  "mega": 630,
-  "container20": 195,
-  "container40hc": 450
+  "tautliner": 1215,
+  "mega": 1485,
+  "container20": 369,
+  "container40hc": 987
  },
  "QP1111LB9FR": {
   "tautliner": 1080,
@@ -48,10 +48,10 @@
   "container40hc": 1040
  },
  "QP1111LB3RR": {
-  "tautliner": 360,
-  "mega": 432,
-  "container20": 130,
-  "container40hc": 300
+  "tautliner": 900,
+  "mega": 1045,
+  "container20": 270,
+  "container40hc": 728
  },
  "QP1111MB3R-AS": {
   "tautliner": 408,
@@ -72,10 +72,10 @@
   "container40hc": 1040
  },
  "QP1140LB3RR": {
-  "tautliner": 330,
-  "mega": 396,
-  "container20": 130,
-  "container40hc": 300
+  "tautliner": 900,
+  "mega": 990,
+  "container20": 270,
+  "container40hc": 728
  },
  "QP1140MB3RR": {
   "tautliner": 352,
@@ -108,10 +108,10 @@
   "container40hc": 920
  },
  "QP1208LB3RR": {
-  "tautliner": 495,
-  "mega": 594,
-  "container20": 143,
-  "container40hc": 345
+  "tautliner": 1170,
+  "mega": 1430,
+  "container20": 328,
+  "container40hc": 846
  },
  "QP1208MB3RR": {
   "tautliner": 561,
@@ -144,10 +144,10 @@
   "container40hc": 800
  },
  "QP1210LB3RR": {
-  "tautliner": 390,
-  "mega": 468,
-  "container20": 130,
-  "container40hc": 300
+  "tautliner": 990,
+  "mega": 1100,
+  "container20": 328,
+  "container40hc": 752
  },
  "QP1210MB3RR": {
   "tautliner": 442,
@@ -180,10 +180,10 @@
   "container40hc": 468
  },
  "QP1212LB3RR": {
-  "tautliner": 330,
-  "mega": 396,
-  "container20": 82,
-  "container40hc": 257
+  "tautliner": 810,
+  "mega": 990,
+  "container20": 135,
+  "container40hc": 364
  },
  "QP1212MB3RR": {
   "tautliner": 352,

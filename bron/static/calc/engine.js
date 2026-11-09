@@ -3,6 +3,8 @@
    Aanpassingen: 27-10-2026 (Q-Pall) 0,1 m marge ook in de hoogte (MARGIN_H); 9-11-2026 (update 38) vaste stapels
    (displaypallets, folie) die te hoog zijn voor de laadruimte (20 ft / 40 ft container) worden lager gestapeld, in hele
    lagen (perLayer), in plaats van "past niet".
+   Pallets met klikbare onderlatten (QP…LB3RR, Q-Pall 9-11-2026) zijn nestbaar: genest geleverd, 3 onderlatten per
+   pallet los op aparte onderlatpallets (CLICK_RUNNER, defaultRunners).
    Verder niet aanpassen: de weergave staat in ui.js. build_assets.py plakt beide samen tot /assets/js/calc.js. */
         // Trailer Specifications (Lengths in mm, Width 2450mm, Heights vary)
         const trailers = {
@@ -30,8 +32,18 @@
         const defaultRunners = {
             "QP1111LB9FR": "QPRUN1111L",
             "QP1140LB9FR": "QPRUN1140L",
-            "QP1212LB9FR": "QPRUN1212L"
+            "QP1212LB9FR": "QPRUN1212L",
+            // light pallets with 3 click-on runners (update 38, Q-Pall): delivered nested, 3 runners per pallet loose
+            // on separate runner pallets
+            "QP76114LB3RR": "QP-RUN-L",
+            "QP1208LB3RR": "QP-RUN-L",
+            "QP1210LB3RR": "QP-RUN-L",
+            "QP1111LB3RR": "QPRUN1111L",
+            "QP1140LB3RR": "QPRUN1140L",
+            "QP1212LB3RR": "QPRUN1212L"
         };
+        // the light 3-runner pallets above: nestable like the 9-feet pallet, the runners travel separately
+        const CLICK_RUNNER = new Set(["QP76114LB3RR", "QP1208LB3RR", "QP1210LB3RR", "QP1111LB3RR", "QP1140LB3RR", "QP1212LB3RR"]);
 
         // Pallet Database extracted from user's PDF list
         const pallets = [
@@ -41,31 +53,31 @@
             { id: "QP6080M6FR", name: "QP6080M6FR (600x800)", l: 1200, w: 800, h: 145, palletH: 2200, limitTautliner: 80, limitCombi: 80, useFixedLimit: true, perLayer: 2 },
             { id: "QP6080HB6FR", name: "QP6080HB6FR (600x800)", l: 1200, w: 800, h: 155, palletH: 2200, limitTautliner: 80, limitCombi: 80, useFixedLimit: true, perLayer: 2 },
             { id: "QP76114LB9FR", name: "QP76114LB9FR (760x1140)", l: 760, w: 1140, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 50 },
-            { id: "QP76114LB3RR", name: "QP76114LB3RR (760x1140)", l: 760, w: 1140, h: 158, limitTautliner: 15, limitCombi: 18 },
+            { id: "QP76114LB3RR", name: "QP76114LB3RR (760x1140)", l: 760, w: 1140, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 50, clickRunner: true },
             { id: "QP1111LB9FR", name: "QP1111LB9FR (1100x1100)", l: 1100, w: 1100, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 45 },
-            { id: "QP1111LB3RR", name: "QP1111LB3RR (1100x1100)", l: 1100, w: 1100, h: 158, limitTautliner: 15, limitCombi: 18 },
+            { id: "QP1111LB3RR", name: "QP1111LB3RR (1100x1100)", l: 1100, w: 1100, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 45, clickRunner: true },
             { id: "QP1111MB3R-AS", name: "QP1111MB3R-AS (1100x1100)", l: 1100, w: 1100, h: 150, limitTautliner: 17, limitCombi: 19 },
             { id: "QP1111HB3RR", name: "QP1111HB3RR (1100x1100)", l: 1100, w: 1100, h: 165, limitTautliner: 15, limitCombi: 17 },
             { id: "QP1140LB9FR", name: "QP1140LB9FR (1140x1140)", l: 1140, w: 1140, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 45 },
-            { id: "QP1140LB3RR", name: "QP1140LB3RR (1140x1140)", l: 1140, w: 1140, h: 158, limitTautliner: 15, limitCombi: 18 },
+            { id: "QP1140LB3RR", name: "QP1140LB3RR (1140x1140)", l: 1140, w: 1140, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 45, clickRunner: true },
             { id: "QP1140MB3RR", name: "QP1140MB3RR (1140x1140)", l: 1140, w: 1140, h: 156, limitTautliner: 16, limitCombi: 18 },
             { id: "QP1140HB3RR", name: "QP1140HB3RR (1140x1140)", l: 1140, w: 1140, h: 165, limitTautliner: 15, limitCombi: 17 },
             { id: "QP1140MB3R-PAS", name: "QP1140MB3R-PAS (1140x1140)", l: 1140, w: 1140, h: 150, limitTautliner: 17, limitCombi: 19 },
             { id: "QP1208LB9FR", name: "QP1208LB9FR (1200x800)", l: 1200, w: 800, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 50 },
             { id: "QP1208LB9FR-FOLIE", name: "QP1208LB9FR folie (1200x800)", l: 1200, w: 800, h: 150, palletH: 2130, limitTautliner: 40, limitCombi: 40, useFixedLimit: true },
-            { id: "QP1208LB3RR", name: "QP1208LB3RR (1200x800)", l: 1200, w: 800, h: 158, limitTautliner: 15, limitCombi: 18 },
+            { id: "QP1208LB3RR", name: "QP1208LB3RR (1200x800)", l: 1200, w: 800, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 50, clickRunner: true },
             { id: "QP1208MB3RR", name: "QP1208MB3RR (1200x800)", l: 1200, w: 800, h: 145, limitTautliner: 17, limitCombi: 19 },
             { id: "QP1208HB3RR", name: "QP1208HB3RR (1200x800)", l: 1200, w: 800, h: 159, limitTautliner: 15, limitCombi: 18 },
             { id: "EUROPAL800RR", name: "EUROPAL800RR (1200x800)", l: 1200, w: 1000, h: 150, limitTautliner: 23, limitCombi: 23 },
             { id: "QP1210LB9FR", name: "QP1210LB9FR (1200x1000)", l: 1200, w: 1000, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 50 },
             { id: "QP1210LB9FR-FOLIE", name: "QP1210LB9FR folie (1200x1000)", l: 1200, w: 1000, h: 150, palletH: 2130, limitTautliner: 40, limitCombi: 40, useFixedLimit: true },
-            { id: "QP1210LB3RR", name: "QP1210LB3RR (1200x1000)", l: 1200, w: 1000, h: 158, limitTautliner: 15, limitCombi: 18 },
+            { id: "QP1210LB3RR", name: "QP1210LB3RR (1200x1000)", l: 1200, w: 1000, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 50, clickRunner: true },
             { id: "QP1210MB3RR", name: "QP1210MB3RR (1200x1000)", l: 1200, w: 1000, h: 150, limitTautliner: 17, limitCombi: 19 },
             { id: "QP1210HB3RR", name: "QP1210HB3RR (1200x1000)", l: 1200, w: 1000, h: 160, limitTautliner: 15, limitCombi: 18 },
             { id: "QP1210HP3R-AO", name: "QP1210HP3R-AO (1200x1000)", l: 1200, w: 1000, h: 165, limitTautliner: 15, limitCombi: 17 },
             { id: "RECYCPAL1210RR", name: "RECYCPAL1210RR (1200x1000)", l: 1200, w: 1200, h: 150, limitTautliner: 23, limitCombi: 23 },
             { id: "QP1212LB9FR", name: "QP1212LB9FR (1200x1200)", l: 1200, w: 1200, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 45 },
-            { id: "QP1212LB3RR", name: "QP1212LB3RR (1200x1200)", l: 1200, w: 1200, h: 158, limitTautliner: 15, limitCombi: 18 },
+            { id: "QP1212LB3RR", name: "QP1212LB3RR (1200x1200)", l: 1200, w: 1200, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 45, clickRunner: true },
             { id: "QP1212MB3RR", name: "QP1212MB3RR (1200x1200)", l: 1200, w: 1200, h: 156, limitTautliner: 16, limitCombi: 18 },
             { id: "QP1212HB3RR", name: "QP1212HB3RR (1200x1200)", l: 1200, w: 1200, h: 165, limitTautliner: 15, limitCombi: 17 },
             { id: "QP4048MB3RR", name: "QP4048MB3RR (1220x1020)", l: 1220, w: 1020, h: 150, limitTautliner: 17, limitCombi: 19 },
@@ -324,7 +336,7 @@ const SKUIMG={"QP6040MB4F": "display-pallet-600-x-400-x-155-open-deck-4-feet-med
         // Helper: LB + digit(s) + F in name = nestable (150mm base + nestPitch per extra pallet)
         // QP6040 explicitly excluded (fixed limit), QP6080xF are NOT nestable (fixed on pallet)
         function isNestableLBF(id) {
-            return /LB\d+F/.test(id) && !id.startsWith('QP6040');
+            return (/LB\d+F/.test(id) && !id.startsWith('QP6040')) || CLICK_RUNNER.has(id);
         }
         // Margin of 0.1 m (Q-Pall, 27-10-2026): kept free in the length of every loading space (see 'marge' below)
         // and in the height (stack heights are calculated against height - MARGIN_H). Not in the width: three
@@ -332,7 +344,7 @@ const SKUIMG={"QP6040MB4F": "display-pallet-600-x-400-x-155-open-deck-4-feet-med
         const MARGIN_H = 100;
         // Helper: never allowed on side in containers — same set as nestable
         function isNeverOnSide(id) {
-            return /LB\d+F/.test(id);
+            return /LB\d+F/.test(id) || CLICK_RUNNER.has(id);
         }
         // Helper: get stackCount for a nestable pallet in a container of height cH
         // Uses pallet.nestPitch if defined, else 50mm default
@@ -511,6 +523,7 @@ const SKUIMG={"QP6040MB4F": "display-pallet-600-x-400-x-155-open-deck-4-feet-med
                             let newCount = currentCount + addedRunners;
                             let newPallets = Math.ceil(newCount / rPalletDef.perPallet);
                             let runnerLimit = trailerId === 'combi77' || trailerId === 'combi78' || trailerId === 'mega' ? rPalletDef.limitCombi : rPalletDef.limitTautliner;
+                            runnerLimit = Math.max(1, Math.min(runnerLimit, Math.floor((trailer.height - MARGIN_H) / rPalletDef.h)));   // never higher than the loading space (update 38)
                             let newStacks = Math.ceil(newPallets / runnerLimit);
 
                             let extraStacks = newStacks - currentStacks;
@@ -834,7 +847,7 @@ const SKUIMG={"QP6040MB4F": "display-pallet-600-x-400-x-155-open-deck-4-feet-med
 
                                         let totalRunners = estPallets * 3;
                                         let numRunnerPallets = Math.ceil(totalRunners / rPalletDef.perPallet);
-                                        let runnerLimit = rPalletDef.limitTautliner;
+                                        let runnerLimit = Math.max(1, Math.min(rPalletDef.limitTautliner, Math.floor(cH / rPalletDef.h)));   // container height (update 38)
 
                                         let bestRunnerL = Infinity;
                                         let bestRunnerInfo = null;
@@ -1319,7 +1332,7 @@ const SKUIMG={"QP6040MB4F": "display-pallet-600-x-400-x-155-open-deck-4-feet-med
 
                                         let totalRunners = palletsPlaced * 3;
                                         let numPallets = Math.ceil(totalRunners / rPalletDef.perPallet);
-                                        let runnerLimit = rPalletDef.limitTautliner;
+                                        let runnerLimit = Math.max(1, Math.min(rPalletDef.limitTautliner, Math.floor(cH / rPalletDef.h)));   // container height (update 38)
                                         let colsInWidth = info.colsInWidth;
                                         let palletsPerRow = colsInWidth * runnerLimit;
                                         let rowsNeeded = Math.ceil(numPallets / palletsPerRow);

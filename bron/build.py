@@ -188,6 +188,17 @@ if not SHOW_PRICES:
         _a['price'] = None
 
 
+def is_click_runner(m):
+    """Light pallets with 3 runners: the runners are click-on runners (Q-Pall, Daan Voets, 9 Nov 2026). The pallets are
+    delivered nested like the 9-feet pallet, with the runners supplied loose alongside (update 38)."""
+    return m['class'] == 'light' and m['support']['type'] == 'runners' and 'display' not in m['types']
+
+
+for _m in MODELS:
+    if is_click_runner(_m) and 'nestable' not in _m['types']:
+        _m['types'] = _m['types'] + ['nestable']
+
+
 def loc_label(code, lang, long=False):
     L = LOCATIONS[code]
     return f"{L['name']}, {COUNTRY[L['cc']][lang]}" if long else f"{L['name']} ({L['cc']})"
@@ -262,6 +273,8 @@ for m in MODELS:
         h = m['height']
         dims = f"{m['L']} x {m['W']} x {h[0] if h[0] == h[1] else str(h[0]) + '–' + str(h[1])} mm"
         intro, desc_html = PC.seo_parts(m, l)
+        if is_click_runner(m):     # delivered nested, runners loose (update 38)
+            desc_html += f"<h3>{t['click_h']}</h3><p>{t['click_p']}</p>"
         locs = [loc_label(c, l) for c in m['locations']]
         cols = [SKU_COLOUR.get(v['sku']) for v in m['variants']]
         ucols = list(dict.fromkeys(cols))
@@ -1104,6 +1117,8 @@ def spec_groups(m, lang, price=True):
     g2 += [(t['material'], mat), (t['colour'], X['colour']), (t['ispm'], t['ispm_v'])]
     g3 = [(t['static_l'], X['static']), (t['dynamic_l'], X['dynamic']), (t['racking_l'], X['racking'] or t['not_rackable'])]
     g4 = [(t['locations'] if len(m['locations']) > 1 else t['location'], X['locs_txt'])]
+    if is_click_runner(m):
+        g4.append((t['click_spec_l'], t['click_spec_v']))
     if m.get('pack'):
         g4.append((t['packed'], f"{m['pack']} {t['pcs']}"))
     if m['ppwr']:
@@ -1174,8 +1189,11 @@ CALC_VEH = [('taut', 'tautliner', 'taut'), ('mega', 'mega', 'mega'), ('c20', 'co
 CALC_V = hashlib.md5((CALC_ENGINE + open(os.path.join(ROOT, 'static/calc/ui.js'), encoding='utf-8').read()).encode()).hexdigest()[:8]
 
 
+CALC_CLICK = set(re.findall(r'id: "([^"]+)"[^}]*clickRunner: true', CALC_ENGINE))   # nested, runners loose (update 38)
+
+
 def calc_nestable(i):
-    return re.search(r'LB\d+F', i) is not None     # same test as the engine (isNestableLBF / isNeverOnSide)
+    return re.search(r'LB\d+F', i) is not None or i in CALC_CLICK     # same test as the engine (isNestableLBF / isNeverOnSide)
 
 
 def calc_for_model(m):
@@ -1265,7 +1283,9 @@ def calc_ctx(lang, m=None):
         out['sku'] = c
         if c in CALC_STD:
             out['std'] = [{'key': k, 'icon': ic, 'label': t['calc_v'][k], 'n': fmt_int(CALC_STD[c][veh], lang) if CALC_STD[c][veh] else None} for k, veh, ic in CALC_VEH]
-            note = t['calc_note'].format(nest=t['calc_note_nest'] if calc_nestable(c) else '')
+            note = t['calc_note'].format(nest='' if c in CALC_CLICK else (t['calc_note_nest'] if calc_nestable(c) else ''))
+            if c in CALC_CLICK:     # nested, the loose runners on their own pallets are part of the load (update 38)
+                note += ' ' + t['calc_note_click']
             out['note'] = note + ('' if exact else ' ' + t['calc_note_like'].format(sku=c))
     return out
 

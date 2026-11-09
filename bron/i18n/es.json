@@ -818,5 +818,10 @@
  "your_contacts": "Sus personas de contacto",
  "card_quote": "Presupuesto rápido",
  "rec_eyebrow": "Nuestra gama",
- "news_rel_eyebrow": "Sigue leyendo"
+ "news_rel_eyebrow": "Sigue leyendo",
+ "click_h": "Se entregan encajados, con los patines aparte",
+ "click_p": "Los tres patines de este palet son patines de clic. Entregamos los palets encajados, con los patines aparte. Usted los monta sin herramientas en cuanto empiece a usar los palets. Así caben muchos más palets en un camión.",
+ "click_spec_l": "Entrega",
+ "click_spec_v": "Encajados, patines aparte",
+ "calc_note_click": "Los palets viajan encajados; los patines van en palets aparte y están incluidos en el cálculo."
 }

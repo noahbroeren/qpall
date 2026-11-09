@@ -232,36 +232,36 @@
   "stack": 15
  },
  "2.QP1208LB3RR": {
-  "combi": 18,
-  "how": "table",
+  "combi": 55,
+  "how": "click-on runners, nested like 1.QP1208LB9FR",
   "place": [
    1200,
    800,
-   2370
+   2360
   ],
   "place_combi": [
    1200,
    800,
-   2844
+   2870
   ],
-  "src": "QP1208LB3RR",
-  "stack": 15
+  "src": "QP1208LB9FR",
+  "stack": 45
  },
  "2.QP1208LB3RR-CD": {
-  "combi": 18,
-  "how": "same as QP1208LB3RR",
+  "combi": 55,
+  "how": "click-on runners, nested like 1.QP1208LB9FR-CD",
   "place": [
    1200,
    800,
-   2370
+   2360
   ],
   "place_combi": [
    1200,
    800,
-   2844
+   2870
   ],
-  "src": "QP1208LB3RR",
-  "stack": 15
+  "src": "QP1208LB9FR",
+  "stack": 45
  },
  "2.QP1208LB9FR": {
   "combi": 55,
@@ -424,36 +424,36 @@
   "stack": 15
  },
  "2.QP1210LB3RR": {
-  "combi": 18,
-  "how": "table",
+  "combi": 55,
+  "how": "click-on runners, nested like 1.QP1210LB9FR",
   "place": [
    1200,
    1000,
-   2370
+   2360
   ],
   "place_combi": [
    1200,
    1000,
-   2844
+   2870
   ],
-  "src": "QP1210LB3RR",
-  "stack": 15
+  "src": "QP1210LB9FR",
+  "stack": 45
  },
  "2.QP1210LB3RR-CD": {
-  "combi": 18,
-  "how": "same as 2.QP1210LB3RR",
+  "combi": 55,
+  "how": "click-on runners, nested like 1.QP1210LB9FR-CD",
   "place": [
    1200,
    1000,
-   2370
+   2360
   ],
   "place_combi": [
    1200,
    1000,
-   2844
+   2870
   ],
-  "src": "QP1210LB3RR",
-  "stack": 15
+  "src": "QP1210LB9FR",
+  "stack": 45
  },
  "2.QP1210LB9FR": {
   "combi": 55,
@@ -688,36 +688,36 @@
   "stack": 16
  },
  "3.QP1208LB3RR": {
-  "combi": 18,
-  "how": "table",
+  "combi": 55,
+  "how": "click-on runners, nested like 1.QP1208LB9FR",
   "place": [
    1200,
    800,
-   2370
+   2360
   ],
   "place_combi": [
    1200,
    800,
-   2844
+   2870
   ],
-  "src": "QP1208LB3RR",
-  "stack": 15
+  "src": "QP1208LB9FR",
+  "stack": 45
  },
  "3.QP1208LB3RR-CD": {
-  "combi": 18,
-  "how": "same as 3.QP1208LB3RR",
+  "combi": 55,
+  "how": "click-on runners, nested like 1.QP1208LB9FR-CD",
   "place": [
    1200,
    800,
-   2370
+   2360
   ],
   "place_combi": [
    1200,
    800,
-   2844
+   2870
   ],
-  "src": "QP1208LB3RR",
-  "stack": 15
+  "src": "QP1208LB9FR",
+  "stack": 45
  },
  "3.QP1208LB9FR": {
   "combi": 55,
@@ -1120,20 +1120,20 @@
   "stack": 15
  },
  "N.QP1210LB3RR-CD": {
-  "combi": 18,
-  "how": "same as QP1210LB3RR",
+  "combi": 55,
+  "how": "click-on runners, nested like 1.QP1210LB9FR-CD",
   "place": [
    1200,
    1000,
-   2370
+   2360
   ],
   "place_combi": [
    1200,
    1000,
-   2844
+   2870
   ],
-  "src": "QP1210LB3RR",
-  "stack": 15
+  "src": "QP1210LB9FR",
+  "stack": 45
  },
  "QP1111HB3RR": {
   "combi": 17,
@@ -1200,20 +1200,20 @@
   "stack": 15
  },
  "QP1111LB3RR": {
-  "combi": 18,
-  "how": "table",
+  "combi": 55,
+  "how": "click-on runners, nested like QP1111LB9FR",
   "place": [
    1100,
    1100,
-   2370
+   2150
   ],
   "place_combi": [
    1100,
    1100,
-   2844
+   2550
   ],
-  "src": "QP1111LB3RR",
-  "stack": 15
+  "src": "QP1111LB9FR",
+  "stack": 45
  },
  "QP1111LB9FR": {
   "combi": 55,
@@ -1344,20 +1344,20 @@
   "stack": 15
  },
  "QP1140LB3RR": {
-  "combi": 18,
-  "how": "table",
+  "combi": 55,
+  "how": "click-on runners, nested like QP1140LB9FR",
   "place": [
    1140,
    1140,
-   2370
+   2150
   ],
   "place_combi": [
    1140,
    1140,
-   2844
+   2550
   ],
-  "src": "QP1140LB3RR",
-  "stack": 15
+  "src": "QP1140LB9FR",
+  "stack": 45
  },
  "QP1140LB9FR": {
   "combi": 55,
@@ -1432,36 +1432,36 @@
   "stack": 16
  },
  "QP1208LB3RR": {
-  "combi": 18,
-  "how": "table",
+  "combi": 55,
+  "how": "click-on runners, nested like 1.QP1208LB9FR",
   "place": [
    1200,
    800,
-   2370
+   2360
   ],
   "place_combi": [
    1200,
    800,
-   2844
+   2870
   ],
-  "src": "QP1208LB3RR",
-  "stack": 15
+  "src": "QP1208LB9FR",
+  "stack": 45
  },
  "QP1208LB3RR-CD": {
-  "combi": 18,
-  "how": "same as QP1208LB3RR",
+  "combi": 55,
+  "how": "click-on runners, nested like 1.QP1208LB9FR-CD",
   "place": [
    1200,
    800,
-   2370
+   2360
   ],
   "place_combi": [
    1200,
    800,
-   2844
+   2870
   ],
-  "src": "QP1208LB3RR",
-  "stack": 15
+  "src": "QP1208LB9FR",
+  "stack": 45
  },
  "QP1208LB9FR": {
   "combi": 55,
@@ -1592,20 +1592,20 @@
   "stack": 15
  },
  "QP1212LB3RR": {
-  "combi": 18,
-  "how": "table",
+  "combi": 55,
+  "how": "click-on runners, nested like QP1212LB9FR",
   "place": [
    1200,
    1200,
-   2370
+   2140
   ],
   "place_combi": [
    1200,
    1200,
-   2844
+   2540
   ],
-  "src": "QP1212LB3RR",
-  "stack": 15
+  "src": "QP1212LB9FR",
+  "stack": 45
  },
  "QP1212LB9FR": {
   "combi": 55,
@@ -1703,22 +1703,6 @@
   "src": "QP4048MB3RR",
   "stack": 17
  },
- "QP4048MB6RR-CD": {
-  "combi": 19,
-  "how": "same as QP4048MB3RR",
-  "place": [
-   1220,
-   1020,
-   2550
-  ],
-  "place_combi": [
-   1220,
-   1020,
-   2850
-  ],
-  "src": "QP4048MB3RR",
-  "stack": 17
- },
  "QP6040MB4F": {
   "combi": 200,
   "how": "table",
@@ -1784,36 +1768,36 @@
   "stack": 80
  },
  "QP76114LB3RR": {
-  "combi": 18,
-  "how": "table",
+  "combi": 55,
+  "how": "click-on runners, nested like QP76114LB9FR",
   "place": [
    760,
    1140,
-   2370
+   2345
   ],
   "place_combi": [
    760,
    1140,
-   2844
+   2845
   ],
-  "src": "QP76114LB3RR",
-  "stack": 15
+  "src": "QP76114LB9FR",
+  "stack": 45
  },
  "QP76114LB3RR-CD": {
-  "combi": 18,
-  "how": "same as QP76114LB3RR",
+  "combi": 55,
+  "how": "click-on runners, nested like QP76114LB9FR-CD",
   "place": [
    760,
    1140,
-   2370
+   2345
   ],
   "place_combi": [
    760,
    1140,
-   2844
+   2845
   ],
-  "src": "QP76114LB3RR",
-  "stack": 15
+  "src": "QP76114LB9FR",
+  "stack": 45
  },
  "QP76114LB9FR": {
   "combi": 55,

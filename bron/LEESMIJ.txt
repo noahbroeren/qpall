@@ -946,3 +946,17 @@ UPDATE 38 (9 november 2026, vergrootglas, fotovenster, laadberekening)
   Gecontroleerd voor alle 130 pallets: elk heeft een laadblok, geen "past niet", en de stapel per plaats klopt met de
   stapeltabel. Open: EUROPAL800RR en RECYPAL1210RR rekenen met 23 per plaats in een vrachtwagen (volgens de lijst van
   Q-Pall) maar met 14 per plaats in een container; de stapelhoogte van die twee ontbreekt in de stapeltabel.
+
+UPDATE 39 (9 november 2026, klikbare onderlatten nestbaar, kleur displaypallets; feedback Daan Voets, Q-Pall)
+  KLIKBARE ONDERLATTEN: alle light pallets met 3 onderlatten (14 artikelen, QP…LB3RR en -CD in 760 x 1140, 1100, 1140,
+  1200 x 800, 1200 x 1000 en 1200 x 1200) hebben klikbare onderlatten: genest geleverd, de onderlatten los erbij.
+  build.py is_click_runner(m) (light + onderlatten, geen displaypallet) maakt ze 'nestable' (filter, typepagina,
+  specificaties "Nestbaar: Ja"), voegt de rij "Levering: Genest, onderlatten los erbij" en een omschrijvingsblok toe
+  (6 talen, i18n click_*). Stapel: als de pallet met 9 pootjes van dezelfde maat (45 per stapel, combi 55, stapelmaat
+  van die pallet), via tools/stapels.py. Laadcalculator (engine.js): deze artikelen zijn nestbaar (CLICK_RUNNER,
+  nestPitch zoals de 9-pootjespallet, 45/55 per plaats) met automatisch 3 onderlatten per pallet op aparte
+  onderlatpallets (defaultRunners: QP-RUN-L voor 1200 x 800, 1200 x 1000 en 760 x 1140; QPRUN1111L/1140L/1212L).
+  Onderlatpallets worden in een container niet hoger gestapeld dan de laadruimte (20 ft: 2 hoog). Standaardladingen
+  opnieuw berekend (tools/calc_defaults.py), bijv. QP1208LB3RR: 1.170 / 1.430 / 328 / 846. Datasheets van de 14
+  artikelen opnieuw gemaakt.
+  KLEUR: QP6040MB4F, QP6080MB6FR en QP6080HB6FR zijn grijs (zoals op de foto's), via SKU_COLOUR in site_config.py.

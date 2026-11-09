@@ -197,6 +197,7 @@ NOINDEX_ALL = True
 # Kleur per artikelnummer (afgeleid van de productfoto's en de code: CDB = blauw, CDG = grijs, ECO = zwart).
 # Niet genoemd = zwart (standaard), andere kleuren op aanvraag.
 SKU_COLOUR = {
+    'QP6040MB4F': 'grey', 'QP6080MB6FR': 'grey', 'QP6080HB6FR': 'grey',     # display pallets: grey, as in the photos (Q-Pall, 9 Nov 2026)
     'QPH1208HP3RR-CDB': 'blue', 'QPH1208HP3RR-CDG': 'grey', 'QPH1208HR3RR-ECO': 'black',
     'QPH1208HP3RR-CDGR': 'grey', 'QPH1208HR3R-ECOR': 'black_blue',
     'QPH1210HP3R-CDG': 'grey', 'QPH1210HP3RR': 'grey', 'QPH1210HP3RR-CDG': 'grey', 'QPH1210HR5RR-CD': 'black',

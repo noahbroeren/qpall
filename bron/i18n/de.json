@@ -818,5 +818,10 @@
  "your_contacts": "Ihre Ansprechpartner",
  "card_quote": "Schnelles Angebot",
  "rec_eyebrow": "Unser Sortiment",
- "news_rel_eyebrow": "Weiterlesen"
+ "news_rel_eyebrow": "Weiterlesen",
+ "click_h": "Genestet geliefert, Kufen lose dabei",
+ "click_p": "Die drei Kufen dieser Palette sind Klick-Kufen. Wir liefern die Paletten genestet, die Kufen liegen lose bei. Sie klicken sie ohne Werkzeug an, sobald Sie die Paletten einsetzen. So passen deutlich mehr Paletten in einen Lkw.",
+ "click_spec_l": "Lieferung",
+ "click_spec_v": "Genestet, Kufen lose dabei",
+ "calc_note_click": "Die Paletten reisen genestet; die losen Kufen stehen auf eigenen Paletten und sind eingerechnet."
 }

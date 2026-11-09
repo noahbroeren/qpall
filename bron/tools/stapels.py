@@ -15,6 +15,8 @@ Matching per article number (build.MODELS):
   3. a similar article: same size, load class, base (feet / runners), deck and height within 3 mm.
      These are marked "similar" (output of this script lists them) and should be confirmed by logistics.
   4. otherwise no number: the site shows "aantal per stapel op aanvraag" and the quote form counts per piece.
+  Light pallets with runners have click-on runners: delivered nested, runners loose alongside (Q-Pall, 9 Nov 2026).
+  Their stack is that of the 9-feet pallet of the same size (and deck).
 Run after a new docx or new articles:  python3 tools/stapels.py   (then build again; datasheets: tools/datasheets.py)
 Needs: pip install python-docx
 """
@@ -114,6 +116,16 @@ def main():
                     missing.remove(m['sku'])
                     similar.append(f"{m['sku']} -> {t['sku']} (same value / open version) ({out[t['sku']]['stack']})")
                     break
+    # light pallets with runners have click-on runners (Q-Pall, Daan Voets, 9 Nov 2026): they are delivered nested, with the
+    # runners supplied loose alongside, so a stack is the stack of the nestable 9-feet pallet of the same size and deck
+    for m in B.MODELS:
+        if B.is_click_runner(m):
+            cands = [o for o in B.MODELS if o['size'] == m['size'] and o['class'] == 'light' and o['support']['type'] == 'feet'
+                     and o['sku'] in out]
+            if cands:
+                o = min(cands, key=lambda o: (o['deck'] != m['deck'], o['sku']))
+                out[m['sku']] = dict(out[o['sku']], how='click-on runners, nested like ' + o['sku'])
+                similar.append(f"{m['sku']} -> {o['sku']} (click-on runners: nested) ({out[o['sku']]['stack']})")
     json.dump(out, open(os.path.join(ROOT, 'data', 'stapels.json'), 'w', encoding='utf-8'), indent=1, sort_keys=True, ensure_ascii=False)
     print(f'{len(out)} of {len(B.MODELS)} articles with a stack size -> data/stapels.json')
     print('similar article used (please confirm):')

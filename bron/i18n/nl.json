@@ -818,5 +818,10 @@
  "your_contacts": "Uw contactpersonen",
  "card_quote": "Snelle offerte",
  "rec_eyebrow": "Assortiment",
- "news_rel_eyebrow": "Lees verder"
+ "news_rel_eyebrow": "Lees verder",
+ "click_h": "Genest geleverd, onderlatten los erbij",
+ "click_p": "De drie onderlatten van deze pallet zijn klikbare onderlatten. We leveren de pallets genest, met de onderlatten los erbij. U klikt ze er zonder gereedschap onder zodra u de pallets gaat gebruiken. Zo passen er veel meer pallets in één vrachtwagen.",
+ "click_spec_l": "Levering",
+ "click_spec_v": "Genest, onderlatten los erbij",
+ "calc_note_click": "De pallets gaan genest mee; de losse onderlatten staan op aparte pallets en zijn meegerekend."
 }
