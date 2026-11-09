@@ -967,3 +967,5 @@ UPDATE 40 (9 november 2026) - zwakste titels verbeterd, in 6 talen (alleen de <t
   type-antislip  "Antislip kunststof pallets 1200x800 en 1200x1000 – Q-Pall" (was te kort)
   class-heavy    "Heavy duty kunststof pallets – zwaar belastbaar – Q-Pall" (zelfde patroon als light en medium, met merknaam)
   De homepagetitel van iClicks blijft. Alle nieuwe titels <= 561 px (Arial 20 px).
+  BESLUIT CANONICAL (Noah, 9 nov): de genummerde uitvoeringen (41 per taal) houden hun eigen canonical en blijven in
+  de sitemap (optie B). Niet naar het hoofdartikel laten wijzen.
