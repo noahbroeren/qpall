@@ -9,6 +9,7 @@ h1: "In 2021 Q-Pall expanded its family of **heavy-duty pallets**"
 lead: "At SITL Paris and Fachpack in September 2021, Q-Pall presented four heavy-duty plastic pallets. Robust, impact-resistant and able to carry up to 1,375 kg in high racking."
 img_alt: "Teaser image showing a pallet under an orange cloth and a magnifying glass on the Q-Pall logo"
 reading: 2
+published: '2021-09-14'
 updated: '2026-11-02'
 ---
 > **In short**

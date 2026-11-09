@@ -1,7 +1,7 @@
 ---
 id: type-display
 title: "Palettes plastique display 600 x 400 et 600 x 800 – Q-Pall"
-description: "Palettes plastique display pour supermarchés et grande distribution, 600 x 400 et 600 x 800 mm. Légères, emboîtables, directement en rayon. Prix de départ."
+description: "Palettes plastique display pour supermarchés et grande distribution, 600 x 400 et 600 x 800 mm. Légères, emboîtables, directement en rayon. Prix sur devis."
 eyebrow: "Grande distribution"
 h1: "**Palettes display** en plastique"
 lead: "De la plateforme logistique au rayon sans reconditionnement. Nos palettes display sont légères, emboîtables et disponibles aux formats quart et demi-palette Europe."

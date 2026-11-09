@@ -55,7 +55,7 @@
     <div><dt>{{ t.dynamic_l }}</dt><dd>{{ t.upto }} {{ c.dynamic }} kg</dd></div>
     <div><dt>{{ t.racking_l }}</dt><dd>{{ (t.upto ~ ' ' ~ c.racking ~ ' kg') if c.racking else '–' }}</dd></div>
   </dl>
-  <p class="serie-foot"><span>{{ c.count_txt }}</span><b>{{ (c.price_lbl ~ ' ' ~ t.from ~ ' ' ~ c.price_txt) if c.price_txt else t.on_request }}</b></p>
+  <p class="serie-foot"><span>{{ c.count_txt }}</span>{% if show_prices %}<b>{{ (c.price_lbl ~ ' ' ~ t.from ~ ' ' ~ c.price_txt) if c.price_txt else t.on_request }}</b>{% endif %}</p>
   <a class="btn btn-sm serie-btn" href="{{ c.url }}">{{ cta }} {{ c.name }}{{ icon('arrow') }}</a>
 </article>
 {%- endmacro %}
@@ -100,8 +100,8 @@
 {% set X = m.txt[lang] %}
 <article class="pcard{% if more %} pre-more{% endif %}" data-size="{{ m.size }}" data-cls="{{ m.class }}" data-deck="{{ m.deck }}" data-base="{{ m.support.type }}"
  data-rack="{{ m.racking[1] if m.racking else 0 }}" data-dyn="{{ m.dynamic[1] }}" data-static="{{ m.static[1] }}" data-weight="{{ m.weight[0] }}"
- data-price="{{ m.price_from or '' }}" data-order="{{ order }}" data-fnest="{{ 1 if 'nestable' in m.types else 0 }}" data-frack="{{ 1 if m.rackable else 0 }}"
- data-fexport="{{ 1 if 'export' in m.types else 0 }}" data-fhyg="{{ 1 if 'hygienic' in m.types else 0 }}" data-fantislip="{{ 1 if m.antislip else 0 }}" data-fprice="{{ 1 if m.price_from else 0 }}">
+ {% if show_prices %}data-price="{{ m.price_from or '' }}" {% endif %}data-order="{{ order }}" data-fnest="{{ 1 if 'nestable' in m.types else 0 }}" data-frack="{{ 1 if m.rackable else 0 }}"
+ data-fexport="{{ 1 if 'export' in m.types else 0 }}" data-fhyg="{{ 1 if 'hygienic' in m.types else 0 }}" data-fantislip="{{ 1 if m.antislip else 0 }}"{% if show_prices %} data-fprice="{{ 1 if m.price_from else 0 }}"{% endif %}>
   <a class="pc-img" href="{{ m.url[lang] }}" tabindex="-1" aria-hidden="true">
     <img src="{{ m.img_url }}" srcset="{{ m.img_sm }} 320w, {{ m.img_url }} 640w" sizes="(min-width:1200px) 300px, (min-width:700px) 45vw, 92vw" alt="{{ m.name[lang] }}" width="640" height="427" loading="lazy" decoding="async">
   </a>
@@ -116,10 +116,12 @@
       <div><dt>{{ t.dynamic }}</dt><dd>{{ X.dynamic_short }}</dd></div>
       <div><dt>{{ t.racking }}</dt><dd{% if not m.racking %} class="na"{% endif %}>{{ X.racking_short }}</dd></div>
     </dl>
+    {% if show_prices %}<div class="pc-price pc-price-row">{% if m.price_from %}<small>{{ t.from_cap }} · {{ t.excl_vat }}</small><b>{{ X.price }}</b>{% else %}<span class="req">{{ t.on_request }}</span>{% endif %}</div>{% endif %}
     <div class="pc-foot">
-      <div class="pc-price">{% if m.price_from %}<small>{{ t.from_cap }} · {{ t.excl_vat }}</small><b>{{ X.price }}</b>{% else %}<span class="req">{{ t.on_request }}</span>{% endif %}</div>
+      <a class="pc-view" href="{{ m.url[lang] }}" tabindex="-1" aria-hidden="true">{{ t.view_product }}{{ icon('arrow') }}</a>
       <label class="pc-cmp"><input type="checkbox" value="{{ m.id }}" data-cmp='{{ m.cmp[lang]|tojson }}'><span>{{ t.compare }}</span></label>
     </div>
+    <a class="btn btn-primary btn-sm pc-quote" href="{{ urls.quote }}?sku={{ m.sku|urlencode }}" aria-label="{{ t.card_quote }}: {{ m.name[lang] }}">{{ t.card_quote }}</a>
   </div>
 </article>
 {%- endmacro %}

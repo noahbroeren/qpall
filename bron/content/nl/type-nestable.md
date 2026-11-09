@@ -4,7 +4,7 @@ title: "Nestbare kunststof pallets – ruimtebesparend – Q-Pall"
 description: "Nestbare kunststof pallets schuiven leeg in elkaar: minder opslagruimte en goedkoper retourtransport. Light en display, in 8 formaten."
 eyebrow: "Ruimtebesparend"
 h1: "Nestbare **kunststof pallets**"
-lead: "Leeg schuift u ze in elkaar. Zo nemen nestbare pallets een fractie van de ruimte in bij opslag en retourtransport. Q-Pall heeft [[count]] nestbare modellen."
+lead: "Leeg schuift u ze in elkaar. Zo nemen nestbare pallets een fractie van de ruimte in bij opslag en retourtransport. Q-Pall heeft [[count]] nestbare uitvoeringen."
 faq:
   - q: "Wat is een nestbare pallet?"
     a: "Een nestbare pallet heeft holle pootjes die precies in de pootjes van de pallet eronder passen. Lege pallets schuift u zo in elkaar, waardoor een stapel veel lager is dan bij gewone pallets."

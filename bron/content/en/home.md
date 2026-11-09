@@ -55,7 +55,7 @@ intro:
 range:
   eyebrow: "Our range"
   title: "Find the pallet **that fits you**"
-  lead: "Choose by size or by application. Behind every tile you will find all models with specifications and, where available, a from-price."
+  lead: "Choose by size or by application. Behind every tile you will find all versions with their specifications."
   tab_sizes: "By size"
   tab_types: "By application"
   all: "View all plastic pallets"
@@ -169,7 +169,7 @@ faq:
   - q: "Are Q-Pall pallets sustainable?"
     a: "Yes. Our standard pallets are made from nearly 100% recycled plastic and are fully recyclable at the end of their life. We produce locally in six European factories, so less transport is needed."
   - q: "What does a plastic pallet cost?"
-    a: "A 600 x 400 mm display pallet costs a few euros, a nestable Euro pallet starts at around six euros and a heavy-duty pallet at around 24 euros, excluding VAT and transport. See our [price guide](@guide-prices) for all from-prices."
+    a: "That depends on the size, the load class, the quantity and the delivery location. A small display pallet or a nestable light pallet is the most affordable, a heavy-duty pallet with a closed deck the most expensive. [Request a quote](@quote) and you will usually receive a tailored price within one working day. Our [price guide](@guide-prices) explains what determines the price."
   - q: "How quickly can Q-Pall deliver?"
     a: "We keep popular models in stock at several locations. The lead time depends on model, quantity and location. [Request a quote](@quote) and we will usually tell you within one working day what is possible."
   - q: "Do you deliver outside the Netherlands?"

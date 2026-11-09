@@ -15,4 +15,4 @@ lead: "Toutes les palettes classées par format, avec dimensions, poids, plateau
 - Les semelles et semelles clipsables.
 - Les palettes antidérapantes Medium (depuis fin 2025).
 
-Le catalogue est disponible en six langues : néerlandais, anglais, allemand, français, italien et espagnol. Vous téléchargez automatiquement la version dans la langue de ce site. Les informations de ce site sont toujours les plus à jour : consultez donc aussi notre [gamme en ligne](@pallets), avec filtres et prix de départ.
+Le catalogue est disponible en six langues : néerlandais, anglais, allemand, français, italien et espagnol. Vous téléchargez automatiquement la version dans la langue de ce site. Les informations de ce site sont toujours les plus à jour : consultez donc aussi notre [gamme en ligne](@pallets), avec filtres et toutes les caractéristiques.

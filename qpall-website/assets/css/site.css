@@ -384,6 +384,7 @@ a:hover>.booklet,a:hover .booklet{transform:rotate(0)}
 .phero .lead{max-width:760px;margin-bottom:0}
 .phero-tag{display:flex;align-items:center;gap:12px;margin:-4px 0 18px;font-size:clamp(1.1rem,1.6vw,1.3rem);font-weight:500;line-height:1.35;color:var(--ink)}
 .phero-tag::before{content:"";flex:0 0 28px;height:2px;background:var(--orange)}
+[data-pid="about"] .phero-tag::before{content:none}   /* update 34: no dash before "Pallets with a purpose" on About */
 .phero-tag strong{font-weight:700}
 .phero-dark .phero-tag{color:#fff}
 .phero-dark{background:var(--navy);color:rgba(255,255,255,.82)}
@@ -487,6 +488,16 @@ a:hover>.booklet,a:hover .booklet{transform:rotate(0)}
 .pc-price .req,.pc-price b.req{font-size:.85rem;font-weight:600;color:var(--muted)}
 .pc-cmp{display:inline-flex;align-items:center;gap:7px;font-size:.8rem;color:var(--muted);cursor:pointer;position:relative;z-index:2}
 .pc-cmp input{width:16px;height:16px;accent-color:var(--navy);margin:0}
+/* update 34: every card says it can be opened and has a quick-quote button */
+.pc-price-row{margin-top:auto;padding-top:12px}
+.pc-price-row+.pc-foot{margin-top:0;padding-top:8px}
+.pc-foot .pc-view{display:inline-flex;align-items:center;gap:6px;font-size:.88rem;font-weight:600;line-height:1.2;color:var(--ink);text-decoration:none}
+.pc-view .ico{width:17px;height:17px;flex:none;color:var(--orange);transition:transform .2s var(--ease)}
+.pcard:hover .pc-view .ico{transform:translateX(4px)}
+.pcard:hover .pc-view{color:var(--navy)}
+.pcard .pc-foot{align-items:center}
+.pc-quote{width:100%;margin-top:12px;position:relative;z-index:2}
+.pricebox-np .btn{flex:1}
 .no-results{padding:40px;text-align:center;border:1px dashed var(--line);border-radius:var(--r)}
 .why-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:20px}
 .why-grid li{display:flex;flex-direction:column;gap:8px;padding:26px;border-radius:var(--r);background:var(--soft-2);border:1px solid var(--line-2)}

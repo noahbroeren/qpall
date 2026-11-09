@@ -9,6 +9,7 @@ h1: "Von globaler Abhängigkeit **zu lokaler Resilienz**"
 lead: "Jahrelang ging die Produktion an den günstigsten Anbieter, egal wo auf der Welt. Gestörte Containerlogistik, Handelskonflikte und Rohstoffengpässe zeigten, wie fragil das ist. Resilienz beginnt näher an Ihrem Standort."
 img_alt: "Produktionshalle mit Spritzgießmaschinen und Robotern in einem Werk von Q-Pall"
 reading: 4
+published: '2025-05-15'
 updated: '2026-11-02'
 ---
 > **Kurz gesagt**

@@ -9,6 +9,7 @@ h1: "From global dependence **to local resilience**"
 lead: "For years, production went to the lowest bidder, wherever in the world. Disrupted container logistics, trade tensions and raw material shortages showed how fragile that is. Resilience starts closer to home."
 img_alt: "Production hall with injection moulding machines and robots in a Q-Pall factory"
 reading: 4
+published: '2025-05-15'
 updated: '2026-11-02'
 ---
 > **In short**

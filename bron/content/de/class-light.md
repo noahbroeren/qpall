@@ -4,7 +4,7 @@ title: "Light-Kunststoffpaletten – leicht und nestbar – Q-Pall"
 description: "Light-Kunststoffpaletten für Export und Einmalgebrauch: leicht, oft nestbar, bis 2.500 kg statisch und 1.000 kg dynamisch. Erhältlich in 7 Größen."
 eyebrow: "Lastklasse Light"
 h1: "**Light**-Kunststoffpaletten"
-lead: "Die leichtesten Paletten in unserem Sortiment, gemacht für Export, einmalige Sendungen und Bodenlagerung. Es gibt [[count]] Light-Modelle, ab [[price_from]] pro Stück."
+lead: "Die leichtesten Paletten in unserem Sortiment, gemacht für Export, einmalige Sendungen und Bodenlagerung. Es gibt [[count]] Light-Ausführungen."
 faq:
   - q: "Wie viel trägt eine Light-Kunststoffpalette?"
     a: "Die meisten Light-Paletten tragen 2.500 kg statisch und 1.000 kg dynamisch. Die Light-Displaypalette 600 x 800 mm trägt 500 kg statisch. Light-Paletten sind nicht für Palettenregale vorgesehen."

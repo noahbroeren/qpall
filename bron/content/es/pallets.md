@@ -1,10 +1,10 @@
 ---
 id: pallets
-title: "Palets de plástico desde [[from_price]] - Q-Pall"
-description: "Palets de plástico directos del fabricante: unas 130 versiones, de Light a Heavy. Desde [[from_price]] por unidad, sin IVA ni transporte. Pida presupuesto."
+title: "Palets de plástico directos del fabricante - Q-Pall"
+description: "Palets de plástico directos del fabricante: unas 130 versiones, de Light a Heavy, de seis fábricas europeas. Solicite un presupuesto sin compromiso."
 eyebrow: "Gama de productos"
 h1: "Palets de plástico **directos del fabricante**"
-lead: "Desde un ligero palet de exportación encajable hasta un palet pesado para estantería de hasta 2.000 kg. Filtre por medida, capacidad de carga y versión. En cada modelo verá las especificaciones completas y, cuando esté disponible, un precio de partida."
+lead: "Desde un ligero palet de exportación encajable hasta un palet pesado para estantería de hasta 2.000 kg. Filtre por medida, capacidad de carga y versión. En cada versión verá las especificaciones completas."
 faq:
   - q: "¿Qué palet de plástico necesito?"
     a: "Depende de cuatro factores: las dimensiones de su carga, el peso por palet, la forma de almacenaje (suelo, apilado o estantería para palets) y si el palet vuelve. Para una exportación de un solo uso suele bastar un palet ligero encajable. Para almacenar en estantería para palets, elija un palet Medium o Heavy con patines y una carga en estantería adecuada a su peso. Nuestra [guía para elegir un palet de plástico](@guide-choose) le acompaña paso a paso en la elección."
@@ -13,7 +13,7 @@ faq:
   - q: "¿Los palets son de plástico reciclado?"
     a: "Sí. Fabricamos nuestros palets estándar con plástico casi 100% reciclado, una mezcla de HDPE y PP (en los palets Light, también LDPE). Solo nuestros palets higiénicos son de plástico virgen. Encontrará más información en la página de [sostenibilidad](@about-sustainability)."
   - q: "¿Cuánto cuesta un palet de plástico?"
-    a: "Para la mayoría de los palets estándar mostramos un precio de partida orientativo por unidad, IVA y transporte no incluidos. Su precio final depende de la cantidad, la planta de producción y la entrega. Encontrará un resumen de precios por medida en nuestra [guía de precios de palets de plástico](@guide-prices)."
+    a: "Su precio depende de la versión, la cantidad, la planta de producción y la entrega. [Solicite un presupuesto](@quote) y normalmente recibirá un precio a medida en un día laborable. Qué determina el precio lo explicamos en nuestra [guía de precios de palets de plástico](@guide-prices)."
   - q: "¿Puedo pedir un solo palet?"
     a: "Q-Pall suministra a empresas y vende siempre por pila completa, por ejemplo 17 palets Medium o 45 palets encajables. Los pedidos más grandes se entregan por camión completo. Para cantidades más pequeñas, le remitiremos con gusto a un [distribuidor cerca de usted](@dealers)."
 classes:

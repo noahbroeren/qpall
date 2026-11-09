@@ -15,4 +15,4 @@ lead: "Tutti i pallet per formato, con dimensioni, peso, piano superiore, base e
 - Slitte e slitte a incastro.
 - I pallet antiscivolo Medium (da fine 2025).
 
-Il catalogo è disponibile in sei lingue: olandese, inglese, tedesco, francese, italiano e spagnolo. Viene scaricata automaticamente la versione nella lingua di questo sito. Le informazioni su questo sito sono sempre le più aggiornate: date quindi un’occhiata anche alla nostra [gamma online](@pallets), con filtri e prezzi di partenza.
+Il catalogo è disponibile in sei lingue: olandese, inglese, tedesco, francese, italiano e spagnolo. Viene scaricata automaticamente la versione nella lingua di questo sito. Le informazioni su questo sito sono sempre le più aggiornate: date quindi un’occhiata anche alla nostra [gamma online](@pallets), con filtri e tutte le specifiche.

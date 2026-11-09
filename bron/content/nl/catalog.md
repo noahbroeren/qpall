@@ -15,4 +15,4 @@ lead: "Alle pallets per formaat, met afmetingen, gewicht, bovendek, onderzijde e
 - Onderlatten en klikbare onderlatten.
 - De medium antislip pallets (sinds eind 2025).
 
-De catalogus is er in zes talen: Nederlands, Engels, Duits, Frans, Italiaans en Spaans. U downloadt automatisch de versie in de taal van deze website. De gegevens op deze website zijn altijd het meest actueel. Bekijk daarom ook ons [online assortiment](@pallets), met filters en vanafprijzen.
+De catalogus is er in zes talen: Nederlands, Engels, Duits, Frans, Italiaans en Spaans. U downloadt automatisch de versie in de taal van deze website. De gegevens op deze website zijn altijd het meest actueel. Bekijk daarom ook ons [online assortiment](@pallets), met filters en alle specificaties.

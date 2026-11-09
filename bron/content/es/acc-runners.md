@@ -1,7 +1,7 @@
 ---
 id: acc-runners
 title: "Patines y patines de clic para palets – Q-Pall"
-description: "Patines y patines de clic de plástico para palets de plástico encajables con 9 pies. Se montan sin herramientas. Desde 1,31 € por unidad."
+description: "Patines y patines de clic de plástico para palets de plástico encajables con 9 pies. Se montan sin herramientas y se piden por unidad."
 eyebrow: "Accesorios"
 h1: "Patines **y patines de clic**"
 lead: "Convierta un palet encajable con 9 pies en un palet estable con 3 patines. Los patines se encajan por debajo sin herramientas, solo en el lugar donde los necesita."
@@ -11,7 +11,7 @@ faq:
   - q: "¿Qué patín encaja en qué palet?"
     a: "Los patines de clic de 1170 mm encajan en nuestros palets encajables de 1200 x 800 y 1200 x 1000 mm. El patín bajo de 15 mm también encaja en el de 760 x 1140 mm. Para los palets cuadrados hay patines estándar de 1100, 1140 y 1200 mm."
   - q: "¿Cuántos patines necesito por palet?"
-    a: "Se utilizan 3 patines por palet. El precio de esta página es por unidad."
+    a: "Se utilizan 3 patines por palet. Los patines se piden por unidad."
 ---
 
 ## Patines de clic: bajos o altos

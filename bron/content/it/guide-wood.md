@@ -42,4 +42,4 @@ Per spedizioni di sola andata in Europa, in cui il pallet fa parte di un sistema
 
 ## Il calcolo
 
-Un confronto equo si fa in costo per viaggio. Aggiungete i danni a merci e macchinari, i costi di riparazione, i fermi linea e il costo del trattamento ISPM 15 per l’esportazione. In molti casi la plastica risulta allora l’opzione più economica. Consultate i [prezzi attuali dei pallet in plastica](@guide-prices).
+Un confronto equo si fa in costo per viaggio. Aggiungete i danni a merci e macchinari, i costi di riparazione, i fermi linea e il costo del trattamento ISPM 15 per l’esportazione. In molti casi la plastica risulta allora l’opzione più economica. Cosa determina il prezzo di un pallet in plastica lo leggete in [quanto costa un pallet in plastica?](@guide-prices)

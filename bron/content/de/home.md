@@ -55,7 +55,7 @@ intro:
 range:
   eyebrow: "Unser Sortiment"
   title: "Finden Sie die Palette, **die zu Ihnen passt**"
-  lead: "Wählen Sie nach Größe oder nach Anwendung. Hinter jeder Kachel finden Sie alle Modelle mit technischen Daten und, sofern verfügbar, einem Ab-Preis."
+  lead: "Wählen Sie nach Größe oder nach Anwendung. Hinter jeder Kachel finden Sie alle Ausführungen mit ihren technischen Daten."
   tab_sizes: "Nach Größe"
   tab_types: "Nach Anwendung"
   all: "Alle Kunststoffpaletten ansehen"
@@ -169,7 +169,7 @@ faq:
   - q: "Sind Q-Pall-Paletten nachhaltig?"
     a: "Ja. Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff und sind am Ende ihrer Lebensdauer vollständig recycelbar. Wir produzieren lokal in sechs europäischen Werken, sodass weniger Transport nötig ist."
   - q: "Was kostet eine Kunststoffpalette?"
-    a: "Eine Displaypalette im Format 600 x 400 mm kostet wenige Euro, eine nestbare Europalette gibt es ab etwa sechs Euro und eine Schwerlastpalette ab etwa 24 Euro, jeweils zzgl. MwSt. und Transport. Alle Ab-Preise finden Sie in unserem [Preisratgeber](@guide-prices)."
+    a: "Das hängt von der Größe, der Lastklasse, der Menge und dem Lieferort ab. Eine kleine Displaypalette oder eine nestbare Light-Palette ist am günstigsten, eine Schwerlastpalette mit geschlossenem Deck am teuersten. [Fordern Sie ein Angebot an](@quote), dann erhalten Sie in der Regel innerhalb eines Werktags einen individuellen Preis. Was den Preis bestimmt, lesen Sie in unserem [Preisratgeber](@guide-prices)."
   - q: "Wie schnell kann Q-Pall liefern?"
     a: "Gängige Modelle haben wir an mehreren Standorten auf Lager. Die Lieferzeit hängt von Modell, Menge und Standort ab. [Fordern Sie ein Angebot an](@quote), und wir sagen Ihnen in der Regel innerhalb eines Werktags, was möglich ist."
   - q: "Liefern Sie auch außerhalb der Niederlande?"

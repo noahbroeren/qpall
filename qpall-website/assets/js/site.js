@@ -490,7 +490,7 @@
       [R.name, function (x) { return '<a href="' + esc(x.url) + '">' + esc(x.name) + '</a>'; }],
       [R.dims, 'dims'], [R.weight, 'weight'], [R.cls, 'cls'], [R.deck, 'deck'], [R.base, 'base'],
       [R.static, function (x) { return fmtInt(x.static) + ' kg'; }], [R.dyn, function (x) { return fmtInt(x.dyn) + ' kg'; }],
-      [R.rack, function (x) { return x.rack ? fmtInt(x.rack) + ' kg' : '–'; }], [R.loc, 'loc'], [R.price, function (x) { return esc(x.price || I18N.on_request); }]];
+      [R.rack, function (x) { return x.rack ? fmtInt(x.rack) + ' kg' : '–'; }], [R.loc, 'loc']].concat(R.price ? [[R.price, function (x) { return esc(x.price || I18N.on_request); }]] : []);   // no price row without prices (update 34)
     $('.cmp-table tbody', modal).innerHTML = rows.map(function (r) {
       return '<tr><th scope="row">' + esc(r[0]) + '</th>' + cmpList.map(function (x) { return '<td>' + (typeof r[1] === 'function' ? r[1](x) : esc(x[r[1]])) + '</td>'; }).join('') + '</tr>';
     }).join('');

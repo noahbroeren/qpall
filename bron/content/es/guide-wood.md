@@ -42,4 +42,4 @@ Para envíos sin retorno dentro de Europa en los que el palet forma parte de un 
 
 ## El cálculo
 
-Una comparación justa se hace en coste por viaje. Sume los daños en cargas y maquinaria, los costes de reparación, las paradas de línea y el coste del tratamiento ISPM 15 para la exportación. En muchos casos, el plástico resulta entonces la opción más económica. Consulte los [precios actuales de los palets de plástico](@guide-prices).
+Una comparación justa se hace en coste por viaje. Sume los daños en cargas y maquinaria, los costes de reparación, las paradas de línea y el coste del tratamiento ISPM 15 para la exportación. En muchos casos, el plástico resulta entonces la opción más económica. Qué determina el precio de un palet de plástico lo explicamos en [¿cuánto cuesta un palet de plástico?](@guide-prices)

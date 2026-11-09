@@ -1,7 +1,7 @@
 ---
 id: type-display
 title: "Palets expositores de plástico 600 x 400 y 600 x 800"
-description: "Palets expositores de plástico para supermercados y distribución: 600 x 400 y 600 x 800 mm. Ligeros, encajables y directos a la tienda. Precios de partida."
+description: "Palets expositores de plástico para supermercados y distribución: 600 x 400 y 600 x 800 mm. Ligeros, encajables y directos a la tienda. Pida presupuesto."
 eyebrow: "Distribución"
 h1: "**Palets expositores** de plástico"
 lead: "Del centro de distribución al lineal sin reembalar. Nuestros palets expositores son ligeros, encajables y están disponibles en formato de cuarto y de medio palet."

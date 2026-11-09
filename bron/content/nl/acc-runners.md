@@ -1,7 +1,7 @@
 ---
 id: acc-runners
 title: "Onderlatten en klikbare onderlatten voor pallets – Q-Pall"
-description: "Kunststof onderlatten en klikbare onderlatten voor nestbare pallets met 9 pootjes. Zonder gereedschap te monteren. Vanaf € 1,31 per stuk."
+description: "Kunststof onderlatten en klikbare onderlatten voor nestbare pallets met 9 pootjes. Zonder gereedschap te monteren en per stuk te bestellen."
 eyebrow: "Accessoires"
 h1: "Onderlatten **en klikbare onderlatten**"
 lead: "Maak van een nestbare pallet met 9 pootjes een stabiele pallet met 3 onderlatten. U klikt de onderlatten er zonder gereedschap onder, pas op de plek waar dat nodig is."
@@ -11,7 +11,7 @@ faq:
   - q: "Welke onderlat past onder welke pallet?"
     a: "De klikbare onderlatten van 1170 mm passen onder onze nestbare pallets van 1200 x 800 en 1200 x 1000 mm. De lage onderlat van 15 mm past ook onder de 760 x 1140 mm. Voor de vierkante pallets zijn er standaard onderlatten van 1100, 1140 en 1200 mm."
   - q: "Hoeveel onderlatten heb ik per pallet nodig?"
-    a: "Per pallet gebruikt u 3 onderlatten. De prijs op deze pagina is per stuk."
+    a: "Per pallet gebruikt u 3 onderlatten. U bestelt ze per stuk."
 ---
 
 ## Klikbare onderlatten: laag of hoog

@@ -49,7 +49,7 @@
         <div class="toolbar-r">
           <button class="btn btn-outline btn-sm f-toggle" type="button" data-open-filters>{{ M.icon('filter') }}{{ t.filters }}</button>
           <label class="sr-only" for="sortsel">{{ t.sort }}</label>
-          <select class="sortsel" id="sortsel" name="sort"><option value="pop">{{ t.sort_pop }}</option><option value="price">{{ t.sort_price }}</option><option value="static">{{ t.sort_static }}</option><option value="rack">{{ t.sort_rack }}</option><option value="weight">{{ t.sort_weight }}</option></select>
+          <select class="sortsel" id="sortsel" name="sort"><option value="pop">{{ t.sort_pop }}</option>{% if show_prices %}<option value="price">{{ t.sort_price }}</option>{% endif %}<option value="static">{{ t.sort_static }}</option><option value="rack">{{ t.sort_rack }}</option><option value="weight">{{ t.sort_weight }}</option></select>
         </div>
       </div>
       <div class="active-filters"></div>

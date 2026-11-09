@@ -1,30 +1,30 @@
 ---
 id: guide-prices
 tag: "Compra y precios"
-title: "¿Cuánto cuesta un palet de plástico? Precios 2026 por medida"
-description: "¿Cuánto cuesta un palet de plástico en 2026? Precios de partida por medida y clase de carga, del expositor al más resistente, y qué determina el precio."
-eyebrow: "Guía de precios 2026"
+title: "¿Cuánto cuesta un palet de plástico? Qué determina el precio"
+description: "¿Cuánto cuesta un palet de plástico? Qué determina el precio, del peso y la versión a la cantidad y la entrega, y cómo obtener rápido un precio a medida."
+eyebrow: "Guía de precios"
 h1: "¿Cuánto cuesta un **palet de plástico**?"
-lead: "Un palet de plástico cuesta desde unos pocos euros, en el caso de un palet expositor, hasta más de 50 €, en el de un palet de alta resistencia con superficie cerrada. Aquí encontrará los precios de partida por medida y clase de carga, y qué determina el precio."
-reading: 5
+lead: "El precio de un palet de plástico depende sobre todo del peso, la versión, la cantidad y la distancia a la fábrica. Un palet Light encajable es el más económico; un palet de alta resistencia con superficie cerrada, el más caro. Aquí puede leer qué determina el precio y cómo obtener rápidamente un precio a medida."
+reading: 4
 faq:
   - q: "¿Cuánto cuesta un europalet de plástico?"
-    a: "Un europalet Light encajable de 1200 x 800 mm está disponible desde [[price:size=1200x800,class=light]] por unidad. Un europalet Medium con 3 patines cuesta desde [[price:size=1200x800,class=medium]] y un europalet Heavy, desde [[price:size=1200x800,class=heavy]]. Todos los precios se indican con IVA no incluido y sin transporte."
+    a: "Un europalet Light encajable de 1200 x 800 mm es el más económico. Un europalet Medium con 3 patines cuesta más y un europalet Heavy es el más caro, porque es más pesado y contiene más plástico. Su precio también depende de la cantidad y del lugar de entrega. [Solicite un presupuesto](@quote) y normalmente recibirá un precio a medida en un día laborable."
   - q: "¿Es un palet de plástico más caro que uno de madera?"
     a: "Por unidad, un palet de plástico suele ser más caro. Pero dura mucho más, no daña su carga y no hay que repararlo ni tratarlo. Por eso, el plástico suele salir más barato por viaje. Lea también [palets de plástico o de madera](@guide-wood)."
-  - q: "¿Los precios incluyen el transporte?"
-    a: "No. Los precios mostrados son precios de partida orientativos por unidad, con IVA no incluido y sin transporte. Como producimos en seis fábricas europeas, la distancia hasta usted suele ser corta. Así los costes de transporte se mantienen bajos."
+  - q: "¿Está incluido el transporte en el precio?"
+    a: "Sí. En su presupuesto recibirá un precio a medida, con la entrega incluida desde una fábrica donde su palet esté disponible, lo más cerca posible de usted. ¿Prefiere recoger los palets usted mismo? Entonces en el presupuesto se indica en qué fábrica puede hacerlo. Como producimos en seis fábricas europeas, la distancia hasta usted suele ser corta. Así los costes de transporte se mantienen bajos."
   - q: "¿Obtengo descuento por cantidades mayores?"
     a: "Su precio depende de la cantidad y de la forma de entrega, por ejemplo por pila o por camión completo. Solicite un presupuesto para obtener un precio a medida."
 ---
 
-## Precios de partida por medida y clase de carga
+## Light, Medium o Heavy: el factor que más influye en el precio
 
-La tabla muestra el precio de tarifa más bajo por unidad según nuestra lista de precios, con IVA no incluido y sin transporte. Haga clic en una medida para ver todos los modelos y precios.
+La clase de carga determina en gran parte el precio, porque un palet más pesado contiene más plástico.
 
-[[pricetable]]
-
-¿Ve un guion? Entonces esa medida no tiene ningún modelo en esa clase, o el precio es a consultar. Los palets higiénicos, los palets para sala blanca y los palets CP son siempre a consultar.
+- **[Light](@class-light):** los palets más económicos, a menudo encajables. Para la exportación, los envíos puntuales y el almacenaje en suelo.
+- **[Medium](@class-medium):** la mejor relación calidad-precio para el uso diario en almacén, producción y distribución.
+- **[Heavy](@class-heavy):** los palets más pesados, para cargas pesadas, estanterías altas y años de uso intensivo.
 
 ## ¿Qué determina el precio de un palet de plástico?
 
@@ -50,4 +50,4 @@ Un palet de madera parece barato. Pero si se rompe tras unos pocos viajes, deja 
 
 ## Obtenga ya un precio a medida
 
-Los precios de partida le dan una buena primera indicación. Para un precio exacto con entrega en su ubicación, [solicite un presupuesto](@quote). Solemos responder en un día laborable.
+Para un precio exacto con entrega en su ubicación, [solicite un presupuesto](@quote). Indique el modelo, la cantidad y el lugar de entrega. Solemos responder en un día laborable.

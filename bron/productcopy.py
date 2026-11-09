@@ -239,7 +239,7 @@ def meta_title(m, lang):
     return m['meta_title'][lang]
 
 
-def meta_desc(m, lang):
+def meta_desc(m, lang, with_h=False):
     st = rng_txt(m['static'], lang).replace('–', '-')
     dy = rng_txt(m['dynamic'], lang).replace('–', '-')
     rk = rng_txt(m['racking'], lang).replace('–', '-') if m['racking'] else None
@@ -249,7 +249,8 @@ def meta_desc(m, lang):
     sw = support_words(m, lang)
     if lang == 'de':
         sw = sw.replace('Füße', 'Füßen')      # 'auf' + dative (update 33)
-    head = f"{tw} {dl} x {dw} mm, {deck_words(m, lang)} {ON[lang]} {sw}, {m['class']}"
+    hh = f" x {m['H']}" if with_h else ''        # height only for articles that would otherwise share the description
+    head = f"{tw} {dl} x {dw}{hh} mm, {deck_words(m, lang)} {ON[lang]} {sw}, {m['class']}"
     if m.get('sku_title'):
         head = f"{m['sku']}: {head}"
     loads = f"{st} {ws}, {dy} {wd}" + (f" {wand} {rk} {wr}" if rk else "")

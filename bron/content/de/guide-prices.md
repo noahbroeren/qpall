@@ -1,30 +1,30 @@
 ---
 id: guide-prices
 tag: "Kauf und Preise"
-title: "Was kostet eine Kunststoffpalette? Preise 2026 nach Größe"
-description: "Was kostet eine Kunststoffpalette 2026? Ab-Preise nach Größe und Lastklasse, von der Displaypalette bis zur Heavy-Duty-Palette, und was den Preis bestimmt."
-eyebrow: "Preisratgeber 2026"
+title: "Was kostet eine Kunststoffpalette? Das bestimmt den Preis"
+description: "Was kostet eine Kunststoffpalette? So bestimmen Gewicht, Ausführung, Menge und Lieferung den Preis, und so erhalten Sie schnell einen individuellen Preis."
+eyebrow: "Preisratgeber"
 h1: "Was kostet eine **Kunststoffpalette**?"
-lead: "Eine Kunststoffpalette kostet zwischen wenigen Euro für eine Displaypalette und über 50 € für eine Heavy-Duty-Palette mit geschlossenem Deck. Hier finden Sie die Ab-Preise nach Größe und Lastklasse und erfahren, was den Preis bestimmt."
-reading: 5
+lead: "Der Preis einer Kunststoffpalette hängt vor allem vom Gewicht, von der Ausführung, von der Menge und von der Entfernung zum Werk ab. Eine nestbare Light-Palette ist am günstigsten, eine Heavy-Duty-Palette mit geschlossenem Deck am teuersten. Hier lesen Sie, was den Preis bestimmt und wie Sie schnell einen individuellen Preis erhalten."
+reading: 4
 faq:
   - q: "Was kostet eine Europalette aus Kunststoff?"
-    a: "Eine nestbare Light-Europalette in 1200 x 800 mm erhalten Sie ab [[price:size=1200x800,class=light]] pro Stück. Eine Medium-Europalette mit 3 Kufen kostet ab [[price:size=1200x800,class=medium]] und eine Heavy-Europalette ab [[price:size=1200x800,class=heavy]]. Alle Preise verstehen sich zzgl. MwSt. und Transport."
+    a: "Eine nestbare Light-Europalette in 1200 x 800 mm ist am günstigsten. Eine Medium-Europalette mit 3 Kufen kostet mehr und eine Heavy-Europalette am meisten, weil sie schwerer ist und mehr Kunststoff enthält. Ihr Preis hängt außerdem von der Menge und vom Lieferort ab. [Fordern Sie ein Angebot an](@quote), dann erhalten Sie in der Regel innerhalb eines Werktags einen individuellen Preis."
   - q: "Ist eine Kunststoffpalette teurer als eine Holzpalette?"
     a: "Pro Stück ist eine Kunststoffpalette oft teurer. Sie hält aber viel länger, beschädigt Ihre Ladung nicht und muss weder repariert noch behandelt werden. Pro Umlauf ist Kunststoff dadurch oft günstiger. Lesen Sie auch [Kunststoff- oder Holzpaletten](@guide-wood)."
   - q: "Ist der Transport im Preis enthalten?"
-    a: "Nein. Die angezeigten Preise sind unverbindliche Ab-Preise pro Stück, zzgl. MwSt. und Transport. Da wir in sechs europäischen Werken produzieren, ist die Entfernung zu Ihnen meist kurz. Das hält die Transportkosten niedrig."
+    a: "Ja. In Ihrem Angebot steht ein individueller Preis, inklusive Lieferung aus einem Werk, in dem Ihre Palette verfügbar ist, möglichst nah bei Ihnen. Möchten Sie die Paletten lieber selbst abholen? Dann steht im Angebot, in welchem Werk das möglich ist. Da wir in sechs europäischen Werken produzieren, ist die Entfernung zu Ihnen meist kurz. Das hält die Transportkosten niedrig."
   - q: "Bekomme ich bei größeren Mengen Rabatt?"
     a: "Ihr Preis hängt von der Menge und der Lieferart ab, zum Beispiel pro Stapel oder pro komplette Lkw-Ladung. Fordern Sie ein Angebot für einen individuellen Preis an."
 ---
 
-## Ab-Preise nach Größe und Lastklasse
+## Light, Medium oder Heavy: der größte Preisfaktor
 
-Die Tabelle zeigt den niedrigsten Listenpreis pro Stück aus unserer Preisliste, zzgl. MwSt. und Transport. Klicken Sie auf eine Größe, um alle Modelle und Preise zu sehen.
+Die Lastklasse bestimmt den Preis zu einem großen Teil, weil eine schwerere Palette mehr Kunststoff enthält.
 
-[[pricetable]]
-
-Sie sehen einen Strich? Dann gibt es in dieser Größe kein Modell in dieser Klasse, oder der Preis ist auf Anfrage. Hygienepaletten, Reinraumpaletten und CP-Paletten gibt es immer auf Anfrage.
+- **[Light](@class-light):** die günstigsten Paletten, oft nestbar. Für Export, einmalige Sendungen und Bodenlagerung.
+- **[Medium](@class-medium):** das beste Preis-Leistungs-Verhältnis für den täglichen Einsatz in Lager, Produktion und Distribution.
+- **[Heavy](@class-heavy):** die schwersten Paletten, für schwere Lasten, hohe Regale und jahrelangen intensiven Einsatz.
 
 ## Was bestimmt den Preis einer Kunststoffpalette?
 
@@ -50,4 +50,4 @@ Eine Holzpalette wirkt günstig. Wenn sie aber nach wenigen Umläufen bricht, Sp
 
 ## Sofort einen individuellen Preis erhalten
 
-Die Ab-Preise geben Ihnen einen guten ersten Anhaltspunkt. Für einen genauen Preis inklusive Lieferung an Ihren Standort [fordern Sie ein Angebot an](@quote). Wir antworten in der Regel innerhalb eines Werktags.
+Für einen genauen Preis inklusive Lieferung an Ihren Standort [fordern Sie ein Angebot an](@quote). Nennen Sie das Modell, die Menge und den Lieferort. Wir antworten in der Regel innerhalb eines Werktags.

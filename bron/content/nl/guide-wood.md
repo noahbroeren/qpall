@@ -42,4 +42,4 @@ Bij eenmalige zendingen binnen Europa waarbij de pallet in een ruilsysteem zit, 
 
 ## De rekensom
 
-Een eerlijke vergelijking maakt u in kosten per omloop. Tel daarbij schade aan lading en machines, reparatiekosten, uitval op lijnen en de kosten voor ISPM 15-behandeling bij export op. In veel gevallen komt kunststof dan als voordeligste uit de bus. Bekijk de actuele [prijzen van kunststof pallets](@guide-prices).
+Een eerlijke vergelijking maakt u in kosten per omloop. Tel daarbij schade aan lading en machines, reparatiekosten, uitval op lijnen en de kosten voor ISPM 15-behandeling bij export op. In veel gevallen komt kunststof dan als voordeligste uit de bus. Wat de prijs van een kunststof pallet bepaalt, leest u in [wat kost een kunststof pallet?](@guide-prices)

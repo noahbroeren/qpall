@@ -23,7 +23,7 @@ faq:
   - q: "Where can I buy plastic pallets?"
     a: "Directly from Q-Pall, or through one of our [international dealers](@dealers). For large volumes, contact us directly."
   - q: "What does a plastic pallet cost?"
-    a: "The price depends on the size, the weight and therefore the amount of material, the quantity and the distance to our nearest factory. For many models, we show a from-price. You will find an overview in our [price guide](@guide-prices)."
+    a: "The price depends on the size, the weight and therefore the amount of material, the quantity and the distance to our nearest factory. [Request a quote](@quote) for a tailored price. Our [price guide](@guide-prices) explains what determines the price."
 ---
 
 ## A to Z

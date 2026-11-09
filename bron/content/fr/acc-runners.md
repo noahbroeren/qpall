@@ -1,7 +1,7 @@
 ---
 id: acc-runners
 title: "Semelles et semelles clipsables pour palettes – Q-Pall"
-description: "Semelles et semelles clipsables en plastique pour palettes plastique emboîtables à 9 pieds. Montage sans outils. À partir de 1,31 € pièce."
+description: "Semelles et semelles clipsables en plastique pour palettes plastique emboîtables à 9 pieds. Montage sans outils, commande à la pièce."
 eyebrow: "Accessoires"
 h1: "Semelles **et semelles clipsables**"
 lead: "Transformez une palette emboîtable à 9 pieds en palette stable à 3 semelles. Vous clipsez les semelles en dessous sans outils, uniquement là où vous en avez besoin."
@@ -11,7 +11,7 @@ faq:
   - q: "Quelle semelle convient à quelle palette ?"
     a: "Les semelles clipsables de 1170 mm conviennent à nos palettes emboîtables de 1200 x 800 et 1200 x 1000 mm. La semelle basse de 15 mm convient aussi à la 760 x 1140 mm. Pour les palettes carrées, il existe des semelles standard de 1100, 1140 et 1200 mm."
   - q: "Combien de semelles faut-il par palette ?"
-    a: "Il faut 3 semelles par palette. Le prix indiqué sur cette page s’entend à la pièce."
+    a: "Il faut 3 semelles par palette. Vous les commandez à la pièce."
 ---
 
 ## Semelles clipsables : basses ou hautes

@@ -1,30 +1,30 @@
 ---
 id: guide-prices
 tag: "Buying and prices"
-title: "What does a plastic pallet cost? 2026 prices by size"
-description: "What does a plastic pallet cost in 2026? From-prices by size and load class, from display pallet to heavy-duty, plus what determines the price."
-eyebrow: "Price guide 2026"
+title: "What does a plastic pallet cost? What drives the price"
+description: "What does a plastic pallet cost? Read what determines the price, from weight and design to quantities and delivery, and how to get a tailored price fast."
+eyebrow: "Price guide"
 h1: "What does a **plastic pallet** cost?"
-lead: "A plastic pallet costs anything from a few euros for a display pallet to over € 50 for a heavy-duty pallet with a closed deck. On this page you will find the from-prices by size and load class, and what determines the price."
-reading: 5
+lead: "The price of a plastic pallet depends mainly on the weight, the design, the quantity and the distance to the factory. A nestable light pallet is the most affordable, a heavy-duty pallet with a closed deck the most expensive. Here you can read what determines the price and how to get a tailored price quickly."
+reading: 4
 faq:
   - q: "What does a plastic Euro pallet cost?"
-    a: "A nestable light Euro pallet of 1200 x 800 mm is available from [[price:size=1200x800,class=light]] each. A medium Euro pallet with 3 runners costs from [[price:size=1200x800,class=medium]] and a heavy Euro pallet from [[price:size=1200x800,class=heavy]]. All prices exclude VAT and transport."
+    a: "A nestable light Euro pallet of 1200 x 800 mm is the most affordable. A medium Euro pallet with 3 runners costs more and a heavy Euro pallet the most, because it is heavier and contains more plastic. Your price also depends on the quantity and the delivery location. [Request a quote](@quote) and you will usually receive a tailored price within one working day."
   - q: "Is a plastic pallet more expensive than a wooden pallet?"
     a: "Per unit, a plastic pallet is often more expensive. But it lasts much longer, does not damage your load and does not need to be repaired or treated. As a result, plastic is often cheaper per trip. Also read [plastic or wooden pallets](@guide-wood)."
-  - q: "Do the prices include transport?"
-    a: "No. The prices shown are indicative from-prices per unit, excluding VAT and transport. Because we produce in six European factories, the distance to you is usually short. That keeps transport costs low."
+  - q: "Is transport included in the price?"
+    a: "Yes. Your quote contains a tailored price, including delivery from a factory where your pallet is available, as close to you as possible. Would you rather collect the pallets yourself? Then the quote states at which factory that is possible. Because we produce in six European factories, the distance to you is usually short. That keeps transport costs low."
   - q: "Do I get a discount on larger quantities?"
     a: "Your price depends on the quantity and the delivery method, for example per stack or per full truckload. Request a quote for a tailored price."
 ---
 
-## From-prices by size and load class
+## Light, medium or heavy: the biggest price factor
 
-The table shows the lowest list price per unit from our price list, excluding VAT and transport. Click a size to see all models and prices.
+The load class largely determines the price, because a heavier pallet contains more plastic.
 
-[[pricetable]]
-
-See a dash? Then that size has no model in that class, or the price is on request. Hygienic pallets, cleanroom pallets and CP pallets are always on request.
+- **[Light](@class-light):** the most affordable pallets, often nestable. For export, one-off shipments and floor storage.
+- **[Medium](@class-medium):** the best value for money for daily use in warehousing, production and distribution.
+- **[Heavy](@class-heavy):** the heaviest pallets, for heavy loads, high racking and years of intensive use.
 
 ## What determines the price of a plastic pallet?
 
@@ -50,4 +50,4 @@ A wooden pallet seems cheap. But if it breaks after a few trips, leaves splinter
 
 ## Get a tailored price straight away
 
-The from-prices give you a good first indication. For an exact price including delivery to your location, [request a quote](@quote). We usually respond within one working day.
+For an exact price including delivery to your location, [request a quote](@quote). State the model, the quantity and the delivery location. We usually respond within one working day.

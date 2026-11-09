@@ -55,7 +55,7 @@ Tel bij de vergelijking ook de kosten op die bij hout snel over het hoofd worden
 * **De ISPM 15-behandeling** die houten pallets voor export nodig hebben.
 * **Vrachtkosten**, want een lichtere pallet scheelt in transport.
 
-Deel de totale kosten door het aantal omlopen. In veel gevallen is kunststof dan de voordeligste keuze. Bekijk de vanafprijzen per formaat en draagklasse in [wat kost een kunststof pallet?](@guide-prices)
+Deel de totale kosten door het aantal omlopen. In veel gevallen is kunststof dan de voordeligste keuze. Wat de prijs van een kunststof pallet bepaalt, leest u in [wat kost een kunststof pallet?](@guide-prices)
 
 ## Nog voordeliger: gebruikte kunststof pallets
 

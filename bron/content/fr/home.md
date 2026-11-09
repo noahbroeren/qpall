@@ -55,7 +55,7 @@ intro:
 range:
   eyebrow: "Notre gamme"
   title: "Trouvez la palette **qui vous convient**"
-  lead: "Choisissez par format ou par application. Derrière chaque vignette, vous trouverez tous les modèles avec leurs caractéristiques et, le cas échéant, un prix de départ."
+  lead: "Choisissez par format ou par application. Derrière chaque vignette, vous trouverez toutes les versions avec leurs caractéristiques."
   tab_sizes: "Par format"
   tab_types: "Par application"
   all: "Voir toutes les palettes plastique"
@@ -169,7 +169,7 @@ faq:
   - q: "Les palettes Q-Pall sont-elles durables ?"
     a: "Oui. Nos palettes standard sont fabriquées en plastique recyclé à près de 100 % et sont entièrement recyclables en fin de vie. Nous produisons localement dans six usines européennes, ce qui réduit les besoins en transport."
   - q: "Combien coûte une palette plastique ?"
-    a: "Une palette display de 600 x 400 mm coûte quelques euros, une palette Europe emboîtable à partir d’environ six euros et une palette renforcée à partir d’environ 24 euros, HT et hors transport. Consultez notre [guide des prix](@guide-prices) pour tous les prix de départ."
+    a: "Cela dépend du format, de la classe de charge, de la quantité et du lieu de livraison. Une petite palette display ou une palette Light emboîtable est la plus économique, une palette Heavy à plateau fermé la plus chère. [Demandez un devis](@quote) : vous recevez généralement un prix sur mesure sous un jour ouvré. Notre [guide des prix](@guide-prices) explique ce qui détermine le prix."
   - q: "En combien de temps Q-Pall peut-elle livrer ?"
     a: "Nous avons les modèles les plus demandés en stock sur plusieurs sites. Le délai de livraison dépend du modèle, de la quantité et du site. [Demandez un devis](@quote) : nous vous indiquons généralement sous un jour ouvré ce qui est possible."
   - q: "Livrez-vous en dehors des Pays-Bas ?"

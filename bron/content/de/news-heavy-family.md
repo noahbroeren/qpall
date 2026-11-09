@@ -9,6 +9,7 @@ h1: "Q-Pall erweiterte 2021 seine Familie der **Schwerlastpaletten**"
 lead: "Auf der SITL Paris und der Fachpack stellte Q-Pall im September 2021 vier Schwerlast-Kunststoffpaletten vor. Robust, schlagfest und mit einer Tragfähigkeit von bis zu 1.375 kg im Hochregal."
 img_alt: "Ankündigungsbild mit einer Palette unter einem orangefarbenen Tuch und einer Lupe auf dem Q-Pall-Logo"
 reading: 2
+published: '2021-09-14'
 updated: '2026-11-02'
 ---
 > **Kurz gesagt**

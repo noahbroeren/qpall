@@ -49,11 +49,11 @@
           <span class="pdp-loc-v"><span class="loc-chip stack-chip">{{ X.stack_per }}</span>{% if X.stack_height %}<span class="stack-h">{{ X.stack_height }}</span>{% endif %}</span>
         </div>
 
-        <div class="pricebox">
-          <div class="pb-price">{% if m.price_from %}<small>{{ t.from_cap }} · {{ t.per_piece }} · {{ t.excl_vat }}</small><b>{{ X.price }}</b>{% else %}<small>{{ t.price }}</small><b class="req">{{ t.on_request }}</b>{% endif %}</div>
+        <div class="pricebox{% if not show_prices %} pricebox-np{% endif %}">
+          {% if show_prices %}<div class="pb-price">{% if m.price_from %}<small>{{ t.from_cap }} · {{ t.per_piece }} · {{ t.excl_vat }}</small><b>{{ X.price }}</b>{% else %}<small>{{ t.price }}</small><b class="req">{{ t.on_request }}</b>{% endif %}</div>{% endif %}
           <a class="btn btn-primary" href="{{ urls.quote }}?sku={{ m.sku|urlencode }}">{{ t.quote_this }}{{ M.icon('arrow') }}</a>
         </div>
-        <p class="pb-note">{% if m.price_from %}{{ t.price_note }}{% if m.moq_on_request %} {{ t.moq_note }}{% endif %}{% else %}{{ t.reply_1day }}.{% endif %}</p>
+        <p class="pb-note">{% if show_prices and m.price_from %}{{ t.price_note }}{% if m.moq_on_request %} {{ t.moq_note }}{% endif %}{% else %}{{ t.reply_1day }}.{% endif %}</p>
 
         <div class="pdp-actions">
           <a href="{{ X.datasheet }}" download>{{ M.icon('download') }}{{ t.dl_datasheet }}</a>
@@ -109,8 +109,8 @@
   <div class="wrap">
     {{ M.sec_head(t.sec_var, t.ds_variants, t.loc_note, 'h-var') }}
     <div class="table-scroll"><table class="data-table var-table">
-      <thead><tr><th>{{ t.art_nr }}</th>{% if m.multicol %}<th>{{ t.colour }}</th>{% endif %}<th>{{ t.location }}</th><th>{{ t.dims }}</th><th>{{ t.weight }}</th><th>{{ t.static }}</th><th>{{ t.dynamic }}</th><th>{{ t.racking }}</th><th class="r">{{ t.price }}</th></tr></thead>
-      <tbody>{% for v in variants %}<tr{% if v.current %} class="is-current" aria-current="page"{% endif %}><td>{% if v.current %}<b>{{ v.sku }}</b><span class="var-here">{{ t.this_page }}</span>{% else %}<a class="var-sku" href="{{ v.url }}">{{ v.sku }}</a><a class="var-quote" href="{{ v.url }}">{{ t.view_short }}{{ M.icon('arrow') }}</a>{% endif %}</td>{% if m.multicol %}<td>{{ v.colour }}</td>{% endif %}<td>{% if v.loc %}<span class="loc-inline">{{ M.flag(v.cc|lower) }}{{ v.loc }}</span>{% else %}<span class="muted">{{ t.loc_req }}</span>{% endif %}</td><td>{{ v.dims }}</td><td>{{ v.weight }}</td><td>{{ v.static }}</td><td>{{ v.dynamic }}</td><td>{{ v.racking }}</td><td class="r">{{ v.price }}</td></tr>{% endfor %}</tbody>
+      <thead><tr><th>{{ t.art_nr }}</th>{% if m.multicol %}<th>{{ t.colour }}</th>{% endif %}<th>{{ t.location }}</th><th>{{ t.dims }}</th><th>{{ t.weight }}</th><th>{{ t.static }}</th><th>{{ t.dynamic }}</th><th>{{ t.racking }}</th>{% if show_prices %}<th class="r">{{ t.price }}</th>{% endif %}</tr></thead>
+      <tbody>{% for v in variants %}<tr{% if v.current %} class="is-current" aria-current="page"{% endif %}><td>{% if v.current %}<b>{{ v.sku }}</b><span class="var-here">{{ t.this_page }}</span>{% else %}<a class="var-sku" href="{{ v.url }}">{{ v.sku }}</a><a class="var-quote" href="{{ v.url }}">{{ t.view_short }}{{ M.icon('arrow') }}</a>{% endif %}</td>{% if m.multicol %}<td>{{ v.colour }}</td>{% endif %}<td>{% if v.loc %}<span class="loc-inline">{{ M.flag(v.cc|lower) }}{{ v.loc }}</span>{% else %}<span class="muted">{{ t.loc_req }}</span>{% endif %}</td><td>{{ v.dims }}</td><td>{{ v.weight }}</td><td>{{ v.static }}</td><td>{{ v.dynamic }}</td><td>{{ v.racking }}</td>{% if show_prices %}<td class="r">{{ v.price }}</td>{% endif %}</tr>{% endfor %}</tbody>
     </table></div>
     <p class="small muted mt-2">{{ t.variant_note }}</p>
   </div>
@@ -157,7 +157,7 @@
 {% endif %}
 
 <div class="sticky-cta" data-pagefind-ignore>
-  <div class="pc-price">{% if m.price_from %}<small>{{ t.sticky_from }} · {{ t.excl_vat }}</small><b>{{ X.price }}</b>{% else %}<b class="req">{{ t.on_request }}</b>{% endif %}</div>
+  <div class="pc-price">{% if show_prices %}{% if m.price_from %}<small>{{ t.sticky_from }} · {{ t.excl_vat }}</small><b>{{ X.price }}</b>{% else %}<b class="req">{{ t.on_request }}</b>{% endif %}{% else %}<small>{{ t.art_nr_short }}</small><b>{{ m.sku }}</b>{% endif %}</div>
   <a class="btn btn-primary btn-sm" href="{{ urls.quote }}?sku={{ m.sku|urlencode }}">{{ t.cta_quote }}</a>
 </div>
 {% endblock %}

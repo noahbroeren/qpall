@@ -16,6 +16,7 @@ faq:
   a: "Die statische Belastung ist das Gewicht, das eine Palette im Stand trägt, zum Beispiel auf dem Boden. Die dynamische Belastung ist das Gewicht beim Bewegen mit Gabelstapler oder Hubwagen. Für die Lagerung im Palettenregal gilt ein eigener Wert."
 - q: "Ist eine Kunststoffpalette teurer als eine Holzpalette?"
   a: "Der Anschaffungspreis ist oft etwas höher. Eine Kunststoffpalette hält jedoch länger und braucht weniger Wartung. Dadurch fallen die Kosten über die gesamte Lebensdauer oft niedriger aus."
+published: '2023-04-12'
 updated: '2026-11-02'
 ---
 > **Kurz gesagt**

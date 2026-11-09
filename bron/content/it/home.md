@@ -55,7 +55,7 @@ intro:
 range:
   eyebrow: "La nostra gamma"
   title: "Trovate il pallet **giusto per voi**"
-  lead: "Scegliete per dimensione o per applicazione. Dietro ogni riquadro trovate tutti i modelli con le specifiche e, se disponibile, un prezzo di partenza."
+  lead: "Scegliete per dimensione o per applicazione. Dietro ogni riquadro trovate tutte le versioni con le relative specifiche."
   tab_sizes: "Per dimensione"
   tab_types: "Per applicazione"
   all: "Vedete tutti i pallet in plastica"
@@ -169,7 +169,7 @@ faq:
   - q: "I pallet Q-Pall sono sostenibili?"
     a: "Sì. I nostri pallet standard sono realizzati con plastica riciclata quasi al 100% e a fine vita sono completamente riciclabili. Produciamo localmente in sei stabilimenti europei, quindi servono meno trasporti."
   - q: "Quanto costa un pallet in plastica?"
-    a: "Un pallet espositore da 600 x 400 mm costa pochi euro, un europallet incastrabile parte da circa sei euro e un pallet per carichi pesanti da circa 24 euro, IVA e trasporto esclusi. Consultate la nostra [guida ai prezzi](@guide-prices) per tutti i prezzi di partenza."
+    a: "Dipende dal formato, dalla classe di portata, dalla quantità e dal luogo di consegna. Un piccolo pallet espositore o un pallet Light incastrabile è il più economico, un pallet per carichi pesanti con piano chiuso il più costoso. [Richiedete un preventivo](@quote): di solito riceverete un prezzo su misura entro un giorno lavorativo. Nella nostra [guida ai prezzi](@guide-prices) leggete cosa determina il prezzo."
   - q: "In quanto tempo consegna Q-Pall?"
     a: "Teniamo a magazzino i modelli più richiesti in più sedi. I tempi di consegna dipendono da modello, quantità e sito produttivo. [Richiedete un preventivo](@quote) e di solito entro un giorno lavorativo vi diremo cosa è possibile."
   - q: "Consegnate anche fuori dai Paesi Bassi?"

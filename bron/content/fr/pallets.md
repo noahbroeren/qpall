@@ -1,10 +1,10 @@
 ---
 id: pallets
-title: "Palette plastique à partir de [[from_price]] - Q-Pall"
-description: "Palettes plastique en direct du fabricant : environ 130 versions, de Light à Heavy. Dès [[from_price]] HT l’unité, hors transport. Devis gratuit."
+title: "Palette plastique en direct du fabricant - Q-Pall"
+description: "Palettes plastique en direct du fabricant : environ 130 versions, de Light à Heavy, issues de six usines européennes. Demandez un devis sans engagement."
 eyebrow: "Gamme de produits"
 h1: "Palettes plastique **en direct du fabricant**"
-lead: "De la palette export emboîtable et légère à la palette de rayonnage lourde jusqu’à 2.000 kg. Filtrez par format, capacité de charge et version. Pour chaque modèle, vous voyez toutes les caractéristiques et, le cas échéant, un prix de départ."
+lead: "De la palette export emboîtable et légère à la palette de rayonnage lourde jusqu’à 2.000 kg. Filtrez par format, capacité de charge et version. Pour chaque version, vous voyez toutes les caractéristiques."
 faq:
   - q: "De quelle palette plastique ai-je besoin ?"
     a: "Cela dépend de quatre critères : les dimensions de votre charge, le poids par palette, votre mode de stockage (au sol, en gerbage ou en rayonnage à palettes) et le retour éventuel de la palette. Pour un export sans retour, une palette légère emboîtable suffit généralement. Pour un stockage en rayonnage à palettes, choisissez une palette Medium ou Heavy sur semelles, avec une charge en rayonnage adaptée à votre poids. Notre [guide pour choisir une palette plastique](@guide-choose) vous accompagne pas à pas dans ce choix."
@@ -13,7 +13,7 @@ faq:
   - q: "Les palettes sont-elles fabriquées en plastique recyclé ?"
     a: "Oui. Nous fabriquons nos palettes standard en plastique recyclé à près de 100 %, un mélange de HDPE et de PP (et aussi de LDPE dans les palettes Light). Seules nos palettes hygiéniques sont en plastique vierge. Pour en savoir plus, consultez la page [développement durable](@about-sustainability)."
   - q: "Combien coûte une palette plastique ?"
-    a: "Pour la plupart des palettes standard, nous affichons un prix de départ indicatif à l’unité, HT et hors transport. Votre prix final dépend de la quantité, du site de production et de la livraison. Vous trouverez un aperçu des prix par format dans notre [guide des prix des palettes plastique](@guide-prices)."
+    a: "Votre prix dépend de la version, de la quantité, du site de production et de la livraison. [Demandez un devis](@quote) : vous recevez généralement un prix sur mesure sous un jour ouvré. Découvrez ce qui détermine le prix dans notre [guide des prix des palettes plastique](@guide-prices)."
   - q: "Puis-je commander une seule palette ?"
     a: "Q-Pall livre les entreprises et vend toujours par pile complète, par exemple 17 palettes Medium ou 45 palettes emboîtables. Les commandes plus importantes sont livrées par camion complet. Pour de plus petites quantités, nous vous orientons volontiers vers un [distributeur près de chez vous](@dealers)."
 classes:

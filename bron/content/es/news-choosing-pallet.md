@@ -16,6 +16,7 @@ faq:
   a: "La carga estática es el peso que soporta un palet cuando está parado, por ejemplo en el suelo. La carga dinámica es el peso que soporta mientras se mueve con una carretilla elevadora o una transpaleta. Para el almacenamiento en estanterías para palets se aplica un valor aparte."
 - q: "¿Un palet de plástico es más caro que uno de madera?"
   a: "El precio de compra suele ser algo más alto. Sin embargo, un palet de plástico dura más y necesita menos mantenimiento. Por eso, el coste durante toda su vida útil suele ser menor."
+published: '2023-04-12'
 updated: '2026-11-02'
 ---
 > **En resumen**

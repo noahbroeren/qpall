@@ -9,6 +9,7 @@ h1: "En 2021 Q-Pall amplió su familia de **palets Heavy**"
 lead: "En SITL París y Fachpack, en septiembre de 2021, Q-Pall presentó cuatro palets de plástico Heavy. Robustos, resistentes a los impactos y con una capacidad de hasta 1.375 kg en estanterías altas."
 img_alt: "Imagen de presentación con un palet bajo una tela naranja y una lupa sobre el logotipo de Q-Pall"
 reading: 2
+published: '2021-09-14'
 updated: '2026-11-02'
 ---
 > **En resumen**

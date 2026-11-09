@@ -55,7 +55,7 @@ Dans votre comparaison, tenez aussi compte des coûts que l’on oublie facileme
 * **Le traitement ISPM 15** nécessaire aux palettes en bois pour l’export.
 * **Les frais de transport**, car une palette plus légère coûte moins cher à transporter.
 
-Divisez le coût total par le nombre de rotations. Dans de nombreux cas, le plastique s’avère alors le choix le plus économique. Consultez les prix de départ par format et classe de charge dans [combien coûte une palette plastique ?](@guide-prices)
+Divisez le coût total par le nombre de rotations. Dans de nombreux cas, le plastique s’avère alors le choix le plus économique. Découvrez ce qui détermine le prix d’une palette plastique dans [combien coûte une palette plastique ?](@guide-prices)
 
 ## Encore moins cher : les palettes plastique d’occasion
 

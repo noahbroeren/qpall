@@ -11,7 +11,7 @@ from urllib.parse import quote_plus
 from jinja2 import Environment, FileSystemLoader, select_autoescape, pass_context
 from markupsafe import Markup, escape
 
-from site_config import (NOINDEX_ALL, GTM_ID, PROD_HOSTS, HUBSPOT_HOSTS, HUBSPOT_ID, HUBSPOT_REGION, HUBSPOT_FORMS, SKU_COLOUR, SB_CROP, ARTICLE_RECOMMEND, LANG_REGION, KB_ITEMS, KB_CATS, DOMAIN, LANGS, X_DEFAULT, PAGES, SIZES, SIZE_BY_KEY, TYPES, TYPE_BY_KEY, CLASSES, SECTORS, COMPANY,
+from site_config import (SHOW_PRICES, NOINDEX_ALL, GTM_ID, PROD_HOSTS, HUBSPOT_HOSTS, HUBSPOT_ID, HUBSPOT_REGION, HUBSPOT_FORMS, SKU_COLOUR, SB_CROP, ARTICLE_RECOMMEND, LANG_REGION, KB_ITEMS, KB_CATS, DOMAIN, LANGS, X_DEFAULT, PAGES, SIZES, SIZE_BY_KEY, TYPES, TYPE_BY_KEY, CLASSES, SECTORS, COMPANY,
                          LOCATIONS, FACTORIES, COUNTRY, REDIRECTS, CATALOG_FILES, catalog_size, PRICE_VALID_UNTIL, BUILD_DATE,
                          LOCALE, HTML_LANG, LANG_NAME, TRANSPORT_SITES, OG_PAGES, GUIDES, PREFIX, NEWS_ITEMS, TEAM, TEAM_BY, TEAM_BY_NAME, AUTHORS, KB_SIDE_EXTRA, LAUNCH_DATE, DEALERS)
 from i18n import T, MISSING
@@ -174,6 +174,19 @@ def _fix_names():
 _fix_names()
 FAMILY_BY_ID = {f['id']: f for f in FAMILIES}
 
+# No prices on the site (SHOW_PRICES, update 34). Removed only now: the choice of the anchor article (URL) and the order
+# of the versions were made with the price list above and must stay the same, with or without prices.
+for _m in MODELS:
+    _m['had_price'] = bool(_m['price_from'])          # keeps the 'recommended' order and the similar pallets as they were
+    if not SHOW_PRICES:
+        _m['price_from'] = _m['price_to'] = None
+        _m['moq_on_request'] = False
+        for _v in _m['variants']:
+            _v['price'] = None
+if not SHOW_PRICES:
+    for _a in ACCS:
+        _a['price'] = None
+
 
 def loc_label(code, lang, long=False):
     L = LOCATIONS[code]
@@ -284,7 +297,7 @@ for m in MODELS:
         m['cmp'][l] = {'id': m['id'], 'name': m['name'][l], 'url': m['url'][l], 'img': m['img_sm'], 'dims': dims, 'weight': w,
                        'cls': m['class'].capitalize(), 'deck': X['deck_label'], 'base': X['support'],
                        'static': m['static'][1], 'dyn': m['dynamic'][1], 'rack': m['racking'][1] if m['racking'] else 0,
-                       'loc': X['locs_txt'], 'price': (t['from_cap'] + ' ' + X['price']) if X['price'] else None}
+                       'loc': X['locs_txt']} | ({'price': (t['from_cap'] + ' ' + X['price']) if X['price'] else None} if SHOW_PRICES else {})
 
 # ------------------------------------------------------------------------------------------------ content
 CONTENT = {l: {} for l in LANGS}
@@ -326,6 +339,9 @@ def min_price(ms):
 def meta_price(lang):
     """Lowest 'from' price of all pallets for titles and meta descriptions ([[from_price]] in the front matter):
     nl/it '€ 3,41', en '€3.41', de/fr/es '3,41 €'. Updates itself when data/prijzen.csv changes."""
+    if not SHOW_PRICES:          # update 34: a text with a price placeholder while prices are off
+        WARN.append(f'[[from_price]] used without prices ({lang})')
+        return ''
     p = fmt_price(min_price(MODELS), lang).replace('\xa0', ' ')
     return p.replace('€ ', '€') if lang == 'en' else p
 
@@ -408,6 +424,9 @@ def placeholders(text, lang, ctx):
 
     def rep(mo):
         key = mo.group(1)
+        if not SHOW_PRICES and (key in ('price_from', 'pricetable', 'pricelist') or key.startswith('price:')):
+            WARN.append(f'price placeholder [[{key}]] used without prices ({lang})')     # update 34
+            return ''
         if key == 'count':
             return str(ctx.get('count', ''))
         if key == 'price_from':
@@ -516,6 +535,7 @@ def plain(s):
 env = Environment(loader=FileSystemLoader(os.path.join(ROOT, 'templates')), autoescape=select_autoescape(['html', 'svg']),
                   trim_blocks=True, lstrip_blocks=True)
 env.globals['site_noindex'] = NOINDEX_ALL
+env.globals['show_prices'] = SHOW_PRICES      # update 34
 env.globals['gtm_id'] = GTM_ID
 env.globals['prod_hosts'] = ' '.join(PROD_HOSTS)
 env.globals['hubspot'] = {'id': HUBSPOT_ID, 'region': HUBSPOT_REGION, 'hosts': ' '.join(HUBSPOT_HOSTS),
@@ -914,7 +934,7 @@ JS_I18N = {l: {k: T[l][k] for k in ('results', 'result', 'search_none', 'search_
                                      'f_any', 'from_cap', 'compare_title', 'show_more', 'tr_unavailable', 'tr_open_new', 'tr_loading')}
            | {'cmp_rows': {'name': T[l]['model'], 'dims': T[l]['dims'], 'weight': T[l]['weight'], 'cls': T[l]['class'], 'deck': T[l]['deck'],
                            'base': T[l]['bottom'], 'static': T[l]['static_l'], 'dyn': T[l]['dynamic_l'], 'rack': T[l]['racking_l'],
-                           'loc': T[l]['locations'], 'price': T[l]['price']}}
+                           'loc': T[l]['locations']} | ({'price': T[l]['price']} if SHOW_PRICES else {})}
            for l in LANGS}
 
 
@@ -1119,7 +1139,7 @@ def similar_models(m, n=10):
         sc += 1 if x['support']['type'] == m['support']['type'] else 0
         sc += .5 if x['support']['n'] == m['support']['n'] else 0
         sc -= abs(math.log((x['static'][1] or 1) / (m['static'][1] or 1)))
-        sc += .3 if x['price_from'] else 0
+        sc += .3 if x.get('had_price') else 0
         return sc
     pool = [x for x in MODELS if x['family'] != m['family']]     # the family's own articles have their own section
     return sorted(pool, key=lambda x: (-score(x), x['id']))[:n]
@@ -1240,6 +1260,20 @@ def calc_ctx(lang, m=None):
     return out
 
 
+_TWINS = {}
+
+
+def _meta_twins(lang):
+    """Articles whose meta description would be the same as another one's (without prices the price no longer tells
+    them apart, update 34): they get their height in the description."""
+    if lang not in _TWINS:
+        seen = {}
+        for x in MODELS:
+            seen.setdefault(PC.meta_desc(x, lang), []).append(x['id'])
+        _TWINS[lang] = {i for ids in seen.values() if len(ids) > 1 for i in ids}
+    return _TWINS[lang]
+
+
 def render_product(m, lang):
     t = T[lang]
     pid = 'p:' + m['id']
@@ -1268,7 +1302,7 @@ def render_product(m, lang):
         see.append({'label': short_title('acc-collars', lang), 'url': url('acc-collars', lang)})
     see.append({'label': short_title('about-load', lang), 'url': url('about-load', lang)})
     title = PC.meta_title(m, lang)
-    desc = PC.meta_desc(m, lang)
+    desc = PC.meta_desc(m, lang, with_h=m['id'] in _meta_twins(lang))   # height in when two articles would share the text
     check_meta(pid, lang, title, desc)
     jl = [product_ld(m, lang), crumbs_ld(crumbs)]
     ctx = base_ctx(pid, lang, title, desc, section='pallets', jsonld=jl, preload=m['gallery'][0]['md'] if m['gallery'] else m['img_url'], tpl='product')

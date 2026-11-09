@@ -15,4 +15,4 @@ lead: "Todos los palets por medida, con dimensiones, peso, superficie superior, 
 - Patines y patines de clic.
 - Los palets antideslizantes Medium (desde finales de 2025).
 
-El catálogo está disponible en seis idiomas: neerlandés, inglés, alemán, francés, italiano y español. Se descarga automáticamente la versión en el idioma de esta web. La información de esta web es siempre la más actualizada, así que eche también un vistazo a nuestra [gama online](@pallets), con filtros y precios de partida.
+El catálogo está disponible en seis idiomas: neerlandés, inglés, alemán, francés, italiano y español. Se descarga automáticamente la versión en el idioma de esta web. La información de esta web es siempre la más actualizada, así que eche también un vistazo a nuestra [gama online](@pallets), con filtros y todas las especificaciones.

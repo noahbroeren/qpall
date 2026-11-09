@@ -55,7 +55,7 @@ When comparing, also include the costs that are easily overlooked with wood:
 * **The ISPM 15 treatment** that wooden pallets need for export.
 * **Freight costs**, because a lighter pallet saves on transport.
 
-Divide the total cost by the number of trips. In many cases, plastic then turns out to be the most cost-effective choice. See the from-prices per size and load class in [what does a plastic pallet cost?](@guide-prices)
+Divide the total cost by the number of trips. In many cases, plastic then turns out to be the most cost-effective choice. You can read what determines the price of a plastic pallet in [what does a plastic pallet cost?](@guide-prices)
 
 ## Even cheaper: used plastic pallets
 

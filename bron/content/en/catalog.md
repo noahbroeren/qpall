@@ -15,4 +15,4 @@ lead: "All pallets by size, with dimensions, weight, top deck, base and load cap
 - Runners and click-on runners.
 - The medium anti-slip pallets (since late 2025).
 
-The catalogue is available in six languages: Dutch, English, German, French, Italian and Spanish. You automatically download the version in the language of this website. The information on this website is always the most up to date, so also take a look at our [online range](@pallets), with filters and from-prices.
+The catalogue is available in six languages: Dutch, English, German, French, Italian and Spanish. You automatically download the version in the language of this website. The information on this website is always the most up to date, so also take a look at our [online range](@pallets), with filters and all specifications.

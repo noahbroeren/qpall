@@ -9,6 +9,7 @@ h1: "Q-Pall breidde in 2021 zijn familie **heavy duty pallets** uit"
 lead: "Op SITL Paris en Fachpack presenteerde Q-Pall in september 2021 vier heavy duty kunststof pallets. Robuust, slagvast en met een draagvermogen tot 1.375 kg in hoge stellingen."
 img_alt: "Aankondigingsbeeld met een pallet onder een oranje doek en een vergrootglas op het Q-Pall-logo"
 reading: 2
+published: '2021-09-14'
 updated: '2026-11-02'
 ---
 > **In het kort**

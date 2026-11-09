@@ -4,7 +4,7 @@ title: "Light kunststof pallets – licht en nestbaar – Q-Pall"
 description: "Light kunststof pallets voor export en eenmalig gebruik: licht, vaak nestbaar, tot 2.500 kg statisch en 1.000 kg dynamisch. In 7 formaten."
 eyebrow: "Draagklasse light"
 h1: "**Light** kunststof pallets"
-lead: "De lichtste pallets in ons assortiment, gemaakt voor export, eenmalige zendingen en vloeropslag. Er zijn [[count]] light modellen, vanaf [[price_from]] per stuk."
+lead: "De lichtste pallets in ons assortiment, gemaakt voor export, eenmalige zendingen en vloeropslag. Er zijn [[count]] light uitvoeringen."
 faq:
   - q: "Hoeveel draagt een light kunststof pallet?"
     a: "De meeste light pallets dragen 2.500 kg statisch en 1.000 kg dynamisch. De light displaypallet van 600 x 800 mm draagt 500 kg statisch. Light pallets zijn niet bedoeld voor palletstellingen."

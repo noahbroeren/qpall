@@ -1,7 +1,7 @@
 ---
 id: type-display
 title: "Plastic display pallets 600 x 400 and 600 x 800 – Q-Pall"
-description: "Plastic display pallets for supermarkets and retail, in 600 x 400 and 600 x 800 mm. Light, nestable and straight into the shop. With from-prices."
+description: "Plastic display pallets for supermarkets and retail, in 600 x 400 and 600 x 800 mm. Light, nestable and straight into the shop. Request a quote."
 eyebrow: "Retail"
 h1: "Plastic **display pallets**"
 lead: "From distribution centre to shelf without repacking. Our display pallets are light, nestable and available in quarter and half Euro pallet size."

@@ -4,7 +4,7 @@ title: "Heavy-duty plastic pallets – up to 2,000 kg racking load"
 description: "Heavy-duty plastic pallets: up to 7,500 kg static, up to 2,200 kg dynamic and up to 2,000 kg in racking. Open or closed deck, 3 to 6 runners."
 eyebrow: "Load class heavy"
 h1: "**Heavy-duty** plastic pallets"
-lead: "For heavy loads, high racking and years of intensive use. There are [[count]] heavy models, including hygienic, CP and pool pallets."
+lead: "For heavy loads, high racking and years of intensive use. There are [[count]] heavy versions, including hygienic, CP and pool pallets."
 faq:
   - q: "How much does a heavy plastic pallet carry?"
     a: "Our heavy pallets carry up to 7,500 kg static, up to 2,200 kg dynamic and up to 2,000 kg in pallet racking. The exact values differ per model. You will find them with each product."

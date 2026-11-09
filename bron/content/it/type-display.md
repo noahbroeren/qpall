@@ -1,7 +1,7 @@
 ---
 id: type-display
 title: "Pallet espositori in plastica 600 x 400 e 600 x 800"
-description: "Pallet espositori in plastica per supermercati e negozi, 600 x 400 e 600 x 800 mm. Leggeri, incastrabili, direttamente in negozio. Con prezzi di partenza."
+description: "Pallet espositori in plastica per supermercati e negozi, 600 x 400 e 600 x 800 mm. Leggeri, incastrabili, direttamente in negozio. Richiedete un preventivo."
 eyebrow: "Grande distribuzione"
 h1: "**Pallet espositori** in plastica"
 lead: "Dal centro di distribuzione allo scaffale senza riconfezionare. I nostri pallet espositori sono leggeri, incastrabili e disponibili nei formati quarto di pallet e mezzo pallet."

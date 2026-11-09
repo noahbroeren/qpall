@@ -4,7 +4,7 @@ title: "Nestable plastic pallets – space-saving – Q-Pall"
 description: "Nestable plastic pallets slide into each other when empty: less storage space and cheaper return transport. Light and display, in 8 sizes."
 eyebrow: "Space-saving"
 h1: "Nestable **plastic pallets**"
-lead: "When empty, you slide them into each other. This way, nestable pallets take up a fraction of the space in storage and return transport. Q-Pall has [[count]] nestable models."
+lead: "When empty, you slide them into each other. This way, nestable pallets take up a fraction of the space in storage and return transport. Q-Pall has [[count]] nestable versions."
 faq:
   - q: "What is a nestable pallet?"
     a: "A nestable pallet has hollow feet that fit exactly into the feet of the pallet below. This lets you slide empty pallets into each other, so a stack is much lower than with standard pallets."

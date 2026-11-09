@@ -9,6 +9,7 @@ h1: "En 2021, Q-Pall a élargi sa famille de **palettes Heavy**"
 lead: "Au SITL Paris et au Fachpack, en septembre 2021, Q-Pall a présenté quatre palettes plastique Heavy. Robustes, résistantes aux chocs et capables de porter jusqu’à 1.375 kg en rayonnage de grande hauteur."
 img_alt: "Visuel d’annonce montrant une palette sous un drap orange et une loupe sur le logo Q-Pall"
 reading: 2
+published: '2021-09-14'
 updated: '2026-11-02'
 ---
 > **En bref**

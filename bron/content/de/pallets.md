@@ -1,10 +1,10 @@
 ---
 id: pallets
-title: "Kunststoffpaletten kaufen ab [[from_price]] - Q-Pall"
-description: "Kunststoffpaletten direkt vom Hersteller: rund 130 Ausführungen, Light bis Heavy. Ab [[from_price]] zzgl. MwSt. und Transport. Unverbindlich anfragen."
+title: "Kunststoffpaletten vom Hersteller kaufen - Q-Pall"
+description: "Kunststoffpaletten direkt vom Hersteller: rund 130 Ausführungen, von Light bis Heavy, aus sechs europäischen Werken. Unverbindlich ein Angebot anfordern."
 eyebrow: "Sortiment"
 h1: "Kunststoffpaletten **direkt vom Hersteller**"
-lead: "Von der leichten, nestbaren Einwegpalette bis zur schweren Regalpalette für bis zu 2.000 kg. Filtern Sie nach Größe, Tragfähigkeit und Ausführung. Zu jedem Modell sehen Sie alle technischen Daten und, sofern verfügbar, einen Ab-Preis."
+lead: "Von der leichten, nestbaren Einwegpalette bis zur schweren Regalpalette für bis zu 2.000 kg. Filtern Sie nach Größe, Tragfähigkeit und Ausführung. Zu jeder Ausführung sehen Sie alle technischen Daten."
 faq:
   - q: "Welche Kunststoffpalette brauche ich?"
     a: "Das hängt von vier Dingen ab: der Größe Ihrer Ladung, dem Gewicht pro Palette, der Art der Lagerung (Boden, Stapel oder Palettenregal) und davon, ob die Palette zurückkommt. Für den Einweg-Export reicht meist eine leichte, nestbare Palette. Für die Lagerung im Palettenregal wählen Sie eine Medium- oder Heavy-Palette mit Kufen und einer Regalbelastung, die zu Ihrem Gewicht passt. Unser [Ratgeber zur Wahl der richtigen Kunststoffpalette](@guide-choose) führt Sie Schritt für Schritt durch die Auswahl."
@@ -13,7 +13,7 @@ faq:
   - q: "Sind die Paletten aus recyceltem Kunststoff?"
     a: "Ja. Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE und PP (in Light-Paletten auch LDPE). Nur unsere Hygienepaletten bestehen aus Neuware. Mehr dazu lesen Sie auf der Seite [Nachhaltigkeit](@about-sustainability)."
   - q: "Was kostet eine Kunststoffpalette?"
-    a: "Für die meisten Standardpaletten zeigen wir einen unverbindlichen Ab-Preis pro Stück, zzgl. MwSt. und Transport. Ihr Endpreis hängt von Menge, Produktionsstandort und Lieferung ab. Eine Übersicht der Preise je Größe finden Sie in unserem [Preisratgeber für Kunststoffpaletten](@guide-prices)."
+    a: "Ihr Preis hängt von der Ausführung, der Menge, dem Produktionsstandort und der Lieferung ab. [Fordern Sie ein Angebot an](@quote), dann erhalten Sie in der Regel innerhalb eines Werktags einen individuellen Preis. Was den Preis bestimmt, lesen Sie in unserem [Preisratgeber für Kunststoffpaletten](@guide-prices)."
   - q: "Kann ich eine einzelne Palette bestellen?"
     a: "Q-Pall beliefert Unternehmen und verkauft immer pro vollem Stapel, zum Beispiel 17 Medium- oder 45 nestbare Paletten. Größere Aufträge liefern wir per Lkw-Ladung. Für kleinere Mengen verweisen wir Sie gern an einen [Händler in Ihrer Nähe](@dealers)."
 classes:

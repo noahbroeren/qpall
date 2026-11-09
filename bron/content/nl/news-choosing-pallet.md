@@ -16,6 +16,7 @@ faq:
   a: "Statische belasting is het gewicht dat een pallet draagt als hij stilstaat, bijvoorbeeld op de vloer. Dynamische belasting is het gewicht tijdens het verplaatsen met een heftruck of pompwagen. Voor opslag in een palletstelling geldt een aparte waarde."
 - q: "Is een kunststof pallet duurder dan een houten pallet?"
   a: "De aanschafprijs is vaak iets hoger. Een kunststof pallet gaat wel langer mee en heeft minder onderhoud nodig. Daardoor vallen de kosten over de hele levensduur vaak lager uit."
+published: '2023-04-12'
 updated: '2026-11-02'
 ---
 > **In het kort**

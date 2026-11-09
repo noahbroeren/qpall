@@ -1,10 +1,10 @@
 ---
 id: pallets
-title: "Pallet in plastica da [[from_price]] - Q-Pall"
-description: "Pallet in plastica direttamente dal produttore: circa 130 versioni, da Light a Heavy. Da [[from_price]] al pezzo, IVA e trasporto esclusi. Richiedete un preventivo."
+title: "Pallet in plastica direttamente dal produttore - Q-Pall"
+description: "Pallet in plastica direttamente dal produttore: circa 130 versioni, da Light a Heavy, da sei stabilimenti europei. Richiedete un preventivo senza impegno."
 eyebrow: "Gamma prodotti"
 h1: "Pallet in plastica **direttamente dal produttore**"
-lead: "Dal pallet da esportazione leggero e incastrabile al pallet pesante per scaffalatura fino a 2.000 kg. Filtrate per dimensione, portata e versione. Per ogni modello trovate le specifiche complete e, se disponibile, un prezzo di partenza."
+lead: "Dal pallet da esportazione leggero e incastrabile al pallet pesante per scaffalatura fino a 2.000 kg. Filtrate per dimensione, portata e versione. Per ogni versione trovate le specifiche complete."
 faq:
   - q: "Di quale pallet in plastica ho bisogno?"
     a: "Dipende da quattro fattori: le dimensioni del carico, il peso per pallet, il modo in cui lo stoccate (a terra, impilato o su scaffalatura porta-pallet) e se il pallet deve tornare indietro. Per l’esportazione a perdere di solito basta un pallet Light incastrabile. Per lo stoccaggio su scaffalatura porta-pallet scegliete un pallet Medium o Heavy con slitte e una portata su scaffale adatta al vostro peso. La nostra [guida alla scelta del pallet in plastica](@guide-choose) vi accompagna nella scelta passo dopo passo."
@@ -13,7 +13,7 @@ faq:
   - q: "I pallet sono realizzati in plastica riciclata?"
     a: "Sì. Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%, una miscela di HDPE e PP (nei pallet Light anche LDPE). Solo i nostri pallet igienici sono in plastica vergine. Maggiori informazioni nella pagina [sostenibilità](@about-sustainability)."
   - q: "Quanto costa un pallet in plastica?"
-    a: "Per la maggior parte dei pallet standard indichiamo un prezzo di partenza indicativo al pezzo, IVA e trasporto esclusi. Il prezzo finale dipende da quantità, sito produttivo e consegna. Una panoramica dei prezzi per dimensione è disponibile nella nostra [guida ai prezzi dei pallet in plastica](@guide-prices)."
+    a: "Il vostro prezzo dipende dalla versione, dalla quantità, dal sito produttivo e dalla consegna. [Richiedete un preventivo](@quote): di solito riceverete un prezzo su misura entro un giorno lavorativo. Nella nostra [guida ai prezzi dei pallet in plastica](@guide-prices) leggete cosa determina il prezzo."
   - q: "Posso ordinare un singolo pallet?"
     a: "Q-Pall fornisce aziende e vende sempre per pila completa, ad esempio 17 pallet Medium o 45 pallet incastrabili. Gli ordini più grandi vengono consegnati per camion completo. Per quantità più piccole vi indirizziamo volentieri a un [rivenditore vicino a voi](@dealers)."
 classes:

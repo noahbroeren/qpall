@@ -4,7 +4,7 @@ title: "Medium kunststof pallets – de allrounder – Q-Pall"
 description: "Medium kunststof pallets: de allrounder voor intern transport, distributie en stellingen tot 1.375 kg. Open of gesloten dek, ook met antislip."
 eyebrow: "Draagklasse medium"
 h1: "**Medium** kunststof pallets"
-lead: "De beste prijs-kwaliteitverhouding voor dagelijks gebruik in magazijn, productie en distributie. Er zijn [[count]] medium modellen in zeven formaten."
+lead: "De beste prijs-kwaliteitverhouding voor dagelijks gebruik in magazijn, productie en distributie. Er zijn [[count]] medium uitvoeringen in zeven formaten."
 faq:
   - q: "Hoeveel draagt een medium kunststof pallet?"
     a: "Medium pallets dragen 5.000 tot 7.500 kg statisch en 1.250 tot 1.500 kg dynamisch. In een palletstelling gaat dat van 200 kg tot 1.375 kg, afhankelijk van het model. Displaypallets in medium dragen minder."

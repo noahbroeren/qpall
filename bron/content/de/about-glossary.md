@@ -23,7 +23,7 @@ faq:
   - q: "Wo kann ich Kunststoffpaletten kaufen?"
     a: "Direkt bei Q-Pall oder über einen unserer [internationalen Händler](@dealers). Bei großen Mengen wenden Sie sich bitte direkt an uns."
   - q: "Was kostet eine Kunststoffpalette?"
-    a: "Der Preis hängt von der Größe, vom Gewicht und damit von der Materialmenge, von der Stückzahl und von der Entfernung zu unserem nächstgelegenen Werk ab. Für viele Modelle zeigen wir einen Ab-Preis. Eine Übersicht finden Sie in unserem [Preisratgeber](@guide-prices)."
+    a: "Der Preis hängt von der Größe, vom Gewicht und damit von der Materialmenge, von der Stückzahl und von der Entfernung zu unserem nächstgelegenen Werk ab. [Fordern Sie ein Angebot an](@quote), um einen individuellen Preis zu erhalten. Was den Preis bestimmt, lesen Sie in unserem [Preisratgeber](@guide-prices)."
 ---
 
 ## Von A bis Z

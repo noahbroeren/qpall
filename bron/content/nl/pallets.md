@@ -1,10 +1,10 @@
 ---
 id: pallets
-title: "Kunststof pallets kopen vanaf [[from_price]] - Q-Pall"
-description: "Kunststof pallets direct van de fabrikant: zo'n 130 uitvoeringen, light tot heavy. Vanaf [[from_price]] excl. btw en transport. Vraag vrijblijvend een offerte aan."
+title: "Kunststof pallets kopen bij de fabrikant - Q-Pall"
+description: "Kunststof pallets direct van de fabrikant: zo'n 130 uitvoeringen, van light tot heavy, uit zes Europese fabrieken. Vraag vrijblijvend een offerte aan."
 eyebrow: "Assortiment"
 h1: "Kunststof pallets **direct van de fabrikant**"
-lead: "Van lichte nestbare exportpallet tot zware stellingpallet tot 2.000 kg. Filter op afmeting, draagvermogen en uitvoering. Bij elk model ziet u de volledige specificaties en, waar beschikbaar, een vanafprijs."
+lead: "Van lichte nestbare exportpallet tot zware stellingpallet tot 2.000 kg. Filter op afmeting, draagvermogen en uitvoering. Bij elke uitvoering ziet u de volledige specificaties."
 faq:
   - q: "Welke kunststof pallet heb ik nodig?"
     a: "Dat hangt af van vier dingen: het formaat van uw lading, het gewicht per pallet, de manier van opslaan (vloer, stapelen of palletstelling) en of de pallet terugkomt. Voor eenmalige export is een lichte nestbare pallet meestal genoeg. Voor opslag in een palletstelling kiest u een medium of heavy pallet met onderlatten en een stellingbelasting die past bij uw gewicht. In onze [gids voor het kiezen van een kunststof pallet](@guide-choose) lopen we de keuze stap voor stap door."
@@ -13,7 +13,7 @@ faq:
   - q: "Zijn de pallets van gerecycled kunststof?"
     a: "Ja. Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE en PP (in light pallets ook LDPE). Alleen onze hygiënische pallets zijn van virgin kunststof. Meer hierover leest u op de pagina [duurzaamheid](@about-sustainability)."
   - q: "Wat kost een kunststof pallet?"
-    a: "Bij de meeste standaardpallets tonen we een indicatieve vanafprijs per stuk, exclusief btw en transport. Uw uiteindelijke prijs hangt af van aantal, productielocatie en levering. Een overzicht van prijzen per formaat vindt u in onze [prijsgids voor kunststof pallets](@guide-prices)."
+    a: "Uw prijs hangt af van de uitvoering, het aantal, de productielocatie en de levering. [Vraag een offerte aan](@quote), dan ontvangt u meestal binnen één werkdag een prijs op maat. Wat de prijs bepaalt, leest u in onze [prijsgids voor kunststof pallets](@guide-prices)."
   - q: "Kan ik één pallet bestellen?"
     a: "Q-Pall levert aan bedrijven en verkoopt altijd per volle stapel, bijvoorbeeld 17 medium of 45 nestbare pallets. Grotere orders leveren we per vrachtwagen. Voor kleinere aantallen verwijzen we u graag naar een [dealer bij u in de buurt](@dealers)."
 classes:

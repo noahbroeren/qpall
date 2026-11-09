@@ -15,4 +15,4 @@ lead: "Alle Paletten nach Größe, mit Abmessungen, Gewicht, Oberdeck, Unterbau 
 - Kufen und Klick-Kufen.
 - Die Medium-Antirutsch-Paletten (seit Ende 2025).
 
-Der Katalog ist in sechs Sprachen erhältlich: Niederländisch, Englisch, Deutsch, Französisch, Italienisch und Spanisch. Sie laden automatisch die Version in der Sprache dieser Website herunter. Die Informationen auf dieser Website sind immer am aktuellsten, werfen Sie daher auch einen Blick auf unser [Online-Sortiment](@pallets) mit Filtern und Ab-Preisen.
+Der Katalog ist in sechs Sprachen erhältlich: Niederländisch, Englisch, Deutsch, Französisch, Italienisch und Spanisch. Sie laden automatisch die Version in der Sprache dieser Website herunter. Die Informationen auf dieser Website sind immer am aktuellsten, werfen Sie daher auch einen Blick auf unser [Online-Sortiment](@pallets) mit Filtern und allen technischen Daten.

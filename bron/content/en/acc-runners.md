@@ -1,7 +1,7 @@
 ---
 id: acc-runners
 title: "Pallet runners and click-on runners – Q-Pall"
-description: "Plastic runners and click-on runners for nestable plastic pallets with 9 feet. Fit them without tools. From € 1.31 per piece."
+description: "Plastic runners and click-on runners for nestable plastic pallets with 9 feet. Fit them without tools and order them per piece."
 eyebrow: "Accessories"
 h1: "Runners **and click-on runners**"
 lead: "Turn a nestable pallet with 9 feet into a stable pallet with 3 runners. You click the runners on underneath without tools, only at the place where you need them."
@@ -11,7 +11,7 @@ faq:
   - q: "Which runner fits which pallet?"
     a: "The 1170 mm click-on runners fit our nestable pallets of 1200 x 800 and 1200 x 1000 mm. The low 15 mm runner also fits the 760 x 1140 mm pallet. For the square pallets, there are standard runners of 1100, 1140 and 1200 mm."
   - q: "How many runners do I need per pallet?"
-    a: "You use 3 runners per pallet. The price on this page is per piece."
+    a: "You use 3 runners per pallet. You order them per piece."
 ---
 
 ## Click-on runners: low or high

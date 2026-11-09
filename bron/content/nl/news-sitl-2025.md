@@ -9,6 +9,7 @@ h1: "Q-Pall op SITL 2025: **samen bouwen aan de toekomst van logistiek**"
 lead: "Op SITL 2025 in Parijs stond Q-Pall samen met partner BacLand. Onder het thema 'Connecting Our Intelligence' lieten we zien hoe slim ontwerp, gerecycled kunststof en lokale productie samenkomen in onze pallets."
 img_alt: "3D-impressie van de Q-Pall-beursstand met een groot scherm met een zeeschildpad en de tekst 'Pallets with a purpose'"
 reading: 2
+published: '2025-04-10'
 updated: '2026-11-02'
 ---
 > **In het kort**

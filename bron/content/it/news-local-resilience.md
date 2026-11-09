@@ -9,6 +9,7 @@ h1: "Dalla dipendenza globale **alla resilienza locale**"
 lead: "Per anni la produzione è andata a chi costava meno, ovunque nel mondo. Logistica dei container in crisi, tensioni commerciali e carenze di materie prime ne hanno mostrato la fragilità. La resilienza nasce più vicino."
 img_alt: "Reparto produttivo con presse a iniezione e robot in uno stabilimento Q-Pall"
 reading: 4
+published: '2025-05-15'
 updated: '2026-11-02'
 ---
 > **In breve**

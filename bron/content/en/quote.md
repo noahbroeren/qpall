@@ -11,7 +11,7 @@ faq:
   - q: "What is the minimum order?"
     a: "Q-Pall supplies businesses and always sells per full stack, for example 17 medium or 45 nestable pallets. Larger orders are delivered per truckload. For smaller quantities, we will gladly refer you to a [dealer near you](@dealers)."
   - q: "What does a plastic pallet cost?"
-    a: "Many models show a from price, excluding VAT. The price in your quote depends on the model, the quantity and the delivery location. You can read more in [what does a plastic pallet cost?](@guide-prices)"
+    a: "That depends on the model, the quantity and the delivery location. That is why you always receive a tailored price from us. You can read what determines the price in [what does a plastic pallet cost?](@guide-prices)"
   - q: "Can I collect the pallets myself?"
     a: "Yes. In step 2, choose to arrange your own transport. The quote states at which factory you can collect the pallets. Please register your visit in advance via [register a transport](@transport)."
   - q: "I do not know yet which pallet I need. What now?"

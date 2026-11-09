@@ -4,7 +4,7 @@ title: "Medium plastic pallets – the all-rounder – Q-Pall"
 description: "Medium plastic pallets: the all-rounder for internal transport, distribution and racking up to 1,375 kg. Open or closed deck, also with anti-slip."
 eyebrow: "Load class medium"
 h1: "**Medium** plastic pallets"
-lead: "The best value for money for daily use in warehousing, production and distribution. There are [[count]] medium models in seven sizes."
+lead: "The best value for money for daily use in warehousing, production and distribution. There are [[count]] medium versions in seven sizes."
 faq:
   - q: "How much does a medium plastic pallet carry?"
     a: "Medium pallets carry 5,000 to 7,500 kg static and 1,250 to 1,500 kg dynamic. In pallet racking, this ranges from 200 kg to 1,375 kg, depending on the model. Medium display pallets carry less."

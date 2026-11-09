@@ -55,7 +55,7 @@ En la comparación, tenga en cuenta también los costes que con la madera se pas
 * **El tratamiento ISPM 15** que necesitan los palets de madera para la exportación.
 * **Los costes de flete**, porque un palet más ligero ahorra en transporte.
 
-Divida el coste total entre el número de vueltas. En muchos casos, el plástico resulta entonces la opción más rentable. Consulte los precios de partida por medida y clase de carga en [¿cuánto cuesta un palet de plástico?](@guide-prices)
+Divida el coste total entre el número de vueltas. En muchos casos, el plástico resulta entonces la opción más rentable. Qué determina el precio de un palet de plástico lo explicamos en [¿cuánto cuesta un palet de plástico?](@guide-prices)
 
 ## Aún más económico: palets de plástico usados
 

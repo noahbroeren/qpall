@@ -1,7 +1,7 @@
 ---
 id: type-display
 title: "Kunststof displaypallets 600 x 400 en 600 x 800 – Q-Pall"
-description: "Kunststof displaypallets voor supermarkten en retail, in 600 x 400 en 600 x 800 mm. Licht, nestbaar en direct de winkel in. Met vanafprijs."
+description: "Kunststof displaypallets voor supermarkten en retail, in 600 x 400 en 600 x 800 mm. Licht, nestbaar en direct de winkel in. Vraag een offerte aan."
 eyebrow: "Retail"
 h1: "Kunststof **displaypallets**"
 lead: "Van distributiecentrum naar schap zonder ompakken. Onze displaypallets zijn licht, nestbaar en leverbaar in kwart- en halve europalletformaat."

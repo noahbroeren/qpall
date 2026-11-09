@@ -178,6 +178,13 @@ FACTORIES = ['B', 'R', 'M', 'N', 'L', 'C']     # 6 productielocaties
 FLAG = {'NL': '🇳🇱', 'DK': '🇩🇰', 'DE': '🇩🇪', 'FR': '🇫🇷', 'ES': '🇪🇸', 'UK': '🇬🇧'}
 
 # Transport aanmelden (SimplyBook, account avkplasticsbv). location/category = predefined ids.
+# PRICES (update 34, Noah 9-11-2026): no prices on the site. True brings every price back in one go: product cards,
+# product pages (price box, versions table, sticky bar), Product/Offer schema, meta descriptions, the "with price"
+# filter, sorting by price, the comparison, the accessory cards and the series cards on the homepage. The price list
+# (data/prijzen.csv -> products.json) stays in the source. Texts that mentioned a price were rewritten without one;
+# the last version with prices is the GitHub branch 'met-prijzen' (see LEESMIJ.txt, update 34).
+SHOW_PRICES = False
+
 # Search engines: while NOINDEX_ALL is True every page gets <meta name="robots" content="noindex, nofollow">
 # and Netlify sends "X-Robots-Tag: noindex, nofollow" for every file (pages, PDFs), so nothing (prices
 # included) ends up in Google. Set to False when the site goes live on qpall.com and the prices

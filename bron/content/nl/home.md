@@ -55,7 +55,7 @@ intro:
 range:
   eyebrow: "Assortiment"
   title: "Vind de pallet **die bij u past**"
-  lead: "Kies op formaat of op toepassing. Achter elke tegel vindt u alle modellen met specificaties en, waar beschikbaar, een vanafprijs."
+  lead: "Kies op formaat of op toepassing. Achter elke tegel vindt u alle uitvoeringen met hun specificaties."
   tab_sizes: "Op afmeting"
   tab_types: "Op toepassing"
   all: "Bekijk alle kunststof pallets"
@@ -169,7 +169,7 @@ faq:
   - q: "Zijn de pallets van Q-Pall duurzaam?"
     a: "Ja. Onze standaardpallets zijn gemaakt van bijna 100% gerecycled kunststof en aan het einde van hun levensduur volledig recyclebaar. We produceren lokaal in zes Europese fabrieken, zodat er minder transport nodig is."
   - q: "Wat kost een kunststof pallet?"
-    a: "Een displaypallet van 600 x 400 mm is er vanaf een paar euro, een nestbare europallet vanaf ongeveer zes euro en een heavy duty pallet vanaf ongeveer 24 euro, exclusief btw en transport. Bekijk onze [prijsgids](@guide-prices) voor alle vanafprijzen."
+    a: "Dat hangt af van het formaat, de draagklasse, het aantal en de leverlocatie. Een kleine displaypallet of een nestbare light pallet is het voordeligst, een heavy duty pallet met gesloten dek het duurst. [Vraag een offerte aan](@quote), dan ontvangt u meestal binnen één werkdag een prijs op maat. In onze [prijsgids](@guide-prices) leest u wat de prijs bepaalt."
   - q: "Hoe snel kan Q-Pall leveren?"
     a: "De veelgevraagde modellen hebben we op meerdere locaties op voorraad. De levertijd hangt af van model, aantal en locatie. Vraag een [offerte](@quote) aan, dan hoort u meestal binnen één werkdag wat er mogelijk is."
   - q: "Leveren jullie ook buiten Nederland?"

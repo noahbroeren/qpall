@@ -42,4 +42,4 @@ For one-way shipments within Europe where the pallet is part of an exchange syst
 
 ## The calculation
 
-A fair comparison is made in cost per trip. Add in damage to loads and machinery, repair costs, line downtime and the cost of ISPM 15 treatment for export. In many cases, plastic then comes out as the most economical option. See the current [plastic pallet prices](@guide-prices).
+A fair comparison is made in cost per trip. Add in damage to loads and machinery, repair costs, line downtime and the cost of ISPM 15 treatment for export. In many cases, plastic then comes out as the most economical option. You can read what determines the price of a plastic pallet in [what does a plastic pallet cost?](@guide-prices)

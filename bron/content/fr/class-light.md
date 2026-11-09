@@ -4,7 +4,7 @@ title: "Palettes plastique Light – légères et emboîtables – Q-Pall"
 description: "Palettes plastique Light pour l’export et l’usage unique : légères, souvent emboîtables, jusqu’à 2.500 kg en statique et 1.000 kg en dynamique. 7 formats."
 eyebrow: "Classe de charge Light"
 h1: "Palettes plastique **Light**"
-lead: "Les palettes les plus légères de notre gamme, conçues pour l’export, les envois ponctuels et le stockage au sol. [[count]] versions Light, à partir de [[price_from]] l’unité."
+lead: "Les palettes les plus légères de notre gamme, conçues pour l’export, les envois ponctuels et le stockage au sol. Q-Pall propose [[count]] versions Light."
 faq:
   - q: "Quelle charge supporte une palette plastique Light ?"
     a: "La plupart des palettes Light supportent 2.500 kg en statique et 1.000 kg en dynamique. La palette display Light de 600 x 800 mm supporte 500 kg en statique. Les palettes Light ne sont pas destinées au rayonnage à palettes."

@@ -1,30 +1,30 @@
 ---
 id: guide-prices
 tag: "Kopen en prijzen"
-title: "Wat kost een kunststof pallet? Prijzen 2026 per formaat"
-description: "Wat kost een kunststof pallet in 2026? Vanafprijzen per formaat en draagklasse, van displaypallet tot heavy duty, plus wat de prijs bepaalt."
-eyebrow: "Prijsgids 2026"
+title: "Wat kost een kunststof pallet? Dit bepaalt de prijs"
+description: "Wat kost een kunststof pallet? Lees wat de prijs bepaalt, van gewicht en uitvoering tot aantallen en levering, en hoe u snel een prijs op maat krijgt."
+eyebrow: "Prijsgids"
 h1: "Wat kost een **kunststof pallet**?"
-lead: "Een kunststof pallet kost van een paar euro voor een displaypallet tot ruim € 50 voor een heavy duty pallet met gesloten dek. U vindt hier de vanafprijzen per formaat en draagklasse, en wat de prijs bepaalt."
-reading: 5
+lead: "De prijs van een kunststof pallet hangt vooral af van het gewicht, de uitvoering, het aantal en de afstand tot de fabriek. Een nestbare light pallet is het voordeligst, een heavy duty pallet met gesloten dek het duurst. Hier leest u wat de prijs bepaalt en hoe u snel een prijs op maat krijgt."
+reading: 4
 faq:
   - q: "Wat kost een kunststof europallet?"
-    a: "Een nestbare light europallet van 1200 x 800 mm is er vanaf [[price:size=1200x800,class=light]] per stuk. Een medium europallet met 3 onderlatten vanaf [[price:size=1200x800,class=medium]] en een heavy europallet vanaf [[price:size=1200x800,class=heavy]]. Alle prijzen zijn exclusief btw en transport."
+    a: "Een nestbare light europallet van 1200 x 800 mm is het voordeligst. Een medium europallet met 3 onderlatten kost meer en een heavy europallet het meest, omdat die zwaarder is en meer kunststof bevat. Uw prijs hangt ook af van het aantal en de leverlocatie. [Vraag een offerte aan](@quote), dan ontvangt u meestal binnen één werkdag een prijs op maat."
   - q: "Is een kunststof pallet duurder dan een houten pallet?"
     a: "Per stuk is een kunststof pallet vaak duurder. Maar hij gaat veel langer mee, beschadigt uw lading niet en hoeft niet gerepareerd of behandeld te worden. Per omloop is kunststof daardoor vaak voordeliger. Lees ook [kunststof of houten pallets](@guide-wood)."
-  - q: "Zijn de prijzen inclusief transport?"
-    a: "Nee. De genoemde prijzen zijn indicatieve vanafprijzen per stuk, exclusief btw en transport. Omdat we in zes Europese fabrieken produceren, is de afstand tot u meestal kort. Dat houdt de transportkosten laag."
+  - q: "Is transport bij de prijs inbegrepen?"
+    a: "Ja. In uw offerte staat een prijs op maat, inclusief levering vanuit een fabriek waar uw pallet beschikbaar is, zo dicht mogelijk bij u. Haalt u de pallets liever zelf op? Dan staat in de offerte bij welke fabriek dat kan. Omdat we in zes Europese fabrieken produceren, is de afstand tot u meestal kort. Dat houdt de transportkosten laag."
   - q: "Krijg ik korting bij grotere aantallen?"
     a: "Uw prijs hangt af van het aantal en de manier van leveren, bijvoorbeeld per stapel of per volle vrachtwagen. Vraag een offerte aan voor een prijs op maat."
 ---
 
-## Vanafprijzen per formaat en draagklasse
+## Light, medium of heavy: de grootste prijsfactor
 
-De tabel toont de laagste lijstprijs per stuk uit onze prijslijst, exclusief btw en transport. Klik op een formaat voor alle modellen en prijzen.
+De draagklasse bepaalt voor een groot deel de prijs, omdat een zwaardere pallet meer kunststof bevat.
 
-[[pricetable]]
-
-Ziet u een streepje? Dan heeft dat formaat geen model in die klasse, of is de prijs op aanvraag. Hygiënische pallets, cleanroompallets en CP-pallets zijn altijd op aanvraag.
+- **[Light](@class-light):** de voordeligste pallets, vaak nestbaar. Voor export, eenmalige zendingen en vloeropslag.
+- **[Medium](@class-medium):** de beste prijs-kwaliteitverhouding voor dagelijks gebruik in magazijn, productie en distributie.
+- **[Heavy](@class-heavy):** de zwaarste pallets, voor zware ladingen, hoge stellingen en jarenlang intensief gebruik.
 
 ## Wat bepaalt de prijs van een kunststof pallet?
 
@@ -50,4 +50,4 @@ Een houten pallet lijkt goedkoop. Maar als hij na een paar omlopen kapot is, spl
 
 ## Direct een prijs op maat
 
-De vanafprijzen geven u een goede eerste indicatie. Voor een exacte prijs met levering op uw locatie [vraagt u een offerte aan](@quote). We reageren meestal binnen één werkdag.
+Voor een exacte prijs met levering op uw locatie [vraagt u een offerte aan](@quote). Vermeld het model, het aantal en de leverlocatie. We reageren meestal binnen één werkdag.

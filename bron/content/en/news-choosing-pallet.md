@@ -16,6 +16,7 @@ faq:
   a: "Static load is the weight a pallet carries when it is standing still, for example on the floor. Dynamic load is the weight while it is being moved with a forklift or pallet truck. A separate value applies to storage in pallet racking."
 - q: "Is a plastic pallet more expensive than a wooden pallet?"
   a: "The purchase price is often slightly higher. However, a plastic pallet lasts longer and needs less maintenance. As a result, the cost over its entire service life is often lower."
+published: '2023-04-12'
 updated: '2026-11-02'
 ---
 > **In short**

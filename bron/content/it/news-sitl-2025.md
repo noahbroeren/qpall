@@ -9,6 +9,7 @@ h1: "Q-Pall al SITL 2025: **costruiamo insieme il futuro della logistica**"
 lead: "Q-Pall ha partecipato al SITL 2025 di Parigi insieme al partner BacLand. Sul tema «Connecting Our Intelligence» abbiamo mostrato come design intelligente, plastica riciclata e produzione locale si incontrano."
 img_alt: "Rendering 3D dello stand Q-Pall con un grande schermo che mostra una tartaruga marina e la scritta «Pallets with a purpose»"
 reading: 2
+published: '2025-04-10'
 updated: '2026-11-02'
 ---
 > **In breve**

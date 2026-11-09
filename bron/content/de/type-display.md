@@ -1,7 +1,7 @@
 ---
 id: type-display
 title: "Kunststoff-Displaypaletten 600 x 400 und 600 x 800 – Q-Pall"
-description: "Kunststoff-Displaypaletten für Supermarkt und Handel in 600 x 400 und 600 x 800 mm. Leicht, nestbar und direkt in den Laden. Mit Ab-Preisen."
+description: "Kunststoff-Displaypaletten für Supermarkt und Handel in 600 x 400 und 600 x 800 mm. Leicht, nestbar und direkt in den Laden. Fordern Sie ein Angebot an."
 eyebrow: "Handel"
 h1: "**Displaypaletten** aus Kunststoff"
 lead: "Vom Distributionszentrum ins Regal, ohne Umpacken. Unsere Displaypaletten sind leicht, nestbar und als Viertel- und Halbpalette erhältlich."

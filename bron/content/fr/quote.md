@@ -11,7 +11,7 @@ faq:
   - q: "Quelle est la quantité minimale de commande ?"
     a: "Q-Pall livre les entreprises et vend toujours par pile complète, par exemple 17 palettes Medium ou 45 palettes emboîtables. Les commandes plus importantes sont livrées par camion complet. Pour de plus petites quantités, nous vous orientons volontiers vers un [distributeur près de chez vous](@dealers)."
   - q: "Combien coûte une palette plastique ?"
-    a: "Pour de nombreux modèles, un prix « à partir de » hors TVA est indiqué. Le prix de votre devis dépend du modèle, de la quantité et du lieu de livraison. Pour en savoir plus, lisez [combien coûte une palette plastique ?](@guide-prices)"
+    a: "Cela dépend du modèle, de la quantité et du lieu de livraison. C’est pourquoi nous vous proposons toujours un prix sur mesure. Découvrez ce qui détermine le prix dans [combien coûte une palette plastique ?](@guide-prices)"
   - q: "Puis-je enlever les palettes moi-même ?"
     a: "Oui. À l’étape 2, choisissez d’organiser votre transport. Le devis précise dans quelle usine vous pouvez enlever les palettes. Merci de réserver votre passage à l’avance via [rendez-vous transport](@transport)."
   - q: "Je ne sais pas encore de quelle palette j’ai besoin. Que faire ?"

@@ -1,10 +1,10 @@
 ---
 id: pallets
-title: "Plastic pallets from [[from_price]] - Q-Pall"
-description: "Plastic pallets direct from the manufacturer: around 130 versions, light to heavy. From [[from_price]] excl. VAT and transport. Request a free quote."
+title: "Plastic pallets direct from the manufacturer - Q-Pall"
+description: "Plastic pallets direct from the manufacturer: around 130 versions, from light to heavy, made in six European factories. Request a free quote."
 eyebrow: "Product range"
 h1: "Plastic pallets **direct from the manufacturer**"
-lead: "From a light nestable export pallet to a heavy racking pallet for up to 2,000 kg. Filter by size, load capacity and version. For each model you see the full specifications and, where available, a from-price."
+lead: "From a light nestable export pallet to a heavy racking pallet for up to 2,000 kg. Filter by size, load capacity and version. For each version you see the full specifications."
 faq:
   - q: "Which plastic pallet do I need?"
     a: "That depends on four things: the size of your load, the weight per pallet, the way you store it (floor, stacking or pallet racking) and whether the pallet comes back. For one-way export, a light nestable pallet is usually enough. For storage in pallet racking, choose a medium or heavy pallet with runners and a racking load that suits your weight. Our [guide to choosing a plastic pallet](@guide-choose) takes you through the choice step by step."
@@ -13,7 +13,7 @@ faq:
   - q: "Are the pallets made from recycled plastic?"
     a: "Yes. We make our standard pallets from nearly 100% recycled plastic, a mix of HDPE and PP (light pallets also contain LDPE). Only our hygienic pallets are made of virgin plastic. You can read more about this on the [sustainability](@about-sustainability) page."
   - q: "How much does a plastic pallet cost?"
-    a: "For most standard pallets we show an indicative from-price per unit, excluding VAT and transport. Your final price depends on quantity, production location and delivery. You will find an overview of prices per size in our [price guide for plastic pallets](@guide-prices)."
+    a: "Your price depends on the version, the quantity, the production location and delivery. [Request a quote](@quote) and you will usually receive a tailored price within one working day. You can read what determines the price in our [price guide for plastic pallets](@guide-prices)."
   - q: "Can I order a single pallet?"
     a: "Q-Pall supplies businesses and always sells per full stack, for example 17 medium or 45 nestable pallets. Larger orders are delivered per truckload. For smaller quantities, we will gladly refer you to a [dealer near you](@dealers)."
 classes:

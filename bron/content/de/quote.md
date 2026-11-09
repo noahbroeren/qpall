@@ -11,7 +11,7 @@ faq:
   - q: "Wie hoch ist die Mindestabnahme?"
     a: "Q-Pall beliefert Unternehmen und verkauft immer pro vollem Stapel, zum Beispiel 17 Medium- oder 45 nestbare Paletten. Größere Aufträge liefern wir per Lkw-Ladung. Für kleinere Mengen verweisen wir Sie gern an einen [Händler in Ihrer Nähe](@dealers)."
   - q: "Was kostet eine Kunststoffpalette?"
-    a: "Bei vielen Modellen steht ein Ab-Preis, zzgl. MwSt. Der Preis in Ihrem Angebot hängt vom Modell, von der Menge und vom Lieferort ab. Mehr dazu lesen Sie unter [Was kostet eine Kunststoffpalette?](@guide-prices)"
+    a: "Das hängt vom Modell, von der Menge und vom Lieferort ab. Deshalb erhalten Sie von uns immer einen individuellen Preis. Was den Preis bestimmt, lesen Sie unter [Was kostet eine Kunststoffpalette?](@guide-prices)"
   - q: "Kann ich die Paletten auch selbst abholen?"
     a: "Ja. Wählen Sie in Schritt 2, dass Sie den Transport selbst organisieren. Im Angebot steht, in welchem Werk Sie die Paletten abholen können. Bitte melden Sie Ihre Ankunft vorab über [Transport anmelden](@transport) an."
   - q: "Ich weiß noch nicht, welche Palette ich brauche. Was nun?"

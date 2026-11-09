@@ -23,7 +23,7 @@ faq:
   - q: "Waar kan ik kunststof pallets kopen?"
     a: "Rechtstreeks bij Q-Pall, of via een van onze [internationale dealers](@dealers). Voor grote volumes neemt u direct contact met ons op."
   - q: "Wat kost een kunststof pallet?"
-    a: "De prijs hangt af van het formaat, het gewicht en dus de hoeveelheid materiaal, het aantal en de afstand tot onze dichtstbijzijnde fabriek. Bij veel modellen tonen we een vanafprijs. Een overzicht vindt u in onze [prijsgids](@guide-prices)."
+    a: "De prijs hangt af van het formaat, het gewicht en dus de hoeveelheid materiaal, het aantal en de afstand tot onze dichtstbijzijnde fabriek. [Vraag een offerte aan](@quote) voor een prijs op maat. In onze [prijsgids](@guide-prices) leest u wat de prijs bepaalt."
 ---
 
 ## A tot Z

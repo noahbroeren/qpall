@@ -1,30 +1,30 @@
 ---
 id: guide-prices
 tag: "Achat et prix"
-title: "Combien coûte une palette plastique ? Prix 2026 par format"
-description: "Combien coûte une palette plastique en 2026 ? Prix de départ par format et classe de charge, de la palette display à la Heavy, et ce qui détermine le prix."
-eyebrow: "Guide des prix 2026"
+title: "Combien coûte une palette plastique ? Ce qui fait le prix"
+description: "Combien coûte une palette plastique ? Découvrez ce qui détermine le prix (poids, version, quantité, livraison) et comment obtenir vite un prix sur mesure."
+eyebrow: "Guide des prix"
 h1: "Combien coûte une **palette plastique** ?"
-lead: "Une palette plastique coûte de quelques euros pour une palette display à plus de 50 € pour une palette Heavy à plateau fermé. Vous trouverez ici les prix de départ par format et par classe de charge, ainsi que ce qui détermine le prix."
-reading: 5
+lead: "Le prix d’une palette plastique dépend surtout du poids, de la version, de la quantité et de la distance jusqu’à l’usine. Une palette Light emboîtable est la plus économique, une palette Heavy à plateau fermé la plus chère. Découvrez ici ce qui détermine le prix et comment obtenir rapidement un prix sur mesure."
+reading: 4
 faq:
   - q: "Combien coûte une palette Europe en plastique ?"
-    a: "Une palette Europe Light emboîtable de 1200 x 800 mm est disponible à partir de [[price:size=1200x800,class=light]] l’unité. Une palette Europe Medium à 3 semelles coûte à partir de [[price:size=1200x800,class=medium]] et une palette Europe Heavy à partir de [[price:size=1200x800,class=heavy]]. Tous les prix s’entendent HT et hors transport."
+    a: "Une palette Europe Light emboîtable de 1200 x 800 mm est la plus économique. Une palette Europe Medium à 3 semelles coûte plus cher et une palette Europe Heavy encore davantage, car elle est plus lourde et contient plus de plastique. Votre prix dépend aussi de la quantité et du lieu de livraison. [Demandez un devis](@quote) : vous recevez généralement un prix sur mesure sous un jour ouvré."
   - q: "Une palette plastique est-elle plus chère qu’une palette en bois ?"
     a: "À l’unité, une palette plastique est souvent plus chère. Mais elle dure beaucoup plus longtemps, n’endommage pas votre charge et n’a pas besoin d’être réparée ni traitée. Le plastique revient donc souvent moins cher par rotation. Lisez aussi [palettes plastique ou palettes en bois](@guide-wood)."
-  - q: "Les prix incluent-ils le transport ?"
-    a: "Non. Les prix affichés sont des prix de départ indicatifs à l’unité, HT et hors transport. Comme nous produisons dans six usines européennes, la distance jusqu’à chez vous est généralement courte. Cela limite les frais de transport."
+  - q: "Le transport est-il compris dans le prix ?"
+    a: "Oui. Votre devis indique un prix sur mesure, livraison comprise depuis une usine où votre palette est disponible, au plus près de chez vous. Vous préférez venir chercher les palettes vous-même ? Le devis précise alors dans quelle usine c’est possible. Comme nous produisons dans six usines européennes, la distance jusqu’à chez vous est généralement courte. Cela limite les frais de transport."
   - q: "Bénéficie-t-on d’une remise sur les grandes quantités ?"
     a: "Votre prix dépend de la quantité et du mode de livraison, par exemple par pile ou par camion complet. Demandez un devis pour obtenir un prix sur mesure."
 ---
 
-## Prix de départ par format et classe de charge
+## Light, Medium ou Heavy : le principal facteur de prix
 
-Le tableau indique le prix catalogue le plus bas à l’unité, HT et hors transport. Cliquez sur un format pour voir tous les modèles et leurs prix.
+La classe de charge détermine en grande partie le prix, car une palette plus lourde contient plus de plastique.
 
-[[pricetable]]
-
-Vous voyez un tiret ? Ce format n’a alors pas de modèle dans cette classe, ou le prix est sur demande. Les palettes hygiéniques, les palettes salle blanche et les palettes CP sont toujours sur demande.
+- **[Light](@class-light) :** les palettes les plus économiques, souvent emboîtables. Pour l’export, les envois ponctuels et le stockage au sol.
+- **[Medium](@class-medium) :** le meilleur rapport qualité-prix pour un usage quotidien en entrepôt, en production et en distribution.
+- **[Heavy](@class-heavy) :** les palettes les plus lourdes et les plus robustes, pour les charges importantes, les rayonnages de grande hauteur et des années d’usage intensif.
 
 ## Qu’est-ce qui détermine le prix d’une palette plastique ?
 
@@ -50,4 +50,4 @@ Une palette en bois semble bon marché. Mais si elle casse après quelques rotat
 
 ## Obtenez tout de suite un prix sur mesure
 
-Les prix de départ vous donnent une bonne première indication. Pour un prix exact, livraison sur votre site comprise, [demandez un devis](@quote). Nous répondons en général sous un jour ouvré.
+Pour un prix exact, livraison sur votre site comprise, [demandez un devis](@quote). Indiquez le modèle, la quantité et le lieu de livraison. Nous répondons en général sous un jour ouvré.

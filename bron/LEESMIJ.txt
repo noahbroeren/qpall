@@ -863,3 +863,26 @@ UPDATE 33 (9 november 2026, claims en taal gelijkgetrokken, zoeken, offerte, toe
   Toegankelijkheid: brede tabellen krijgen tabindex="0", role="region" en een aria-label; de light/medium/heavy-
   schakelaar op home gebruikt knoppen met aria-pressed; de carrousel heeft role="region"; tabel Voedingsindustrie
   heeft een eerste kop "Kenmerk".
+
+UPDATE 34 (9 november 2026, geen prijzen meer, offerteknop op kaarten, foto's, nieuwsdatums)
+  PRIJZEN: besluit Q-Pall: geen prijzen op de website. Schakelaar SHOW_PRICES in site_config.py (nu False).
+  Met False verdwijnen: prijzen op productkaarten, prijsblok/versietabel/sticky balk op de productpagina,
+  Offer/AggregateOffer in het schema, de prijs in metabeschrijvingen, filter "met vanafprijs", sorteren op prijs,
+  de prijsrij bij vergelijken, prijzen bij toebehoren en "vanaf" op de klassekaarten van home. De prijslijst
+  (data/prijzen.csv -> products.json) blijft in de bron; de keuze van het hoofdartikel (URL) en de volgorde worden
+  nog steeds met de prijzen gemaakt, zodat er geen URL verandert. Prijsplaatsaanduidingen in teksten
+  ([[from_price]], [[price_from]], [[pricetable]], [[price:...]]) geven zonder prijzen een WARN en worden leeg.
+  Teksten met een prijs zijn in 6 talen herschreven (catalogustitels volgens iClicks, prijsgids "wat bepaalt de prijs",
+  FAQ's, home, toebehoren, llms.txt). PRIJZEN TERUG: zet SHOW_PRICES = True en haal de prijszinnen terug uit de
+  GitHub-branch 'met-prijzen' (= update 33b, de laatste versie met prijzen).
+  KAARTEN: elke productkaart heeft "Bekijk pallet ->" en een knop "Snelle offerte" (offerteformulier met ?sku=,
+  vult het artikel en één stapel in). Productpagina: offerteknop over de volle breedte; sticky balk toont het
+  artikelnummer.
+  FOTO'S: QPH1210HR5RR-CD heeft een onderkantfoto (van Noah); 3.QP1140MB6R-PAS, QP1140MB6R-PAS en
+  QP1140MB6R-PAS-CP9 gebruiken de onderkantfoto van 1.QP1140MB6R-PAS (input/photos, photos.json n 2 bottom 2).
+  Let op: met QP_KEEP_IMAGES=1 maakt build.py geen nieuwe fotobestanden; draai dan eenmaal zonder die variabele.
+  NIEUWSDATUMS: de vier berichten zonder datum hebben een geschatte datum op basis van de volgorde op de oude
+  nieuwspagina en de gebeurtenissen: heavy duty-familie 14-09-2021, de juiste kunststof pallet kiezen 12-04-2023,
+  SITL 2025 (1-3 april) 10-04-2025, lokale veerkracht 15-05-2025.
+  OVER Q-PALL: geen streepje voor "Pallets with a purpose". Metabeschrijving met hoogte als twee artikelen anders
+  dezelfde tekst krijgen (1300 x 1100 x 158/160). Domein: qpall.com zonder www, www stuurt 301 door (netlify.toml).

@@ -42,4 +42,4 @@ Pour des envois sans retour en Europe où la palette fait partie d’un système
 
 ## Le calcul
 
-Une comparaison équitable se fait en coût par rotation. Ajoutez les dommages aux charges et aux machines, les frais de réparation, les arrêts de ligne et le coût du traitement ISPM 15 à l’export. Dans de nombreux cas, le plastique s’avère alors l’option la plus économique. Consultez les [prix actuels des palettes plastique](@guide-prices).
+Une comparaison équitable se fait en coût par rotation. Ajoutez les dommages aux charges et aux machines, les frais de réparation, les arrêts de ligne et le coût du traitement ISPM 15 à l’export. Dans de nombreux cas, le plastique s’avère alors l’option la plus économique. Découvrez ce qui détermine le prix d’une palette plastique dans [combien coûte une palette plastique ?](@guide-prices)

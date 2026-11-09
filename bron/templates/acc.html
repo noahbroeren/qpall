@@ -23,7 +23,7 @@
           <h3>{{ a.name }}</h3>
           <dl>{% for r in a.rows %}<div><dt>{{ r[0] }}</dt><dd>{{ r[1] }}</dd></div>{% endfor %}</dl>
           <div class="pc-foot">
-            <div class="pc-price">{% if a.price %}<small>{{ t.from_cap }} · {{ t.excl_vat }}{% if a.per_piece %} · {{ t.per_piece }}{% endif %}</small><b>{{ a.price }}</b>{% else %}<span class="req">{{ t.on_request }}</span>{% endif %}</div>
+            {% if show_prices %}<div class="pc-price">{% if a.price %}<small>{{ t.from_cap }} · {{ t.excl_vat }}{% if a.per_piece %} · {{ t.per_piece }}{% endif %}</small><b>{{ a.price }}</b>{% else %}<span class="req">{{ t.on_request }}</span>{% endif %}</div>{% endif %}
             <a class="btn btn-outline btn-sm" href="{{ urls.quote }}?sku={{ a.sku|urlencode }}">{{ t.cta_quote }}</a>
           </div>
         </div>

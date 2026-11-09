@@ -4,7 +4,7 @@ title: "Nestbare Kunststoffpaletten – platzsparend – Q-Pall"
 description: "Nestbare Kunststoffpaletten lassen sich leer ineinanderschieben: weniger Lagerfläche und günstigerer Rücktransport. Light und Display, in 8 Größen."
 eyebrow: "Platzsparend"
 h1: "Nestbare **Kunststoffpaletten**"
-lead: "Leer schieben Sie sie ineinander. So brauchen nestbare Paletten bei Lagerung und Rücktransport nur einen Bruchteil des Platzes. Q-Pall bietet [[count]] nestbare Modelle."
+lead: "Leer schieben Sie sie ineinander. So brauchen nestbare Paletten bei Lagerung und Rücktransport nur einen Bruchteil des Platzes. Q-Pall bietet [[count]] nestbare Ausführungen."
 faq:
   - q: "Was ist eine nestbare Palette?"
     a: "Eine nestbare Palette hat hohle Füße, die genau in die Füße der darunterliegenden Palette passen. So lassen sich leere Paletten ineinanderschieben, und ein Stapel ist viel niedriger als bei Standardpaletten."

@@ -1,30 +1,30 @@
 ---
 id: guide-prices
 tag: "Acquisto e prezzi"
-title: "Quanto costa un pallet in plastica? Prezzi 2026 per formato"
-description: "Quanto costa un pallet in plastica nel 2026? Prezzi di partenza per formato e classe di portata, dal pallet espositore all’Heavy, e cosa incide sul prezzo."
-eyebrow: "Guida ai prezzi 2026"
+title: "Quanto costa un pallet in plastica? Cosa incide sul prezzo"
+description: "Quanto costa un pallet in plastica? Scoprite cosa determina il prezzo, da peso e versione a quantità e consegna, e come ottenere un prezzo su misura."
+eyebrow: "Guida ai prezzi"
 h1: "Quanto costa un **pallet in plastica**?"
-lead: "Un pallet in plastica costa da pochi euro per un pallet espositore a oltre € 50 per un pallet per carichi pesanti con piano chiuso. Qui trovate i prezzi di partenza per formato e classe di portata, e cosa determina il prezzo."
-reading: 5
+lead: "Il prezzo di un pallet in plastica dipende soprattutto dal peso, dalla versione, dalla quantità e dalla distanza dallo stabilimento. Un pallet Light incastrabile è il più economico, un pallet per carichi pesanti con piano chiuso il più costoso. Qui scoprite cosa determina il prezzo e come ottenere rapidamente un prezzo su misura."
+reading: 4
 faq:
   - q: "Quanto costa un europallet in plastica?"
-    a: "Un europallet Light incastrabile da 1200 x 800 mm è disponibile da [[price:size=1200x800,class=light]] al pezzo. Un europallet Medium a 3 slitte costa da [[price:size=1200x800,class=medium]] e un europallet Heavy da [[price:size=1200x800,class=heavy]]. Tutti i prezzi si intendono IVA esclusa e trasporto escluso."
+    a: "Un europallet Light incastrabile da 1200 x 800 mm è il più economico. Un europallet Medium a 3 slitte costa di più e un europallet Heavy più di tutti, perché è più pesante e contiene più plastica. Il vostro prezzo dipende anche dalla quantità e dal luogo di consegna. [Richiedete un preventivo](@quote): di solito riceverete un prezzo su misura entro un giorno lavorativo."
   - q: "Un pallet in plastica costa più di un pallet in legno?"
     a: "Al pezzo, un pallet in plastica è spesso più caro. Ma dura molto più a lungo, non danneggia il carico e non deve essere riparato né trattato. Per questo, calcolata per viaggio, la plastica risulta spesso più economica. Leggete anche [pallet in plastica o in legno](@guide-wood)."
-  - q: "I prezzi includono il trasporto?"
-    a: "No. I prezzi indicati sono prezzi di partenza indicativi al pezzo, IVA esclusa e trasporto escluso. Poiché produciamo in sei stabilimenti europei, la distanza da voi è di solito breve. Questo mantiene bassi i costi di trasporto."
+  - q: "Il trasporto è incluso nel prezzo?"
+    a: "Sì. Nel preventivo trovate un prezzo su misura, consegna inclusa da uno stabilimento in cui il vostro pallet è disponibile, il più vicino possibile a voi. Preferite ritirare i pallet voi stessi? Nel preventivo è indicato in quale stabilimento potete farlo. Poiché produciamo in sei stabilimenti europei, la distanza da voi è di solito breve. Questo mantiene bassi i costi di trasporto."
   - q: "Ottengo uno sconto per quantità maggiori?"
     a: "Il vostro prezzo dipende dalla quantità e dalla modalità di consegna, ad esempio per pila o per camion completo. Richiedete un preventivo per ricevere un prezzo su misura."
 ---
 
-## Prezzi di partenza per formato e classe di portata
+## Light, Medium o Heavy: il fattore di prezzo principale
 
-La tabella mostra il prezzo di listino più basso al pezzo, IVA esclusa e trasporto escluso. Fate clic su un formato per vedere tutti i modelli e i prezzi.
+La classe di portata determina in gran parte il prezzo, perché un pallet più pesante contiene più plastica.
 
-[[pricetable]]
-
-Vedete un trattino? Significa che per quel formato non esiste un modello in quella classe, oppure che il prezzo è su richiesta. I pallet igienici, i pallet per camera bianca e i pallet CP sono sempre su richiesta.
+- **[Light](@class-light):** i pallet più economici, spesso incastrabili. Per esportazione, spedizioni una tantum e stoccaggio a terra.
+- **[Medium](@class-medium):** il miglior rapporto qualità-prezzo per l’uso quotidiano in magazzino, produzione e distribuzione.
+- **[Heavy](@class-heavy):** i pallet più pesanti, pensati per grandi carichi, scaffalature alte e anni di uso intensivo.
 
 ## Cosa determina il prezzo di un pallet in plastica?
 
@@ -50,4 +50,4 @@ Un pallet in legno sembra economico. Ma se si rompe dopo pochi viaggi, lascia sc
 
 ## Ottenete subito un prezzo su misura
 
-I prezzi di partenza vi danno una buona prima indicazione. Per un prezzo esatto, comprensivo di consegna presso la vostra sede, [richiedete un preventivo](@quote). Di solito rispondiamo entro un giorno lavorativo.
+Per un prezzo esatto, comprensivo di consegna presso la vostra sede, [richiedete un preventivo](@quote). Indicate il modello, la quantità e il luogo di consegna. Di solito rispondiamo entro un giorno lavorativo.

@@ -55,7 +55,7 @@ intro:
 range:
   eyebrow: "Nuestra gama"
   title: "Encuentre el palet **que se adapta a usted**"
-  lead: "Elija por medida o por aplicación. En cada ficha encontrará todos los modelos con sus especificaciones y, cuando esté disponible, un precio de partida."
+  lead: "Elija por medida o por aplicación. En cada ficha encontrará todas las versiones con sus especificaciones."
   tab_sizes: "Por medida"
   tab_types: "Por aplicación"
   all: "Ver todos los palets de plástico"
@@ -169,7 +169,7 @@ faq:
   - q: "¿Son sostenibles los palets de Q-Pall?"
     a: "Sí. Nuestros palets estándar están fabricados con plástico casi 100% reciclado y son totalmente reciclables al final de su vida útil. Producimos localmente en seis fábricas europeas, por lo que se necesita menos transporte."
   - q: "¿Cuánto cuesta un palet de plástico?"
-    a: "Un palet expositor de 600 x 400 mm cuesta unos pocos euros, un europalet encajable desde unos seis euros y un palet de uso intensivo desde unos 24 euros, IVA y transporte no incluidos. Consulte todos los precios de partida en nuestra [guía de precios](@guide-prices)."
+    a: "Depende de la medida, la clase de carga, la cantidad y el lugar de entrega. Un pequeño palet expositor o un palet Light encajable es la opción más económica; un palet de uso intensivo con superficie cerrada, la más cara. [Solicite un presupuesto](@quote) y normalmente recibirá un precio a medida en un día laborable. En nuestra [guía de precios](@guide-prices) puede leer qué determina el precio."
   - q: "¿Con qué rapidez puede entregar Q-Pall?"
     a: "Tenemos en stock los modelos más demandados en varias ubicaciones. El plazo de entrega depende del modelo, la cantidad y la ubicación. [Solicite un presupuesto](@quote) y normalmente le diremos en un día laborable qué es posible."
   - q: "¿Entregan fuera de los Países Bajos?"

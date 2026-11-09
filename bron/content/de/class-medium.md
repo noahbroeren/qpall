@@ -4,7 +4,7 @@ title: "Medium-Kunststoffpaletten – der Allrounder – Q-Pall"
 description: "Medium-Kunststoffpaletten: der Allrounder für internen Transport, Distribution und Regale bis 1.375 kg. Offenes oder geschlossenes Deck, auch Antirutsch."
 eyebrow: "Lastklasse Medium"
 h1: "**Medium**-Kunststoffpaletten"
-lead: "Das beste Preis-Leistungs-Verhältnis für den täglichen Einsatz in Lager, Produktion und Distribution. Es gibt [[count]] Medium-Modelle in sieben Größen."
+lead: "Das beste Preis-Leistungs-Verhältnis für den täglichen Einsatz in Lager, Produktion und Distribution. Es gibt [[count]] Medium-Ausführungen in sieben Größen."
 faq:
   - q: "Wie viel trägt eine Medium-Kunststoffpalette?"
     a: "Medium-Paletten tragen 5.000 bis 7.500 kg statisch und 1.250 bis 1.500 kg dynamisch. Im Palettenregal reicht das je nach Modell von 200 kg bis 1.375 kg. Medium-Displaypaletten tragen weniger."

@@ -4,7 +4,7 @@ title: "Pallet in plastica Light – leggeri e incastrabili – Q-Pall"
 description: "Pallet in plastica Light per l’esportazione e l’uso singolo: leggeri, spesso incastrabili, portata statica fino a 2.500 kg, dinamica 1.000 kg. In 7 formati."
 eyebrow: "Classe di portata Light"
 h1: "Pallet in plastica **Light**"
-lead: "I pallet più leggeri della nostra gamma, pensati per esportazione, spedizioni una tantum e stoccaggio a terra. Sono disponibili [[count]] versioni Light, a partire da [[price_from]] al pezzo."
+lead: "I pallet più leggeri della nostra gamma, pensati per esportazione, spedizioni una tantum e stoccaggio a terra. Sono disponibili [[count]] versioni Light."
 faq:
   - q: "Quanto sopporta un pallet in plastica Light?"
     a: "La maggior parte dei pallet Light ha una portata statica di 2.500 kg e una portata dinamica di 1.000 kg. Il pallet espositore Light da 600 x 800 mm ha una portata statica di 500 kg. I pallet Light non sono pensati per le scaffalature porta-pallet."

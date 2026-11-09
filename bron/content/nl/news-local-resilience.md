@@ -9,6 +9,7 @@ h1: "Van globale afhankelijkheid **naar lokale veerkracht**"
 lead: "Jarenlang ging productie naar de laagste bieder, waar ook ter wereld. Verstoorde containerlogistiek, handelsspanningen en grondstoftekorten lieten zien hoe kwetsbaar dat is. Veerkracht begint dichter bij huis."
 img_alt: "Productiehal met spuitgietmachines en robots in een fabriek van Q-Pall"
 reading: 4
+published: '2025-05-15'
 updated: '2026-11-02'
 ---
 > **In het kort**

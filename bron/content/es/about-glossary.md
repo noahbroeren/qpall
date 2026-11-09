@@ -23,7 +23,7 @@ faq:
   - q: "¿Dónde puedo comprar palets de plástico?"
     a: "Directamente a Q-Pall o a través de uno de nuestros [distribuidores internacionales](@dealers). Para grandes volúmenes, contacte directamente con nosotros."
   - q: "¿Cuánto cuesta un palet de plástico?"
-    a: "El precio depende de la medida, del peso y, por tanto, de la cantidad de material, del volumen del pedido y de la distancia a nuestra fábrica más cercana. Para muchos modelos mostramos un precio de partida. Encontrará una visión general en nuestra [guía de precios](@guide-prices)."
+    a: "El precio depende de la medida, del peso y, por tanto, de la cantidad de material, del volumen del pedido y de la distancia a nuestra fábrica más cercana. [Solicite un presupuesto](@quote) para obtener un precio a medida. En nuestra [guía de precios](@guide-prices) puede leer qué determina el precio."
 ---
 
 ## De la A a la Z

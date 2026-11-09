@@ -11,7 +11,7 @@ faq:
   - q: "Hoeveel pallets moet ik minimaal afnemen?"
     a: "Q-Pall levert aan bedrijven en verkoopt altijd per volle stapel, bijvoorbeeld 17 medium of 45 nestbare pallets. Grotere orders leveren we per vrachtwagen. Voor kleinere aantallen verwijzen we u graag naar een [dealer bij u in de buurt](@dealers)."
   - q: "Wat kost een kunststof pallet?"
-    a: "Bij veel modellen staat een vanafprijs, exclusief btw. De prijs in uw offerte hangt af van het model, het aantal en de leverlocatie. Meer hierover leest u in [wat kost een kunststof pallet?](@guide-prices)"
+    a: "Dat hangt af van het model, het aantal en de leverlocatie. Daarom ontvangt u van ons altijd een prijs op maat. Wat de prijs bepaalt, leest u in [wat kost een kunststof pallet?](@guide-prices)"
   - q: "Kan ik de pallets ook zelf ophalen?"
     a: "Ja. Kies bij stap 2 voor zelf transport regelen. In de offerte staat bij welke fabriek u de pallets kunt ophalen. Meld uw komst vooraf aan via [transport aanmelden](@transport)."
   - q: "Ik weet nog niet welke pallet ik nodig heb. Wat nu?"

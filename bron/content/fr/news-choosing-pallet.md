@@ -16,6 +16,7 @@ faq:
   a: "La charge statique est le poids qu’une palette supporte à l’arrêt, par exemple au sol. La charge dynamique est le poids qu’elle supporte lorsqu’on la déplace au chariot élévateur ou au transpalette. Une valeur distincte s’applique au stockage en rayonnage à palettes."
 - q: "Une palette plastique coûte-t-elle plus cher qu’une palette en bois ?"
   a: "Le prix d’achat est souvent un peu plus élevé. Une palette plastique dure toutefois plus longtemps et demande moins d’entretien. Le coût sur toute la durée de vie est donc souvent plus bas."
+published: '2023-04-12'
 updated: '2026-11-02'
 ---
 > **En bref**

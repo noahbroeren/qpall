@@ -11,7 +11,7 @@ faq:
   - q: "Qual è il quantitativo minimo d’ordine?"
     a: "Q-Pall fornisce aziende e vende sempre per pila completa, ad esempio 17 pallet Medium o 45 pallet incastrabili. Gli ordini più grandi vengono consegnati per camion completo. Per quantità più piccole vi indirizziamo volentieri a un [rivenditore vicino a voi](@dealers)."
   - q: "Quanto costa un pallet in plastica?"
-    a: "Per molti modelli è indicato un prezzo a partire da, IVA esclusa. Il prezzo del vostro preventivo dipende dal modello, dalla quantità e dal luogo di consegna. Per saperne di più leggete [quanto costa un pallet in plastica?](@guide-prices)"
+    a: "Dipende dal modello, dalla quantità e dal luogo di consegna. Per questo da noi ricevete sempre un prezzo su misura. Cosa determina il prezzo lo leggete in [quanto costa un pallet in plastica?](@guide-prices)"
   - q: "Posso ritirare i pallet io stesso?"
     a: "Sì. Al passo 2 scegliete di organizzare voi il trasporto. Nel preventivo è indicato in quale stabilimento potete ritirare i pallet. Registrate il vostro arrivo in anticipo tramite [registrate un trasporto](@transport)."
   - q: "Non so ancora di quale pallet ho bisogno. Cosa faccio?"

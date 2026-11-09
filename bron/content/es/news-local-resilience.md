@@ -9,6 +9,7 @@ h1: "De la dependencia global **a la resiliencia local**"
 lead: "Durante años, la producción fue al proveedor más barato, estuviera donde estuviera. Las crisis del transporte, las tensiones comerciales y la escasez de materias primas mostraron su fragilidad. La resiliencia empieza más cerca."
 img_alt: "Nave de producción con máquinas de inyección y robots en una fábrica de Q-Pall"
 reading: 4
+published: '2025-05-15'
 updated: '2026-11-02'
 ---
 > **En resumen**

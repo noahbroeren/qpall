@@ -9,6 +9,7 @@ h1: "De la dépendance mondiale **à la résilience locale**"
 lead: "Pendant des années, la production est allée au moins-disant, où qu’il se trouve. Fret conteneurisé perturbé, tensions commerciales et pénuries ont montré les limites de ce modèle. La résilience commence plus près."
 img_alt: "Hall de production avec presses à injection et robots dans une usine Q-Pall"
 reading: 4
+published: '2025-05-15'
 updated: '2026-11-02'
 ---
 > **En bref**

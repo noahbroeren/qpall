@@ -55,7 +55,7 @@ Nel confronto considerate anche i costi che con il legno si trascurano facilment
 * **Il trattamento ISPM 15** necessario ai pallet in legno per l’esportazione.
 * **I costi di trasporto**, perché un pallet più leggero fa risparmiare sul trasporto.
 
-Dividete il costo totale per il numero di cicli. In molti casi la plastica risulta allora la scelta più conveniente. Consultate i prezzi di partenza per formato e classe di portata in [quanto costa un pallet in plastica?](@guide-prices)
+Dividete il costo totale per il numero di cicli. In molti casi la plastica risulta allora la scelta più conveniente. Cosa determina il prezzo di un pallet in plastica lo leggete in [quanto costa un pallet in plastica?](@guide-prices)
 
 ## Ancora più convenienti: i pallet in plastica usati
 

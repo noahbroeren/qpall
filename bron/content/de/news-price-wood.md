@@ -55,7 +55,7 @@ Berücksichtigen Sie beim Vergleich auch die Kosten, die bei Holz leicht überse
 * **Die ISPM-15-Behandlung**, die Holzpaletten für den Export brauchen.
 * **Frachtkosten**, denn eine leichtere Palette spart beim Transport.
 
-Teilen Sie die Gesamtkosten durch die Anzahl der Umläufe. In vielen Fällen ist Kunststoff dann die wirtschaftlichste Wahl. Die Ab-Preise je Größe und Lastklasse finden Sie unter [Was kostet eine Kunststoffpalette?](@guide-prices)
+Teilen Sie die Gesamtkosten durch die Anzahl der Umläufe. In vielen Fällen ist Kunststoff dann die wirtschaftlichste Wahl. Was den Preis einer Kunststoffpalette bestimmt, lesen Sie unter [Was kostet eine Kunststoffpalette?](@guide-prices)
 
 ## Noch günstiger: gebrauchte Kunststoffpaletten
 
