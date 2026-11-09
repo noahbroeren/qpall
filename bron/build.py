@@ -1832,7 +1832,7 @@ def eu_map(lang):
     s = str(EU_MAP).replace('__TITLE__', str(escape(t['map_title'])))
     for c in FACTORIES + ['V']:
         L = LOCATIONS[c]
-        s = s.replace(f'__L_{c}__', str(escape(f"{L['name']}, {COUNTRY[L['cc']][lang]}: {t['map_show'] if c != 'V' else t['footer_hq']}")))
+        s = s.replace(f'__L_{c}__', str(escape(f"{L['name']}, {COUNTRY[L['cc']][lang]}{chr(160) if lang == 'fr' else ''}: {t['map_show'] if c != 'V' else t['footer_hq']}")))
     return Markup(s)
 
 

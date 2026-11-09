@@ -26,7 +26,7 @@
       <div class="pdp-info">
         <p class="eyebrow">{{ m.size_label }} · {{ size_nick }}</p>
         <h1>{{ m.name[lang] }}</h1>
-        <p class="pdp-sku">{{ t.art_nr }}: <b>{{ m.sku }}</b>{% if variants|length > 1 %} <a href="#{{ anchors.var }}">{{ (t.sim_versions_1 if variants|length == 2 else t.sim_versions_n).format(n=variants|length - 1) }}</a>{% endif %}</p>
+        <p class="pdp-sku">{{ t.art_nr }}{% if lang == 'fr' %} {% endif %}: <b>{{ m.sku }}</b>{% if variants|length > 1 %} <a href="#{{ anchors.var }}">{{ (t.sim_versions_1 if variants|length == 2 else t.sim_versions_n).format(n=variants|length - 1) }}</a>{% endif %}</p>
         {% if X.sub %}<div class="pdp-tags">{% for b in X.sub %}<span class="chip">{{ b }}</span> {% endfor %}</div>{% endif %}
         {% if X.intro %}<p class="pdp-intro">{{ X.intro }}</p>{% endif %}
 

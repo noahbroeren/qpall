@@ -51,7 +51,7 @@ _ROOT = _os.path.dirname(_os.path.abspath(__file__))
 def catalog_size(lang):
     p = _os.path.join(_ROOT, 'input/catalogus', lang + '.pdf')
     mb = _os.path.getsize(p) / 1048576 if _os.path.exists(p) else 13.0
-    s = f"{mb:.0f} MB"
+    s = f"{mb:.0f} Mo" if lang == 'fr' else f"{mb:.0f} MB"     # French: mégaoctet (update 33)
     return s
 
 

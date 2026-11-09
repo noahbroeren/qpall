@@ -3,9 +3,9 @@
 {% block main %}
 {% call M.phero(page, crumbs) %}
   {% if news %}
-  <div class="article-meta">{% if page.fm.tag %}<span class="am-tag">{{ page.fm.tag }}</span>{% endif %}{% if published_txt %}<span>{{ M.icon('calendar') }}<time datetime="{{ page.fm.published }}">{{ published_txt }}</time></span>{% endif %}{% if show_updated %}<span>{{ t.updated }}: {{ updated_txt }}</span>{% endif %}{% if page.fm.reading %}<span>{{ M.icon('clock') }}{{ page.fm.reading }} {{ t.min_read }}</span>{% endif %}{% if author %}{{ M.byline(author, t) }}{% else %}<span>{{ M.icon('users') }}{{ page.fm.author or 'Q-Pall' }}</span>{% endif %}</div>
+  <div class="article-meta">{% if page.fm.tag %}<span class="am-tag">{{ page.fm.tag }}</span>{% endif %}{% if published_txt %}<span>{{ M.icon('calendar') }}<time datetime="{{ page.fm.published }}">{{ published_txt }}</time></span>{% endif %}{% if show_updated %}<span>{{ t.updated }}{% if lang == 'fr' %} {% endif %}: {{ updated_txt }}</span>{% endif %}{% if page.fm.reading %}<span>{{ M.icon('clock') }}{{ page.fm.reading }} {{ t.min_read }}</span>{% endif %}{% if author %}{{ M.byline(author, t) }}{% else %}<span>{{ M.icon('users') }}{{ page.fm.author or 'Q-Pall' }}</span>{% endif %}</div>
   {% else %}
-  <div class="article-meta">{% if page.fm.reading %}<span>{{ M.icon('clock') }}{{ page.fm.reading }} {{ t.min_read }}</span>{% endif %}<span>{{ M.icon('calendar') }}{{ t.updated }}: {{ updated_txt }}</span>{% if author %}{{ M.byline(author, t) }}{% else %}<span>{{ M.icon('users') }}Q-Pall</span>{% endif %}</div>
+  <div class="article-meta">{% if page.fm.reading %}<span>{{ M.icon('clock') }}{{ page.fm.reading }} {{ t.min_read }}</span>{% endif %}<span>{{ M.icon('calendar') }}{{ t.updated }}{% if lang == 'fr' %} {% endif %}: {{ updated_txt }}</span>{% if author %}{{ M.byline(author, t) }}{% else %}<span>{{ M.icon('users') }}Q-Pall</span>{% endif %}</div>
   {% endif %}
 {% endcall %}
 <section class="section">
