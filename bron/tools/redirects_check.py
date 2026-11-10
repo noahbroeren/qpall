@@ -32,6 +32,8 @@ def match(path):
         force = st.endswith('!')
         if src.endswith('/*'):
             base = src[:-2]
+            if not force and dst.startswith(base):
+                continue      # Netlify ignores a splat rule whose destination falls under its own pattern
             if p == base or p.startswith(base + '/'):
                 if not force and exists(path):
                     continue

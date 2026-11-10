@@ -269,6 +269,11 @@ def write_seo_files(OUT, page_list, PAGES, MODEL_BY_ID, abs_url):
     rd = ['# Q-Pall redirects (Netlify). Format: from  to  status. De eerste regel die past wint.',
           '/LEESMIJ.txt  /404.html  404!',
           '/netlify/*  /404.html  404!']   # source of the Netlify function (mail templates) is not a page
+    # final redirect file of iClicks (9 Nov 2026): the old URLs that still gave a 404 (data/redirects-iclicks.txt).
+    # The whole file is checked with tools/redirects_iclicks_check.py (data/oude-site/iclicks-redirects-2026-11-09.tsv).
+    _icl = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data/redirects-iclicks.txt')
+    if os.path.exists(_icl):
+        rd += [l.rstrip() for l in open(_icl, encoding='utf-8') if l.strip()]
     # old country domains -> category page in their language, in one step (site_config.COUNTRY_DOMAINS)
     from site_config import COUNTRY_DOMAINS
     rd.append('# Oude landendomeinen (ook als domain alias in Netlify toevoegen)')
@@ -286,7 +291,9 @@ def write_seo_files(OUT, page_list, PAGES, MODEL_BY_ID, abs_url):
     rd.append("# Oude losse pagina's")
     for a, b in REDIRECTS:
         rd.append(f'{a}  {b}  301')
-    rd += ['/offerte-aanvraag/bevestigen  /bedankt/  301', '/vacatures/*  /vacatures/  301', '/en/vacancies/*  /en/careers/  301']
+    # no '/vacatures/*  /vacatures/' or '/nieuws/*  /nieuws/': Netlify ignores a splat rule whose destination falls under
+    # its own pattern (tested 10 Nov 2026: 404). Known old vacancy and news URLs have their own rule instead.
+    rd += ['/offerte-aanvraag/bevestigen  /bedankt/  301', '/en/vacancies/*  /en/careers/  301']
     # news: the articles keep their old URL (Netlify adds the slash); every other old news URL goes to the news overview
     from site_config import NEWS_ITEMS, LANGS as _LANGS
     rd.append('# Nieuws')
@@ -294,9 +301,6 @@ def write_seo_files(OUT, page_list, PAGES, MODEL_BY_ID, abs_url):
         for l in _LANGS:
             p = '/' + PAGES[pid]['path'][l]
             rd.append(f'{p.rstrip("/")}  {p}  301')
-    for l in _LANGS:
-        p = '/' + PAGES['news']['path'][l]
-        rd.append(f'{p}*  {p}  301')
     rd.append('# Foutpagina per taal')
     for l in ('en', 'de', 'fr', 'it', 'es'):
         rd.append(f'/{l}/*  /{l}/404.html  404')

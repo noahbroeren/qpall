@@ -969,3 +969,12 @@ UPDATE 40 (9 november 2026) - zwakste titels verbeterd, in 6 talen (alleen de <t
   De homepagetitel van iClicks blijft. Alle nieuwe titels <= 561 px (Arial 20 px).
   BESLUIT CANONICAL (Noah, 9 nov): de genummerde uitvoeringen (41 per taal) houden hun eigen canonical en blijven in
   de sitemap (optie B). Niet naar het hoofdartikel laten wijzen.
+
+UPDATE 41 (10 november 2026) - definitief redirectbestand iClicks (Vincent Dekker, versie 9 november):
+  De 61 redirects die op de staging nog een 404 gaven staan in data/redirects-iclicks.txt (bovenaan in _redirects).
+  Het hele bestand (1.414 regels) staat in data/oude-site/iclicks-redirects-2026-11-09.tsv; controle:
+  python3 tools/redirects_iclicks_check.py <site>  -> alle 1.414 in één stap naar de pagina die iClicks noemt.
+  Weggehaald: '/vacatures/*  /vacatures/' en '/<nieuws>/*  /<nieuws>/' (6 talen). Netlify negeert een splat-regel
+  waarvan de bestemming onder het eigen patroon valt (live getest: 404); tools/redirects_check.py houdt daar nu rekening mee.
+  Domein blijft qpall.com zonder www (besluit update 34); de regels zijn relatieve paden en werken dus op elk domein.
+  Noindex staat nog AAN (NOINDEX_ALL = True), op verzoek van Noah.
