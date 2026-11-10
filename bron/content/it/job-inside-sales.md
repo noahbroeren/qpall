@@ -80,7 +80,7 @@ offer:
 why:
   eyebrow: Chi è Q-Pall
   title: Pallet **con uno scopo**
-  text: Dal 2005 Q-Pall produce esclusivamente pallet in plastica. I nostri pallet standard sono realizzati in plastica riciclata quasi al 100% e, con sei stabilimenti in Europa, produciamo vicino al cliente.
+  text: Dal 2005 Q-Pall produce esclusivamente pallet in plastica. I nostri pallet standard sono realizzati in plastica riciclata quasi al 100% e, con cinque stabilimenti in Europa, produciamo vicino al cliente.
   link: Scoprite Q-Pall
 process:
   title: Come funziona **la candidatura**

@@ -11,7 +11,7 @@ faq:
   - q: "Come vengono prodotti i pallet in plastica?"
     a: "Tramite stampaggio a iniezione ad alta pressione. Il granulo di plastica fuso viene iniettato in uno stampo d’acciaio. Si ottiene così, in un’unica operazione, un pallet completo e dimensionalmente stabile."
   - q: "Quanti tipi di pallet in plastica esistono?"
-    a: "Q-Pall offre circa 130 versioni in nove formati, da 600 x 400 mm a 1300 x 1100 mm, nelle classi Light, Medium e Heavy. Scoprite la [gamma completa](@pallets)."
+    a: "Q-Pall offre circa 125 versioni in nove formati, da 600 x 400 mm a 1300 x 1100 mm, nelle classi Light, Medium e Heavy. Scoprite la [gamma completa](@pallets)."
   - q: "Perché i pallet in plastica sono più sicuri da usare?"
     a: "Non hanno chiodi, schegge né assi allentate. Non assorbono umidità, non ammuffiscono e sono privi di parassiti, quindi non serve alcun trattamento ISPM 15. Grazie alle dimensioni costanti causano meno anomalie nei sistemi automatizzati."
   - q: "Perché i pallet in plastica sono convenienti?"

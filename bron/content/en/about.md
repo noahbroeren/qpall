@@ -1,11 +1,11 @@
 ---
 id: about
 title: "About Q-Pall: plastic pallet manufacturer since 2005"
-description: "Since 2005 Q-Pall has made only plastic pallets, from nearly 100% recycled plastic, in six European factories. Meet pallets with a purpose."
+description: "Since 2005 Q-Pall has made only plastic pallets, from nearly 100% recycled plastic, in five European factories. Meet pallets with a purpose."
 eyebrow: "About Q-Pall"
 h1: "European manufacturer of **plastic pallets**"
 tagline: "Pallets **with a purpose**"
-lead: "Since 2005, we have focused on one thing: affordable, reliable plastic pallets that put sustainability first. From our head office in Veghel and six European factories."
+lead: "Since 2005, we have focused on one thing: affordable, reliable plastic pallets that put sustainability first. From our head office in Veghel and five European factories."
 ---
 
 ## Our mission
@@ -17,15 +17,15 @@ Our standard pallets are made from nearly 100% recycled plastic. They are enviro
 ## Q-Pall in figures
 
 - **Founded in 2005**, with its head office in Veghel.
-- **Six production sites** in the Netherlands, Denmark, Germany, France, Spain and the United Kingdom.
-- **4 million pallets per year** of production capacity, in around 130 versions and nine sizes.
+- **Five production sites** in the Netherlands, Denmark, Germany, France and Spain.
+- **4 million pallets per year** of production capacity, in around 125 versions and nine sizes.
 - **200+ people in our production chain.**
 - **A dealer network** covering a large part of Europe and the United States.
 - **EcoVadis Bronze** (October 2026) for our sustainability performance.
 
 ## Act global, produce local
 
-Transport is by far the largest source of CO₂ emissions in the pallet chain. That is why we produce as close to our customers as possible: in Balk (NL), Ribe (DK), Marktoberdorf (DE), Nantes (FR), Lleida (ES) and Chesterfield (UK). Almost every customer is within 600 kilometres of a Q-Pall factory. Read more about [local production](@about-local).
+Transport is by far the largest source of CO₂ emissions in the pallet chain. That is why we produce as close to our customers as possible: in Balk (NL), Ribe (DK), Marktoberdorf (DE), Nantes (FR) and Lleida (ES). Almost every customer is within 600 kilometres of a Q-Pall factory. Read more about [local production](@about-local).
 
 ## The whole chain in our own hands
 

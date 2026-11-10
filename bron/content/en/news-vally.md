@@ -10,7 +10,7 @@ lead: "Q-Pall is growing, and that calls for people who know the trade inside ou
 img_alt: "Portrait of Vally Hoogland with a production hall in the background"
 reading: 2
 published: '2026-05-07'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In short**
 >
@@ -37,7 +37,7 @@ What sets Vally apart? He understands both the technology behind the pallet and 
 
 Like Q-Pall, Vally believes in local production and circular materials. We make our standard pallets from nearly 100% recycled plastic, a mix of HDPE and PP. At the end of their service life, they are fully recyclable.
 
-We produce in [six factories across Europe](@about-local), close to our customers. Short supply chains, less CO₂ and more control: that is the idea. Vally has brought that conviction with him from day one.
+We produce in [five factories across Europe](@about-local), close to our customers. Short supply chains, less CO₂ and more control: that is the idea. Vally has brought that conviction with him from day one.
 
 Welcome to the team, Vally.
 

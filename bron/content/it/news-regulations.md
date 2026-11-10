@@ -17,7 +17,7 @@ faq:
 - q: "Come controlla Q-Pall la presenza di metalli pesanti?"
   a: "Verifichiamo i nostri pallet rispetto alle sostanze della direttiva RoHS. Lo facciamo con la fluorescenza a raggi X (XRF), una misurazione rapida che non danneggia il materiale."
 published: '2022-01-12'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In breve**
 >
@@ -78,7 +78,7 @@ Per i clienti che confrontano i prodotti, l’impronta di carbonio è sempre pi�
 Utilizziamo i risultati della nostra analisi dell’impronta di carbonio come misurazione di riferimento e come punto di partenza per migliorare le prestazioni ambientali dei nostri pallet. Con obiettivi di progettazione rigorosi per l’efficienza energetica e dei materiali, manteniamo le emissioni il più basse possibile. Ci aiutano due scelte:
 
 * **Materiale riciclato.** Produciamo i nostri pallet standard con plastica riciclata quasi al 100%.
-* **Distanze brevi.** Produciamo in sei stabilimenti in Europa, vicino ai nostri clienti. Scoprite di più sulla [produzione locale](@about-local).
+* **Distanze brevi.** Produciamo in cinque stabilimenti in Europa, vicino ai nostri clienti. Scoprite di più sulla [produzione locale](@about-local).
 
 A ottobre 2026 abbiamo ottenuto di nuovo la medaglia di bronzo EcoVadis.
 

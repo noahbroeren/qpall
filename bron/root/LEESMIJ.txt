@@ -138,8 +138,7 @@ Direct na livegang:
     publiek mag. Datasheets bevatten bewust geen prijzen.
 [ ] Laat de belangrijkste cijfers checken: 4 miljoen pallets per jaar,
     34.500 ton gerecycled kunststof in 2025, 200+ mensen in onze productieketen,
-    6 fabrieken (Chesterfield sinds 2026; sinds update 14 ook in de gestructureerde
-    data en llms.txt), EcoVadis Bronze oktober 2026 (het enige logo in de
+    5 fabrieken (sinds update 45, ook in de gestructureerde data en llms.txt), EcoVadis Bronze oktober 2026 (het enige logo in de
     footer).
 [ ] SimplyBook: zet bij Custom features "Google Translate" en "Multiple
     bookings" (winkelwagen) uit. De site verbergt die strook nu zelf; na het

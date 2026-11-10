@@ -41,7 +41,7 @@ Die internationale Norm ISO 6780 nennt sechs Palettengrößen, die weltweit verb
 
 - **1200 x 800 mm**: die Europalette, Standard in Europa.
 - **1200 x 1000 mm**: die Industriepalette, in Europa, im Vereinigten Königreich und in Asien.
-- **1219 x 1016 mm (48 x 40 Zoll)**: der Standard in Nordamerika. Q-Pall hat Medium-Paletten in 1220 x 1020 mm in dieser Größe, aufgeführt unter [1200 x 1000 mm](@size-1200x1000).
+- **1219 x 1016 mm (48 x 40 Zoll)**: der Standard in Nordamerika.
 - **1165 x 1165 mm**: vor allem in Australien.
 - **1100 x 1100 mm**: in Asien, unter anderem in Japan und Korea. Siehe [1100 x 1100 mm](@size-1100x1100).
 - **1067 x 1067 mm**: in Nordamerika, Europa und Asien.

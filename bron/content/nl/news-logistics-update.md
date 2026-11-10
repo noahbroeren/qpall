@@ -10,7 +10,7 @@ lead: "In maart 2026 kwam de wereldwijde logistiek onder druk te staan door de o
 img_alt: "Hoge stapels oranje kunststof pallets in een magazijn"
 reading: 2
 published: '2026-03-26'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In het kort**
 >
@@ -25,7 +25,7 @@ De ontwikkelingen in het Midden-Oosten hadden in het voorjaar van 2026 een duide
 
 ## Een stabiele Europese positie
 
-Q-Pall werkte in die periode vanuit een relatief stabiele positie. Onze productie en inkoop vinden volledig binnen Europa plaats: we maken onze pallets in [zes fabrieken verspreid over Europa](@about-local) en kopen het recyclaat zo veel mogelijk in de regio in.
+Q-Pall werkte in die periode vanuit een relatief stabiele positie. Onze productie en inkoop vinden volledig binnen Europa plaats: we maken onze pallets in [vijf fabrieken verspreid over Europa](@about-local) en kopen het recyclaat zo veel mogelijk in de regio in.
 
 > "Dit maakt ons aanzienlijk minder afhankelijk van intercontinentale grondstofstromen en stelt ons in staat om waar nodig sneller op veranderingen in te spelen."
 

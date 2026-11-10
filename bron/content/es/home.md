@@ -5,7 +5,7 @@ description: "Q-Pall diseña palets de plástico reciclado que se fabrican cerca
 hero:
   eyebrow: "Fabricante de palets sostenibles desde 2005"
   h1: "Palets reutilizables de **plástico reciclado**"
-  lead: "Unas 130 versiones de palets de plástico, desde palets de exportación encajables hasta palets para estantería de uso intensivo. Producidos en seis fábricas europeas, nunca lejos de usted."
+  lead: "Unas 125 versiones de palets de plástico, desde palets de exportación encajables hasta palets para estantería de uso intensivo. Producidos en cinco fábricas europeas, nunca lejos de usted."
   cta1: "Ver todos los palets de plástico"
   cta2: "Solicitar presupuesto"
   badge: "Palets Medium antideslizantes"
@@ -40,7 +40,7 @@ intro:
   strike: ["Cajas.", "Cubetas.", "Contenedores."]
   final: "Palets."
   title: "Un solo producto. **Toda nuestra atención.**"
-  text: "La mayoría de los fabricantes de envases de plástico reparten sus moldes, su I+D y su atención entre cajas, cubetas y contenedores. Nosotros lo dedicamos todo a un solo producto. Por eso nuestra gama abarca nueve medidas, tres clases de carga y unas 130 versiones, y por eso en Q-Pall una consulta sobre palets nunca es un asunto secundario."
+  text: "La mayoría de los fabricantes de envases de plástico reparten sus moldes, su I+D y su atención entre cajas, cubetas y contenedores. Nosotros lo dedicamos todo a un solo producto. Por eso nuestra gama abarca nueve medidas, tres clases de carga y unas 125 versiones, y por eso en Q-Pall una consulta sobre palets nunca es un asunto secundario."
   points:
     - icon: "factory"
       t: "Directo del fabricante"
@@ -49,7 +49,7 @@ intro:
       t: "Casi 100% reciclado"
       d: "De plástico posconsumo e industrial, totalmente reciclable."
     - icon: "globe"
-      t: "Seis fábricas europeas"
+      t: "Cinco fábricas europeas"
       d: "Casi siempre a menos de 600 kilómetros de sus instalaciones."
   cta: "Sobre Q-Pall"
 range:
@@ -103,8 +103,8 @@ sustain_cta:
   btn: "Hable con un especialista"
 local:
   eyebrow: "Act global, produce local"
-  title: "Seis fábricas. **Cerca del cliente.**"
-  lead: "Producimos en seis fábricas repartidas por Europa y trasladamos moldes en lugar de palets. Así, casi todos nuestros clientes están a menos de 600 kilómetros de una fábrica de Q-Pall: menos transporte, menos costes y menos CO₂."
+  title: "Cinco fábricas. **Cerca del cliente.**"
+  lead: "Producimos en cinco fábricas repartidas por Europa y trasladamos moldes en lugar de palets. Así, casi todos nuestros clientes están a menos de 600 kilómetros de una fábrica de Q-Pall: menos transporte, menos costes y menos CO₂."
   note: "Los modelos más demandados están en stock en varias ubicaciones, y una parte de nuestros modelos se fabrica en más de una fábrica. Así también podemos suministrar en temporada alta."
   cta: "Sobre la producción local"
 sectors:
@@ -125,7 +125,7 @@ sectors:
 about:
   eyebrow: "Sobre Q-Pall"
   title: "Toda la cadena **en nuestras manos**"
-  text: "Desde 2005, Q-Pall desarrolla y fabrica exclusivamente palets de plástico. Diseño, moldes, producción, distribución y venta los gestionamos nosotros mismos, desde nuestra sede central en Veghel y seis fábricas en Europa. Así reaccionamos con rapidez y controlamos la calidad."
+  text: "Desde 2005, Q-Pall desarrolla y fabrica exclusivamente palets de plástico. Diseño, moldes, producción, distribución y venta los gestionamos nosotros mismos, desde nuestra sede central en Veghel y cinco fábricas en Europa. Así reaccionamos con rapidez y controlamos la calidad."
   points: ["Sede central y almacén en Veghel", "Parte del AVK Group", "Distribuidores en Europa y Estados Unidos"]
   cta: "Más sobre Q-Pall"
   cta2: "Trabajar en Q-Pall"
@@ -167,11 +167,11 @@ faq:
   - q: "¿Por qué elegir palets de plástico?"
     a: "Los palets de plástico duran mucho más que los de madera, no absorben humedad y no tienen astillas ni clavos. Tienen dimensiones fijas y un peso constante, algo importante para la automatización. Además, están exentos de la norma ISPM 15 para la exportación. Más información en [plástico o madera](@guide-wood)."
   - q: "¿Son sostenibles los palets de Q-Pall?"
-    a: "Sí. Nuestros palets estándar están fabricados con plástico casi 100% reciclado y son totalmente reciclables al final de su vida útil. Producimos localmente en seis fábricas europeas, por lo que se necesita menos transporte."
+    a: "Sí. Nuestros palets estándar están fabricados con plástico casi 100% reciclado y son totalmente reciclables al final de su vida útil. Producimos localmente en cinco fábricas europeas, por lo que se necesita menos transporte."
   - q: "¿Cuánto cuesta un palet de plástico?"
     a: "Depende de la medida, la clase de carga, la cantidad y el lugar de entrega. Un pequeño palet expositor o un palet Light encajable es la opción más económica; un palet de uso intensivo con superficie cerrada, la más cara. [Solicite un presupuesto](@quote) y normalmente recibirá un precio a medida en un día laborable. En nuestra [guía de precios](@guide-prices) puede leer qué determina el precio."
   - q: "¿Con qué rapidez puede entregar Q-Pall?"
     a: "Tenemos en stock los modelos más demandados en varias ubicaciones. El plazo de entrega depende del modelo, la cantidad y la ubicación. [Solicite un presupuesto](@quote) y normalmente le diremos en un día laborable qué es posible."
   - q: "¿Entregan fuera de los Países Bajos?"
-    a: "Sí. Entregamos en toda Europa desde nuestras fábricas en los Países Bajos, Dinamarca, Alemania, Francia, España y el Reino Unido, y trabajamos con [distribuidores](@dealers) en Europa y Estados Unidos."
+    a: "Sí. Entregamos en toda Europa desde nuestras fábricas en los Países Bajos, Dinamarca, Alemania, Francia y España, y trabajamos con [distribuidores](@dealers) en Europa y Estados Unidos."
 ---

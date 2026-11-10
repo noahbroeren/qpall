@@ -10,14 +10,14 @@ lead: "Begin 2022 was de bouw van het nieuwe Europese hoofdkantoor van Q-Pall in
 img_alt: "Het hoofdkantoor van Q-Pall in Veghel: een donkergrijs pand met een oranje overstek en grote glazen gevels"
 reading: 2
 published: '2022-01-19'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In het kort**
 >
 > * Begin 2022 was het nieuwe Europese hoofdkantoor van Q-Pall in Veghel, langs de A50, klaar.
 > * In het pand zitten het hoofdkantoor, het Europese operationele centrum en een bedrijfshal voor opslag.
 > * Bestaande funderingspalen, een warmtepomp en zonnepanelen maakten het pand zuinig in materiaal en energie.
-> * De pallets zelf maakt Q-Pall in zes fabrieken in Europa, zo dicht mogelijk bij de klant.
+> * De pallets zelf maakt Q-Pall in vijf fabrieken in Europa, zo dicht mogelijk bij de klant.
 
 ## Een nieuw hoofdkantoor langs de A50
 
@@ -39,7 +39,7 @@ Q-Pall maakt alleen kunststof pallets. Kenmerkend is dat we die zo dicht mogelij
 
 Een voorbeeld: worden pallets voor de Franse markt in Nederland gemaakt, dan rijden er veel volle vrachtwagens lange ritten naar het zuiden en weer terug. Gaat alleen de matrijs naar onze fabriek in Nantes, dan blijven die ritten grotendeels achterwege.
 
-Q-Pall produceert in zes fabrieken: Balk (Nederland), Ribe (Denemarken), Marktoberdorf (Duitsland), Nantes (Frankrijk), Lleida (Spanje) en Chesterfield (Verenigd Koninkrijk). Bijna elke klant zit binnen 600 kilometer van een fabriek. Lees meer over [lokaal produceren](@about-local).
+Q-Pall produceert in vijf fabrieken: Balk (Nederland), Ribe (Denemarken), Marktoberdorf (Duitsland), Nantes (Frankrijk) en Lleida (Spanje). Bijna elke klant zit binnen 600 kilometer van een fabriek. Lees meer over [lokaal produceren](@about-local).
 
 ## De hele keten in eigen hand
 

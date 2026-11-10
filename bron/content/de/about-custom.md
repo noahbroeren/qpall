@@ -16,7 +16,7 @@ faq:
 
 ## Clevere Anpassungen bestehender Modelle
 
-Ein komplett neues Palettendesign kostet viel Zeit und Geld. Deshalb prüfen wir zuerst, was innerhalb unseres bestehenden Sortiments von rund 130 Ausführungen möglich ist. Oft reicht schon eine kleine Änderung:
+Ein komplett neues Palettendesign kostet viel Zeit und Geld. Deshalb prüfen wir zuerst, was innerhalb unseres bestehenden Sortiments von rund 125 Ausführungen möglich ist. Oft reicht schon eine kleine Änderung:
 
 - **Logo oder Bedruckung** auf der Palette.
 - **Ihre eigene Farbe**, zum Beispiel um Pools oder Abteilungen zu unterscheiden.

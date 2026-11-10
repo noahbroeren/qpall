@@ -1,11 +1,11 @@
 ---
 id: about
 title: "Over Q-Pall: producent van kunststof pallets sinds 2005"
-description: "Q-Pall maakt sinds 2005 alleen kunststof pallets, van bijna 100% gerecycled kunststof, in zes Europese fabrieken. Maak kennis met pallets with a purpose."
+description: "Q-Pall maakt sinds 2005 alleen kunststof pallets, van bijna 100% gerecycled kunststof, in vijf Europese fabrieken. Maak kennis met pallets with a purpose."
 eyebrow: "Over Q-Pall"
 h1: "Europese producent van **kunststof pallets**"
 tagline: "Pallets **with a purpose**"
-lead: "Sinds 2005 richten we ons op één ding: betaalbare, betrouwbare kunststof pallets die duurzaamheid voorop zetten. Vanuit ons hoofdkantoor in Veghel en zes Europese fabrieken."
+lead: "Sinds 2005 richten we ons op één ding: betaalbare, betrouwbare kunststof pallets die duurzaamheid voorop zetten. Vanuit ons hoofdkantoor in Veghel en vijf Europese fabrieken."
 ---
 
 ## Onze missie
@@ -17,15 +17,15 @@ Onze standaardpallets zijn gemaakt van bijna 100% gerecycled kunststof. Ze zijn 
 ## Q-Pall in cijfers
 
 - **Opgericht in 2005**, met het hoofdkantoor in Veghel.
-- **Zes productielocaties** in Nederland, Denemarken, Duitsland, Frankrijk, Spanje en het Verenigd Koninkrijk.
-- **4 miljoen pallets per jaar** productiecapaciteit, in zo'n 130 uitvoeringen en negen formaten.
+- **Vijf productielocaties** in Nederland, Denemarken, Duitsland, Frankrijk en Spanje.
+- **4 miljoen pallets per jaar** productiecapaciteit, in zo'n 125 uitvoeringen en negen formaten.
 - **200+ mensen in onze productieketen.**
 - **Een dealernetwerk** in een groot deel van Europa en de Verenigde Staten.
 - **EcoVadis Bronze** (oktober 2026) voor onze duurzaamheidsprestaties.
 
 ## Act global, produce local
 
-Transport is verreweg de grootste bron van CO₂-uitstoot in de palletketen. Daarom produceren we zo dicht mogelijk bij onze klanten: in Balk (NL), Ribe (DK), Marktoberdorf (DE), Nantes (FR), Lleida (ES) en Chesterfield (VK). Bijna elke klant zit binnen 600 kilometer van een Q-Pall-fabriek. Lees meer over [lokaal produceren](@about-local).
+Transport is verreweg de grootste bron van CO₂-uitstoot in de palletketen. Daarom produceren we zo dicht mogelijk bij onze klanten: in Balk (NL), Ribe (DK), Marktoberdorf (DE), Nantes (FR) en Lleida (ES). Bijna elke klant zit binnen 600 kilometer van een Q-Pall-fabriek. Lees meer over [lokaal produceren](@about-local).
 
 ## De hele keten in eigen hand
 

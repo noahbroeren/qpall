@@ -17,7 +17,7 @@ faq:
 - q: "Hoe controleert Q-Pall op zware metalen?"
   a: "We toetsen onze pallets aan de stoffen uit de RoHS-richtlijn. Dat doen we met röntgenfluorescentie (XRF), een snelle meting die het materiaal niet beschadigt."
 published: '2022-01-12'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In het kort**
 >
@@ -78,7 +78,7 @@ Voor klanten die producten vergelijken, is de CO₂-voetafdruk steeds vaker een 
 We gebruiken de resultaten van onze CO₂-analyse als nulmeting en als uitgangspunt om de milieuprestaties van onze pallets te verbeteren. Met strenge ontwerpdoelen voor energie- en materiaalefficiëntie houden we de uitstoot zo laag mogelijk. Daarbij helpen twee keuzes:
 
 * **Gerecycled materiaal.** Onze standaardpallets maken we van bijna 100% gerecycled kunststof.
-* **Korte afstanden.** We produceren in zes fabrieken in Europa, dicht bij onze klanten. Lees meer over [lokaal produceren](@about-local).
+* **Korte afstanden.** We produceren in vijf fabrieken in Europa, dicht bij onze klanten. Lees meer over [lokaal produceren](@about-local).
 
 In oktober 2026 behaalden we opnieuw de bronzen medaille van EcoVadis.
 

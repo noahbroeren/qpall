@@ -10,12 +10,12 @@ lead: "Fare impresa in modo sostenibile significa pensare a People, Planet e Pro
 img_alt: "Veduta aerea di un polder con turbine eoliche lungo l’acqua"
 reading: 3
 published: '2022-01-29'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In breve**
 >
 > * Fare impresa in modo sostenibile significa tenere conto di persone, ambiente ed economia: People, Planet e Profit.
-> * Produciamo localmente in sei stabilimenti europei. Lo stampo viaggia, i pallet no.
+> * Produciamo localmente in cinque stabilimenti europei. Lo stampo viaggia, i pallet no.
 > * Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%: 34.500 tonnellate nel 2025.
 > * In produzione puntiamo su design leggero, meno perdite di materiale e riutilizzo degli scarti di produzione.
 > * EcoVadis valuta in modo indipendente le nostre prestazioni. Nell’ottobre 2026 abbiamo ottenuto di nuovo il bronzo.
@@ -32,7 +32,7 @@ Produrre e trasportare pallet richiede energia. Bruciando combustibili fossili c
 
 Nel settore dei pallet la maggior parte delle emissioni di CO₂ deriva dal trasporto. Un camion pieno di pallet trasporta soprattutto aria. Per questo installiamo lo stampo di un pallet il più vicino possibile al cliente. Così i pallet stessi non devono percorrere lunghe distanze.
 
-Produciamo in sei stabilimenti: a Balk, Ribe, Marktoberdorf, Nantes, Lleida e Chesterfield. Quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento Q-Pall. Si risparmiano così molti chilometri, emissioni di CO₂ e costi di trasporto. Per saperne di più leggete [produzione locale](@about-local).
+Produciamo in cinque stabilimenti: a Balk, Ribe, Marktoberdorf, Nantes e Lleida. Quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento Q-Pall. Si risparmiano così molti chilometri, emissioni di CO₂ e costi di trasporto. Per saperne di più leggete [produzione locale](@about-local).
 
 ## Pallet in plastica riciclata
 

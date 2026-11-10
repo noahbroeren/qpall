@@ -10,7 +10,7 @@ lead: "For years, production went to the lowest bidder, wherever in the world. D
 img_alt: "Production hall with injection moulding machines and robots in a Q-Pall factory"
 reading: 4
 published: '2025-05-15'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In short**
 >
@@ -18,7 +18,7 @@ updated: '2026-11-02'
 > * Local production makes you less dependent on ports, long routes and geopolitical risks.
 > * Locally sourced recycled plastic means shorter supply lines and better insight into its origin.
 > * If you calculate the total cost of ownership (TCO), stability and speed pay off.
-> * Q-Pall produces in six European factories and delivers within days instead of weeks.
+> * Q-Pall produces in five European factories and delivers within days instead of weeks.
 
 ## Why global supply chains are fragile
 
@@ -36,7 +36,7 @@ Local production is not a temporary stopgap. It is a structural choice that make
 * **Less geopolitical risk.** Wars, sanctions and export restrictions affect you less when production takes place closer to home.
 * **More flexibility.** You can scale up or down faster when demand suddenly changes.
 
-In practice, Q-Pall makes plastic pallets in [six factories in six European countries](@about-local). This allows us to deliver within days instead of weeks. That matters most in sectors where delivery reliability directly determines whether production keeps running.
+In practice, Q-Pall makes plastic pallets in [five factories in five European countries](@about-local). This allows us to deliver within days instead of weeks. That matters most in sectors where delivery reliability directly determines whether production keeps running.
 
 ### Local recyclate: shorter supply lines and more transparency
 

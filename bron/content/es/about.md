@@ -1,11 +1,11 @@
 ---
 id: about
 title: "Sobre Q-Pall: fabricante de palets de plástico desde 2005"
-description: "Desde 2005, Q-Pall fabrica solo palets de plástico, con plástico casi 100% reciclado, en seis fábricas europeas. Descubra pallets with a purpose."
+description: "Desde 2005, Q-Pall fabrica solo palets de plástico, con plástico casi 100% reciclado, en cinco fábricas europeas. Descubra pallets with a purpose."
 eyebrow: "Sobre Q-Pall"
 h1: "Fabricante europeo de **palets de plástico**"
 tagline: "Pallets **with a purpose**"
-lead: "Desde 2005 nos centramos en una sola cosa: palets de plástico asequibles y fiables, con la sostenibilidad como prioridad. Desde nuestra sede central en Veghel y seis fábricas europeas."
+lead: "Desde 2005 nos centramos en una sola cosa: palets de plástico asequibles y fiables, con la sostenibilidad como prioridad. Desde nuestra sede central en Veghel y cinco fábricas europeas."
 ---
 
 ## Nuestra misión
@@ -17,15 +17,15 @@ Nuestros palets estándar están fabricados con plástico casi 100% reciclado. S
 ## Q-Pall en cifras
 
 - **Fundada en 2005**, con sede central en Veghel.
-- **Seis centros de producción** en Países Bajos, Dinamarca, Alemania, Francia, España y Reino Unido.
-- **4 millones de palets al año** de capacidad de producción, en unas 130 versiones y nueve medidas.
+- **Cinco centros de producción** en Países Bajos, Dinamarca, Alemania, Francia y España.
+- **4 millones de palets al año** de capacidad de producción, en unas 125 versiones y nueve medidas.
 - **200+ personas en nuestra cadena de producción.**
 - **Una red de distribuidores** que cubre gran parte de Europa y Estados Unidos.
 - **Medalla de bronce de EcoVadis** (octubre de 2026) por nuestro desempeño en sostenibilidad.
 
 ## Act global, produce local
 
-El transporte es, con diferencia, la mayor fuente de emisiones de CO₂ en la cadena del palet. Por eso producimos lo más cerca posible de nuestros clientes: en Balk (NL), Ribe (DK), Marktoberdorf (DE), Nantes (FR), Lleida (ES) y Chesterfield (Reino Unido). Casi todos los clientes se encuentran a menos de 600 kilómetros de una fábrica de Q-Pall. Más información sobre la [producción local](@about-local).
+El transporte es, con diferencia, la mayor fuente de emisiones de CO₂ en la cadena del palet. Por eso producimos lo más cerca posible de nuestros clientes: en Balk (NL), Ribe (DK), Marktoberdorf (DE), Nantes (FR) y Lleida (ES). Casi todos los clientes se encuentran a menos de 600 kilómetros de una fábrica de Q-Pall. Más información sobre la [producción local](@about-local).
 
 ## Toda la cadena en nuestras manos
 

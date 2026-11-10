@@ -1000,3 +1000,30 @@ UPDATE 44 (10 november 2026) - foto met de oranje gewikkelde stapels in een hal 
   "Update over wereldwijde logistiek" (6 talen, ook de kaartjes in nieuws, sector logistiek en gerelateerde berichten):
   nu photo-custom (spuitgietmachine, produceren in Europa). Deelafbeelding (og) van Dealers: nu hq-aerial. og opnieuw
   gemaakt voor dealers en news-logistics-update.
+
+UPDATE 45 (10 november 2026) - Chesterfield van de site, 48 x 40-pallets eraf, 2.QP1210MB3RR-artikelen als concept
+  (besluit Q-Pall/Noah). Alles in 6 talen.
+  ARTIKELEN: site_config.REMOVED_SKUS = QP4048MB3RR, QP4048MB3RR-CD, QP4048MB6RR (QP4048MB6RR-CD was al weg) en
+    site_config.DRAFT_SKUS = 2.QP1210MB3RR, 2.QP1210MB3RR-CD, 2.QP1210MB3RR-CP1 (concept: gegevens, foto's en teksten
+    blijven; datasheets bewaard in data/datasheets-draft/). build.py haalt ze weg voordat de pagina's worden gemaakt en
+    rekent de familie opnieuw uit; een familie zonder artikelen verdwijnt (qp1210mb3rr-cp1, qp4048*). Ook in
+    tools/products.py (EXCLUDE_VARIANTS). LET OP: tools/products.py opnieuw draaien overschrijft de handmatige
+    teksten in data/products.json (update 33); niet doen zonder 3-weg-merge.
+    124 artikelen (was 130), 85 families. Laadcalculator zonder de groep 1220 x 1020 (ui.js, engine.js);
+    calc-defaults opnieuw. Teller "zo'n 130 uitvoeringen" -> "zo'n 125" (alle talen, schema, llms.txt).
+  CONCEPTBERICHT: news-medium-4840 (48 x 40 inch voor de VS) staat in site_config.NEWS_DRAFT: niet gepubliceerd,
+    tekst blijft in content/<taal>/.
+  REDIRECTS: data/redirects-removed.txt (78 regels: pagina's en datasheets naar het dichtstbijzijnde artikel,
+    het bericht naar maatpagina 1200 x 1000). build_assets._flatten maakt ketens plat: oude qpall.com-URL's die naar
+    een verdwenen pagina wezen gaan in één stap naar de nieuwe. tools/redirects_iclicks_check.py vertaalt de
+    verwachte doelen via dat bestand: 1.414/1.414 in één stap.
+  CHESTERFIELD: LOCATIONS/FACTORIES (5 productielocaties), ORG_SITES en data/schema-organization.json (5 locaties),
+    kaart (tools/map_light.py, data/europe-map-light.svg opnieuw), root/llms.txt, i18n (5 Europese fabrieken,
+    footer, kaarttekst), mail/texts.json, content/TRANSLATION_BRIEF.md. Alle teksten: zes -> vijf fabrieken/landen,
+    lijsten zonder Chesterfield/VK als productieland, about-local zonder de zesde fabriek, news-goplastic ("inmiddels
+    vijf"), news-brexit herschreven (sectie "Kunststof pallets van Q-Pall voor het VK": vijf fabrieken, levering zo
+    dicht mogelijk bij u; dealer Goplasticpallets blijft). Het VK als markt (1200 x 1000, dealer, brexit) blijft.
+    1200 x 1000: FAQ over de 48 x 40-pallet weg; guide-sizes en guide-ispm zonder de 1220 x 1020-pallets.
+    Gewijzigde artikelen: updated 2026-11-10. og-afbeeldingen met "5 Europese fabrieken" opnieuw gemaakt.
+  CATALOGUS (PDF's van Noah, input/catalogus): bevat nog de QP4048- en 2.QP1210MB3RR-pallets; opnieuw maken met de
+    nieuwe productexport (124 pallets).

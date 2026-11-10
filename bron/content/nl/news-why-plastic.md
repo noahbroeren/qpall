@@ -17,7 +17,7 @@ faq:
 - q: "Zijn kunststof pallets wel duurzaam?"
   a: "Ja, als ze lang meegaan en daarna worden gerecycled. Onze standaardpallets zijn gemaakt van bijna 100% gerecycled kunststof en aan het einde van hun leven volledig recyclebaar."
 published: '2021-12-10'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In het kort**
 >
@@ -46,7 +46,7 @@ Per stuk is een kunststof pallet vaak duurder dan een houten pallet. Maar hij ga
 
 Meer hierover leest u in [wat kost een kunststof pallet?](@guide-prices)
 
-Kiest u voor nieuwe pallets, dan kiest u uit zo'n 130 uitvoeringen in negen formaten. Wilt u uw pallets herkenbaar maken? Met [maatwerk](@about-custom) passen we een bestaand model aan, bijvoorbeeld met uw logo of een eigen kleur.
+Kiest u voor nieuwe pallets, dan kiest u uit zo'n 125 uitvoeringen in negen formaten. Wilt u uw pallets herkenbaar maken? Met [maatwerk](@about-custom) passen we een bestaand model aan, bijvoorbeeld met uw logo of een eigen kleur.
 
 Telt vooral het budget? Kies dan voor [gebruikte kunststof pallets](@used): via Q-Used verkopen we gekeurde pallets die tot 40% voordeliger zijn dan nieuwe. Omdat kunststof pallets lang meegaan, zijn ze vaak nog in goede staat.
 
@@ -54,7 +54,7 @@ Telt vooral het budget? Kies dan voor [gebruikte kunststof pallets](@used): via 
 
 Veel mensen denken bij kunststof aan vervuiling. Bij pallets ligt dat anders. Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE en PP uit onder meer oude kratten, doppen en verpakkingen.
 
-Een kunststof pallet gaat vele jaren mee. Aan het einde van zijn leven is hij volledig recyclebaar: we nemen hem terug en vermalen hem tot grondstof voor nieuwe pallets. Bovendien produceren we in zes fabrieken in Europa, dicht bij onze klanten.
+Een kunststof pallet gaat vele jaren mee. Aan het einde van zijn leven is hij volledig recyclebaar: we nemen hem terug en vermalen hem tot grondstof voor nieuwe pallets. Bovendien produceren we in vijf fabrieken in Europa, dicht bij onze klanten.
 
 Lees meer over onze aanpak voor [duurzaamheid](@about-sustainability).
 

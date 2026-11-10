@@ -10,7 +10,7 @@ lead: "A marzo 2026 gli sviluppi in Medio Oriente hanno messo sotto pressione la
 img_alt: "Alte pile di pallet in plastica arancioni in un magazzino"
 reading: 2
 published: '2026-03-26'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In breve**
 >
@@ -25,7 +25,7 @@ Nella primavera del 2026 gli sviluppi in Medio Oriente hanno avuto un impatto ev
 
 ## Una posizione europea stabile
 
-In quel periodo Q-Pall ha operato da una posizione relativamente stabile. La nostra produzione e i nostri acquisti avvengono interamente in Europa: realizziamo i nostri pallet in [sei stabilimenti in tutta Europa](@about-local) e acquistiamo il materiale riciclato il più possibile nella regione.
+In quel periodo Q-Pall ha operato da una posizione relativamente stabile. La nostra produzione e i nostri acquisti avvengono interamente in Europa: realizziamo i nostri pallet in [cinque stabilimenti in tutta Europa](@about-local) e acquistiamo il materiale riciclato il più possibile nella regione.
 
 > «Questo ci rende molto meno dipendenti dai flussi intercontinentali di materie prime e ci permette di reagire più rapidamente ai cambiamenti, quando necessario.»
 

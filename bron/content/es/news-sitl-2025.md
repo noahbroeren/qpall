@@ -10,7 +10,7 @@ lead: "Q-Pall estuvo en la SITL 2025 de París junto a su socio BacLand. Bajo el
 img_alt: "Recreación 3D del estand de Q-Pall con una gran pantalla que muestra una tortuga marina y el lema «Pallets with a purpose»"
 reading: 2
 published: '2025-04-10'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En resumen**
 >
@@ -31,7 +31,7 @@ En el estand presentamos nuestra gama en tres clases de carga, desde palets lige
 
 ## La historia detrás del estand
 
-Fabricamos nuestros palets estándar con plástico casi 100% reciclado, una mezcla de HDPE y PP. Los producimos en seis fábricas repartidas por Europa, de modo que casi todos los clientes están a menos de 600 kilómetros de una fábrica. Los moldes viajan, los palets no: instalamos el molde lo más cerca posible del cliente. Más información sobre nuestra [producción local](@about-local).
+Fabricamos nuestros palets estándar con plástico casi 100% reciclado, una mezcla de HDPE y PP. Los producimos en cinco fábricas repartidas por Europa, de modo que casi todos los clientes están a menos de 600 kilómetros de una fábrica. Los moldes viajan, los palets no: instalamos el molde lo más cerca posible del cliente. Más información sobre nuestra [producción local](@about-local).
 
 Los visitantes pudieron hablar con nuestro equipo sobre sus propios retos: reducir las emisiones de CO₂, automatizar procesos o transportar de forma más eficiente. Los palets de plástico son dimensionalmente estables y tienen un peso constante. Por eso son adecuados para la [automatización y los AGV](@guide-automation).
 

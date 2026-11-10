@@ -10,14 +10,14 @@ lead: "Anfang 2022 wurde der Bau des neuen europäischen Hauptsitzes von Q-Pall 
 img_alt: "Der Hauptsitz von Q-Pall in Veghel: ein dunkelgraues Gebäude mit orangefarbenem Vordach und großen Glasfassaden"
 reading: 2
 published: '2022-01-19'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **Kurz gesagt**
 >
 > * Anfang 2022 war der neue europäische Hauptsitz von Q-Pall in Veghel an der A50 fertig.
 > * Im Gebäude befinden sich der Hauptsitz, das europäische Betriebszentrum und eine Lagerhalle.
 > * Vorhandene Gründungspfähle, eine Wärmepumpe und Solarmodule machten das Gebäude sparsam bei Material und Energie.
-> * Die Paletten selbst fertigt Q-Pall in sechs Werken in Europa, so nah wie möglich am Kunden.
+> * Die Paletten selbst fertigt Q-Pall in fünf Werken in Europa, so nah wie möglich am Kunden.
 
 ## Ein neuer Hauptsitz an der A50
 
@@ -39,7 +39,7 @@ Q-Pall stellt ausschließlich Kunststoffpaletten her. Kennzeichnend ist, dass wi
 
 Ein Beispiel: Werden Paletten für den französischen Markt in den Niederlanden hergestellt, müssen viele volle Lkw lange Strecken nach Süden und wieder zurück fahren. Geht nur die Form in unser Werk in Nantes, entfallen diese Fahrten größtenteils.
 
-Q-Pall produziert in sechs Werken: Balk (Niederlande), Ribe (Dänemark), Marktoberdorf (Deutschland), Nantes (Frankreich), Lleida (Spanien) und Chesterfield (Vereinigtes Königreich). Fast jeder Kunde liegt im Umkreis von 600 Kilometern um ein Werk. Mehr über [lokale Produktion](@about-local).
+Q-Pall produziert in fünf Werken: Balk (Niederlande), Ribe (Dänemark), Marktoberdorf (Deutschland), Nantes (Frankreich) und Lleida (Spanien). Fast jeder Kunde liegt im Umkreis von 600 Kilometern um ein Werk. Mehr über [lokale Produktion](@about-local).
 
 ## Die gesamte Kette in eigener Hand
 

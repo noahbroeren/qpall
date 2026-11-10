@@ -37,7 +37,7 @@ PRICES = load_prices()
 NEW_XLSX = os.path.join(ROOT, 'input/producten-6-talen.xlsx')
 PPWR_DIR = os.path.join(ROOT, 'input/ppwr')
 LANGS6 = ['nl', 'en', 'de', 'fr', 'it', 'es']
-LOC_CODE = {'balk': 'B', 'veghel': 'V', 'ribe': 'R', 'marktoberdorf': 'M', 'lleida': 'L', 'nantes': 'N', 'chesterfield': 'C'}
+LOC_CODE = {'balk': 'B', 'veghel': 'V', 'ribe': 'R', 'marktoberdorf': 'M', 'lleida': 'L', 'nantes': 'N', 'chesterfield': None}   # update 45: Chesterfield is not shown
 
 
 def load_new():
@@ -95,7 +95,6 @@ NEW = load_new()
 PPWR = load_ppwr()
 
 LOC = {
-    'C': {'nl': 'Chesterfield', 'en': 'Chesterfield', 'cc': 'UK'},
     'B': {'nl': 'Balk', 'en': 'Balk', 'cc': 'NL'},
     'V': {'nl': 'Veghel', 'en': 'Veghel', 'cc': 'NL'},
     'R': {'nl': 'Ribe', 'en': 'Ribe', 'cc': 'DK'},
@@ -196,7 +195,9 @@ EXCLUDE = {'QP76114LB9RR', 'QP76114LB9RR-CD'}
 # QPW1210HP5RR-CD stays). They leave before grouping, so the family's ranges, prices and locations no longer count them.
 EXCLUDE_VARIANTS = {'QPW1210HP5RR-CDG',                                        # update 15
                     'N.QP1210LB9FR', 'N.QP1210LB3RR', 'N.QP1210LB9FR-CD',     # update 19 (Noah 28-10-2026)
-                    'QP4048MB6RR-CD'}                                            # update 22 (Noah 28-10-2026)
+                    'QP4048MB6RR-CD',                                            # update 22 (Noah 28-10-2026)
+                    # update 45 (Noah 10-11-2026): off the site; the 2.QP1210MB3RR articles are drafts (site_config.DRAFT_SKUS)
+                    'QP4048MB3RR', 'QP4048MB3RR-CD', 'QP4048MB6RR', '2.QP1210MB3RR', '2.QP1210MB3RR-CD', '2.QP1210MB3RR-CP1'}
 
 
 def load_rows():

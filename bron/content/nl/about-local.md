@@ -1,10 +1,10 @@
 ---
 id: about-local
-title: "Lokaal produceren in 6 Europese fabrieken – Q-Pall"
-description: "Q-Pall maakt kunststof pallets in Balk, Ribe, Marktoberdorf, Nantes, Lleida en Chesterfield. Binnen 600 km van de klant: minder transport en CO₂."
+title: "Lokaal produceren in 5 Europese fabrieken – Q-Pall"
+description: "Q-Pall maakt kunststof pallets in Balk, Ribe, Marktoberdorf, Nantes en Lleida. Binnen 600 km van de klant: minder transport en CO₂."
 eyebrow: "Act global, produce local"
 h1: "Lokaal **produceren**"
-lead: "We produceren in zes fabrieken verspreid over Europa. Zo zitten we bijna altijd binnen 600 kilometer van onze klanten. Dat scheelt transport, kosten en CO₂."
+lead: "We produceren in vijf fabrieken verspreid over Europa. Zo zitten we bijna altijd binnen 600 kilometer van onze klanten. Dat scheelt transport, kosten en CO₂."
 ---
 
 ## Waarom lokaal produceren?
@@ -22,7 +22,6 @@ Een matrijs is de mal waarin we een pallet spuitgieten. In plaats van pallets do
 - **Marktoberdorf (Duitsland)**, in Beieren.
 - **Nantes (Frankrijk).**
 - **Lleida (Spanje).**
-- **Chesterfield (Verenigd Koninkrijk)**, onze zesde en nieuwste fabriek.
 
 Ons hoofdkantoor, Europees operationeel centrum en opslag staan in **Veghel**, in Noord-Brabant. Komt u zelf laden of lossen? [Meld uw transport vooraf aan](@transport).
 

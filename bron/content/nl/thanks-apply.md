@@ -26,7 +26,7 @@ more:
   cards:
   - id: about
     t: Over Q-Pall
-    d: Sinds 2005 alleen kunststof pallets, uit zes Europese fabrieken.
+    d: Sinds 2005 alleen kunststof pallets, uit vijf Europese fabrieken.
   - id: about-sustainability
     t: Duurzaamheid
     d: Van gerecycled kunststof tot een pallet die jaren meegaat.

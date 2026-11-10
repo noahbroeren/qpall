@@ -5,7 +5,7 @@ description: "Q-Pall entwickelt Paletten aus recyceltem Kunststoff und lässt si
 hero:
   eyebrow: "Hersteller nachhaltiger Paletten seit 2005"
   h1: "Mehrwegpaletten aus **recyceltem Kunststoff**"
-  lead: "Rund 130 Ausführungen an Kunststoffpaletten, von nestbaren Einwegpaletten bis zu Schwerlast-Regalpaletten. Gefertigt in sechs europäischen Werken – nie weit von Ihnen entfernt."
+  lead: "Rund 125 Ausführungen an Kunststoffpaletten, von nestbaren Einwegpaletten bis zu Schwerlast-Regalpaletten. Gefertigt in fünf europäischen Werken – nie weit von Ihnen entfernt."
   cta1: "Alle Kunststoffpaletten ansehen"
   cta2: "Angebot anfordern"
   badge: "Medium-Paletten in Antirutsch-Ausführung"
@@ -40,7 +40,7 @@ intro:
   strike: ["Kisten.", "Behälter.", "Boxen."]
   final: "Paletten."
   title: "Ein Produkt. **Volle Aufmerksamkeit.**"
-  text: "Die meisten Hersteller von Kunststoffverpackungen verteilen ihre Werkzeuge, ihre Entwicklung und ihre Aufmerksamkeit auf Kisten, Behälter und Container. Wir stecken alles in ein einziges Produkt. Deshalb umfasst unser Sortiment neun Größen, drei Lastklassen und rund 130 Ausführungen – und deshalb ist eine Palettenfrage bei Q-Pall nie Nebensache."
+  text: "Die meisten Hersteller von Kunststoffverpackungen verteilen ihre Werkzeuge, ihre Entwicklung und ihre Aufmerksamkeit auf Kisten, Behälter und Container. Wir stecken alles in ein einziges Produkt. Deshalb umfasst unser Sortiment neun Größen, drei Lastklassen und rund 125 Ausführungen – und deshalb ist eine Palettenfrage bei Q-Pall nie Nebensache."
   points:
     - icon: "factory"
       t: "Direkt vom Hersteller"
@@ -49,7 +49,7 @@ intro:
       t: "Fast 100 % recycelt"
       d: "Aus Post-Consumer- und Industriekunststoff, vollständig recycelbar."
     - icon: "globe"
-      t: "Sechs europäische Werke"
+      t: "Fünf europäische Werke"
       d: "Fast immer weniger als 600 Kilometer von Ihrem Standort entfernt."
   cta: "Über Q-Pall"
 range:
@@ -103,8 +103,8 @@ sustain_cta:
   btn: "Mit einem Spezialisten sprechen"
 local:
   eyebrow: "Act global, produce local"
-  title: "Sechs Werke. **Nah beim Kunden.**"
-  lead: "Wir produzieren in sechs Werken in ganz Europa und transportieren Werkzeuge statt Paletten. So liegt fast jeder Kunde weniger als 600 Kilometer von einem Q-Pall-Werk entfernt: weniger Transport, niedrigere Kosten und weniger CO₂."
+  title: "Fünf Werke. **Nah beim Kunden.**"
+  lead: "Wir produzieren in fünf Werken in ganz Europa und transportieren Werkzeuge statt Paletten. So liegt fast jeder Kunde weniger als 600 Kilometer von einem Q-Pall-Werk entfernt: weniger Transport, niedrigere Kosten und weniger CO₂."
   note: "Gängige Modelle sind an mehreren Standorten auf Lager, und einen Teil unserer Modelle fertigen wir in mehr als einem Werk. So können wir auch in Spitzenzeiten liefern."
   cta: "Mehr zur lokalen Produktion"
 sectors:
@@ -125,7 +125,7 @@ sectors:
 about:
   eyebrow: "Über Q-Pall"
   title: "Die ganze Kette **in eigener Hand**"
-  text: "Seit 2005 entwickelt und produziert Q-Pall ausschließlich Kunststoffpaletten. Konstruktion, Werkzeuge, Produktion, Vertrieb und Verkauf übernehmen wir selbst – von unserem Hauptsitz in Veghel und sechs Werken in Europa aus. So reagieren wir schnell und behalten die Qualität in eigener Hand."
+  text: "Seit 2005 entwickelt und produziert Q-Pall ausschließlich Kunststoffpaletten. Konstruktion, Werkzeuge, Produktion, Vertrieb und Verkauf übernehmen wir selbst – von unserem Hauptsitz in Veghel und fünf Werken in Europa aus. So reagieren wir schnell und behalten die Qualität in eigener Hand."
   points: ["Hauptsitz und Lager in Veghel", "Teil der AVK Group", "Händler in Europa und den USA"]
   cta: "Mehr über Q-Pall"
   cta2: "Karriere bei Q-Pall"
@@ -167,11 +167,11 @@ faq:
   - q: "Warum Kunststoffpaletten?"
     a: "Kunststoffpaletten halten deutlich länger als Holzpaletten, nehmen keine Feuchtigkeit auf und haben keine Splitter oder Nägel. Sie haben feste Abmessungen und ein konstantes Gewicht – wichtig für die Automatisierung. Außerdem sind sie für den Export von ISPM 15 befreit. Mehr dazu unter [Kunststoff oder Holz](@guide-wood)."
   - q: "Sind Q-Pall-Paletten nachhaltig?"
-    a: "Ja. Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff und sind am Ende ihrer Lebensdauer vollständig recycelbar. Wir produzieren lokal in sechs europäischen Werken, sodass weniger Transport nötig ist."
+    a: "Ja. Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff und sind am Ende ihrer Lebensdauer vollständig recycelbar. Wir produzieren lokal in fünf europäischen Werken, sodass weniger Transport nötig ist."
   - q: "Was kostet eine Kunststoffpalette?"
     a: "Das hängt von der Größe, der Lastklasse, der Menge und dem Lieferort ab. Eine kleine Displaypalette oder eine nestbare Light-Palette ist am günstigsten, eine Schwerlastpalette mit geschlossenem Deck am teuersten. [Fordern Sie ein Angebot an](@quote), dann erhalten Sie in der Regel innerhalb eines Werktags einen individuellen Preis. Was den Preis bestimmt, lesen Sie in unserem [Preisratgeber](@guide-prices)."
   - q: "Wie schnell kann Q-Pall liefern?"
     a: "Gängige Modelle haben wir an mehreren Standorten auf Lager. Die Lieferzeit hängt von Modell, Menge und Standort ab. [Fordern Sie ein Angebot an](@quote), und wir sagen Ihnen in der Regel innerhalb eines Werktags, was möglich ist."
   - q: "Liefern Sie auch außerhalb der Niederlande?"
-    a: "Ja. Wir liefern in ganz Europa aus unseren Werken in den Niederlanden, Dänemark, Deutschland, Frankreich, Spanien und dem Vereinigten Königreich und arbeiten mit [Händlern](@dealers) in Europa und den Vereinigten Staaten zusammen."
+    a: "Ja. Wir liefern in ganz Europa aus unseren Werken in den Niederlanden, Dänemark, Deutschland, Frankreich und Spanien. Außerdem arbeiten wir mit [Händlern](@dealers) in Europa und den Vereinigten Staaten zusammen."
 ---

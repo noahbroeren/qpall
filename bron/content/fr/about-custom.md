@@ -16,7 +16,7 @@ faq:
 
 ## Des modifications astucieuses sur des modèles existants
 
-Concevoir une palette entièrement nouvelle demande beaucoup de temps et d’argent. C’est pourquoi nous regardons d’abord ce qui est possible au sein de notre gamme existante d’environ 130 versions. Une petite modification suffit souvent :
+Concevoir une palette entièrement nouvelle demande beaucoup de temps et d’argent. C’est pourquoi nous regardons d’abord ce qui est possible au sein de notre gamme existante d’environ 125 versions. Une petite modification suffit souvent :
 
 - **Logo ou impression** sur la palette.
 - **Votre propre couleur**, par exemple pour distinguer des pools ou des services.

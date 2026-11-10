@@ -11,7 +11,7 @@ faq:
   - q: "¿Cómo se fabrican los palets de plástico?"
     a: "Mediante moldeo por inyección a alta presión. El granulado de plástico fundido se inyecta en un molde de acero. Así se obtiene de una sola vez un palet completo y dimensionalmente estable."
   - q: "¿Cuántos tipos de palets de plástico existen?"
-    a: "Q-Pall tiene unas 130 versiones en nueve medidas, de 600 x 400 mm a 1300 x 1100 mm, en las clases Light, Medium y Heavy. Consulte la [gama completa](@pallets)."
+    a: "Q-Pall tiene unas 125 versiones en nueve medidas, de 600 x 400 mm a 1300 x 1100 mm, en las clases Light, Medium y Heavy. Consulte la [gama completa](@pallets)."
   - q: "¿Por qué los palets de plástico son más seguros?"
     a: "No tienen clavos, astillas ni tablas sueltas. No absorben humedad, no crían moho y están libres de plagas, por lo que no necesitan tratamiento ISPM 15. Gracias a sus dimensiones fijas, provocan menos interrupciones en los sistemas automatizados."
   - q: "¿Por qué son rentables los palets de plástico?"

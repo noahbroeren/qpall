@@ -11,7 +11,7 @@ faq:
   - q: "Comment les palettes plastique sont-elles produites ?"
     a: "Par moulage par injection haute pression. Le granulé de plastique fondu est injecté dans un moule en acier. On obtient ainsi, en une seule opération, une palette complète et dimensionnellement stable."
   - q: "Combien de types de palettes plastique existe-t-il ?"
-    a: "Q-Pall propose environ 130 versions en neuf formats, de 600 x 400 mm à 1300 x 1100 mm, en Light, Medium et Heavy. Découvrez la [gamme complète](@pallets)."
+    a: "Q-Pall propose environ 125 versions en neuf formats, de 600 x 400 mm à 1300 x 1100 mm, en Light, Medium et Heavy. Découvrez la [gamme complète](@pallets)."
   - q: "Pourquoi les palettes plastique sont-elles plus sûres à l’usage ?"
     a: "Elles n’ont ni clous, ni échardes, ni planches qui se détachent. Elles n’absorbent pas l’humidité, ne moisissent pas et sont exemptes de nuisibles : aucun traitement ISPM 15 n’est donc nécessaire. Grâce à leurs dimensions constantes, elles provoquent moins de pannes dans les systèmes automatisés."
   - q: "Pourquoi les palettes plastique sont-elles rentables ?"

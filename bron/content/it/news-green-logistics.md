@@ -15,9 +15,9 @@ faq:
 - q: "I pallet in plastica sono più leggeri di quelli in legno?"
   a: "Spesso sì, a seconda del tipo. I pallet Light sono molto più leggeri del legno. I pallet Heavy pesano da circa 17 a 29 kg, più o meno come un europallet in legno di circa 25 kg."
 - q: "Come contribuisce la produzione locale alla logistica verde?"
-  a: "Nel settore dei pallet la maggior parte delle emissioni di CO₂ deriva dal trasporto. Produciamo in sei stabilimenti europei, così quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento."
+  a: "Nel settore dei pallet la maggior parte delle emissioni di CO₂ deriva dal trasporto. Produciamo in cinque stabilimenti europei, così quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento."
 published: '2023-09-11'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In breve**
 >
@@ -25,7 +25,7 @@ updated: '2026-11-02'
 > * I pallet in plastica sono spesso più leggeri del legno, soprattutto nella classe Light. Così si risparmia carburante.
 > * Durano molti anni e poi sono completamente riciclabili.
 > * I nostri pallet standard sono in plastica riciclata quasi al 100%: 34.500 tonnellate nel 2025.
-> * La produzione locale in sei stabilimenti europei limita il trasporto dei pallet stessi.
+> * La produzione locale in cinque stabilimenti europei limita il trasporto dei pallet stessi.
 
 ## Cos’è la logistica verde?
 
@@ -63,6 +63,6 @@ All’acquisto i pallet in plastica costano spesso più di quelli in legno. Sull
 
 Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%. Nel 2025 abbiamo lavorato 34.500 tonnellate di plastica riciclata, circa 1.475 camion pieni. Questo aiuta a ridurre la quantità di rifiuti di plastica che altrimenti finirebbero in discarica, negli inceneritori o negli oceani.
 
-Inoltre produciamo [localmente](@about-local), in sei stabilimenti distribuiti in tutta Europa. Nel settore dei pallet la maggior parte delle emissioni di CO₂ deriva dal trasporto. Poiché quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento Q-Pall, le distanze di trasporto restano brevi.
+Inoltre produciamo [localmente](@about-local), in cinque stabilimenti distribuiti in tutta Europa. Nel settore dei pallet la maggior parte delle emissioni di CO₂ deriva dal trasporto. Poiché quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento Q-Pall, le distanze di trasporto restano brevi.
 
 Volete sapere quali pallet si adattano meglio alla vostra logistica verde? [Richiedete un preventivo](@quote). Di solito ricevete un prezzo su misura entro un giorno lavorativo.

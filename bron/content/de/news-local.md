@@ -10,13 +10,13 @@ lead: "In einer unsicheren Welt ist Nearshoring keine Option mehr, sondern Pflic
 img_alt: "Roboter und Spritzgießmaschinen in der Produktionshalle des Q-Pall-Werks in Balk"
 reading: 3
 published: '2026-02-26'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **Kurz gesagt**
 >
 > * Globale Lieferketten sind durch Konflikte, gestörte Handelsrouten und schwankende Frachtraten anfällig geworden.
 > * Berichtspflichten verlangen immer mehr Einblick in die Emissionen der Lieferkette (Scope 3).
-> * Q-Pall produziert in sechs Werken in ganz Europa, nah am Kunden.
+> * Q-Pall produziert in fünf Werken in ganz Europa, nah am Kunden.
 > * Lokale Produktion bedeutet kurze, verlässliche Lieferzeiten, stabilere Kosten und eine ehrliche Geschichte über Herkunft und Recycling.
 
 ## Die Verwundbarkeit der „globalen Fabrik“
@@ -33,7 +33,7 @@ Auch die Regulierung spielt eine immer größere Rolle. Große Unternehmen müss
 
 ## Das Q-Pall-Modell: nah am Kunden produzieren
 
-Bei Q-Pall sehen wir die Produktion nicht als Kostenfaktor, sondern als Instrument für Liefersicherheit. Wir haben uns bewusst für Nearshoring entschieden. Wir produzieren in [sechs Werken in ganz Europa](@about-local), sodass fast jeder Kunde weniger als 600 Kilometer von einem Q-Pall-Werk entfernt ist.
+Bei Q-Pall sehen wir die Produktion nicht als Kostenfaktor, sondern als Instrument für Liefersicherheit. Wir haben uns bewusst für Nearshoring entschieden. Wir produzieren in [fünf Werken in ganz Europa](@about-local), sodass fast jeder Kunde weniger als 600 Kilometer von einem Q-Pall-Werk entfernt ist.
 
 Das funktioniert anders als Importe aus Übersee. Interkontinentale Seefracht ist anfällig für wochenlange Verzögerungen. Unser Netzwerk kann innerhalb weniger Tage umschalten und liefern, ohne von einem einzigen Hafen oder einer einzigen Route abhängig zu sein.
 

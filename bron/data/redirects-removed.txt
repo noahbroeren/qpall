@@ -1,0 +1,88 @@
+# update 45 (Noah 10-11-2026): pages and datasheets of articles that are not on the site (site_config.DRAFT_SKUS /
+# REMOVED_SKUS) and of the draft article news-medium-4840. 301 to the closest page that remains. When a draft comes
+# back on the site: remove its lines here.
+# 2.QP1210MB3RR (draft) -> 3.QP1210MB3RR
+/kunststof-pallets/1200-x-1000-mm/kunststof-pallet-1200-x-1000-x-150-open-dek-3-onderlatten-medium-2-qp1210mb3rr/  /kunststof-pallets/1200-x-1000-mm/kunststof-pallet-1200-x-1000-x-150-open-dek-3-onderlatten-medium/  301
+/downloads/datasheets/nl/q-pall-2-qp1210mb3rr-nl.pdf  /downloads/datasheets/nl/q-pall-qp1210mb3rr-nl.pdf  301
+/en/plastic-pallets/1200-x-1000-mm/plastic-pallet-1200-x-1000-x-150-open-deck-3-runners-medium-2-qp1210mb3rr/  /en/plastic-pallets/1200-x-1000-mm/plastic-pallet-1200-x-1000-x-150-open-deck-3-runners-medium/  301
+/downloads/datasheets/en/q-pall-2-qp1210mb3rr-en.pdf  /downloads/datasheets/en/q-pall-qp1210mb3rr-en.pdf  301
+/de/kunststoffpaletten/1200-x-1000-mm/kunststoffpalette-1200-x-1000-x-150-offenes-deck-3-kufen-medium-2-qp1210mb3rr/  /de/kunststoffpaletten/1200-x-1000-mm/kunststoffpalette-1200-x-1000-x-150-offenes-deck-3-kufen-medium/  301
+/downloads/datasheets/de/q-pall-2-qp1210mb3rr-de.pdf  /downloads/datasheets/de/q-pall-qp1210mb3rr-de.pdf  301
+/fr/palettes-plastique/1200-x-1000-mm/palette-plastique-1200-x-1000-x-150-plateau-ajoure-3-semelles-medium-2-qp1210mb3rr/  /fr/palettes-plastique/1200-x-1000-mm/palette-plastique-1200-x-1000-x-150-plateau-ajoure-3-semelles-medium/  301
+/downloads/datasheets/fr/q-pall-2-qp1210mb3rr-fr.pdf  /downloads/datasheets/fr/q-pall-qp1210mb3rr-fr.pdf  301
+/it/pallet-in-plastica/1200-x-1000-mm/pallet-in-plastica-1200-x-1000-x-150-piano-aperto-3-slitte-medium-2-qp1210mb3rr/  /it/pallet-in-plastica/1200-x-1000-mm/pallet-in-plastica-1200-x-1000-x-150-piano-aperto-3-slitte-medium/  301
+/downloads/datasheets/it/q-pall-2-qp1210mb3rr-it.pdf  /downloads/datasheets/it/q-pall-qp1210mb3rr-it.pdf  301
+/es/palets-de-plastico/1200-x-1000-mm/palet-de-plastico-1200-x-1000-x-150-superficie-abierta-3-patines-medium-2-qp1210mb3rr/  /es/palets-de-plastico/1200-x-1000-mm/palet-de-plastico-1200-x-1000-x-150-superficie-abierta-3-patines-medium/  301
+/downloads/datasheets/es/q-pall-2-qp1210mb3rr-es.pdf  /downloads/datasheets/es/q-pall-qp1210mb3rr-es.pdf  301
+# 2.QP1210MB3RR-CD (draft) -> 4.QP1210MB3RR-CD
+/kunststof-pallets/1200-x-1000-mm/kunststof-pallet-1200-x-1000-x-150-gesloten-dek-3-onderlatten-medium-2-qp1210mb3rr-cd/  /kunststof-pallets/1200-x-1000-mm/kunststof-pallet-1200-x-1000-x-150-gesloten-dek-3-onderlatten-medium/  301
+/downloads/datasheets/nl/q-pall-2-qp1210mb3rr-cd-nl.pdf  /downloads/datasheets/nl/q-pall-qp1210mb3rr-cd-nl.pdf  301
+/en/plastic-pallets/1200-x-1000-mm/plastic-pallet-1200-x-1000-x-150-closed-deck-3-runners-medium-2-qp1210mb3rr-cd/  /en/plastic-pallets/1200-x-1000-mm/plastic-pallet-1200-x-1000-x-150-closed-deck-3-runners-medium/  301
+/downloads/datasheets/en/q-pall-2-qp1210mb3rr-cd-en.pdf  /downloads/datasheets/en/q-pall-qp1210mb3rr-cd-en.pdf  301
+/de/kunststoffpaletten/1200-x-1000-mm/kunststoffpalette-1200-x-1000-x-150-geschlossenes-deck-3-kufen-medium-2-qp1210mb3rr-cd/  /de/kunststoffpaletten/1200-x-1000-mm/kunststoffpalette-1200-x-1000-x-150-geschlossenes-deck-3-kufen-medium/  301
+/downloads/datasheets/de/q-pall-2-qp1210mb3rr-cd-de.pdf  /downloads/datasheets/de/q-pall-qp1210mb3rr-cd-de.pdf  301
+/fr/palettes-plastique/1200-x-1000-mm/palette-plastique-1200-x-1000-x-150-plateau-ferme-3-semelles-medium-2-qp1210mb3rr-cd/  /fr/palettes-plastique/1200-x-1000-mm/palette-plastique-1200-x-1000-x-150-plateau-ferme-3-semelles-medium/  301
+/downloads/datasheets/fr/q-pall-2-qp1210mb3rr-cd-fr.pdf  /downloads/datasheets/fr/q-pall-qp1210mb3rr-cd-fr.pdf  301
+/it/pallet-in-plastica/1200-x-1000-mm/pallet-in-plastica-1200-x-1000-x-150-piano-chiuso-3-slitte-medium-2-qp1210mb3rr-cd/  /it/pallet-in-plastica/1200-x-1000-mm/pallet-in-plastica-1200-x-1000-x-150-piano-chiuso-3-slitte-medium/  301
+/downloads/datasheets/it/q-pall-2-qp1210mb3rr-cd-it.pdf  /downloads/datasheets/it/q-pall-qp1210mb3rr-cd-it.pdf  301
+/es/palets-de-plastico/1200-x-1000-mm/palet-de-plastico-1200-x-1000-x-150-superficie-cerrada-3-patines-medium-2-qp1210mb3rr-cd/  /es/palets-de-plastico/1200-x-1000-mm/palet-de-plastico-1200-x-1000-x-150-superficie-cerrada-3-patines-medium/  301
+/downloads/datasheets/es/q-pall-2-qp1210mb3rr-cd-es.pdf  /downloads/datasheets/es/q-pall-qp1210mb3rr-cd-es.pdf  301
+# 2.QP1210MB3RR-CP1 (draft) -> 2.QP1210HB3RR-CP1
+/kunststof-pallets/1200-x-1000-mm/cp1-pallet-1200-x-1000-x-150-open-dek-3-onderlatten-medium/  /kunststof-pallets/1200-x-1000-mm/cp1-pallet-1200-x-1000-x-158-open-dek-3-onderlatten-heavy/  301
+/downloads/datasheets/nl/q-pall-qp1210mb3rr-cp1-nl.pdf  /downloads/datasheets/nl/q-pall-qp1210hb3rr-cp1-nl.pdf  301
+/en/plastic-pallets/1200-x-1000-mm/cp1-pallet-1200-x-1000-x-150-open-deck-3-runners-medium/  /en/plastic-pallets/1200-x-1000-mm/cp1-pallet-1200-x-1000-x-158-open-deck-3-runners-heavy/  301
+/downloads/datasheets/en/q-pall-qp1210mb3rr-cp1-en.pdf  /downloads/datasheets/en/q-pall-qp1210hb3rr-cp1-en.pdf  301
+/de/kunststoffpaletten/1200-x-1000-mm/cp1-palette-1200-x-1000-x-150-offenes-deck-3-kufen-medium/  /de/kunststoffpaletten/1200-x-1000-mm/cp1-palette-1200-x-1000-x-158-offenes-deck-3-kufen-heavy/  301
+/downloads/datasheets/de/q-pall-qp1210mb3rr-cp1-de.pdf  /downloads/datasheets/de/q-pall-qp1210hb3rr-cp1-de.pdf  301
+/fr/palettes-plastique/1200-x-1000-mm/palette-cp1-1200-x-1000-x-150-plateau-ajoure-3-semelles-medium/  /fr/palettes-plastique/1200-x-1000-mm/palette-cp1-1200-x-1000-x-158-plateau-ajoure-3-semelles-heavy/  301
+/downloads/datasheets/fr/q-pall-qp1210mb3rr-cp1-fr.pdf  /downloads/datasheets/fr/q-pall-qp1210hb3rr-cp1-fr.pdf  301
+/it/pallet-in-plastica/1200-x-1000-mm/pallet-cp1-1200-x-1000-x-150-piano-aperto-3-slitte-medium/  /it/pallet-in-plastica/1200-x-1000-mm/pallet-cp1-1200-x-1000-x-158-piano-aperto-3-slitte-heavy/  301
+/downloads/datasheets/it/q-pall-qp1210mb3rr-cp1-it.pdf  /downloads/datasheets/it/q-pall-qp1210hb3rr-cp1-it.pdf  301
+/es/palets-de-plastico/1200-x-1000-mm/palet-cp1-1200-x-1000-x-150-superficie-abierta-3-patines-medium/  /es/palets-de-plastico/1200-x-1000-mm/palet-cp1-1200-x-1000-x-158-superficie-abierta-3-patines-heavy/  301
+/downloads/datasheets/es/q-pall-qp1210mb3rr-cp1-es.pdf  /downloads/datasheets/es/q-pall-qp1210hb3rr-cp1-es.pdf  301
+# QP4048MB3RR (removed) -> 3.QP1210MB3RR
+/kunststof-pallets/1200-x-1000-mm/kunststof-pallet-1220-x-1020-x-150-open-dek-3-onderlatten-medium/  /kunststof-pallets/1200-x-1000-mm/kunststof-pallet-1200-x-1000-x-150-open-dek-3-onderlatten-medium/  301
+/downloads/datasheets/nl/q-pall-qp4048mb3rr-nl.pdf  /downloads/datasheets/nl/q-pall-qp1210mb3rr-nl.pdf  301
+/en/plastic-pallets/1200-x-1000-mm/plastic-pallet-1220-x-1020-x-150-open-deck-3-runners-medium/  /en/plastic-pallets/1200-x-1000-mm/plastic-pallet-1200-x-1000-x-150-open-deck-3-runners-medium/  301
+/downloads/datasheets/en/q-pall-qp4048mb3rr-en.pdf  /downloads/datasheets/en/q-pall-qp1210mb3rr-en.pdf  301
+/de/kunststoffpaletten/1200-x-1000-mm/kunststoffpalette-1220-x-1020-x-150-offenes-deck-3-kufen-medium/  /de/kunststoffpaletten/1200-x-1000-mm/kunststoffpalette-1200-x-1000-x-150-offenes-deck-3-kufen-medium/  301
+/downloads/datasheets/de/q-pall-qp4048mb3rr-de.pdf  /downloads/datasheets/de/q-pall-qp1210mb3rr-de.pdf  301
+/fr/palettes-plastique/1200-x-1000-mm/palette-plastique-1220-x-1020-x-150-plateau-ajoure-3-semelles-medium/  /fr/palettes-plastique/1200-x-1000-mm/palette-plastique-1200-x-1000-x-150-plateau-ajoure-3-semelles-medium/  301
+/downloads/datasheets/fr/q-pall-qp4048mb3rr-fr.pdf  /downloads/datasheets/fr/q-pall-qp1210mb3rr-fr.pdf  301
+/it/pallet-in-plastica/1200-x-1000-mm/pallet-in-plastica-1220-x-1020-x-150-piano-aperto-3-slitte-medium/  /it/pallet-in-plastica/1200-x-1000-mm/pallet-in-plastica-1200-x-1000-x-150-piano-aperto-3-slitte-medium/  301
+/downloads/datasheets/it/q-pall-qp4048mb3rr-it.pdf  /downloads/datasheets/it/q-pall-qp1210mb3rr-it.pdf  301
+/es/palets-de-plastico/1200-x-1000-mm/palet-de-plastico-1220-x-1020-x-150-superficie-abierta-3-patines-medium/  /es/palets-de-plastico/1200-x-1000-mm/palet-de-plastico-1200-x-1000-x-150-superficie-abierta-3-patines-medium/  301
+/downloads/datasheets/es/q-pall-qp4048mb3rr-es.pdf  /downloads/datasheets/es/q-pall-qp1210mb3rr-es.pdf  301
+# QP4048MB3RR-CD (removed) -> 4.QP1210MB3RR-CD
+/kunststof-pallets/1200-x-1000-mm/kunststof-pallet-1220-x-1020-x-150-gesloten-dek-3-onderlatten-medium/  /kunststof-pallets/1200-x-1000-mm/kunststof-pallet-1200-x-1000-x-150-gesloten-dek-3-onderlatten-medium/  301
+/downloads/datasheets/nl/q-pall-qp4048mb3rr-cd-nl.pdf  /downloads/datasheets/nl/q-pall-qp1210mb3rr-cd-nl.pdf  301
+/en/plastic-pallets/1200-x-1000-mm/plastic-pallet-1220-x-1020-x-150-closed-deck-3-runners-medium/  /en/plastic-pallets/1200-x-1000-mm/plastic-pallet-1200-x-1000-x-150-closed-deck-3-runners-medium/  301
+/downloads/datasheets/en/q-pall-qp4048mb3rr-cd-en.pdf  /downloads/datasheets/en/q-pall-qp1210mb3rr-cd-en.pdf  301
+/de/kunststoffpaletten/1200-x-1000-mm/kunststoffpalette-1220-x-1020-x-150-geschlossenes-deck-3-kufen-medium/  /de/kunststoffpaletten/1200-x-1000-mm/kunststoffpalette-1200-x-1000-x-150-geschlossenes-deck-3-kufen-medium/  301
+/downloads/datasheets/de/q-pall-qp4048mb3rr-cd-de.pdf  /downloads/datasheets/de/q-pall-qp1210mb3rr-cd-de.pdf  301
+/fr/palettes-plastique/1200-x-1000-mm/palette-plastique-1220-x-1020-x-150-plateau-ferme-3-semelles-medium/  /fr/palettes-plastique/1200-x-1000-mm/palette-plastique-1200-x-1000-x-150-plateau-ferme-3-semelles-medium/  301
+/downloads/datasheets/fr/q-pall-qp4048mb3rr-cd-fr.pdf  /downloads/datasheets/fr/q-pall-qp1210mb3rr-cd-fr.pdf  301
+/it/pallet-in-plastica/1200-x-1000-mm/pallet-in-plastica-1220-x-1020-x-150-piano-chiuso-3-slitte-medium/  /it/pallet-in-plastica/1200-x-1000-mm/pallet-in-plastica-1200-x-1000-x-150-piano-chiuso-3-slitte-medium/  301
+/downloads/datasheets/it/q-pall-qp4048mb3rr-cd-it.pdf  /downloads/datasheets/it/q-pall-qp1210mb3rr-cd-it.pdf  301
+/es/palets-de-plastico/1200-x-1000-mm/palet-de-plastico-1220-x-1020-x-150-superficie-cerrada-3-patines-medium/  /es/palets-de-plastico/1200-x-1000-mm/palet-de-plastico-1200-x-1000-x-150-superficie-cerrada-3-patines-medium/  301
+/downloads/datasheets/es/q-pall-qp4048mb3rr-cd-es.pdf  /downloads/datasheets/es/q-pall-qp1210mb3rr-cd-es.pdf  301
+# QP4048MB6RR (removed) -> 3.QP1210MB5RR
+/kunststof-pallets/1200-x-1000-mm/kunststof-pallet-1220-x-1020-x-150-open-dek-6-onderlatten-medium/  /kunststof-pallets/1200-x-1000-mm/kunststof-pallet-1200-x-1000-x-150-open-dek-5-onderlatten-medium/  301
+/downloads/datasheets/nl/q-pall-qp4048mb6rr-nl.pdf  /downloads/datasheets/nl/q-pall-qp1210mb5rr-nl.pdf  301
+/en/plastic-pallets/1200-x-1000-mm/plastic-pallet-1220-x-1020-x-150-open-deck-6-runners-medium/  /en/plastic-pallets/1200-x-1000-mm/plastic-pallet-1200-x-1000-x-150-open-deck-5-runners-medium/  301
+/downloads/datasheets/en/q-pall-qp4048mb6rr-en.pdf  /downloads/datasheets/en/q-pall-qp1210mb5rr-en.pdf  301
+/de/kunststoffpaletten/1200-x-1000-mm/kunststoffpalette-1220-x-1020-x-150-offenes-deck-6-kufen-medium/  /de/kunststoffpaletten/1200-x-1000-mm/kunststoffpalette-1200-x-1000-x-150-offenes-deck-5-kufen-medium/  301
+/downloads/datasheets/de/q-pall-qp4048mb6rr-de.pdf  /downloads/datasheets/de/q-pall-qp1210mb5rr-de.pdf  301
+/fr/palettes-plastique/1200-x-1000-mm/palette-plastique-1220-x-1020-x-150-plateau-ajoure-6-semelles-medium/  /fr/palettes-plastique/1200-x-1000-mm/palette-plastique-1200-x-1000-x-150-plateau-ajoure-5-semelles-medium/  301
+/downloads/datasheets/fr/q-pall-qp4048mb6rr-fr.pdf  /downloads/datasheets/fr/q-pall-qp1210mb5rr-fr.pdf  301
+/it/pallet-in-plastica/1200-x-1000-mm/pallet-in-plastica-1220-x-1020-x-150-piano-aperto-6-slitte-medium/  /it/pallet-in-plastica/1200-x-1000-mm/pallet-in-plastica-1200-x-1000-x-150-piano-aperto-5-slitte-medium/  301
+/downloads/datasheets/it/q-pall-qp4048mb6rr-it.pdf  /downloads/datasheets/it/q-pall-qp1210mb5rr-it.pdf  301
+/es/palets-de-plastico/1200-x-1000-mm/palet-de-plastico-1220-x-1020-x-150-superficie-abierta-6-patines-medium/  /es/palets-de-plastico/1200-x-1000-mm/palet-de-plastico-1200-x-1000-x-150-superficie-abierta-5-patines-medium/  301
+/downloads/datasheets/es/q-pall-qp4048mb6rr-es.pdf  /downloads/datasheets/es/q-pall-qp1210mb5rr-es.pdf  301
+# news-medium-4840 (draft, about the QP4048 pallets) -> size page 1200 x 1000
+/nieuws/medium-48-x-40-kunststof-pallets-voor-amerikaanse-markt/  /kunststof-pallets/1200-x-1000-mm/  301
+/en/news/medium-48-x-40-plastic-pallets-for-the-us-market/  /en/plastic-pallets/1200-x-1000-mm/  301
+/de/aktuelles/kunststoffpaletten-48-x-40-fur-den-us-markt/  /de/kunststoffpaletten/1200-x-1000-mm/  301
+/fr/actualites/palettes-en-plastique-48-x-40-pour-le-marche-usa/  /fr/palettes-plastique/1200-x-1000-mm/  301
+/it/notizie/pallet-in-plastica-48-x-40-per-il-mercato-usa/  /it/pallet-in-plastica/1200-x-1000-mm/  301
+/es/noticias/palets-de-plastico-48-x-40-para-el-mercado-usa/  /es/palets-de-plastico/1200-x-1000-mm/  301

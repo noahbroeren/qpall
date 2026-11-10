@@ -17,13 +17,13 @@ faq:
 - q: "Gilt die PPWR auch für Paletten?"
   a: "Ja. Paletten sind Transportverpackungen und fallen unter die europäische Verpackungsverordnung, die seit dem 12. August 2026 gilt. Q-Pall hat für jede Palettengruppe eine PPWR-Konformitätserklärung; bei den meisten Modellen laden Sie sie auf der Produktseite herunter."
 published: '2022-01-09'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **Kurz gesagt**
 >
 > * Bei der Wahl einer Palette zählt die Funktion, aber immer öfter auch die Umweltwirkung.
 > * Der CO₂-Fußabdruck einer Palette entsteht vor allem beim Rohstoff, bei der Produktion und beim Transport.
-> * Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, in sechs Werken nah beim Kunden.
+> * Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, in fünf Werken nah beim Kunden.
 > * Wiederverwendung und Recycling am Ende der Lebensdauer verringern die Wirkung weiter.
 > * Seit dem 12. August 2026 gilt die europäische Verpackungsverordnung PPWR, auch für Paletten.
 
@@ -43,7 +43,7 @@ Bei einem Produkt wie einer Palette werden alle Treibhausgase, die für ihre Her
 
 * **Rohstoff.** Die Gewinnung und Herstellung neuer Rohstoffe kostet viel Energie. Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE und PP. So ersetzen wir neuen Rohstoff durch Kunststoff, der bereits existiert.
 * **Produktion.** Bei der Entwicklung neuer Paletten arbeiten wir mit strengen Designzielen für Energie- und Materialeffizienz.
-* **Transport.** In der Palettenbranche entsteht der größte Teil der CO₂-Emissionen durch den Transport. Deshalb produzieren wir [lokal](@about-local), in sechs Werken, verteilt über ganz Europa. Fast jeder Kunde befindet sich im Umkreis von 600 Kilometern um ein Q-Pall-Werk.
+* **Transport.** In der Palettenbranche entsteht der größte Teil der CO₂-Emissionen durch den Transport. Deshalb produzieren wir [lokal](@about-local), in fünf Werken, verteilt über ganz Europa. Fast jeder Kunde befindet sich im Umkreis von 600 Kilometern um ein Q-Pall-Werk.
 * **Ende der Lebensdauer.** Am Ende ihrer Lebensdauer sind unsere Paletten vollständig recycelbar. Das Material wird zum Rohstoff für neue Paletten.
 
 ## Wie Q-Pall den CO₂-Fußabdruck nutzt

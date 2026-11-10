@@ -17,13 +17,13 @@ faq:
 - q: "¿El PPWR se aplica también a los palets?"
   a: "Sí. Los palets son envases de transporte y entran en el reglamento europeo de envases, aplicable desde el 12 de agosto de 2026. Q-Pall dispone de una declaración de conformidad PPWR por grupo de palets; en la mayoría de los modelos puede descargarla en la página del producto."
 published: '2022-01-09'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En resumen**
 >
 > * Al elegir un palet cuenta la función, pero cada vez más también el impacto ambiental.
 > * La huella de carbono de un palet se genera sobre todo en la materia prima, la producción y el transporte.
-> * Fabricamos nuestros palets estándar con plástico casi 100% reciclado, en seis fábricas cerca de nuestros clientes.
+> * Fabricamos nuestros palets estándar con plástico casi 100% reciclado, en cinco fábricas cerca de nuestros clientes.
 > * La reutilización y el reciclaje al final de la vida útil reducen aún más el impacto.
 > * Desde el 12 de agosto de 2026 se aplica el reglamento europeo de envases PPWR, también a los palets.
 
@@ -43,7 +43,7 @@ En un producto como un palet, todos los gases de efecto invernadero necesarios p
 
 * **Materia prima.** Extraer y producir materias primas nuevas consume mucha energía. Fabricamos nuestros palets estándar con plástico casi 100% reciclado, una mezcla de HDPE y PP. Así sustituimos materia prima nueva por plástico que ya existe.
 * **Producción.** En el desarrollo de nuevos palets aplicamos objetivos de diseño estrictos en eficiencia energética y de materiales.
-* **Transporte.** En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Por eso producimos [localmente](@about-local), en seis fábricas repartidas por Europa. Casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall.
+* **Transporte.** En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Por eso producimos [localmente](@about-local), en cinco fábricas repartidas por Europa. Casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall.
 * **Fin de la vida útil.** Al final de su vida útil, nuestros palets son totalmente reciclables. El material se convierte en materia prima para nuevos palets.
 
 ## Cómo utiliza Q-Pall la huella de carbono

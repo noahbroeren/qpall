@@ -10,7 +10,7 @@ lead: "Q-Pall exhibited at SITL 2025 in Paris together with partner BacLand. Und
 img_alt: "3D rendering of the Q-Pall exhibition stand with a large screen showing a sea turtle and the words 'Pallets with a purpose'"
 reading: 2
 published: '2025-04-10'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In short**
 >
@@ -31,7 +31,7 @@ On the stand we presented our range in three load classes, from light pallets fo
 
 ## The story behind the stand
 
-We make our standard pallets from nearly 100% recycled plastic, a mix of HDPE and PP. We produce them in six factories across Europe, so almost every customer is within 600 kilometres of a factory. Moulds travel, pallets don't: we place the mould as close to the customer as possible. Read more about [local production](@about-local).
+We make our standard pallets from nearly 100% recycled plastic, a mix of HDPE and PP. We produce them in five factories across Europe, so almost every customer is within 600 kilometres of a factory. Moulds travel, pallets don't: we place the mould as close to the customer as possible. Read more about [local production](@about-local).
 
 Visitors could talk to our team about their own challenges: cutting CO₂ emissions, automating processes or moving goods more efficiently. Plastic pallets are dimensionally stable and have a constant weight. That makes them well suited to [automation and AGVs](@guide-automation).
 

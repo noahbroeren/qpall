@@ -16,7 +16,7 @@ faq:
 
 ## Modifiche intelligenti ai modelli esistenti
 
-Un design di pallet completamente nuovo richiede molto tempo e denaro. Per questo valutiamo prima cosa è possibile all’interno della nostra gamma di circa 130 versioni. Spesso basta una piccola modifica:
+Un design di pallet completamente nuovo richiede molto tempo e denaro. Per questo valutiamo prima cosa è possibile all’interno della nostra gamma di circa 125 versioni. Spesso basta una piccola modifica:
 
 - **Logo o stampa** sul pallet.
 - **Il vostro colore**, ad esempio per distinguere pool o reparti.

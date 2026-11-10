@@ -17,7 +17,7 @@ faq:
 - q: "Comment Q-Pall contrôle-t-elle les métaux lourds ?"
   a: "Nous contrôlons nos palettes au regard des substances de la directive RoHS. Nous utilisons pour cela la fluorescence X (XRF), une mesure rapide qui n’endommage pas la matière."
 published: '2022-01-12'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En bref**
 >
@@ -78,7 +78,7 @@ Pour les clients qui comparent des produits, l’empreinte carbone est de plus e
 Nous utilisons les résultats de notre analyse d’empreinte carbone comme point de référence et comme point de départ pour améliorer la performance environnementale de nos palettes. Grâce à des objectifs de conception stricts en matière d’efficacité énergétique et matière, nous limitons les émissions autant que possible. Deux choix y contribuent :
 
 * **Matière recyclée.** Nous fabriquons nos palettes standard en plastique recyclé à près de 100 %.
-* **Distances courtes.** Nous produisons dans six usines en Europe, au plus près de nos clients. En savoir plus sur la [production locale](@about-local).
+* **Distances courtes.** Nous produisons dans cinq usines en Europe, au plus près de nos clients. En savoir plus sur la [production locale](@about-local).
 
 En octobre 2026, nous avons de nouveau obtenu la médaille de bronze EcoVadis.
 

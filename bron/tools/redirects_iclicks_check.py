@@ -54,11 +54,19 @@ def resolve(old):
     return None, 6
 
 
+# update 45: an expected page that is no longer on the site (draft or removed article) is replaced by the page that
+# data/redirects-removed.txt sends it to
+REMAP = {}
+for line in open(os.path.join(ROOT, 'data/redirects-removed.txt'), encoding='utf-8'):
+    p = line.split()
+    if len(p) >= 2 and not p[0].startswith('#'):
+        REMAP[p[0]] = p[1]
 ok, bad, hops = 0, [], {}
 for line in open(os.path.join(ROOT, 'data/oude-site/iclicks-redirects-2026-11-09.tsv'), encoding='utf-8'):
     if line.startswith('#') or not line.strip():
         continue
     old, new = line.rstrip('\n').split('\t')[:2]
+    new = REMAP.get(new, new)
     final, n = resolve(old)
     if final and final == new and exists(new):
         ok += 1

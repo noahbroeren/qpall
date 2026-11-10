@@ -10,7 +10,7 @@ lead: "En marzo de 2026, los acontecimientos en Oriente Medio pusieron bajo pres
 img_alt: "Altas pilas de palets de plástico naranjas en un almacén"
 reading: 2
 published: '2026-03-26'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En resumen**
 >
@@ -25,7 +25,7 @@ En la primavera de 2026, los acontecimientos en Oriente Medio tuvieron un claro 
 
 ## Una posición europea estable
 
-Durante ese periodo, Q-Pall operó desde una posición relativamente estable. Nuestra producción y nuestras compras se realizan íntegramente en Europa: fabricamos nuestros palets en [seis fábricas repartidas por Europa](@about-local) y compramos el material reciclado en la región siempre que es posible.
+Durante ese periodo, Q-Pall operó desde una posición relativamente estable. Nuestra producción y nuestras compras se realizan íntegramente en Europa: fabricamos nuestros palets en [cinco fábricas repartidas por Europa](@about-local) y compramos el material reciclado en la región siempre que es posible.
 
 > «Esto nos hace mucho menos dependientes de los flujos intercontinentales de materias primas y nos permite responder con mayor rapidez a los cambios cuando es necesario.»
 

@@ -1,12 +1,12 @@
 ---
 id: news-brexit
 title: "Brexit: kunststof pallets in de handel met het VK – Q-Pall"
-description: "Sinds de brexit moeten houten pallets in de handel met het VK voldoen aan ISPM 15. Kunststof pallets niet. Q-Pall maakt pallets ook in Chesterfield (VK)."
+description: "Sinds de brexit moeten houten pallets in de handel met het VK voldoen aan ISPM 15. Kunststof pallets niet: geen behandeling, geen stempel."
 eyebrow: "Nieuws"
 tag: "Supply chain"
 crumb: "Pallets na de brexit"
 h1: "Brexit en pallets: **wat geldt er in de handel met het VK?**"
-lead: "Sinds de brexit is het VK voor pallets een land buiten de EU. Houten pallets moeten daarom voldoen aan ISPM 15, kunststof pallets niet. Bovendien maakt Q-Pall kunststof pallets in het VK zelf, in Chesterfield."
+lead: "Sinds de brexit is het VK voor pallets een land buiten de EU. Houten pallets moeten daarom voldoen aan ISPM 15, kunststof pallets niet."
 img_alt: "Bord in de stijl van de Londense metro met het woord Brexit, voor een Britse vlag"
 reading: 3
 faq:
@@ -17,14 +17,13 @@ faq:
 - q: "Welke palletmaat is gangbaar in het VK?"
   a: "In het VK wordt veel gewerkt met de industriepallet van 1200 x 1000 mm. Onze exportpallets maken we onder meer in 1200 x 1000 mm en 1200 x 800 mm."
 published: '2022-01-13'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In het kort**
 >
 > * Het VK verliet de EU op 31 januari 2020. De overgangsperiode liep tot en met 31 december 2020.
 > * Sindsdien moeten houten pallets in de handel tussen de EU en het VK voldoen aan ISPM 15: behandeld en gestempeld.
 > * Kunststof pallets vallen niet onder ISPM 15 en hebben geen behandeling of stempel nodig.
-> * Q-Pall heeft een fabriek in Chesterfield en produceert daarmee ook in het VK zelf.
 
 ## Van referendum tot vertrek
 
@@ -52,11 +51,9 @@ Wat dat u oplevert in de handel met het VK:
 * **Een passende maat.** In het VK is de industriepallet van [1200 x 1000 mm](@size-1200x1000) gangbaar.
 * **Circulair.** Onze standaardpallets zijn van bijna 100% gerecycled kunststof en aan het einde van hun leven volledig recyclebaar.
 
-## Q-Pall produceert ook in het VK
+## Kunststof pallets van Q-Pall voor het VK
 
-Q-Pall maakt kunststof pallets in zes fabrieken: Balk (Nederland), Ribe (Denemarken), Marktoberdorf (Duitsland), Nantes (Frankrijk), Lleida (Spanje) en Chesterfield (Verenigd Koninkrijk). Bijna elke klant zit binnen 600 kilometer van een van onze fabrieken.
-
-Onze aanpak is: matrijzen reizen, pallets niet. We plaatsen de matrijs zo dicht mogelijk bij de klant. Voor klanten in het VK kan dat de fabriek in Chesterfield zijn: korte transporten en geen grensovergang voor de pallets zelf. Lees meer over [lokaal produceren](@about-local).
+Q-Pall maakt kunststof pallets in vijf fabrieken verspreid over Europa. Onze aanpak is: matrijzen reizen, pallets niet. We leveren vanuit een fabriek waar uw pallet beschikbaar is, zo dicht mogelijk bij u. Lees meer over [lokaal produceren](@about-local).
 
 Heeft u kleinere aantallen nodig? Dan kunt u terecht bij een [dealer bij u in de buurt](@dealers). In het VK werken we onder meer samen met dealer Goplasticpallets.com.
 

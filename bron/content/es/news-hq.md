@@ -10,14 +10,14 @@ lead: "A principios de 2022 finalizó la construcción de la nueva sede europea 
 img_alt: "La sede de Q-Pall en Veghel: un edificio gris oscuro con un voladizo naranja y grandes fachadas de cristal"
 reading: 2
 published: '2022-01-19'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En resumen**
 >
 > * A principios de 2022 quedó terminada la nueva sede europea de Q-Pall en Veghel, junto a la autopista A50.
 > * El edificio alberga la sede central, el centro de operaciones europeo y un almacén.
 > * Los pilotes de cimentación ya existentes, una bomba de calor y paneles solares lo hicieron eficiente en materiales y energía.
-> * Los palets se fabrican en seis fábricas en Europa, lo más cerca posible del cliente.
+> * Los palets se fabrican en cinco fábricas en Europa, lo más cerca posible del cliente.
 
 ## Una nueva sede junto a la A50
 
@@ -39,7 +39,7 @@ Q-Pall fabrica exclusivamente palets de plástico. Nuestra seña de identidad es
 
 Un ejemplo: si los palets destinados al mercado francés se fabrican en los Países Bajos, muchos camiones llenos tienen que hacer largos trayectos hacia el sur y de vuelta. Si solo se envía el molde a nuestra fábrica de Nantes, la mayoría de esos viajes dejan de ser necesarios.
 
-Q-Pall produce en seis fábricas: Balk (Países Bajos), Ribe (Dinamarca), Marktoberdorf (Alemania), Nantes (Francia), Lleida (España) y Chesterfield (Reino Unido). Casi todos los clientes están a menos de 600 kilómetros de una fábrica. Más información sobre la [producción local](@about-local).
+Q-Pall produce en cinco fábricas: Balk (Países Bajos), Ribe (Dinamarca), Marktoberdorf (Alemania), Nantes (Francia) y Lleida (España). Casi todos los clientes están a menos de 600 kilómetros de una fábrica. Más información sobre la [producción local](@about-local).
 
 ## Toda la cadena en nuestras manos
 

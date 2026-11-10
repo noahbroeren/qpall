@@ -80,7 +80,7 @@ offer:
 why:
   eyebrow: Sobre Q-Pall
   title: Palets **con propósito**
-  text: Desde 2005 Q-Pall fabrica únicamente palets de plástico. Nuestros palets estándar están hechos de plástico casi 100% reciclado y, con seis fábricas en Europa, producimos cerca del cliente.
+  text: Desde 2005 Q-Pall fabrica únicamente palets de plástico. Nuestros palets estándar están hechos de plástico casi 100% reciclado y, con cinco fábricas en Europa, producimos cerca del cliente.
   link: Más sobre Q-Pall
 process:
   title: Cómo funciona **su candidatura**

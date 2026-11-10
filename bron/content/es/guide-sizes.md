@@ -41,7 +41,7 @@ La norma internacional ISO 6780 recoge seis medidas de palet muy utilizadas en t
 
 - **1200 x 800 mm**: el europalet, estándar en Europa.
 - **1200 x 1000 mm**: el palet industrial, en Europa, el Reino Unido y Asia.
-- **1219 x 1016 mm (48 x 40 pulgadas)**: el estándar en Norteamérica. Q-Pall tiene palets Medium de 1220 x 1020 mm en esta medida, que figuran en [1200 x 1000 mm](@size-1200x1000).
+- **1219 x 1016 mm (48 x 40 pulgadas)**: el estándar en Norteamérica.
 - **1165 x 1165 mm**: sobre todo en Australia.
 - **1100 x 1100 mm**: en Asia, entre otros en Japón y Corea. Consulte [1100 x 1100 mm](@size-1100x1100).
 - **1067 x 1067 mm**: en Norteamérica, Europa y Asia.

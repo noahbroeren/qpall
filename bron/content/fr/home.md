@@ -5,7 +5,7 @@ description: "Q-Pall conçoit des palettes plastique recyclé et les fait produi
 hero:
   eyebrow: "Fabricant de palettes durables depuis 2005"
   h1: "Des palettes réutilisables en **plastique recyclé**"
-  lead: "Environ 130 versions de palettes plastique, de la palette export emboîtable à la palette de rayonnage renforcée. Fabriquées dans six usines européennes, jamais loin de chez vous."
+  lead: "Environ 125 versions de palettes plastique, de la palette export emboîtable à la palette de rayonnage renforcée. Fabriquées dans cinq usines européennes, jamais loin de chez vous."
   cta1: "Voir toutes les palettes plastique"
   cta2: "Demander un devis"
   badge: "Palettes Medium antidérapantes"
@@ -40,7 +40,7 @@ intro:
   strike: ["Caisses.", "Bacs.", "Conteneurs."]
   final: "Palettes."
   title: "Un seul produit. **Toute notre attention.**"
-  text: "La plupart des fabricants d’emballages plastique répartissent leurs moules, leur R&D et leur attention entre caisses, bacs et conteneurs. Nous concentrons tout sur un seul produit. C’est pourquoi notre gamme couvre neuf formats, trois classes de charge et environ 130 versions, et pourquoi, chez Q-Pall, une question de palette n’est jamais secondaire."
+  text: "La plupart des fabricants d’emballages plastique répartissent leurs moules, leur R&D et leur attention entre caisses, bacs et conteneurs. Nous concentrons tout sur un seul produit. C’est pourquoi notre gamme couvre neuf formats, trois classes de charge et environ 125 versions, et pourquoi, chez Q-Pall, une question de palette n’est jamais secondaire."
   points:
     - icon: "factory"
       t: "En direct du fabricant"
@@ -49,7 +49,7 @@ intro:
       t: "Recyclé à près de 100 %"
       d: "Issu de plastiques post-consommation et industriels, entièrement recyclable."
     - icon: "globe"
-      t: "Six usines européennes"
+      t: "Cinq usines européennes"
       d: "Presque toujours à moins de 600 kilomètres de votre site."
   cta: "À propos de Q-Pall"
 range:
@@ -103,8 +103,8 @@ sustain_cta:
   btn: "Parler à un spécialiste"
 local:
   eyebrow: "Act global, produce local"
-  title: "Six usines. **Au plus près du client.**"
-  lead: "Nous produisons dans six usines réparties en Europe et déplaçons des moules plutôt que des palettes. Ainsi, presque chaque client se trouve à moins de 600 kilomètres d’une usine Q-Pall : moins de transport, des coûts réduits et moins de CO₂."
+  title: "Cinq usines. **Au plus près du client.**"
+  lead: "Nous produisons dans cinq usines réparties en Europe et déplaçons des moules plutôt que des palettes. Ainsi, presque chaque client se trouve à moins de 600 kilomètres d’une usine Q-Pall : moins de transport, des coûts réduits et moins de CO₂."
   note: "Les modèles les plus demandés sont en stock sur plusieurs sites, et une partie de nos modèles est fabriquée dans plusieurs usines. Nous pouvons ainsi livrer même en période de forte activité."
   cta: "En savoir plus sur la production locale"
 sectors:
@@ -125,7 +125,7 @@ sectors:
 about:
   eyebrow: "À propos de Q-Pall"
   title: "Toute la chaîne **entre nos mains**"
-  text: "Depuis 2005, Q-Pall développe et produit exclusivement des palettes plastique. Conception, moules, production, distribution et vente : nous gérons tout nous-mêmes, depuis notre siège de Veghel et six usines en Europe. Nous réagissons ainsi rapidement et gardons la qualité sous contrôle."
+  text: "Depuis 2005, Q-Pall développe et produit exclusivement des palettes plastique. Conception, moules, production, distribution et vente : nous gérons tout nous-mêmes, depuis notre siège de Veghel et cinq usines en Europe. Nous réagissons ainsi rapidement et gardons la qualité sous contrôle."
   points: ["Siège et stockage à Veghel", "Membre d’AVK Group", "Distributeurs en Europe et aux États-Unis"]
   cta: "En savoir plus sur Q-Pall"
   cta2: "Travailler chez Q-Pall"
@@ -167,11 +167,11 @@ faq:
   - q: "Pourquoi choisir des palettes plastique ?"
     a: "Les palettes plastique durent bien plus longtemps que les palettes bois, n’absorbent pas l’humidité et n’ont ni échardes ni clous. Leurs dimensions sont fixes et leur poids constant, ce qui compte pour l’automatisation. Elles sont en outre exemptées de la norme ISPM 15 à l’export. Pour en savoir plus, lisez [plastique ou bois](@guide-wood)."
   - q: "Les palettes Q-Pall sont-elles durables ?"
-    a: "Oui. Nos palettes standard sont fabriquées en plastique recyclé à près de 100 % et sont entièrement recyclables en fin de vie. Nous produisons localement dans six usines européennes, ce qui réduit les besoins en transport."
+    a: "Oui. Nos palettes standard sont fabriquées en plastique recyclé à près de 100 % et sont entièrement recyclables en fin de vie. Nous produisons localement dans cinq usines européennes, ce qui réduit les besoins en transport."
   - q: "Combien coûte une palette plastique ?"
     a: "Cela dépend du format, de la classe de charge, de la quantité et du lieu de livraison. Une petite palette display ou une palette Light emboîtable est la plus économique, une palette Heavy à plateau fermé la plus chère. [Demandez un devis](@quote) : vous recevez généralement un prix sur mesure sous un jour ouvré. Notre [guide des prix](@guide-prices) explique ce qui détermine le prix."
   - q: "En combien de temps Q-Pall peut-elle livrer ?"
     a: "Nous avons les modèles les plus demandés en stock sur plusieurs sites. Le délai de livraison dépend du modèle, de la quantité et du site. [Demandez un devis](@quote) : nous vous indiquons généralement sous un jour ouvré ce qui est possible."
   - q: "Livrez-vous en dehors des Pays-Bas ?"
-    a: "Oui. Nous livrons dans toute l’Europe depuis nos usines aux Pays-Bas, au Danemark, en Allemagne, en France, en Espagne et au Royaume-Uni, et nous travaillons avec des [distributeurs](@dealers) en Europe et aux États-Unis."
+    a: "Oui. Nous livrons dans toute l’Europe depuis nos usines aux Pays-Bas, au Danemark, en Allemagne, en France et en Espagne, et nous travaillons avec des [distributeurs](@dealers) en Europe et aux États-Unis."
 ---

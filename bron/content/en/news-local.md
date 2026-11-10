@@ -10,13 +10,13 @@ lead: "In an unstable world, nearshoring is no longer a strategic option but a r
 img_alt: "Robots and injection moulding machines in the production hall of the Q-Pall factory in Balk"
 reading: 3
 published: '2026-02-26'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In short**
 >
 > * Global supply chains have become vulnerable due to conflicts, disrupted trade routes and fluctuating freight rates.
 > * Reporting rules increasingly require insight into emissions in the supply chain (scope 3).
-> * Q-Pall produces in six factories spread across Europe, close to its customers.
+> * Q-Pall produces in five factories spread across Europe, close to its customers.
 > * Local production means short, reliable lead times, more stable costs and an honest story about origin and recycling.
 
 ## The vulnerability of the 'global factory'
@@ -33,7 +33,7 @@ Regulation also plays an ever larger role. Large companies must be increasingly 
 
 ## The Q-Pall model: producing close to the customer
 
-At Q-Pall we do not see production as a cost item, but as a tool for supply security. We deliberately chose nearshoring. We produce in [six factories spread across Europe](@about-local), so almost every customer is within 600 kilometres of a Q-Pall factory.
+At Q-Pall we do not see production as a cost item, but as a tool for supply security. We deliberately chose nearshoring. We produce in [five factories spread across Europe](@about-local), so almost every customer is within 600 kilometres of a Q-Pall factory.
 
 This works differently from long-distance imports. Intercontinental sea freight is prone to weeks of delay. Our network can switch and deliver within a few days, without depending on a single port or route.
 

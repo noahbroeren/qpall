@@ -17,7 +17,7 @@ faq:
 - q: "Wie prüft Q-Pall auf Schwermetalle?"
   a: "Wir prüfen unsere Paletten auf die Stoffe aus der RoHS-Richtlinie. Dafür nutzen wir die Röntgenfluoreszenzanalyse (XRF), eine schnelle Messung, die das Material nicht beschädigt."
 published: '2022-01-12'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **Kurz gesagt**
 >
@@ -78,7 +78,7 @@ Für Kunden, die Produkte vergleichen, ist der CO₂-Fußabdruck neben Preis und
 Wir nutzen die Ergebnisse unserer CO₂-Analyse als Nullmessung und als Ausgangspunkt, um die Umweltleistung unserer Paletten zu verbessern. Mit strengen Designzielen für Energie- und Materialeffizienz halten wir die Emissionen so niedrig wie möglich. Dabei helfen zwei Entscheidungen:
 
 * **Recyceltes Material.** Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff.
-* **Kurze Wege.** Wir produzieren in sechs Werken in Europa, nah bei unseren Kunden. Mehr über [lokale Produktion](@about-local).
+* **Kurze Wege.** Wir produzieren in fünf Werken in Europa, nah bei unseren Kunden. Mehr über [lokale Produktion](@about-local).
 
 Im Oktober 2026 haben wir erneut die EcoVadis-Bronzemedaille erhalten.
 

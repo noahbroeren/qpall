@@ -1,7 +1,7 @@
 ---
 id: pallets
 title: "Palets de plástico directos del fabricante - Q-Pall"
-description: "Palets de plástico directos del fabricante: unas 130 versiones, de Light a Heavy, de seis fábricas europeas. Solicite un presupuesto sin compromiso."
+description: "Palets de plástico directos del fabricante: unas 125 versiones, de Light a Heavy, de cinco fábricas europeas. Solicite un presupuesto sin compromiso."
 eyebrow: "Gama de productos"
 h1: "Palets de plástico **directos del fabricante**"
 lead: "Desde un ligero palet de exportación encajable hasta un palet pesado para estantería de hasta 2.000 kg. Filtre por medida, capacidad de carga y versión. En cada versión verá las especificaciones completas."
@@ -29,7 +29,7 @@ why:
       t: "Plástico reciclado"
       d: "Casi 100% reciclado y totalmente reciclable al final de su vida útil."
     - icon: "factory"
-      t: "Seis fábricas europeas"
+      t: "Cinco fábricas europeas"
       d: "Producción local, para que pague menos kilómetros de transporte."
     - icon: "scale"
       t: "Dimensiones estables, peso constante"
@@ -41,7 +41,7 @@ why:
 
 ## Palets de plástico para cada aplicación
 
-Q-Pall desarrolla y fabrica únicamente palets de plástico, y lo hace desde 2005. Ese enfoque se nota en la gama: unas 130 versiones en nueve medidas, desde el compacto [palet expositor de 600 x 400 mm](@size-600x400) hasta el gran [1300 x 1100 mm para la industria química](@size-1300x1100). Cada modelo está diseñado para una tarea concreta: transporte, almacenaje, exportación, pooling o logística automatizada.
+Q-Pall desarrolla y fabrica únicamente palets de plástico, y lo hace desde 2005. Ese enfoque se nota en la gama: unas 125 versiones en nueve medidas, desde el compacto [palet expositor de 600 x 400 mm](@size-600x400) hasta el gran [1300 x 1100 mm para la industria química](@size-1300x1100). Cada modelo está diseñado para una tarea concreta: transporte, almacenaje, exportación, pooling o logística automatizada.
 
 ### Elija primero por medida
 

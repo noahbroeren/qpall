@@ -1,11 +1,11 @@
 ---
 id: about
 title: "Über Q-Pall: Kunststoffpaletten-Hersteller seit 2005"
-description: "Seit 2005 fertigt Q-Pall nur Kunststoffpaletten, aus fast 100 % recyceltem Kunststoff, in sechs Werken in Europa. Das sind pallets with a purpose."
+description: "Seit 2005 fertigt Q-Pall nur Kunststoffpaletten, aus fast 100 % recyceltem Kunststoff, in fünf Werken in Europa. Das sind pallets with a purpose."
 eyebrow: "Über Q-Pall"
 h1: "Europäischer Hersteller von **Kunststoffpaletten**"
 tagline: "Pallets **with a purpose**"
-lead: "Seit 2005 konzentrieren wir uns auf eine Sache: bezahlbare, zuverlässige Kunststoffpaletten, bei denen Nachhaltigkeit an erster Stelle steht. Von unserem Hauptsitz in Veghel und sechs europäischen Werken aus."
+lead: "Seit 2005 konzentrieren wir uns auf eine Sache: bezahlbare, zuverlässige Kunststoffpaletten, bei denen Nachhaltigkeit an erster Stelle steht. Von unserem Hauptsitz in Veghel und fünf europäischen Werken aus."
 ---
 
 ## Unsere Mission
@@ -17,15 +17,15 @@ Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff. Sie sind 
 ## Q-Pall in Zahlen
 
 - **Gegründet 2005**, mit Hauptsitz in Veghel.
-- **Sechs Produktionsstandorte** in den Niederlanden, Dänemark, Deutschland, Frankreich, Spanien und dem Vereinigten Königreich.
-- **4 Mio. Paletten pro Jahr** Produktionskapazität, in rund 130 Ausführungen und neun Größen.
+- **Fünf Produktionsstandorte** in den Niederlanden, Dänemark, Deutschland, Frankreich und Spanien.
+- **4 Mio. Paletten pro Jahr** Produktionskapazität, in rund 125 Ausführungen und neun Größen.
 - **200+ Menschen in unserer Produktionskette.**
 - **Ein Händlernetz**, das einen Großteil Europas und die Vereinigten Staaten abdeckt.
 - **EcoVadis Bronze** (Oktober 2026) für unsere Nachhaltigkeitsleistung.
 
 ## Act global, produce local
 
-Der Transport ist mit Abstand die größte Quelle von CO₂-Emissionen in der Palettenkette. Deshalb produzieren wir so nah wie möglich bei unseren Kunden: in Balk (Niederlande), Ribe (Dänemark), Marktoberdorf (Deutschland), Nantes (Frankreich), Lleida (Spanien) und Chesterfield (Vereinigtes Königreich). Fast jeder Kunde befindet sich im Umkreis von 600 Kilometern um ein Q-Pall-Werk. Mehr über [lokale Produktion](@about-local).
+Der Transport ist mit Abstand die größte Quelle von CO₂-Emissionen in der Palettenkette. Deshalb produzieren wir so nah wie möglich bei unseren Kunden: in Balk (Niederlande), Ribe (Dänemark), Marktoberdorf (Deutschland), Nantes (Frankreich) und Lleida (Spanien). Fast jeder Kunde befindet sich im Umkreis von 600 Kilometern um ein Q-Pall-Werk. Mehr über [lokale Produktion](@about-local).
 
 ## Die gesamte Kette in eigener Hand
 

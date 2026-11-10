@@ -17,7 +17,7 @@ faq:
 - q: "¿Cómo controla Q-Pall los metales pesados?"
   a: "Comprobamos nuestros palets respecto a las sustancias de la directiva RoHS. Lo hacemos mediante fluorescencia de rayos X (XRF), una medición rápida que no daña el material."
 published: '2022-01-12'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En resumen**
 >
@@ -78,7 +78,7 @@ Para los clientes que comparan productos, la huella de carbono es cada vez más 
 Utilizamos los resultados de nuestro análisis de huella de carbono como medición de referencia y como punto de partida para mejorar el comportamiento ambiental de nuestros palets. Con objetivos de diseño estrictos en eficiencia energética y de materiales, mantenemos las emisiones lo más bajas posible. Nos ayudan dos decisiones:
 
 * **Material reciclado.** Fabricamos nuestros palets estándar con plástico casi 100% reciclado.
-* **Distancias cortas.** Producimos en seis fábricas en Europa, cerca de nuestros clientes. Más información sobre la [producción local](@about-local).
+* **Distancias cortas.** Producimos en cinco fábricas en Europa, cerca de nuestros clientes. Más información sobre la [producción local](@about-local).
 
 En octubre de 2026 volvimos a obtener la medalla de bronce de EcoVadis.
 

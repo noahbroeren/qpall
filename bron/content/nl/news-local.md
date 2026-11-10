@@ -10,13 +10,13 @@ lead: "In een onrustige wereld is nearshoring geen strategische optie meer, maar
 img_alt: "Robots en spuitgietmachines in de productiehal van de Q-Pall-fabriek in Balk"
 reading: 3
 published: '2026-02-26'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In het kort**
 >
 > * Wereldwijde ketens zijn kwetsbaar geworden door conflicten, verstoorde handelsroutes en wisselende vrachtprijzen.
 > * Rapportageregels vragen steeds meer inzicht in de uitstoot in de keten (scope 3).
-> * Q-Pall produceert in zes fabrieken verspreid over Europa, dicht bij de klant.
+> * Q-Pall produceert in vijf fabrieken verspreid over Europa, dicht bij de klant.
 > * Lokale productie betekent korte, betrouwbare levertijden, stabielere kosten en een eerlijk verhaal over herkomst en recycling.
 
 ## De kwetsbaarheid van de 'global factory'
@@ -33,7 +33,7 @@ Ook regelgeving speelt een steeds grotere rol. Grote bedrijven moeten steeds bet
 
 ## Het Q-Pall-model: dicht bij de klant produceren
 
-Bij Q-Pall zien we productie niet als een kostenpost, maar als een instrument voor leverzekerheid. We kozen bewust voor nearshoring. We produceren in [zes fabrieken verspreid over Europa](@about-local), zodat bijna elke klant binnen 600 kilometer van een Q-Pall-fabriek zit.
+Bij Q-Pall zien we productie niet als een kostenpost, maar als een instrument voor leverzekerheid. We kozen bewust voor nearshoring. We produceren in [vijf fabrieken verspreid over Europa](@about-local), zodat bijna elke klant binnen 600 kilometer van een Q-Pall-fabriek zit.
 
 Dat werkt anders dan import van verre. Intercontinentale zeevracht is gevoelig voor weken vertraging. Ons netwerk kan binnen enkele dagen schakelen en leveren, zonder afhankelijk te zijn van één haven of één route.
 

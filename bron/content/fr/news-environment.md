@@ -17,13 +17,13 @@ faq:
 - q: "Le PPWR s’applique-t-il aussi aux palettes ?"
   a: "Oui. Les palettes sont des emballages de transport et relèvent du règlement européen sur les emballages, applicable depuis le 12 août 2026. Q-Pall dispose d’une déclaration de conformité PPWR par groupe de palettes ; pour la plupart des modèles, vous la téléchargez sur la page produit."
 published: '2022-01-09'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En bref**
 >
 > * Pour choisir une palette, la fonction compte, mais de plus en plus aussi l’impact environnemental.
 > * L’empreinte carbone d’une palette provient surtout de la matière première, de la production et du transport.
-> * Nous fabriquons nos palettes standard en plastique recyclé à près de 100 %, dans six usines proches de nos clients.
+> * Nous fabriquons nos palettes standard en plastique recyclé à près de 100 %, dans cinq usines proches de nos clients.
 > * Le réemploi et le recyclage en fin de vie réduisent encore l’impact.
 > * Depuis le 12 août 2026, le règlement européen sur les emballages (PPWR) s’applique, aux palettes aussi.
 
@@ -43,7 +43,7 @@ Pour un produit comme une palette, tous les gaz à effet de serre nécessaires �
 
 * **Matière première.** Extraire et produire des matières premières neuves demande beaucoup d’énergie. Nous fabriquons nos palettes standard en plastique recyclé à près de 100 %, un mélange de HDPE et de PP. Nous remplaçons ainsi la matière neuve par du plastique qui existe déjà.
 * **Production.** Pour le développement de nouvelles palettes, nous appliquons des objectifs de conception stricts en matière d’efficacité énergétique et d’efficacité matière.
-* **Transport.** Dans le secteur de la palette, la majeure partie des émissions de CO₂ provient du transport. C’est pourquoi nous produisons [localement](@about-local), dans six usines réparties à travers l’Europe. Presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine Q-Pall.
+* **Transport.** Dans le secteur de la palette, la majeure partie des émissions de CO₂ provient du transport. C’est pourquoi nous produisons [localement](@about-local), dans cinq usines réparties à travers l’Europe. Presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine Q-Pall.
 * **Fin de vie.** En fin de vie, nos palettes sont entièrement recyclables. La matière devient la matière première de nouvelles palettes.
 
 ## Comment Q-Pall utilise l’empreinte carbone

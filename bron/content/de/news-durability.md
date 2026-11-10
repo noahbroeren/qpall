@@ -10,12 +10,12 @@ lead: "Nachhaltiges Wirtschaften dreht sich um People, Planet und Profit. So sic
 img_alt: "Luftaufnahme eines Polders mit Windkraftanlagen am Wasser"
 reading: 3
 published: '2022-01-29'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **Kurz gesagt**
 >
 > * Nachhaltiges Wirtschaften berücksichtigt Mensch, Umwelt und Wirtschaft: People, Planet und Profit.
-> * Wir produzieren lokal in sechs europäischen Werken. Das Werkzeug reist, die Paletten nicht.
+> * Wir produzieren lokal in fünf europäischen Werken. Das Werkzeug reist, die Paletten nicht.
 > * Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff: 34.500 Tonnen im Jahr 2025.
 > * In der Produktion achten wir auf leichtes Design, weniger Materialverlust und die Wiederverwendung von Produktionsabfällen.
 > * EcoVadis bewertet unsere Nachhaltigkeitsleistung unabhängig. Im Oktober 2026 haben wir erneut Bronze erhalten.
@@ -32,7 +32,7 @@ Für die Herstellung und den Transport von Paletten brauchen wir Energie. Bei de
 
 In der Palettenbranche entsteht der größte Teil der CO₂-Emissionen durch den Transport. Ein Lkw voller Paletten transportiert vor allem Luft. Deshalb setzen wir das Werkzeug einer Palette so nah wie möglich beim Kunden ein. So müssen die Paletten selbst keine langen Strecken zurücklegen.
 
-Wir produzieren in sechs Werken: in Balk, Ribe, Marktoberdorf, Nantes, Lleida und Chesterfield. Fast jeder Kunde befindet sich im Umkreis von 600 Kilometern um ein Q-Pall-Werk. Das spart viele Kilometer, CO₂-Emissionen und Transportkosten. Mehr dazu unter [lokale Produktion](@about-local).
+Wir produzieren in fünf Werken: in Balk, Ribe, Marktoberdorf, Nantes und Lleida. Fast jeder Kunde befindet sich im Umkreis von 600 Kilometern um ein Q-Pall-Werk. Das spart viele Kilometer, CO₂-Emissionen und Transportkosten. Mehr dazu unter [lokale Produktion](@about-local).
 
 ## Paletten aus recyceltem Kunststoff
 

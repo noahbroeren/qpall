@@ -17,7 +17,7 @@ faq:
 - q: "Un pallet in plastica costa più di un pallet in legno?"
   a: "Il prezzo d’acquisto è spesso un po’ più alto. Un pallet in plastica però dura di più e richiede meno manutenzione. Per questo i costi sull’intera vita utile risultano spesso più bassi."
 published: '2023-04-12'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In breve**
 >
@@ -43,7 +43,7 @@ I nostri pallet sono suddivisi in tre classi di portata. I pallet Light sono leg
 
 ## Le dimensioni: il pallet è adatto al carico e al trasporto?
 
-Il pallet deve essere abbastanza grande da sostenere bene il carico e trasportarlo in sicurezza. Anche i mezzi di trasporto e le scaffalature determinano il formato: i pallet devono entrare nel vostro camion, rimorchio o container. In Europa lo standard è il 1200 x 800 mm. La nostra gamma comprende circa 130 versioni in nove formati, dal 600 x 400 al 1300 x 1100 mm. La nostra panoramica dei [formati di pallet](@guide-sizes) li elenca tutti.
+Il pallet deve essere abbastanza grande da sostenere bene il carico e trasportarlo in sicurezza. Anche i mezzi di trasporto e le scaffalature determinano il formato: i pallet devono entrare nel vostro camion, rimorchio o container. In Europa lo standard è il 1200 x 800 mm. La nostra gamma comprende circa 125 versioni in nove formati, dal 600 x 400 al 1300 x 1100 mm. La nostra panoramica dei [formati di pallet](@guide-sizes) li elenca tutti.
 
 ## Materiale e peso
 

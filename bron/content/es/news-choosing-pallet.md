@@ -17,7 +17,7 @@ faq:
 - q: "¿Un palet de plástico es más caro que uno de madera?"
   a: "El precio de compra suele ser algo más alto. Sin embargo, un palet de plástico dura más y necesita menos mantenimiento. Por eso, el coste durante toda su vida útil suele ser menor."
 published: '2023-04-12'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En resumen**
 >
@@ -43,7 +43,7 @@ Nuestros palets se dividen en tres clases de carga. Los palets Light son ligeros
 
 ## Las medidas: ¿el palet se adapta a la carga y al transporte?
 
-El palet debe ser lo bastante grande para soportar bien la carga y transportarla con seguridad. Sus medios de transporte y sus estanterías también determinan la medida: los palets tienen que caber en su camión, remolque o contenedor. En Europa, el estándar es 1200 x 800 mm. Nuestra gama incluye unas 130 versiones en nueve formatos, de 600 x 400 a 1300 x 1100 mm. En nuestro resumen de [medidas de palets](@guide-sizes) los encontrará todos.
+El palet debe ser lo bastante grande para soportar bien la carga y transportarla con seguridad. Sus medios de transporte y sus estanterías también determinan la medida: los palets tienen que caber en su camión, remolque o contenedor. En Europa, el estándar es 1200 x 800 mm. Nuestra gama incluye unas 125 versiones en nueve formatos, de 600 x 400 a 1300 x 1100 mm. En nuestro resumen de [medidas de palets](@guide-sizes) los encontrará todos.
 
 ## Material y peso
 

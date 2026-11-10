@@ -17,7 +17,7 @@ why:
     text: Nous fabriquons des palettes en plastique recyclé à près de 100 % et aidons nos clients dans toute l’Europe à travailler de façon plus durable.
   - icon: globe
     title: International
-    text: Six usines en Europe et des clients dans le monde entier. Vous travaillez chaque jour au-delà des frontières.
+    text: Cinq usines en Europe et des clients dans le monde entier. Vous travaillez chaque jour au-delà des frontières.
   - icon: arrow-ur
     title: Croissance
     text: Nous grandissons vite, et vous grandissez avec nous. Avec des formations et de la place pour vos initiatives.

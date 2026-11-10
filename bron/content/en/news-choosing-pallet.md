@@ -17,7 +17,7 @@ faq:
 - q: "Is a plastic pallet more expensive than a wooden pallet?"
   a: "The purchase price is often slightly higher. However, a plastic pallet lasts longer and needs less maintenance. As a result, the cost over its entire service life is often lower."
 published: '2023-04-12'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In short**
 >
@@ -43,7 +43,7 @@ Our pallets are divided into three load classes. Light pallets are light and oft
 
 ## Size: does the pallet suit your goods and transport?
 
-The pallet must be large enough to carry your load properly and transport it safely. Your means of transport and your racking also determine the size: the pallets have to fit in your truck, trailer or container. In Europe, 1200 x 800 mm is the standard. Our range includes around 130 versions in nine sizes, from 600 x 400 to 1300 x 1100 mm. Our overview of [pallet sizes](@guide-sizes) lists them all.
+The pallet must be large enough to carry your load properly and transport it safely. Your means of transport and your racking also determine the size: the pallets have to fit in your truck, trailer or container. In Europe, 1200 x 800 mm is the standard. Our range includes around 125 versions in nine sizes, from 600 x 400 to 1300 x 1100 mm. Our overview of [pallet sizes](@guide-sizes) lists them all.
 
 ## Material and weight
 

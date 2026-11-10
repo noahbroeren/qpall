@@ -1,10 +1,10 @@
 ---
 id: about-local
-title: "Lokale Produktion in 6 europäischen Werken – Q-Pall"
-description: "Q-Pall fertigt Kunststoffpaletten in Balk, Ribe, Marktoberdorf, Nantes, Lleida und Chesterfield. Im Umkreis von 600 km: weniger Transport und CO₂."
+title: "Lokale Produktion in 5 europäischen Werken – Q-Pall"
+description: "Q-Pall fertigt Kunststoffpaletten in Balk, Ribe, Marktoberdorf, Nantes und Lleida. Im Umkreis von 600 km: weniger Transport und CO₂."
 eyebrow: "Act global, produce local"
 h1: "Lokale **Produktion**"
-lead: "Wir produzieren in sechs Werken, verteilt über ganz Europa. Dadurch sind wir fast immer weniger als 600 Kilometer von unseren Kunden entfernt. Das spart Transport, Kosten und CO₂."
+lead: "Wir produzieren in fünf Werken, verteilt über ganz Europa. Dadurch sind wir fast immer weniger als 600 Kilometer von unseren Kunden entfernt. Das spart Transport, Kosten und CO₂."
 ---
 
 ## Warum lokal produzieren?
@@ -22,7 +22,6 @@ Ein Werkzeug ist die Form, in der wir eine Palette spritzgießen. Statt Paletten
 - **Marktoberdorf (Deutschland)**, in Bayern.
 - **Nantes (Frankreich).**
 - **Lleida (Spanien).**
-- **Chesterfield (Vereinigtes Königreich)**, unser sechstes und neuestes Werk.
 
 Unser Hauptsitz, unser europäisches Operations-Center und unser Lager befinden sich in **Veghel** in Nordbrabant. Sie holen selbst ab oder liefern selbst an? [Melden Sie Ihren Transport vorab an](@transport).
 

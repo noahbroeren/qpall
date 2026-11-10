@@ -1,28 +1,28 @@
 ---
 id: news-local-sustainability
 title: "Local production of plastic pallets: less CO₂ – Q-Pall"
-description: "Producing plastic pallets locally saves transport and CO₂. How six European factories, recycled plastic and take-back work together for your chain."
+description: "Producing plastic pallets locally saves transport and CO₂. How five European factories, recycled plastic and take-back work together for your chain."
 eyebrow: "News"
 tag: "Sustainability"
 crumb: "Local production and sustainability"
 h1: "Less transport, less CO₂: **local production of plastic pallets**"
-lead: "The shorter the distance between factory and customer, the less transport and CO₂. That is why we make our pallets in six European factories, from recycled plastic sourced in the region, and take them back at end of life."
+lead: "The shorter the distance between factory and customer, the less transport and CO₂. That is why we make our pallets in five European factories, from recycled plastic sourced in the region, and take them back at end of life."
 img_alt: "Glass sphere in the grass reflecting a tree and a green landscape"
 reading: 3
 faq:
 - q: "Why is local pallet production more sustainable?"
-  a: "In the pallet chain, transport is the largest source of CO₂ emissions. The closer the factory is to the customer, the fewer kilometres and emissions. Almost every Q-Pall customer is within 600 kilometres of one of our six factories."
+  a: "In the pallet chain, transport is the largest source of CO₂ emissions. The closer the factory is to the customer, the fewer kilometres and emissions. Almost every Q-Pall customer is within 600 kilometres of one of our five factories."
 - q: "What are Q-Pall pallets made of?"
   a: "We make our standard pallets from nearly 100% recycled plastic, a mix of HDPE (code 2) and PP (code 5). Only hygienic pallets, H1 pallets and cleanroom pallets are made from virgin (new) plastic."
 - q: "What happens to a plastic pallet at the end of its life?"
   a: "Plastic pallets are fully recyclable. We take them back: pallets in good condition get a second life as used pallets, and damaged pallets are ground into raw material for new pallets."
 published: '2024-01-31'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In short**
 >
 > * In the pallet chain, transport is the largest source of CO₂ emissions. That is why we produce close to the customer.
-> * We make our pallets in six European factories. Almost every customer is within 600 kilometres of a factory.
+> * We make our pallets in five European factories. Almost every customer is within 600 kilometres of a factory.
 > * Our standard pallets are made from nearly 100% recycled plastic. In 2025 we processed 34,500 tonnes of recyclate.
 > * We source that recyclate in the region wherever possible. That also saves on transporting raw materials.
 > * At the end of their life, we take pallets back for reuse or recycling.
@@ -31,7 +31,7 @@ updated: '2026-11-02'
 
 A pallet is a bulky product. The further it has to travel, the more fuel and emissions it costs, before anything has even been loaded onto it. This makes transport the largest source of CO₂ emissions in the pallet chain.
 
-We have therefore opted for [local production](@about-local). We make our pallets in six factories: in Balk (the Netherlands), Ribe (Denmark), Marktoberdorf (Germany), Nantes (France), Lleida (Spain) and Chesterfield (United Kingdom). Almost every customer is within 600 kilometres of one of these factories. Fewer kilometres means lower transport costs and less CO₂.
+We have therefore opted for [local production](@about-local). We make our pallets in five factories: in Balk (the Netherlands), Ribe (Denmark), Marktoberdorf (Germany), Nantes (France) and Lleida (Spain). Almost every customer is within 600 kilometres of one of these factories. Fewer kilometres means lower transport costs and less CO₂.
 
 This also counts in your own reporting. The emissions from purchased pallets and their transport fall under scope 3. Pallets made close by reduce that part of your footprint.
 

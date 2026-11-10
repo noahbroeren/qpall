@@ -19,7 +19,7 @@ Nous nous intéressons aussi aux flux de déchets plastiques de nos clients. Dan
 
 ## Moins de transport, moins de CO₂
 
-Dans le secteur de la palette, la majeure partie des émissions de CO₂ provient du transport. Un camion rempli de palettes transporte surtout de l’air. C’est pourquoi nous produisons [localement](@about-local), dans six usines réparties à travers l’Europe. Presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine Q-Pall. Les palettes plastique sont en outre plus légères que de nombreuses palettes en bois. Un poids à vide plus faible signifie plus de charge par trajet et moins de carburant.
+Dans le secteur de la palette, la majeure partie des émissions de CO₂ provient du transport. Un camion rempli de palettes transporte surtout de l’air. C’est pourquoi nous produisons [localement](@about-local), dans cinq usines réparties à travers l’Europe. Presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine Q-Pall. Les palettes plastique sont en outre plus légères que de nombreuses palettes en bois. Un poids à vide plus faible signifie plus de charge par trajet et moins de carburant.
 
 ## Conçues pour durer, puis de nouveau matière première
 

@@ -17,7 +17,7 @@ why:
     text: We maken pallets van bijna 100% gerecycled kunststof en helpen klanten in heel Europa duurzamer te werken.
   - icon: globe
     title: Internationaal
-    text: Zes fabrieken in Europa en klanten wereldwijd. U werkt elke dag over grenzen heen.
+    text: Vijf fabrieken in Europa en klanten wereldwijd. U werkt elke dag over grenzen heen.
   - icon: arrow-ur
     title: Groei
     text: We groeien hard, en u groeit mee. Met training en ruimte voor eigen initiatief.

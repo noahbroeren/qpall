@@ -11,7 +11,7 @@ faq:
   - q: "How are plastic pallets produced?"
     a: "By high-pressure injection moulding. Molten plastic granulate is pressed into a steel mould. This creates a complete, dimensionally stable pallet in one go."
   - q: "How many types of plastic pallets are there?"
-    a: "Q-Pall has around 130 versions in nine sizes, from 600 x 400 mm to 1300 x 1100 mm, in light, medium and heavy. See the [full range](@pallets)."
+    a: "Q-Pall has around 125 versions in nine sizes, from 600 x 400 mm to 1300 x 1100 mm, in light, medium and heavy. See the [full range](@pallets)."
   - q: "Why are plastic pallets safer to use?"
     a: "They have no nails, splinters or loose boards. They do not absorb moisture, do not go mouldy and are free of pests, so no ISPM 15 treatment is needed. Thanks to their fixed dimensions, they cause fewer disruptions in automated systems."
   - q: "Why are plastic pallets cost-effective?"

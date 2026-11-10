@@ -16,7 +16,7 @@ faq:
 
 ## Slimme aanpassingen binnen bestaande modellen
 
-Een volledig nieuw palletontwerp kost veel tijd en geld. Daarom kijken we eerst naar wat er kan binnen ons bestaande assortiment van zo'n 130 uitvoeringen. Vaak is een kleine aanpassing genoeg:
+Een volledig nieuw palletontwerp kost veel tijd en geld. Daarom kijken we eerst naar wat er kan binnen ons bestaande assortiment van zo'n 125 uitvoeringen. Vaak is een kleine aanpassing genoeg:
 
 - **Logo of bedrukking** op de pallet.
 - **Een eigen kleur**, bijvoorbeeld om pools of afdelingen te onderscheiden.

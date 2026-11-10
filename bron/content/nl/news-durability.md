@@ -10,12 +10,12 @@ lead: "Duurzaam ondernemen draait om People, Planet en Profit. Zo bewaken wij de
 img_alt: "Luchtfoto van een polder met windturbines langs het water"
 reading: 3
 published: '2022-01-29'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In het kort**
 >
 > * Duurzaam ondernemen houdt rekening met mens, milieu en economie: People, Planet en Profit.
-> * We produceren lokaal in zes Europese fabrieken. De matrijs reist, de pallets niet.
+> * We produceren lokaal in vijf Europese fabrieken. De matrijs reist, de pallets niet.
 > * Onze standaardpallets maken we van bijna 100% gerecycled kunststof: 34.500 ton in 2025.
 > * In de productie letten we op lichtgewicht ontwerp, minder materiaalverlies en hergebruik van productieschroot.
 > * EcoVadis beoordeelt onze duurzaamheidsprestaties onafhankelijk. In oktober 2026 behaalden we opnieuw brons.
@@ -32,7 +32,7 @@ Bij het produceren en vervoeren van pallets gebruiken we energie. Bij de verbran
 
 In de palletbranche komt het grootste deel van de CO₂-uitstoot van transport. Een vrachtwagen vol pallets vervoert vooral lucht. Daarom plaatsen we de matrijs van een pallet zo dicht mogelijk bij de klant. Zo hoeven de pallets zelf geen lange afstanden af te leggen.
 
-We produceren in zes fabrieken: in Balk, Ribe, Marktoberdorf, Nantes, Lleida en Chesterfield. Bijna elke klant zit binnen 600 kilometer van een Q-Pall-fabriek. Dat scheelt veel kilometers, CO₂-uitstoot en transportkosten. Meer hierover leest u bij [lokaal produceren](@about-local).
+We produceren in vijf fabrieken: in Balk, Ribe, Marktoberdorf, Nantes en Lleida. Bijna elke klant zit binnen 600 kilometer van een Q-Pall-fabriek. Dat scheelt veel kilometers, CO₂-uitstoot en transportkosten. Meer hierover leest u bij [lokaal produceren](@about-local).
 
 ## Pallets van gerecycled kunststof
 

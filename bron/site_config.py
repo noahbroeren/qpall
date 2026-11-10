@@ -171,10 +171,9 @@ LOCATIONS = {
     'M': {'name': 'Marktoberdorf', 'cc': 'DE'},
     'N': {'name': 'Nantes', 'cc': 'FR'},
     'L': {'name': 'Lleida', 'cc': 'ES'},
-    'C': {'name': 'Chesterfield', 'cc': 'UK'},
     'V': {'name': 'Veghel', 'cc': 'NL', 'hq': True},
 }
-FACTORIES = ['B', 'R', 'M', 'N', 'L', 'C']     # 6 productielocaties
+FACTORIES = ['B', 'R', 'M', 'N', 'L']     # 5 productielocaties (update 45: Chesterfield van de site, besluit Q-Pall/Noah 10-11-2026)
 FLAG = {'NL': '🇳🇱', 'DK': '🇩🇰', 'DE': '🇩🇪', 'FR': '🇫🇷', 'ES': '🇪🇸', 'UK': '🇬🇧'}
 
 # Transport aanmelden (SimplyBook, account avkplasticsbv). location/category = predefined ids.
@@ -502,6 +501,10 @@ NEWS_ITEMS = {
     'news-heavy-family': ({'nl': 'q-pall-breidt-zijn-familie-van-heavy-duty-pallets-uit/', 'en': 'q-pall-grows-its-family-of-heavy-duty-pallets/', 'de': 'q-pall-erweitert-seine-familie-von-schwerlastpaletten/', 'fr': 'q-pall-developpe-sa-gamme-de-palettes-lourdes/', 'it': 'q-pall-amplia-la-sua-famiglia-di-pallet-heavy-duty/', 'es': 'q-pall-amplia-su-familia-de-heavy-duty-palets/'},
         'photos/n-heavy-family'),
 }
+# update 45 (Noah 10-11-2026): articles that are not published (draft). The definition and the texts (content/<lang>/)
+# stay, so an article can come back by removing it from this set; its URLs go with a 301 elsewhere (data/redirects-removed.txt).
+NEWS_DRAFT = {'news-medium-4840'}     # about the QP4048 pallets (48 x 40 inch), which are off the site
+NEWS_DRAFT_ITEMS = {_k: NEWS_ITEMS.pop(_k) for _k in NEWS_DRAFT}
 for _pid, (_paths, _img) in NEWS_ITEMS.items():
     page(_pid, sub(NEWS_SLUG, _paths), tpl='article', parent='news', priority=0.6, news=True, img=_img)
 
@@ -635,3 +638,15 @@ REDIRECTS = [
     ('/en/trade-fairs', '/en/about-q-pall/'),
     ('/downloads/q-pall-productcatalogus-2026-en.pdf', '/downloads/q-pall-product-catalogue-2026-en.pdf'),
 ]
+
+
+# ----------------------------------------------------------------------------------
+# Articles that are not on the site (update 45, Noah 10-11-2026). build.py drops them before it makes the pages, so
+# filters, counts, quote form, calculator data, sitemap and search no longer know them. Their URLs and datasheets
+# go with a 301 elsewhere (data/redirects-removed.txt).
+# DRAFT_SKUS: kept on purpose (data, photos, texts); to publish one again: remove it here and the lines for it in
+#   data/redirects-removed.txt, and put its datasheets back from data/datasheets-draft/ (or run tools/datasheets.py).
+# REMOVED_SKUS: off the site for good.
+# ----------------------------------------------------------------------------------
+DRAFT_SKUS = {'2.QP1210MB3RR', '2.QP1210MB3RR-CD', '2.QP1210MB3RR-CP1'}
+REMOVED_SKUS = {'QP4048MB3RR', 'QP4048MB3RR-CD', 'QP4048MB6RR'}

@@ -10,13 +10,13 @@ lead: "In un mondo instabile il nearshoring non è più un’opzione, ma un requ
 img_alt: "Robot e presse a iniezione nel reparto produttivo dello stabilimento Q-Pall di Balk"
 reading: 3
 published: '2026-02-26'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In breve**
 >
 > * Le catene di fornitura globali sono diventate vulnerabili a causa di conflitti, rotte commerciali interrotte e noli oscillanti.
 > * Le regole di rendicontazione chiedono sempre più trasparenza sulle emissioni della filiera (scope 3).
-> * Q-Pall produce in sei stabilimenti distribuiti in Europa, vicino ai clienti.
+> * Q-Pall produce in cinque stabilimenti distribuiti in Europa, vicino ai clienti.
 > * Produrre localmente significa tempi di consegna brevi e affidabili, costi più stabili e una storia onesta su origine e riciclo.
 
 ## La vulnerabilità della «fabbrica globale»
@@ -33,7 +33,7 @@ Anche le normative hanno un peso crescente. Le grandi aziende devono poter dimos
 
 ## Il modello Q-Pall: produrre vicino al cliente
 
-In Q-Pall non vediamo la produzione come una voce di costo, ma come uno strumento per la sicurezza delle forniture. Abbiamo scelto consapevolmente il nearshoring. Produciamo in [sei stabilimenti distribuiti in Europa](@about-local), così quasi ogni cliente si trova a meno di 600 chilometri da uno stabilimento Q-Pall.
+In Q-Pall non vediamo la produzione come una voce di costo, ma come uno strumento per la sicurezza delle forniture. Abbiamo scelto consapevolmente il nearshoring. Produciamo in [cinque stabilimenti distribuiti in Europa](@about-local), così quasi ogni cliente si trova a meno di 600 chilometri da uno stabilimento Q-Pall.
 
 Questo modello funziona diversamente dalle importazioni da lontano. Il trasporto marittimo intercontinentale è soggetto a settimane di ritardo. La nostra rete può adattarsi e consegnare in pochi giorni, senza dipendere da un solo porto o da una sola rotta.
 

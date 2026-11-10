@@ -1,28 +1,28 @@
 ---
 id: news-local-sustainability
 title: "Lokal produzierte Kunststoffpaletten: weniger CO₂ – Q-Pall"
-description: "Lokale Produktion von Kunststoffpaletten spart Transport und CO₂. So wirken sechs europäische Werke, Rezyklat und Rücknahme für Ihre Lieferkette zusammen."
+description: "Lokale Produktion von Kunststoffpaletten spart Transport und CO₂. So wirken fünf europäische Werke, Rezyklat und Rücknahme für Ihre Lieferkette zusammen."
 eyebrow: "Aktuelles"
 tag: "Nachhaltigkeit"
 crumb: "Nachhaltig lokal produzieren"
 h1: "Weniger Transport, weniger CO₂: **lokale Produktion von Kunststoffpaletten**"
-lead: "Je kürzer der Weg zwischen Werk und Kunde, desto weniger Transport und CO₂. Deshalb fertigen wir unsere Paletten in sechs europäischen Werken aus Rezyklat aus der Region und nehmen sie am Ende zurück."
+lead: "Je kürzer der Weg zwischen Werk und Kunde, desto weniger Transport und CO₂. Deshalb fertigen wir unsere Paletten in fünf europäischen Werken aus Rezyklat aus der Region und nehmen sie am Ende zurück."
 img_alt: "Glaskugel im Gras, in der sich ein Baum und eine grüne Landschaft spiegeln"
 reading: 3
 faq:
 - q: "Warum ist lokale Palettenproduktion nachhaltiger?"
-  a: "In der Palettenkette ist der Transport die größte Quelle von CO₂-Emissionen. Je näher das Werk am Kunden liegt, desto weniger Kilometer und Emissionen. Fast jeder Q-Pall-Kunde ist weniger als 600 Kilometer von einem unserer sechs Werke entfernt."
+  a: "In der Palettenkette ist der Transport die größte Quelle von CO₂-Emissionen. Je näher das Werk am Kunden liegt, desto weniger Kilometer und Emissionen. Fast jeder Q-Pall-Kunde ist weniger als 600 Kilometer von einem unserer fünf Werke entfernt."
 - q: "Woraus bestehen die Paletten von Q-Pall?"
   a: "Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE (Code 2) und PP (Code 5). Nur Hygienepaletten, H1-Paletten und Reinraumpaletten bestehen aus Neuware (Virgin-Kunststoff)."
 - q: "Was passiert mit einer Kunststoffpalette am Ende ihrer Lebensdauer?"
   a: "Kunststoffpaletten sind vollständig recycelbar. Wir nehmen sie zurück: Paletten in gutem Zustand bekommen als Gebrauchtpaletten ein zweites Leben, beschädigte Paletten mahlen wir zu Rohstoff für neue Paletten."
 published: '2024-01-31'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **Kurz gesagt**
 >
 > * In der Palettenkette ist der Transport die größte Quelle von CO₂-Emissionen. Deshalb produzieren wir nah am Kunden.
-> * Wir fertigen unsere Paletten in sechs europäischen Werken. Fast jeder Kunde ist weniger als 600 Kilometer von einem Werk entfernt.
+> * Wir fertigen unsere Paletten in fünf europäischen Werken. Fast jeder Kunde ist weniger als 600 Kilometer von einem Werk entfernt.
 > * Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff. 2025 haben wir 34.500 Tonnen Rezyklat verarbeitet.
 > * Das Rezyklat beziehen wir möglichst aus der Region. Das spart auch Rohstofftransporte.
 > * Am Ende ihrer Lebensdauer nehmen wir Paletten zur Wiederverwendung oder zum Recycling zurück.
@@ -31,7 +31,7 @@ updated: '2026-11-02'
 
 Eine Palette ist ein sperriges Produkt. Je weiter sie reisen muss, desto mehr Kraftstoff und Emissionen kostet sie, noch bevor etwas darauf steht. Der Transport ist deshalb die größte Quelle von CO₂-Emissionen in der Palettenkette.
 
-Wir haben uns darum für [lokale Produktion](@about-local) entschieden. Wir fertigen unsere Paletten in sechs Werken: in Balk (Niederlande), Ribe (Dänemark), Marktoberdorf (Deutschland), Nantes (Frankreich), Lleida (Spanien) und Chesterfield (Vereinigtes Königreich). Fast jeder Kunde ist weniger als 600 Kilometer von einem dieser Werke entfernt. Weniger Kilometer bedeuten niedrigere Transportkosten und weniger CO₂.
+Wir haben uns darum für [lokale Produktion](@about-local) entschieden. Wir fertigen unsere Paletten in fünf Werken: in Balk (Niederlande), Ribe (Dänemark), Marktoberdorf (Deutschland), Nantes (Frankreich) und Lleida (Spanien). Fast jeder Kunde ist weniger als 600 Kilometer von einem dieser Werke entfernt. Weniger Kilometer bedeuten niedrigere Transportkosten und weniger CO₂.
 
 Das zählt auch in Ihrer eigenen Berichterstattung. Die Emissionen eingekaufter Paletten und ihres Transports fallen unter Scope 3. Paletten, die in der Nähe gefertigt werden, senken diesen Teil Ihres Fußabdrucks.
 

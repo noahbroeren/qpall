@@ -10,14 +10,14 @@ lead: "A inizio 2022 è stata completata la costruzione della nuova sede europea
 img_alt: "La sede di Q-Pall a Veghel: un edificio grigio scuro con uno sbalzo arancione e grandi facciate in vetro"
 reading: 2
 published: '2022-01-19'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In breve**
 >
 > * A inizio 2022 la nuova sede europea di Q-Pall a Veghel, lungo l’autostrada A50, era completata.
 > * L’edificio ospita la sede centrale, il centro operativo europeo e un magazzino di stoccaggio.
 > * Pali di fondazione già presenti, una pompa di calore e pannelli solari lo hanno reso efficiente in materiali ed energia.
-> * I pallet vengono prodotti in sei stabilimenti in Europa, il più vicino possibile al cliente.
+> * I pallet vengono prodotti in cinque stabilimenti in Europa, il più vicino possibile al cliente.
 
 ## Una nuova sede lungo l’A50
 
@@ -39,7 +39,7 @@ Q-Pall produce esclusivamente pallet in plastica. La nostra caratteristica è pr
 
 Un esempio: se i pallet destinati al mercato francese vengono prodotti nei Paesi Bassi, molti camion pieni devono percorrere lunghi tragitti verso sud e ritorno. Se allo stabilimento di Nantes viene inviato solo lo stampo, la maggior parte di questi viaggi non è più necessaria.
 
-Q-Pall produce in sei stabilimenti: Balk (Paesi Bassi), Ribe (Danimarca), Marktoberdorf (Germania), Nantes (Francia), Lleida (Spagna) e Chesterfield (Regno Unito). Quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento. Scoprite di più sulla [produzione locale](@about-local).
+Q-Pall produce in cinque stabilimenti: Balk (Paesi Bassi), Ribe (Danimarca), Marktoberdorf (Germania), Nantes (Francia) e Lleida (Spagna). Quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento. Scoprite di più sulla [produzione locale](@about-local).
 
 ## Tutta la filiera nelle nostre mani
 

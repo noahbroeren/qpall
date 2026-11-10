@@ -17,7 +17,7 @@ faq:
 - q: "Was passiert mit Kunststoffpaletten am Ende ihrer Lebensdauer?"
   a: "Wir nehmen sie zurück und mahlen sie zu Rohstoff für neue Paletten. So bleibt das Material im Kreislauf."
 published: '2025-07-03'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **Kurz gesagt**
 >
@@ -59,8 +59,8 @@ Am Ende ihrer Lebensdauer nehmen wir die Paletten zurück. Wir mahlen sie zu Roh
 Q-Pall stellt seit 2005 ausschließlich Kunststoffpaletten her. Das ist unser Ansatz:
 
 * **Recyceltes Material.** Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE und PP. Mehr über unseren Ansatz auf der Seite [Nachhaltigkeit](@about-sustainability).
-* **Lokal produziert.** Wir fertigen unsere Paletten in sechs Werken in Europa, nah bei unseren Kunden.
-* **Breites Sortiment.** Rund 130 Ausführungen in neun Formaten und drei Klassen: Light, Medium und Heavy.
+* **Lokal produziert.** Wir fertigen unsere Paletten in fünf Werken in Europa, nah bei unseren Kunden.
+* **Breites Sortiment.** Rund 125 Ausführungen in neun Formaten und drei Klassen: Light, Medium und Heavy.
 * **Individuelle Anpassungen.** Bestehende Modelle passen wir zum Beispiel mit Ihrem Logo, einer eigenen Farbe oder einer Markierung an.
 * **Engagierter Service.** Von der ersten Beratung bis zur Lieferung denken wir mit.
 

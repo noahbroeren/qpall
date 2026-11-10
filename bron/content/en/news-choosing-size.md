@@ -15,16 +15,16 @@ faq:
 - q: "Which pallet size fits in a shipping container?"
   a: "For shipping containers, square pallets of 1100 x 1100 mm and pallets of 760 x 1140 mm are practical. Which size fits best depends on the type of container."
 - q: "Can Q-Pall make a pallet in a non-standard size?"
-  a: "No, we do not make completely new pallet designs. With around 130 versions in nine sizes, there is usually a suitable size. We do adapt existing models, for example with a logo or your own colour."
+  a: "No, we do not make completely new pallet designs. With around 125 versions in nine sizes, there is usually a suitable size. We do adapt existing models, for example with a logo or your own colour."
 published: '2022-01-29'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In short**
 >
 > * The right pallet size starts with your load: what it is, how it is packaged and how big it is.
 > * The size must also suit your trucks, containers and racking.
 > * In an automated warehouse, pallets must have exactly the size the systems are set up for.
-> * Q-Pall has around 130 versions in nine sizes, from 600 x 400 to 1300 x 1100 mm.
+> * Q-Pall has around 125 versions in nine sizes, from 600 x 400 to 1300 x 1100 mm.
 
 When you need pallets, you want to make the right choice. What will you use the pallets for, how heavy is the load and does the pallet need to be hygienic, for example? And which size do you need? This article focuses on that last question. You will find all standard sizes in our overview of [pallet sizes](@guide-sizes).
 
@@ -50,7 +50,7 @@ Many customers use pallets not only for transport but also for storage. How you 
 
 ## Our range and custom options
 
-Our range includes around 130 versions in nine sizes, from 600 x 400 to 1300 x 1100 mm, in three load classes: light, medium and heavy. So there is almost always a suitable size.
+Our range includes around 125 versions in nine sizes, from 600 x 400 to 1300 x 1100 mm, in three load classes: light, medium and heavy. So there is almost always a suitable size.
 
 We do not make completely new pallet designs. We do adapt existing models, for example with a logo, your own colour, a marking or a different material composition. Read more about [custom pallets](@about-custom).
 

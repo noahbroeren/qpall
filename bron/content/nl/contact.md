@@ -8,7 +8,7 @@ lead: "Een vraag over een pallet, een project of een levering? Ons team helpt u 
 visit:
   eyebrow: "Ons hoofdkantoor"
   title: "Welkom in **Veghel**"
-  text: "Ons hoofdkantoor met opslag staat in Veghel, langs de A50. Van hieruit sturen we de zes fabrieken aan en helpt ons team u verder. Wilt u langskomen? Maak dan even een afspraak."
+  text: "Ons hoofdkantoor met opslag staat in Veghel, langs de A50. Van hieruit sturen we de vijf fabrieken aan en helpt ons team u verder. Wilt u langskomen? Maak dan even een afspraak."
   people: "Uw contactpersonen"
   team: "Maak kennis met ons team"
 faq:

@@ -15,16 +15,16 @@ faq:
 - q: "¿Qué medida de palet es adecuada para un contenedor marítimo?"
   a: "Para los contenedores marítimos resultan prácticos los palets cuadrados de 1100 x 1100 mm y los palets de 760 x 1140 mm. La medida que mejor encaja depende del tipo de contenedor."
 - q: "¿Puede Q-Pall fabricar un palet en una medida especial?"
-  a: "No, no fabricamos diseños de palet completamente nuevos. Con unas 130 versiones en nueve formatos, suele haber una medida adecuada. Lo que sí hacemos es adaptar modelos existentes, por ejemplo con un logotipo o su propio color."
+  a: "No, no fabricamos diseños de palet completamente nuevos. Con unas 125 versiones en nueve formatos, suele haber una medida adecuada. Lo que sí hacemos es adaptar modelos existentes, por ejemplo con un logotipo o su propio color."
 published: '2022-01-29'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En resumen**
 >
 > * El tamaño de palet adecuado empieza por su carga: qué es, cómo está embalada y qué medidas tiene.
 > * La medida también debe adaptarse a sus camiones, contenedores y estanterías.
 > * En un almacén automatizado, los palets deben tener exactamente la medida para la que están ajustados los sistemas.
-> * Q-Pall tiene unas 130 versiones en nueve formatos, de 600 x 400 a 1300 x 1100 mm.
+> * Q-Pall tiene unas 125 versiones en nueve formatos, de 600 x 400 a 1300 x 1100 mm.
 
 Cuando necesita palets, quiere acertar con la elección. ¿Para qué usará los palets, cuánto pesa la carga y debe ser higiénico el palet, por ejemplo? ¿Y qué tamaño necesita? En este artículo nos centramos en esta última pregunta. Encontrará todas las medidas estándar en nuestro resumen de [medidas de palets](@guide-sizes).
 
@@ -50,7 +50,7 @@ Muchos clientes no solo utilizan los palets para el transporte, sino también pa
 
 ## Nuestra gama y las soluciones a medida
 
-Nuestra gama incluye unas 130 versiones en nueve formatos, de 600 x 400 a 1300 x 1100 mm, en tres clases de carga: Light, Medium y Heavy. Por eso casi siempre hay una medida adecuada.
+Nuestra gama incluye unas 125 versiones en nueve formatos, de 600 x 400 a 1300 x 1100 mm, en tres clases de carga: Light, Medium y Heavy. Por eso casi siempre hay una medida adecuada.
 
 No fabricamos diseños de palet completamente nuevos. Lo que sí hacemos es adaptar modelos existentes, por ejemplo con un logotipo, su propio color, un marcado o una composición de material diferente. Más información sobre [palets de plástico personalizados](@about-custom).
 

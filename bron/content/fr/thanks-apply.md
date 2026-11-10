@@ -26,7 +26,7 @@ more:
   cards:
   - id: about
     t: À propos de Q-Pall
-    d: Uniquement des palettes plastique depuis 2005, produites dans six usines européennes.
+    d: Uniquement des palettes plastique depuis 2005, produites dans cinq usines européennes.
   - id: about-sustainability
     t: Durabilité
     d: Du plastique recyclé à une palette qui dure des années.

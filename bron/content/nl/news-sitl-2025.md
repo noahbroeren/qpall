@@ -10,7 +10,7 @@ lead: "Op SITL 2025 in Parijs stond Q-Pall samen met partner BacLand. Onder het 
 img_alt: "3D-impressie van de Q-Pall-beursstand met een groot scherm met een zeeschildpad en de tekst 'Pallets with a purpose'"
 reading: 2
 published: '2025-04-10'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In het kort**
 >
@@ -31,7 +31,7 @@ Op de stand stond ons assortiment in drie draagklassen, van lichte pallets voor 
 
 ## Het verhaal achter de stand
 
-Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE en PP. We produceren ze in zes fabrieken verspreid over Europa, zodat bijna elke klant binnen 600 kilometer van een fabriek zit. Matrijzen reizen, pallets niet: we plaatsen de matrijs zo dicht mogelijk bij de klant. Lees meer over [lokaal produceren](@about-local).
+Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE en PP. We produceren ze in vijf fabrieken verspreid over Europa, zodat bijna elke klant binnen 600 kilometer van een fabriek zit. Matrijzen reizen, pallets niet: we plaatsen de matrijs zo dicht mogelijk bij de klant. Lees meer over [lokaal produceren](@about-local).
 
 Bezoekers konden met ons team praten over hun eigen vraagstukken: CO₂-uitstoot verlagen, processen automatiseren of slimmer transporteren. Kunststof pallets zijn maatvast en hebben een constant gewicht. Dat maakt ze geschikt voor [automatisering en AGV's](@guide-automation).
 

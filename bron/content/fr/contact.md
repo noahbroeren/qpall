@@ -8,7 +8,7 @@ lead: "Une question sur une palette, un projet ou une livraison ? Notre équipe
 visit:
   eyebrow: "Notre siège"
   title: "Bienvenue à **Veghel**"
-  text: "Notre siège avec entrepôt se trouve à Veghel (Pays-Bas), le long de l’autoroute A50. D’ici, nous coordonnons les six usines et notre équipe vous accompagne. Vous souhaitez nous rendre visite ? Merci de prendre rendez-vous au préalable."
+  text: "Notre siège avec entrepôt se trouve à Veghel (Pays-Bas), le long de l’autoroute A50. D’ici, nous coordonnons les cinq usines et notre équipe vous accompagne. Vous souhaitez nous rendre visite ? Merci de prendre rendez-vous au préalable."
   people: "Vos interlocuteurs"
   team: "Découvrir notre équipe"
 faq:

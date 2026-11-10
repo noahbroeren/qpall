@@ -134,7 +134,6 @@ FACTORIES = [  # code, name, lon, lat, label offset (dx, dy), anchor
     ('M', 'Marktoberdorf', 10.62, 47.78, (12, 4), 'start'),
     ('N', 'Nantes', -1.55, 47.22, (-12, 4), 'end'),
     ('L', 'Lleida', 0.62, 41.62, (12, 4), 'start'),
-    ('C', 'Chesterfield', -1.43, 53.23, (-12, 4), 'end'),
 ]
 HQ = ('V', 'Veghel', 5.55, 51.62)
 R_KM = 600

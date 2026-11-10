@@ -1,7 +1,7 @@
 ---
 id: pallets
 title: "Kunststof pallets kopen bij de fabrikant - Q-Pall"
-description: "Kunststof pallets direct van de fabrikant: zo'n 130 uitvoeringen, van light tot heavy, uit zes Europese fabrieken. Vraag vrijblijvend een offerte aan."
+description: "Kunststof pallets direct van de fabrikant: zo'n 125 uitvoeringen, van light tot heavy, uit vijf Europese fabrieken. Vraag vrijblijvend een offerte aan."
 eyebrow: "Assortiment"
 h1: "Kunststof pallets **direct van de fabrikant**"
 lead: "Van lichte nestbare exportpallet tot zware stellingpallet tot 2.000 kg. Filter op afmeting, draagvermogen en uitvoering. Bij elke uitvoering ziet u de volledige specificaties."
@@ -29,7 +29,7 @@ why:
       t: "Gerecycled kunststof"
       d: "Bijna 100% gerecycled en aan het einde van de levensduur volledig recyclebaar."
     - icon: "factory"
-      t: "Zes Europese fabrieken"
+      t: "Vijf Europese fabrieken"
       d: "Lokaal geproduceerd, zodat u minder transportkilometers betaalt."
     - icon: "scale"
       t: "Maatvast en constant gewicht"
@@ -41,7 +41,7 @@ why:
 
 ## Kunststof pallets voor elke toepassing
 
-Q-Pall ontwikkelt en produceert alleen kunststof pallets, al sinds 2005. Die focus ziet u terug in het assortiment: zo'n 130 uitvoeringen in negen formaten, van de compacte [displaypallet van 600 x 400 mm](@size-600x400) tot de grote [1300 x 1100 mm voor de chemie](@size-1300x1100). Elk model is ontworpen voor een duidelijke taak: transport, opslag, export, pooling of geautomatiseerde logistiek.
+Q-Pall ontwikkelt en produceert alleen kunststof pallets, al sinds 2005. Die focus ziet u terug in het assortiment: zo'n 125 uitvoeringen in negen formaten, van de compacte [displaypallet van 600 x 400 mm](@size-600x400) tot de grote [1300 x 1100 mm voor de chemie](@size-1300x1100). Elk model is ontworpen voor een duidelijke taak: transport, opslag, export, pooling of geautomatiseerde logistiek.
 
 ### Kies eerst op afmeting
 

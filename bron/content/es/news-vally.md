@@ -10,7 +10,7 @@ lead: "Q-Pall crece, y eso requiere personas que conozcan el oficio a fondo. Por
 img_alt: "Retrato de Vally Hoogland con una nave de producción al fondo"
 reading: 2
 published: '2026-05-07'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En resumen**
 >
@@ -37,7 +37,7 @@ En su nuevo puesto apoya a sus compañeros y a nuestra red comercial europea par
 
 Como Q-Pall, Vally cree en la producción local y en los materiales circulares. Fabricamos nuestros palets estándar con plástico casi 100% reciclado, una mezcla de HDPE y PP. Al final de su vida útil son totalmente reciclables.
 
-Producimos en [seis fábricas repartidas por Europa](@about-local), cerca de nuestros clientes. Cadenas cortas, menos CO₂ y más control: esa es la idea. Vally comparte esta convicción desde el primer día.
+Producimos en [cinco fábricas repartidas por Europa](@about-local), cerca de nuestros clientes. Cadenas cortas, menos CO₂ y más control: esa es la idea. Vally comparte esta convicción desde el primer día.
 
 Bienvenido al equipo, Vally.
 

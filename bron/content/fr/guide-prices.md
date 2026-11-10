@@ -13,7 +13,7 @@ faq:
   - q: "Une palette plastique est-elle plus chère qu’une palette en bois ?"
     a: "À l’unité, une palette plastique est souvent plus chère. Mais elle dure beaucoup plus longtemps, n’endommage pas votre charge et n’a pas besoin d’être réparée ni traitée. Le plastique revient donc souvent moins cher par rotation. Lisez aussi [palettes plastique ou palettes en bois](@guide-wood)."
   - q: "Le transport est-il compris dans le prix ?"
-    a: "Oui. Votre devis indique un prix sur mesure, livraison comprise depuis une usine où votre palette est disponible, au plus près de chez vous. Vous préférez venir chercher les palettes vous-même ? Le devis précise alors dans quelle usine c’est possible. Comme nous produisons dans six usines européennes, la distance jusqu’à chez vous est généralement courte. Cela limite les frais de transport."
+    a: "Oui. Votre devis indique un prix sur mesure, livraison comprise depuis une usine où votre palette est disponible, au plus près de chez vous. Vous préférez venir chercher les palettes vous-même ? Le devis précise alors dans quelle usine c’est possible. Comme nous produisons dans cinq usines européennes, la distance jusqu’à chez vous est généralement courte. Cela limite les frais de transport."
   - q: "Bénéficie-t-on d’une remise sur les grandes quantités ?"
     a: "Votre prix dépend de la quantité et du mode de livraison, par exemple par pile ou par camion complet. Demandez un devis pour obtenir un prix sur mesure."
 ---
@@ -42,7 +42,7 @@ Avec de plus grandes quantités et des camions complets, le coût par palette di
 
 ### 4. Distance jusqu’à l’usine
 
-Le transport représente une part importante du coût. Q-Pall produit dans [six usines européennes](@about-local) : la distance jusqu’à chez vous est donc généralement faible. Pour chaque produit, les sites de fabrication sont indiqués.
+Le transport représente une part importante du coût. Q-Pall produit dans [cinq usines européennes](@about-local) : la distance jusqu’à chez vous est donc généralement faible. Pour chaque produit, les sites de fabrication sont indiqués.
 
 ## Raisonnez en coût par rotation
 

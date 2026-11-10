@@ -17,7 +17,7 @@ faq:
 - q: "Sind Kunststoffpaletten wirklich nachhaltig?"
   a: "Ja, wenn sie lange halten und danach recycelt werden. Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff und sind am Ende ihrer Lebensdauer vollständig recycelbar."
 published: '2021-12-10'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **Kurz gesagt**
 >
@@ -46,7 +46,7 @@ Pro Stück ist eine Kunststoffpalette oft teurer als eine Holzpalette. Sie hält
 
 Mehr dazu lesen Sie unter [Was kostet eine Kunststoffpalette?](@guide-prices)
 
-Wenn Sie neue Paletten wählen, haben Sie die Wahl aus rund 130 Ausführungen in neun Größen. Sollen Ihre Paletten erkennbar sein? Mit [individuellen Anpassungen](@about-custom) passen wir ein bestehendes Modell an, zum Beispiel mit Ihrem Logo oder einer eigenen Farbe.
+Wenn Sie neue Paletten wählen, haben Sie die Wahl aus rund 125 Ausführungen in neun Größen. Sollen Ihre Paletten erkennbar sein? Mit [individuellen Anpassungen](@about-custom) passen wir ein bestehendes Modell an, zum Beispiel mit Ihrem Logo oder einer eigenen Farbe.
 
 Zählt vor allem das Budget? Dann wählen Sie [gebrauchte Kunststoffpaletten](@used): Über Q-Used verkaufen wir geprüfte Paletten, die bis zu 40 % günstiger sind als neue. Weil Kunststoffpaletten so lange halten, sind sie oft noch in gutem Zustand.
 
@@ -54,7 +54,7 @@ Zählt vor allem das Budget? Dann wählen Sie [gebrauchte Kunststoffpaletten](@u
 
 Viele Menschen verbinden Kunststoff mit Umweltverschmutzung. Bei Paletten sieht das anders aus. Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE und PP, unter anderem aus alten Kisten, Verschlüssen und Verpackungen.
 
-Eine Kunststoffpalette hält viele Jahre. Am Ende ihrer Lebensdauer ist sie vollständig recycelbar: Wir nehmen sie zurück und mahlen sie zu Rohstoff für neue Paletten. Außerdem produzieren wir in sechs Werken in Europa, nah an unseren Kunden.
+Eine Kunststoffpalette hält viele Jahre. Am Ende ihrer Lebensdauer ist sie vollständig recycelbar: Wir nehmen sie zurück und mahlen sie zu Rohstoff für neue Paletten. Außerdem produzieren wir in fünf Werken in Europa, nah an unseren Kunden.
 
 Mehr über unseren Ansatz lesen Sie auf der Seite [Nachhaltigkeit](@about-sustainability).
 

@@ -15,16 +15,16 @@ faq:
 - q: "Quelle taille de palette convient à un conteneur maritime ?"
   a: "Pour les conteneurs maritimes, les palettes carrées de 1100 x 1100 mm et les palettes de 760 x 1140 mm sont pratiques. Le format le mieux adapté dépend du type de conteneur."
 - q: "Q-Pall peut-elle fabriquer une palette dans une taille spéciale ?"
-  a: "Non, nous ne concevons pas de palettes entièrement nouvelles. Avec environ 130 versions en neuf formats, il existe généralement une taille adaptée. Nous adaptons en revanche des modèles existants, par exemple avec un logo ou votre propre couleur."
+  a: "Non, nous ne concevons pas de palettes entièrement nouvelles. Avec environ 125 versions en neuf formats, il existe généralement une taille adaptée. Nous adaptons en revanche des modèles existants, par exemple avec un logo ou votre propre couleur."
 published: '2022-01-29'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En bref**
 >
 > * La bonne taille de palette dépend d’abord de votre chargement : sa nature, son conditionnement et ses dimensions.
 > * Le format doit aussi convenir à vos camions, conteneurs et rayonnages.
 > * Dans un entrepôt automatisé, les palettes doivent avoir exactement les dimensions pour lesquelles les systèmes sont réglés.
-> * Q-Pall propose environ 130 versions en neuf formats, du 600 x 400 au 1300 x 1100 mm.
+> * Q-Pall propose environ 125 versions en neuf formats, du 600 x 400 au 1300 x 1100 mm.
 
 Quand vous avez besoin de palettes, vous voulez faire le bon choix. À quoi serviront les palettes, quel est le poids du chargement et la palette doit-elle par exemple être hygiénique ? Et quelle taille vous faut-il ? C’est cette dernière question que nous traitons ici. Vous trouverez tous les formats standard dans notre aperçu des [formats de palettes](@guide-sizes).
 
@@ -50,7 +50,7 @@ De nombreux clients utilisent les palettes non seulement pour le transport, mais
 
 ## Notre gamme et le sur-mesure
 
-Notre gamme compte environ 130 versions en neuf formats, du 600 x 400 au 1300 x 1100 mm, dans trois classes de charge : Light, Medium et Heavy. Il existe donc presque toujours une taille adaptée.
+Notre gamme compte environ 125 versions en neuf formats, du 600 x 400 au 1300 x 1100 mm, dans trois classes de charge : Light, Medium et Heavy. Il existe donc presque toujours une taille adaptée.
 
 Nous ne concevons pas de palettes entièrement nouvelles. Nous adaptons en revanche des modèles existants, par exemple avec un logo, votre propre couleur, un marquage ou une autre composition de matière. Pour en savoir plus, consultez [les palettes plastique sur mesure](@about-custom).
 

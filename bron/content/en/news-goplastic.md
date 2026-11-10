@@ -10,7 +10,7 @@ lead: "In 2022 the partnership between Q-Pall and our UK partner Goplasticpallet
 img_alt: "Goplasticpallets.com lorry with an open side full of blue plastic pallets"
 reading: 3
 published: '2022-01-29'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In short**
 >
@@ -18,7 +18,7 @@ updated: '2026-11-02'
 > * In 2022 the partnership turned ten.
 > * Goplasticpallets.com supplies direct from stock, so Q-Pall has to deliver large quantities quickly.
 > * In the UK, medium and heavy-duty pallets sold best, along with nestable pallets for retail and display.
-> * In 2022 Q-Pall had four production sites. Today there are six, including Chesterfield in the United Kingdom.
+> * In 2022 Q-Pall had four production sites. Today there are five.
 
 ## Ten years together
 
@@ -38,7 +38,7 @@ According to him, the Q-Pall team was fairly small but extremely efficient and r
 
 Goplasticpallets.com fulfils orders direct from stock. That means its manufacturing partner has to respond fast to large quantities. "With access to four manufacturing sites, Q-Pall is well equipped to meet our needs and has never let us down."
 
-In 2022 those four sites were in the Netherlands, Denmark and two in Germany. Today we produce in [six factories across Europe](@about-local), including Chesterfield in the United Kingdom. This means we can also produce in the UK itself, close to British customers.
+In 2022 those four sites were in the Netherlands, Denmark and two in Germany. Today we produce in [five factories across Europe](@about-local).
 
 ## The pallets UK customers choose
 

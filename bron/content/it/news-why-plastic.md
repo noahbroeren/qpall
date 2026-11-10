@@ -17,7 +17,7 @@ faq:
 - q: "I pallet in plastica sono davvero sostenibili?"
   a: "Sì, se durano a lungo e poi vengono riciclati. I nostri pallet standard sono realizzati in plastica riciclata quasi al 100% e a fine vita sono completamente riciclabili."
 published: '2021-12-10'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In breve**
 >
@@ -46,7 +46,7 @@ Al pezzo, un pallet in plastica costa spesso più di uno in legno. Ma dura molti
 
 Approfondite il tema in [quanto costa un pallet in plastica?](@guide-prices)
 
-Se scegliete pallet nuovi, potete scegliere tra circa 130 versioni in nove formati. Volete pallet riconoscibili? Con le [soluzioni su misura](@about-custom) adattiamo un modello esistente, per esempio con il vostro logo o un colore dedicato.
+Se scegliete pallet nuovi, potete scegliere tra circa 125 versioni in nove formati. Volete pallet riconoscibili? Con le [soluzioni su misura](@about-custom) adattiamo un modello esistente, per esempio con il vostro logo o un colore dedicato.
 
 Conta soprattutto il budget? Allora scegliete [pallet in plastica usati](@used): con Q-Used vendiamo pallet ispezionati che costano fino al 40% in meno di quelli nuovi. Poiché i pallet in plastica durano a lungo, sono spesso ancora in buone condizioni.
 
@@ -54,7 +54,7 @@ Conta soprattutto il budget? Allora scegliete [pallet in plastica usati](@used):
 
 Molti associano la plastica all’inquinamento. Per i pallet la situazione è diversa. Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%, una miscela di HDPE e PP ricavata tra l’altro da vecchie cassette, tappi e imballaggi.
 
-Un pallet in plastica dura molti anni. A fine vita è completamente riciclabile: lo ritiriamo e lo maciniamo per ottenere materia prima per nuovi pallet. Inoltre produciamo in sei stabilimenti in Europa, vicino ai nostri clienti.
+Un pallet in plastica dura molti anni. A fine vita è completamente riciclabile: lo ritiriamo e lo maciniamo per ottenere materia prima per nuovi pallet. Inoltre produciamo in cinque stabilimenti in Europa, vicino ai nostri clienti.
 
 Scoprite di più sul nostro approccio alla [sostenibilità](@about-sustainability).
 

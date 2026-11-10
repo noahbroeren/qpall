@@ -10,13 +10,13 @@ lead: "Dans un monde instable, le nearshoring n’est plus une option mais une e
 img_alt: "Robots et presses à injecter dans le hall de production de l’usine Q-Pall à Balk"
 reading: 4
 published: '2026-02-26'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En bref**
 >
 > * Les chaînes d’approvisionnement mondiales sont devenues vulnérables face aux conflits, aux routes commerciales perturbées et aux tarifs de fret fluctuants.
 > * Les règles de reporting exigent une visibilité croissante sur les émissions de la chaîne (scope 3).
-> * Q-Pall produit dans six usines réparties en Europe, au plus près de ses clients.
+> * Q-Pall produit dans cinq usines réparties en Europe, au plus près de ses clients.
 > * Produire localement, c’est des délais courts et fiables, des coûts plus stables et une histoire honnête sur l’origine et le recyclage.
 
 ## La vulnérabilité de « l’usine mondiale »
@@ -33,7 +33,7 @@ La réglementation joue aussi un rôle croissant. Les grandes entreprises doiven
 
 ## Le modèle Q-Pall : produire au plus près du client
 
-Chez Q-Pall, la production n’est pas un simple poste de coûts, mais un outil au service de la sécurité d’approvisionnement. Nous avons délibérément choisi le nearshoring. Nous produisons dans [six usines réparties en Europe](@about-local), de sorte que presque chaque client se trouve à moins de 600 kilomètres d’une usine Q-Pall.
+Chez Q-Pall, la production n’est pas un simple poste de coûts, mais un outil au service de la sécurité d’approvisionnement. Nous avons délibérément choisi le nearshoring. Nous produisons dans [cinq usines réparties en Europe](@about-local), de sorte que presque chaque client se trouve à moins de 600 kilomètres d’une usine Q-Pall.
 
 Ce modèle fonctionne autrement que les importations lointaines. Le fret maritime intercontinental est exposé à des semaines de retard. Notre réseau peut s’adapter et livrer en quelques jours, sans dépendre d’un seul port ni d’une seule route.
 

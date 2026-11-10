@@ -1,28 +1,28 @@
 ---
 id: news-local-sustainability
 title: "Production locale de palettes plastique et CO₂ – Q-Pall"
-description: "Produire des palettes plastique localement réduit le transport et le CO₂. Six usines européennes, plastique recyclé et reprise des palettes en fin de vie."
+description: "Produire des palettes plastique localement réduit le transport et le CO₂. Cinq usines européennes, plastique recyclé et reprise des palettes en fin de vie."
 eyebrow: "Actualités"
 tag: "Durabilité"
 crumb: "Production locale et durabilité"
 h1: "Moins de transport, moins de CO₂ : **la production locale de palettes plastique**"
-lead: "Plus la distance entre l’usine et le client est courte, moins il y a de transport et de CO₂. Nous fabriquons donc nos palettes dans six usines européennes, en plastique recyclé local, et les reprenons en fin de vie."
+lead: "Plus la distance entre l’usine et le client est courte, moins il y a de transport et de CO₂. Nous fabriquons donc nos palettes dans cinq usines européennes, en plastique recyclé local, et les reprenons en fin de vie."
 img_alt: "Sphère de verre dans l’herbe reflétant un arbre et un paysage verdoyant"
 reading: 4
 faq:
 - q: "Pourquoi la production locale de palettes est-elle plus durable ?"
-  a: "Dans la chaîne de la palette, le transport est la principale source d’émissions de CO₂. Plus l’usine est proche du client, moins il y a de kilomètres et d’émissions. Presque chaque client de Q-Pall se trouve à moins de 600 kilomètres de l’une de nos six usines."
+  a: "Dans la chaîne de la palette, le transport est la principale source d’émissions de CO₂. Plus l’usine est proche du client, moins il y a de kilomètres et d’émissions. Presque chaque client de Q-Pall se trouve à moins de 600 kilomètres de l’une de nos cinq usines."
 - q: "En quoi sont fabriquées les palettes Q-Pall ?"
   a: "Nous fabriquons nos palettes standard en plastique recyclé à près de 100 %, un mélange de HDPE (code 2) et de PP (code 5). Seules les palettes hygiéniques, les palettes H1 et les palettes salle blanche sont en plastique vierge (neuf)."
 - q: "Que devient une palette plastique en fin de vie ?"
   a: "Les palettes plastique sont entièrement recyclables. Nous les reprenons : les palettes en bon état connaissent une seconde vie comme palettes d’occasion, les palettes endommagées sont broyées pour devenir la matière première de nouvelles palettes."
 published: '2024-01-31'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En bref**
 >
 > * Dans la chaîne de la palette, le transport est la principale source d’émissions de CO₂. C’est pourquoi nous produisons près du client.
-> * Nous fabriquons nos palettes dans six usines européennes. Presque chaque client se trouve à moins de 600 kilomètres d’une usine.
+> * Nous fabriquons nos palettes dans cinq usines européennes. Presque chaque client se trouve à moins de 600 kilomètres d’une usine.
 > * Nos palettes standard sont en plastique recyclé à près de 100 %. En 2025, nous avons transformé 34.500 tonnes de matière recyclée.
 > * Nous achetons cette matière recyclée dans la région autant que possible. Cela réduit aussi le transport des matières premières.
 > * En fin de vie, nous reprenons les palettes pour les réutiliser ou les recycler.
@@ -31,7 +31,7 @@ updated: '2026-11-02'
 
 Une palette est un produit volumineux. Plus elle voyage loin, plus elle consomme de carburant et génère d’émissions, avant même d’être chargée. Le transport est donc la principale source d’émissions de CO₂ dans la chaîne de la palette.
 
-C’est pourquoi nous avons choisi la [production locale](@about-local). Nous fabriquons nos palettes dans six usines : à Balk (Pays-Bas), Ribe (Danemark), Marktoberdorf (Allemagne), Nantes (France), Lleida (Espagne) et Chesterfield (Royaume-Uni). Presque chaque client se trouve à moins de 600 kilomètres de l’une de ces usines. Moins de kilomètres, c’est moins de coûts de transport et moins de CO₂.
+C’est pourquoi nous avons choisi la [production locale](@about-local). Nous fabriquons nos palettes dans cinq usines : à Balk (Pays-Bas), Ribe (Danemark), Marktoberdorf (Allemagne), Nantes (France) et Lleida (Espagne). Presque chaque client se trouve à moins de 600 kilomètres de l’une de ces usines. Moins de kilomètres, c’est moins de coûts de transport et moins de CO₂.
 
 Cela compte aussi dans votre propre reporting. Les émissions liées aux palettes achetées et à leur transport relèvent du scope 3. Des palettes fabriquées à proximité réduisent cette part de votre empreinte.
 

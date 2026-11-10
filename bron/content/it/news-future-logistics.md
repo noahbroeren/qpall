@@ -17,7 +17,7 @@ faq:
 - q: "Cosa succede ai pallet in plastica a fine vita?"
   a: "Li ritiriamo e li maciniamo per ricavarne materia prima per nuovi pallet. Così il materiale resta nel ciclo."
 published: '2025-07-03'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In breve**
 >
@@ -59,8 +59,8 @@ A fine vita ritiriamo i pallet. Li maciniamo per ricavarne materia prima e produ
 Dal 2005 Q-Pall produce esclusivamente pallet in plastica. Ecco il nostro approccio:
 
 * **Materiale riciclato.** Produciamo i nostri pallet standard con plastica riciclata quasi al 100%, una miscela di HDPE e PP. Scoprite di più sul nostro approccio nella pagina [sostenibilità](@about-sustainability).
-* **Produzione locale.** Produciamo i nostri pallet in sei stabilimenti in Europa, vicino ai nostri clienti.
-* **Un’ampia gamma.** Circa 130 versioni in nove formati e tre classi: Light, Medium e Heavy.
+* **Produzione locale.** Produciamo i nostri pallet in cinque stabilimenti in Europa, vicino ai nostri clienti.
+* **Un’ampia gamma.** Circa 125 versioni in nove formati e tre classi: Light, Medium e Heavy.
 * **Personalizzazione.** Adattiamo i modelli esistenti, per esempio con il vostro logo, un colore dedicato o una marcatura.
 * **Un servizio attento.** Dalla prima consulenza alla consegna, lavoriamo insieme a voi.
 

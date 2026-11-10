@@ -16,7 +16,7 @@ faq:
 
 ## Smart modifications within existing models
 
-A completely new pallet design costs a lot of time and money. That is why we first look at what is possible within our existing range of around 130 versions. A small modification is often enough:
+A completely new pallet design costs a lot of time and money. That is why we first look at what is possible within our existing range of around 125 versions. A small modification is often enough:
 
 - **Logo or printing** on the pallet.
 - **Your own colour**, for example to distinguish pools or departments.

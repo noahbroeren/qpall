@@ -10,7 +10,7 @@ lead: "In 2022 bestond de samenwerking tussen Q-Pall en onze Britse partner Gopl
 img_alt: "Vrachtwagen van Goplasticpallets.com met een open zijkant vol blauwe kunststof pallets"
 reading: 3
 published: '2022-01-29'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In het kort**
 >
@@ -18,7 +18,7 @@ updated: '2026-11-02'
 > * In 2022 bestond de samenwerking tien jaar.
 > * Goplasticpallets.com levert direct uit voorraad. Daarvoor moet Q-Pall snel grote aantallen kunnen leveren.
 > * In het Verenigd Koninkrijk liepen vooral de medium en heavy pallets goed, en de nestbare pallets voor retail en display.
-> * In 2022 had Q-Pall vier productielocaties. Inmiddels zijn dat er zes, waaronder Chesterfield in het Verenigd Koninkrijk.
+> * In 2022 had Q-Pall vier productielocaties. Inmiddels zijn dat er vijf.
 
 ## Tien jaar samen
 
@@ -38,7 +38,7 @@ Het team van Q-Pall was volgens hem vrij klein, maar zeer efficiënt en snel. "W
 
 Goplasticpallets.com levert bestellingen direct uit voorraad. Daarvoor moet de producent snel kunnen reageren op grote aantallen. "Met toegang tot vier productielocaties is Q-Pall goed uitgerust om aan onze behoeften te voldoen. Ze hebben ons nog nooit in de steek gelaten."
 
-Die vier locaties lagen in 2022 in Nederland, Denemarken en twee in Duitsland. Inmiddels produceren we in [zes fabrieken verspreid over Europa](@about-local), waaronder in Chesterfield in het Verenigd Koninkrijk. Zo kunnen we ook in het land zelf produceren, dicht bij Britse klanten.
+Die vier locaties lagen in 2022 in Nederland, Denemarken en twee in Duitsland. Inmiddels produceren we in [vijf fabrieken verspreid over Europa](@about-local).
 
 ## Welke pallets Britse klanten kiezen
 

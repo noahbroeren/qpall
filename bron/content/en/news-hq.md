@@ -10,14 +10,14 @@ lead: "In early 2022, construction of Q-Pall’s new European headquarters in Ve
 img_alt: "Q-Pall headquarters in Veghel: a dark grey building with an orange overhang and large glass facades"
 reading: 2
 published: '2022-01-19'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In short**
 >
 > * In early 2022, Q-Pall’s new European headquarters in Veghel, along the A50 motorway, was completed.
 > * The building houses the head office, the European operations centre and a warehouse for storage.
 > * Existing foundation piles, a heat pump and solar panels made the building economical in materials and energy.
-> * The pallets themselves are made in six factories across Europe, as close to the customer as possible.
+> * The pallets themselves are made in five factories across Europe, as close to the customer as possible.
 
 ## A new headquarters along the A50
 
@@ -39,7 +39,7 @@ Q-Pall makes only plastic pallets. A key feature is that we produce them as clos
 
 An example: if pallets for the French market are made in the Netherlands, many full trucks have to make long journeys south and back again. If only the mould goes to our factory in Nantes, most of those journeys are no longer needed.
 
-Q-Pall produces in six factories: Balk (the Netherlands), Ribe (Denmark), Marktoberdorf (Germany), Nantes (France), Lleida (Spain) and Chesterfield (United Kingdom). Almost every customer is within 600 kilometres of a factory. Read more about [local production](@about-local).
+Q-Pall produces in five factories: Balk (the Netherlands), Ribe (Denmark), Marktoberdorf (Germany), Nantes (France) and Lleida (Spain). Almost every customer is within 600 kilometres of a factory. Read more about [local production](@about-local).
 
 ## The entire chain in our own hands
 

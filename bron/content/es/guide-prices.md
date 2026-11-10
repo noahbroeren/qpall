@@ -13,7 +13,7 @@ faq:
   - q: "¿Es un palet de plástico más caro que uno de madera?"
     a: "Por unidad, un palet de plástico suele ser más caro. Pero dura mucho más, no daña su carga y no hay que repararlo ni tratarlo. Por eso, el plástico suele salir más barato por viaje. Lea también [palets de plástico o de madera](@guide-wood)."
   - q: "¿Está incluido el transporte en el precio?"
-    a: "Sí. En su presupuesto recibirá un precio a medida, con la entrega incluida desde una fábrica donde su palet esté disponible, lo más cerca posible de usted. ¿Prefiere recoger los palets usted mismo? Entonces en el presupuesto se indica en qué fábrica puede hacerlo. Como producimos en seis fábricas europeas, la distancia hasta usted suele ser corta. Así los costes de transporte se mantienen bajos."
+    a: "Sí. En su presupuesto recibirá un precio a medida, con la entrega incluida desde una fábrica donde su palet esté disponible, lo más cerca posible de usted. ¿Prefiere recoger los palets usted mismo? Entonces en el presupuesto se indica en qué fábrica puede hacerlo. Como producimos en cinco fábricas europeas, la distancia hasta usted suele ser corta. Así los costes de transporte se mantienen bajos."
   - q: "¿Obtengo descuento por cantidades mayores?"
     a: "Su precio depende de la cantidad y de la forma de entrega, por ejemplo por pila o por camión completo. Solicite un presupuesto para obtener un precio a medida."
 ---
@@ -42,7 +42,7 @@ Con cantidades mayores y camiones completos, el coste por palet baja. El tipo de
 
 ### 4. Distancia a la fábrica
 
-El transporte es una parte importante del coste. Q-Pall produce en [seis fábricas europeas](@about-local), por lo que la distancia hasta usted suele ser pequeña. En cada producto se indican los centros donde se fabrica.
+El transporte es una parte importante del coste. Q-Pall produce en [cinco fábricas europeas](@about-local), por lo que la distancia hasta usted suele ser pequeña. En cada producto se indican los centros donde se fabrica.
 
 ## Calcule el coste por viaje
 

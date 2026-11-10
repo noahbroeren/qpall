@@ -13,7 +13,7 @@ faq:
   - q: "Un pallet in plastica costa più di un pallet in legno?"
     a: "Al pezzo, un pallet in plastica è spesso più caro. Ma dura molto più a lungo, non danneggia il carico e non deve essere riparato né trattato. Per questo, calcolata per viaggio, la plastica risulta spesso più economica. Leggete anche [pallet in plastica o in legno](@guide-wood)."
   - q: "Il trasporto è incluso nel prezzo?"
-    a: "Sì. Nel preventivo trovate un prezzo su misura, consegna inclusa da uno stabilimento in cui il vostro pallet è disponibile, il più vicino possibile a voi. Preferite ritirare i pallet voi stessi? Nel preventivo è indicato in quale stabilimento potete farlo. Poiché produciamo in sei stabilimenti europei, la distanza da voi è di solito breve. Questo mantiene bassi i costi di trasporto."
+    a: "Sì. Nel preventivo trovate un prezzo su misura, consegna inclusa da uno stabilimento in cui il vostro pallet è disponibile, il più vicino possibile a voi. Preferite ritirare i pallet voi stessi? Nel preventivo è indicato in quale stabilimento potete farlo. Poiché produciamo in cinque stabilimenti europei, la distanza da voi è di solito breve. Questo mantiene bassi i costi di trasporto."
   - q: "Ottengo uno sconto per quantità maggiori?"
     a: "Il vostro prezzo dipende dalla quantità e dalla modalità di consegna, ad esempio per pila o per camion completo. Richiedete un preventivo per ricevere un prezzo su misura."
 ---
@@ -42,7 +42,7 @@ Con quantità maggiori e camion completi, il costo per pallet diminuisce. Conta 
 
 ### 4. Distanza dallo stabilimento
 
-Il trasporto è una parte consistente del costo. Q-Pall produce in [sei stabilimenti europei](@about-local), quindi la distanza da voi è di solito ridotta. Per ogni prodotto sono indicati i siti in cui viene realizzato.
+Il trasporto è una parte consistente del costo. Q-Pall produce in [cinque stabilimenti europei](@about-local), quindi la distanza da voi è di solito ridotta. Per ogni prodotto sono indicati i siti in cui viene realizzato.
 
 ## Ragionate in costo per viaggio
 

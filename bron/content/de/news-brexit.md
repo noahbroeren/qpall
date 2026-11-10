@@ -1,12 +1,12 @@
 ---
 id: news-brexit
 title: "Brexit: Kunststoffpaletten im UK-Handel – Q-Pall"
-description: "Seit dem Brexit müssen Holzpaletten im Handel mit dem Vereinigten Königreich ISPM 15 erfüllen, Kunststoffpaletten nicht. Q-Pall produziert in Chesterfield."
+description: "Seit dem Brexit müssen Holzpaletten im Handel mit dem Vereinigten Königreich ISPM 15 erfüllen. Kunststoffpaletten nicht: keine Behandlung, kein Stempel."
 eyebrow: "Aktuelles"
 tag: "Supply Chain"
 crumb: "Paletten nach dem Brexit"
 h1: "Brexit und Paletten: **Was gilt im Handel mit dem Vereinigten Königreich?**"
-lead: "Seit dem Brexit ist das Vereinigte Königreich für Paletten ein Land außerhalb der EU. Holzpaletten müssen daher ISPM 15 erfüllen, Kunststoffpaletten nicht. Zudem fertigt Q-Pall Kunststoffpaletten im Vereinigten Königreich selbst, in Chesterfield."
+lead: "Seit dem Brexit ist das Vereinigte Königreich für Paletten ein Land außerhalb der EU. Holzpaletten müssen daher ISPM 15 erfüllen, Kunststoffpaletten nicht."
 img_alt: "Schild im Stil der Londoner U-Bahn mit dem Wort Brexit vor einer britischen Flagge"
 reading: 3
 faq:
@@ -17,14 +17,13 @@ faq:
 - q: "Welches Palettenmaß ist im Vereinigten Königreich üblich?"
   a: "Im Vereinigten Königreich wird häufig die Industriepalette mit 1200 x 1000 mm verwendet. Unsere Einwegpaletten fertigen wir unter anderem in 1200 x 1000 mm und 1200 x 800 mm."
 published: '2022-01-13'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **Kurz gesagt**
 >
 > * Das Vereinigte Königreich ist am 31. Januar 2020 aus der EU ausgetreten. Die Übergangsphase lief bis zum 31. Dezember 2020.
 > * Seitdem müssen Holzpaletten im Handel zwischen der EU und dem UK ISPM 15 erfüllen: behandelt und gestempelt.
 > * Kunststoffpaletten fallen nicht unter ISPM 15 und brauchen weder Behandlung noch Stempel.
-> * Q-Pall hat ein Werk in Chesterfield und produziert damit auch im Vereinigten Königreich selbst.
 
 ## Vom Referendum bis zum Austritt
 
@@ -52,11 +51,9 @@ Das bringt Ihnen im Handel mit dem Vereinigten Königreich:
 * **Das passende Maß.** Im Vereinigten Königreich ist die Industriepalette mit [1200 x 1000 mm](@size-1200x1000) üblich.
 * **Kreislauffähig.** Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff und sind am Ende ihrer Lebensdauer vollständig recycelbar.
 
-## Q-Pall produziert auch im Vereinigten Königreich
+## Kunststoffpaletten von Q-Pall für das Vereinigte Königreich
 
-Q-Pall fertigt Kunststoffpaletten in sechs Werken: Balk (Niederlande), Ribe (Dänemark), Marktoberdorf (Deutschland), Nantes (Frankreich), Lleida (Spanien) und Chesterfield (Vereinigtes Königreich). Fast jeder Kunde liegt im Umkreis von 600 Kilometern um eines unserer Werke.
-
-Unser Ansatz: Werkzeuge reisen, Paletten nicht. Wir setzen das Werkzeug so nah wie möglich beim Kunden ein. Für Kunden im Vereinigten Königreich kann das das Werk in Chesterfield sein: kurze Transportwege und kein Grenzübertritt für die Paletten selbst. Mehr über [lokale Produktion](@about-local).
+Q-Pall fertigt Kunststoffpaletten in fünf Werken, verteilt über ganz Europa. Unser Ansatz: Werkzeuge reisen, Paletten nicht. Wir liefern aus einem Werk, in dem Ihre Palette verfügbar ist, möglichst nah bei Ihnen. Mehr über [lokale Produktion](@about-local).
 
 Sie benötigen kleinere Mengen? Dann wenden Sie sich an einen [Händler in Ihrer Nähe](@dealers). Im Vereinigten Königreich arbeiten wir unter anderem mit dem Händler Goplasticpallets.com zusammen.
 

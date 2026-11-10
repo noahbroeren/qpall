@@ -17,7 +17,7 @@ faq:
 - q: "¿Qué ocurre con los palets de plástico al final de su vida útil?"
   a: "Los recogemos y los trituramos para obtener materia prima para nuevos palets. Así, el material se mantiene en el ciclo."
 published: '2025-07-03'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En resumen**
 >
@@ -59,8 +59,8 @@ Al final de su vida útil, recogemos los palets. Los trituramos para obtener mat
 Desde 2005, Q-Pall fabrica exclusivamente palets de plástico. Este es nuestro enfoque:
 
 * **Material reciclado.** Fabricamos nuestros palets estándar con plástico casi 100% reciclado, una mezcla de HDPE y PP. Más información sobre nuestro enfoque en la página de [sostenibilidad](@about-sustainability).
-* **Producción local.** Fabricamos nuestros palets en seis fábricas en Europa, cerca de nuestros clientes.
-* **Una amplia gama.** Unas 130 versiones en nueve formatos y tres clases: Light, Medium y Heavy.
+* **Producción local.** Fabricamos nuestros palets en cinco fábricas en Europa, cerca de nuestros clientes.
+* **Una amplia gama.** Unas 125 versiones en nueve formatos y tres clases: Light, Medium y Heavy.
 * **Personalización.** Adaptamos los modelos existentes, por ejemplo con su logotipo, un color propio o un marcado.
 * **Un servicio cercano.** Desde el primer asesoramiento hasta la entrega, pensamos con usted.
 

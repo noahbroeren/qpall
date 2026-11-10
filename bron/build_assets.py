@@ -274,6 +274,10 @@ def write_seo_files(OUT, page_list, PAGES, MODEL_BY_ID, abs_url):
     _icl = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data/redirects-iclicks.txt')
     if os.path.exists(_icl):
         rd += [l.rstrip() for l in open(_icl, encoding='utf-8') if l.strip()]
+    # update 45: pages and datasheets of articles that are not on the site (draft or removed) and draft articles
+    _rem = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data/redirects-removed.txt')
+    if os.path.exists(_rem):
+        rd += [l.rstrip() for l in open(_rem, encoding='utf-8') if l.strip()]
     # old country domains -> category page in their language, in one step (site_config.COUNTRY_DOMAINS)
     from site_config import COUNTRY_DOMAINS
     rd.append('# Oude landendomeinen (ook als domain alias in Netlify toevoegen)')
@@ -304,7 +308,36 @@ def write_seo_files(OUT, page_list, PAGES, MODEL_BY_ID, abs_url):
     rd.append('# Foutpagina per taal')
     for l in ('en', 'de', 'fr', 'it', 'es'):
         rd.append(f'/{l}/*  /{l}/404.html  404')
+    rd = _flatten(rd, OUT)
     open(os.path.join(OUT, '_redirects'), 'w').write('\n'.join(rd) + '\n')
+
+
+def _flatten(rd, OUT):
+    """Redirects in one step (update 45): when the destination of a 301 rule is itself the source of an exact 301 rule
+    (for example an old qpall.com URL that pointed to a pallet that is now off the site), the rule gets the final
+    destination. A destination that exists as a page is never followed (Netlify serves the page there)."""
+    def norm(p):
+        return p.rstrip('/') or '/'
+    def is_page(p):
+        f = os.path.join(OUT, p.split('?')[0].lstrip('/'))
+        return os.path.isfile(f) or os.path.isfile(os.path.join(f, 'index.html'))
+    exact = {}
+    for line in rd:
+        parts = line.split()
+        if len(parts) >= 3 and not line.startswith('#') and '*' not in parts[0] and not parts[0].startswith('http') \
+                and parts[2].startswith('30') and not parts[1].startswith('http'):
+            exact.setdefault(norm(parts[0]), parts[1])
+    out = []
+    for line in rd:
+        parts = line.split()
+        if len(parts) >= 3 and not line.startswith('#') and parts[2].startswith('30') and not parts[1].startswith('http'):
+            dst, n = parts[1], 0
+            while norm(dst.split('?')[0]) in exact and not is_page(dst) and n < 6:
+                dst, n = exact[norm(dst.split('?')[0])], n + 1
+            if n:
+                line = f'{parts[0]}  {dst}  {parts[2]}'
+        out.append(line)
+    return out
 
 
 def write_netlify(OUT):

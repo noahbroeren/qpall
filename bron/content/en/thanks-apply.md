@@ -26,7 +26,7 @@ more:
   cards:
   - id: about
     t: About Q-Pall
-    d: Only plastic pallets since 2005, from six European factories.
+    d: Only plastic pallets since 2005, from five European factories.
   - id: about-sustainability
     t: Sustainability
     d: From recycled plastic to a pallet that lasts for years.

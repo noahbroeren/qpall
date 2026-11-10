@@ -10,7 +10,7 @@ lead: "Pendant des années, la production est allée au moins-disant, où qu’i
 img_alt: "Hall de production avec presses à injection et robots dans une usine Q-Pall"
 reading: 4
 published: '2025-05-15'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En bref**
 >
@@ -18,7 +18,7 @@ updated: '2026-11-02'
 > * Produire localement vous rend moins dépendant des ports, des longues routes et des risques géopolitiques.
 > * Une matière recyclée achetée localement, c’est des circuits plus courts et une meilleure visibilité sur son origine.
 > * En raisonnant en coût total de possession (TCO), on constate que stabilité et rapidité sont rentables.
-> * Q-Pall produit dans six usines européennes et livre en quelques jours plutôt qu’en quelques semaines.
+> * Q-Pall produit dans cinq usines européennes et livre en quelques jours plutôt qu’en quelques semaines.
 
 ## Pourquoi les chaînes mondiales sont fragiles
 
@@ -36,7 +36,7 @@ La production locale n’est pas une solution de dépannage temporaire. C’est 
 * **Moins de risque géopolitique.** Guerres, sanctions et restrictions à l’exportation vous touchent moins quand la production se fait plus près de chez vous.
 * **Plus de flexibilité.** Vous pouvez augmenter ou réduire les volumes plus vite quand la demande change brusquement.
 
-Concrètement, Q-Pall fabrique ses palettes plastique dans [six usines réparties dans six pays européens](@about-local). Nous livrons ainsi en quelques jours plutôt qu’en quelques semaines. C’est décisif dans les secteurs où la fiabilité des livraisons conditionne directement la continuité de la production.
+Concrètement, Q-Pall fabrique ses palettes plastique dans [cinq usines réparties dans cinq pays européens](@about-local). Nous livrons ainsi en quelques jours plutôt qu’en quelques semaines. C’est décisif dans les secteurs où la fiabilité des livraisons conditionne directement la continuité de la production.
 
 ### Matière recyclée locale : des circuits plus courts et plus de transparence
 

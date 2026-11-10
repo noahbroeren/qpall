@@ -1,6 +1,6 @@
 # Translation brief: Q-Pall website EN → DE / FR / IT / ES
 
-Q-Pall (Veghel, the Netherlands) manufactures plastic pallets from nearly 100% recycled plastic in six European factories (Balk NL, Ribe DK, Marktoberdorf DE, Nantes FR, Lleida ES, Chesterfield UK; head office and storage in Veghel). The site targets B2B buyers: procurement, logistics and warehouse managers, quality managers.
+Q-Pall (Veghel, the Netherlands) manufactures plastic pallets from nearly 100% recycled plastic in five European factories (Balk NL, Ribe DK, Marktoberdorf DE, Nantes FR, Lleida ES; head office and storage in Veghel). The site targets B2B buyers: procurement, logistics and warehouse managers, quality managers.
 
 Project root: `/home/claude/qpall/bron`
 

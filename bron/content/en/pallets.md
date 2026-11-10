@@ -1,7 +1,7 @@
 ---
 id: pallets
 title: "Plastic pallets direct from the manufacturer - Q-Pall"
-description: "Plastic pallets direct from the manufacturer: around 130 versions, from light to heavy, made in six European factories. Request a free quote."
+description: "Plastic pallets direct from the manufacturer: around 125 versions, from light to heavy, made in five European factories. Request a free quote."
 eyebrow: "Product range"
 h1: "Plastic pallets **direct from the manufacturer**"
 lead: "From a light nestable export pallet to a heavy racking pallet for up to 2,000 kg. Filter by size, load capacity and version. For each version you see the full specifications."
@@ -29,7 +29,7 @@ why:
       t: "Recycled plastic"
       d: "Nearly 100% recycled and fully recyclable at the end of its life."
     - icon: "factory"
-      t: "Six European factories"
+      t: "Five European factories"
       d: "Produced locally, so you pay for fewer transport kilometres."
     - icon: "scale"
       t: "Dimensionally stable, constant weight"
@@ -41,7 +41,7 @@ why:
 
 ## Plastic pallets for every application
 
-Q-Pall develops and produces only plastic pallets, and has done so since 2005. You can see that focus in the range: around 130 versions in nine sizes, from the compact [600 x 400 mm display pallet](@size-600x400) to the large [1300 x 1100 mm pallet for the chemical industry](@size-1300x1100). Each model is designed for a clear task: transport, storage, export, pooling or automated logistics.
+Q-Pall develops and produces only plastic pallets, and has done so since 2005. You can see that focus in the range: around 125 versions in nine sizes, from the compact [600 x 400 mm display pallet](@size-600x400) to the large [1300 x 1100 mm pallet for the chemical industry](@size-1300x1100). Each model is designed for a clear task: transport, storage, export, pooling or automated logistics.
 
 ### Choose by size first
 

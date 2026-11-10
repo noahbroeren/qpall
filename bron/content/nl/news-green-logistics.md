@@ -15,9 +15,9 @@ faq:
 - q: "Zijn kunststof pallets lichter dan houten pallets?"
   a: "Vaak wel, afhankelijk van het type. Light pallets zijn veel lichter dan hout. Heavy pallets wegen ca. 17 tot 29 kg, ongeveer evenveel als een houten europallet van zo'n 25 kg."
 - q: "Hoe draagt lokale productie bij aan groene logistiek?"
-  a: "In de palletbranche komt het grootste deel van de CO₂-uitstoot van transport. Wij produceren in zes Europese fabrieken, zodat bijna elke klant binnen 600 kilometer van een fabriek zit."
+  a: "In de palletbranche komt het grootste deel van de CO₂-uitstoot van transport. Wij produceren in vijf Europese fabrieken, zodat bijna elke klant binnen 600 kilometer van een fabriek zit."
 published: '2023-09-11'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In het kort**
 >
@@ -25,7 +25,7 @@ updated: '2026-11-02'
 > * Kunststof pallets zijn vaak lichter dan hout, vooral in de klasse light. Dat scheelt brandstof.
 > * Ze gaan vele jaren mee en zijn daarna volledig recyclebaar.
 > * Onze standaardpallets zijn van bijna 100% gerecycled kunststof: 34.500 ton in 2025.
-> * Lokale productie in zes Europese fabrieken beperkt het transport van de pallets zelf.
+> * Lokale productie in vijf Europese fabrieken beperkt het transport van de pallets zelf.
 
 ## Wat is groene logistiek?
 
@@ -63,6 +63,6 @@ Kunststof pallets zijn in aanschaf vaak duurder dan houten pallets. Over de hele
 
 Onze standaardpallets maken we van bijna 100% gerecycled kunststof. In 2025 verwerkten we 34.500 ton gerecycled kunststof, zo'n 1.475 volle vrachtwagens. Dat helpt de hoeveelheid plastic afval te verminderen die anders op stortplaatsen, in verbrandingsovens of in de oceanen belandt.
 
-Daarnaast produceren we [lokaal](@about-local), in zes fabrieken verspreid over Europa. In de palletbranche komt het grootste deel van de CO₂-uitstoot van transport. Omdat bijna elke klant binnen 600 kilometer van een Q-Pall-fabriek zit, blijven de transportafstanden kort.
+Daarnaast produceren we [lokaal](@about-local), in vijf fabrieken verspreid over Europa. In de palletbranche komt het grootste deel van de CO₂-uitstoot van transport. Omdat bijna elke klant binnen 600 kilometer van een Q-Pall-fabriek zit, blijven de transportafstanden kort.
 
 Wilt u weten welke pallets het best passen in uw groene logistiek? [Vraag een offerte aan](@quote). Meestal ontvangt u binnen één werkdag een prijs op maat.

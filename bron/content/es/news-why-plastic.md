@@ -17,7 +17,7 @@ faq:
 - q: "¿Son realmente sostenibles los palets de plástico?"
   a: "Sí, si duran mucho tiempo y después se reciclan. Nuestros palets estándar se fabrican con plástico casi 100% reciclado y al final de su vida útil son totalmente reciclables."
 published: '2021-12-10'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En resumen**
 >
@@ -46,7 +46,7 @@ Por unidad, un palet de plástico suele costar más que uno de madera. Pero dura
 
 Encontrará más información en [¿cuánto cuesta un palet de plástico?](@guide-prices)
 
-Si elige palets nuevos, puede escoger entre unas 130 versiones en nueve medidas. ¿Quiere que sus palets sean reconocibles? Con la [personalización](@about-custom) adaptamos un modelo existente, por ejemplo con su logotipo o un color propio.
+Si elige palets nuevos, puede escoger entre unas 125 versiones en nueve medidas. ¿Quiere que sus palets sean reconocibles? Con la [personalización](@about-custom) adaptamos un modelo existente, por ejemplo con su logotipo o un color propio.
 
 ¿Lo que más cuenta es el presupuesto? Entonces elija [palets de plástico usados](@used): con Q-Used vendemos palets inspeccionados hasta un 40% más baratos que los nuevos. Como los palets de plástico duran mucho, a menudo siguen en buen estado.
 
@@ -54,7 +54,7 @@ Si elige palets nuevos, puede escoger entre unas 130 versiones en nueve medidas.
 
 Mucha gente asocia el plástico con la contaminación. Con los palets, la historia es distinta. Fabricamos nuestros palets estándar con plástico casi 100% reciclado, una mezcla de HDPE y PP procedente, entre otros, de cajas, tapones y envases usados.
 
-Un palet de plástico dura muchos años. Al final de su vida útil es totalmente reciclable: lo recogemos y lo trituramos para convertirlo en materia prima para nuevos palets. Además, producimos en seis fábricas en Europa, cerca de nuestros clientes.
+Un palet de plástico dura muchos años. Al final de su vida útil es totalmente reciclable: lo recogemos y lo trituramos para convertirlo en materia prima para nuevos palets. Además, producimos en cinco fábricas en Europa, cerca de nuestros clientes.
 
 Conozca nuestro enfoque de [sostenibilidad](@about-sustainability).
 

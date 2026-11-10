@@ -10,7 +10,7 @@ lead: "Auf der SITL 2025 in Paris war Q-Pall gemeinsam mit Partner BacLand vertr
 img_alt: "3D-Darstellung des Q-Pall-Messestands mit großem Bildschirm, Meeresschildkröte und dem Schriftzug „Pallets with a purpose“"
 reading: 2
 published: '2025-04-10'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **Kurz gesagt**
 >
@@ -31,7 +31,7 @@ Am Stand präsentierten wir unser Sortiment in drei Lastklassen, von leichten Pa
 
 ## Die Geschichte hinter dem Stand
 
-Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE und PP. Wir produzieren sie in sechs Werken in ganz Europa, sodass fast jeder Kunde weniger als 600 Kilometer von einem Werk entfernt ist. Die Werkzeuge reisen, die Paletten nicht: Wir setzen das Werkzeug so nah wie möglich beim Kunden ein. Mehr über unsere [lokale Produktion](@about-local).
+Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff, einer Mischung aus HDPE und PP. Wir produzieren sie in fünf Werken in ganz Europa, sodass fast jeder Kunde weniger als 600 Kilometer von einem Werk entfernt ist. Die Werkzeuge reisen, die Paletten nicht: Wir setzen das Werkzeug so nah wie möglich beim Kunden ein. Mehr über unsere [lokale Produktion](@about-local).
 
 Besucher konnten mit unserem Team über ihre eigenen Fragen sprechen: CO₂-Emissionen senken, Prozesse automatisieren oder effizienter transportieren. Kunststoffpaletten sind maßhaltig und haben ein konstantes Gewicht. Damit eignen sie sich gut für [Automatisierung und AGVs](@guide-automation).
 

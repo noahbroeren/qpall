@@ -11,7 +11,7 @@ faq:
   - q: "Wie werden Kunststoffpaletten hergestellt?"
     a: "Im Hochdruck-Spritzgussverfahren. Geschmolzenes Kunststoffgranulat wird in ein Stahlwerkzeug gepresst. So entsteht in einem Arbeitsgang eine vollständige, maßhaltige Palette."
   - q: "Wie viele Arten von Kunststoffpaletten gibt es?"
-    a: "Q-Pall bietet rund 130 Ausführungen in neun Größen, von 600 x 400 mm bis 1300 x 1100 mm, in Light, Medium und Heavy. Sehen Sie sich das [gesamte Sortiment](@pallets) an."
+    a: "Q-Pall bietet rund 125 Ausführungen in neun Größen, von 600 x 400 mm bis 1300 x 1100 mm, in Light, Medium und Heavy. Sehen Sie sich das [gesamte Sortiment](@pallets) an."
   - q: "Warum sind Kunststoffpaletten sicherer im Einsatz?"
     a: "Sie haben keine Nägel, Splitter oder losen Bretter. Sie nehmen keine Feuchtigkeit auf, schimmeln nicht und sind frei von Schädlingen, daher ist keine Behandlung nach ISPM 15 nötig. Dank ihrer festen Abmessungen verursachen sie weniger Störungen in automatisierten Systemen."
   - q: "Warum sind Kunststoffpaletten wirtschaftlich?"

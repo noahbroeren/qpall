@@ -13,7 +13,7 @@ faq:
   - q: "Ist eine Kunststoffpalette teurer als eine Holzpalette?"
     a: "Pro Stück ist eine Kunststoffpalette oft teurer. Sie hält aber viel länger, beschädigt Ihre Ladung nicht und muss weder repariert noch behandelt werden. Pro Umlauf ist Kunststoff dadurch oft günstiger. Lesen Sie auch [Kunststoff- oder Holzpaletten](@guide-wood)."
   - q: "Ist der Transport im Preis enthalten?"
-    a: "Ja. In Ihrem Angebot steht ein individueller Preis, inklusive Lieferung aus einem Werk, in dem Ihre Palette verfügbar ist, möglichst nah bei Ihnen. Möchten Sie die Paletten lieber selbst abholen? Dann steht im Angebot, in welchem Werk das möglich ist. Da wir in sechs europäischen Werken produzieren, ist die Entfernung zu Ihnen meist kurz. Das hält die Transportkosten niedrig."
+    a: "Ja. In Ihrem Angebot steht ein individueller Preis, inklusive Lieferung aus einem Werk, in dem Ihre Palette verfügbar ist, möglichst nah bei Ihnen. Möchten Sie die Paletten lieber selbst abholen? Dann steht im Angebot, in welchem Werk das möglich ist. Da wir in fünf europäischen Werken produzieren, ist die Entfernung zu Ihnen meist kurz. Das hält die Transportkosten niedrig."
   - q: "Bekomme ich bei größeren Mengen Rabatt?"
     a: "Ihr Preis hängt von der Menge und der Lieferart ab, zum Beispiel pro Stapel oder pro komplette Lkw-Ladung. Fordern Sie ein Angebot für einen individuellen Preis an."
 ---
@@ -42,7 +42,7 @@ Bei größeren Mengen und kompletten Lkw-Ladungen sinken die Kosten pro Palette.
 
 ### 4. Entfernung zum Werk
 
-Der Transport macht einen erheblichen Teil der Kosten aus. Q-Pall produziert in [sechs europäischen Werken](@about-local), daher ist die Entfernung zu Ihnen meist gering. Bei jedem Produkt sehen Sie, an welchen Standorten es hergestellt wird.
+Der Transport macht einen erheblichen Teil der Kosten aus. Q-Pall produziert in [fünf europäischen Werken](@about-local), daher ist die Entfernung zu Ihnen meist gering. Bei jedem Produkt sehen Sie, an welchen Standorten es hergestellt wird.
 
 ## Kosten pro Umlauf berechnen
 

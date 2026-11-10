@@ -1,10 +1,10 @@
 ---
 id: about-local
-title: "Local production in 6 European factories – Q-Pall"
-description: "Q-Pall makes plastic pallets in Balk, Ribe, Marktoberdorf, Nantes, Lleida and Chesterfield. Within 600 km of the customer: less transport and CO₂."
+title: "Local production in 5 European factories – Q-Pall"
+description: "Q-Pall makes plastic pallets in Balk, Ribe, Marktoberdorf, Nantes and Lleida. Within 600 km of the customer: less transport and CO₂."
 eyebrow: "Act global, produce local"
 h1: "Local **production**"
-lead: "We produce in six factories spread across Europe. This means we are almost always within 600 kilometres of our customers. That saves transport, costs and CO₂."
+lead: "We produce in five factories spread across Europe. This means we are almost always within 600 kilometres of our customers. That saves transport, costs and CO₂."
 ---
 
 ## Why produce locally?
@@ -22,7 +22,6 @@ A mould is the tool in which we injection-mould a pallet. Instead of driving pal
 - **Marktoberdorf (Germany)**, in Bavaria.
 - **Nantes (France).**
 - **Lleida (Spain).**
-- **Chesterfield (United Kingdom)**, our sixth and newest factory.
 
 Our head office, European operations centre and storage are in **Veghel**, in North Brabant. Collecting or delivering yourself? [Register your transport in advance](@transport).
 

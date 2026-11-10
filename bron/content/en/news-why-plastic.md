@@ -17,7 +17,7 @@ faq:
 - q: "Are plastic pallets really sustainable?"
   a: "Yes, if they last a long time and are recycled afterwards. Our standard pallets are made from nearly 100% recycled plastic and are fully recyclable at the end of their life."
 published: '2021-12-10'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In short**
 >
@@ -46,7 +46,7 @@ Per unit, a plastic pallet is often more expensive than a wooden one. But it las
 
 Read more in [what does a plastic pallet cost?](@guide-prices)
 
-If you choose new pallets, you can pick from around 130 versions in nine sizes. Want your pallets to be recognisable? With [custom options](@about-custom), we adapt an existing model, for example with your logo or your own colour.
+If you choose new pallets, you can pick from around 125 versions in nine sizes. Want your pallets to be recognisable? With [custom options](@about-custom), we adapt an existing model, for example with your logo or your own colour.
 
 Is budget your main concern? Then choose [used plastic pallets](@used): through Q-Used we sell inspected pallets that are up to 40% cheaper than new ones. Because plastic pallets last so long, they are often still in good condition.
 
@@ -54,7 +54,7 @@ Is budget your main concern? Then choose [used plastic pallets](@used): through 
 
 Many people associate plastic with pollution. With pallets, the story is different. We make our standard pallets from nearly 100% recycled plastic, a mix of HDPE and PP from sources such as old crates, caps and packaging.
 
-A plastic pallet lasts for many years. At the end of its life it is fully recyclable: we take it back and grind it into raw material for new pallets. We also produce in six factories across Europe, close to our customers.
+A plastic pallet lasts for many years. At the end of its life it is fully recyclable: we take it back and grind it into raw material for new pallets. We also produce in five factories across Europe, close to our customers.
 
 Read more about our approach to [sustainability](@about-sustainability).
 

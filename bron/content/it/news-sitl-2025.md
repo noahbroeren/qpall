@@ -10,7 +10,7 @@ lead: "Q-Pall ha partecipato al SITL 2025 di Parigi insieme al partner BacLand. 
 img_alt: "Rendering 3D dello stand Q-Pall con un grande schermo che mostra una tartaruga marina e la scritta «Pallets with a purpose»"
 reading: 2
 published: '2025-04-10'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In breve**
 >
@@ -31,7 +31,7 @@ Allo stand abbiamo presentato la nostra gamma in tre classi di portata, dai pall
 
 ## La storia dietro lo stand
 
-Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%, una miscela di HDPE e PP. Li produciamo in sei stabilimenti distribuiti in Europa, così quasi ogni cliente si trova a meno di 600 chilometri da uno stabilimento. Gli stampi viaggiano, i pallet no: installiamo lo stampo il più vicino possibile al cliente. Scoprite di più sulla nostra [produzione locale](@about-local).
+Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%, una miscela di HDPE e PP. Li produciamo in cinque stabilimenti distribuiti in Europa, così quasi ogni cliente si trova a meno di 600 chilometri da uno stabilimento. Gli stampi viaggiano, i pallet no: installiamo lo stampo il più vicino possibile al cliente. Scoprite di più sulla nostra [produzione locale](@about-local).
 
 I visitatori hanno potuto parlare con il nostro team delle loro esigenze: ridurre le emissioni di CO₂, automatizzare i processi o trasportare in modo più efficiente. I pallet in plastica hanno dimensioni stabili e un peso costante. Per questo sono adatti all’[automazione e agli AGV](@guide-automation).
 

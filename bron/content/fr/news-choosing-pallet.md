@@ -17,7 +17,7 @@ faq:
 - q: "Une palette plastique coûte-t-elle plus cher qu’une palette en bois ?"
   a: "Le prix d’achat est souvent un peu plus élevé. Une palette plastique dure toutefois plus longtemps et demande moins d’entretien. Le coût sur toute la durée de vie est donc souvent plus bas."
 published: '2023-04-12'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En bref**
 >
@@ -43,7 +43,7 @@ Nos palettes sont réparties en trois classes de charge. Les palettes Light sont
 
 ## Les dimensions : la palette convient-elle au chargement et au transport ?
 
-La palette doit être assez grande pour bien supporter votre chargement et le transporter en toute sécurité. Vos moyens de transport et vos rayonnages déterminent aussi le format : les palettes doivent tenir dans votre camion, votre remorque ou votre conteneur. En Europe, le 1200 x 800 mm est la norme. Notre gamme compte environ 130 versions en neuf formats, du 600 x 400 au 1300 x 1100 mm. Notre aperçu des [formats de palettes](@guide-sizes) les présente tous.
+La palette doit être assez grande pour bien supporter votre chargement et le transporter en toute sécurité. Vos moyens de transport et vos rayonnages déterminent aussi le format : les palettes doivent tenir dans votre camion, votre remorque ou votre conteneur. En Europe, le 1200 x 800 mm est la norme. Notre gamme compte environ 125 versions en neuf formats, du 600 x 400 au 1300 x 1100 mm. Notre aperçu des [formats de palettes](@guide-sizes) les présente tous.
 
 ## Matériau et poids
 

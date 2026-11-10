@@ -15,9 +15,9 @@ faq:
 - q: "Sind Kunststoffpaletten leichter als Holzpaletten?"
   a: "Oft ja, je nach Typ. Light-Paletten sind viel leichter als Holz. Heavy-Paletten wiegen ca. 17 bis 29 kg, also etwa so viel wie eine Europalette aus Holz mit rund 25 kg."
 - q: "Wie trägt lokale Produktion zur grünen Logistik bei?"
-  a: "In der Palettenbranche entsteht der größte Teil der CO₂-Emissionen durch den Transport. Wir produzieren in sechs europäischen Werken, sodass fast jeder Kunde im Umkreis von 600 Kilometern um ein Werk liegt."
+  a: "In der Palettenbranche entsteht der größte Teil der CO₂-Emissionen durch den Transport. Wir produzieren in fünf europäischen Werken, sodass fast jeder Kunde im Umkreis von 600 Kilometern um ein Werk liegt."
 published: '2023-09-11'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **Kurz gesagt**
 >
@@ -25,7 +25,7 @@ updated: '2026-11-02'
 > * Kunststoffpaletten sind oft leichter als Holz, vor allem in der Klasse Light. Das spart Kraftstoff.
 > * Sie halten viele Jahre und sind danach vollständig recycelbar.
 > * Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff: 34.500 Tonnen im Jahr 2025.
-> * Lokale Produktion in sechs europäischen Werken begrenzt den Transport der Paletten selbst.
+> * Lokale Produktion in fünf europäischen Werken begrenzt den Transport der Paletten selbst.
 
 ## Was ist grüne Logistik?
 
@@ -63,6 +63,6 @@ Kunststoffpaletten sind in der Anschaffung oft teurer als Holzpaletten. Über di
 
 Unsere Standardpaletten fertigen wir aus fast 100 % recyceltem Kunststoff. 2025 haben wir 34.500 Tonnen recycelten Kunststoff verarbeitet, rund 1.475 volle Lkw-Ladungen. Das hilft, die Menge an Kunststoffabfall zu verringern, die sonst auf Deponien, in Verbrennungsanlagen oder in den Ozeanen landen würde.
 
-Außerdem produzieren wir [lokal](@about-local), in sechs Werken, verteilt über ganz Europa. In der Palettenbranche entsteht der größte Teil der CO₂-Emissionen durch den Transport. Weil fast jeder Kunde im Umkreis von 600 Kilometern um ein Q-Pall-Werk liegt, bleiben die Transportwege kurz.
+Außerdem produzieren wir [lokal](@about-local), in fünf Werken, verteilt über ganz Europa. In der Palettenbranche entsteht der größte Teil der CO₂-Emissionen durch den Transport. Weil fast jeder Kunde im Umkreis von 600 Kilometern um ein Q-Pall-Werk liegt, bleiben die Transportwege kurz.
 
 Sie möchten wissen, welche Paletten am besten zu Ihrer grünen Logistik passen? [Fordern Sie ein Angebot an](@quote). In der Regel erhalten Sie innerhalb eines Werktags einen individuellen Preis.

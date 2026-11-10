@@ -10,7 +10,7 @@ lead: "En mars 2026, les événements au Moyen-Orient ont mis la logistique mond
 img_alt: "Hautes piles de palettes plastique orange dans un entrepôt"
 reading: 2
 published: '2026-03-26'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En bref**
 >
@@ -25,7 +25,7 @@ Au printemps 2026, les événements au Moyen-Orient ont eu un impact net sur la 
 
 ## Une position européenne stable
 
-Pendant cette période, Q-Pall a opéré depuis une position relativement stable. Notre production et nos achats se font entièrement en Europe : nous fabriquons nos palettes dans [six usines réparties en Europe](@about-local) et achetons la matière recyclée dans la région autant que possible.
+Pendant cette période, Q-Pall a opéré depuis une position relativement stable. Notre production et nos achats se font entièrement en Europe : nous fabriquons nos palettes dans [cinq usines réparties en Europe](@about-local) et achetons la matière recyclée dans la région autant que possible.
 
 > « Cela nous rend nettement moins dépendants des flux intercontinentaux de matières premières et nous permet de réagir plus rapidement aux changements si nécessaire. »
 

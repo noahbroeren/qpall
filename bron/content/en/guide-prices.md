@@ -13,7 +13,7 @@ faq:
   - q: "Is a plastic pallet more expensive than a wooden pallet?"
     a: "Per unit, a plastic pallet is often more expensive. But it lasts much longer, does not damage your load and does not need to be repaired or treated. As a result, plastic is often cheaper per trip. Also read [plastic or wooden pallets](@guide-wood)."
   - q: "Is transport included in the price?"
-    a: "Yes. Your quote contains a tailored price, including delivery from a factory where your pallet is available, as close to you as possible. Would you rather collect the pallets yourself? Then the quote states at which factory that is possible. Because we produce in six European factories, the distance to you is usually short. That keeps transport costs low."
+    a: "Yes. Your quote contains a tailored price, including delivery from a factory where your pallet is available, as close to you as possible. Would you rather collect the pallets yourself? Then the quote states at which factory that is possible. Because we produce in five European factories, the distance to you is usually short. That keeps transport costs low."
   - q: "Do I get a discount on larger quantities?"
     a: "Your price depends on the quantity and the delivery method, for example per stack or per full truckload. Request a quote for a tailored price."
 ---
@@ -42,7 +42,7 @@ With larger quantities and full truckloads, the cost per pallet goes down. The p
 
 ### 4. Distance to the factory
 
-Transport is a significant part of the cost. Q-Pall produces in [six European factories](@about-local), so the distance to you is usually small. Each product shows the locations where it is made.
+Transport is a significant part of the cost. Q-Pall produces in [five European factories](@about-local), so the distance to you is usually small. Each product shows the locations where it is made.
 
 ## Calculate the cost per trip
 

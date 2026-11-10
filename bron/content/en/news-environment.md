@@ -17,13 +17,13 @@ faq:
 - q: "Does the PPWR also apply to pallets?"
   a: "Yes. Pallets are transport packaging and fall under the European packaging regulation, which has applied since 12 August 2026. Q-Pall has a PPWR declaration of conformity for each pallet group; for most models you can download it on the product page."
 published: '2022-01-09'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In short**
 >
 > * When choosing a pallet, function comes first, but environmental impact matters more and more.
 > * A pallet’s carbon footprint arises mainly from the raw material, production and transport.
-> * We make our standard pallets from nearly 100% recycled plastic, in six factories close to our customers.
+> * We make our standard pallets from nearly 100% recycled plastic, in five factories close to our customers.
 > * Reuse and recycling at the end of the pallet’s life reduce the impact further.
 > * Since 12 August 2026, the European packaging regulation PPWR has applied, to pallets as well.
 
@@ -43,7 +43,7 @@ For a product such as a pallet, all the greenhouse gases needed to make it are c
 
 * **Raw material.** Extracting and producing new raw materials takes a lot of energy. We make our standard pallets from nearly 100% recycled plastic, a mix of HDPE and PP. This way, we replace new raw material with plastic that already exists.
 * **Production.** When developing new pallets, we apply strict design targets for energy and material efficiency.
-* **Transport.** In the pallet industry, most CO₂ emissions come from transport. That is why we produce [locally](@about-local), in six factories spread across Europe. Almost every customer is within 600 kilometres of a Q-Pall factory.
+* **Transport.** In the pallet industry, most CO₂ emissions come from transport. That is why we produce [locally](@about-local), in five factories spread across Europe. Almost every customer is within 600 kilometres of a Q-Pall factory.
 * **End of life.** At the end of their life, our pallets are fully recyclable. The material becomes raw material for new pallets.
 
 ## How Q-Pall uses the carbon footprint

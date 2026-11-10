@@ -1,7 +1,7 @@
 ---
 id: pallets
 title: "Palette plastique en direct du fabricant - Q-Pall"
-description: "Palettes plastique en direct du fabricant : environ 130 versions, de Light à Heavy, issues de six usines européennes. Demandez un devis sans engagement."
+description: "Palettes plastique en direct du fabricant : environ 125 versions, de Light à Heavy, issues de cinq usines européennes. Demandez un devis sans engagement."
 eyebrow: "Gamme de produits"
 h1: "Palettes plastique **en direct du fabricant**"
 lead: "De la palette export emboîtable et légère à la palette de rayonnage lourde jusqu’à 2.000 kg. Filtrez par format, capacité de charge et version. Pour chaque version, vous voyez toutes les caractéristiques."
@@ -29,7 +29,7 @@ why:
       t: "Plastique recyclé"
       d: "Recyclé à près de 100 % et entièrement recyclable en fin de vie."
     - icon: "factory"
-      t: "Six usines européennes"
+      t: "Cinq usines européennes"
       d: "Une production locale : vous payez moins de kilomètres de transport."
     - icon: "scale"
       t: "Dimensions stables, poids constant"
@@ -41,7 +41,7 @@ why:
 
 ## Des palettes plastique pour chaque application
 
-Q-Pall développe et produit exclusivement des palettes plastique, et ce depuis 2005. Cette spécialisation se retrouve dans la gamme : environ 130 versions en neuf formats, de la compacte [palette display 600 x 400 mm](@size-600x400) à la grande [1300 x 1100 mm pour l’industrie chimique](@size-1300x1100). Chaque modèle est conçu pour une mission précise : transport, stockage, export, pooling ou logistique automatisée.
+Q-Pall développe et produit exclusivement des palettes plastique, et ce depuis 2005. Cette spécialisation se retrouve dans la gamme : environ 125 versions en neuf formats, de la compacte [palette display 600 x 400 mm](@size-600x400) à la grande [1300 x 1100 mm pour l’industrie chimique](@size-1300x1100). Chaque modèle est conçu pour une mission précise : transport, stockage, export, pooling ou logistique automatisée.
 
 ### Choisissez d’abord le format
 

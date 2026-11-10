@@ -10,7 +10,7 @@ lead: "In March 2026, developments in the Middle East put global logistics under
 img_alt: "Tall stacks of orange plastic pallets in a warehouse"
 reading: 2
 published: '2026-03-26'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In short**
 >
@@ -25,7 +25,7 @@ In spring 2026, developments in the Middle East had a clear impact on global log
 
 ## A stable European position
 
-During that period, Q-Pall operated from a relatively stable position. Our production and sourcing take place entirely within Europe: we make our pallets in [six factories across Europe](@about-local) and buy recycled material in the region wherever possible.
+During that period, Q-Pall operated from a relatively stable position. Our production and sourcing take place entirely within Europe: we make our pallets in [five factories across Europe](@about-local) and buy recycled material in the region wherever possible.
 
 > "This makes us considerably less dependent on intercontinental raw material flows and enables us to respond more quickly to changes where necessary."
 

@@ -1,7 +1,7 @@
 ---
 id: pallets
 title: "Pallet in plastica direttamente dal produttore - Q-Pall"
-description: "Pallet in plastica direttamente dal produttore: circa 130 versioni, da Light a Heavy, da sei stabilimenti europei. Richiedete un preventivo senza impegno."
+description: "Pallet in plastica direttamente dal produttore: circa 125 versioni, da Light a Heavy, da cinque stabilimenti europei. Richiedete un preventivo senza impegno."
 eyebrow: "Gamma prodotti"
 h1: "Pallet in plastica **direttamente dal produttore**"
 lead: "Dal pallet da esportazione leggero e incastrabile al pallet pesante per scaffalatura fino a 2.000 kg. Filtrate per dimensione, portata e versione. Per ogni versione trovate le specifiche complete."
@@ -29,7 +29,7 @@ why:
       t: "Plastica riciclata"
       d: "Riciclata quasi al 100% e completamente riciclabile a fine vita."
     - icon: "factory"
-      t: "Sei stabilimenti europei"
+      t: "Cinque stabilimenti europei"
       d: "Produzione locale, quindi pagate meno chilometri di trasporto."
     - icon: "scale"
       t: "Dimensioni stabili, peso costante"
@@ -41,7 +41,7 @@ why:
 
 ## Pallet in plastica per ogni applicazione
 
-Q-Pall sviluppa e produce esclusivamente pallet in plastica, e lo fa dal 2005. Questa specializzazione si vede nella gamma: circa 130 versioni in nove dimensioni, dal compatto [pallet espositore da 600 x 400 mm](@size-600x400) al grande [1300 x 1100 mm per l’industria chimica](@size-1300x1100). Ogni modello è progettato per un compito preciso: trasporto, stoccaggio, esportazione, pooling o logistica automatizzata.
+Q-Pall sviluppa e produce esclusivamente pallet in plastica, e lo fa dal 2005. Questa specializzazione si vede nella gamma: circa 125 versioni in nove dimensioni, dal compatto [pallet espositore da 600 x 400 mm](@size-600x400) al grande [1300 x 1100 mm per l’industria chimica](@size-1300x1100). Ogni modello è progettato per un compito preciso: trasporto, stoccaggio, esportazione, pooling o logistica automatizzata.
 
 ### Scegliete prima la dimensione
 

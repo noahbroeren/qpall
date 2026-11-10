@@ -1,12 +1,12 @@
 ---
 id: news-brexit
 title: "Brexit : palettes plastique et Royaume-Uni – Q-Pall"
-description: "Depuis le Brexit, les palettes en bois échangées avec le Royaume-Uni doivent respecter l’ISPM 15, pas les palettes plastique. Q-Pall produit aussi au R.-U."
+description: "Depuis le Brexit, les palettes en bois échangées avec le Royaume-Uni doivent respecter l’ISPM 15. Les palettes plastique, non : ni traitement, ni marquage."
 eyebrow: "Actualités"
 tag: "Supply chain"
 crumb: "Les palettes après le Brexit"
 h1: "Brexit et palettes : **quelles règles pour les échanges avec le Royaume-Uni ?**"
-lead: "Depuis le Brexit, le Royaume-Uni est un pays hors UE pour les palettes. Les palettes en bois doivent donc respecter l’ISPM 15, pas les palettes plastique. Et Q-Pall fabrique des palettes plastique au Royaume-Uni même, à Chesterfield."
+lead: "Depuis le Brexit, le Royaume-Uni est un pays hors UE pour les palettes. Les palettes en bois doivent donc respecter l’ISPM 15, pas les palettes plastique."
 img_alt: "Panneau dans le style du métro londonien portant le mot Brexit, devant un drapeau britannique"
 reading: 3
 faq:
@@ -17,14 +17,13 @@ faq:
 - q: "Quel format de palette est courant au Royaume-Uni ?"
   a: "Au Royaume-Uni, on utilise beaucoup la palette industrielle de 1200 x 1000 mm. Nous fabriquons nos palettes export notamment en 1200 x 1000 mm et en 1200 x 800 mm."
 published: '2022-01-13'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En bref**
 >
 > * Le Royaume-Uni a quitté l’UE le 31 janvier 2020. La période de transition a duré jusqu’au 31 décembre 2020.
 > * Depuis, les palettes en bois échangées entre l’UE et le Royaume-Uni doivent respecter l’ISPM 15 : traitées et marquées.
 > * Les palettes plastique ne sont pas soumises à l’ISPM 15 et ne nécessitent ni traitement ni marquage.
-> * Q-Pall dispose d’une usine à Chesterfield et produit donc aussi au Royaume-Uni même.
 
 ## Du référendum à la sortie
 
@@ -52,11 +51,9 @@ Ce que cela vous apporte dans vos échanges avec le Royaume-Uni :
 * **Le bon format.** Au Royaume-Uni, la palette industrielle de [1200 x 1000 mm](@size-1200x1000) est courante.
 * **Circulaire.** Nos palettes standard sont en plastique recyclé à près de 100 % et entièrement recyclables en fin de vie.
 
-## Q-Pall produit aussi au Royaume-Uni
+## Palettes plastique Q-Pall pour le Royaume-Uni
 
-Q-Pall fabrique des palettes plastique dans six usines : Balk (Pays-Bas), Ribe (Danemark), Marktoberdorf (Allemagne), Nantes (France), Lleida (Espagne) et Chesterfield (Royaume-Uni). Presque tous nos clients se trouvent à moins de 600 kilomètres de l’une de nos usines.
-
-Notre approche : les moules voyagent, pas les palettes. Nous installons le moule au plus près du client. Pour les clients au Royaume-Uni, il peut s’agir de l’usine de Chesterfield : des transports courts et aucun passage de frontière pour les palettes elles-mêmes. En savoir plus sur la [production locale](@about-local).
+Q-Pall fabrique des palettes plastique dans cinq usines réparties en Europe. Notre approche : les moules voyagent, pas les palettes. Nous livrons depuis une usine où votre palette est disponible, au plus près de chez vous. En savoir plus sur la [production locale](@about-local).
 
 Vous avez besoin de plus petites quantités ? Adressez-vous à un [distributeur près de chez vous](@dealers). Au Royaume-Uni, nous travaillons notamment avec le distributeur Goplasticpallets.com.
 

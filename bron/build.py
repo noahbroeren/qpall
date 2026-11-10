@@ -52,6 +52,36 @@ def model_sort_key(m):
             m['support']['type'] != 'feet', m['support']['n'], m['H'])
 
 
+# update 45: draft and removed articles (site_config.DRAFT_SKUS / REMOVED_SKUS) leave before anything else; a family
+# without articles disappears. The family's ranges and locations are recalculated from the articles that remain.
+from site_config import DRAFT_SKUS, REMOVED_SKUS
+HIDDEN_SKUS = DRAFT_SKUS | REMOVED_SKUS
+
+
+def _refamily(fam):
+    vs = fam['variants']
+    def rng(k):
+        vals = [v[k] for v in vs if v[k] is not None]
+        return [min(vals), max(vals)] if vals else None
+    if fam['primary'] not in {v['sku'] for v in vs}:
+        fam['primary'] = sorted(vs, key=lambda v: (v['loc'] is None, v['price'] or 1e9, v['sku']))[0]['sku']
+    priced = [v['price'] for v in vs if v['price']]
+    fam.update({'static': rng('static'), 'dynamic': rng('dynamic'), 'racking': rng('racking'), 'weight': rng('weight'),
+                'height': rng('H'), 'rackable': any(v['racking'] for v in vs),
+                'price_from': min(priced) if priced else None, 'price_to': max(priced) if priced else None,
+                'locations': [c for c in 'BRMNLV' if any(v['loc'] == c for v in vs)],
+                'ppwr': sorted(set(pg for v in vs for pg in v['ppwr']))})
+
+
+for _fam in MODELS:
+    if any(v['sku'] in HIDDEN_SKUS for v in _fam['variants']):
+        _fam['variants'] = [v for v in _fam['variants'] if v['sku'] not in HIDDEN_SKUS]
+        if _fam['variants']:
+            _refamily(_fam)
+MODELS = [f for f in MODELS if f['variants']]
+DATA['models'] = MODELS
+assert not any(v['loc'] == 'C' for f in MODELS for v in f['variants']), 'an article with production location Chesterfield is on the site'
+
 MODELS.sort(key=model_sort_key)
 PC.assign_names(MODELS)          # names and slugs per model family (the family's own URL stays the same)
 
@@ -719,10 +749,10 @@ for _m in MODELS:
 
 
 # Organization (every page, via the same @id) and ContactPage texts per language, as supplied by iClicks (23-10-2026):
-# data/schema-organization.json. Originally five sites without Chesterfield (iClicks / E-E-A-T task 2);
-# Noah 27-10-2026: there are six, Chesterfield (GB) included.
+# data/schema-organization.json. Five production sites (update 45, decision Q-Pall/Noah 10-11-2026: Chesterfield
+# is no longer on the site; between 27 Oct and 10 Nov 2026 it was listed as the sixth).
 ORG_TXT = json.load(open(os.path.join(ROOT, 'data/schema-organization.json'), encoding='utf-8'))
-ORG_SITES = [('Balk', 'NL'), ('Ribe', 'DK'), ('Marktoberdorf', 'DE'), ('Nantes', 'FR'), ('Lleida', 'ES'), ('Chesterfield', 'GB')]   # six production sites (Noah, 27-10-2026)
+ORG_SITES = [('Balk', 'NL'), ('Ribe', 'DK'), ('Marktoberdorf', 'DE'), ('Nantes', 'FR'), ('Lleida', 'ES')]   # five production sites (update 45)
 
 
 def org_ld(lang):
@@ -1267,7 +1297,7 @@ def calc_table(lang):
                 else:
                     cells.append(f'{fmt_int(min(vals), lang)}\u2013{fmt_int(max(vals), lang)}')
             key = f'{L}x{W}'
-            rows.append({'size': f'{L}\u00a0x\u00a0{W}\u00a0mm', 'nick': t['size_nick'].get(key) or t['size_nick'].get(f'{W}x{L}') or (t['calc_ui']['sub_us'] if key == '1220x1020' else ''),
+            rows.append({'size': f'{L}\u00a0x\u00a0{W}\u00a0mm', 'nick': t['size_nick'].get(key) or t['size_nick'].get(f'{W}x{L}') or '',
                          'kind': t['calc_tbl'][kind], 'n': len(grp), 'cells': cells})
     for i, r in enumerate(rows):      # the size cell spans the nestable + stackable rows of that size
         r['span'] = 0 if i and rows[i - 1]['size'] == r['size'] else sum(1 for x in rows if x['size'] == r['size'])

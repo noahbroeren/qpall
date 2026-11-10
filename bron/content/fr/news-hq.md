@@ -10,14 +10,14 @@ lead: "Début 2022, la construction du nouveau siège européen de Q-Pall à Veg
 img_alt: "Le siège de Q-Pall à Veghel : un bâtiment gris foncé avec un avant-toit orange et de grandes façades vitrées"
 reading: 2
 published: '2022-01-19'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En bref**
 >
 > * Début 2022, le nouveau siège européen de Q-Pall à Veghel, le long de l’A50, était achevé.
 > * Le bâtiment abrite le siège, le centre opérationnel européen et un entrepôt de stockage.
 > * Des pieux de fondation existants, une pompe à chaleur et des panneaux solaires l’ont rendu économe en matériaux et en énergie.
-> * Les palettes elles-mêmes sont fabriquées dans six usines en Europe, au plus près du client.
+> * Les palettes elles-mêmes sont fabriquées dans cinq usines en Europe, au plus près du client.
 
 ## Un nouveau siège le long de l’A50
 
@@ -39,7 +39,7 @@ Q-Pall fabrique uniquement des palettes plastique. Notre particularité est de l
 
 Un exemple : si des palettes destinées au marché français sont fabriquées aux Pays-Bas, de nombreux camions pleins doivent faire de longs allers-retours vers le sud. Si seul le moule part vers notre usine de Nantes, la plupart de ces trajets deviennent inutiles.
 
-Q-Pall produit dans six usines : Balk (Pays-Bas), Ribe (Danemark), Marktoberdorf (Allemagne), Nantes (France), Lleida (Espagne) et Chesterfield (Royaume-Uni). Presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine. En savoir plus sur la [production locale](@about-local).
+Q-Pall produit dans cinq usines : Balk (Pays-Bas), Ribe (Danemark), Marktoberdorf (Allemagne), Nantes (France) et Lleida (Espagne). Presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine. En savoir plus sur la [production locale](@about-local).
 
 ## Toute la chaîne entre nos mains
 

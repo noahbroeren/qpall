@@ -33,6 +33,6 @@ ISPM 15 only applies to packaging material made of solid wood. Plastic is not a 
 
 ## The best plastic pallets for export
 
-For export, light [nestable export pallets](@type-export) are usually the best choice. They weigh little, which saves on freight costs, and they carry up to 2,500 kg static. Choose the size that suits your container and your destination: [1200 x 800](@size-1200x800) for Europe, [1200 x 1000](@size-1200x1000) for the UK, [1100 x 1100](@size-1100x1100) for Asia or the 1220 x 1020 mm pallets for the US.
+For export, light [nestable export pallets](@type-export) are usually the best choice. They weigh little, which saves on freight costs, and they carry up to 2,500 kg static. Choose the size that suits your container and your destination: [1200 x 800](@size-1200x800) for Europe, [1200 x 1000](@size-1200x1000) for the UK or [1100 x 1100](@size-1100x1100) for Asia.
 
 Please note: always check the current requirements of the destination country. Rules can change.

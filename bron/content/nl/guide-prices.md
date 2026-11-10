@@ -13,7 +13,7 @@ faq:
   - q: "Is een kunststof pallet duurder dan een houten pallet?"
     a: "Per stuk is een kunststof pallet vaak duurder. Maar hij gaat veel langer mee, beschadigt uw lading niet en hoeft niet gerepareerd of behandeld te worden. Per omloop is kunststof daardoor vaak voordeliger. Lees ook [kunststof of houten pallets](@guide-wood)."
   - q: "Is transport bij de prijs inbegrepen?"
-    a: "Ja. In uw offerte staat een prijs op maat, inclusief levering vanuit een fabriek waar uw pallet beschikbaar is, zo dicht mogelijk bij u. Haalt u de pallets liever zelf op? Dan staat in de offerte bij welke fabriek dat kan. Omdat we in zes Europese fabrieken produceren, is de afstand tot u meestal kort. Dat houdt de transportkosten laag."
+    a: "Ja. In uw offerte staat een prijs op maat, inclusief levering vanuit een fabriek waar uw pallet beschikbaar is, zo dicht mogelijk bij u. Haalt u de pallets liever zelf op? Dan staat in de offerte bij welke fabriek dat kan. Omdat we in vijf Europese fabrieken produceren, is de afstand tot u meestal kort. Dat houdt de transportkosten laag."
   - q: "Krijg ik korting bij grotere aantallen?"
     a: "Uw prijs hangt af van het aantal en de manier van leveren, bijvoorbeeld per stapel of per volle vrachtwagen. Vraag een offerte aan voor een prijs op maat."
 ---
@@ -42,7 +42,7 @@ Bij grotere aantallen en volle vrachtwagens dalen de kosten per pallet. Ook de m
 
 ### 4. Afstand tot de fabriek
 
-Transport is een belangrijk deel van de kosten. Q-Pall produceert in [zes Europese fabrieken](@about-local), zodat de afstand tot u meestal klein is. Bij elk product ziet u op welke locaties het wordt gemaakt.
+Transport is een belangrijk deel van de kosten. Q-Pall produceert in [vijf Europese fabrieken](@about-local), zodat de afstand tot u meestal klein is. Bij elk product ziet u op welke locaties het wordt gemaakt.
 
 ## Reken in kosten per omloop
 

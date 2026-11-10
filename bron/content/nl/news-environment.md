@@ -17,13 +17,13 @@ faq:
 - q: "Geldt de PPWR ook voor pallets?"
   a: "Ja. Pallets zijn transportverpakking en vallen onder de Europese verpakkingsverordening, die sinds 12 augustus 2026 van toepassing is. Q-Pall heeft per palletgroep een PPWR-conformiteitsverklaring; bij de meeste modellen downloadt u die op de productpagina."
 published: '2022-01-09'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In het kort**
 >
 > * Bij de keuze van een pallet telt de functie, maar steeds vaker ook de milieu-impact.
 > * De CO₂-voetafdruk van een pallet ontstaat vooral bij de grondstof, de productie en het transport.
-> * Onze standaardpallets maken we van bijna 100% gerecycled kunststof, in zes fabrieken dicht bij de klant.
+> * Onze standaardpallets maken we van bijna 100% gerecycled kunststof, in vijf fabrieken dicht bij de klant.
 > * Hergebruik en recycling aan het einde van de levensduur verkleinen de impact verder.
 > * Sinds 12 augustus 2026 geldt de Europese verpakkingsverordening PPWR, ook voor pallets.
 
@@ -43,7 +43,7 @@ Voor een product zoals een pallet worden alle broeikasgassen die nodig zijn om h
 
 * **Grondstof.** Nieuwe grondstoffen winnen en maken kost veel energie. Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE en PP. Zo vervangen we nieuwe grondstof door kunststof dat al bestaat.
 * **Productie.** Bij de ontwikkeling van nieuwe pallets hanteren we strenge ontwerpdoelen voor energie- en materiaalefficiëntie.
-* **Transport.** In de palletbranche komt het grootste deel van de CO₂-uitstoot van transport. Daarom produceren we [lokaal](@about-local), in zes fabrieken verspreid over Europa. Bijna elke klant zit binnen 600 kilometer van een Q-Pall-fabriek.
+* **Transport.** In de palletbranche komt het grootste deel van de CO₂-uitstoot van transport. Daarom produceren we [lokaal](@about-local), in vijf fabrieken verspreid over Europa. Bijna elke klant zit binnen 600 kilometer van een Q-Pall-fabriek.
 * **Einde levensduur.** Aan het einde van hun leven zijn onze pallets volledig recyclebaar. Het materiaal wordt grondstof voor nieuwe pallets.
 
 ## Hoe Q-Pall de carbon footprint gebruikt

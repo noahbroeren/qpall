@@ -10,7 +10,7 @@ lead: "Jahrelang ging die Produktion an den günstigsten Anbieter, egal wo auf d
 img_alt: "Produktionshalle mit Spritzgießmaschinen und Robotern in einem Werk von Q-Pall"
 reading: 4
 published: '2025-05-15'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **Kurz gesagt**
 >
@@ -18,7 +18,7 @@ updated: '2026-11-02'
 > * Lokale Produktion macht Sie unabhängiger von Häfen, langen Routen und geopolitischen Risiken.
 > * Lokal bezogenes Rezyklat bedeutet kürzere Lieferwege und mehr Transparenz über die Herkunft.
 > * Wer mit den Gesamtkosten (TCO) rechnet, sieht: Stabilität und Schnelligkeit zahlen sich aus.
-> * Q-Pall produziert in sechs europäischen Werken und liefert innerhalb von Tagen statt Wochen.
+> * Q-Pall produziert in fünf europäischen Werken und liefert innerhalb von Tagen statt Wochen.
 
 ## Warum globale Lieferketten anfällig sind
 
@@ -36,7 +36,7 @@ Lokale Produktion ist dabei keine vorübergehende Notlösung. Sie ist eine struk
 * **Weniger geopolitisches Risiko.** Kriege, Sanktionen und Exportbeschränkungen treffen Sie weniger, wenn näher am Standort produziert wird.
 * **Mehr Flexibilität.** Sie können schneller hoch- oder herunterfahren, wenn sich die Nachfrage plötzlich ändert.
 
-In der Praxis fertigt Q-Pall Kunststoffpaletten in [sechs Werken in sechs europäischen Ländern](@about-local). Dadurch liefern wir innerhalb von Tagen statt Wochen. Das zählt vor allem in Branchen, in denen die Liefertreue direkt darüber entscheidet, ob die Produktion weiterläuft.
+In der Praxis fertigt Q-Pall Kunststoffpaletten in [fünf Werken in fünf europäischen Ländern](@about-local). Dadurch liefern wir innerhalb von Tagen statt Wochen. Das zählt vor allem in Branchen, in denen die Liefertreue direkt darüber entscheidet, ob die Produktion weiterläuft.
 
 ### Lokales Rezyklat: kürzere Lieferwege und mehr Transparenz
 

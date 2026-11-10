@@ -80,7 +80,7 @@ offer:
 why:
   eyebrow: About Q-Pall
   title: Pallets **with a purpose**
-  text: Since 2005 Q-Pall has made only plastic pallets. Our standard pallets are made from nearly 100% recycled plastic, and with six factories in Europe we produce close to the customer.
+  text: Since 2005 Q-Pall has made only plastic pallets. Our standard pallets are made from nearly 100% recycled plastic, and with five factories in Europe we produce close to the customer.
   link: More about Q-Pall
 process:
   title: How **applying works**

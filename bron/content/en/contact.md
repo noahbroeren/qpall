@@ -8,7 +8,7 @@ lead: "A question about a pallet, a project or a delivery? Our team is happy to 
 visit:
   eyebrow: "Our head office"
   title: "Welcome to **Veghel**"
-  text: "Our head office with storage is in Veghel, the Netherlands, right by the A50 motorway. From here we coordinate the six factories and our team helps you further. Would you like to visit us? Please make an appointment first."
+  text: "Our head office with storage is in Veghel, the Netherlands, right by the A50 motorway. From here we coordinate the five factories and our team helps you further. Would you like to visit us? Please make an appointment first."
   people: "Your contacts"
   team: "Meet our team"
 faq:

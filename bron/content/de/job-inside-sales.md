@@ -80,7 +80,7 @@ offer:
 why:
   eyebrow: Über Q-Pall
   title: Paletten **mit Mission**
-  text: Q-Pall stellt seit 2005 ausschließlich Kunststoffpaletten her. Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff, und mit sechs Werken in Europa produzieren wir nah beim Kunden.
+  text: Q-Pall stellt seit 2005 ausschließlich Kunststoffpaletten her. Unsere Standardpaletten bestehen aus fast 100 % recyceltem Kunststoff, und mit fünf Werken in Europa produzieren wir nah beim Kunden.
   link: Mehr über Q-Pall
 process:
   title: So läuft **Ihre Bewerbung**

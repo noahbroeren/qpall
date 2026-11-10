@@ -10,12 +10,12 @@ lead: "Une entreprise durable conjugue People, Planet et Profit. Voici comment n
 img_alt: "Vue aérienne d’un polder avec des éoliennes au bord de l’eau"
 reading: 3
 published: '2022-01-29'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En bref**
 >
 > * Une entreprise durable tient compte de l’humain, de l’environnement et de l’économie : People, Planet et Profit.
-> * Nous produisons localement dans six usines européennes. Le moule voyage, pas les palettes.
+> * Nous produisons localement dans cinq usines européennes. Le moule voyage, pas les palettes.
 > * Nous fabriquons nos palettes standard en plastique recyclé à près de 100 % : 34.500 tonnes en 2025.
 > * En production, nous misons sur une conception allégée, moins de pertes de matière et la réutilisation des chutes de production.
 > * EcoVadis évalue nos performances de manière indépendante. En octobre 2026, nous avons de nouveau obtenu le bronze.
@@ -32,7 +32,7 @@ Produire et transporter des palettes consomme de l’énergie. La combustion de 
 
 Dans le secteur de la palette, la majeure partie des émissions de CO₂ provient du transport. Un camion rempli de palettes transporte surtout de l’air. C’est pourquoi nous installons le moule d’une palette au plus près du client. Ainsi, les palettes elles-mêmes n’ont pas à parcourir de longues distances.
 
-Nous produisons dans six usines : à Balk, Ribe, Marktoberdorf, Nantes, Lleida et Chesterfield. Presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine Q-Pall. Cela économise beaucoup de kilomètres, d’émissions de CO₂ et de frais de transport. Pour en savoir plus, voyez notre page [production locale](@about-local).
+Nous produisons dans cinq usines : à Balk, Ribe, Marktoberdorf, Nantes et Lleida. Presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine Q-Pall. Cela économise beaucoup de kilomètres, d’émissions de CO₂ et de frais de transport. Pour en savoir plus, voyez notre page [production locale](@about-local).
 
 ## Des palettes en plastique recyclé
 

@@ -26,7 +26,7 @@ more:
   cards:
   - id: about
     t: Über Q-Pall
-    d: Seit 2005 nur Kunststoffpaletten, aus sechs europäischen Werken.
+    d: Seit 2005 nur Kunststoffpaletten, aus fünf europäischen Werken.
   - id: about-sustainability
     t: Nachhaltigkeit
     d: Von recyceltem Kunststoff bis zur Palette, die jahrelang hält.

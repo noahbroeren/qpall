@@ -80,7 +80,7 @@ offer:
 why:
   eyebrow: Over Q-Pall
   title: Pallets **met een doel**
-  text: Q-Pall maakt sinds 2005 alleen kunststof pallets. Onze standaardpallets zijn gemaakt van bijna 100% gerecycled kunststof, en met zes fabrieken in Europa produceren we dicht bij de klant.
+  text: Q-Pall maakt sinds 2005 alleen kunststof pallets. Onze standaardpallets zijn gemaakt van bijna 100% gerecycled kunststof, en met vijf fabrieken in Europa produceren we dicht bij de klant.
   link: Meer over Q-Pall
 process:
   title: Zo verloopt **uw sollicitatie**

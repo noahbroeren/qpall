@@ -1,12 +1,12 @@
 ---
 id: news-brexit
 title: "Brexit: pallet in plastica e Regno Unito – Q-Pall"
-description: "Dopo la Brexit i pallet in legno negli scambi con il Regno Unito devono rispettare l’ISPM 15, quelli in plastica no. Q-Pall produce anche a Chesterfield."
+description: "Dopo la Brexit i pallet in legno negli scambi con il Regno Unito devono rispettare l’ISPM 15, quelli in plastica no: nessun trattamento, nessun timbro."
 eyebrow: "Notizie"
 tag: "Supply chain"
 crumb: "I pallet dopo la Brexit"
 h1: "Brexit e pallet: **cosa vale negli scambi con il Regno Unito?**"
-lead: "Dopo la Brexit, per i pallet il Regno Unito è un paese fuori dall’UE. I pallet in legno devono quindi rispettare l’ISPM 15, quelli in plastica no. E Q-Pall produce pallet in plastica nel Regno Unito stesso, a Chesterfield."
+lead: "Dopo la Brexit, per i pallet il Regno Unito è un paese fuori dall’UE. I pallet in legno devono quindi rispettare l’ISPM 15, quelli in plastica no."
 img_alt: "Cartello in stile metropolitana di Londra con la scritta Brexit, davanti a una bandiera britannica"
 reading: 3
 faq:
@@ -17,14 +17,13 @@ faq:
 - q: "Quale formato di pallet è diffuso nel Regno Unito?"
   a: "Nel Regno Unito si usa molto il pallet industriale da 1200 x 1000 mm. Produciamo i nostri pallet da esportazione anche nei formati 1200 x 1000 mm e 1200 x 800 mm."
 published: '2022-01-13'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In breve**
 >
 > * Il Regno Unito è uscito dall’UE il 31 gennaio 2020. Il periodo di transizione è durato fino al 31 dicembre 2020.
 > * Da allora i pallet in legno negli scambi tra l’UE e il Regno Unito devono rispettare l’ISPM 15: trattati e timbrati.
 > * I pallet in plastica non rientrano nell’ISPM 15 e non richiedono trattamenti né timbri.
-> * Q-Pall ha uno stabilimento a Chesterfield e produce quindi anche nel Regno Unito stesso.
 
 ## Dal referendum all’uscita
 
@@ -52,11 +51,9 @@ Cosa vi offre negli scambi con il Regno Unito:
 * **Il formato giusto.** Nel Regno Unito è diffuso il pallet industriale da [1200 x 1000 mm](@size-1200x1000).
 * **Circolare.** I nostri pallet standard sono in plastica riciclata quasi al 100% e a fine vita sono completamente riciclabili.
 
-## Q-Pall produce anche nel Regno Unito
+## Pallet in plastica Q-Pall per il Regno Unito
 
-Q-Pall produce pallet in plastica in sei stabilimenti: Balk (Paesi Bassi), Ribe (Danimarca), Marktoberdorf (Germania), Nantes (Francia), Lleida (Spagna) e Chesterfield (Regno Unito). Quasi ogni cliente si trova entro 600 chilometri da uno dei nostri stabilimenti.
-
-Il nostro approccio: gli stampi viaggiano, i pallet no. Installiamo lo stampo il più vicino possibile al cliente. Per i clienti nel Regno Unito può essere lo stabilimento di Chesterfield: trasporti brevi e nessun passaggio di confine per i pallet stessi. Scoprite di più sulla [produzione locale](@about-local).
+Q-Pall produce pallet in plastica in cinque stabilimenti distribuiti in tutta Europa. Il nostro approccio: gli stampi viaggiano, i pallet no. Consegniamo da uno stabilimento in cui il vostro pallet è disponibile, il più vicino possibile a voi. Scoprite di più sulla [produzione locale](@about-local).
 
 Vi servono quantità più piccole? Rivolgetevi a un [rivenditore vicino a voi](@dealers). Nel Regno Unito collaboriamo, tra gli altri, con il rivenditore Goplasticpallets.com.
 

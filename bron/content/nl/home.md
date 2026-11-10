@@ -5,7 +5,7 @@ description: "Q-Pall ontwerpt pallets van gerecycled kunststof en laat ze dicht 
 hero:
   eyebrow: "Producent van duurzame pallets sinds 2005"
   h1: "Herbruikbare pallets van **gerecycled kunststof**"
-  lead: "Zo'n 130 uitvoeringen kunststof pallets, van nestbare exportpallet tot heavy duty stellingpallet. Gemaakt in zes Europese fabrieken, nooit ver van u vandaan."
+  lead: "Zo'n 125 uitvoeringen kunststof pallets, van nestbare exportpallet tot heavy duty stellingpallet. Gemaakt in vijf Europese fabrieken, nooit ver van u vandaan."
   cta1: "Bekijk alle kunststof pallets"
   cta2: "Offerte aanvragen"
   badge: "Antislip medium pallets"
@@ -40,7 +40,7 @@ intro:
   strike: ["Kratten.", "Bakken.", "Boxen."]
   final: "Pallets."
   title: "Eén product. **Alle aandacht.**"
-  text: "De meeste kunststof verpakkingsfabrikanten verdelen hun matrijzen, R&D en aandacht over kratten, bakken en containers. Wij stoppen alles in één product. Daarom heeft onze range negen maten, drie draagklassen en zo'n 130 uitvoeringen, en is een palletvraag bij Q-Pall nooit een bijzaak."
+  text: "De meeste kunststof verpakkingsfabrikanten verdelen hun matrijzen, R&D en aandacht over kratten, bakken en containers. Wij stoppen alles in één product. Daarom heeft onze range negen maten, drie draagklassen en zo'n 125 uitvoeringen, en is een palletvraag bij Q-Pall nooit een bijzaak."
   points:
     - icon: "factory"
       t: "Direct van de fabrikant"
@@ -49,7 +49,7 @@ intro:
       t: "Bijna 100% gerecycled"
       d: "Van post-consumer en industrieel kunststof, volledig recyclebaar."
     - icon: "globe"
-      t: "Zes Europese fabrieken"
+      t: "Vijf Europese fabrieken"
       d: "Bijna altijd binnen 600 kilometer van uw locatie."
   cta: "Over Q-Pall"
 range:
@@ -103,8 +103,8 @@ sustain_cta:
   btn: "Praat met een specialist"
 local:
   eyebrow: "Act global, produce local"
-  title: "Zes fabrieken. **Dicht bij de klant.**"
-  lead: "We produceren in zes fabrieken verspreid over Europa en verplaatsen matrijzen in plaats van pallets. Zo zit bijna elke klant binnen 600 kilometer van een Q-Pall-fabriek: minder transport, lagere kosten en minder CO₂."
+  title: "Vijf fabrieken. **Dicht bij de klant.**"
+  lead: "We produceren in vijf fabrieken verspreid over Europa en verplaatsen matrijzen in plaats van pallets. Zo zit bijna elke klant binnen 600 kilometer van een Q-Pall-fabriek: minder transport, lagere kosten en minder CO₂."
   note: "Veelgevraagde modellen liggen op meerdere locaties op voorraad, en een deel van onze modellen maken we in meer dan één fabriek. Zo kunnen we ook leveren als het druk is."
   cta: "Over lokaal produceren"
 sectors:
@@ -125,7 +125,7 @@ sectors:
 about:
   eyebrow: "Over Q-Pall"
   title: "De hele keten **in eigen hand**"
-  text: "Q-Pall ontwikkelt en produceert sinds 2005 uitsluitend kunststof pallets. Ontwerp, matrijzen, productie, distributie en verkoop regelen we zelf, vanuit ons hoofdkantoor in Veghel en zes fabrieken in Europa. Zo schakelen we snel en houden we de kwaliteit in eigen hand."
+  text: "Q-Pall ontwikkelt en produceert sinds 2005 uitsluitend kunststof pallets. Ontwerp, matrijzen, productie, distributie en verkoop regelen we zelf, vanuit ons hoofdkantoor in Veghel en vijf fabrieken in Europa. Zo schakelen we snel en houden we de kwaliteit in eigen hand."
   points: ["Hoofdkantoor en opslag in Veghel", "Onderdeel van de AVK Group", "Dealers in Europa en de Verenigde Staten"]
   cta: "Meer over Q-Pall"
   cta2: "Werken bij Q-Pall"
@@ -167,11 +167,11 @@ faq:
   - q: "Waarom kiezen voor kunststof pallets?"
     a: "Kunststof pallets gaan veel langer mee dan houten pallets, nemen geen vocht op en hebben geen splinters of spijkers. Ze hebben een vaste maat en een constant gewicht, wat belangrijk is voor automatisering. Bovendien zijn ze vrijgesteld van ISPM 15 voor export. Lees meer in [kunststof of hout](@guide-wood)."
   - q: "Zijn de pallets van Q-Pall duurzaam?"
-    a: "Ja. Onze standaardpallets zijn gemaakt van bijna 100% gerecycled kunststof en aan het einde van hun levensduur volledig recyclebaar. We produceren lokaal in zes Europese fabrieken, zodat er minder transport nodig is."
+    a: "Ja. Onze standaardpallets zijn gemaakt van bijna 100% gerecycled kunststof en aan het einde van hun levensduur volledig recyclebaar. We produceren lokaal in vijf Europese fabrieken, zodat er minder transport nodig is."
   - q: "Wat kost een kunststof pallet?"
     a: "Dat hangt af van het formaat, de draagklasse, het aantal en de leverlocatie. Een kleine displaypallet of een nestbare light pallet is het voordeligst, een heavy duty pallet met gesloten dek het duurst. [Vraag een offerte aan](@quote), dan ontvangt u meestal binnen één werkdag een prijs op maat. In onze [prijsgids](@guide-prices) leest u wat de prijs bepaalt."
   - q: "Hoe snel kan Q-Pall leveren?"
     a: "De veelgevraagde modellen hebben we op meerdere locaties op voorraad. De levertijd hangt af van model, aantal en locatie. Vraag een [offerte](@quote) aan, dan hoort u meestal binnen één werkdag wat er mogelijk is."
   - q: "Leveren jullie ook buiten Nederland?"
-    a: "Ja. We leveren in heel Europa vanuit onze fabrieken in Nederland, Denemarken, Duitsland, Frankrijk, Spanje en het Verenigd Koninkrijk, en werken met [dealers](@dealers) in Europa en de Verenigde Staten."
+    a: "Ja. We leveren in heel Europa vanuit onze fabrieken in Nederland, Denemarken, Duitsland, Frankrijk en Spanje, en werken met [dealers](@dealers) in Europa en de Verenigde Staten."
 ---

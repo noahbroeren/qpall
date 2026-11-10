@@ -8,7 +8,7 @@ lead: "Eine Frage zu einer Palette, einem Projekt oder einer Lieferung? Unser Te
 visit:
   eyebrow: "Unser Hauptsitz"
   title: "Willkommen in **Veghel**"
-  text: "Unser Hauptsitz mit Lager befindet sich in Veghel (Niederlande), direkt an der A50. Von hier aus steuern wir die sechs Werke, und unser Team hilft Ihnen weiter. Sie möchten uns besuchen? Vereinbaren Sie bitte vorab einen Termin."
+  text: "Unser Hauptsitz mit Lager befindet sich in Veghel (Niederlande), direkt an der A50. Von hier aus steuern wir die fünf Werke, und unser Team hilft Ihnen weiter. Sie möchten uns besuchen? Vereinbaren Sie bitte vorab einen Termin."
   people: "Ihre Ansprechpartner"
   team: "Lernen Sie unser Team kennen"
 faq:

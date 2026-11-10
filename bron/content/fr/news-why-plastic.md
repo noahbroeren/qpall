@@ -17,7 +17,7 @@ faq:
 - q: "Les palettes plastique sont-elles vraiment durables ?"
   a: "Oui, si elles durent longtemps et sont recyclées ensuite. Nos palettes standard sont fabriquées en plastique recyclé à près de 100 % et sont entièrement recyclables en fin de vie."
 published: '2021-12-10'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En bref**
 >
@@ -46,7 +46,7 @@ Elles n’absorbent pas l’humidité et se nettoient facilement. Les palettes d
 
 Pour en savoir plus, lisez [combien coûte une palette plastique ?](@guide-prices)
 
-Si vous choisissez des palettes neuves, vous avez le choix entre environ 130 versions en neuf formats. Vous souhaitez des palettes reconnaissables ? Avec le [sur-mesure](@about-custom), nous adaptons un modèle existant, par exemple avec votre logo ou votre propre couleur.
+Si vous choisissez des palettes neuves, vous avez le choix entre environ 125 versions en neuf formats. Vous souhaitez des palettes reconnaissables ? Avec le [sur-mesure](@about-custom), nous adaptons un modèle existant, par exemple avec votre logo ou votre propre couleur.
 
 Le budget prime ? Optez alors pour des [palettes plastique d’occasion](@used) : avec Q-Used, nous vendons des palettes contrôlées jusqu’à 40 % moins chères que des neuves. Comme les palettes plastique durent longtemps, elles sont souvent encore en bon état.
 
@@ -54,7 +54,7 @@ Le budget prime ? Optez alors pour des [palettes plastique d’occasion](@used)
 
 Beaucoup de gens associent le plastique à la pollution. Pour les palettes, c’est différent. Nous fabriquons nos palettes standard en plastique recyclé à près de 100 %, un mélange de HDPE et de PP issu notamment de vieilles caisses, de bouchons et d’emballages.
 
-Une palette plastique dure de nombreuses années. En fin de vie, elle est entièrement recyclable : nous la reprenons et la broyons pour en faire la matière première de nouvelles palettes. Nous produisons en outre dans six usines en Europe, près de nos clients.
+Une palette plastique dure de nombreuses années. En fin de vie, elle est entièrement recyclable : nous la reprenons et la broyons pour en faire la matière première de nouvelles palettes. Nous produisons en outre dans cinq usines en Europe, près de nos clients.
 
 Découvrez notre démarche de [développement durable](@about-sustainability).
 

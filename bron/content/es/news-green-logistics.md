@@ -15,9 +15,9 @@ faq:
 - q: "¿Los palets de plástico son más ligeros que los de madera?"
   a: "A menudo sí, según el tipo. Los palets Light son mucho más ligeros que la madera. Los palets Heavy pesan aproximadamente de 17 a 29 kg, más o menos lo mismo que un europalet de madera de unos 25 kg."
 - q: "¿Cómo contribuye la producción local a la logística verde?"
-  a: "En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Producimos en seis fábricas europeas, de modo que casi todos los clientes están a menos de 600 kilómetros de una fábrica."
+  a: "En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Producimos en cinco fábricas europeas, de modo que casi todos los clientes están a menos de 600 kilómetros de una fábrica."
 published: '2023-09-11'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En resumen**
 >
@@ -25,7 +25,7 @@ updated: '2026-11-02'
 > * Los palets de plástico suelen ser más ligeros que los de madera, sobre todo en la clase Light. Eso ahorra combustible.
 > * Duran muchos años y después son totalmente reciclables.
 > * Nuestros palets estándar son de plástico casi 100% reciclado: 34.500 toneladas en 2025.
-> * La producción local en seis fábricas europeas limita el transporte de los propios palets.
+> * La producción local en cinco fábricas europeas limita el transporte de los propios palets.
 
 ## ¿Qué es la logística verde?
 
@@ -63,6 +63,6 @@ En la compra, los palets de plástico suelen ser más caros que los de madera. S
 
 Fabricamos nuestros palets estándar con plástico casi 100% reciclado. En 2025 procesamos 34.500 toneladas de plástico reciclado, unos 1.475 camiones completos. Esto ayuda a reducir la cantidad de residuos plásticos que, de otro modo, acabarían en vertederos, incineradoras o en los océanos.
 
-Además, producimos [localmente](@about-local), en seis fábricas repartidas por Europa. En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Como casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall, las distancias de transporte son cortas.
+Además, producimos [localmente](@about-local), en cinco fábricas repartidas por Europa. En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Como casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall, las distancias de transporte son cortas.
 
 ¿Quiere saber qué palets encajan mejor en su logística verde? [Solicite un presupuesto](@quote). Normalmente recibirá un precio a medida en un día laborable.

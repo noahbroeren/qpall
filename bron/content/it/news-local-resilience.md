@@ -10,7 +10,7 @@ lead: "Per anni la produzione è andata a chi costava meno, ovunque nel mondo. L
 img_alt: "Reparto produttivo con presse a iniezione e robot in uno stabilimento Q-Pall"
 reading: 4
 published: '2025-05-15'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In breve**
 >
@@ -18,7 +18,7 @@ updated: '2026-11-02'
 > * Produrre localmente vi rende meno dipendenti da porti, rotte lunghe e rischi geopolitici.
 > * Un riciclato acquistato localmente significa filiere più corte e più trasparenza sull’origine.
 > * Chi ragiona in costo totale di proprietà (TCO) vede che stabilità e rapidità ripagano.
-> * Q-Pall produce in sei stabilimenti europei e consegna in pochi giorni invece che in settimane.
+> * Q-Pall produce in cinque stabilimenti europei e consegna in pochi giorni invece che in settimane.
 
 ## Perché le catene globali sono fragili
 
@@ -36,7 +36,7 @@ La produzione locale non è una soluzione d’emergenza temporanea. È una scelt
 * **Meno rischio geopolitico.** Guerre, sanzioni e restrizioni all’export vi colpiscono meno se la produzione avviene più vicino.
 * **Più flessibilità.** Potete aumentare o ridurre i volumi più rapidamente quando la domanda cambia all’improvviso.
 
-In pratica, Q-Pall realizza pallet in plastica in [sei stabilimenti in sei paesi europei](@about-local). Per questo consegniamo in pochi giorni invece che in settimane. Conta soprattutto nei settori in cui l’affidabilità delle consegne decide direttamente se la produzione continua.
+In pratica, Q-Pall realizza pallet in plastica in [cinque stabilimenti in cinque paesi europei](@about-local). Per questo consegniamo in pochi giorni invece che in settimane. Conta soprattutto nei settori in cui l’affidabilità delle consegne decide direttamente se la produzione continua.
 
 ### Riciclato locale: filiere più corte e più trasparenza
 

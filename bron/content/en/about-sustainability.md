@@ -19,7 +19,7 @@ We also look at our customers' plastic waste streams. Where possible, we process
 
 ## Less transport, less CO₂
 
-In the pallet industry, most CO₂ emissions come from transport. A truck full of pallets mainly carries air. That is why we produce [locally](@about-local), in six factories spread across Europe. Almost every customer is within 600 kilometres of a Q-Pall factory. Plastic pallets are also lighter than many wooden pallets. A lower tare weight means more load per trip and less fuel.
+In the pallet industry, most CO₂ emissions come from transport. A truck full of pallets mainly carries air. That is why we produce [locally](@about-local), in five factories spread across Europe. Almost every customer is within 600 kilometres of a Q-Pall factory. Plastic pallets are also lighter than many wooden pallets. A lower tare weight means more load per trip and less fuel.
 
 ## Built to last, then raw material again
 

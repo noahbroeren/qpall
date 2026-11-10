@@ -10,7 +10,7 @@ lead: "Im März 2026 gerieten die globale Logistik und die Lieferketten durch di
 img_alt: "Hohe Stapel orangefarbener Kunststoffpaletten in einer Lagerhalle"
 reading: 2
 published: '2026-03-26'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **Kurz gesagt**
 >
@@ -25,7 +25,7 @@ Die Entwicklungen im Nahen Osten wirkten sich im Frühjahr 2026 deutlich auf die
 
 ## Eine stabile europäische Position
 
-Q-Pall agierte in dieser Zeit aus einer relativ stabilen Position heraus. Unsere Produktion und unser Einkauf finden vollständig innerhalb Europas statt: Wir fertigen unsere Paletten in [sechs Werken in ganz Europa](@about-local) und beziehen das Rezyklat so weit wie möglich aus der Region.
+Q-Pall agierte in dieser Zeit aus einer relativ stabilen Position heraus. Unsere Produktion und unser Einkauf finden vollständig innerhalb Europas statt: Wir fertigen unsere Paletten in [fünf Werken in ganz Europa](@about-local) und beziehen das Rezyklat so weit wie möglich aus der Region.
 
 > „Dies macht uns deutlich weniger abhängig von interkontinentalen Rohstoffströmen und ermöglicht es uns, bei Bedarf schneller auf Veränderungen zu reagieren.“
 

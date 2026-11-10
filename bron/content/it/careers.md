@@ -17,7 +17,7 @@ why:
     text: Produciamo pallet in plastica riciclata quasi al 100% e aiutiamo i clienti di tutta Europa a lavorare in modo più sostenibile.
   - icon: globe
     title: Internazionale
-    text: Sei stabilimenti in Europa e clienti in tutto il mondo. Ogni giorno lavorate oltre i confini.
+    text: Cinque stabilimenti in Europa e clienti in tutto il mondo. Ogni giorno lavorate oltre i confini.
   - icon: arrow-ur
     title: Crescita
     text: Cresciamo velocemente, e voi crescete con noi. Con formazione e spazio per le vostre iniziative.

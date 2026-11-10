@@ -28,13 +28,12 @@
     { id: '1140', key: '1140x1140', v: [['QP1140LB9FR', 'nest'], ['QP1140LB3RR', 'light'], ['QP1140MB3RR', 'medium'], ['QP1140MB3R-PAS', 'medium'], ['QP1140HB3RR', 'heavy']] },
     { id: '1111', key: '1100x1100', v: [['QP1111LB9FR', 'nest'], ['QP1111LB3RR', 'light'], ['QP1111MB3R-AS', 'medium'], ['QP1111HB3RR', 'heavy']] },
     { id: '76114', key: '760x1140', v: [['QP76114LB9FR', 'nest'], ['QP76114LB3RR', 'light']] },
-    { id: '4048', key: '1220x1020', v: [['QP4048MB3RR', 'medium']] },
     { id: '1311', key: '1300x1100', v: [['QP1311MB3R-AS', 'medium'], ['QP1311HB3R-AS', 'heavy'], ['QP1311HB3R', 'heavy']] },
     { id: '6080', key: '600x800', v: [['QP6080LR3RR', 'light'], ['QP6080M6FR', 'medium'], ['QP6080HB6FR', 'heavy']] },
     { id: '6040', key: '600x400', v: [['QP6040MB4F', 'medium'], ['QP6040HB4F', 'heavy']] }
   ];
   var dim = function (z) { return z.key.replace('x', ' x '); };
-  var sub = function (z) { return z.id === '4048' ? t('sub_us') : (NICK[z.key] || ''); };
+  var sub = function (z) { return NICK[z.key] || ''; };
   var sizeOf = function (sku) { return SIZES.filter(function (z) { return z.v.some(function (v) { return v[0] === sku; }); })[0]; };
   var varOf = function (sku) { return sizeOf(sku).v.filter(function (v) { return v[0] === sku; })[0]; };
   var isNest = function (sku) { return varOf(sku)[1] === 'nest'; };

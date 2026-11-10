@@ -15,16 +15,16 @@ faq:
 - q: "Welke palletmaat past in een zeecontainer?"
   a: "Voor zeecontainers zijn vierkante pallets van 1100 x 1100 mm en pallets van 760 x 1140 mm handig. Welke maat het best past, hangt af van het type container."
 - q: "Kan Q-Pall een pallet in een afwijkende maat maken?"
-  a: "Nee, we maken geen compleet nieuwe palletontwerpen. Met zo'n 130 uitvoeringen in negen formaten is er meestal een passende maat. Wel passen we bestaande modellen aan, bijvoorbeeld met een logo of een eigen kleur."
+  a: "Nee, we maken geen compleet nieuwe palletontwerpen. Met zo'n 125 uitvoeringen in negen formaten is er meestal een passende maat. Wel passen we bestaande modellen aan, bijvoorbeeld met een logo of een eigen kleur."
 published: '2022-01-29'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In het kort**
 >
 > * De juiste palletmaat begint bij uw lading: wat het is, hoe het is verpakt en hoe groot het is.
 > * De maat moet ook passen bij uw vrachtwagens, containers en stellingen.
 > * In een geautomatiseerd magazijn moeten pallets precies de maat hebben waarop de systemen zijn ingesteld.
-> * Q-Pall heeft zo'n 130 uitvoeringen in negen formaten, van 600 x 400 tot 1300 x 1100 mm.
+> * Q-Pall heeft zo'n 125 uitvoeringen in negen formaten, van 600 x 400 tot 1300 x 1100 mm.
 
 Als u pallets nodig heeft, wilt u de juiste keuze maken. Waar gebruikt u de pallets voor, hoe zwaar is de lading en moet de pallet bijvoorbeeld hygiënisch zijn? En welke afmeting heeft u nodig? Op die laatste vraag gaan we hier in. Alle standaardmaten vindt u in ons overzicht van [palletmaten](@guide-sizes).
 
@@ -50,7 +50,7 @@ Veel klanten gebruiken pallets niet alleen voor transport, maar ook voor opslag.
 
 ## Ons assortiment en maatwerk
 
-Ons assortiment telt zo'n 130 uitvoeringen in negen formaten, van 600 x 400 tot 1300 x 1100 mm, in drie draagklassen: light, medium en heavy. Daardoor is er vrijwel altijd een passende maat.
+Ons assortiment telt zo'n 125 uitvoeringen in negen formaten, van 600 x 400 tot 1300 x 1100 mm, in drie draagklassen: light, medium en heavy. Daardoor is er vrijwel altijd een passende maat.
 
 Compleet nieuwe palletontwerpen maken we niet. Wel passen we bestaande modellen aan, bijvoorbeeld met een logo, een eigen kleur, een markering of een andere materiaalsamenstelling. Lees meer over [maatwerk](@about-custom).
 

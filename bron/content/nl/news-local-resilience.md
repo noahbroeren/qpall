@@ -10,7 +10,7 @@ lead: "Jarenlang ging productie naar de laagste bieder, waar ook ter wereld. Ver
 img_alt: "Productiehal met spuitgietmachines en robots in een fabriek van Q-Pall"
 reading: 4
 published: '2025-05-15'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In het kort**
 >
@@ -18,7 +18,7 @@ updated: '2026-11-02'
 > * Lokale productie maakt u minder afhankelijk van havens, lange routes en geopolitieke risico's.
 > * Lokaal ingekocht recyclaat betekent kortere aanvoerlijnen en beter zicht op de herkomst.
 > * Wie rekent met de totale kosten (TCO), ziet dat stabiliteit en snelheid geld opleveren.
-> * Q-Pall produceert in zes Europese fabrieken en levert binnen dagen in plaats van weken.
+> * Q-Pall produceert in vijf Europese fabrieken en levert binnen dagen in plaats van weken.
 
 ## Waarom globale ketens kwetsbaar zijn
 
@@ -36,7 +36,7 @@ Lokale productie is daarbij geen tijdelijke noodoplossing. Het is een structurel
 * **Minder geopolitiek risico.** Oorlogen, sancties en exportbeperkingen raken u minder als er dichter bij huis wordt geproduceerd.
 * **Meer flexibiliteit.** U kunt sneller op- of afschalen als de vraag plotseling verandert.
 
-In de praktijk maakt Q-Pall kunststof pallets in [zes fabrieken in zes Europese landen](@about-local). Daardoor leveren we binnen dagen in plaats van weken. Dat telt vooral in sectoren waar leverbetrouwbaarheid direct bepaalt of de productie doorloopt.
+In de praktijk maakt Q-Pall kunststof pallets in [vijf fabrieken in vijf Europese landen](@about-local). Daardoor leveren we binnen dagen in plaats van weken. Dat telt vooral in sectoren waar leverbetrouwbaarheid direct bepaalt of de productie doorloopt.
 
 ### Lokaal recyclaat: kortere aanvoer en meer transparantie
 

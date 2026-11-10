@@ -10,12 +10,12 @@ lead: "Una empresa sostenible piensa en People, Planet y Profit. Así garantizam
 img_alt: "Vista aérea de un pólder con aerogeneradores junto al agua"
 reading: 3
 published: '2022-01-29'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En resumen**
 >
 > * Una empresa sostenible tiene en cuenta a las personas, el medio ambiente y la economía: People, Planet y Profit.
-> * Producimos localmente en seis fábricas europeas. El molde viaja, los palets no.
+> * Producimos localmente en cinco fábricas europeas. El molde viaja, los palets no.
 > * Fabricamos nuestros palets estándar con plástico casi 100% reciclado: 34.500 toneladas en 2025.
 > * En la producción apostamos por un diseño ligero, menos pérdidas de material y la reutilización de los restos de producción.
 > * EcoVadis evalúa de forma independiente nuestro desempeño. En octubre de 2026 volvimos a obtener el bronce.
@@ -32,7 +32,7 @@ Producir y transportar palets consume energía. Al quemar combustibles fósiles 
 
 En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Un camión lleno de palets transporta sobre todo aire. Por eso colocamos el molde de un palet lo más cerca posible del cliente. Así, los propios palets no tienen que recorrer largas distancias.
 
-Producimos en seis fábricas: en Balk, Ribe, Marktoberdorf, Nantes, Lleida y Chesterfield. Casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall. Eso ahorra muchos kilómetros, emisiones de CO₂ y costes de transporte. Más información sobre la [producción local](@about-local).
+Producimos en cinco fábricas: en Balk, Ribe, Marktoberdorf, Nantes y Lleida. Casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall. Eso ahorra muchos kilómetros, emisiones de CO₂ y costes de transporte. Más información sobre la [producción local](@about-local).
 
 ## Palets de plástico reciclado
 

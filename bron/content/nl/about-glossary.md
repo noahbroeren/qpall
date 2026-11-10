@@ -11,7 +11,7 @@ faq:
   - q: "Hoe worden kunststof pallets geproduceerd?"
     a: "Met spuitgieten onder hoge druk. Gesmolten kunststofgranulaat wordt in een stalen matrijs geperst. Zo ontstaat in één keer een complete, maatvaste pallet."
   - q: "Hoeveel soorten kunststof pallets zijn er?"
-    a: "Q-Pall heeft zo'n 130 uitvoeringen in negen formaten, van 600 x 400 mm tot 1300 x 1100 mm, in light, medium en heavy. Bekijk het [volledige assortiment](@pallets)."
+    a: "Q-Pall heeft zo'n 125 uitvoeringen in negen formaten, van 600 x 400 mm tot 1300 x 1100 mm, in light, medium en heavy. Bekijk het [volledige assortiment](@pallets)."
   - q: "Waarom zijn kunststof pallets veiliger in gebruik?"
     a: "Ze hebben geen spijkers, splinters of losse planken. Ze nemen geen vocht op, schimmelen niet en zijn vrij van ongedierte, waardoor er geen ISPM 15-behandeling nodig is. Door de vaste maatvoering storen ze minder in geautomatiseerde systemen."
   - q: "Waarom zijn kunststof pallets kosteneffectief?"

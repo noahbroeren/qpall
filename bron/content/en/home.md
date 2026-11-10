@@ -5,7 +5,7 @@ description: "Q-Pall designs pallets made from recycled plastic and has them pro
 hero:
   eyebrow: "Manufacturer of sustainable pallets since 2005"
   h1: "Reusable pallets made from **recycled plastic**"
-  lead: "Around 130 versions of plastic pallets, from nestable export pallets to heavy-duty racking pallets. Made in six European factories, never far away from you."
+  lead: "Around 125 versions of plastic pallets, from nestable export pallets to heavy-duty racking pallets. Made in five European factories, never far away from you."
   cta1: "View all plastic pallets"
   cta2: "Request a quote"
   badge: "Anti-slip medium pallets"
@@ -40,7 +40,7 @@ intro:
   strike: ["Crates.", "Bins.", "Boxes."]
   final: "Pallets."
   title: "One product. **All our attention.**"
-  text: "Most plastic packaging manufacturers spread their moulds, R&D and attention over crates, bins and containers. We put all of it into one product. That is why our range covers nine sizes, three load classes and around 130 versions, and why a pallet question is never a sideline at Q-Pall."
+  text: "Most plastic packaging manufacturers spread their moulds, R&D and attention over crates, bins and containers. We put all of it into one product. That is why our range covers nine sizes, three load classes and around 125 versions, and why a pallet question is never a sideline at Q-Pall."
   points:
     - icon: "factory"
       t: "Direct from the manufacturer"
@@ -49,7 +49,7 @@ intro:
       t: "Nearly 100% recycled"
       d: "Made from post-consumer and industrial plastic, fully recyclable."
     - icon: "globe"
-      t: "Six European factories"
+      t: "Five European factories"
       d: "Almost always within 600 kilometres of your site."
   cta: "About Q-Pall"
 range:
@@ -103,8 +103,8 @@ sustain_cta:
   btn: "Talk to a specialist"
 local:
   eyebrow: "Act global, produce local"
-  title: "Six factories. **Close to the customer.**"
-  lead: "We produce in six factories across Europe and move moulds instead of pallets. That puts almost every customer within 600 kilometres of a Q-Pall factory: less transport, lower costs and less CO₂."
+  title: "Five factories. **Close to the customer.**"
+  lead: "We produce in five factories across Europe and move moulds instead of pallets. That puts almost every customer within 600 kilometres of a Q-Pall factory: less transport, lower costs and less CO₂."
   note: "Popular models are in stock at several locations, and some of our models are made in more than one factory. So we can keep supplying, even in busy periods."
   cta: "About local production"
 sectors:
@@ -125,7 +125,7 @@ sectors:
 about:
   eyebrow: "About Q-Pall"
   title: "The whole chain **in our own hands**"
-  text: "Since 2005, Q-Pall has developed and produced nothing but plastic pallets. We handle design, moulds, production, distribution and sales ourselves, from our head office in Veghel and six factories across Europe. That lets us move quickly and keep quality in our own hands."
+  text: "Since 2005, Q-Pall has developed and produced nothing but plastic pallets. We handle design, moulds, production, distribution and sales ourselves, from our head office in Veghel and five factories across Europe. That lets us move quickly and keep quality in our own hands."
   points: ["Head office and storage in Veghel", "Part of the AVK Group", "Dealers in Europe and the United States"]
   cta: "More about Q-Pall"
   cta2: "Working at Q-Pall"
@@ -167,11 +167,11 @@ faq:
   - q: "Why choose plastic pallets?"
     a: "Plastic pallets last much longer than wooden pallets, do not absorb moisture and have no splinters or nails. They have fixed dimensions and a constant weight, which matters for automation. They are also exempt from ISPM 15 for export. Read more in [plastic or wood](@guide-wood)."
   - q: "Are Q-Pall pallets sustainable?"
-    a: "Yes. Our standard pallets are made from nearly 100% recycled plastic and are fully recyclable at the end of their life. We produce locally in six European factories, so less transport is needed."
+    a: "Yes. Our standard pallets are made from nearly 100% recycled plastic and are fully recyclable at the end of their life. We produce locally in five European factories, so less transport is needed."
   - q: "What does a plastic pallet cost?"
     a: "That depends on the size, the load class, the quantity and the delivery location. A small display pallet or a nestable light pallet is the most affordable, a heavy-duty pallet with a closed deck the most expensive. [Request a quote](@quote) and you will usually receive a tailored price within one working day. Our [price guide](@guide-prices) explains what determines the price."
   - q: "How quickly can Q-Pall deliver?"
     a: "We keep popular models in stock at several locations. The lead time depends on model, quantity and location. [Request a quote](@quote) and we will usually tell you within one working day what is possible."
   - q: "Do you deliver outside the Netherlands?"
-    a: "Yes. We deliver throughout Europe from our factories in the Netherlands, Denmark, Germany, France, Spain and the United Kingdom, and we work with [dealers](@dealers) in Europe and the United States."
+    a: "Yes. We deliver throughout Europe from our factories in the Netherlands, Denmark, Germany, France and Spain, and we work with [dealers](@dealers) in Europe and the United States."
 ---

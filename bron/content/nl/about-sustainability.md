@@ -19,7 +19,7 @@ We kijken ook naar de kunststofafvalstromen van onze klanten. Waar mogelijk verw
 
 ## Minder transport, minder CO₂
 
-In de palletbranche komt het grootste deel van de CO₂-uitstoot van transport. Een vrachtwagen vol pallets vervoert vooral lucht. Daarom produceren we [lokaal](@about-local), in zes fabrieken verspreid over Europa. Bijna elke klant zit binnen 600 kilometer van een Q-Pall-fabriek. Bovendien zijn kunststof pallets lichter dan veel houten pallets. Een lager eigen gewicht betekent meer lading per rit en minder brandstof.
+In de palletbranche komt het grootste deel van de CO₂-uitstoot van transport. Een vrachtwagen vol pallets vervoert vooral lucht. Daarom produceren we [lokaal](@about-local), in vijf fabrieken verspreid over Europa. Bijna elke klant zit binnen 600 kilometer van een Q-Pall-fabriek. Bovendien zijn kunststof pallets lichter dan veel houten pallets. Een lager eigen gewicht betekent meer lading per rit en minder brandstof.
 
 ## Lang mee, en daarna weer grondstof
 

@@ -10,7 +10,7 @@ lead: "Durante años, la producción fue al proveedor más barato, estuviera don
 img_alt: "Nave de producción con máquinas de inyección y robots en una fábrica de Q-Pall"
 reading: 4
 published: '2025-05-15'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En resumen**
 >
@@ -18,7 +18,7 @@ updated: '2026-11-02'
 > * Producir localmente le hace menos dependiente de puertos, rutas largas y riesgos geopolíticos.
 > * Comprar material reciclado en la región significa cadenas de aprovisionamiento más cortas y más transparencia sobre su origen.
 > * Si calcula con el coste total de propiedad (TCO), verá que la estabilidad y la rapidez son rentables.
-> * Q-Pall produce en seis fábricas europeas y entrega en días en lugar de semanas.
+> * Q-Pall produce en cinco fábricas europeas y entrega en días en lugar de semanas.
 
 ## Por qué las cadenas globales son frágiles
 
@@ -36,7 +36,7 @@ La producción local no es un parche temporal. Es una decisión estructural que 
 * **Menos riesgo geopolítico.** Las guerras, las sanciones y las restricciones a la exportación le afectan menos cuando se produce más cerca.
 * **Más flexibilidad.** Puede aumentar o reducir volúmenes más rápido cuando la demanda cambia de repente.
 
-En la práctica, Q-Pall fabrica palets de plástico en [seis fábricas en seis países europeos](@about-local). Por eso entregamos en días en lugar de semanas. Esto cuenta sobre todo en sectores en los que la fiabilidad de las entregas determina directamente si la producción sigue en marcha.
+En la práctica, Q-Pall fabrica palets de plástico en [cinco fábricas en cinco países europeos](@about-local). Por eso entregamos en días en lugar de semanas. Esto cuenta sobre todo en sectores en los que la fiabilidad de las entregas determina directamente si la producción sigue en marcha.
 
 ### Reciclado local: aprovisionamiento más corto y más transparencia
 

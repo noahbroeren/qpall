@@ -19,7 +19,7 @@ Wir betrachten auch die Kunststoffabfallströme unserer Kunden. Wo möglich, ver
 
 ## Weniger Transport, weniger CO₂
 
-In der Palettenbranche entsteht der größte Teil der CO₂-Emissionen durch den Transport. Ein Lkw voller Paletten transportiert vor allem Luft. Deshalb produzieren wir [lokal](@about-local), in sechs Werken, verteilt über ganz Europa. Fast jeder Kunde befindet sich im Umkreis von 600 Kilometern um ein Q-Pall-Werk. Kunststoffpaletten sind zudem leichter als viele Holzpaletten. Ein geringeres Eigengewicht bedeutet mehr Ladung pro Fahrt und weniger Kraftstoff.
+In der Palettenbranche entsteht der größte Teil der CO₂-Emissionen durch den Transport. Ein Lkw voller Paletten transportiert vor allem Luft. Deshalb produzieren wir [lokal](@about-local), in fünf Werken, verteilt über ganz Europa. Fast jeder Kunde befindet sich im Umkreis von 600 Kilometern um ein Q-Pall-Werk. Kunststoffpaletten sind zudem leichter als viele Holzpaletten. Ein geringeres Eigengewicht bedeutet mehr Ladung pro Fahrt und weniger Kraftstoff.
 
 ## Langlebig und danach wieder Rohstoff
 

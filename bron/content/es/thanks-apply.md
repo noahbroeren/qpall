@@ -26,7 +26,7 @@ more:
   cards:
   - id: about
     t: Sobre Q-Pall
-    d: Solo palets de plástico desde 2005, desde seis fábricas europeas.
+    d: Solo palets de plástico desde 2005, desde cinco fábricas europeas.
   - id: about-sustainability
     t: Sostenibilidad
     d: Del plástico reciclado a un palet que dura años.

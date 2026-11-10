@@ -15,9 +15,9 @@ faq:
 - q: "Are plastic pallets lighter than wooden pallets?"
   a: "Often, depending on the type. Light pallets are much lighter than wood. Heavy pallets weigh around 17 to 29 kg, roughly the same as a wooden Euro pallet of around 25 kg."
 - q: "How does local production contribute to green logistics?"
-  a: "In the pallet industry, most CO₂ emissions come from transport. We produce in six European factories, so almost every customer is within 600 kilometres of a factory."
+  a: "In the pallet industry, most CO₂ emissions come from transport. We produce in five European factories, so almost every customer is within 600 kilometres of a factory."
 published: '2023-09-11'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In short**
 >
@@ -25,7 +25,7 @@ updated: '2026-11-02'
 > * Plastic pallets are often lighter than wood, especially in the light class. That saves fuel.
 > * They last for many years and are fully recyclable afterwards.
 > * Our standard pallets are made from nearly 100% recycled plastic: 34,500 tonnes in 2025.
-> * Local production in six European factories limits the transport of the pallets themselves.
+> * Local production in five European factories limits the transport of the pallets themselves.
 
 ## What is green logistics?
 
@@ -63,6 +63,6 @@ Plastic pallets often cost more to buy than wooden pallets. Over their entire li
 
 We make our standard pallets from nearly 100% recycled plastic. In 2025, we processed 34,500 tonnes of recycled plastic, around 1,475 full truckloads. This helps to reduce the amount of plastic waste that would otherwise end up in landfill, in incinerators or in the oceans.
 
-We also produce [locally](@about-local), in six factories spread across Europe. In the pallet industry, most CO₂ emissions come from transport. Because almost every customer is within 600 kilometres of a Q-Pall factory, transport distances stay short.
+We also produce [locally](@about-local), in five factories spread across Europe. In the pallet industry, most CO₂ emissions come from transport. Because almost every customer is within 600 kilometres of a Q-Pall factory, transport distances stay short.
 
 Would you like to know which pallets fit best into your green logistics? [Request a quote](@quote). You will usually receive a tailored price within one working day.

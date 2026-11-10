@@ -15,16 +15,16 @@ faq:
 - q: "Quale misura di pallet è adatta a un container marittimo?"
   a: "Per i container marittimi sono pratici i pallet quadrati da 1100 x 1100 mm e i pallet da 760 x 1140 mm. La misura più adatta dipende dal tipo di container."
 - q: "Q-Pall può realizzare un pallet in una misura fuori standard?"
-  a: "No, non realizziamo design di pallet completamente nuovi. Con circa 130 versioni in nove formati c’è di solito una misura adatta. Adattiamo invece i modelli esistenti, ad esempio con un logo o un colore personalizzato."
+  a: "No, non realizziamo design di pallet completamente nuovi. Con circa 125 versioni in nove formati c’è di solito una misura adatta. Adattiamo invece i modelli esistenti, ad esempio con un logo o un colore personalizzato."
 published: '2022-01-29'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In breve**
 >
 > * La misura giusta del pallet parte dal carico: di cosa si tratta, come è imballato e quanto è grande.
 > * La misura deve essere adatta anche ai vostri camion, container e scaffalature.
 > * In un magazzino automatizzato i pallet devono avere esattamente la misura per cui i sistemi sono impostati.
-> * Q-Pall offre circa 130 versioni in nove formati, dal 600 x 400 al 1300 x 1100 mm.
+> * Q-Pall offre circa 125 versioni in nove formati, dal 600 x 400 al 1300 x 1100 mm.
 
 Quando vi servono dei pallet, volete fare la scelta giusta. Per cosa userete i pallet, quanto pesa il carico e il pallet deve essere, ad esempio, igienico? E quale misura vi serve? In questo articolo ci concentriamo su quest’ultima domanda. Tutte le misure standard sono riportate nella nostra panoramica dei [formati di pallet](@guide-sizes).
 
@@ -50,7 +50,7 @@ Molti clienti usano i pallet non solo per il trasporto, ma anche per lo stoccagg
 
 ## La nostra gamma e le soluzioni personalizzate
 
-La nostra gamma comprende circa 130 versioni in nove formati, dal 600 x 400 al 1300 x 1100 mm, in tre classi di portata: Light, Medium e Heavy. Esiste quindi quasi sempre una misura adatta.
+La nostra gamma comprende circa 125 versioni in nove formati, dal 600 x 400 al 1300 x 1100 mm, in tre classi di portata: Light, Medium e Heavy. Esiste quindi quasi sempre una misura adatta.
 
 Non realizziamo design di pallet completamente nuovi. Adattiamo invece i modelli esistenti, ad esempio con un logo, un colore personalizzato, una marcatura o una diversa composizione del materiale. Scoprite di più sui [pallet in plastica su misura](@about-custom).
 

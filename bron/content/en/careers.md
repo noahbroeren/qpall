@@ -17,7 +17,7 @@ why:
     text: We make pallets from nearly 100% recycled plastic and help customers across Europe work more sustainably.
   - icon: globe
     title: International
-    text: Six factories in Europe and customers worldwide. You work across borders every day.
+    text: Five factories in Europe and customers worldwide. You work across borders every day.
   - icon: arrow-ur
     title: Growth
     text: We are growing fast, and you grow with us. With training and room for your own initiative.

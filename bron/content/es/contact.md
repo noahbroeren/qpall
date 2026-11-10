@@ -8,7 +8,7 @@ lead: "¿Tiene una pregunta sobre un palet, un proyecto o una entrega? Nuestro e
 visit:
   eyebrow: "Nuestra sede"
   title: "Bienvenido a **Veghel**"
-  text: "Nuestra sede con almacén está en Veghel (Países Bajos), junto a la autopista A50. Desde aquí coordinamos las seis fábricas y nuestro equipo le ayuda. ¿Quiere visitarnos? Concierte antes una cita."
+  text: "Nuestra sede con almacén está en Veghel (Países Bajos), junto a la autopista A50. Desde aquí coordinamos las cinco fábricas y nuestro equipo le ayuda. ¿Quiere visitarnos? Concierte antes una cita."
   people: "Sus personas de contacto"
   team: "Conozca a nuestro equipo"
 faq:

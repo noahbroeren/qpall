@@ -10,12 +10,12 @@ lead: "Sustainable business is about People, Planet and Profit. This is how we s
 img_alt: "Aerial view of a polder with wind turbines along the water"
 reading: 3
 published: '2022-01-29'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In short**
 >
 > * Sustainable business takes people, the environment and the economy into account: People, Planet and Profit.
-> * We produce locally in six European factories. The mould travels, the pallets don’t.
+> * We produce locally in five European factories. The mould travels, the pallets don’t.
 > * We make our standard pallets from nearly 100% recycled plastic: 34,500 tonnes in 2025.
 > * In production, we focus on lightweight design, less material loss and reuse of production scrap.
 > * EcoVadis independently assesses our sustainability performance. In October 2026, we again achieved bronze.
@@ -32,7 +32,7 @@ Producing and transporting pallets uses energy. Burning fossil fuels such as coa
 
 In the pallet industry, most CO₂ emissions come from transport. A truck full of pallets mainly carries air. That is why we place a pallet’s mould as close to the customer as possible. This way, the pallets themselves do not have to travel long distances.
 
-We produce in six factories: in Balk, Ribe, Marktoberdorf, Nantes, Lleida and Chesterfield. Almost every customer is within 600 kilometres of a Q-Pall factory. That saves a lot of kilometres, CO₂ emissions and transport costs. Read more about [local production](@about-local).
+We produce in five factories: in Balk, Ribe, Marktoberdorf, Nantes and Lleida. Almost every customer is within 600 kilometres of a Q-Pall factory. That saves a lot of kilometres, CO₂ emissions and transport costs. Read more about [local production](@about-local).
 
 ## Pallets made of recycled plastic
 

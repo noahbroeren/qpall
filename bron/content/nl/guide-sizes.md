@@ -41,7 +41,7 @@ De internationale norm ISO 6780 noemt zes palletmaten die wereldwijd veel worden
 
 - **1200 x 800 mm**: de europallet, standaard in Europa.
 - **1200 x 1000 mm**: de industriepallet, in Europa, het VK en Azië.
-- **1219 x 1016 mm (48 x 40 inch)**: de standaard in Noord-Amerika. Q-Pall heeft medium pallets van 1220 x 1020 mm in dit formaat, te vinden bij [1200 x 1000 mm](@size-1200x1000).
+- **1219 x 1016 mm (48 x 40 inch)**: de standaard in Noord-Amerika.
 - **1165 x 1165 mm**: vooral in Australië.
 - **1100 x 1100 mm**: in Azië, onder andere Japan en Korea. Zie [1100 x 1100 mm](@size-1100x1100).
 - **1067 x 1067 mm**: in Noord-Amerika, Europa en Azië.

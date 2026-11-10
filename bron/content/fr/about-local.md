@@ -1,10 +1,10 @@
 ---
 id: about-local
-title: "Production locale dans 6 usines européennes – Q-Pall"
-description: "Q-Pall fabrique des palettes plastique à Balk, Ribe, Marktoberdorf, Nantes, Lleida et Chesterfield. À 600 km max. du client : moins de transport et de CO₂."
+title: "Production locale dans 5 usines européennes – Q-Pall"
+description: "Q-Pall fabrique des palettes plastique à Balk, Ribe, Marktoberdorf, Nantes et Lleida. À 600 km max. du client : moins de transport et de CO₂."
 eyebrow: "Act global, produce local"
 h1: "**Production** locale"
-lead: "Nous produisons dans six usines réparties à travers l’Europe. Nous sommes ainsi presque toujours à moins de 600 kilomètres de nos clients. Cela permet d’économiser du transport, des coûts et du CO₂."
+lead: "Nous produisons dans cinq usines réparties à travers l’Europe. Nous sommes ainsi presque toujours à moins de 600 kilomètres de nos clients. Cela permet d’économiser du transport, des coûts et du CO₂."
 ---
 
 ## Pourquoi produire localement ?
@@ -22,7 +22,6 @@ Un moule est l’outil dans lequel nous injectons une palette. Au lieu de transp
 - **Marktoberdorf (Allemagne)**, en Bavière.
 - **Nantes (France).**
 - **Lleida (Espagne).**
-- **Chesterfield (Royaume-Uni)**, notre sixième et plus récente usine.
 
 Notre siège, notre centre d’opérations européen et notre entrepôt se trouvent à **Veghel**, dans le Brabant-Septentrional. Vous venez enlever ou livrer vous-même ? [Enregistrez votre transport à l’avance](@transport).
 

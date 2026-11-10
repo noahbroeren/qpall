@@ -80,7 +80,7 @@ offer:
 why:
   eyebrow: À propos de Q-Pall
   title: Des palettes **qui ont du sens**
-  text: Depuis 2005, Q-Pall fabrique uniquement des palettes plastique. Nos palettes standard sont fabriquées en plastique recyclé à près de 100 % et, avec six usines en Europe, nous produisons près du client.
+  text: Depuis 2005, Q-Pall fabrique uniquement des palettes plastique. Nos palettes standard sont fabriquées en plastique recyclé à près de 100 % et, avec cinq usines en Europe, nous produisons près du client.
   link: En savoir plus sur Q-Pall
 process:
   title: Comment se déroule **votre candidature**

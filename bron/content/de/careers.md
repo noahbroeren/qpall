@@ -17,7 +17,7 @@ why:
     text: Wir stellen Paletten aus fast 100 % recyceltem Kunststoff her und helfen Kunden in ganz Europa, nachhaltiger zu arbeiten.
   - icon: globe
     title: International
-    text: Sechs Werke in Europa und Kunden weltweit. Sie arbeiten jeden Tag über Grenzen hinweg.
+    text: Fünf Werke in Europa und Kunden weltweit. Sie arbeiten jeden Tag über Grenzen hinweg.
   - icon: arrow-ur
     title: Wachstum
     text: Wir wachsen stark, und Sie wachsen mit. Mit Schulungen und Raum für eigene Initiative.

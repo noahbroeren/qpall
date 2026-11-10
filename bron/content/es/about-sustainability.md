@@ -19,7 +19,7 @@ También estudiamos los flujos de residuos plásticos de nuestros clientes. Siem
 
 ## Menos transporte, menos CO₂
 
-En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Un camión lleno de palets transporta sobre todo aire. Por eso producimos [localmente](@about-local), en seis fábricas repartidas por Europa. Casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall. Además, los palets de plástico son más ligeros que muchos palets de madera. Una tara menor significa más carga por viaje y menos combustible.
+En el sector del palet, la mayor parte de las emisiones de CO₂ procede del transporte. Un camión lleno de palets transporta sobre todo aire. Por eso producimos [localmente](@about-local), en cinco fábricas repartidas por Europa. Casi todos los clientes están a menos de 600 kilómetros de una fábrica de Q-Pall. Además, los palets de plástico son más ligeros que muchos palets de madera. Una tara menor significa más carga por viaje y menos combustible.
 
 ## Hechos para durar y, después, de nuevo materia prima
 

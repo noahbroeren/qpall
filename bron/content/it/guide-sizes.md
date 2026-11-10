@@ -41,7 +41,7 @@ La norma internazionale ISO 6780 elenca sei formati di pallet ampiamente utilizz
 
 - **1200 x 800 mm**: l’europallet, lo standard in Europa.
 - **1200 x 1000 mm**: il pallet industriale, in Europa, nel Regno Unito e in Asia.
-- **1219 x 1016 mm (48 x 40 pollici)**: lo standard in Nord America. In questo formato Q-Pall offre pallet Medium da 1220 x 1020 mm, elencati sotto [1200 x 1000 mm](@size-1200x1000).
+- **1219 x 1016 mm (48 x 40 pollici)**: lo standard in Nord America.
 - **1165 x 1165 mm**: soprattutto in Australia.
 - **1100 x 1100 mm**: in Asia, tra cui Giappone e Corea. Scoprite il formato [1100 x 1100 mm](@size-1100x1100).
 - **1067 x 1067 mm**: in Nord America, Europa e Asia.

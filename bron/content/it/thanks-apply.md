@@ -26,7 +26,7 @@ more:
   cards:
   - id: about
     t: Chi è Q-Pall
-    d: Solo pallet in plastica dal 2005, da sei stabilimenti europei.
+    d: Solo pallet in plastica dal 2005, da cinque stabilimenti europei.
   - id: about-sustainability
     t: Sostenibilità
     d: Dalla plastica riciclata a un pallet che dura anni.

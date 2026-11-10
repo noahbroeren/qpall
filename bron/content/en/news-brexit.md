@@ -1,12 +1,12 @@
 ---
 id: news-brexit
 title: "Brexit: plastic pallets in trade with the UK – Q-Pall"
-description: "Since Brexit, wooden pallets in trade with the UK must comply with ISPM 15. Plastic pallets do not. Q-Pall also makes pallets in Chesterfield (UK)."
+description: "Since Brexit, wooden pallets in trade with the UK must comply with ISPM 15. Plastic pallets do not: no treatment, no stamp."
 eyebrow: "News"
 tag: "Supply chain"
 crumb: "Pallets after Brexit"
 h1: "Brexit and pallets: **what applies in trade with the UK?**"
-lead: "Since Brexit, the UK has been a country outside the EU as far as pallets are concerned. Wooden pallets must therefore comply with ISPM 15, plastic pallets need not. And Q-Pall makes plastic pallets in the UK itself, in Chesterfield."
+lead: "Since Brexit, the UK has been a country outside the EU as far as pallets are concerned. Wooden pallets must therefore comply with ISPM 15, plastic pallets need not."
 img_alt: "London Underground-style sign reading Brexit in front of a Union Jack"
 reading: 3
 faq:
@@ -17,14 +17,13 @@ faq:
 - q: "Which pallet size is common in the UK?"
   a: "The 1200 x 1000 mm industrial pallet is widely used in the UK. We make export pallets in sizes including 1200 x 1000 mm and 1200 x 800 mm."
 published: '2022-01-13'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In short**
 >
 > * The UK left the EU on 31 January 2020. The transition period ran until 31 December 2020.
 > * Since then, wooden pallets in trade between the EU and the UK have had to comply with ISPM 15: treated and stamped.
 > * Plastic pallets are not covered by ISPM 15 and need no treatment or stamp.
-> * Q-Pall has a factory in Chesterfield, so we also produce in the UK itself.
 
 ## From referendum to departure
 
@@ -52,11 +51,9 @@ What this means for you in trade with the UK:
 * **The right size.** The [1200 x 1000 mm](@size-1200x1000) industrial pallet is common in the UK.
 * **Circular.** Our standard pallets are made from nearly 100% recycled plastic and are fully recyclable at the end of their life.
 
-## Q-Pall also produces in the UK
+## Q-Pall plastic pallets for the UK
 
-Q-Pall makes plastic pallets in six factories: Balk (the Netherlands), Ribe (Denmark), Marktoberdorf (Germany), Nantes (France), Lleida (Spain) and Chesterfield (United Kingdom). Almost every customer is within 600 kilometres of one of our factories.
-
-Our approach: moulds travel, pallets do not. We place the mould as close to the customer as possible. For customers in the UK, that can be the factory in Chesterfield: short transport distances and no border crossing for the pallets themselves. Read more about [local production](@about-local).
+Q-Pall makes plastic pallets in five factories spread across Europe. Our approach: moulds travel, pallets do not. We deliver from a factory where your pallet is available, as close to you as possible. Read more about [local production](@about-local).
 
 Do you need smaller quantities? Then you can turn to a [dealer near you](@dealers). In the UK, our partners include the dealer Goplasticpallets.com.
 

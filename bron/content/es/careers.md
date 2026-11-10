@@ -17,7 +17,7 @@ why:
     text: Fabricamos palets de plástico casi 100% reciclado y ayudamos a clientes de toda Europa a trabajar de forma más sostenible.
   - icon: globe
     title: Internacional
-    text: Seis fábricas en Europa y clientes en todo el mundo. Cada día trabaja más allá de las fronteras.
+    text: Cinco fábricas en Europa y clientes en todo el mundo. Cada día trabaja más allá de las fronteras.
   - icon: arrow-ur
     title: Crecimiento
     text: Crecemos rápido, y usted crece con nosotros. Con formación y espacio para su propia iniciativa.

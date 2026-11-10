@@ -15,9 +15,9 @@ faq:
 - q: "Les palettes plastique sont-elles plus légères que les palettes en bois ?"
   a: "Souvent, selon le type. Les palettes Light sont beaucoup plus légères que le bois. Les palettes Heavy pèsent environ 17 à 29 kg, à peu près autant qu’une palette Europe en bois d’environ 25 kg."
 - q: "Comment la production locale contribue-t-elle à la logistique verte ?"
-  a: "Dans le secteur de la palette, la majeure partie des émissions de CO₂ provient du transport. Nous produisons dans six usines européennes, si bien que presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine."
+  a: "Dans le secteur de la palette, la majeure partie des émissions de CO₂ provient du transport. Nous produisons dans cinq usines européennes, si bien que presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine."
 published: '2023-09-11'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En bref**
 >
@@ -25,7 +25,7 @@ updated: '2026-11-02'
 > * Les palettes plastique sont souvent plus légères que le bois, surtout dans la classe Light. Cela économise du carburant.
 > * Elles durent de nombreuses années et sont ensuite entièrement recyclables.
 > * Nos palettes standard sont en plastique recyclé à près de 100 % : 34.500 tonnes en 2025.
-> * La production locale dans six usines européennes limite le transport des palettes elles-mêmes.
+> * La production locale dans cinq usines européennes limite le transport des palettes elles-mêmes.
 
 ## Qu’est-ce que la logistique verte ?
 
@@ -63,6 +63,6 @@ Les palettes plastique n’absorbent pas l’humidité et se nettoient facilemen
 
 Nous fabriquons nos palettes standard en plastique recyclé à près de 100 %. En 2025, nous avons transformé 34.500 tonnes de plastique recyclé, soit environ 1.475 camions pleins. Cela contribue à réduire la quantité de déchets plastiques qui finiraient sinon en décharge, en incinérateur ou dans les océans.
 
-Nous produisons en outre [localement](@about-local), dans six usines réparties à travers l’Europe. Dans le secteur de la palette, la majeure partie des émissions de CO₂ provient du transport. Comme presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine Q-Pall, les distances de transport restent courtes.
+Nous produisons en outre [localement](@about-local), dans cinq usines réparties à travers l’Europe. Dans le secteur de la palette, la majeure partie des émissions de CO₂ provient du transport. Comme presque tous nos clients se trouvent à moins de 600 kilomètres d’une usine Q-Pall, les distances de transport restent courtes.
 
 Vous souhaitez savoir quelles palettes s’intègrent le mieux dans votre logistique verte ? [Demandez un devis](@quote). Vous recevez généralement un prix sur mesure en un jour ouvré.

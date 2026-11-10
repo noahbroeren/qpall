@@ -17,13 +17,13 @@ faq:
 - q: "Il PPWR si applica anche ai pallet?"
   a: "Sì. I pallet sono imballaggi per il trasporto e rientrano nel regolamento europeo sugli imballaggi, che si applica dal 12 agosto 2026. Q-Pall dispone di una dichiarazione di conformità PPWR per ogni gruppo di pallet; per la maggior parte dei modelli potete scaricarla dalla pagina del prodotto."
 published: '2022-01-09'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In breve**
 >
 > * Nella scelta di un pallet conta la funzione, ma sempre più spesso anche l’impatto ambientale.
 > * L’impronta di carbonio di un pallet nasce soprattutto da materia prima, produzione e trasporto.
-> * Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%, in sei stabilimenti vicini ai clienti.
+> * Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%, in cinque stabilimenti vicini ai clienti.
 > * Riutilizzo e riciclo a fine vita riducono ulteriormente l’impatto.
 > * Dal 12 agosto 2026 si applica il regolamento europeo sugli imballaggi PPWR, anche ai pallet.
 
@@ -43,7 +43,7 @@ Per un prodotto come un pallet, tutti i gas serra necessari a produrlo vengono c
 
 * **Materia prima.** Estrarre e produrre nuove materie prime richiede molta energia. Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%, una miscela di HDPE e PP. Così sostituiamo la materia prima nuova con plastica che esiste già.
 * **Produzione.** Nello sviluppo di nuovi pallet applichiamo obiettivi di progettazione severi per l’efficienza energetica e dei materiali.
-* **Trasporto.** Nel settore dei pallet la maggior parte delle emissioni di CO₂ deriva dal trasporto. Per questo produciamo [localmente](@about-local), in sei stabilimenti distribuiti in tutta Europa. Quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento Q-Pall.
+* **Trasporto.** Nel settore dei pallet la maggior parte delle emissioni di CO₂ deriva dal trasporto. Per questo produciamo [localmente](@about-local), in cinque stabilimenti distribuiti in tutta Europa. Quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento Q-Pall.
 * **Fine vita.** A fine vita i nostri pallet sono completamente riciclabili. Il materiale diventa materia prima per nuovi pallet.
 
 ## Come Q-Pall usa l’impronta di carbonio

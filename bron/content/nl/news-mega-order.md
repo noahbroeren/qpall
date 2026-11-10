@@ -10,7 +10,7 @@ lead: "Op 24 mei 2023 leverde Q-Pall in Balk feestelijk de eerste pallet op voor
 img_alt: "Vier mannen bij de eerste pallet voor Drankenpallet Beheer Nederland, in de fabriek in Balk"
 reading: 3
 published: '2023-05-24'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In het kort**
 >
@@ -43,6 +43,6 @@ De pallets voor DPB komen uit onze fabriek in Balk, in Friesland. Dat past bij d
 
 ## Over Q-Pall
 
-Q-Pall maakt sinds 2005 alleen kunststof pallets en is onderdeel van de AVK Group. Het hoofdkantoor staat in Veghel. We produceren in zes fabrieken in Europa: Balk, Ribe, Marktoberdorf, Nantes, Lleida en Chesterfield. Het assortiment telt zo'n 130 uitvoeringen in negen formaten. Daarnaast werken we met 18 dealers in 15 landen in Europa en de Verenigde Staten.
+Q-Pall maakt sinds 2005 alleen kunststof pallets en is onderdeel van de AVK Group. Het hoofdkantoor staat in Veghel. We produceren in vijf fabrieken in Europa: Balk, Ribe, Marktoberdorf, Nantes en Lleida. Het assortiment telt zo'n 125 uitvoeringen in negen formaten. Daarnaast werken we met 18 dealers in 15 landen in Europa en de Verenigde Staten.
 
 Zoekt u pallets voor een pool of voor de drankenindustrie? [Vraag een offerte aan](@quote), dan ontvangt u meestal binnen één werkdag een prijs op maat.

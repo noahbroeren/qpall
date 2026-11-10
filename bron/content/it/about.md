@@ -1,11 +1,11 @@
 ---
 id: about
 title: "Chi è Q-Pall: produttore di pallet in plastica dal 2005"
-description: "Dal 2005 Q-Pall produce solo pallet in plastica, da plastica riciclata quasi al 100%, in sei stabilimenti europei. Scoprite i nostri pallets with a purpose."
+description: "Dal 2005 Q-Pall produce solo pallet in plastica riciclata quasi al 100%, in cinque stabilimenti europei. Scoprite i nostri pallets with a purpose."
 eyebrow: "Chi siamo"
 h1: "Produttore europeo di **pallet in plastica**"
 tagline: "Pallets **with a purpose**"
-lead: "Dal 2005 ci concentriamo su una sola cosa: pallet in plastica convenienti e affidabili, con la sostenibilità al primo posto. Dalla nostra sede centrale di Veghel e da sei stabilimenti europei."
+lead: "Dal 2005 ci concentriamo su una sola cosa: pallet in plastica convenienti e affidabili, con la sostenibilità al primo posto. Dalla nostra sede centrale di Veghel e da cinque stabilimenti europei."
 ---
 
 ## La nostra missione
@@ -17,15 +17,15 @@ I nostri pallet standard sono realizzati in plastica riciclata quasi al 100%. So
 ## Q-Pall in cifre
 
 - **Fondata nel 2005**, con sede centrale a Veghel.
-- **Sei siti produttivi** nei Paesi Bassi, in Danimarca, Germania, Francia, Spagna e nel Regno Unito.
-- **4 milioni di pallet all’anno** di capacità produttiva, in circa 130 versioni e nove formati.
+- **Cinque siti produttivi** nei Paesi Bassi, in Danimarca, Germania, Francia e Spagna.
+- **4 milioni di pallet all’anno** di capacità produttiva, in circa 125 versioni e nove formati.
 - **200+ persone nella nostra catena produttiva.**
 - **Una rete di rivenditori** che copre gran parte dell’Europa e gli Stati Uniti.
 - **EcoVadis Bronze** (ottobre 2026) per le nostre prestazioni in materia di sostenibilità.
 
 ## Act global, produce local
 
-Il trasporto è di gran lunga la principale fonte di emissioni di CO₂ nella filiera dei pallet. Per questo produciamo il più vicino possibile ai nostri clienti: a Balk (NL), Ribe (DK), Marktoberdorf (DE), Nantes (FR), Lleida (ES) e Chesterfield (UK). Quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento Q-Pall. Scoprite di più sulla [produzione locale](@about-local).
+Il trasporto è di gran lunga la principale fonte di emissioni di CO₂ nella filiera dei pallet. Per questo produciamo il più vicino possibile ai nostri clienti: a Balk (NL), Ribe (DK), Marktoberdorf (DE), Nantes (FR) e Lleida (ES). Quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento Q-Pall. Scoprite di più sulla [produzione locale](@about-local).
 
 ## Tutta la filiera nelle nostre mani
 

@@ -5,7 +5,7 @@ description: "Q-Pall progetta pallet in plastica riciclata e li fa produrre vici
 hero:
   eyebrow: "Produttore di pallet sostenibili dal 2005"
   h1: "Pallet riutilizzabili in **plastica riciclata**"
-  lead: "Circa 130 versioni di pallet in plastica, dai pallet da esportazione incastrabili ai pallet per carichi pesanti su scaffalatura. Prodotti in sei stabilimenti europei, mai lontano da voi."
+  lead: "Circa 125 versioni di pallet in plastica, dai pallet da esportazione incastrabili ai pallet per carichi pesanti su scaffalatura. Prodotti in cinque stabilimenti europei, mai lontano da voi."
   cta1: "Vedete tutti i pallet in plastica"
   cta2: "Richiedete un preventivo"
   badge: "Pallet Medium antiscivolo"
@@ -40,7 +40,7 @@ intro:
   strike: ["Cassette.", "Contenitori.", "Scatole."]
   final: "Pallet."
   title: "Un solo prodotto. **Tutta la nostra attenzione.**"
-  text: "La maggior parte dei produttori di imballaggi in plastica divide stampi, ricerca e sviluppo e attenzione tra cassette, contenitori e container. Noi investiamo tutto in un unico prodotto. Per questo la nostra gamma comprende nove dimensioni, tre classi di portata e circa 130 versioni, e per questo da Q-Pall una domanda sui pallet non passa mai in secondo piano."
+  text: "La maggior parte dei produttori di imballaggi in plastica divide stampi, ricerca e sviluppo e attenzione tra cassette, contenitori e container. Noi investiamo tutto in un unico prodotto. Per questo la nostra gamma comprende nove dimensioni, tre classi di portata e circa 125 versioni, e per questo da Q-Pall una domanda sui pallet non passa mai in secondo piano."
   points:
     - icon: "factory"
       t: "Direttamente dal produttore"
@@ -49,7 +49,7 @@ intro:
       t: "Riciclati quasi al 100%"
       d: "Realizzati con plastica post-consumo e industriale, completamente riciclabili."
     - icon: "globe"
-      t: "Sei stabilimenti europei"
+      t: "Cinque stabilimenti europei"
       d: "Quasi sempre entro 600 chilometri dalla vostra sede."
   cta: "Scoprite Q-Pall"
 range:
@@ -103,8 +103,8 @@ sustain_cta:
   btn: "Parla con uno specialista"
 local:
   eyebrow: "Act global, produce local"
-  title: "Sei stabilimenti. **Vicini al cliente.**"
-  lead: "Produciamo in sei stabilimenti in tutta Europa e spostiamo gli stampi invece dei pallet. Così quasi ogni cliente si trova entro 600 chilometri da uno stabilimento Q-Pall: meno trasporti, costi più bassi e meno CO₂."
+  title: "Cinque stabilimenti. **Vicini al cliente.**"
+  lead: "Produciamo in cinque stabilimenti in tutta Europa e spostiamo gli stampi invece dei pallet. Così quasi ogni cliente si trova entro 600 chilometri da uno stabilimento Q-Pall: meno trasporti, costi più bassi e meno CO₂."
   note: "I modelli più richiesti sono disponibili a magazzino in più sedi e una parte dei nostri modelli è prodotta in più di uno stabilimento. Così possiamo consegnare anche nei periodi di punta."
   cta: "Scoprite la produzione locale"
 sectors:
@@ -125,7 +125,7 @@ sectors:
 about:
   eyebrow: "Chi siamo"
   title: "Tutta la filiera **sotto controllo**"
-  text: "Dal 2005 Q-Pall sviluppa e produce esclusivamente pallet in plastica. Progettazione, stampi, produzione, distribuzione e vendita sono tutti nelle nostre mani, dalla sede centrale di Veghel e da sei stabilimenti in Europa. Così reagiamo in fretta e garantiamo la qualità."
+  text: "Dal 2005 Q-Pall sviluppa e produce esclusivamente pallet in plastica. Progettazione, stampi, produzione, distribuzione e vendita sono tutti nelle nostre mani, dalla sede centrale di Veghel e da cinque stabilimenti in Europa. Così reagiamo in fretta e garantiamo la qualità."
   points: ["Sede centrale e magazzino a Veghel", "Parte di AVK Group", "Rivenditori in Europa e negli Stati Uniti"]
   cta: "Scoprite Q-Pall"
   cta2: "Lavora con noi"
@@ -167,11 +167,11 @@ faq:
   - q: "Perché scegliere pallet in plastica?"
     a: "I pallet in plastica durano molto più a lungo dei pallet in legno, non assorbono umidità e non hanno schegge né chiodi. Hanno dimensioni fisse e un peso costante, un aspetto importante per l’automazione. Inoltre sono esenti da ISPM 15 per l’esportazione. Approfondite in [plastica o legno](@guide-wood)."
   - q: "I pallet Q-Pall sono sostenibili?"
-    a: "Sì. I nostri pallet standard sono realizzati con plastica riciclata quasi al 100% e a fine vita sono completamente riciclabili. Produciamo localmente in sei stabilimenti europei, quindi servono meno trasporti."
+    a: "Sì. I nostri pallet standard sono realizzati con plastica riciclata quasi al 100% e a fine vita sono completamente riciclabili. Produciamo localmente in cinque stabilimenti europei, quindi servono meno trasporti."
   - q: "Quanto costa un pallet in plastica?"
     a: "Dipende dal formato, dalla classe di portata, dalla quantità e dal luogo di consegna. Un piccolo pallet espositore o un pallet Light incastrabile è il più economico, un pallet per carichi pesanti con piano chiuso il più costoso. [Richiedete un preventivo](@quote): di solito riceverete un prezzo su misura entro un giorno lavorativo. Nella nostra [guida ai prezzi](@guide-prices) leggete cosa determina il prezzo."
   - q: "In quanto tempo consegna Q-Pall?"
     a: "Teniamo a magazzino i modelli più richiesti in più sedi. I tempi di consegna dipendono da modello, quantità e sito produttivo. [Richiedete un preventivo](@quote) e di solito entro un giorno lavorativo vi diremo cosa è possibile."
   - q: "Consegnate anche fuori dai Paesi Bassi?"
-    a: "Sì. Consegniamo in tutta Europa dai nostri stabilimenti nei Paesi Bassi, in Danimarca, Germania, Francia, Spagna e nel Regno Unito, e collaboriamo con [rivenditori](@dealers) in Europa e negli Stati Uniti."
+    a: "Sì. Consegniamo in tutta Europa dai nostri stabilimenti nei Paesi Bassi, in Danimarca, Germania, Francia e Spagna, e collaboriamo con [rivenditori](@dealers) in Europa e negli Stati Uniti."
 ---

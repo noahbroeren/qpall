@@ -19,7 +19,7 @@ Esaminiamo anche i flussi di rifiuti plastici dei nostri clienti. Ove possibile,
 
 ## Meno trasporti, meno CO₂
 
-Nel settore dei pallet, la maggior parte delle emissioni di CO₂ deriva dal trasporto. Un camion pieno di pallet trasporta soprattutto aria. Per questo produciamo [localmente](@about-local), in sei stabilimenti distribuiti in tutta Europa. Quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento Q-Pall. Inoltre i pallet in plastica sono più leggeri di molti pallet in legno. Una tara inferiore significa più carico per viaggio e meno carburante.
+Nel settore dei pallet, la maggior parte delle emissioni di CO₂ deriva dal trasporto. Un camion pieno di pallet trasporta soprattutto aria. Per questo produciamo [localmente](@about-local), in cinque stabilimenti distribuiti in tutta Europa. Quasi tutti i clienti si trovano entro 600 chilometri da uno stabilimento Q-Pall. Inoltre i pallet in plastica sono più leggeri di molti pallet in legno. Una tara inferiore significa più carico per viaggio e meno carburante.
 
 ## Fatti per durare, poi di nuovo materia prima
 

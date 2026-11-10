@@ -10,7 +10,7 @@ lead: "Nel 2022 la partnership tra Q-Pall e il nostro partner britannico Goplast
 img_alt: "Camion di Goplasticpallets.com con la fiancata aperta piena di pallet in plastica blu"
 reading: 3
 published: '2022-01-29'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In breve**
 >
@@ -18,7 +18,7 @@ updated: '2026-11-02'
 > * Nel 2022 la partnership ha compiuto dieci anni.
 > * Goplasticpallets.com consegna direttamente da magazzino. Per questo Q-Pall deve poter fornire rapidamente grandi quantità.
 > * Nel Regno Unito i più richiesti erano i pallet medium e heavy, insieme ai pallet incastrabili per la grande distribuzione e l’esposizione.
-> * Nel 2022 Q-Pall aveva quattro siti produttivi. Oggi sono sei, tra cui Chesterfield nel Regno Unito.
+> * Nel 2022 Q-Pall aveva quattro siti produttivi. Oggi sono cinque.
 
 ## Dieci anni insieme
 
@@ -38,7 +38,7 @@ Secondo lui il team di Q-Pall era piuttosto piccolo, ma estremamente efficiente 
 
 Goplasticpallets.com evade gli ordini direttamente da magazzino. Per questo il produttore deve reagire in fretta anche a grandi quantità. «Con quattro siti produttivi, Q-Pall è ben attrezzata per soddisfare le nostre esigenze. Non ci ha mai deluso.»
 
-Nel 2022 quei quattro siti si trovavano nei Paesi Bassi, in Danimarca e due in Germania. Oggi produciamo in [sei stabilimenti in tutta Europa](@about-local), tra cui Chesterfield nel Regno Unito. Così possiamo produrre anche nel paese stesso, vicino ai clienti britannici.
+Nel 2022 quei quattro siti si trovavano nei Paesi Bassi, in Danimarca e due in Germania. Oggi produciamo in [cinque stabilimenti in tutta Europa](@about-local).
 
 ## I pallet scelti dai clienti britannici
 

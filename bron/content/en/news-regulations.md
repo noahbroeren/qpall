@@ -17,7 +17,7 @@ faq:
 - q: "How does Q-Pall check for heavy metals?"
   a: "We test our pallets against the substances listed in the RoHS directive. We do this with X-ray fluorescence (XRF), a fast measurement that does not damage the material."
 published: '2022-01-12'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In short**
 >
@@ -78,7 +78,7 @@ For customers who compare products, the carbon footprint is increasingly a decid
 We use the results of our carbon footprint analysis as a baseline and as a starting point for improving the environmental performance of our pallets. With strict design targets for energy and material efficiency, we keep emissions as low as possible. Two choices help here:
 
 * **Recycled material.** We make our standard pallets from nearly 100% recycled plastic.
-* **Short distances.** We produce in six factories across Europe, close to our customers. Read more about [local production](@about-local).
+* **Short distances.** We produce in five factories across Europe, close to our customers. Read more about [local production](@about-local).
 
 In October 2026 we again earned the EcoVadis bronze medal.
 

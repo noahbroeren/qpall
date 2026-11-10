@@ -10,7 +10,7 @@ lead: "Il 24 maggio 2023 Q-Pall ha consegnato a Balk il primo pallet per Dranken
 img_alt: "Quattro uomini accanto al primo pallet per Drankenpallet Beheer Nederland, nello stabilimento di Balk"
 reading: 3
 published: '2023-05-24'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In breve**
 >
@@ -43,6 +43,6 @@ I pallet per DPB escono dal nostro stabilimento di Balk, nella provincia della F
 
 ## Informazioni su Q-Pall
 
-Dal 2005 Q-Pall produce esclusivamente pallet in plastica e fa parte di AVK Group. La sede centrale si trova a Veghel. Produciamo in sei stabilimenti in Europa: Balk, Ribe, Marktoberdorf, Nantes, Lleida e Chesterfield. La gamma comprende circa 130 versioni in nove formati. Collaboriamo inoltre con 18 rivenditori in 15 paesi in Europa e negli Stati Uniti.
+Dal 2005 Q-Pall produce esclusivamente pallet in plastica e fa parte di AVK Group. La sede centrale si trova a Veghel. Produciamo in cinque stabilimenti in Europa: Balk, Ribe, Marktoberdorf, Nantes e Lleida. La gamma comprende circa 125 versioni in nove formati. Collaboriamo inoltre con 18 rivenditori in 15 paesi in Europa e negli Stati Uniti.
 
 Cercate pallet per un pool o per l’industria delle bevande? [Richiedete un preventivo](@quote): di solito riceverete un prezzo su misura entro un giorno lavorativo.

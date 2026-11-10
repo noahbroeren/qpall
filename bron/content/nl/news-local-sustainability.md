@@ -1,28 +1,28 @@
 ---
 id: news-local-sustainability
 title: "Lokale productie van kunststof pallets: minder CO₂ – Q-Pall"
-description: "Lokale productie van kunststof pallets scheelt transport en CO₂. Zo werken zes Europese fabrieken, gerecycled kunststof en terugname samen."
+description: "Lokale productie van kunststof pallets scheelt transport en CO₂. Zo werken vijf Europese fabrieken, gerecycled kunststof en terugname samen."
 eyebrow: "Nieuws"
 tag: "Duurzaamheid"
 crumb: "Lokale productie en duurzaamheid"
 h1: "Minder transport, minder CO₂: **lokale productie van kunststof pallets**"
-lead: "Hoe korter de afstand tussen fabriek en klant, hoe minder transport en CO₂. Daarom maken we onze pallets in zes Europese fabrieken, van gerecycled kunststof uit de regio, en nemen we ze aan het einde terug."
+lead: "Hoe korter de afstand tussen fabriek en klant, hoe minder transport en CO₂. Daarom maken we onze pallets in vijf Europese fabrieken, van gerecycled kunststof uit de regio, en nemen we ze aan het einde terug."
 img_alt: "Glazen bol in het gras die een boom en een groen landschap weerspiegelt"
 reading: 3
 faq:
 - q: "Waarom is lokale productie van pallets duurzamer?"
-  a: "In de palletketen is transport de grootste bron van CO₂-uitstoot. Hoe dichter de fabriek bij de klant ligt, hoe minder kilometers en uitstoot. Bijna elke klant van Q-Pall zit binnen 600 kilometer van een van onze zes fabrieken."
+  a: "In de palletketen is transport de grootste bron van CO₂-uitstoot. Hoe dichter de fabriek bij de klant ligt, hoe minder kilometers en uitstoot. Bijna elke klant van Q-Pall zit binnen 600 kilometer van een van onze vijf fabrieken."
 - q: "Waarvan zijn de pallets van Q-Pall gemaakt?"
   a: "Onze standaardpallets maken we van bijna 100% gerecycled kunststof, een mix van HDPE (code 2) en PP (code 5). Alleen hygiënische pallets, H1-pallets en cleanroompallets maken we van virgin (nieuw) kunststof."
 - q: "Wat gebeurt er met een kunststof pallet aan het einde van zijn leven?"
   a: "Kunststof pallets zijn volledig recyclebaar. We nemen ze terug: pallets in goede staat krijgen een tweede leven als gebruikte pallet, kapotte pallets vermalen we tot grondstof voor nieuwe pallets."
 published: '2024-01-31'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In het kort**
 >
 > * In de palletketen is transport de grootste bron van CO₂-uitstoot. Daarom produceren we dicht bij de klant.
-> * We maken onze pallets in zes Europese fabrieken. Bijna elke klant zit binnen 600 kilometer van een fabriek.
+> * We maken onze pallets in vijf Europese fabrieken. Bijna elke klant zit binnen 600 kilometer van een fabriek.
 > * Onze standaardpallets zijn van bijna 100% gerecycled kunststof. In 2025 verwerkten we 34.500 ton recyclaat.
 > * Dat recyclaat kopen we zo veel mogelijk in de regio in. Dat scheelt ook transport van grondstoffen.
 > * Aan het einde van hun leven nemen we pallets terug voor hergebruik of recycling.
@@ -31,7 +31,7 @@ updated: '2026-11-02'
 
 Een pallet is een volumineus product. Hoe verder hij moet reizen, hoe meer brandstof en uitstoot hij kost, nog voordat er iets op staat. Transport is dan ook de grootste bron van CO₂-uitstoot in de palletketen.
 
-Wij kiezen daarom voor [lokaal produceren](@about-local). We maken onze pallets in zes fabrieken: in Balk (Nederland), Ribe (Denemarken), Marktoberdorf (Duitsland), Nantes (Frankrijk), Lleida (Spanje) en Chesterfield (Verenigd Koninkrijk). Bijna elke klant zit binnen 600 kilometer van een van die fabrieken. Minder kilometers betekent lagere transportkosten en minder CO₂.
+Wij kiezen daarom voor [lokaal produceren](@about-local). We maken onze pallets in vijf fabrieken: in Balk (Nederland), Ribe (Denemarken), Marktoberdorf (Duitsland), Nantes (Frankrijk) en Lleida (Spanje). Bijna elke klant zit binnen 600 kilometer van een van die fabrieken. Minder kilometers betekent lagere transportkosten en minder CO₂.
 
 Dat telt ook in uw eigen rapportage. De uitstoot van ingekochte pallets en het transport ervan valt onder scope 3. Pallets die dichtbij worden gemaakt, drukken dat deel van uw voetafdruk.
 

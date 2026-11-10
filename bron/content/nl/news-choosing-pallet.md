@@ -17,7 +17,7 @@ faq:
 - q: "Is een kunststof pallet duurder dan een houten pallet?"
   a: "De aanschafprijs is vaak iets hoger. Een kunststof pallet gaat wel langer mee en heeft minder onderhoud nodig. Daardoor vallen de kosten over de hele levensduur vaak lager uit."
 published: '2023-04-12'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **In het kort**
 >
@@ -43,7 +43,7 @@ Onze pallets zijn verdeeld over drie draagklassen. Light pallets zijn licht en v
 
 ## Afmetingen: past de pallet bij lading en transport?
 
-De pallet moet groot genoeg zijn om uw lading goed te dragen en veilig te vervoeren. Ook uw transportmiddelen en stellingen bepalen de maat: de pallets moeten passen in uw vrachtwagen, trailer of container. In Europa is 1200 x 800 mm de standaard. Ons assortiment telt zo'n 130 uitvoeringen in negen formaten, van 600 x 400 tot 1300 x 1100 mm. In ons overzicht van [palletmaten](@guide-sizes) staan ze op een rij.
+De pallet moet groot genoeg zijn om uw lading goed te dragen en veilig te vervoeren. Ook uw transportmiddelen en stellingen bepalen de maat: de pallets moeten passen in uw vrachtwagen, trailer of container. In Europa is 1200 x 800 mm de standaard. Ons assortiment telt zo'n 125 uitvoeringen in negen formaten, van 600 x 400 tot 1300 x 1100 mm. In ons overzicht van [palletmaten](@guide-sizes) staan ze op een rij.
 
 ## Materiaal en gewicht
 

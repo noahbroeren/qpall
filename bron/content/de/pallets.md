@@ -1,7 +1,7 @@
 ---
 id: pallets
 title: "Kunststoffpaletten vom Hersteller kaufen - Q-Pall"
-description: "Kunststoffpaletten direkt vom Hersteller: rund 130 Ausführungen, von Light bis Heavy, aus sechs europäischen Werken. Unverbindlich ein Angebot anfordern."
+description: "Kunststoffpaletten direkt vom Hersteller: rund 125 Ausführungen, von Light bis Heavy, aus fünf europäischen Werken. Unverbindlich ein Angebot anfordern."
 eyebrow: "Sortiment"
 h1: "Kunststoffpaletten **direkt vom Hersteller**"
 lead: "Von der leichten, nestbaren Einwegpalette bis zur schweren Regalpalette für bis zu 2.000 kg. Filtern Sie nach Größe, Tragfähigkeit und Ausführung. Zu jeder Ausführung sehen Sie alle technischen Daten."
@@ -29,7 +29,7 @@ why:
       t: "Recycelter Kunststoff"
       d: "Fast 100 % recycelt und am Ende der Lebensdauer vollständig recycelbar."
     - icon: "factory"
-      t: "Sechs europäische Werke"
+      t: "Fünf europäische Werke"
       d: "Lokal produziert, Sie bezahlen also weniger Transportkilometer."
     - icon: "scale"
       t: "Maßhaltig, konstantes Gewicht"
@@ -41,7 +41,7 @@ why:
 
 ## Kunststoffpaletten für jede Anwendung
 
-Q-Pall entwickelt und produziert ausschließlich Kunststoffpaletten, und das seit 2005. Diesen Fokus sehen Sie im Sortiment: rund 130 Ausführungen in neun Größen, von der kompakten [Displaypalette 600 x 400 mm](@size-600x400) bis zur großen [Palette 1300 x 1100 mm für die Chemieindustrie](@size-1300x1100). Jedes Modell ist für eine klare Aufgabe konzipiert: Transport, Lagerung, Export, Pooling oder automatisierte Logistik.
+Q-Pall entwickelt und produziert ausschließlich Kunststoffpaletten, und das seit 2005. Diesen Fokus sehen Sie im Sortiment: rund 125 Ausführungen in neun Größen, von der kompakten [Displaypalette 600 x 400 mm](@size-600x400) bis zur großen [Palette 1300 x 1100 mm für die Chemieindustrie](@size-1300x1100). Jedes Modell ist für eine klare Aufgabe konzipiert: Transport, Lagerung, Export, Pooling oder automatisierte Logistik.
 
 ### Zuerst nach Größe wählen
 

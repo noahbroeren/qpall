@@ -17,7 +17,7 @@ faq:
 - q: "Que deviennent les palettes plastique en fin de vie ?"
   a: "Nous les reprenons et les broyons pour en faire la matière première de nouvelles palettes. La matière reste ainsi dans la boucle."
 published: '2025-07-03'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **En bref**
 >
@@ -59,8 +59,8 @@ En fin de vie, nous reprenons les palettes. Nous les broyons pour en faire de la
 Depuis 2005, Q-Pall fabrique exclusivement des palettes plastique. Voici notre approche :
 
 * **Matière recyclée.** Nous fabriquons nos palettes standard en plastique recyclé à près de 100 %, un mélange de HDPE et de PP. En savoir plus sur notre démarche à la page [développement durable](@about-sustainability).
-* **Production locale.** Nous fabriquons nos palettes dans six usines en Europe, au plus près de nos clients.
-* **Une large gamme.** Environ 130 versions en neuf formats et trois classes : Light, Medium et Heavy.
+* **Production locale.** Nous fabriquons nos palettes dans cinq usines en Europe, au plus près de nos clients.
+* **Une large gamme.** Environ 125 versions en neuf formats et trois classes : Light, Medium et Heavy.
 * **Personnalisation.** Nous adaptons les modèles existants, par exemple avec votre logo, une couleur propre ou un marquage.
 * **Un service impliqué.** Du premier conseil à la livraison, nous réfléchissons avec vous.
 

@@ -17,7 +17,7 @@ faq:
 - q: "Ist eine Kunststoffpalette teurer als eine Holzpalette?"
   a: "Der Anschaffungspreis ist oft etwas höher. Eine Kunststoffpalette hält jedoch länger und braucht weniger Wartung. Dadurch fallen die Kosten über die gesamte Lebensdauer oft niedriger aus."
 published: '2023-04-12'
-updated: '2026-11-02'
+updated: '2026-11-10'
 ---
 > **Kurz gesagt**
 >
@@ -43,7 +43,7 @@ Unsere Paletten sind in drei Lastklassen eingeteilt. Light-Paletten sind leicht 
 
 ## Abmessungen: Passt die Palette zu Ladung und Transport?
 
-Die Palette muss groß genug sein, um Ihre Ladung gut zu tragen und sicher zu transportieren. Auch Ihre Transportmittel und Regale bestimmen die Größe: Die Paletten müssen in Ihren Lkw, Auflieger oder Container passen. In Europa ist 1200 x 800 mm der Standard. Unser Sortiment umfasst rund 130 Ausführungen in neun Formaten, von 600 x 400 bis 1300 x 1100 mm. In unserer Übersicht der [Palettengrößen](@guide-sizes) finden Sie alle auf einen Blick.
+Die Palette muss groß genug sein, um Ihre Ladung gut zu tragen und sicher zu transportieren. Auch Ihre Transportmittel und Regale bestimmen die Größe: Die Paletten müssen in Ihren Lkw, Auflieger oder Container passen. In Europa ist 1200 x 800 mm der Standard. Unser Sortiment umfasst rund 125 Ausführungen in neun Formaten, von 600 x 400 bis 1300 x 1100 mm. In unserer Übersicht der [Palettengrößen](@guide-sizes) finden Sie alle auf einen Blick.
 
 ## Material und Gewicht
 
