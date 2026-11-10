@@ -1089,16 +1089,16 @@
  },
  "EUROPAL800RR": {
   "combi": 23,
-  "how": "table",
+  "how": "table; stacked alternately (upside down), stack 2050 mm (Q-Pall, 10-11-2026)",
   "place": [
    1200,
    1000,
-   2390
+   2050
   ],
   "place_combi": [
    1200,
    1000,
-   2390
+   2050
   ],
   "src": "EUROPAL800RR",
   "stack": 23
@@ -2025,16 +2025,16 @@
  },
  "RECYPAL1210RR": {
   "combi": 23,
-  "how": "table",
+  "how": "table; stacked alternately (upside down), stack 2050 mm (Q-Pall, 10-11-2026)",
   "place": [
    1200,
    1200,
-   2390
+   2050
   ],
   "place_combi": [
    1200,
    1200,
-   2390
+   2050
   ],
   "src": "RECYPAL1210RR",
   "stack": 23

@@ -823,5 +823,7 @@
  "click_p": "Die drei Kufen dieser Palette sind Klick-Kufen. Wir liefern die Paletten genestet, die Kufen liegen lose bei. Sie klicken sie ohne Werkzeug an, sobald Sie die Paletten einsetzen. So passen deutlich mehr Paletten in einen Lkw.",
  "click_spec_l": "Lieferung",
  "click_spec_v": "Genestet, Kufen lose dabei",
- "calc_note_click": "Die Paletten reisen genestet; die losen Kufen stehen auf eigenen Paletten und sind eingerechnet."
+ "calc_note_click": "Die Paletten reisen genestet; die losen Kufen stehen auf eigenen Paletten und sind eingerechnet.",
+ "alt_stack_l": "Stapelung",
+ "alt_stack_v": "Abwechselnd, umgedreht ineinander"
 }

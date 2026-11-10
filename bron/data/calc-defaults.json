@@ -128,8 +128,8 @@
  "EUROPAL800RR": {
   "tautliner": 598,
   "mega": 598,
-  "container20": 140,
-  "container40hc": 320
+  "container20": 230,
+  "container40hc": 460
  },
  "QP1210LB9FR": {
   "tautliner": 1170,
@@ -170,8 +170,8 @@
  "RECYCPAL1210RR": {
   "tautliner": 506,
   "mega": 506,
-  "container20": 56,
-  "container40hc": 144
+  "container20": 92,
+  "container40hc": 207
  },
  "QP1212LB9FR": {
   "tautliner": 990,

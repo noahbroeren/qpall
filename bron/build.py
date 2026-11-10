@@ -35,8 +35,9 @@ ACCS = DATA['accessories']
 PHOTOS = json.load(open(os.path.join(INPUT, 'photos.json')))
 # pallets per stack (= per pallet place on a tautliner) per article number: tools/stapels.py -> data/stapels.json
 STACKS = json.load(open(os.path.join(ROOT, 'data/stapels.json'), encoding='utf-8'))
-for _k in ('EUROPAL800RR', 'RECYPAL1210RR'):   # update 33: source row gives a wrong footprint and height; 'on request' until Q-Pall confirms
-    STACKS.pop(_k, None)
+# EUROPAL800RR and RECYPAL1210RR (update 43, Q-Pall via Noah 10 Nov 2026): stacked alternately, upside down into each
+# other, 23 per stack, 2050 mm high, on a place of 1200 x 1000 / 1200 x 1200 (no longer 'on request')
+ALT_STACK = {'EUROPAL800RR', 'RECYPAL1210RR'}
 LOGO = json.load(open(os.path.join(ROOT, 'data/logo_paths.json')))
 PPWR_FILES = {re.search(r'PG-(\d+)', f).group(1): os.path.basename(f) for f in glob.glob(os.path.join(INPUT, 'ppwr/*.pdf'))}
 
@@ -1119,6 +1120,8 @@ def spec_groups(m, lang, price=True):
     g4 = [(t['locations'] if len(m['locations']) > 1 else t['location'], X['locs_txt'])]
     if is_click_runner(m):
         g4.append((t['click_spec_l'], t['click_spec_v']))
+    if m['sku'] in ALT_STACK:
+        g4.append((t['alt_stack_l'], t['alt_stack_v']))
     if m.get('pack'):
         g4.append((t['packed'], f"{m['pack']} {t['pcs']}"))
     if m['ppwr']:

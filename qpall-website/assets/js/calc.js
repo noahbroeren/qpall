@@ -8,6 +8,9 @@ if (!document.getElementById('qpc')) return;
    lagen (perLayer), in plaats van "past niet".
    Pallets met klikbare onderlatten (QP…LB3RR, Q-Pall 9-11-2026) zijn nestbaar: genest geleverd, 3 onderlatten per
    pallet los op aparte onderlatpallets (CLICK_RUNNER, defaultRunners).
+   EUROPAL800RR en RECYCPAL1210RR (Q-Pall via Noah, 10-11-2026): om en om gestapeld (ondersteboven in elkaar), 23 per
+   stapel, stapel 2050 mm hoog, op een plaats van 1200 x 1000 / 1200 x 1200: vaste stapel (palletH, useFixedLimit), dus
+   ook in een container 23 per plaats.
    Verder niet aanpassen: de weergave staat in ui.js. build_assets.py plakt beide samen tot /assets/js/calc.js. */
         // Trailer Specifications (Lengths in mm, Width 2450mm, Heights vary)
         const trailers = {
@@ -71,14 +74,14 @@ if (!document.getElementById('qpc')) return;
             { id: "QP1208LB3RR", name: "QP1208LB3RR (1200x800)", l: 1200, w: 800, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 50, clickRunner: true },
             { id: "QP1208MB3RR", name: "QP1208MB3RR (1200x800)", l: 1200, w: 800, h: 145, limitTautliner: 17, limitCombi: 19 },
             { id: "QP1208HB3RR", name: "QP1208HB3RR (1200x800)", l: 1200, w: 800, h: 159, limitTautliner: 15, limitCombi: 18 },
-            { id: "EUROPAL800RR", name: "EUROPAL800RR (1200x800)", l: 1200, w: 1000, h: 150, limitTautliner: 23, limitCombi: 23 },
+            { id: "EUROPAL800RR", name: "EUROPAL800RR (1200x800)", l: 1200, w: 1000, h: 150, palletH: 2050, limitTautliner: 23, limitCombi: 23, useFixedLimit: true },
             { id: "QP1210LB9FR", name: "QP1210LB9FR (1200x1000)", l: 1200, w: 1000, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 50 },
             { id: "QP1210LB9FR-FOLIE", name: "QP1210LB9FR folie (1200x1000)", l: 1200, w: 1000, h: 150, palletH: 2130, limitTautliner: 40, limitCombi: 40, useFixedLimit: true },
             { id: "QP1210LB3RR", name: "QP1210LB3RR (1200x1000)", l: 1200, w: 1000, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 50, clickRunner: true },
             { id: "QP1210MB3RR", name: "QP1210MB3RR (1200x1000)", l: 1200, w: 1000, h: 150, limitTautliner: 17, limitCombi: 19 },
             { id: "QP1210HB3RR", name: "QP1210HB3RR (1200x1000)", l: 1200, w: 1000, h: 160, limitTautliner: 15, limitCombi: 18 },
             { id: "QP1210HP3R-AO", name: "QP1210HP3R-AO (1200x1000)", l: 1200, w: 1000, h: 165, limitTautliner: 15, limitCombi: 17 },
-            { id: "RECYCPAL1210RR", name: "RECYCPAL1210RR (1200x1000)", l: 1200, w: 1200, h: 150, limitTautliner: 23, limitCombi: 23 },
+            { id: "RECYCPAL1210RR", name: "RECYCPAL1210RR (1200x1000)", l: 1200, w: 1200, h: 150, palletH: 2050, limitTautliner: 23, limitCombi: 23, useFixedLimit: true },
             { id: "QP1212LB9FR", name: "QP1212LB9FR (1200x1200)", l: 1200, w: 1200, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 45 },
             { id: "QP1212LB3RR", name: "QP1212LB3RR (1200x1200)", l: 1200, w: 1200, h: 150, limitTautliner: 45, limitCombi: 55, nestPitch: 45, clickRunner: true },
             { id: "QP1212MB3RR", name: "QP1212MB3RR (1200x1200)", l: 1200, w: 1200, h: 156, limitTautliner: 16, limitCombi: 18 },

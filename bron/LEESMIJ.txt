@@ -985,3 +985,12 @@ UPDATE 42 (10 november 2026) - domein www.qpall.com (advies iClicks, besluit Noa
   In Netlify: www.qpall.com als primair domein, qpall.com erbij (Netlify stuurt het kale domein dan zelf ook door).
   Een oude URL op www gaat in één stap naar de nieuwe pagina (alle 1.414 uit het iClicks-bestand gecontroleerd).
   Noindex staat nog AAN.
+
+UPDATE 43 (10 november 2026) - stapel EUROPAL800RR en RECYPAL1210RR (Q-Pall via Noah):
+  Om en om gestapeld (ondersteboven in elkaar), 23 per stapel, stapel 2050 mm hoog. Palletplaats 1200 x 1000 (EUROPAL)
+  en 1200 x 1200 (RECYPAL). Niet meer "op aanvraag": productpagina "23 pallets per stapel, stapelmaat ca. 1200 x 1000 x
+  2050 mm", specificatie "Stapelen: Om en om, ondersteboven in elkaar" (i18n alt_stack_l/_v, 6 talen), offerte per stapel
+  van 23, datasheets opnieuw. tools/stapels.py zet de stapelhoogte op 2050 (de docx geeft de 2390 van de palletplaats).
+  Laadcalculator: vaste stapel (palletH 2050, useFixedLimit), dus ook in een container 23 per plaats.
+  EUROPAL800RR: 598 / 598 / 230 / 460 (was 598 / 598 / 140 / 320); RECYPAL1210RR: 506 / 506 / 92 / 207 (was 506 / 506 / 56 / 144)
+  (vrachtwagen / mega / 20 ft / 40 ft HC).

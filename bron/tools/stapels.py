@@ -126,6 +126,12 @@ def main():
                 o = min(cands, key=lambda o: (o['deck'] != m['deck'], o['sku']))
                 out[m['sku']] = dict(out[o['sku']], how='click-on runners, nested like ' + o['sku'])
                 similar.append(f"{m['sku']} -> {o['sku']} (click-on runners: nested) ({out[o['sku']]['stack']})")
+    # stacked alternately, upside down into each other (Q-Pall via Noah, 10 Nov 2026): 23 per stack, the stack is 2050 mm
+    # high (the docx gives the 2390 mm of the pallet place); the place is larger than the pallet itself
+    for sku in ('EUROPAL800RR', 'RECYPAL1210RR'):
+        if sku in out:
+            out[sku] = dict(out[sku], place=out[sku]['place'][:2] + [2050], place_combi=out[sku]['place_combi'][:2] + [2050],
+                            how='table; stacked alternately (upside down), stack 2050 mm (Q-Pall, 10-11-2026)')
     json.dump(out, open(os.path.join(ROOT, 'data', 'stapels.json'), 'w', encoding='utf-8'), indent=1, sort_keys=True, ensure_ascii=False)
     print(f'{len(out)} of {len(B.MODELS)} articles with a stack size -> data/stapels.json')
     print('similar article used (please confirm):')

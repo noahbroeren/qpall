@@ -823,5 +823,7 @@
  "click_p": "The three runners of this pallet are click-on runners. We deliver the pallets nested, with the runners supplied loose. You click them on without tools as soon as you start using the pallets. That way, far more pallets fit in one truck.",
  "click_spec_l": "Delivery",
  "click_spec_v": "Nested, runners supplied loose",
- "calc_note_click": "The pallets travel nested; the loose runners are on separate pallets and are included."
+ "calc_note_click": "The pallets travel nested; the loose runners are on separate pallets and are included.",
+ "alt_stack_l": "Stacking",
+ "alt_stack_v": "Alternately, upside down into each other"
 }

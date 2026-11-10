@@ -823,5 +823,7 @@
  "click_p": "Le tre slitte di questo pallet sono slitte a incastro. Consegniamo i pallet incastrati, con le slitte fornite a parte. Le agganciate senza attrezzi quando iniziate a usare i pallet. Così in un camion entrano molti più pallet.",
  "click_spec_l": "Consegna",
  "click_spec_v": "Incastrati, slitte a parte",
- "calc_note_click": "I pallet viaggiano incastrati; le slitte sono su pallet separati e sono incluse nel calcolo."
+ "calc_note_click": "I pallet viaggiano incastrati; le slitte sono su pallet separati e sono incluse nel calcolo.",
+ "alt_stack_l": "Impilamento",
+ "alt_stack_v": "Alternato, capovolti uno nell’altro"
 }
