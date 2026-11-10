@@ -12,6 +12,7 @@ faq:
     a: "Sullo scaffale il pallet poggia solo su due correnti e la parte centrale non è sostenuta. A terra, invece, il pallet è sostenuto su tutta la superficie. Per questo a terra un pallet può portare molto di più."
   - q: "I valori valgono anche per un carico concentrato?"
     a: "No. Tutti i valori presuppongono un carico distribuito uniformemente. Un carico concentrato o una distribuzione irregolare riducono la portata utilizzabile. Verificate quindi sempre il pallet con il vostro carico."
+reading: 5
 ---
 
 ## Portata statica

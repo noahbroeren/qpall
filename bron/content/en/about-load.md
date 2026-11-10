@@ -12,6 +12,7 @@ faq:
     a: "In racking, the pallet rests only on two beams and the middle is unsupported. On the floor, the pallet is supported across its entire surface. That is why a pallet can carry much more on the floor."
   - q: "Do the values also apply to a point load?"
     a: "No. All values assume an evenly distributed load. A point load or an uneven distribution reduces the usable capacity. So always check the pallet with your own load."
+reading: 5
 ---
 
 ## Static load

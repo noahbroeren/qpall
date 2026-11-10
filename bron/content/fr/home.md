@@ -27,7 +27,7 @@ finder:
 stats:
   - num: "2005"
     label: "année de création"
-  - num: "6"
+  - num: "5"
     label: "usines européennes"
   - num: "4 millions"
     label: "de palettes par an"

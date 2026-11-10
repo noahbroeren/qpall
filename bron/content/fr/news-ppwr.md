@@ -1,12 +1,12 @@
 ---
 id: news-ppwr
 title: "PPWR : quel impact sur l’emballage de transport ? – Q-Pall"
-description: "Le PPWR s’applique depuis le 12 août 2026. Ce que le règlement emballages change pour les palettes : réemploi, recyclabilité et contenu recyclé."
+description: "Le PPWR s’applique à partir du 12 août 2026. Ce que le règlement emballages change pour les palettes : réemploi, recyclabilité et contenu recyclé."
 eyebrow: "Actualités"
 tag: "Réglementation"
 crumb: "PPWR et emballage de transport"
 h1: "PPWR : que change le règlement emballages **pour votre emballage de transport ?**"
-lead: "Depuis le 12 août 2026, le règlement européen sur les emballages (PPWR) s’applique dans toute l’UE. Les palettes sont des emballages de transport. Qu’est-ce qui change pour vos palettes, et quand ?"
+lead: "À partir du 12 août 2026, le règlement européen sur les emballages (PPWR) s’applique dans toute l’UE. Les palettes sont des emballages de transport. Qu’est-ce qui change pour vos palettes, et quand ?"
 img_alt: "Entrepôt automatisé avec de hauts rayonnages et des convoyeurs à rouleaux chargés de cartons"
 reading: 5
 faq:

@@ -26,7 +26,7 @@
 </header>
 
 <section class="section-sm listing-sec" aria-label="{{ t.nav_pallets }}" data-pagefind-ignore>
-  <div class="wrap listing" data-listing>
+  <div class="wrap listing{% if models|length < 2 %} listing-single{% endif %}" data-listing>
     <aside class="filters" aria-label="{{ t.filters }}">
       <form id="filterform" onsubmit="return false">
         <div class="f-head"><h2>{{ t.filters }}</h2><button class="icon-btn f-close" type="button" data-close-filters aria-label="{{ t.close }}">{{ M.icon('close') }}</button></div>

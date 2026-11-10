@@ -576,15 +576,34 @@
   }
 
   /* ---------- product subnav ---------- */
+  // QA round (update 47): the current section is the last one whose top has passed just below the subnav; at the
+  // very bottom of the page the last section whose top is on screen wins (short last sections never reach the top).
+  // The active pill is scrolled into view horizontally on narrow screens.
   var subnav = $('.subnav');
-  if (subnav && 'IntersectionObserver' in window) {
-    var links = $$('a[href^="#"]', subnav);
-    var secIo = new IntersectionObserver(function (ents) {
-      ents.forEach(function (en) {
-        if (en.isIntersecting) links.forEach(function (a) { a.classList.toggle('is-current', a.getAttribute('href') === '#' + en.target.id); });
-      });
-    }, { rootMargin: '-40% 0px -55% 0px' });
-    links.forEach(function (a) { var t = d.getElementById(a.getAttribute('href').slice(1)); if (t) secIo.observe(t); });
+  if (subnav) {
+    var links = $$('a[href^="#"]', subnav), snIn = $('.subnav-in', subnav) || subnav;
+    var secs = links.map(function (a) { return d.getElementById(a.getAttribute('href').slice(1)); });
+    var curIx = -1, spyQueued = false;
+    var spy = function () {
+      spyQueued = false;
+      var line = subnav.getBoundingClientRect().bottom + 40, ix = -1;
+      secs.forEach(function (s, i) { if (s && s.getBoundingClientRect().top <= line) ix = i; });
+      if (window.innerHeight + window.pageYOffset >= d.documentElement.scrollHeight - 8) {
+        secs.forEach(function (s, i) { if (s && s.getBoundingClientRect().top < window.innerHeight * 0.85) ix = Math.max(ix, i); });
+      }
+      if (ix === curIx) return;
+      curIx = ix;
+      links.forEach(function (a, i) { a.classList.toggle('is-current', i === ix); });
+      var a = links[ix];
+      if (a && snIn.scrollWidth > snIn.clientWidth) {
+        var r = a.getBoundingClientRect(), wr = snIn.getBoundingClientRect();
+        snIn.scrollTo({ left: snIn.scrollLeft + (r.left - wr.left) - (wr.width - r.width) / 2, behavior: 'smooth' });
+      }
+    };
+    var queueSpy = function () { if (!spyQueued) { spyQueued = true; requestAnimationFrame(spy); } };
+    window.addEventListener('scroll', queueSpy, { passive: true });
+    window.addEventListener('resize', queueSpy);
+    spy();
   }
 
   /* ---------- quote form ---------- */
@@ -603,7 +622,10 @@
     });
     var qs = new URLSearchParams(location.search), prod = qs.get('product'), sku = (qs.get('sku') || '').trim();
     if (sku) {   // ?sku=5.QP1208MB3RR -> the matching 'SKU – name' option of the list
-      var opt = $$('#productlist option').map(function (o) { return o.value; }).filter(function (v) { return v.toUpperCase().indexOf(sku.toUpperCase() + ' – ') === 0; })[0];
+      var opts = $$('#productlist option').map(function (o) { return o.value; }), SKU = sku.toUpperCase() + ' – ';
+      var opt = opts.filter(function (v) { return v.toUpperCase().indexOf(SKU) === 0; })[0]
+        // a bare article number of a pallet that only exists in numbered versions (QP1208MB3RR -> 1.QP1208MB3RR)
+        || opts.filter(function (v) { return /^\d+\./.test(v) && v.toUpperCase().replace(/^\d+\./, '').indexOf(SKU) === 0; })[0];
       prod = opt || sku;
     }
     // quantity: pallets go per full stack; the stack size differs per pallet (data-stack on the option, from

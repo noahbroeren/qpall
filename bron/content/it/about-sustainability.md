@@ -5,6 +5,7 @@ description: "Q-Pall realizza pallet in plastica riciclata quasi al 100%, produc
 eyebrow: "Sostenibilità"
 h1: "Sostenibili **dalla materia prima al riciclo**"
 lead: "La sostenibilità è nel nostro DNA. Realizziamo i nostri pallet standard in plastica riciclata quasi al 100%, produciamo vicino ai nostri clienti e, a fine vita, i pallet tornano a essere materia prima."
+reading: 4
 ---
 
 ## La plastica riciclata come materia prima

@@ -100,7 +100,7 @@
       </div>
       {% endfor %}
     </div>
-    <p class="spec-note small muted"><b>{{ t.test_h }}.</b> {{ t.ds_disc_1 }} {{ t.ds_disc_3 }}</p>
+    <p class="spec-note small muted"><b>{{ t.test_h }}.</b> {% if m.rackable %}{{ t.ds_disc_1 }} {% endif %}{{ t.ds_disc_3 }}</p>
   </div>
 </section>
 
@@ -110,7 +110,7 @@
     {{ M.sec_head(t.sec_var, t.ds_variants, t.loc_note, 'h-var') }}
     <div class="table-scroll"><table class="data-table var-table">
       <thead><tr><th>{{ t.art_nr }}</th>{% if m.multicol %}<th>{{ t.colour }}</th>{% endif %}<th>{{ t.location }}</th><th>{{ t.dims }}</th><th>{{ t.weight }}</th><th>{{ t.static }}</th><th>{{ t.dynamic }}</th><th>{{ t.racking }}</th>{% if show_prices %}<th class="r">{{ t.price }}</th>{% endif %}</tr></thead>
-      <tbody>{% for v in variants %}<tr{% if v.current %} class="is-current" aria-current="page"{% endif %}><td>{% if v.current %}<b>{{ v.sku }}</b><span class="var-here">{{ t.this_page }}</span>{% else %}<a class="var-sku" href="{{ v.url }}">{{ v.sku }}</a><a class="var-quote" href="{{ v.url }}">{{ t.view_short }}{{ M.icon('arrow') }}</a>{% endif %}</td>{% if m.multicol %}<td>{{ v.colour }}</td>{% endif %}<td>{% if v.loc %}<span class="loc-inline">{{ M.flag(v.cc|lower) }}{{ v.loc }}</span>{% else %}<span class="muted">{{ t.loc_req }}</span>{% endif %}</td><td>{{ v.dims }}</td><td>{{ v.weight }}</td><td>{{ v.static }}</td><td>{{ v.dynamic }}</td><td>{{ v.racking }}</td>{% if show_prices %}<td class="r">{{ v.price }}</td>{% endif %}</tr>{% endfor %}</tbody>
+      <tbody>{% for v in variants %}<tr{% if v.current %} class="is-current" aria-current="page"{% endif %}><td class="var-k">{% if v.current %}<b>{{ v.sku }}</b><span class="var-here">{{ t.this_page }}</span>{% else %}<a class="var-sku" href="{{ v.url }}">{{ v.sku }}</a><a class="var-quote" href="{{ v.url }}">{{ t.view_short }}{{ M.icon('arrow') }}</a>{% endif %}</td>{% if m.multicol %}<td data-label="{{ t.colour }}">{{ v.colour }}</td>{% endif %}<td data-label="{{ t.location }}">{% if v.loc %}<span class="loc-inline">{{ M.flag(v.cc|lower) }}{{ v.loc }}</span>{% else %}<span class="muted">{{ t.loc_req }}</span>{% endif %}</td><td data-label="{{ t.dims }}">{{ v.dims }}</td><td data-label="{{ t.weight }}">{{ v.weight }}</td><td data-label="{{ t.static }}">{{ v.static }}</td><td data-label="{{ t.dynamic }}">{{ v.dynamic }}</td><td data-label="{{ t.racking }}">{{ v.racking }}</td>{% if show_prices %}<td class="r" data-label="{{ t.price }}">{{ v.price }}</td>{% endif %}</tr>{% endfor %}</tbody>
     </table></div>
     <p class="small muted mt-2">{{ t.variant_note }}</p>
   </div>

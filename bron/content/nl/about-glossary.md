@@ -24,6 +24,7 @@ faq:
     a: "Rechtstreeks bij Q-Pall, of via een van onze [internationale dealers](@dealers). Voor grote volumes neemt u direct contact met ons op."
   - q: "Wat kost een kunststof pallet?"
     a: "De prijs hangt af van het formaat, het gewicht en dus de hoeveelheid materiaal, het aantal en de afstand tot onze dichtstbijzijnde fabriek. [Vraag een offerte aan](@quote) voor een prijs op maat. In onze [prijsgids](@guide-prices) leest u wat de prijs bepaalt."
+reading: 6
 ---
 
 ## A tot Z
@@ -58,11 +59,11 @@ Pallets met geleidende additieven, zoals carbon black, die elektrostatische ontl
 ### Exportpallet
 Een lichte pallet voor een enkele reis, vaak nestbaar. Kunststof exportpallets zijn vrijgesteld van ISPM 15. Zie [exportpallets](@type-export).
 
-### HDPE en PP
-De twee kunststoffen waar onze standaardpallets vooral van zijn gemaakt: polyethyleen met hoge dichtheid (HDPE, recyclingcode 2) en polypropyleen (PP). In light pallets zit daarnaast LDPE. Beide zijn goed te recyclen. Meer uitleg over code 2 leest u in [gerecycled PE-HD 2: wat is het precies?](@news-hdpe)
-
 ### H1-pallet
 Een hygiënische kunststof pallet in europalletformaat, oorspronkelijk een poolpallet voor de vleesindustrie. Zie [hygiënische pallets](@type-hygienic).
+
+### HDPE en PP
+De twee kunststoffen waar onze standaardpallets vooral van zijn gemaakt: polyethyleen met hoge dichtheid (HDPE, recyclingcode 2) en polypropyleen (PP). In light pallets zit daarnaast LDPE. Beide zijn goed te recyclen. Meer uitleg over code 2 leest u in [gerecycled PE-HD 2: wat is het precies?](@news-hdpe)
 
 ### ISPM 15
 De internationale norm voor houten verpakkingsmateriaal bij export. Kunststof pallets zijn hiervan vrijgesteld. Zie [ISPM 15 en export](@guide-ispm).

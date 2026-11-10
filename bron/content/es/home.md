@@ -27,7 +27,7 @@ finder:
 stats:
   - num: "2005"
     label: "año de fundación"
-  - num: "6"
+  - num: "5"
     label: "fábricas europeas"
   - num: "4 mill."
     label: "palets al año"

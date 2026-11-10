@@ -400,10 +400,9 @@ a:hover>.booklet,a:hover .booklet{transform:rotate(0)}
 .phero-dark .lead{color:rgba(255,255,255,.8)}
 .phero-actions{display:flex;flex-wrap:wrap;align-items:center;gap:12px;margin-top:28px}
 .phero-404 .phero-in{padding-top:80px;padding-bottom:80px}
-.crumbs{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 26px;font-size:.82rem;color:var(--muted)}
-.crumbs li{display:flex;align-items:center;gap:6px}
-.crumbs li+li::before{content:"/";opacity:.5;flex:none}
-.crumbs li{min-width:0}
+.crumbs{display:block;list-style:none;margin:0 0 26px;font-size:.82rem;line-height:1.55;color:var(--muted)}
+.crumbs li{display:inline}
+.crumbs li+li::before{content:"/";opacity:.5;margin:0 .45em}
 .crumbs a{color:var(--muted);text-decoration:none}
 .crumbs a:hover{color:var(--ink)}
 .crumbs span[aria-current]{color:var(--ink);font-weight:500}
@@ -1202,6 +1201,8 @@ body.has-cmp .ftr{padding-bottom:84px}
   .sticky-cta.is-on{transform:none;visibility:visible;transition:transform .28s var(--ease),visibility 0s}
   .tpl-product.has-sticky .cmpbar{bottom:80px}
   .tpl-product.has-sticky .cookie{bottom:84px}
+  .tpl-product .ftr{padding-bottom:calc(76px + env(safe-area-inset-bottom))}
+  .tpl-product.has-cmp .ftr{padding-bottom:calc(150px + env(safe-area-inset-bottom))}
   .dl-grid{grid-template-columns:minmax(0,1fr)}
   .form-card{padding:20px}
   .form-grid{grid-template-columns:minmax(0,1fr)}
@@ -2373,4 +2374,55 @@ picture>source{display:none}   /* with display:contents the <source> would other
 .local-sec .plant-list .hq-mark .ico{width:18px;height:18px}
 @media (max-width:460px){
   .local-sec .plant-list{grid-template-columns:minmax(0,1fr)}
+}
+
+/* QA round (update 47): a text link with an icon that wraps to two lines keeps the icon right after the last word
+   (inline-flex pushed it to the far right edge) */
+p.small>.link-arrow{display:inline}
+p.small>.link-arrow .ico{display:inline-block;vertical-align:-.25em;margin-left:6px}
+
+/* QA round (update 47): the versions table on a product page becomes stacked cards on the phone instead of a
+   table cut off at the right edge */
+@media (max-width:720px){
+  .table-scroll table.var-table{min-width:0}
+  .var-table thead{display:none}
+  .var-table tbody,.var-table tr,.var-table td{display:block}
+  .var-table tr{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));padding-bottom:6px;border-bottom:1px solid var(--line)}
+  .var-table tbody tr:last-child{border-bottom:0}
+  .var-table td{border-bottom:0;padding:6px 14px 8px;white-space:normal}
+  .var-table td.var-k{grid-column:1/-1;display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;padding-top:12px;padding-bottom:4px}
+  .var-table td.var-k .var-here,.var-table td.var-k .var-quote{margin-left:0}
+  .var-table tr.is-current{background:var(--soft)}
+  .var-table td[data-label]::before{content:attr(data-label);display:block;margin-bottom:1px;font-size:.75rem;font-weight:400;color:var(--muted)}
+}
+
+/* QA round (update 47): a listing with a single pallet (600 x 400) has nothing to filter or sort */
+.listing-single{grid-template-columns:minmax(0,1fr)}
+.listing-single .filters,.listing-single .toolbar-r{display:none}
+
+/* QA round (update 47): typography. The build keeps sizes, units and the brand name together (see typo() in build.py);
+   headings, card titles and wrapping buttons spread their words evenly instead of leaving one word alone */
+.nw{white-space:nowrap}
+h1,h2,h3,h4,.pc-title,.btn,.eyebrow{text-wrap:balance}
+.prose p,.lead{text-wrap:pretty}
+/* wide tables: a soft shadow on the side that can still scroll */
+.table-scroll{background:linear-gradient(90deg,#fff 30%,rgba(255,255,255,0)) 0 0/40px 100% no-repeat local,
+  linear-gradient(270deg,#fff 30%,rgba(255,255,255,0)) 100% 0/40px 100% no-repeat local,
+  radial-gradient(farthest-side at 0 50%,rgba(29,28,76,.16),rgba(29,28,76,0)) 0 0/14px 100% no-repeat scroll,
+  radial-gradient(farthest-side at 100% 50%,rgba(29,28,76,.16),rgba(29,28,76,0)) 100% 0/14px 100% no-repeat scroll,#fff}
+
+/* QA round (update 47): compare on the phone. The bar keeps its labels on one line (the thumbnails make way), and in
+   the modal the row labels stay in view while the columns scroll sideways */
+@media (max-width:480px){
+  .cmpbar{gap:10px;padding:8px 10px 8px 12px}
+  .cmpbar .thumbs{display:none}
+  .cmpbar .btn,.cmpbar .link{white-space:nowrap}
+  .cmpbar .btn{flex:1}
+}
+@media (max-width:720px){
+  .modal-box{padding:18px 14px}
+  .cmp-table{font-size:.84rem}
+  .cmp-table th{position:sticky;left:0;z-index:1;width:96px;min-width:96px;padding-left:10px;padding-right:8px;box-shadow:1px 0 0 var(--line-2)}
+  .cmp-table td{min-width:148px}
+  .cmp-table img{width:112px;height:76px}
 }

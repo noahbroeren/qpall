@@ -12,6 +12,7 @@ faq:
     a: "In een stelling rust de pallet alleen op twee liggers en hangt het midden vrij. Op de vloer wordt de pallet over het hele oppervlak ondersteund. Daardoor kan een pallet op de vloer veel meer dragen."
   - q: "Gelden de waarden ook bij een puntbelasting?"
     a: "Nee. Alle waarden gaan uit van een gelijkmatig verdeelde last. Een puntbelasting of een ongelijke verdeling verlaagt de bruikbare capaciteit. Controleer de pallet daarom altijd met uw eigen lading."
+reading: 5
 ---
 
 ## Statische belasting

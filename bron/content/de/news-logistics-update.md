@@ -7,7 +7,7 @@ tag: "Supply Chain"
 crumb: "Logistik-Update März 2026"
 h1: "Update zur **globalen Logistik** und zu den Kunststoffpaletten von Q-Pall"
 lead: "Im März 2026 gerieten die globale Logistik und die Lieferketten durch die Entwicklungen im Nahen Osten unter Druck. Q-Pall blieb dank Produktion und Einkauf in Europa lieferfähig. Die Transportkosten stiegen jedoch."
-img_alt: "Hohe Stapel orangefarbener Kunststoffpaletten in einer Lagerhalle"
+img_alt: "Spritzgießmaschine mit Werkzeug in einem Werk von Q-Pall"
 reading: 2
 published: '2026-03-26'
 updated: '2026-11-10'

@@ -18,10 +18,10 @@ Een matrijs is de mal waarin we een pallet spuitgieten. In plaats van pallets do
 ## Onze productielocaties
 
 - **Balk (Nederland)**, in Friesland.
-- **Ribe (Denemarken).**
+- **Ribe (Denemarken)**, in Jutland.
 - **Marktoberdorf (Duitsland)**, in Beieren.
-- **Nantes (Frankrijk).**
-- **Lleida (Spanje).**
+- **Nantes (Frankrijk)**, in de regio Pays de la Loire.
+- **Lleida (Spanje)**, in Catalonië.
 
 Ons hoofdkantoor, Europees operationeel centrum en opslag staan in **Veghel**, in Noord-Brabant. Komt u zelf laden of lossen? [Meld uw transport vooraf aan](@transport).
 

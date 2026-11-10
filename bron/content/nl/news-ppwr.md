@@ -1,12 +1,12 @@
 ---
 id: news-ppwr
 title: "PPWR: wat betekent het voor uw transportverpakking? – Q-Pall"
-description: "De PPWR geldt sinds 12 augustus 2026. Wat betekent de verpakkingsverordening voor pallets: hergebruik, recyclebaarheid en gerecycled materiaal?"
+description: "De PPWR geldt vanaf 12 augustus 2026. Wat betekent de verpakkingsverordening voor pallets: hergebruik, recyclebaarheid en gerecycled materiaal?"
 eyebrow: "Nieuws"
 tag: "Regelgeving"
 crumb: "PPWR en transportverpakking"
 h1: "PPWR: wat betekent de verpakkingsverordening **voor uw transportverpakking?**"
-lead: "Sinds 12 augustus 2026 geldt de Europese verpakkingsverordening PPWR in de hele EU. Pallets zijn transportverpakking. Wat verandert er voor uw pallets, en wanneer?"
+lead: "Vanaf 12 augustus 2026 geldt de Europese verpakkingsverordening PPWR in de hele EU. Pallets zijn transportverpakking. Wat verandert er voor uw pallets, en wanneer?"
 img_alt: "Geautomatiseerd magazijn met hoge stellingen en rollenbanen met dozen"
 reading: 4
 faq:

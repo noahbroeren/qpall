@@ -7,7 +7,7 @@ tag: "Supply chain"
 crumb: "Point logistique mars 2026"
 h1: "Point sur la **logistique mondiale** et les palettes plastique Q-Pall"
 lead: "En mars 2026, les événements au Moyen-Orient ont mis la logistique mondiale sous pression. Q-Pall a continué à livrer de manière fiable grâce à une production et des achats en Europe. Les coûts de transport ont toutefois augmenté."
-img_alt: "Hautes piles de palettes plastique orange dans un entrepôt"
+img_alt: "Presse à injecter avec son moule dans une usine Q-Pall"
 reading: 2
 published: '2026-03-26'
 updated: '2026-11-10'

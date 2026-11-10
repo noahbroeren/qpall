@@ -108,7 +108,7 @@
   <div class="pc-badges">{{ badge_class(m.class) }}{% if m.is_new %}<span class="badge badge-new">{{ t.f_antislip }}</span>{% endif %}</div>
   <div class="pc-body">
     <span class="pc-size">{{ m.size_label }}</span>
-    <h3 class="pc-title"><a href="{{ m.url[lang] }}">{{ m.name[lang] }}</a></h3>
+    <h3 class="pc-title"><a href="{{ m.url[lang] }}">{{ m.card_name[lang] if m.card_name else m.name[lang] }}</a></h3>
     <span class="pc-sku">{{ t.art_nr_short }} {{ m.sku_txt }}</span>
     <span class="pc-loc">{% if X.loc_items %}{{ flag(X.loc_items[0].cc) }}{{ X.loc_items[0].label }}{% else %}{{ icon('factory') }}{{ t.pc_loc_req }}{% endif %}</span>
     <dl class="pc-specs">

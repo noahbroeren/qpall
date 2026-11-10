@@ -12,6 +12,7 @@ faq:
     a: "En rayonnage, la palette ne repose que sur deux lisses et le milieu n’est pas soutenu. Au sol, la palette est soutenue sur toute sa surface. C’est pourquoi une palette peut porter beaucoup plus au sol."
   - q: "Les valeurs s’appliquent-elles aussi à une charge ponctuelle ?"
     a: "Non. Toutes les valeurs supposent une charge répartie uniformément. Une charge ponctuelle ou une répartition inégale réduit la capacité utile. Vérifiez donc toujours la palette avec votre propre charge."
+reading: 5
 ---
 
 ## Charge statique

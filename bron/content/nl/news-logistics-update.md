@@ -7,7 +7,7 @@ tag: "Supply chain"
 crumb: "Logistieke update maart 2026"
 h1: "Update over **wereldwijde logistiek** en Q-Pall kunststof pallets"
 lead: "In maart 2026 kwam de wereldwijde logistiek onder druk te staan door de ontwikkelingen in het Midden-Oosten. Q-Pall bleef leverbetrouwbaar dankzij productie en inkoop in Europa. Wel stegen de transportkosten."
-img_alt: "Hoge stapels oranje kunststof pallets in een magazijn"
+img_alt: "Spuitgietmachine met matrijs in een fabriek van Q-Pall"
 reading: 2
 published: '2026-03-26'
 updated: '2026-11-10'

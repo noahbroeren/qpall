@@ -5,6 +5,7 @@ description: "Q-Pall produit localement des palettes en plastique recyclé à pr
 eyebrow: "Développement durable"
 h1: "Durable **de la matière première au recyclage**"
 lead: "La durabilité fait partie de notre ADN. Nous fabriquons nos palettes standard en plastique recyclé à près de 100 %, nous produisons près de nos clients et, en fin de vie, les palettes redeviennent matière première."
+reading: 4
 ---
 
 ## Le plastique recyclé comme matière première

@@ -1,12 +1,12 @@
 ---
 id: news-ppwr
 title: "PPWR: qué cambia para sus palets y envases – Q-Pall"
-description: "El PPWR se aplica desde el 12 de agosto de 2026. Qué supone el reglamento de envases para los palets: reutilización, reciclabilidad y contenido reciclado."
+description: "El PPWR se aplica a partir del 12 de agosto de 2026. Qué supone el reglamento de envases para palets: reutilización, reciclabilidad y contenido reciclado."
 eyebrow: "Noticias"
 tag: "Normativa"
 crumb: "PPWR y envases de transporte"
 h1: "PPWR: ¿qué supone el reglamento europeo **para sus envases de transporte?**"
-lead: "Desde el 12 de agosto de 2026, el reglamento europeo de envases PPWR se aplica en toda la UE. Los palets son envases de transporte. ¿Qué cambia para sus palets, y cuándo?"
+lead: "A partir del 12 de agosto de 2026, el reglamento europeo de envases PPWR se aplica en toda la UE. Los palets son envases de transporte. ¿Qué cambia para sus palets, y cuándo?"
 img_alt: "Almacén automatizado con estanterías altas y transportadores de rodillos con cajas"
 reading: 5
 faq:

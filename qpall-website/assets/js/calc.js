@@ -1494,7 +1494,7 @@ const SKUIMG={"QP6040MB4F": "display-pallet-600-x-400-x-155-open-deck-4-feet-med
     { id: '6080', key: '600x800', v: [['QP6080LR3RR', 'light'], ['QP6080M6FR', 'medium'], ['QP6080HB6FR', 'heavy']] },
     { id: '6040', key: '600x400', v: [['QP6040MB4F', 'medium'], ['QP6040HB4F', 'heavy']] }
   ];
-  var dim = function (z) { return z.key.replace('x', ' x '); };
+  var dim = function (z) { return z.key.replace('x', '\u00a0x\u00a0'); };   // never broken inside the size (QA update 47)
   var sub = function (z) { return NICK[z.key] || ''; };
   var sizeOf = function (sku) { return SIZES.filter(function (z) { return z.v.some(function (v) { return v[0] === sku; }); })[0]; };
   var varOf = function (sku) { return sizeOf(sku).v.filter(function (v) { return v[0] === sku; })[0]; };
@@ -1507,8 +1507,9 @@ const SKUIMG={"QP6040MB4F": "display-pallet-600-x-400-x-155-open-deck-4-feet-med
     var v = varOf(sku), c = clsOf(sku);
     return '<span class="badge badge-' + c + '">' + t(c) + '</span>' + (v[1] === 'nest' ? '<span class="qpc-tag">' + t('nest') + '</span>' : '') + (v[2] ? '<span class="qpc-tag">' + t(v[2]) + '</span>' : '');
   };
-  var label = function (sku) { var v = varOf(sku); return dim(sizeOf(sku)) + ' · ' + t(clsOf(sku)) + (v[1] === 'nest' ? ', ' + t('nest').toLowerCase() : '') + (v[2] ? ', ' + t(v[2]) : ''); };
-  var siteName = function (sku) { return CAT[sku] && CAT[sku].n; };
+  var label = function (sku) { var v = varOf(sku); return dim(sizeOf(sku)) + '\u00a0·\u00a0' + t(clsOf(sku)) + (v[1] === 'nest' ? ', ' + t('nest').toLowerCase() : '') + (v[2] ? ', ' + t(v[2]) : ''); };
+  // the foil-packed calculator article is the same pallet as its base article: it shows that pallet's name (QA update 47)
+  var siteName = function (sku) { var c = CAT[sku] || CAT[sku.replace(/-FOLIE$/, '')]; return c && c.n; };
 
   /* ---- state ---- */
   var PRE = root.getAttribute('data-sku') || '', PRESIZE = root.getAttribute('data-size') || '';
@@ -1619,7 +1620,7 @@ const SKUIMG={"QP6040MB4F": "display-pallet-600-x-400-x-155-open-deck-4-feet-med
     rows.forEach(function (x) {
       var it = s.items.filter(function (i) { return i.sku === x.sku; })[0], n = it && it.mode === 'num' ? it.qty : x.n;
       if (!n) return;
-      var site = (x.sku === PRE && root.getAttribute('data-site')) || (CAT[x.sku] && CAT[x.sku].s) || x.sku;
+      var site = (x.sku === PRE && root.getAttribute('data-site')) || ((CAT[x.sku] || CAT[x.sku.replace(/-FOLIE$/, '')]) || {}).s || x.sku;
       items.push(site + ':' + n);
       lines.push(nf(n) + ' x ' + label(x.sku) + ' (' + site + ')');
       if (it && isNest(x.sku) && it.runners) { var rs = NEST_RUNNER(x.sku); items.push(rs + ':' + n * 3); lines.push(nf(n * 3) + ' x ' + t('runner_l') + ' (' + rs + ')'); }

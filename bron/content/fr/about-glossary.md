@@ -24,6 +24,7 @@ faq:
     a: "Directement auprès de Q-Pall, ou via l’un de nos [distributeurs internationaux](@dealers). Pour les gros volumes, contactez-nous directement."
   - q: "Combien coûte une palette plastique ?"
     a: "Le prix dépend du format, du poids et donc de la quantité de matière, de la quantité commandée et de la distance jusqu’à notre usine la plus proche. [Demandez un devis](@quote) pour obtenir un prix sur mesure. Notre [guide des prix](@guide-prices) explique ce qui détermine le prix."
+reading: 6
 ---
 
 ## De A à Z

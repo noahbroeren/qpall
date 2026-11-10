@@ -24,4 +24,4 @@ Ein Palettenaufsatzrahmen aus Kunststoff nimmt keine Feuchtigkeit auf, verrottet
 
 ## Größen
 
-Wir liefern Palettenaufsatzrahmen in 600 x 800, 1200 x 800, 1200 x 1000 und 1200 x 1200 mm, in verschiedenen Ausführungen und Gewichten. Alle Modelle finden Sie unten.
+Wir liefern Palettenaufsatzrahmen in 600 x 800, 1200 x 800, 1200 x 1000 und 1200 x 1200 mm, in verschiedenen Ausführungen und Gewichten. Alle Modelle finden Sie oben auf dieser Seite.

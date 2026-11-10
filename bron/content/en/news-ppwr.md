@@ -1,12 +1,12 @@
 ---
 id: news-ppwr
 title: "PPWR: what it means for transport packaging – Q-Pall"
-description: "The PPWR has applied since 12 August 2026. What the EU packaging regulation means for pallets: reuse, recyclability grades and recycled content."
+description: "The PPWR applies from 12 August 2026. What the EU packaging regulation means for pallets: reuse, recyclability grades and recycled content."
 eyebrow: "News"
 tag: "Regulation"
 crumb: "PPWR and transport packaging"
 h1: "PPWR: what does the packaging regulation mean **for your transport packaging?**"
-lead: "The EU packaging regulation PPWR has applied across the EU since 12 August 2026. Pallets are transport packaging. What changes for your pallets, and when?"
+lead: "The EU packaging regulation PPWR applies across the EU from 12 August 2026. Pallets are transport packaging. What changes for your pallets, and when?"
 img_alt: "Automated warehouse with high racking and roller conveyors carrying boxes"
 reading: 5
 faq:

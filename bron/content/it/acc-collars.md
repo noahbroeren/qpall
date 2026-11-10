@@ -24,4 +24,4 @@ Una sponda in plastica non assorbe umidità, non marcisce e non ha schegge né c
 
 ## Formati
 
-Forniamo sponde per pallet nei formati 600 x 800, 1200 x 800, 1200 x 1000 e 1200 x 1200 mm, in diverse versioni e pesi. Trovate tutti i modelli qui sotto.
+Forniamo sponde per pallet nei formati 600 x 800, 1200 x 800, 1200 x 1000 e 1200 x 1200 mm, in diverse versioni e pesi. Trovate tutti i modelli in cima a questa pagina.

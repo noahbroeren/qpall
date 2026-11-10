@@ -24,4 +24,4 @@ Een kunststof palletrand neemt geen vocht op, rot niet en heeft geen splinters o
 
 ## Formaten
 
-We leveren palletranden in 600 x 800, 1200 x 800, 1200 x 1000 en 1200 x 1200 mm, in verschillende uitvoeringen en gewichten. Hieronder ziet u alle modellen.
+We leveren palletranden in 600 x 800, 1200 x 800, 1200 x 1000 en 1200 x 1200 mm, in verschillende uitvoeringen en gewichten. Bovenaan deze pagina ziet u alle modellen.

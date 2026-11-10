@@ -18,10 +18,10 @@ Un molde es la herramienta con la que inyectamos un palet. En lugar de llevar pa
 ## Nuestros centros de producción
 
 - **Balk (Países Bajos)**, en Frisia.
-- **Ribe (Dinamarca).**
+- **Ribe (Dinamarca)**, en Jutlandia.
 - **Marktoberdorf (Alemania)**, en Baviera.
-- **Nantes (Francia).**
-- **Lleida (España).**
+- **Nantes (Francia)**, en el País del Loira.
+- **Lleida (España)**, en Cataluña.
 
 Nuestra sede central, nuestro centro europeo de operaciones y nuestro almacén se encuentran en **Veghel**, en Brabante Septentrional. ¿Viene a recoger o a entregar usted mismo? [Registre su transporte con antelación](@transport).
 

@@ -18,10 +18,10 @@ Ein Werkzeug ist die Form, in der wir eine Palette spritzgießen. Statt Paletten
 ## Unsere Produktionsstandorte
 
 - **Balk (Niederlande)**, in Friesland.
-- **Ribe (Dänemark).**
+- **Ribe (Dänemark)**, in Jütland.
 - **Marktoberdorf (Deutschland)**, in Bayern.
-- **Nantes (Frankreich).**
-- **Lleida (Spanien).**
+- **Nantes (Frankreich)**, in der Region Pays de la Loire.
+- **Lleida (Spanien)**, in Katalonien.
 
 Unser Hauptsitz, unser europäisches Operations-Center und unser Lager befinden sich in **Veghel** in Nordbrabant. Sie holen selbst ab oder liefern selbst an? [Melden Sie Ihren Transport vorab an](@transport).
 

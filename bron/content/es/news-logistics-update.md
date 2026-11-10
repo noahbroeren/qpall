@@ -7,7 +7,7 @@ tag: "Cadena de suministro"
 crumb: "Actualización logística marzo 2026"
 h1: "Actualización sobre la **logística global** y los palets de plástico Q-Pall"
 lead: "En marzo de 2026, los acontecimientos en Oriente Medio pusieron bajo presión la logística mundial. Q-Pall siguió suministrando con fiabilidad gracias a su producción y compras en Europa. Eso sí, los costes de transporte subieron."
-img_alt: "Altas pilas de palets de plástico naranjas en un almacén"
+img_alt: "Máquina de inyección con molde en una fábrica de Q-Pall"
 reading: 2
 published: '2026-03-26'
 updated: '2026-11-10'

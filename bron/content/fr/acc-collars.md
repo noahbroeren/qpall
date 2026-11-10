@@ -24,4 +24,4 @@ Une rehausse en plastique n’absorbe pas l’humidité, ne pourrit pas et n’a
 
 ## Dimensions
 
-Nous fournissons des rehausses de palette en 600 x 800, 1200 x 800, 1200 x 1000 et 1200 x 1200 mm, en différentes versions et différents poids. Vous trouverez tous les modèles ci-dessous.
+Nous fournissons des rehausses de palette en 600 x 800, 1200 x 800, 1200 x 1000 et 1200 x 1200 mm, en différentes versions et différents poids. Vous trouverez tous les modèles en haut de cette page.

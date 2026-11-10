@@ -24,4 +24,4 @@ Un collarín de plástico no absorbe humedad, no se pudre y no tiene astillas ni
 
 ## Medidas
 
-Suministramos collarines en 600 x 800, 1200 x 800, 1200 x 1000 y 1200 x 1200 mm, en distintas versiones y pesos. Encontrará todos los modelos a continuación.
+Suministramos collarines en 600 x 800, 1200 x 800, 1200 x 1000 y 1200 x 1200 mm, en distintas versiones y pesos. Encontrará todos los modelos al principio de esta página.

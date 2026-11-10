@@ -27,7 +27,7 @@ finder:
 stats:
   - num: "2005"
     label: "Gründungsjahr"
-  - num: "6"
+  - num: "5"
     label: "europäische Werke"
   - num: "4 Mio."
     label: "Paletten pro Jahr"

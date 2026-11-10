@@ -5,6 +5,7 @@ description: "Q-Pall makes plastic pallets from nearly 100% recycled plastic, pr
 eyebrow: "Sustainability"
 h1: "Sustainable **from raw material to recycling**"
 lead: "Sustainability is in our DNA. We make our standard pallets from nearly 100% recycled plastic, we produce close to our customers, and at the end of their life the pallets become raw material again."
+reading: 4
 ---
 
 ## Recycled plastic as raw material

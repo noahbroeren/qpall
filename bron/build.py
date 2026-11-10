@@ -191,6 +191,10 @@ def _fix_names():
                 suf = {l: m['sku'] for l in LANGS}
             for l in LANGS:
                 m['name'][l] = f"{m['name'][l]} – {suf[l]}"
+            if suf['nl'] == m['sku'] or (lc and suf['nl'] == LOCATIONS[lc]['name']):
+                # cards show the article number and the factory on their own lines right below the title: the card title
+                # leaves that suffix out (QA update 47); the H1, title tag and alt text keep the full unique name
+                m['card_name'] = {l: m['name'][l][:-(len(suf[l]) + 3)] for l in LANGS}
     for l in LANGS:      # safety net: anything still double gets its article number
         seen = {}
         for m in MODELS:
@@ -302,7 +306,8 @@ for m in MODELS:
         t = T[l]
         w = rng_txt(m['weight'], l, 'kg', dec=True)
         h = m['height']
-        dims = f"{m['L']} x {m['W']} x {h[0] if h[0] == h[1] else str(h[0]) + '–' + str(h[1])} mm"
+        _L, _W = m.get('disp_LW') or (m['L'], m['W'])     # same order as the name (600 x 800, 760 x 1140), QA update 47
+        dims = f"{_L} x {_W} x {h[0] if h[0] == h[1] else str(h[0]) + '–' + str(h[1])} mm"
         intro, desc_html = PC.seo_parts(m, l)
         if is_click_runner(m):     # delivered nested, runners loose (update 38)
             desc_html += f"<h3>{t['click_h']}</h3><p>{t['click_p']}</p>"
@@ -1018,6 +1023,42 @@ def section_of(pid):
     return None
 
 
+_TYPO_SKIP = {'script', 'style', 'textarea', 'option', 'select', 'datalist', 'svg', 'pre', 'code', 'title', 'head'}
+_TYPO_TAG = re.compile(r'(<[^>]+>)')
+_TYPO_NAME = re.compile(r'<\s*(/?)\s*([a-zA-Z][\w:-]*)')
+_TYPO_RULES = [
+    (re.compile(r'(\d) ([x×]) (?=\d)'), '\\1\u00a0\\2\u00a0'),                                  # 1200 x 800
+    (re.compile(r'(\d) (?=(?:mm|cm|km|kg|MB|KB|°C|m|t|mln|millions?|Mio\.?|milioni|millones|uur|min)\b)'), '\\1\u00a0'),   # 800 mm, 9 MB, 4 mln
+    (re.compile(r'\b(Q-Pall|Q-Used|Pays-Bas)\b'), '<span class="nw">\\1</span>'),                  # never "Q-" / "Pall"
+]
+
+
+def typo(htmlstr):
+    """QA round (update 47): body text never breaks inside a size (1200 x 800), between a number and its unit, or at the
+    hyphen of the brand name. Text only: tags, attributes, scripts, SVG, form options and the head stay untouched."""
+    out, skip = [], []
+    for part in _TYPO_TAG.split(htmlstr):
+        if part.startswith('<'):
+            m = _TYPO_NAME.match(part)
+            if m and not part.startswith('<!'):
+                name = m.group(2).lower()
+                if name in _TYPO_SKIP:
+                    if m.group(1):
+                        if name in skip:
+                            while skip and skip.pop() != name:
+                                pass
+                    elif not part.rstrip().endswith('/>'):
+                        skip.append(name)
+            out.append(part)
+        elif skip or not part.strip():
+            out.append(part)
+        else:
+            for rx, rep in _TYPO_RULES:
+                part = rx.sub(rep, part)
+            out.append(part)
+    return ''.join(out)
+
+
 def write(path, htmlstr):
     full = os.path.join(OUT, path)
     if path.endswith('/') or path == '':
@@ -1028,6 +1069,8 @@ def write(path, htmlstr):
     _m = re.search(r'<html lang="([a-z]{2})', htmlstr)
     _lab = T[_m.group(1)]['tbl_scroll'] if _m and _m.group(1) in T else 'Tabel'
     htmlstr = htmlstr.replace('<div class="table-scroll">', f'<div class="table-scroll" tabindex="0" role="region" aria-label="{_lab}">')
+    if full.endswith('.html'):
+        htmlstr = typo(htmlstr)
     open(full, 'w', encoding='utf-8').write(htmlstr)
 
 
@@ -1107,7 +1150,9 @@ def render_listing(pid, lang):
     rk = [m['racking'][1] for m in ms if m['racking']]
     stats = [(t['lh_models'], fmt_int(len(ms), lang)),   # no price in the header card (Noah, Oct 2026)
              (t['static_l'] + ' max.', f"{fmt_int(max(m['static'][1] for m in ms), lang)} kg"),
-             (t['racking_l'] + ' max.', f"{fmt_int(max(rk), lang)} kg" if rk else '–')]
+             # nothing in this listing goes in a rack (nestable, 600 x 400): show the dynamic load instead of a dash (QA update 47)
+             (t['racking_l'] + ' max.', f"{fmt_int(max(rk), lang)} kg") if rk else
+             (t['dynamic_l'] + ' max.', f"{fmt_int(max(m['dynamic'][1] for m in ms), lang)} kg")]
     groups = [
         {'key': 'size', 'title': t['mm_by_size'], 'links': [{'label': s['label'].replace(' mm', ''), 'url': s['url'], 'current': pid == 'size-' + s['key']} for s in nav['sizes']]},
         {'key': 'type', 'title': t['mm_types'], 'links': [{'label': ty['label'], 'url': ty['url'], 'current': pid == 'type-' + ty['key']} for ty in nav['types']]},
@@ -1168,7 +1213,7 @@ def variant_rows(m, lang):
     for x in FAMILY_ITEMS[m['family']]:
         v = x['variants'][0]
         rows.append({'sku': v['sku'], 'id': x['id'], 'url': x['url'][lang], 'abs_url': abs_url(x['url'][lang]), 'current': x['id'] == m['id'],
-                     'dims': f"{v['L']} x {v['W']} x {v['H']}", 'weight': f"{fmt_dec(v['weight'], lang)} kg",
+                     'dims': ' x '.join(str(n) for n in (x.get('disp_LW') or (v['L'], v['W']))) + f" x {v['H']}", 'weight': f"{fmt_dec(v['weight'], lang)} kg",
                      'static': f"{fmt_int(v['static'], lang)} kg", 'dynamic': f"{fmt_int(v['dynamic'], lang)} kg",
                      'racking': f"{fmt_int(v['racking'], lang)} kg" if v['racking'] else '–',
                      'loc': loc_label(v['loc'], lang) if v['loc'] else None, 'cc': LOCATIONS[v['loc']]['cc'] if v['loc'] else None,
@@ -1267,7 +1312,7 @@ def calc_data(lang):
     for x in sorted(MODELS, key=lambda x: (0 if x.get('is_anchor', True) else 1, model_sort_key(x))):
         c, exact = calc_for_model(x)
         if c and exact and c not in names:
-            names[c] = {'n': x['name'][lang], 's': x['sku']}
+            names[c] = {'n': (x.get('card_name') or x['name'])[lang], 's': x['sku']}
     return {'t': T[lang]['calc_ui'], 'nick': T[lang]['size_nick'], 'cat': names}
 
 
@@ -1464,7 +1509,7 @@ RELATED_NEWS = {
     'guide-ispm': ['news-regulations', 'news-euro-export', 'news-price-wood'],
     'guide-wood': ['news-price-wood', 'news-why-plastic', 'news-environment'],
     'guide-prices': ['news-price-wood', 'news-economical', 'news-which-pallet'],
-    'guide-sizes': ['news-choosing-size', 'news-euro-export', 'news-medium-4840'],
+    'guide-sizes': ['news-choosing-size', 'news-euro-export', 'news-which-pallet'],
     'guide-choose': ['news-which-pallet', 'news-choosing-pallet', 'news-hdpe'],
     'guide-automation': ['news-process', 'news-stackup', 'news-choosing-size'],
     'sector-food': ['news-haccp', 'news-h1', 'news-cleaning'],
@@ -1482,10 +1527,10 @@ RELATED_NEWS = {
     'type-display': ['news-industries', 'news-auchan', 'news-choosing-size'],
     'type-block': ['news-heavy-range', 'news-stacking', 'news-damage'],
     'class-light': ['news-euro-export', 'news-stacking', 'news-which-pallet'],
-    'class-medium': ['news-medium-gen3', 'news-antislip-grip', 'news-medium-4840'],
+    'class-medium': ['news-medium-gen3', 'news-antislip-grip', 'news-choosing-pallet'],
     'class-heavy': ['news-heavy-range', 'news-heavy-family', 'news-poolpallet'],
     'size-1200x800': ['news-medium-gen3', 'news-euro-export', 'news-choosing-size'],
-    'size-1200x1000': ['news-medium-4840', 'news-poolpallet', 'news-choosing-size'],
+    'size-1200x1000': ['news-poolpallet', 'news-choosing-size', 'news-which-pallet'],
     'about-sustainability': ['news-ecovadis-silver', 'news-recycling', 'news-scopac'],
     'about-local': ['news-local', 'news-local-resilience', 'news-local-sustainability'],
     'about-custom': ['news-stackup', 'news-process', 'news-which-pallet'],
@@ -1523,12 +1568,17 @@ def related_news(pid, lang, m=None):
         ids = [n['id'] for n in allnews if n['tag'] == tag and n['id'] != pid] + [n['id'] for n in allnews]
     else:
         return []
+    # QA round (update 47): never the page's own photo again as a news cover right below it, and always a full row of
+    # three (a draft or hidden article in the list no longer leaves a gap): filled up with the newest articles
+    own = PAGE_PHOTO.get(pid)
+    skip_img = f"photos/{own}" if own else None
+    ids = list(ids) + [n['id'] for n in allnews]
     out, seen = [], {pid}
     for i in ids:
-        if i in by_id and i not in seen:
+        if i in by_id and i not in seen and PAGES[i].get('img') != skip_img:
             seen.add(i)
             out.append(by_id[i])
-    return out[:3]
+    return sorted(out[:3], key=lambda n: n['_eff'], reverse=True)     # the three cards newest first
 
 
 def add_toc(html):

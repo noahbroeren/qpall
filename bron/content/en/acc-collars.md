@@ -24,4 +24,4 @@ A plastic pallet collar does not absorb moisture, does not rot and has no splint
 
 ## Sizes
 
-We supply pallet collars in 600 x 800, 1200 x 800, 1200 x 1000 and 1200 x 1200 mm, in different versions and weights. You will find all models below.
+We supply pallet collars in 600 x 800, 1200 x 800, 1200 x 1000 and 1200 x 1200 mm, in different versions and weights. You will find all models at the top of this page.

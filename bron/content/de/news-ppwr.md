@@ -1,12 +1,12 @@
 ---
 id: news-ppwr
 title: "PPWR: Was sie für Ihre Transportverpackung bedeutet – Q-Pall"
-description: "Die PPWR gilt seit dem 12. August 2026. Was die EU-Verpackungsverordnung für Paletten bedeutet: Wiederverwendung, Recyclingfähigkeit, Rezyklatanteil."
+description: "Die PPWR gilt ab dem 12. August 2026. Was die EU-Verpackungsverordnung für Paletten bedeutet: Wiederverwendung, Recyclingfähigkeit, Rezyklatanteil."
 eyebrow: "Aktuelles"
 tag: "Vorschriften"
 crumb: "PPWR und Transportverpackung"
 h1: "PPWR: Was bedeutet die Verpackungsverordnung **für Ihre Transportverpackung?**"
-lead: "Seit dem 12. August 2026 gilt die EU-Verpackungsverordnung PPWR in der gesamten EU. Paletten sind Transportverpackungen. Was ändert sich für Ihre Paletten, und ab wann?"
+lead: "Ab dem 12. August 2026 gilt die EU-Verpackungsverordnung PPWR in der gesamten EU. Paletten sind Transportverpackungen. Was ändert sich für Ihre Paletten, und ab wann?"
 img_alt: "Automatisiertes Lager mit hohen Regalen und Rollenbahnen mit Kartons"
 reading: 4
 faq:

@@ -18,10 +18,10 @@ A mould is the tool in which we injection-mould a pallet. Instead of driving pal
 ## Our production sites
 
 - **Balk (the Netherlands)**, in Friesland.
-- **Ribe (Denmark).**
+- **Ribe (Denmark)**, in Jutland.
 - **Marktoberdorf (Germany)**, in Bavaria.
-- **Nantes (France).**
-- **Lleida (Spain).**
+- **Nantes (France)**, in Pays de la Loire.
+- **Lleida (Spain)**, in Catalonia.
 
 Our head office, European operations centre and storage are in **Veghel**, in North Brabant. Collecting or delivering yourself? [Register your transport in advance](@transport).
 

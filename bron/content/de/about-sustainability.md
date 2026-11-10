@@ -5,6 +5,7 @@ description: "Q-Pall fertigt Kunststoffpaletten aus fast 100 % recyceltem Kunsts
 eyebrow: "Nachhaltigkeit"
 h1: "Nachhaltig **vom Rohstoff bis zum Recycling**"
 lead: "Nachhaltigkeit liegt in unserer DNA. Wir fertigen unsere Standardpaletten aus fast 100 % recyceltem Kunststoff, produzieren nah bei unseren Kunden, und am Ende ihrer Lebensdauer werden die Paletten wieder zu Rohstoff."
+reading: 4
 ---
 
 ## Recycelter Kunststoff als Rohstoff

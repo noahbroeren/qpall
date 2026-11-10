@@ -27,7 +27,7 @@ finder:
 stats:
   - num: "2005"
     label: "anno di fondazione"
-  - num: "6"
+  - num: "5"
     label: "stabilimenti europei"
   - num: "4 mln"
     label: "pallet all’anno"

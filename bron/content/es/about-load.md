@@ -12,6 +12,7 @@ faq:
     a: "En la estantería, el palet solo se apoya sobre dos largueros y la parte central queda sin apoyo. En el suelo, el palet está apoyado en toda su superficie. Por eso un palet puede soportar mucho más en el suelo."
   - q: "¿Los valores también son válidos para una carga puntual?"
     a: "No. Todos los valores parten de una carga repartida uniformemente. Una carga puntual o un reparto desigual reducen la capacidad útil. Por eso, compruebe siempre el palet con su propia carga."
+reading: 5
 ---
 
 ## Carga estática

@@ -27,7 +27,7 @@ finder:
 stats:
   - num: "2005"
     label: "jaar van oprichting"
-  - num: "6"
+  - num: "5"
     label: "Europese fabrieken"
   - num: "4 mln"
     label: "pallets per jaar"

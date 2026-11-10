@@ -27,7 +27,7 @@ finder:
 stats:
   - num: "2005"
     label: "year founded"
-  - num: "6"
+  - num: "5"
     label: "European factories"
   - num: "4 million"
     label: "pallets per year"

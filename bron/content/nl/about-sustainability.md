@@ -5,6 +5,7 @@ description: "Q-Pall maakt pallets van bijna 100% gerecycled kunststof, producee
 eyebrow: "Duurzaamheid"
 h1: "Duurzaam **van grondstof tot recycling**"
 lead: "Duurzaamheid zit in ons DNA. Onze standaardpallets maken we van bijna 100% gerecycled kunststof, we produceren dicht bij onze klanten en aan het einde van hun levensduur worden de pallets weer grondstof."
+reading: 4
 ---
 
 ## Gerecycled kunststof als grondstof

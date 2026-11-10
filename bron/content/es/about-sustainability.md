@@ -5,6 +5,7 @@ description: "Q-Pall fabrica palets de plástico con plástico casi 100% recicla
 eyebrow: "Sostenibilidad"
 h1: "Sostenibilidad **de la materia prima al reciclaje**"
 lead: "La sostenibilidad está en nuestro ADN. Fabricamos nuestros palets estándar con plástico casi 100% reciclado, producimos cerca de nuestros clientes y, al final de su vida útil, los palets vuelven a ser materia prima."
+reading: 4
 ---
 
 ## Plástico reciclado como materia prima

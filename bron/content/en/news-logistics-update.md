@@ -7,7 +7,7 @@ tag: "Supply chain"
 crumb: "Logistics update March 2026"
 h1: "Update on **global logistics** and Q-Pall plastic pallets"
 lead: "In March 2026, developments in the Middle East put global logistics under pressure. Q-Pall kept supplying reliably thanks to production and sourcing within Europe. Transport costs, however, did rise."
-img_alt: "Tall stacks of orange plastic pallets in a warehouse"
+img_alt: "Injection moulding machine with a mould in a Q-Pall factory"
 reading: 2
 published: '2026-03-26'
 updated: '2026-11-10'

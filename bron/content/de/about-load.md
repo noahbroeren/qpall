@@ -12,6 +12,7 @@ faq:
     a: "Im Regal liegt die Palette nur auf zwei Traversen auf, die Mitte ist nicht unterstützt. Auf dem Boden wird die Palette über ihre gesamte Fläche gestützt. Deshalb kann eine Palette auf dem Boden viel mehr tragen."
   - q: "Gelten die Werte auch für Punktlasten?"
     a: "Nein. Alle Werte gehen von einer gleichmäßig verteilten Last aus. Eine Punktlast oder eine ungleichmäßige Verteilung verringert die nutzbare Tragfähigkeit. Prüfen Sie die Palette daher immer mit Ihrer eigenen Ladung."
+reading: 5
 ---
 
 ## Statische Belastung

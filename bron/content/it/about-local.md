@@ -18,10 +18,10 @@ Lo stampo è l’attrezzatura in cui stampiamo a iniezione un pallet. Invece di 
 ## I nostri siti produttivi
 
 - **Balk (Paesi Bassi)**, in Frisia.
-- **Ribe (Danimarca).**
+- **Ribe (Danimarca)**, nello Jutland.
 - **Marktoberdorf (Germania)**, in Baviera.
-- **Nantes (Francia).**
-- **Lleida (Spagna).**
+- **Nantes (Francia)**, nei Paesi della Loira.
+- **Lleida (Spagna)**, in Catalogna.
 
 La nostra sede centrale, il centro operativo europeo e il magazzino si trovano a **Veghel**, nel Brabante Settentrionale. Ritirate o consegnate in proprio? [Registrate in anticipo il vostro trasporto](@transport).
 
