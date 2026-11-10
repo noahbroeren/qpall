@@ -1027,3 +1027,7 @@ UPDATE 45 (10 november 2026) - Chesterfield van de site, 48 x 40-pallets eraf, 2
     Gewijzigde artikelen: updated 2026-11-10. og-afbeeldingen met "5 Europese fabrieken" opnieuw gemaakt.
   CATALOGUS (PDF's van Noah, input/catalogus): bevat nog de QP4048- en 2.QP1210MB3RR-pallets; opnieuw maken met de
     nieuwe productexport (124 pallets).
+
+UPDATE 46 (10 november 2026) - fabriekenlijst naast de kaart (home): Veghel staat nu als eerste tegel in hetzelfde
+  raster als de fabrieken, 2 kolommen x 3 rijen, gelijke tegels met 8 px ruimte (geen vakjes meer tegen elkaar);
+  mobiel 1 kolom (templates/home.html, site.css onderaan).

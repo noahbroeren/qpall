@@ -2358,3 +2358,19 @@ picture>source{display:none}   /* with display:contents the <source> would other
 /* class cards: 'Europallet vanaf € x' may wrap (long in French) */
 .serie-foot{flex-wrap:wrap;row-gap:2px}
 .serie-foot b{white-space:normal;text-align:right;margin-left:auto}
+
+/* update 46: factory list next to the map = one even grid of tiles: Veghel (head office) first, then the factories
+   (2 columns, 3 rows with five factories); every tile has the same height and some space around it */
+.local-sec .plant-list{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-bottom:28px}
+.local-sec .plant-list li{display:block;padding:0;border:0}
+.local-sec .plant-list .plant-btn{width:100%;height:100%;min-height:58px;margin:0;padding:10px 14px;gap:12px;border-radius:var(--r-q-sm);background:#fff}
+.local-sec .plant-list .plant-btn:hover,.local-sec .plant-list .plant-btn.is-on{background:#FEF1E8}
+.local-sec .plant-list button.hq-row:hover,.local-sec .plant-list button.hq-row.is-on{background:#E9E9F2}
+.local-sec .plant-list .plant-btn>span:last-child{display:flex;flex-wrap:wrap;align-items:baseline;column-gap:6px;row-gap:0;min-width:0}
+.local-sec .plant-list .plant-btn small{margin:0;font-size:.85rem}
+.local-sec .plant-list .flag{width:24px;height:24px;flex:none}
+.local-sec .plant-list .hq-mark{width:30px;height:30px;margin-left:-3px;margin-right:-3px}
+.local-sec .plant-list .hq-mark .ico{width:18px;height:18px}
+@media (max-width:460px){
+  .local-sec .plant-list{grid-template-columns:minmax(0,1fr)}
+}
