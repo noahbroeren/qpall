@@ -994,3 +994,9 @@ UPDATE 43 (10 november 2026) - stapel EUROPAL800RR en RECYPAL1210RR (Q-Pall via 
   Laadcalculator: vaste stapel (palletH 2050, useFixedLimit), dus ook in een container 23 per plaats.
   EUROPAL800RR: 598 / 598 / 230 / 460 (was 598 / 598 / 140 / 320); RECYPAL1210RR: 506 / 506 / 92 / 207 (was 506 / 506 / 56 / 144)
   (vrachtwagen / mega / 20 ft / 40 ft HC).
+
+UPDATE 44 (10 november 2026) - foto met de oranje gewikkelde stapels in een hal (photo-stacks) van de site, op verzoek
+  van Noah: hij mag nergens meer terugkomen. Bronbestand input/brand/photo-stacks.webp verwijderd. Omslag van het bericht
+  "Update over wereldwijde logistiek" (6 talen, ook de kaartjes in nieuws, sector logistiek en gerelateerde berichten):
+  nu photo-custom (spuitgietmachine, produceren in Europa). Deelafbeelding (og) van Dealers: nu hq-aerial. og opnieuw
+  gemaakt voor dealers en news-logistics-update.
