@@ -1,7 +1,7 @@
 """Global configuration: company data, taxonomy (sizes / types / classes) and the page registry (6 languages)."""
 import os as _os
 
-DOMAIN = 'https://qpall.com'          # primair domein zonder www (besluit Noah, 28-10-2026); www.qpall.com stuurt hierheen
+DOMAIN = 'https://www.qpall.com'      # primair domein MET www (advies iClicks, besluit Noah 10-11-2026: zoals de huidige site); qpall.com stuurt hierheen
 LANGS = ['nl', 'en', 'de', 'fr', 'it', 'es']
 DEFAULT_LANG = 'nl'
 X_DEFAULT = 'en'          # hreflang x-default -> English version

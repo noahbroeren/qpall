@@ -64,30 +64,30 @@
 /en/plastic-pallet-1200-x-800-open-deck-3-runners-1025  /en/plastic-pallets/1200-x-800-mm/plastic-pallet-1200-x-800-x-160-open-deck-3-runners-light/  301
 /nl/pallets/display-pallets/  /kunststof-pallets/display-pallets/  301
 # Oude landendomeinen (ook als domain alias in Netlify toevoegen)
-https://qpall-kunststof-pallets.nl/*  https://qpall.com/kunststof-pallets/  301!
-http://qpall-kunststof-pallets.nl/*  https://qpall.com/kunststof-pallets/  301!
-https://www.qpall-kunststof-pallets.nl/*  https://qpall.com/kunststof-pallets/  301!
-http://www.qpall-kunststof-pallets.nl/*  https://qpall.com/kunststof-pallets/  301!
-https://qpall-kunststoff-paletten.de/*  https://qpall.com/de/kunststoffpaletten/  301!
-http://qpall-kunststoff-paletten.de/*  https://qpall.com/de/kunststoffpaletten/  301!
-https://www.qpall-kunststoff-paletten.de/*  https://qpall.com/de/kunststoffpaletten/  301!
-http://www.qpall-kunststoff-paletten.de/*  https://qpall.com/de/kunststoffpaletten/  301!
-https://qpall-palettes-plastique.fr/*  https://qpall.com/fr/palettes-plastique/  301!
-http://qpall-palettes-plastique.fr/*  https://qpall.com/fr/palettes-plastique/  301!
-https://www.qpall-palettes-plastique.fr/*  https://qpall.com/fr/palettes-plastique/  301!
-http://www.qpall-palettes-plastique.fr/*  https://qpall.com/fr/palettes-plastique/  301!
-https://qpall-paletas-de-plastico.es/*  https://qpall.com/es/palets-de-plastico/  301!
-http://qpall-paletas-de-plastico.es/*  https://qpall.com/es/palets-de-plastico/  301!
-https://www.qpall-paletas-de-plastico.es/*  https://qpall.com/es/palets-de-plastico/  301!
-http://www.qpall-paletas-de-plastico.es/*  https://qpall.com/es/palets-de-plastico/  301!
-https://qpall-plastic-pallets.com/*  https://qpall.com/en/plastic-pallets/  301!
-http://qpall-plastic-pallets.com/*  https://qpall.com/en/plastic-pallets/  301!
-https://www.qpall-plastic-pallets.com/*  https://qpall.com/en/plastic-pallets/  301!
-http://www.qpall-plastic-pallets.com/*  https://qpall.com/en/plastic-pallets/  301!
-https://qpall-pallet-in-plastica.it/*  https://qpall.com/it/pallet-in-plastica/  301!
-http://qpall-pallet-in-plastica.it/*  https://qpall.com/it/pallet-in-plastica/  301!
-https://www.qpall-pallet-in-plastica.it/*  https://qpall.com/it/pallet-in-plastica/  301!
-http://www.qpall-pallet-in-plastica.it/*  https://qpall.com/it/pallet-in-plastica/  301!
+https://qpall-kunststof-pallets.nl/*  https://www.qpall.com/kunststof-pallets/  301!
+http://qpall-kunststof-pallets.nl/*  https://www.qpall.com/kunststof-pallets/  301!
+https://www.qpall-kunststof-pallets.nl/*  https://www.qpall.com/kunststof-pallets/  301!
+http://www.qpall-kunststof-pallets.nl/*  https://www.qpall.com/kunststof-pallets/  301!
+https://qpall-kunststoff-paletten.de/*  https://www.qpall.com/de/kunststoffpaletten/  301!
+http://qpall-kunststoff-paletten.de/*  https://www.qpall.com/de/kunststoffpaletten/  301!
+https://www.qpall-kunststoff-paletten.de/*  https://www.qpall.com/de/kunststoffpaletten/  301!
+http://www.qpall-kunststoff-paletten.de/*  https://www.qpall.com/de/kunststoffpaletten/  301!
+https://qpall-palettes-plastique.fr/*  https://www.qpall.com/fr/palettes-plastique/  301!
+http://qpall-palettes-plastique.fr/*  https://www.qpall.com/fr/palettes-plastique/  301!
+https://www.qpall-palettes-plastique.fr/*  https://www.qpall.com/fr/palettes-plastique/  301!
+http://www.qpall-palettes-plastique.fr/*  https://www.qpall.com/fr/palettes-plastique/  301!
+https://qpall-paletas-de-plastico.es/*  https://www.qpall.com/es/palets-de-plastico/  301!
+http://qpall-paletas-de-plastico.es/*  https://www.qpall.com/es/palets-de-plastico/  301!
+https://www.qpall-paletas-de-plastico.es/*  https://www.qpall.com/es/palets-de-plastico/  301!
+http://www.qpall-paletas-de-plastico.es/*  https://www.qpall.com/es/palets-de-plastico/  301!
+https://qpall-plastic-pallets.com/*  https://www.qpall.com/en/plastic-pallets/  301!
+http://qpall-plastic-pallets.com/*  https://www.qpall.com/en/plastic-pallets/  301!
+https://www.qpall-plastic-pallets.com/*  https://www.qpall.com/en/plastic-pallets/  301!
+http://www.qpall-plastic-pallets.com/*  https://www.qpall.com/en/plastic-pallets/  301!
+https://qpall-pallet-in-plastica.it/*  https://www.qpall.com/it/pallet-in-plastica/  301!
+http://qpall-pallet-in-plastica.it/*  https://www.qpall.com/it/pallet-in-plastica/  301!
+https://www.qpall-pallet-in-plastica.it/*  https://www.qpall.com/it/pallet-in-plastica/  301!
+http://www.qpall-pallet-in-plastica.it/*  https://www.qpall.com/it/pallet-in-plastica/  301!
 # Eigen redirects (data/redirects-extra.txt)
 # 301-redirects van de oude qpall.com naar de nieuwe site (gemaakt door tools/redirects_qpall.py, niet met de hand wijzigen;
 # update 19: doelen van N.QP1210LB9FR/-CD en N.QP1210LB3RR omgezet naar 2.QP1210LB9FR/-CD en 2.QP1210LB3RR)

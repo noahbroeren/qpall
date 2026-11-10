@@ -54,9 +54,9 @@
     Cache-Control = "public, max-age=86400"
     X-Robots-Tag = "noindex"
 
-# Canonieke host: qpall.com zonder www (zet in Netlify www.qpall.com als domain alias)
+# Canonieke host: www.qpall.com, zoals de huidige site (update 42; zet in Netlify www.qpall.com als primair domein)
 [[redirects]]
-  from = "https://www.qpall.com/*"
-  to = "https://qpall.com/:splat"
+  from = "https://qpall.com/*"
+  to = "https://www.qpall.com/:splat"
   status = 301
   force = true

@@ -978,3 +978,10 @@ UPDATE 41 (10 november 2026) - definitief redirectbestand iClicks (Vincent Dekke
   waarvan de bestemming onder het eigen patroon valt (live getest: 404); tools/redirects_check.py houdt daar nu rekening mee.
   Domein blijft qpall.com zonder www (besluit update 34); de regels zijn relatieve paden en werken dus op elk domein.
   Noindex staat nog AAN (NOINDEX_ALL = True), op verzoek van Noah.
+
+UPDATE 42 (10 november 2026) - domein www.qpall.com (advies iClicks, besluit Noah; de huidige site draait ook op www):
+  site_config.DOMAIN = 'https://www.qpall.com': canonical, hreflang, sitemap, robots.txt (Sitemap-regel), og/JSON-LD,
+  llms.txt en de oude landendomeinen wijzen naar www. netlify.toml stuurt https://qpall.com/* met een 301 naar www.
+  In Netlify: www.qpall.com als primair domein, qpall.com erbij (Netlify stuurt het kale domein dan zelf ook door).
+  Een oude URL op www gaat in één stap naar de nieuwe pagina (alle 1.414 uit het iClicks-bestand gecontroleerd).
+  Noindex staat nog AAN.

@@ -108,7 +108,7 @@ exports.handler = async (event) => {
   const key = process.env.BREVO_API_KEY;
   if (!key) { console.log('BREVO_API_KEY not set: no confirmation sent'); return { statusCode: 200, body: 'no key' }; }
 
-  const base = (process.env.MAIL_BASE_URL || process.env.URL || 'https://qpall.com').replace(/\/$/, '');
+  const base = (process.env.MAIL_BASE_URL || process.env.URL || 'https://www.qpall.com').replace(/\/$/, '');
   const mail = build(lang, data, base);
   const body = {
     sender: { name: process.env.MAIL_FROM_NAME || 'Q-Pall', email: process.env.MAIL_FROM || 'info@qpall.com' },

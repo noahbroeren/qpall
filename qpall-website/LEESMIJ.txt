@@ -53,8 +53,8 @@ c) Formulieren: Site configuration > Forms > "Enable form detection" en
    Stel per formulier een e-mailmelding in: Forms > Form notifications >
    Email notification > info@qpall.com (of de juiste afdeling);
    sollicitatie > oudshoorn@qpall.com.
-d) Domein: Domain management > Add domain > qpall.com als primair
-   domein, www.qpall.com als alias (netlify.toml stuurt www door naar qpall.com).
+d) Domein: Domain management > Add domain > www.qpall.com als primair
+   domein, qpall.com erbij (netlify.toml stuurt qpall.com door naar www).
    HTTPS wordt automatisch aangemaakt.
    Voeg ook de zes oude landendomeinen toe als alias (met en zonder www):
    qpall-kunststof-pallets.nl, qpall-kunststoff-paletten.de,
@@ -92,7 +92,7 @@ Vóór het omzetten van de DNS:
   * Komen er nog pagina's bij op de oude site, draai dan in het bronpakket
     tools/redirects_qpall.py opnieuw (zie LEESMIJ.txt in het bronpakket).
 Direct na livegang:
-  * Search Console: sitemap https://qpall.com/sitemap.xml indienen.
+  * Search Console: sitemap https://www.qpall.com/sitemap.xml indienen.
   * Rich Results Test op een productpagina met prijs: Product + Offer +
     BreadcrumbList + FAQ.
   * Volg 2 tot 4 weken het rapport "Pagina's" voor 404's.

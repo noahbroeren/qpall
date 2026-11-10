@@ -4,9 +4,8 @@ from html.parser import HTMLParser
 from urllib.parse import urlparse, unquote
 
 OUT = sys.argv[1] if len(sys.argv) > 1 else os.environ.get('QP_OUT') or os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'qpall-website')
-DOMAIN = 'https://qpall.com'
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from site_config import NOINDEX_ALL  # site-wide noindex (pre-launch): pages are still checked as if indexable
+from site_config import NOINDEX_ALL, DOMAIN  # site-wide noindex (pre-launch): pages are still checked as if indexable
 LANGS = {'nl', 'en', 'de', 'fr', 'it', 'es'}
 VOID = {'area', 'base', 'br', 'col', 'embed', 'hr', 'img', 'input', 'link', 'meta', 'source', 'track', 'wbr', 'use', 'path', 'circle', 'rect', 'line', 'stop'}
 

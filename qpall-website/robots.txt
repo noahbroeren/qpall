@@ -7,4 +7,4 @@ User-agent: Google-Extended
 Allow: /
 Disallow: /pagefind/
 
-Sitemap: https://qpall.com/sitemap.xml
+Sitemap: https://www.qpall.com/sitemap.xml
