@@ -2154,6 +2154,16 @@ def search_records():
             out.append({'t': re.sub(' – ' + re.escape(m['sku']) + '$', '', m['name'][lang]), 'u': m['url'][lang], 'i': m['img_sm'],
                         's': f"{t['art_nr_short']} {m['sku_txt']} · {m['size_label']} · {m['class'].capitalize()} · {t['static']} {m['txt'][lang]['static_short']}",
                         'k': re.sub(r'\s+', ' ', ' '.join(words)).strip(), 'x': [v['sku'].lower() for v in m['variants']], 'n': t['size_nick'][m['size']]})
+        # accessories by article number too (update 53): a search for QPRUN1111 lands on that runner on its page
+        acc_page = {k: pid for pid, pg in PAGES.items() if pg.get('tpl') == 'acc' and pg.get('acc') for k in pg['acc']}
+        for a in ACCS:
+            pid = acc_page.get(a['kind'])
+            if not pid:
+                continue
+            it = acc_item(a, lang)
+            out.append({'t': str(it['name']).replace('\u00a0', ' '), 'u': url(pid, lang) + '#' + it['anchor'], 'i': it.get('img') or '',
+                        's': f"{t['art_nr_short']} {a['sku']} · {short_title(pid, lang)}",
+                        'k': f"{short_title(pid, lang)} {a['sku']}", 'x': [a['sku'].lower()], 'n': ''})
         cats = []
         for pid, pg in PAGES.items():
             if pg.get('tpl') != 'listing' or pid not in CONTENT[lang]:
