@@ -226,7 +226,14 @@
         var has = function (x) { return terms.every(function (t) { return x._h.indexOf(t) > -1; }); };
         var whole = prep(q).replace(/[,;:!?()"]/g, ' ').replace(/\s+/g, ' ').trim();
         // ranking: an exact article number first, then items whose nickname is the whole query ("europallet" -> 1200 x 800)
-        var score = function (x) { return ((x.x || []).some(function (s) { return terms.indexOf(norm(s)) > -1; }) ? 2 : 0) + (x.n && prep(x.n) === whole ? 1 : 0); };
+        // update 50: also while typing ("europal" -> Europallet before "Kwart europallet"), and a word that starts with
+        // the query counts more than one that only contains it somewhere in the middle
+        var wordStart = function (x) { return terms.every(function (t) { return (' ' + x._h).indexOf(' ' + t) > -1; }); };
+        var score = function (x) {
+          var n = x.n ? prep(x.n) : '';
+          return ((x.x || []).some(function (s) { return terms.indexOf(norm(s)) > -1; }) ? 4 : 0) +
+            (n && n === whole ? 2 : n && whole.length > 2 && n.indexOf(whole) === 0 ? 1.5 : 0) + (wordStart(x) ? 0.5 : 0);
+        };
         var rank = function (list) { return list.map(function (x, n) { return { x: x, n: n, e: score(x) }; }).sort(function (a, b) { return b.e - a.e || a.n - b.n; }).map(function (h) { return h.x; }); };
         var cats = (onlyGen ? P.c.filter(function (c) { return c.all; }) : rank(P.c.filter(has))).slice(0, 2)
           .map(function (c) { return { t: c.t, u: c.u, s: c.s, c: !c.svc, v: !!c.svc }; });

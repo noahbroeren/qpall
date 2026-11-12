@@ -449,7 +449,7 @@ a:hover>.booklet,a:hover .booklet{transform:rotate(0)}
 .fopt:hover span{border-color:var(--navy)}
 .fopt input:checked+span{background:var(--navy);border-color:var(--navy);color:#fff}
 .fopt input:focus-visible+span{outline:2px solid var(--orange);outline-offset:2px}
-.dotc{width:9px;height:9px;border-radius:50%}
+.dotc{flex:none;width:9px;height:9px;border-radius:50%}
 .d-light{background:var(--light)}.d-medium{background:var(--medium)}.d-heavy{background:var(--heavy)}
 .fsel{clear:both;display:grid;gap:4px;margin-bottom:10px}
 .fsel span{font-size:.82rem;color:var(--text)}

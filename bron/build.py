@@ -2155,7 +2155,7 @@ def search_records():
             words = [m['size_label'], _size_words(m['size'], lang), m['class'], X['class'][m['class']],
                      ' '.join(t['type_name'][ty] + ' ' + X['type'].get(ty, '') for ty in m['types']),
                      X['rack'] if m['rackable'] else '', ' '.join(v['sku'] for v in m['variants'])]
-            out.append({'t': m['name'][lang], 'u': m['url'][lang], 'i': m['img_sm'],
+            out.append({'t': (m.get('card_name') or m['name'])[lang], 'u': m['url'][lang], 'i': m['img_sm'],
                         's': f"{t['art_nr_short']} {m['sku_txt']} · {m['size_label']} · {m['class'].capitalize()} · {t['static']} {m['txt'][lang]['static_short']}",
                         'k': re.sub(r'\s+', ' ', ' '.join(words)).strip(), 'x': [v['sku'].lower() for v in m['variants']], 'n': t['size_nick'][m['size']]})
         cats = []

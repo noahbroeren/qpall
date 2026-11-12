@@ -86,7 +86,7 @@
       <p class="lead">{{ H.local.lead }}</p>
       <p class="local-note">{{ H.local.note }}</p>
       <ul class="plant-list">
-        <li><button class="hq-row plant-btn" type="button" data-fac="V" aria-pressed="false"><span class="hq-mark" aria-hidden="true">{{ M.icon('hq') }}</span><span><b>Veghel</b> <small>{{ t.footer_hq }}</small></span></button></li>
+        <li><button class="hq-row plant-btn" type="button" data-fac="V" aria-pressed="false"><span class="hq-mark" aria-hidden="true">{{ M.icon('hq-solid') }}</span><span><b>Veghel</b> <small>{{ t.footer_hq }}</small></span></button></li>
         {% for f in factories %}<li><button class="plant-btn" type="button" data-fac="{{ f.code }}" aria-pressed="false">{{ M.flag(f.cc|lower) }}<span><b>{{ f.name }}</b> <small>{{ f.country }}</small></span></button></li>{% endfor %}
       </ul>
       <div class="btn-row"><a class="btn btn-navy" href="{{ urls['about-local'] }}">{{ H.local.cta }}{{ M.icon('arrow') }}</a><a class="btn btn-outline" href="{{ urls.transport }}">{{ t.top_transport }}</a></div>
