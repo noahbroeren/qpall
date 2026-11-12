@@ -2370,8 +2370,10 @@ picture>source{display:none}   /* with display:contents the <source> would other
 .local-sec .plant-list .plant-btn>span:last-child{display:flex;flex-wrap:wrap;align-items:baseline;column-gap:6px;row-gap:0;min-width:0}
 .local-sec .plant-list .plant-btn small{margin:0;font-size:.85rem}
 .local-sec .plant-list .flag{width:24px;height:24px;flex:none}
-.local-sec .plant-list .hq-mark{width:30px;height:30px;margin-left:-3px;margin-right:-3px}
-.local-sec .plant-list .hq-mark .ico{width:18px;height:18px}
+.local-sec .plant-list .hq-mark{width:32px;height:32px;margin-left:-4px;margin-right:-4px}
+/* 24 px: the building's windows fall on whole pixels, so the white stays pure white (at 18 px the window edges blurred
+   into grey, update 53) */
+.local-sec .plant-list .hq-mark .ico{width:24px;height:24px;shape-rendering:crispEdges}
 @media (max-width:460px){
   .local-sec .plant-list{grid-template-columns:minmax(0,1fr)}
 }
@@ -2429,8 +2431,16 @@ h1,h2,h3,h4,.pc-title,.btn,.eyebrow{text-wrap:balance}
 
 /* update 50: small layout fixes */
 /* the three load classes fit on one row in the filter column */
-.fopts:has(input[name="class"]){display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
-.fopts:has(input[name="class"]) .fopt span{width:100%;justify-content:center;gap:6px;padding:4px 6px}
+/* load classes as coloured pills, like the class badge on the cards but in the font of the filters (update 53);
+   a chosen class gets a check mark and a ring */
+.fopt input[name="class"]+span{gap:5px;border-color:transparent;color:#fff}
+.fopt input[name="class"]+span .dotc{display:none}
+.fopt input[name="class"][value="light"]+span{background:var(--light)}
+.fopt input[name="class"][value="medium"]+span{background:var(--medium)}
+.fopt input[name="class"][value="heavy"]+span{background:var(--heavy)}
+.fopt:hover input[name="class"]+span{border-color:transparent;filter:brightness(.94)}
+.fopt input[name="class"]:checked+span{box-shadow:0 0 0 2px #fff,0 0 0 4px var(--navy)}
+.fopt input[name="class"]:checked+span::before{content:"";width:10px;height:6px;margin:-3px 1px 0 0;border:solid #fff;border-width:0 0 2px 2px;transform:rotate(-45deg)}
 /* size and type chips under the listings: wrap on the phone instead of running off the screen */
 @media (max-width:900px){
   .catnav ul{flex-wrap:wrap;overflow:visible;margin:0;padding:0}

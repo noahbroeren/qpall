@@ -4,7 +4,7 @@
 
 Reads the same data as the website build (build.py is imported, nothing is written to the site) and takes the
 product photos from the built site (../qpall-website/assets/img/pallets). Sheets:
-  Pallets          one row per article number: photos, dimensions, loads, build, locations, stack, links
+  Pallets          one row per article number: photos, dimensions, loads, build, stack, links (no production location, update 53)
   Namen en URL's   product name and page URL in the six languages
   Omschrijvingen   the full product text per language (plain text)
   Toelichting      what the columns mean
@@ -134,7 +134,7 @@ cols = [
     ('Statische belasting (kg)', 12, 'n'), ('Dynamische belasting (kg)', 12, 'n'), ('Stellingbelasting (kg)', 12, 'n'),
     ('Geschikt voor stellingen', 11, ''), ('Bovendek', 13, ''), ('Onderzijde', 14, ''), ('Nestbaar', 9, ''),
     ('Antislip', 9, ''), ('Hygiënisch', 10, ''), ('Typen', 26, 'w'), ('Materiaal', 22, 'w'), ('Kleur', 26, 'w'),
-    ('ISPM 15', 22, 'w'), ('Productielocatie(s)', 22, 'w'), ('Pallets per stapel', 10, 'n'), ('Stapelmaat (mm)', 18, ''),
+    ('ISPM 15', 22, 'w'), ('Pallets per stapel', 10, 'n'), ('Stapelmaat (mm)', 18, ''),
     ('PPWR-conformiteitsverklaring', 14, ''), ('Basisartikel (familie)', 18, ''),
     ('Andere uitvoeringen', 24, 'w'), ('Korte omschrijving', 60, 'w'),
     ('Productpagina', 40, 'link'), ('Datasheet (pdf)', 40, 'link'), ("Foto's (groot)", 60, 'w'),
@@ -165,7 +165,7 @@ for r, m in enumerate(models, 2):
         m['static'][1], m['dynamic'][1], m['racking'][1] if m['racking'] else None,
         yes(m['racking']), X['deck_label'], X['support'], yes('nestable' in m['types']),
         yes(m['antislip']), yes(B.is_hyg(m)), type_names(m), S.get(T['material'], ''), X['colour'],
-        S.get(T['ispm'], ''), X['locs_txt'], m['stack'] or m.get('pack') or None, stack_place,
+        S.get(T['ispm'], ''), m['stack'] or m.get('pack') or None, stack_place,
         yes(m['ppwr']), anchor['sku'],
         ', '.join(others), plain(X['intro']),
         DOMAIN + m['url']['nl'], DOMAIN + X['datasheet'], '\n'.join(gallery_lg),

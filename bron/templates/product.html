@@ -39,11 +39,6 @@
           <div><dt>{{ t.bottom }}</dt><dd>{{ X.support }}</dd></div>
         </dl>
 
-        <div class="pdp-loc">
-          <span class="pdp-loc-h">{{ M.icon('factory') }}{{ t.locations if m.locations|length > 1 else t.location }}</span>
-          <span class="pdp-loc-v">{% if X.loc_items %}{% for c in X.loc_items %}<span class="loc-chip">{{ M.flag(c.cc) }}{{ c.label }}</span>{% endfor %}{% else %}<span class="loc-chip loc-req">{{ t.loc_req }}</span>{% endif %}</span>
-        </div>
-
         <div class="pdp-loc pdp-stack">
           <span class="pdp-loc-h">{{ M.icon('nest') }}{{ t.stack_only }}</span>
           <span class="pdp-loc-v"><span class="loc-chip stack-chip">{{ X.stack_per }}</span>{% if X.stack_height %}<span class="stack-h">{{ X.stack_height }}</span>{% endif %}</span>
@@ -109,8 +104,8 @@
   <div class="wrap">
     {{ M.sec_head(t.sec_var, t.ds_variants, t.loc_note, 'h-var') }}
     <div class="table-scroll"><table class="data-table var-table">
-      <thead><tr><th>{{ t.art_nr }}</th>{% if m.multicol %}<th>{{ t.colour }}</th>{% endif %}<th>{{ t.location }}</th><th>{{ t.dims }}</th><th>{{ t.weight }}</th><th>{{ t.static }}</th><th>{{ t.dynamic }}</th><th>{{ t.racking }}</th>{% if show_prices %}<th class="r">{{ t.price }}</th>{% endif %}</tr></thead>
-      <tbody>{% for v in variants %}<tr{% if v.current %} class="is-current" aria-current="page"{% endif %}><td class="var-k">{% if v.current %}<b>{{ v.sku }}</b><span class="var-here">{{ t.this_page }}</span>{% else %}<a class="var-sku" href="{{ v.url }}">{{ v.sku }}</a><a class="var-quote" href="{{ v.url }}">{{ t.view_short }}{{ M.icon('arrow') }}</a>{% endif %}</td>{% if m.multicol %}<td data-label="{{ t.colour }}">{{ v.colour }}</td>{% endif %}<td data-label="{{ t.location }}">{% if v.loc %}<span class="loc-inline">{{ M.flag(v.cc|lower) }}{{ v.loc }}</span>{% else %}<span class="muted">{{ t.loc_req }}</span>{% endif %}</td><td data-label="{{ t.dims }}">{{ v.dims }}</td><td data-label="{{ t.weight }}">{{ v.weight }}</td><td data-label="{{ t.static }}">{{ v.static }}</td><td data-label="{{ t.dynamic }}">{{ v.dynamic }}</td><td data-label="{{ t.racking }}">{{ v.racking }}</td>{% if show_prices %}<td class="r" data-label="{{ t.price }}">{{ v.price }}</td>{% endif %}</tr>{% endfor %}</tbody>
+      <thead><tr><th>{{ t.art_nr }}</th>{% if m.multicol %}<th>{{ t.colour }}</th>{% endif %}<th>{{ t.dims }}</th><th>{{ t.weight }}</th><th>{{ t.static }}</th><th>{{ t.dynamic }}</th><th>{{ t.racking }}</th>{% if show_prices %}<th class="r">{{ t.price }}</th>{% endif %}</tr></thead>
+      <tbody>{% for v in variants %}<tr{% if v.current %} class="is-current" aria-current="page"{% endif %}><td class="var-k">{% if v.current %}<b>{{ v.sku }}</b><span class="var-here">{{ t.this_page }}</span>{% else %}<a class="var-sku" href="{{ v.url }}">{{ v.sku }}</a><a class="var-quote" href="{{ v.url }}">{{ t.view_short }}{{ M.icon('arrow') }}</a>{% endif %}</td>{% if m.multicol %}<td data-label="{{ t.colour }}">{{ v.colour }}</td>{% endif %}<td data-label="{{ t.dims }}">{{ v.dims }}</td><td data-label="{{ t.weight }}">{{ v.weight }}</td><td data-label="{{ t.static }}">{{ v.static }}</td><td data-label="{{ t.dynamic }}">{{ v.dynamic }}</td><td data-label="{{ t.racking }}">{{ v.racking }}</td>{% if show_prices %}<td class="r" data-label="{{ t.price }}">{{ v.price }}</td>{% endif %}</tr>{% endfor %}</tbody>
     </table></div>
     <p class="small muted mt-2">{{ t.variant_note }}</p>
   </div>

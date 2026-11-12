@@ -185,15 +185,14 @@ def _fix_names():
         for m, c, lc in zip(ms, cols, locs):
             if all(cols) and len(set(cols)) == len(cols):
                 suf = {l: T[l]['col_' + c] for l in LANGS}
-            elif lc and locs.count(lc) == 1:
-                suf = {l: LOCATIONS[lc]['name'] for l in LANGS}
             else:
                 suf = {l: m['sku'] for l in LANGS}
             for l in LANGS:
                 m['name'][l] = f"{m['name'][l]} – {suf[l]}"
-            if suf['nl'] == m['sku'] or (lc and suf['nl'] == LOCATIONS[lc]['name']):
-                # cards show the article number and the factory on their own lines right below the title: the card title
-                # leaves that suffix out (QA update 47); the H1, title tag and alt text keep the full unique name
+            if suf['nl'] == m['sku']:
+                # cards show the article number on its own line right below the title: the card title leaves that suffix
+                # out (QA update 47); the H1, title tag and alt text keep the full unique name. Since update 53 the
+                # factory is no longer a suffix (no production location per product on the site)
                 m['card_name'] = {l: m['name'][l][:-(len(suf[l]) + 3)] for l in LANGS}
     for l in LANGS:      # safety net: anything still double gets its article number
         seen = {}
@@ -345,8 +344,7 @@ for m in MODELS:
         m['txt'][l] = X
         m['cmp'][l] = {'id': m['id'], 'name': m['name'][l], 'url': m['url'][l], 'img': m['img_sm'], 'dims': dims, 'weight': w,
                        'cls': m['class'].capitalize(), 'deck': X['deck_label'], 'base': X['support'],
-                       'static': m['static'][1], 'dyn': m['dynamic'][1], 'rack': m['racking'][1] if m['racking'] else 0,
-                       'loc': X['locs_txt']} | ({'price': (t['from_cap'] + ' ' + X['price']) if X['price'] else None} if SHOW_PRICES else {})
+                       'static': m['static'][1], 'dyn': m['dynamic'][1], 'rack': m['racking'][1] if m['racking'] else 0} | ({'price': (t['from_cap'] + ' ' + X['price']) if X['price'] else None} if SHOW_PRICES else {})
 
 # ------------------------------------------------------------------------------------------------ content
 CONTENT = {l: {} for l in LANGS}
@@ -870,8 +868,7 @@ def product_ld(m, lang):
         props.append({'@type': 'PropertyValue', 'name': t['racking_l'], 'value': m['racking'][1], 'unitCode': 'KGM', 'unitText': 'kg'})
     props += [{'@type': 'PropertyValue', 'name': t['deck'], 'value': X['deck_label']},
               {'@type': 'PropertyValue', 'name': t['bottom'], 'value': X['support']},
-              {'@type': 'PropertyValue', 'name': t['class'], 'value': m['class'].capitalize()},
-              {'@type': 'PropertyValue', 'name': t['locations'], 'value': X['locs_txt']}]
+              {'@type': 'PropertyValue', 'name': t['class'], 'value': m['class'].capitalize()}]
     hyg = is_hyg(m)
     d = {
         '@context': 'https://schema.org', '@type': 'Product', '@id': abs_url(m['url'][lang]) + '#product',
@@ -984,8 +981,7 @@ def og_for(pid, lang):
 JS_I18N = {l: {k: T[l][k] for k in ('results', 'result', 'search_none', 'search_loading', 'search_g_cat', 'search_g_prod', 'search_g_page', 'compare_max', 'on_request', 'close', 'filter_reset',
                                      'f_any', 'from_cap', 'compare_title', 'show_more', 'tr_unavailable', 'tr_open_new', 'tr_loading')}
            | {'cmp_rows': {'name': T[l]['model'], 'dims': T[l]['dims'], 'weight': T[l]['weight'], 'cls': T[l]['class'], 'deck': T[l]['deck'],
-                           'base': T[l]['bottom'], 'static': T[l]['static_l'], 'dyn': T[l]['dynamic_l'], 'rack': T[l]['racking_l'],
-                           'loc': T[l]['locations']} | ({'price': T[l]['price']} if SHOW_PRICES else {})}
+                           'base': T[l]['bottom'], 'static': T[l]['static_l'], 'dyn': T[l]['dynamic_l'], 'rack': T[l]['racking_l']} | ({'price': T[l]['price']} if SHOW_PRICES else {})}
            for l in LANGS}
 
 
@@ -1210,7 +1206,7 @@ def spec_groups(m, lang, price=True):
     mat = t['mat_hyg'] if hyg else mat_label(m, t)
     g2 += [(t['material'], mat), (t['colour'], X['colour']), (t['ispm'], t['ispm_v'])]
     g3 = [(t['static_l'], X['static']), (t['dynamic_l'], X['dynamic']), (t['racking_l'], X['racking'] or t['not_rackable'])]
-    g4 = [(t['locations'] if len(m['locations']) > 1 else t['location'], X['locs_txt'])]
+    g4 = []      # no production location per product any more (Q-Pall, 12 Nov 2026, update 53)
     if is_click_runner(m):
         g4.append((t['click_spec_l'], t['click_spec_v']))
     if m['sku'] in ALT_STACK:
@@ -1221,7 +1217,7 @@ def spec_groups(m, lang, price=True):
         g4.append((t['ppwr'], t['ppwr_v']))
     if price:
         g4.append((t['price'], (t['from_cap'] + ' ' + X['price'] + ' ' + t['excl_vat']) if X['price'] else t['on_request']))
-    return list(zip([t['group_dims'], t['group_build'], t['group_load'], t['group_delivery']], [g1, g2, g3, g4]))
+    return [(h, g) for h, g in zip([t['group_dims'], t['group_build'], t['group_load'], t['group_delivery']], [g1, g2, g3, g4]) if g]
 
 
 def variant_rows(m, lang):
@@ -1913,7 +1909,8 @@ def quote_options(lang):
             seen.add(v['sku'])
             st = STACKS.get(v['sku'])
             a = sku2m.get(v['sku'], m)
-            opts.append({'v': f"{v['sku']} – {m['name'][lang]}", 'nl': f"{v['sku']} – {m['name']['nl']}", 'acc': False, 'stack': st['stack'] if st else 1,
+            nm = a.get('card_name') or a['name']      # the article number leads the option, so not again at the end (update 53)
+            opts.append({'v': f"{v['sku']} – {nm[lang]}", 'nl': f"{v['sku']} – {nm['nl']}", 'acc': False, 'stack': st['stack'] if st else 1,
                          'url': a['url'][lang], 'img': a['img_sm']})
     um = MODEL_BY_ID[ULTRA_MODELS[0]]     # Ultra pallet as one line (QP1210H), so ?sku=QP1210H from the Ultra page is recognised
     opts.append({'v': f"{ULTRA_SKU} – Ultra pallet", 'acc': False, 'stack': (STACKS.get(um['variants'][0]['sku']) or {}).get('stack', 1),
@@ -1957,7 +1954,6 @@ def acc_item(a, lang):
         name += ' ' + w['on3runners']
     if k == 'grid':
         name += ' ' + w['on9feet']
-    rows.append((t['location'], loc_label(a['loc'], lang) if a.get('loc') else t['loc_req']))
     img = ACC_PHOTO.get(k)
     if a.get('img'):
         img = '/assets/img/acc/' + slugify(T['en']['acc_name'][k if not a['sku'].startswith('QP-RUN') else 'click'] + ' ' + a['sku']) + '.webp'
@@ -2070,8 +2066,8 @@ def render_home(lang):
     if len(cases) != len(fm.get('cases', {}).get('items', [])):
         WARN.append(f'home/{lang}: case without news article')
     ctx.update(cases=cases, page=page, hero=hero, promo_img=MODEL_BY_ID['qp1210mb3r-cd-ao']['gallery'][0], guides=[g for g in guides_list(lang) if g['id'] != 'guide-ppwr'], sector_tiles=sec, eu_map=eu_map(lang),
-               factories=[{'code': c, 'name': LOCATIONS[c]['name'], 'cc': LOCATIONS[c]['cc'], 'country': COUNTRY[LOCATIONS[c]['cc']][lang],
-                           'made': t['map_made'].replace(' km', '\u00a0km').format(n=sum(1 for m in MODELS if c in m['locations']))} for c in FACTORIES])
+               factories=[{'code': c, 'name': LOCATIONS[c]['name'], 'cc': LOCATIONS[c]['cc'], 'country': COUNTRY[LOCATIONS[c]['cc']][lang]}
+                          for c in FACTORIES])
     return env.get_template('home.html').render(**ctx)
 
 

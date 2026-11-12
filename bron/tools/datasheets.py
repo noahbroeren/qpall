@@ -101,16 +101,21 @@ def chips(m, lang):
 
 
 def spec_tables(m, lang):
-    """Spec groups as on the product page, without prices. The load group is shown as the load box. The production
-    location carries its flag; pallets are sold per full stack only, which is a row in the delivery group."""
+    """Spec groups as on the product page, without prices. The load group is shown as the load box. Pallets are sold per
+    full stack only, which is a row in the delivery group (no production location since update 53)."""
     t = build.T[lang]
     out = []
-    for title, rows in build.spec_groups(m, lang, price=False):
+    stack_row = (t['ds_stack_h'], nobreak((t['stack_per'].format(n=build.fmt_int(m['stack'], lang)) + (' (' + m['txt'][lang]['stack_height'] + ')' if m['txt'][lang]['stack_height'] else '')) if m['stack'] else t['stack_req']))
+    groups = build.spec_groups(m, lang, price=False)
+    if not any(title == t['group_delivery'] for title, _ in groups):
+        # update 53: without the production location some pallets have no other delivery row; the stack row keeps the group
+        groups = groups + [(t['group_delivery'], [])]
+    for title, rows in groups:
         if title == t['group_load']:
             continue
-        rows = [(k, loc_html(m['locations'][0], lang) if k in (t['location'], t['locations']) and m['locations'] else nobreak(v)) for k, v in rows]
+        rows = [(k, nobreak(v)) for k, v in rows]
         if title == t['group_delivery']:
-            rows.insert(1, (t['ds_stack_h'], nobreak((t['stack_per'].format(n=build.fmt_int(m['stack'], lang)) + (' (' + m['txt'][lang]['stack_height'] + ')' if m['txt'][lang]['stack_height'] else '')) if m['stack'] else t['stack_req'])))
+            rows.insert(1, stack_row)
         out.append((title, rows))
     return out
 

@@ -229,9 +229,25 @@
         // update 50: also while typing ("europal" -> Europallet before "Kwart europallet"), and a word that starts with
         // the query counts more than one that only contains it somewhere in the middle
         var wordStart = function (x) { return terms.every(function (t) { return (' ' + x._h).indexOf(' ' + t) > -1; }); };
+        // article numbers (update 53): compared in the same prepared form as the query (double letters count as one, so
+        // 'QP1208MB3RR' did not match before); the exact number first, then the same number in another version
+        // (3.QP1208LB9FR for QP1208LB9FR), then numbers that start with what was typed
+        var skuScore = function (x) {
+          var best = 0;
+          (x.x || []).forEach(function (s) {
+            var p = prep(s), base = p.replace(/^[0-9n]+\./, '');
+            terms.forEach(function (t) {
+              if (t.length < 3) return;
+              var tb = t.replace(/^[0-9n]+\./, '');
+              var v = p === t ? 10 : base === tb ? 8 : (p.indexOf(t) === 0 || base.indexOf(tb) === 0) && /\d/.test(t) ? 6 : 0;
+              if (v > best) best = v;
+            });
+          });
+          return best;
+        };
         var score = function (x) {
           var n = x.n ? prep(x.n) : '';
-          return ((x.x || []).some(function (s) { return terms.indexOf(norm(s)) > -1; }) ? 4 : 0) +
+          return skuScore(x) +
             (n && n === whole ? 2 : n && whole.length > 2 && n.indexOf(whole) === 0 ? 1.5 : 0) + (wordStart(x) ? 0.5 : 0);
         };
         var rank = function (list) { return list.map(function (x, n) { return { x: x, n: n, e: score(x) }; }).sort(function (a, b) { return b.e - a.e || a.n - b.n; }).map(function (h) { return h.x; }); };
@@ -507,7 +523,7 @@
       [R.name, function (x) { return '<a href="' + esc(x.url) + '">' + esc(x.name) + '</a>'; }],
       [R.dims, 'dims'], [R.weight, 'weight'], [R.cls, 'cls'], [R.deck, 'deck'], [R.base, 'base'],
       [R.static, function (x) { return fmtInt(x.static) + ' kg'; }], [R.dyn, function (x) { return fmtInt(x.dyn) + ' kg'; }],
-      [R.rack, function (x) { return x.rack ? fmtInt(x.rack) + ' kg' : '–'; }], [R.loc, 'loc']].concat(R.price ? [[R.price, function (x) { return esc(x.price || I18N.on_request); }]] : []);   // no price row without prices (update 34)
+      [R.rack, function (x) { return x.rack ? fmtInt(x.rack) + ' kg' : '–'; }]].concat(R.price ? [[R.price, function (x) { return esc(x.price || I18N.on_request); }]] : []);   // no price row without prices (update 34)
     $('.cmp-table tbody', modal).innerHTML = rows.map(function (r) {
       return '<tr><th scope="row">' + esc(r[0]) + '</th>' + cmpList.map(function (x) { return '<td>' + (typeof r[1] === 'function' ? r[1](x) : esc(x[r[1]])) + '</td>'; }).join('') + '</tr>';
     }).join('');

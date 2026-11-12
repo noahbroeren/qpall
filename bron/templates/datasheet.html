@@ -101,6 +101,7 @@ h1{margin-top:2.4mm;font-size:16.5pt;font-weight:600;line-height:1.2;letter-spac
 /* versions table */
 .vers .gh{margin-bottom:2mm}
 .vt{font-size:7.2pt;line-height:1.35}
+.vt-6{grid-template-columns:repeat(6,auto)}
 .vt-7{grid-template-columns:repeat(7,auto)}
 .vt-8{grid-template-columns:repeat(8,auto)}
 .vt thead tr{background:var(--navy)}
@@ -197,9 +198,9 @@ h1{margin-top:2.4mm;font-size:16.5pt;font-weight:600;line-height:1.2;letter-spac
     {% if variants %}
     <div class="flow vers">
       <h2 class="gh">{{ t.ds_variants }}</h2>
-      <table class="vt vt-{{ 8 if m.multicol else 7 }}">
-        <thead><tr><th>{{ t.art_nr }}</th>{% if m.multicol %}<th>{{ t.colour }}</th>{% endif %}<th>{{ t.location }}</th><th>{{ t.dims }} (mm)</th><th class="r">{{ t.weight }}</th><th class="r">{{ t.static }}</th><th class="r">{{ t.dynamic }}</th><th class="r">{{ t.racking }}</th></tr></thead>
-        <tbody>{% for v in variants %}<tr{% if v.current %} class="cur"{% endif %}><td class="sku">{% if v.current %}{{ v.sku }}<span class="here">{{ t.ds_this }}</span>{% else %}<a href="{{ v.abs_url }}">{{ v.sku }}</a>{% endif %}</td>{% if m.multicol %}<td>{{ v.colour }}</td>{% endif %}<td>{% if v.loc_html %}{{ v.loc_html }}{% else %}<span class="req">{{ t.loc_req }}</span>{% endif %}</td><td class="nw">{{ v.dims }}</td><td class="r">{{ v.weight }}</td><td class="r">{{ v.static }}</td><td class="r">{{ v.dynamic }}</td><td class="r">{{ v.racking }}</td></tr>{% endfor %}</tbody>
+      <table class="vt vt-{{ 7 if m.multicol else 6 }}">
+        <thead><tr><th>{{ t.art_nr }}</th>{% if m.multicol %}<th>{{ t.colour }}</th>{% endif %}<th>{{ t.dims }} (mm)</th><th class="r">{{ t.weight }}</th><th class="r">{{ t.static }}</th><th class="r">{{ t.dynamic }}</th><th class="r">{{ t.racking }}</th></tr></thead>
+        <tbody>{% for v in variants %}<tr{% if v.current %} class="cur"{% endif %}><td class="sku">{% if v.current %}{{ v.sku }}<span class="here">{{ t.ds_this }}</span>{% else %}<a href="{{ v.abs_url }}">{{ v.sku }}</a>{% endif %}</td>{% if m.multicol %}<td>{{ v.colour }}</td>{% endif %}<td class="nw">{{ v.dims }}</td><td class="r">{{ v.weight }}</td><td class="r">{{ v.static }}</td><td class="r">{{ v.dynamic }}</td><td class="r">{{ v.racking }}</td></tr>{% endfor %}</tbody>
       </table>
       <p class="note">{{ t.ds_sim_note }} {{ t.variant_note }}</p>
     </div>
