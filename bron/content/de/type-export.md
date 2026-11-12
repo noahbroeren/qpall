@@ -1,7 +1,7 @@
 ---
 id: type-export
 title: "Einweg- und Exportpaletten aus Kunststoff – Q-Pall"
-description: "Leichte Kunststoffpaletten für den Export, von ISPM 15 befreit: keine Hitzebehandlung und kein Stempel nötig. Oft nestbar, in 7 Größen. Modelle ansehen."
+description: "Leichte Kunststoffpaletten für den Export, von ISPM 15 befreit: keine Hitzebehandlung, kein Stempel. Oft nestbar, in 7 Größen. Alle Modelle ansehen."
 eyebrow: "Export"
 h1: "**Einwegpaletten** aus Kunststoff"
 lead: "Leicht, stabil und ohne Papierkram über die Grenze. Unsere Einwegpaletten sind von ISPM 15 befreit, wiegen ab 2,7 kg und sind in [[count]] Ausführungen erhältlich."

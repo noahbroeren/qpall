@@ -89,6 +89,8 @@ LOAD_WORDS = {
     'de': ('statisch', 'dynamisch', 'im Regal', 'und'), 'fr': ('statique', 'dynamique', 'en rayonnage', 'et'),
     'it': ('in statica', 'in dinamica', 'su scaffale', 'e'), 'es': ('estática', 'dinámica', 'en estantería', 'y'),
 }
+SKU_WORD = {'nl': 'art.nr.', 'en': 'item no.', 'de': 'Art.-Nr.', 'fr': 'réf.', 'it': 'cod.', 'es': 'ref.'}
+WEIGHT_WORD = {'nl': 'gewicht', 'en': 'weight', 'de': 'Gewicht', 'fr': 'poids', 'it': 'peso', 'es': 'peso'}
 TAILS = {
     'nl': ('Vanaf {p} excl. btw.', 'Vraag een offerte aan.', 'Bekijk alle specificaties.'),
     'en': ('From {p} excl. VAT.', 'Request a quote.', 'View all specifications.'),
@@ -252,7 +254,7 @@ def meta_desc(m, lang, with_h=False):
     hh = f" x {m['H']}" if with_h else ''        # height only for articles that would otherwise share the description
     head = f"{tw} {dl} x {dw}{hh} mm, {deck_words(m, lang)} {ON[lang]} {sw}, {m['class']}"
     if m.get('sku_title'):
-        head = f"{m['sku']}: {head}"
+        head = f"{head} ({SKU_WORD[lang]} {m['sku']})"     # article number after the description, not in front (update 50)
     loads = f"{st} {ws}, {dy} {wd}" + (f" {wand} {rk} {wr}" if rk else "")
     t_price, t_quote, t_specs = TAILS[lang]
     tails = []
@@ -260,10 +262,14 @@ def meta_desc(m, lang, with_h=False):
         tails.append(t_price.format(p=fmt_price(m['price_from'], lang)))
     tails += [t_quote, t_specs]
     cands = []
-    for i in range(len(tails), -1, -1):
-        cands.append(f"{head}: {loads}. " + ' '.join(tails[:i]))
-        cands.append(f"{head}: {loads}, {rng_txt(m['weight'], lang, 'kg', True)}. " + ' '.join(tails[:i]))
+    # with the article number in the text the racking load may have to go to stay within the length (update 50)
+    for ld in ([loads, f"{st} {ws}, {dy} {wd}"] if rk else [loads]):
+        for i in range(len(tails), -1, -1):
+            cands.append(f"{head}: {ld}. " + ' '.join(tails[:i]))
+            cands.append(f"{head}: {ld}, {WEIGHT_WORD[lang]} {rng_txt(m['weight'], lang, 'kg', True)}. " + ' '.join(tails[:i]))
     cands = [c.strip() for c in cands]
+    if lang == 'fr':     # French typography: non-breaking space before the colon, counted in the length (update 50)
+        cands = [re.sub(r'(?<=[^\s\d:/])[ \u00a0]?:(?=\s)', '\u00a0:', c) for c in cands]
     ok = [c for c in cands if 120 <= len(c) <= 156]
     if ok:
         ok.sort(key=lambda c: (('€' in c), len(c)), reverse=True)

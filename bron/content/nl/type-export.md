@@ -1,7 +1,7 @@
 ---
 id: type-export
 title: "Kunststof exportpallets – ISPM 15-vrij – Q-Pall"
-description: "Lichte kunststof exportpallets, vrijgesteld van ISPM 15: geen hittebehandeling of stempel nodig. Vaak nestbaar, in 7 formaten. Bekijk modellen."
+description: "Lichte kunststof exportpallets, vrijgesteld van ISPM 15: geen hittebehandeling of stempel nodig. Vaak nestbaar, in 7 formaten. Bekijk alle uitvoeringen."
 eyebrow: "Export"
 h1: "Kunststof **exportpallets**"
 lead: "Licht, sterk en zonder papierwerk de grens over. Onze exportpallets zijn vrijgesteld van ISPM 15, wegen vanaf 2,7 kg en zijn er in [[count]] uitvoeringen."

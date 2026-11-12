@@ -335,7 +335,7 @@ page('acc-drip', sub(ACC_SLUG, {'nl': 'kunststof-lekbakken/', 'en': 'drip-trays/
 page('acc-runners', sub(ACC_SLUG, {'nl': 'onderlatten/', 'en': 'pallet-runners/', 'de': 'kufen/', 'fr': 'semelles/', 'it': 'slitte/', 'es': 'patines/'}),
      tpl='acc', parent='acc', priority=0.6, acc=['runner'])
 page('used', {'nl': 'gebruikte-kunststof-pallets/', 'en': 'used-plastic-pallet/', 'de': 'gebrauchte-kunststoffpaletten/', 'fr': 'palettes-plastique-occasion/',
-              'it': 'pallet-in-plastica-usati/', 'es': 'palets-de-plastico-usados/'}, tpl='page', priority=0.6)
+              'it': 'pallet-in-plastica-usati/', 'es': 'palets-de-plastico-usados/'}, tpl='page', parent='acc', priority=0.6)   # crumb: Home / Accessoires / Q-Used (update 50)
 
 page('about', ABOUT_SLUG, tpl='page', priority=0.7)
 page('about-sustainability', sub(ABOUT_SLUG, {'nl': 'duurzaamheid/', 'en': 'sustainability/', 'de': 'nachhaltigkeit/', 'fr': 'durabilite/', 'it': 'sostenibilita/', 'es': 'sostenibilidad/'}),

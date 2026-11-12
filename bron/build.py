@@ -989,8 +989,23 @@ JS_I18N = {l: {k: T[l][k] for k in ('results', 'result', 'search_none', 'search_
            for l in LANGS}
 
 
+_FR_COLON = re.compile(r'(?<=[^\s\d:/])[ \u00a0\u202f]?:(?=\s|$)')
+
+
+def fr_colon(txt):
+    """French typography (update 50): a non-breaking space before the colon (« Prix : sur devis »)."""
+    return _FR_COLON.sub('\u00a0:', txt) if txt else txt
+
+
+def _first_sentence(txt):
+    """Card text on the accessories overview: the first sentence of the lead, whole (it was cut off mid-sentence, update 50)."""
+    return re.split(r'(?<=[.!?])\s+', (txt or '').strip())[0]
+
+
 def base_ctx(pid, lang, meta_title, meta_desc, section=None, noindex=False, og_image=None, jsonld=None, preload=None, tpl='page'):
     t = T[lang]
+    if lang == 'fr':
+        meta_title, meta_desc = fr_colon(meta_title), fr_colon(meta_desc)
     return {
         'lang': lang, 'html_lang': HTML_LANG[lang], 't': t, 'company': COMPANY, 'team': team_ctx(lang), 'urls': URLS[lang], 'nav': NAV[lang], 'page_id': pid,
         'section': section, 'tpl': tpl, 'logo_svg': logo_svg(), 'logo_white_svg': logo_svg(True), 'v': VERSION, 'year': BUILD_DATE[:4],
@@ -1037,6 +1052,7 @@ def typo(htmlstr):
     """QA round (update 47): body text never breaks inside a size (1200 x 800), between a number and its unit, or at the
     hyphen of the brand name. Text only: tags, attributes, scripts, SVG, form options and the head stay untouched."""
     out, skip = [], []
+    is_fr = '<html lang="fr' in htmlstr[:300]
     for part in _TYPO_TAG.split(htmlstr):
         if part.startswith('<'):
             m = _TYPO_NAME.match(part)
@@ -1055,6 +1071,8 @@ def typo(htmlstr):
         else:
             for rx, rep in _TYPO_RULES:
                 part = rx.sub(rep, part)
+            if is_fr:
+                part = fr_colon(part)
             out.append(part)
     return ''.join(out)
 
@@ -1851,6 +1869,31 @@ def render_transport(lang):
     return env.get_template('transport.html').render(**ctx)
 
 
+def acc_tile(src):
+    """Overview card image for an accessory (update 50): the product cropped to its outline and fitted in 640 x 400 with
+    the same margin, so all cards show their product at a comparable size. Made from the built image."""
+    if not src:
+        return src
+    from PIL import Image, ImageChops
+    path = os.path.join(OUT, src.lstrip('/').split('?')[0])
+    name = 'tile-' + os.path.splitext(os.path.basename(path))[0] + '.webp'
+    dst = os.path.join(OUT, 'assets', 'img', 'acc', name)
+    if not os.path.exists(dst):
+        im = Image.open(path).convert('RGBA')
+        bg = Image.new('RGBA', im.size, (255, 255, 255, 255)); bg.alpha_composite(im); im = bg.convert('RGB')
+        mask = ImageChops.difference(im, Image.new('RGB', im.size, (255, 255, 255))).convert('L').point(lambda v: 255 if v > 18 else 0)
+        box = mask.getbbox() or (0, 0, im.width, im.height)
+        obj = im.crop(box)
+        W, H, pad = 640, 400, 0.13
+        sc = min(W * (1 - 2 * pad) / obj.width, H * (1 - 2 * pad) / obj.height)
+        obj = obj.resize((max(1, round(obj.width * sc)), max(1, round(obj.height * sc))), Image.LANCZOS)
+        tile = Image.new('RGB', (W, H), (255, 255, 255))
+        tile.paste(obj, ((W - obj.width) // 2, (H - obj.height) // 2))
+        os.makedirs(os.path.dirname(dst), exist_ok=True)
+        tile.save(dst, 'WEBP', quality=84, method=6)
+    return '/assets/img/acc/' + name
+
+
 ACC_PHOTO = {'collar': '/assets/img/acc/photo-collar.webp', 'lid': '/assets/img/acc/photo-lid.webp',
              'freezer': '/assets/img/acc/photo-freezer.webp', 'driptray': '/assets/img/acc/photo-drip.webp',
              'grating': '/assets/img/acc/photo-grating.webp', 'grid': '/assets/img/acc/photo-grid.webp'}
@@ -1947,10 +1990,10 @@ def render_acc(pid, lang):
                 'acc-lids': ACC_PHOTO['lid'], 'acc-freezer': ACC_PHOTO['freezer'], 'acc-drip': ACC_PHOTO['driptray']}
         for p_, ic in ACC_DEF:
             kind = PAGES[p_]['acc'][0]
-            cats.append({'url': url(p_, lang), 'label': short_title(p_, lang), 'sub': CONTENT[lang][p_]['fm']['lead'], 'icon': ic,
-                         'img': imgs.get(p_), 'ph': Markup(ACC_ILLU[kind])})
-        cats.append({'url': url('used', lang), 'label': short_title('used', lang), 'sub': CONTENT[lang]['used']['fm']['lead'], 'icon': 'recycle',
-                     'img': MODEL_BY_ID['qp1210hb3rr']['img_url'], 'ph': None})
+            cats.append({'url': url(p_, lang), 'label': short_title(p_, lang), 'sub': _first_sentence(CONTENT[lang][p_]['fm']['lead']), 'icon': ic,
+                         'img': acc_tile(imgs.get(p_)), 'ph': Markup(ACC_ILLU[kind])})
+        cats.append({'url': url('used', lang), 'label': short_title('used', lang), 'sub': (re.split(r'(?<=[.!?])\s+', CONTENT[lang]['used']['fm']['lead'].strip()) + [''])[1] or _first_sentence(CONTENT[lang]['used']['fm']['lead']), 'icon': 'recycle',
+                     'img': acc_tile(MODEL_BY_ID['qp1210hb3rr']['img_url']), 'ph': None})
     check_meta(pid, lang, fm['title'], fm['description'])
     ctx = base_ctx(pid, lang, fm['title'], fm['description'], section='pallets', jsonld=jl, tpl='acc')
     ctx.update(page=page, crumbs=crumbs, body=body, items=items, acc_cats=cats, side_nav=side_nav_for(pid, lang))

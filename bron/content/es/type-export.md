@@ -1,7 +1,7 @@
 ---
 id: type-export
 title: "Palets de plástico para exportación – exentos de ISPM 15"
-description: "Palets de plástico ligeros para exportación, exentos de ISPM 15: sin tratamiento térmico ni sello. A menudo encajables, en 7 medidas. Vea los modelos."
+description: "Palets de plástico ligeros para exportación, exentos de ISPM 15: sin tratamiento térmico ni sello. A menudo encajables. Vea todos los modelos."
 eyebrow: "Exportación"
 h1: "**Palets de exportación** de plástico"
 lead: "Ligeros, resistentes y sin papeleo en la frontera. Nuestros palets de exportación están exentos de ISPM 15, pesan desde 2,7 kg y están disponibles en [[count]] versiones."

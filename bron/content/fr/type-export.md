@@ -1,7 +1,7 @@
 ---
 id: type-export
 title: "Palettes plastique export – exemptées de l’ISPM 15 – Q-Pall"
-description: "Palettes plastique légères pour l’export, exemptées de l’ISPM 15 : ni traitement thermique ni marquage. Souvent emboîtables, en 7 formats. Voir les modèles."
+description: "Palettes plastique légères pour l’export, exemptées de l’ISPM 15 : ni traitement thermique ni marquage. Souvent emboîtables. Voir tous les modèles."
 eyebrow: "Export"
 h1: "**Palettes export** en plastique"
 lead: "Légères, solides et prêtes à passer la frontière sans formalités. Nos palettes export sont exemptées de la norme ISPM 15, pèsent à partir de 2,7 kg et existent en [[count]] versions."

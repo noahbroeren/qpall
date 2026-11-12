@@ -325,7 +325,7 @@ a:hover>.booklet,a:hover .booklet{transform:rotate(0)}
 .ptile-acc .ptile-img img,.ptile-acc .ptile-img .ph{max-height:120px;max-width:70%}
 .ptile-acc .ptile-txt{align-self:start}
 .ptile-acc .ptile-txt b{font-size:1.05rem;margin-bottom:4px}
-.ptile-acc .ptile-txt small{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.ptile-acc .ptile-txt small{display:block}
 .ptile-acc>.ico{align-self:end;margin-bottom:2px}
 .classes-note{margin:24px 0 0;font-size:.85rem;color:rgba(255,255,255,.6);text-align:center}
 .classes-note a{color:#fff}
@@ -2222,7 +2222,7 @@ picture>source{display:none}   /* with display:contents the <source> would other
 .cr-stats b{display:block;font-size:clamp(1.7rem,2.6vw,2.3rem);font-weight:700;line-height:1.1;color:#fff}
 .cr-stats span{font-size:.88rem}
 @media (max-width:420px){.cr-stats li{padding:18px 16px}.cr-stats b{font-size:1.45rem}}
-.cr-h-c{text-align:center;margin-bottom:32px}
+.cr-h-c{margin-bottom:32px}   /* left like every other section heading (update 50) */
 .cr-steps{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;list-style:none;counter-reset:none;position:relative}
 .cr-steps li{position:relative;display:flex;flex-direction:column;gap:6px;padding:28px 26px;border-radius:var(--r);background:var(--soft-2);border:1px solid var(--line-2)}
 .cr-step-n{display:grid;place-items:center;width:40px;height:40px;margin-bottom:8px;border-radius:50%;background:var(--navy);color:#fff;font-weight:700}
@@ -2426,3 +2426,15 @@ h1,h2,h3,h4,.pc-title,.btn,.eyebrow{text-wrap:balance}
   .cmp-table td{min-width:148px}
   .cmp-table img{width:112px;height:76px}
 }
+
+/* update 50: small layout fixes */
+/* the three load classes fit on one row in the filter column */
+.fopts:has(input[name="class"]){display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+.fopts:has(input[name="class"]) .fopt span{width:100%;justify-content:center;gap:6px;padding:4px 6px}
+/* size and type chips under the listings: wrap on the phone instead of running off the screen */
+@media (max-width:900px){
+  .catnav ul{flex-wrap:wrap;overflow:visible;margin:0;padding:0}
+  .catnav .chip{white-space:nowrap}
+}
+/* search without results: the quote link lines up with the message */
+.search-res .sr-empty .sr-help{display:block;margin:8px 0 0;padding:0;background:none}

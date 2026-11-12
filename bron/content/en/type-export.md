@@ -1,7 +1,7 @@
 ---
 id: type-export
 title: "Plastic export pallets – ISPM 15 exempt – Q-Pall"
-description: "Light plastic pallets for export, exempt from ISPM 15: no heat treatment or stamp needed. Often nestable, available in 7 sizes. View the models."
+description: "Light plastic pallets for export, exempt from ISPM 15: no heat treatment or stamp needed. Often nestable, available in 7 sizes. View all models."
 eyebrow: "Export"
 h1: "Plastic **export pallets**"
 lead: "Light, strong and across the border without paperwork. Our export pallets are exempt from ISPM 15, weigh from 2.7 kg and are available in [[count]] versions."

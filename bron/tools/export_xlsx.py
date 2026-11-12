@@ -249,6 +249,42 @@ for r, m in enumerate(models, 2):
         cell.border = BORDER
     w3.row_dimensions[r].height = 150
 
+# ------------------------------------------------------------------ sheet: runners (onderlatten en kliklatten)
+wr = wb.create_sheet('Onderlatten')
+rcols = [('Foto', 22, 'img'), ('Artikelnummer', 16, 'b'), ('Productnaam', 40, 'w'), ('Soort', 12, ''),
+         ('Lengte (mm)', 10, 'i'), ('Breedte (mm)', 10, 'i'), ('Hoogte (mm)', 10, 'i'), ('Gewicht (kg)', 10, 'd'),
+         ('Past onder', 26, 'w'), ('Productpagina', 44, 'link')]
+for c, (h, wdt, _) in enumerate(rcols, 1):
+    cell = wr.cell(row=1, column=c, value=h)
+    cell.font, cell.fill = F_HEAD, FILL_HEAD
+    cell.alignment = Alignment(wrap_text=True, vertical='center')
+    wr.column_dimensions[get_column_letter(c)].width = wdt
+wr.row_dimensions[1].height = 32
+wr.freeze_panes = 'C2'
+runners = sorted([a for a in B.ACCS if a['kind'] == 'runner'], key=lambda a: (a['sku'].startswith('QP-RUN'), a['L'], a['H']))
+for r, a in enumerate(runners, 2):
+    it = B.acc_item(a, 'nl')
+    fits = dict(it['rows']).get(T['acc_words']['fits'], '')
+    page = DOMAIN + '/' + B.PAGES['acc-runners']['path']['nl'] + '#' + it['anchor']
+    vals = [None, a['sku'], it['name'].replace('\u00a0', ' '), 'Kliklat' if a['sku'].startswith('QP-RUN') else 'Onderlat',
+            a['L'], a['W'], a['H'], a['weight'], fits, page]
+    for c, ((h, wdt, kind), v) in enumerate(zip(rcols, vals), 1):
+        if kind == 'img':
+            continue
+        cell = wr.cell(row=r, column=c, value=v)
+        cell.font = F_BOLD if kind == 'b' else F_LINK if kind == 'link' else F_BODY
+        cell.alignment = TOP_WRAP if kind in ('w', 'link') else TOP
+        if kind == 'd':
+            cell.number_format = '0.0'
+        if kind == 'link':
+            cell.hyperlink = v
+        if r % 2 == 1:
+            cell.fill = FILL_ZEBRA
+    f = img_file(it['img']) if it.get('img') else None
+    if f and os.path.exists(f):
+        place(wr, thumb(f), 1, r)
+    wr.row_dimensions[r].height = 90
+
 # ------------------------------------------------------------------ sheet 4: notes
 w4 = wb.create_sheet('Toelichting')
 w4.column_dimensions['A'].width = 30
@@ -257,7 +293,7 @@ w4['A1'] = 'Q-Pall productexport: kunststof pallets'
 w4['A1'].font = F_TITLE
 notes = [
     ('Datum', date.today().strftime('%d-%m-%Y')),
-    ('Aantal artikelen', f'{len(models)} pallets (één rij per artikelnummer); toebehoren zitten er niet in.'),
+    ('Aantal artikelen', f'{len(models)} pallets (één rij per artikelnummer) en {len(runners)} onderlatten/kliklatten (tabblad Onderlatten); overige toebehoren zitten er niet in.'),
     ('Bron', 'Dezelfde productdata als de website (bron/data/products.json, stapels.json, input/photos.json). '
              'Opnieuw maken: python3 tools/export_xlsx.py'),
     ('Volgorde', 'Op formaat (zoals in het menu), daarna draagklasse (light, medium, heavy), hoogte en artikelnummer.'),

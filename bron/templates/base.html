@@ -90,7 +90,7 @@
               <div class="mega-foot">
                 <a class="mf-cat" href="{{ catalog.url }}" download>{{ M.booklet(catalog, 'mf-book', defer=True) }}<span><b>{{ t.mm_catalog }}</b><small>{{ t.mm_catalog_edition }} · {{ catalog.meta }}</small></span></a>
                 <div class="mf-mid">
-                  <a class="mf-link" href="{{ urls['type-antislip'] }}">{{ t.mm_new_antislip }}</a>
+                  <a class="mf-link" href="{{ urls['type-antislip'] }}">{{ M.icon('grip') }}{{ t.mm_new_antislip }}</a>
                   <a class="mf-link" href="{{ urls.acc }}">{{ M.icon('layers') }}{{ t.mm_acc }}</a>
                 </div>
                 <a class="btn btn-primary" href="{{ urls.pallets }}">{{ t.mm_all }}{{ M.icon('arrow') }}</a>
