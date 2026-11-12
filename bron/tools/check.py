@@ -200,3 +200,12 @@ for k, v in list(broken.items())[:40]:
 print('problems:', len(problems))
 for pr in problems[:80]:
     print('  ', pr)
+
+
+# calculator photos: every SKUIMG entry must point at an existing pallet image (update 48)
+import json as _json, re as _re
+_eng = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'static', 'calc', 'engine.js'), encoding='utf-8').read()
+_miss = [k for k, v in _json.loads(_re.search(r'const SKUIMG=(\{.*?\});', _eng).group(1)).items()
+         if not os.path.exists(os.path.join(sys.argv[1], 'assets', 'img', 'pallets', v + '-320.webp'))]
+print('calculator photos missing:', len(_miss), _miss)
+if _miss: sys.exit(1)

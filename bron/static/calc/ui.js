@@ -80,7 +80,7 @@
   var opt = function (act, val, inner, sel, tag, extra) {
     return '<button type="button" class="qpc-opt' + (sel ? ' is-sel' : '') + '" data-act="' + act + '" data-v="' + val + '" aria-pressed="' + (sel ? 'true' : 'false') + '"' + (extra || '') + '>' + (tag ? '<span class="qpc-pop">' + tag + '</span>' : '') + inner + '</button>';
   };
-  var pic = function (sku) { var u = img(sku); return u ? '<img src="' + u + '" alt="" width="320" height="213" loading="lazy" decoding="async">' : ''; };
+  var pic = function (sku) { var u = img(sku); return u ? '<img src="' + u + '" alt="" width="320" height="213" loading="lazy" decoding="async" onerror="this.style.visibility=\'hidden\'">' : ''; };
   var chip = function (act, val, txt, sel, dis) { return '<button type="button" class="qpc-chip' + (sel ? ' is-sel' : '') + '" data-act="' + act + '" data-v="' + val + '" aria-pressed="' + (sel ? 'true' : 'false') + '"' + (dis ? ' disabled' : '') + '>' + txt + '</button>'; };
 
   var VIEW = {
