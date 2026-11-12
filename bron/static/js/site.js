@@ -243,6 +243,9 @@
               if (v > best) best = v;
             });
           });
+          // tie-break on the number as typed (QPKVOUWR before QPKKVOUWR, which the double-letter rule makes equal)
+          var raw = norm(q).trim();
+          if (best && raw.length > 2 && (x.x || []).some(function (s) { return norm(s).replace(/^[0-9n]+\./, '').indexOf(raw.replace(/^[0-9n]+\./, '')) === 0; })) best += 1;
           return best;
         };
         var score = function (x) {
