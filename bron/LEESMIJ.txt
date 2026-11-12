@@ -48,7 +48,7 @@ WAT STAAT WAAR
                              worden automatisch aan de juiste modellen gekoppeld.
   data/prijzen.csv           prijzen per artikelnummer (excl. btw). Lege prijs =
                              "prijs op aanvraag".
-  site_config.py             bedrijfsgegevens, fabrieken (6 + Veghel), transport-
+  site_config.py             bedrijfsgegevens, fabrieken (5 + Veghel), transport-
                              locaties voor SimplyBook (incl. kerstsluiting), maten,
                              types, sectoren, alle pagina-URL's per taal en de
                              catalogusbestanden per taal.
