@@ -2398,9 +2398,6 @@ p.small>.link-arrow .ico{display:inline-block;vertical-align:-.25em;margin-left:
   .var-table td[data-label]::before{content:attr(data-label);display:block;margin-bottom:1px;font-size:.75rem;font-weight:400;color:var(--muted)}
 }
 
-/* QA round (update 47): a listing with a single pallet (600 x 400) has nothing to filter or sort */
-.listing-single{grid-template-columns:minmax(0,1fr)}
-.listing-single .filters,.listing-single .toolbar-r{display:none}
 
 /* QA round (update 47): typography. The build keeps sizes, units and the brand name together (see typo() in build.py);
    headings, card titles and wrapping buttons spread their words evenly instead of leaving one word alone */

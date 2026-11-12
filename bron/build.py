@@ -1117,7 +1117,7 @@ def facets_for(ms, lang):
                            ('export', t['f_export'], lambda m: 'export' in m['types']), ('hyg', t['f_hyg'], lambda m: 'hygienic' in m['types']),
                            ('antislip', t['f_antislip'], lambda m: m['antislip']), ('price', t['f_price'], lambda m: bool(m['price_from']))]:
         n = sum(1 for m in ms if test(m))
-        if 0 < n < len(ms):
+        if 0 < n < len(ms) or (len(ms) == 1 and n == 1 and key != 'price'):   # a single pallet shows what it is (update 53)
             feats.append({'v': key, 'l': lab})
     f['f'] = feats
     smax = max(m['static'][1] for m in ms)

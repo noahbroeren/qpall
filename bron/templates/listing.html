@@ -26,19 +26,19 @@
 </header>
 
 <section class="section-sm listing-sec" aria-label="{{ t.nav_pallets }}" data-pagefind-ignore>
-  <div class="wrap listing{% if models|length < 2 %} listing-single{% endif %}" data-listing>
+  {% set fmin = 1 if models|length < 2 else 2 %}<div class="wrap listing" data-listing>
     <aside class="filters" aria-label="{{ t.filters }}">
       <form id="filterform" onsubmit="return false">
         <div class="f-head"><h2>{{ t.filters }}</h2><button class="icon-btn f-close" type="button" data-close-filters aria-label="{{ t.close }}">{{ M.icon('close') }}</button></div>
         {% if facets.size|length > 1 %}<fieldset class="fgroup"><legend>{{ t.f_size }}</legend><div class="fopts">{% for f in facets.size %}<label class="fopt"><input type="checkbox" name="size" value="{{ f.v }}" data-label="{{ f.l }}"><span>{{ f.l }}</span></label>{% endfor %}</div></fieldset>{% endif %}
-        {% if facets.class|length > 1 %}<fieldset class="fgroup"><legend>{{ t.f_class }}</legend><div class="fopts">{% for f in facets.class %}<label class="fopt"><input type="checkbox" name="class" value="{{ f.v }}" data-label="{{ f.l }}"><span><i class="dotc d-{{ f.v }}"></i>{{ f.l }}</span></label>{% endfor %}</div></fieldset>{% endif %}
+        {% if facets.class|length >= fmin %}<fieldset class="fgroup"><legend>{{ t.f_class }}</legend><div class="fopts">{% for f in facets.class %}<label class="fopt"><input type="checkbox" name="class" value="{{ f.v }}" data-label="{{ f.l }}"><span><i class="dotc d-{{ f.v }}"></i>{{ f.l }}</span></label>{% endfor %}</div></fieldset>{% endif %}
         {% if facets.static or facets.dyn or facets.rack %}<fieldset class="fgroup"><legend>{{ t.f_loads }}</legend>
           {% if facets.static %}<label class="fsel"><span>{{ t.f_minstatic }}</span><select name="static"><option value="0">{{ t.f_any }}</option>{% for v in facets.static %}<option value="{{ v }}">≥ {{ v|kg }}</option>{% endfor %}</select></label>{% endif %}
           {% if facets.dyn %}<label class="fsel"><span>{{ t.f_mindyn }}</span><select name="dyn"><option value="0">{{ t.f_any }}</option>{% for v in facets.dyn %}<option value="{{ v }}">≥ {{ v|kg }}</option>{% endfor %}</select></label>{% endif %}
           {% if facets.rack %}<label class="fsel"><span>{{ t.f_minrack }}</span><select name="rack"><option value="0">{{ t.f_any }}</option>{% for v in facets.rack %}<option value="{{ v }}">≥ {{ v|kg }}</option>{% endfor %}</select></label>{% endif %}
         </fieldset>{% endif %}
-        {% if facets.deck|length > 1 %}<fieldset class="fgroup"><legend>{{ t.f_deck }}</legend><div class="fopts">{% for f in facets.deck %}<label class="fopt"><input type="checkbox" name="deck" value="{{ f.v }}" data-label="{{ f.l }}"><span>{{ f.l }}</span></label>{% endfor %}</div></fieldset>{% endif %}
-        {% if facets.base|length > 1 %}<fieldset class="fgroup"><legend>{{ t.f_support }}</legend><div class="fopts">{% for f in facets.base %}<label class="fopt"><input type="checkbox" name="base" value="{{ f.v }}" data-label="{{ f.l }}"><span>{{ f.l }}</span></label>{% endfor %}</div></fieldset>{% endif %}
+        {% if facets.deck|length >= fmin %}<fieldset class="fgroup"><legend>{{ t.f_deck }}</legend><div class="fopts">{% for f in facets.deck %}<label class="fopt"><input type="checkbox" name="deck" value="{{ f.v }}" data-label="{{ f.l }}"><span>{{ f.l }}</span></label>{% endfor %}</div></fieldset>{% endif %}
+        {% if facets.base|length >= fmin %}<fieldset class="fgroup"><legend>{{ t.f_support }}</legend><div class="fopts">{% for f in facets.base %}<label class="fopt"><input type="checkbox" name="base" value="{{ f.v }}" data-label="{{ f.l }}"><span>{{ f.l }}</span></label>{% endfor %}</div></fieldset>{% endif %}
         {% if facets.f %}<fieldset class="fgroup"><legend>{{ t.f_feat }}</legend><div class="fopts">{% for f in facets.f %}<label class="fopt"><input type="checkbox" name="f" value="{{ f.v }}" data-label="{{ f.l }}"><span>{{ f.l }}</span></label>{% endfor %}</div></fieldset>{% endif %}
         <div class="f-actions"><button class="btn btn-outline btn-sm" type="button" data-reset>{{ t.filter_reset }}</button><button class="btn btn-primary btn-sm f-apply" type="button" data-close-filters>{{ t.show_results }}</button></div>
       </form>
