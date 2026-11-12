@@ -2431,15 +2431,20 @@ h1,h2,h3,h4,.pc-title,.btn,.eyebrow{text-wrap:balance}
 
 /* update 50: small layout fixes */
 /* the three load classes fit on one row in the filter column */
-/* load classes as coloured pills, like the class badge on the cards but in the font of the filters (update 53);
-   a chosen class gets a ring (no check mark, Noah 12 Nov) */
-.fopt input[name="class"]+span{gap:5px;border-color:transparent;color:#fff}
+/* load classes as coloured pills in the font of the filters (update 53, reworked): a light tint of the class colour
+   when not chosen, the full colour with white text when chosen (exactly like the class badge on the cards). No ring,
+   so three chosen classes never touch each other */
+.fopt input[name="class"]+span{gap:5px;border-color:transparent;font-weight:500}
 .fopt input[name="class"]+span .dotc{display:none}
-.fopt input[name="class"][value="light"]+span{background:var(--light)}
-.fopt input[name="class"][value="medium"]+span{background:var(--medium)}
-.fopt input[name="class"][value="heavy"]+span{background:var(--heavy)}
-.fopt:hover input[name="class"]+span{border-color:transparent;filter:brightness(.94)}
-.fopt input[name="class"]:checked+span{box-shadow:0 0 0 2px #fff,0 0 0 4px var(--navy)}
+.fopt input[name="class"][value="light"]+span{background:#EEF5E2;color:#5C782E}
+.fopt input[name="class"][value="medium"]+span{background:#DDF2FB;color:#1C6C8F}
+.fopt input[name="class"][value="heavy"]+span{background:#F1DEEC;color:#681F56}
+.fopt:hover input[name="class"][value="light"]+span{background:#E1EECC;border-color:transparent}
+.fopt:hover input[name="class"][value="medium"]+span{background:#C4E9F8;border-color:transparent}
+.fopt:hover input[name="class"][value="heavy"]+span{background:#E6C6DE;border-color:transparent}
+.fopt input[name="class"][value="light"]:checked+span{background:var(--light);color:#fff}
+.fopt input[name="class"][value="medium"]:checked+span{background:var(--medium);color:#fff}
+.fopt input[name="class"][value="heavy"]:checked+span{background:var(--heavy);color:#fff}
 
 /* size and type chips under the listings: wrap on the phone instead of running off the screen */
 @media (max-width:900px){
