@@ -14,8 +14,8 @@ BUILD_DATE = _os.environ.get('QP_DATE', '2026-10-15')   # <lastmod> in sitemap.x
 # Go-live date of the new site: datePublished of the seven knowledge-base guides (new on this site, 6 languages).
 # SET THIS ON THE DAY OF GOING LIVE (e.g. '2026-11-16'), then build. Until then the guides use BUILD_DATE.
 LAUNCH_DATE = _os.environ.get('QP_LAUNCH') or '2026-11-13'     # go-live (update 54)
-# Google Tag Manager container (set up by iClicks), e.g. 'GTM-ABC1234'. Empty = no GTM. GTM loads only after the visitor
-# accepts statistics cookies. The site always pushes these dataLayer events (no cookies, nothing sent without GTM):
+# Google Tag Manager container (set up by iClicks), e.g. 'GTM-ABC1234'. Empty = no GTM. On the production hosts GTM loads in
+# <head>; its Cookiebot CMP asks for consent and blocks the other tags until then. The site always pushes these dataLayer events:
 #   generate_lead  lead_type 'offerte' (quote form) or 'contact' (contact form): on the thank-you page after sending
 #   phone_click / email_click: click on a tel: / mailto: link.   PDF downloads: GA4's own file_download (not a conversion).
 GTM_ID = 'GTM-MNRQ33'            # container van iClicks (update 19); bevat o.a. Cookiebot, GA4 via sst.qpall.com, Google Ads,

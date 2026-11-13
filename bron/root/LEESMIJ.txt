@@ -11,8 +11,8 @@ INHOUD VAN DIT PAKKET
                       pagina's, 7 typepagina's en 3 draagklassen (light,
                       medium, heavy) met slimme filters (maat, klasse,
                       statische / dynamische / stellingbelasting, dek, onderzijde)
-  Productpagina's     131 artikelnummers per taal, elk een eigen pagina: foto's +
-                      maattekening, belasting, productielocatie of "op aanvraag",
+  Productpagina's     124 artikelnummers per taal, elk een eigen pagina: foto's +
+                      maattekening, belasting, productinformatie (geen productielocatie),
                       vergelijkbare uitvoeringen (met link),
                       downloads (technische datasheet in de eigen taal,
                       PPWR-conformiteitsverklaring, productcatalogus)
@@ -72,12 +72,12 @@ e) Test na livegang:
 
 2. VOOR EN DIRECT NA DE OVERSTAP (SEO)
 ----------------------------------------------------------------------
-LET OP: de site staat nu op NOINDEX (zoekmachines nemen niets op, ook de
-prijzen niet). Elke pagina heeft <meta name="robots" content="noindex,
-nofollow"> en netlify.toml stuurt "X-Robots-Tag: noindex, nofollow" mee.
-Bij livegang op qpall.com (en als sales de prijzen heeft goedgekeurd):
-in het bronpakket in site_config.py NOINDEX_ALL = False zetten, opnieuw
-bouwen en de nieuwe map deployen. Pas daarna de sitemap indienen.
+ZOEKMACHINES: sinds update 54 (13 november 2026) staat de noindex UIT voor
+www.qpall.com en qpall.com: elke pagina heeft <meta name="robots"
+content="index, follow">. Op alle andere adressen (staging.qpall.com,
+*.netlify.app) zet de edge function netlify/edge-functions/noindex-test-hosts.js
+"X-Robots-Tag: noindex, nofollow" in de response, zodat de testsite nooit in
+Google komt. Na de DNS-overstap de sitemap indienen in Search Console.
 
 Redirects: _redirects bevat een 301 voor alle 1.608 URL's van de oude
 qpall.com (sitemap van 19-10-2026, alle talen, ook pdf's en de oude
@@ -93,8 +93,9 @@ Vóór het omzetten van de DNS:
     tools/redirects_qpall.py opnieuw (zie LEESMIJ.txt in het bronpakket).
 Direct na livegang:
   * Search Console: sitemap https://www.qpall.com/sitemap.xml indienen.
-  * Rich Results Test op een productpagina met prijs: Product + Offer +
-    BreadcrumbList + FAQ.
+  * Rich Results Test op een productpagina (Product + BreadcrumbList) en
+    op een pagina met veelgestelde vragen (FAQ). Er staan geen prijzen op
+    de site, dus ook geen Offer.
   * Volg 2 tot 4 weken het rapport "Pagina's" voor 404's.
 
 
@@ -111,10 +112,8 @@ Direct na livegang:
 [ ] Vertalingen DE/FR/IT/ES: volledig vertaald met vaste terminologie per taal.
     Laat bij voorkeur een native collega of dealer de belangrijkste pagina's
     (home, kunststof pallets, offerte) nalezen.
-[ ] Productielocatie: 42 artikelnummers hebben in de productdata geen "Huidige
-    locatie" en tonen "Op aanvraag".
 [ ] Productfoto's: per artikelnummer gecontroleerd (matrijs 1./2./3. ... zien er
-    verschillend uit). Alle 131 artikelen tonen een foto van precies die uitvoering
+    verschillend uit). Alle 124 artikelen tonen een foto van precies die uitvoering
     (de foto die in het PIM of op qpall.com aan het artikelnummer hangt, of die Q-Pall
     heeft aangeleverd). Elke datasheet toont twee foto's van hetzelfde artikel
     (onderkant of een ander aanzicht); 13 artikelen hebben er nog maar een.
@@ -123,7 +122,7 @@ Direct na livegang:
 [ ] Kleuren: de hygiënische, cleanroom- en H1-pallets tonen hun kleur per
     artikelnummer (QPH1208HP3RR-CDB = blauw, -CDG = grijs, ECO = zwart enz.).
     Graag nalopen; aanpassen in SKU_COLOUR in site_config.py van het bronpakket.
-[ ] Technische tekeningen: alle 131 artikelen hebben een tekening in de datasheet.
+[ ] Technische tekeningen: alle 124 artikelen hebben een tekening in de datasheet.
     102 de CAD-tekening van hun eigen matrijs (bovenaanzicht + beide zijaanzichten),
     de 13 hygiënische en cleanroompallets de zijaanzichten van de producent, 14
     pallets met klikbare onderlatten de tekening van de 9-pootjespallet met de onderlat

@@ -2401,7 +2401,7 @@ p.small>.link-arrow .ico{display:inline-block;vertical-align:-.25em;margin-left:
 
 /* QA round (update 47): typography. The build keeps sizes, units and the brand name together (see typo() in build.py);
    headings, card titles and wrapping buttons spread their words evenly instead of leaving one word alone */
-.nw{white-space:nowrap}
+.nw{white-space:nowrap;display:contents}     /* contents: no extra flex gap in buttons, nav and eyebrows (update 54) */
 h1,h2,h3,h4,.pc-title,.btn,.eyebrow{text-wrap:balance}
 .prose p,.lead{text-wrap:pretty}
 /* wide tables: a soft shadow on the side that can still scroll */

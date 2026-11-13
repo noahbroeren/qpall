@@ -55,7 +55,7 @@ PAGE_VISUAL = {
     'about-sustainability': ('photo', 'seaturtle', '55% 50%'), 'about-custom': ('photo', 'custom-logo', '50% 50%'),
     'about-glossary': ('photo', 'mould', '50% 40%'), 'careers': ('photo', 'team', '50% 45%'), 'job-inside-sales': ('photo', 'office-sales', '50% 40%'), 'about-team': ('photo', 'office', '50% 50%'),
     'dealers': ('photo', 'hq-aerial', '50% 50%'), 'contact': ('photo', 'hq-terrace', '50% 50%'),
-    'transport': ('photo', 'hq-aerial', '50% 50%'), 'thanks': ('photo', 'office-open', '50% 50%'), 'thanks-quote': ('photo', 'hq-corner', '50% 50%'),
+    'transport': ('photo', 'hq-aerial', '50% 50%'), 'thanks': ('photo', 'office-open', '50% 50%'), 'thanks-quote': ('photo', 'hq-corner', '50% 50%'), 'thanks-apply': ('photo', 'team', '50% 45%'),
     'used': ('photo', 'pooling', '50% 50%'), 'sectors': ('photo', 'beverage', '50% 50%'),
     'sector-chemical': ('photo', 'sector-chemical', '50% 50%'), 'sector-food': ('photo', 'sector-food', '50% 50%'),
     'sector-pharma': ('photo', 'sector-pharma', '50% 50%'), 'sector-beverage': ('photo', 'beverage', '50% 50%'),
@@ -72,7 +72,7 @@ PAGE_VISUAL = {
 # Q colour per page (default by section); pallets and pallet listings use the load class colour
 PAGE_Q = {'home': 'blauw', 'pallets': 'oranje', 'quote': 'oranje', 'calc': 'blauw', 'catalog': 'oranje', 'guide-ppwr': 'paars',
           'about-sustainability': 'groen', 'used': 'groen', 'news-hdpe': 'groen', 'about-load': 'paars', 'guide-choose': 'oranje',
-          'guide-sizes': 'blauw', 'thanks': 'oranje', 'contact': 'oranje', 'transport': 'blauw', 'dealers': 'blauw', 'careers': 'oranje', 'job-inside-sales': 'oranje'}
+          'guide-sizes': 'blauw', 'thanks': 'oranje', 'contact': 'oranje', 'transport': 'blauw', 'dealers': 'blauw', 'careers': 'oranje', 'job-inside-sales': 'oranje', 'thanks-apply': 'oranje'}
 # footer USPs (i18n keys); the second one is dropped automatically when the line does not fit
 USPS = {
     'home': ('usp_recycled', 'usp_factories'), 'pallets': ('usp_direct', 'usp_factories'), 'type-export': ('usp_ispm', 'usp_direct'),
@@ -296,7 +296,7 @@ def texts(pid, lang):
         stats = [(X['static_big'], t['static']), (X['dynamic_big'], t['dynamic'])]
         if m.get('racking') and X.get('racking_big'):
             stats.append((X['racking_big'], t['racking']))
-        return eyebrow, m['name'][lang], stats, usps
+        return eyebrow, (m.get('card_name') or m['name'])[lang], stats, usps     # SKU only once: in the eyebrow (update 54)
     fm = build.CONTENT[lang][pid]['fm']
     if pid == 'home':
         h1, eyebrow = fm['hero']['h1'], fm['hero'].get('eyebrow')

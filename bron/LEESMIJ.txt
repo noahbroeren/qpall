@@ -339,7 +339,7 @@ GESTRUCTUREERDE DATA EN LLMS.TXT (update 12)
   Publicatiedatums: de vijf oude artikelen hebben hun oorspronkelijke datum
   ('published', Publicatiedatums kennisartikelen Q-Pall.xlsx of de datum van het oude
   CMS, de vroegste) en 'updated' 2026-10-19. De zeven kennisbankgidsen krijgen de
-  livegangdatum: LAUNCH_DATE in site_config.py OP DE DAG VAN LIVEGANG INVULLEN.
+  livegangdatum: LAUNCH_DATE in site_config.py (staat op 2026-11-13, update 54; schuift de livegang op, pas hem dan aan).
 
 UPDATE 13 (oktober 2026)
   TEAM EN AUTEURS: TEAM in site_config.py = Sabine Oudshoorn en John van Boesschoten
@@ -537,16 +537,15 @@ BEVEILIGING (CSP)
   toe (bijv. analytics), breid dan de meta-tag in base.html uit.
 
 ZOEKMACHINES (NOINDEX)
-  Zolang NOINDEX_ALL = True in site_config.py staat, krijgt elke pagina
-  <meta name="robots" content="noindex, nofollow"> en stuurt Netlify voor elk
-  bestand (ook pdf's) "X-Robots-Tag: noindex, nofollow" mee. Er komt dan niets
-  in Google, ook geen prijzen. Bij livegang: NOINDEX_ALL = False en opnieuw
-  bouwen. tools/check.py controleert titels, descriptions en canonicals ook
-  zolang de noindex aan staat.
-  De technische datasheets en andere downloads (/downloads/*) houden ook na de
-  livegang "X-Robots-Tag: noindex" (netlify.toml), zodat Google de productpagina
-  toont en niet de pdf. robots.txt sluit alleen /pagefind/ uit; de bedankpagina's
-  hebben zelf een noindex.
+  Live sinds update 54: NOINDEX_ALL = False in site_config.py, dus elke pagina krijgt
+  <meta name="robots" content="index, follow, max-image-preview:large">. Testadressen (staging.qpall.com,
+  *.netlify.app, deploy previews) krijgen van de edge function edge-functions/noindex-test-hosts.js de header
+  "X-Robots-Tag: noindex, nofollow" (alleen qpall.com en www.qpall.com niet). build_assets.write_netlify zet hem in
+  netlify/edge-functions/; de paden staan in de functie zelf (inline config, geen blok in netlify.toml).
+  Zet je NOINDEX_ALL weer op True, dan krijgt elke pagina weer de noindex-meta (ook op productie).
+  De technische datasheets en andere downloads (/downloads/*) houden "X-Robots-Tag: noindex" (netlify.toml), zodat
+  Google de productpagina toont en niet de pdf. robots.txt sluit alleen /pagefind/ uit; de bedankpagina's en 404's
+  hebben zelf een noindex en staan niet in de sitemap.
 
 BELANGRIJKE TOOLS NA DEZE RONDE (oktober 2026)
   python3 tools/cad_views.py       tekeningen (boven + 2 zijaanzichten) voor de datasheets
@@ -1031,3 +1030,30 @@ UPDATE 45 (10 november 2026) - Chesterfield van de site, 48 x 40-pallets eraf, 2
 UPDATE 46 (10 november 2026) - fabriekenlijst naast de kaart (home): Veghel staat nu als eerste tegel in hetzelfde
   raster als de fabrieken, 2 kolommen x 3 rijen, gelijke tegels met 8 px ruimte (geen vakjes meer tegen elkaar);
   mobiel 1 kolom (templates/home.html, site.css onderaan).
+
+UPDATES 47-53 (11-13 november 2026) - zie het opleverdocument (q-pall/oplevering-update-33.md in het project): QA van
+  de hele site, typografie (typo() in build.py), metateksten, productielocatie per product overal weg (besluit Q-Pall),
+  zoeken op artikelnummer, draagklasse-pills, onderlatten in de export, nieuwe catalogi.
+
+UPDATE 54 (13 november 2026) - klaar voor livegang (Noah).
+  NOINDEX UIT: NOINDEX_ALL = False; edge function voor de testadressen (zie ZOEKMACHINES). LAUNCH_DATE = 2026-11-13.
+    Downloads/datasheets houden X-Robots-Tag noindex. Getest op staging: header noindex, nofollow; meta index, follow.
+  HOME: "Onderdeel van de AVK Group" -> "Vijf productielocaties in Europa" (6 talen); foto bij "De hele keten in eigen
+    hand" nu photo-balk-robots (Balk_088). Cases: alleen de bovenste drie (news-auchan, news-mega-order, news-stackup).
+  VEGHEL: overal "Hoofdkantoor" i.p.v. "Hoofdkantoor en opslag" (i18n footer_hq, hq_photo_caption, map_hq_text,
+    contact, about-local, news-durability, schema-organization.json). Bewust niet aangepast: news-hq (bericht over het
+    gebouw met magazijnhal) en Q-Used ("geleverd vanuit ons magazijn in Veghel").
+  TEAM: nieuwe teksten Sabine en John (site_config SABINE_ABOUT / JOHN_ABOUT, 4 alinea's per taal, u-vorm, laatste
+    alinea = oproep), rollen SABINE_ROLE / JOHN_ROLE; teamkaart toont alle alinea's (templates/page.html).
+  BALK-FOTO'S (Balk_JPG.zip): input/brand/photo-balk-robots (088), -stacks (030), -forklift (100), -cad (078),
+    -granulate (044). Lokaal produceren: tweeluik stacks + forklift; Maatwerk: cad + custom; Duurzaamheid:
+    recycled-input + granulate. og van about-local: photo 'mould'.
+  COOKIES EN PRIVACY: cookieverklaring met sectie Grondslag en het Cookiebot-overzicht (cd.js van qpall.com,
+    COOKIEBOT_ID; laadt alleen op qpall.com/www, elders een tekst). Privacyverklaring: tabel verwerkers (Netlify,
+    HubSpot, Brevo, SimplyBook.me, Cookiebot; Google/LinkedIn/Leadinfo alleen met toestemming), doorgifte buiten de
+    EER, versiedatum 13 november 2026.
+  OG: alle deelafbeeldingen opnieuw gemaakt (6 talen x 242) en gecontroleerd (bestaat, 1200 x 630, geen wezen, tekst
+    gescand); tools/og.py kende 'thanks-apply' nog niet (nu foto team). Productafbeeldingen tonen de kaartnaam: het
+    artikelnummer staat al in de regel erboven (47 artikelen, 282 afbeeldingen).
+  CSS: .nw (Q-Pall nooit afbreken) is nu display:contents: geen extra ruimte meer in knoppen, menu en eyebrows
+    ("Over  Q-Pall").
