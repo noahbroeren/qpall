@@ -35,4 +35,4 @@ Nuestra sede central y nuestro centro europeo de operaciones se encuentran en **
 
 ## Personalización cerca de usted
 
-¿Va a iniciar un proyecto de mayor envergadura con un modelo modificado? Entonces podemos instalar el molde en la fábrica más cercana a usted. Más información sobre la [personalización](@about-custom). Para cada producto de nuestra web también puede ver en qué centros se fabrica.
+¿Va a iniciar un proyecto de mayor envergadura con un modelo modificado? Entonces podemos instalar el molde en la fábrica más cercana a usted. Más información sobre la [personalización](@about-custom).

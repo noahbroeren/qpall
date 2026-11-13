@@ -1453,7 +1453,7 @@ body.has-cmp .ftr{padding-bottom:84px}
 .cycle-cta .cp-txt span{margin-top:1px;font-size:.84rem;line-height:1.35;white-space:nowrap}
 
 /* about page: head office photos */
-.photo-duo{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:30px 0 6px}
+.photo-duo{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:30px 0 26px}
 .photo-duo img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;border-radius:var(--r)}
 .photo-duo figcaption{grid-column:1/-1;font-size:.85rem;color:var(--muted)}
 

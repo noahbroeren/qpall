@@ -42,7 +42,7 @@ Bij grotere aantallen en volle vrachtwagens dalen de kosten per pallet. Ook de m
 
 ### 4. Afstand tot de fabriek
 
-Transport is een belangrijk deel van de kosten. Q-Pall produceert in [vijf Europese fabrieken](@about-local), zodat de afstand tot u meestal klein is. Bij elk product ziet u op welke locaties het wordt gemaakt.
+Transport is een belangrijk deel van de kosten. Q-Pall produceert in [vijf Europese fabrieken](@about-local), zodat de afstand tot u meestal klein is. In uw offerte staat vanuit welke fabriek we leveren.
 
 ## Reken in kosten per omloop
 

@@ -42,7 +42,7 @@ With larger quantities and full truckloads, the cost per pallet goes down. The p
 
 ### 4. Distance to the factory
 
-Transport is a significant part of the cost. Q-Pall produces in [five European factories](@about-local), so the distance to you is usually small. Each product shows the locations where it is made.
+Transport is a significant part of the cost. Q-Pall produces in [five European factories](@about-local), so the distance to you is usually small. Your quote states which factory we deliver from.
 
 ## Calculate the cost per trip
 

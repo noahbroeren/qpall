@@ -42,7 +42,7 @@ Con cantidades mayores y camiones completos, el coste por palet baja. El tipo de
 
 ### 4. Distancia a la fábrica
 
-El transporte es una parte importante del coste. Q-Pall produce en [cinco fábricas europeas](@about-local), por lo que la distancia hasta usted suele ser pequeña. En cada producto se indican los centros donde se fabrica.
+El transporte es una parte importante del coste. Q-Pall produce en [cinco fábricas europeas](@about-local), por lo que la distancia hasta usted suele ser pequeña. En su presupuesto se indica desde qué fábrica realizamos la entrega.
 
 ## Calcule el coste por viaje
 

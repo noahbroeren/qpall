@@ -42,7 +42,7 @@ Con quantità maggiori e camion completi, il costo per pallet diminuisce. Conta 
 
 ### 4. Distanza dallo stabilimento
 
-Il trasporto è una parte consistente del costo. Q-Pall produce in [cinque stabilimenti europei](@about-local), quindi la distanza da voi è di solito ridotta. Per ogni prodotto sono indicati i siti in cui viene realizzato.
+Il trasporto è una parte consistente del costo. Q-Pall produce in [cinque stabilimenti europei](@about-local), quindi la distanza da voi è di solito ridotta. Nel preventivo è indicato da quale stabilimento consegniamo.
 
 ## Ragionate in costo per viaggio
 

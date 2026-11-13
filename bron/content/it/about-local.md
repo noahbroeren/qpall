@@ -35,4 +35,4 @@ La nostra sede centrale e il centro operativo europeo si trovano a **Veghel**, n
 
 ## Personalizzazione vicino a voi
 
-State avviando un progetto più grande con un modello modificato? Allora possiamo collocare lo stampo nello stabilimento più vicino a voi. Scoprite di più sulla [personalizzazione](@about-custom). Per ogni prodotto sul nostro sito potete inoltre vedere in quali siti viene prodotto.
+State avviando un progetto più grande con un modello modificato? Allora possiamo collocare lo stampo nello stabilimento più vicino a voi. Scoprite di più sulla [personalizzazione](@about-custom).

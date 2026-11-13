@@ -35,4 +35,4 @@ Ons hoofdkantoor en Europees operationeel centrum staan in **Veghel**, in Noord-
 
 ## Maatwerk dichtbij
 
-Gaat u een groter project aan met een aangepast model? Dan kunnen we de matrijs plaatsen in de fabriek die het dichtst bij u ligt. Lees meer over [maatwerk](@about-custom). Bij elk product op onze site ziet u bovendien op welke locaties het wordt geproduceerd.
+Gaat u een groter project aan met een aangepast model? Dan kunnen we de matrijs plaatsen in de fabriek die het dichtst bij u ligt. Lees meer over [maatwerk](@about-custom).

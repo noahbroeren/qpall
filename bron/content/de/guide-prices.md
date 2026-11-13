@@ -42,7 +42,7 @@ Bei größeren Mengen und kompletten Lkw-Ladungen sinken die Kosten pro Palette.
 
 ### 4. Entfernung zum Werk
 
-Der Transport macht einen erheblichen Teil der Kosten aus. Q-Pall produziert in [fünf europäischen Werken](@about-local), daher ist die Entfernung zu Ihnen meist gering. Bei jedem Produkt sehen Sie, an welchen Standorten es hergestellt wird.
+Der Transport macht einen erheblichen Teil der Kosten aus. Q-Pall produziert in [fünf europäischen Werken](@about-local), daher ist die Entfernung zu Ihnen meist gering. In Ihrem Angebot steht, aus welchem Werk wir liefern.
 
 ## Kosten pro Umlauf berechnen
 

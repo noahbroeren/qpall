@@ -35,4 +35,4 @@ Unser Hauptsitz und unser europäisches Operations-Center befinden sich in **Veg
 
 ## Individuelle Lösungen in Ihrer Nähe
 
-Sie starten ein größeres Projekt mit einem angepassten Modell? Dann können wir das Werkzeug in dem Werk einsetzen, das Ihnen am nächsten liegt. Mehr über [individuelle Anpassungen](@about-custom). Bei jedem Produkt auf unserer Website sehen Sie außerdem, an welchen Standorten es produziert wird.
+Sie starten ein größeres Projekt mit einem angepassten Modell? Dann können wir das Werkzeug in dem Werk einsetzen, das Ihnen am nächsten liegt. Mehr über [individuelle Anpassungen](@about-custom).

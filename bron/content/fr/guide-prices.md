@@ -42,7 +42,7 @@ Avec de plus grandes quantités et des camions complets, le coût par palette di
 
 ### 4. Distance jusqu’à l’usine
 
-Le transport représente une part importante du coût. Q-Pall produit dans [cinq usines européennes](@about-local) : la distance jusqu’à chez vous est donc généralement faible. Pour chaque produit, les sites de fabrication sont indiqués.
+Le transport représente une part importante du coût. Q-Pall produit dans [cinq usines européennes](@about-local) : la distance jusqu’à chez vous est donc généralement faible. Votre devis indique l’usine depuis laquelle nous livrons.
 
 ## Raisonnez en coût par rotation
 

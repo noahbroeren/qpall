@@ -86,7 +86,7 @@
       <div class="aside-card aside-contact"><h2>{{ t.contact_title }}</h2>
         {% if form == 'quote' %}<div class="visit-people aside-people">{# the people behind the quote (update 33) #}
           <span class="cp-duo">{% for p in team %}<span class="cp-photo"><img src="{{ p.photo }}" alt="" width="56" height="56" loading="lazy" decoding="async"></span>{% endfor %}</span>
-          <p class="cp-txt"><b>{{ team|map(attribute='name')|join(' & ') }}</b> <span>{{ t.your_contacts }}</span></p>
+          <p class="cp-txt"><b>{{ team|map(attribute='name')|map('replace', ' ', ' ')|join(' & ') }}</b> <span>{{ t.your_contacts }}</span></p>
         </div>{% endif %}
         <ul class="contact-list">
           <li>{{ M.icon('phone') }}<a href="tel:{{ company.phone_href }}">{{ company.phone }}</a></li>
@@ -109,7 +109,7 @@
       <p class="lead">{{ V.text }}</p>
       <div class="visit-people">
         <span class="cp-duo">{% for p in team %}<span class="cp-photo"><img src="{{ p.photo }}" alt="" width="64" height="64" loading="lazy" decoding="async"></span>{% endfor %}</span>
-        <p class="cp-txt"><b>{{ team|map(attribute='name')|join(' & ') }}</b> <span>{{ V.people }}</span></p>
+        <p class="cp-txt"><b>{{ team|map(attribute='name')|map('replace', ' ', ' ')|join(' & ') }}</b> <span>{{ V.people }}</span></p>
       </div>
       <div class="btn-row"><a class="btn btn-navy" href="{{ hq_route }}" target="_blank" rel="noopener">{{ t.tr_route }}{{ M.icon('external') }}</a><a class="btn btn-outline" href="{{ urls['about-team'] }}">{{ V.team }}</a></div>
     </div>

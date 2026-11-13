@@ -35,4 +35,4 @@ Notre siège et notre centre d’opérations européen se trouvent à **Veghel**
 
 ## Du sur-mesure près de chez vous
 
-Vous lancez un projet d’envergure avec un modèle modifié ? Nous pouvons alors installer le moule dans l’usine la plus proche de chez vous. En savoir plus sur le [sur-mesure](@about-custom). Pour chaque produit de notre site, vous voyez aussi sur quels sites il est fabriqué.
+Vous lancez un projet d’envergure avec un modèle modifié ? Nous pouvons alors installer le moule dans l’usine la plus proche de chez vous. En savoir plus sur le [sur-mesure](@about-custom).

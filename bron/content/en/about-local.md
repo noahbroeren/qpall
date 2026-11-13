@@ -35,4 +35,4 @@ Our head office and European operations centre are in **Veghel**, in North Braba
 
 ## Customisation close to you
 
-Are you starting a larger project with a modified model? Then we can place the mould in the factory closest to you. Read more about [customisation](@about-custom). For each product on our site, you can also see at which sites it is produced.
+Are you starting a larger project with a modified model? Then we can place the mould in the factory closest to you. Read more about [customisation](@about-custom).
