@@ -445,8 +445,8 @@ a:hover>.booklet,a:hover .booklet{transform:rotate(0)}
 .fopts{clear:both;display:flex;flex-wrap:wrap;gap:6px}
 .fopt{position:relative;cursor:pointer}
 .fopt input{position:absolute;opacity:0;pointer-events:none}
-.fopt span{display:inline-flex;align-items:center;gap:7px;min-height:34px;padding:4px 12px;border-radius:var(--r-pill);border:1px solid var(--line);background:#fff;font-size:.84rem;font-weight:500;color:var(--ink);transition:all .15s}
-.fopt:hover span{border-color:var(--navy)}
+.fopt>span{display:inline-flex;align-items:center;gap:7px;min-height:34px;padding:4px 12px;border-radius:var(--r-pill);border:1px solid var(--line);background:#fff;font-size:.84rem;font-weight:500;color:var(--ink);transition:all .15s}
+.fopt:hover>span{border-color:var(--navy)}     /* > : not the nested Q-Pall span (update 54e) */
 .fopt input:checked+span{background:var(--navy);border-color:var(--navy);color:#fff}
 .fopt input:focus-visible+span{outline:2px solid var(--orange);outline-offset:2px}
 .dotc{flex:none;width:9px;height:9px;border-radius:50%}
