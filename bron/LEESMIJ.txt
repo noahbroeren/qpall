@@ -537,9 +537,7 @@ BEVEILIGING (CSP)
   toe (bijv. analytics), breid dan de meta-tag in base.html uit.
 
 ZOEKMACHINES (NOINDEX)
-  LET OP (13 november 2026, update 54c): de livegang is verschoven naar maandag 16 november; NOINDEX_ALL staat tot dan
-  weer op True (meta noindex, nofollow + X-Robots-Tag op alle hosts). OP DE DAG VAN LIVEGANG: NOINDEX_ALL = False.
-  Met NOINDEX_ALL = False in site_config.py krijgt elke pagina
+  Live sinds 13 november 2026 (update 54d): NOINDEX_ALL = False in site_config.py, dus elke pagina krijgt
   <meta name="robots" content="index, follow, max-image-preview:large">. Testadressen (staging.qpall.com,
   *.netlify.app, deploy previews) krijgen van de edge function edge-functions/noindex-test-hosts.js de header
   "X-Robots-Tag: noindex, nofollow" (alleen qpall.com en www.qpall.com niet). build_assets.write_netlify zet hem in
@@ -1061,3 +1059,5 @@ UPDATE 54 (13 november 2026) - klaar voor livegang (Noah).
     ("Over  Q-Pall").
   UPDATE 54c (13 november 2026): livegang verschoven naar maandag 16 november (storing bij Microsoft); noindex op verzoek
     van Noah weer aan (NOINDEX_ALL = True). Op de livegangdag weer op False zetten, bouwen en deployen.
+  UPDATE 54d (13 november 2026): toch vandaag live; noindex weer uit (NOINDEX_ALL = False). Testadressen houden de
+    noindex-header van de edge function.
