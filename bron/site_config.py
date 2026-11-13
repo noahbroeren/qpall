@@ -252,7 +252,7 @@ SHOW_PRICES = False
 # and Netlify sends "X-Robots-Tag: noindex, nofollow" for every file (pages, PDFs), so nothing (prices
 # included) ends up in Google. Set to False when the site goes live on qpall.com and the prices
 # have been approved, then rebuild.
-NOINDEX_ALL = False     # live (Noah, 13 Nov 2026, update 54); test hosts get noindex from the edge function
+NOINDEX_ALL = True      # back on until go-live (Noah, 13 Nov 2026: live on Monday 16 Nov); at go-live: False. Test hosts always get noindex from the edge function
 
 # Pallets worden alleen per volle stapel verkocht. Het aantal per stapel verschilt per pallet (update 12):
 # data/stapels.json, gemaakt door tools/stapels.py uit input/stapels/palletmaten voor calculator.docx.

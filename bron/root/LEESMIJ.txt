@@ -72,8 +72,9 @@ e) Test na livegang:
 
 2. VOOR EN DIRECT NA DE OVERSTAP (SEO)
 ----------------------------------------------------------------------
-ZOEKMACHINES: sinds update 54 (13 november 2026) staat de noindex UIT voor
-www.qpall.com en qpall.com: elke pagina heeft <meta name="robots"
+ZOEKMACHINES: tot de livegang (maandag 16 november 2026) staat de noindex
+nog AAN (NOINDEX_ALL = True in site_config.py). Op de livegangdag gaat hij
+uit; dan heeft elke pagina op www.qpall.com en qpall.com <meta name="robots"
 content="index, follow">. Op alle andere adressen (staging.qpall.com,
 *.netlify.app) zet de edge function netlify/edge-functions/noindex-test-hosts.js
 "X-Robots-Tag: noindex, nofollow" in de response, zodat de testsite nooit in
