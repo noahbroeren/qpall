@@ -36,6 +36,10 @@ Sans votre consentement, ces services ne déposent aucun cookie. Le site fonctio
 
 Ces services sont également soumis à leurs propres conditions de confidentialité et de cookies.
 
+## Base juridique
+
+Nous utilisons le stockage nécessaire sur la base de notre intérêt légitime : un site qui fonctionne correctement. Les cookies de statistiques et de marketing ne sont déposés qu’avec votre consentement (article 6, paragraphe 1, point a, du RGPD). Nous avons conclu un accord de traitement des données avec Google.
+
 ## Modifier votre choix
 
 Vous pouvez modifier ou retirer votre choix à tout moment via **Paramètres des cookies** en bas de chaque page. Vous pouvez supprimer les données enregistrées dans les paramètres de votre navigateur. Pour en savoir plus sur le traitement des données personnelles, consultez notre [politique de confidentialité](@privacy).

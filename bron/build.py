@@ -54,7 +54,7 @@ def model_sort_key(m):
 
 # update 45: draft and removed articles (site_config.DRAFT_SKUS / REMOVED_SKUS) leave before anything else; a family
 # without articles disappears. The family's ranges and locations are recalculated from the articles that remain.
-from site_config import DRAFT_SKUS, REMOVED_SKUS
+from site_config import DRAFT_SKUS, REMOVED_SKUS, COOKIEBOT_ID
 HIDDEN_SKUS = DRAFT_SKUS | REMOVED_SKUS
 
 
@@ -816,6 +816,7 @@ def person_ld(key, lang, context=True):
 
 def team_ctx(lang):
     return [{'key': p['key'], 'name': p['name'], 'photo': p['photo'], 'linkedin': p.get('linkedin'), 'role': p['role'][lang], 'bio': p['bio'][lang],
+             'about': (p.get('about') or {}).get(lang) or [],
              'url': url('about-team', lang) + '#' + p['key']} for p in TEAM]
 
 
@@ -1781,6 +1782,13 @@ def render_page(pid, lang):
         body = Markup(body)
         if not n_badge:
             WARN.append(f'EcoVadis heading not found on {pid}/{lang}')
+    if pid == 'cookies':   # Cookiebot's own, always current cookie list, before the last section (update 54)
+        decl = (f'<h2 id="cookie-overzicht">{escape(t["cookie_decl_h"])}</h2><p>{escape(t["cookie_decl_intro"])}</p>'
+                f'<div class="cookie-decl" data-cookie-decl="{COOKIEBOT_ID}" data-culture="{lang.upper()}">'
+                f'<p class="muted">{escape(t["cookie_decl_fallback"])}</p></div>')
+        hs = [mo.start() for mo in re.finditer(r'<h2[ >]', str(body))]
+        b = str(body)
+        body = Markup(b[:hs[-1]] + decl + b[hs[-1]:]) if hs else Markup(b + decl)
     if pid in PAGE_DUO:   # two extra photos after the first list in the text (about: the head office)
         *duo, k_alt, k_cap = PAGE_DUO[pid]
         imgs = ''.join(f'<img src="/assets/img/photos/{n}-640.webp" srcset="/assets/img/photos/{n}-640.webp 640w, /assets/img/photos/{n}-1200.webp 1200w" '
@@ -2006,12 +2014,15 @@ ULTRA_TXT = {
     'it': {'h': 'Due **versioni**', 'p': 'Entrambe le versioni misurano 1200 x 1000 x 165 mm e sopportano 7.500 kg in statica e 1.500 kg in dinamica. Con 6 slitte il pallet Ultra sopporta 1.375 kg su scaffale, con 3 slitte 1.250 kg.'},
     'es': {'h': 'Dos **versiones**', 'p': 'Ambas versiones miden 1200 x 1000 x 165 mm y soportan 7.500 kg en estática y 1.500 kg en dinámica. Con 6 patines, el palet Ultra soporta 1.375 kg en estantería; con 3 patines, 1.250 kg.'},
 }
-PAGE_PHOTO = {'about': 'hq-corner', 'about-local': 'local', 'about-sustainability': 'seaturtle', 'careers': 'team', 'about-custom': 'custom-logo',
+PAGE_PHOTO = {'about': 'hq-corner', 'about-local': 'mould', 'about-sustainability': 'seaturtle', 'careers': 'team', 'about-custom': 'custom-logo',
               'job-inside-sales': 'office-open'}
 # two photos after the first list: (photo, photo, i18n key of the alt text, i18n key of the caption)
 PAGE_DUO = {'about': ('hq-aerial', 'hq-terrace', 'hq_photo_alt', 'hq_photo_caption'),
             'job-inside-sales': ('office-sales', 'office-desk', 'job_photo_alt', 'job_photo_caption'),   # kantoorfoto's van Noah (update 19)
-            'about-sustainability': ('recycled-input', 'pallet-detail', 'recycle_photo_alt', 'recycle_photo_caption')}
+            'about-sustainability': ('recycled-input', 'balk-granulate', 'recycle_photo_alt', 'recycle_photo_caption'),
+            # own photos from the factory in Balk (Noah, 13 Nov 2026, update 54)
+            'about-local': ('balk-stacks', 'balk-forklift', 'local_photo_alt', 'local_photo_caption'),
+            'about-custom': ('balk-cad', 'custom', 'custom_photo_alt', 'custom_photo_caption')}
 # where the two photos go: after the first list (default) or at the end of the first section ('h2:2' = before the 2nd heading)
 PAGE_DUO_AT = {'about-sustainability': 'h2:2'}
 HERO_MODELS = {'light': 'qp1208lb9fr', 'medium': 'qp1208mb3r-cd-ao', 'heavy': 'qp1208hb3rr'}

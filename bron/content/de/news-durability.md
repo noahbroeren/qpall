@@ -52,7 +52,7 @@ Bei neuen Paletten achten wir vor allem auf:
 * **Weniger Materialverlust.** Wir begrenzen Ausschuss und Verluste in der Produktion.
 * **Wiederverwendung von Bauteilen und Produktionsabfällen.** Restmaterial geht zurück in den Prozess.
 
-So senken wir den Wasser- und Energieverbrauch, den Materialeinsatz, die CO₂-Emissionen und den Abfall. Auch unser [Gebäude in Veghel](@news-hq) mit Hauptsitz, europäischem Betriebszentrum und Lager verfügt unter anderem über eine Wärmepumpe und Solarmodule.
+So senken wir den Wasser- und Energieverbrauch, den Materialeinsatz, die CO₂-Emissionen und den Abfall. Auch unser [Gebäude in Veghel](@news-hq) mit Hauptsitz und europäischem Betriebszentrum verfügt unter anderem über eine Wärmepumpe und Solarmodule.
 
 ## Unabhängig bewertet
 

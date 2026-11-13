@@ -58,7 +58,7 @@
       {% if team_cards %}<div class="team-grid">{% for p in team_cards %}
         <section class="team-card" id="{{ p.key }}" aria-labelledby="{{ p.key }}-h">
           <span class="cp-photo tc-photo"><img src="{{ p.photo }}" alt="{{ p.name }}" width="160" height="160" decoding="async"></span>
-          <div class="tc-txt"><h2 class="tc-name" id="{{ p.key }}-h">{{ p.name }}</h2><p class="tc-role">{{ p.role }}</p><p class="tc-bio">{{ p.bio }}</p>{% if p.linkedin %}<a class="link-arrow" href="{{ p.linkedin }}" rel="noopener" target="_blank">LinkedIn{{ M.icon('arrow') }}</a>{% endif %}</div>
+          <div class="tc-txt"><h2 class="tc-name" id="{{ p.key }}-h">{{ p.name }}</h2><p class="tc-role">{{ p.role }}</p>{% if p.about %}{% for para in p.about %}<p class="tc-bio{% if loop.last %} tc-cta{% endif %}">{{ para }}</p>{% endfor %}{% else %}<p class="tc-bio">{{ p.bio }}</p>{% endif %}{% if p.linkedin %}<a class="link-arrow" href="{{ p.linkedin }}" rel="noopener" target="_blank">LinkedIn{{ M.icon('arrow') }}</a>{% endif %}</div>
         </section>{% endfor %}
       </div>{% endif %}
       {{ body }}

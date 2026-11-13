@@ -36,6 +36,10 @@ Geeft u geen toestemming, dan plaatsen deze diensten geen cookies. De website we
 
 Op al deze diensten zijn ook hun eigen privacy- en cookievoorwaarden van toepassing.
 
+## Grondslag
+
+Noodzakelijke opslag gebruiken we op basis van ons gerechtvaardigd belang: een website die goed werkt. Cookies voor statistieken en marketing plaatsen we alleen met uw toestemming (artikel 6, lid 1, onder a van de AVG). Met Google hebben we een verwerkersovereenkomst.
+
 ## Uw keuze wijzigen
 
 U kunt uw keuze altijd aanpassen of intrekken via **Cookie-instellingen** onderaan elke pagina. Opgeslagen gegevens verwijdert u via de instellingen van uw browser. Meer over hoe we met persoonsgegevens omgaan leest u in onze [privacyverklaring](@privacy).

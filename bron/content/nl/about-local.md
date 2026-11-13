@@ -23,7 +23,7 @@ Een matrijs is de mal waarin we een pallet spuitgieten. In plaats van pallets do
 - **Nantes (Frankrijk)**, in de regio Pays de la Loire.
 - **Lleida (Spanje)**, in Catalonië.
 
-Ons hoofdkantoor, Europees operationeel centrum en opslag staan in **Veghel**, in Noord-Brabant. Komt u zelf laden of lossen? [Meld uw transport vooraf aan](@transport).
+Ons hoofdkantoor en Europees operationeel centrum staan in **Veghel**, in Noord-Brabant. Komt u zelf laden of lossen? [Meld uw transport vooraf aan](@transport).
 
 ## Wat het u oplevert
 

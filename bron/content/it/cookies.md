@@ -36,6 +36,10 @@ Senza il vostro consenso questi servizi non impostano alcun cookie. Il sito funz
 
 A questi servizi si applicano anche le rispettive condizioni sulla privacy e sui cookie.
 
+## Base giuridica
+
+Usiamo la memorizzazione necessaria sulla base del nostro legittimo interesse a un sito che funzioni correttamente. I cookie di statistica e marketing vengono installati solo con il vostro consenso (articolo 6, paragrafo 1, lettera a, del GDPR). Con Google abbiamo stipulato un accordo sul trattamento dei dati.
+
 ## Modificare la vostra scelta
 
 Potete modificare o revocare la vostra scelta in qualsiasi momento tramite **Impostazioni cookie** in fondo a ogni pagina. I dati memorizzati si cancellano dalle impostazioni del browser. Per saperne di più su come trattiamo i dati personali, leggete la nostra [informativa sulla privacy](@privacy).

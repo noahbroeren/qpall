@@ -23,7 +23,7 @@ Un moule est l’outil dans lequel nous injectons une palette. Au lieu de transp
 - **Nantes (France)**, en Pays de la Loire.
 - **Lleida (Espagne)**, en Catalogne.
 
-Notre siège, notre centre d’opérations européen et notre entrepôt se trouvent à **Veghel**, dans le Brabant-Septentrional. Vous venez enlever ou livrer vous-même ? [Enregistrez votre transport à l’avance](@transport).
+Notre siège et notre centre d’opérations européen se trouvent à **Veghel**, dans le Brabant-Septentrional. Vous venez enlever ou livrer vous-même ? [Enregistrez votre transport à l’avance](@transport).
 
 ## Ce que cela signifie pour vous
 

@@ -126,7 +126,7 @@ about:
   eyebrow: "About Q-Pall"
   title: "The whole chain **in our own hands**"
   text: "Since 2005, Q-Pall has developed and produced nothing but plastic pallets. We handle design, moulds, production, distribution and sales ourselves, from our head office in Veghel and five factories across Europe. That lets us move quickly and keep quality in our own hands."
-  points: ["Head office and storage in Veghel", "Part of the AVK Group", "Dealers in Europe and the United States"]
+  points: ["Head office in Veghel", "Five production sites in Europe", "Dealers in Europe and the United States"]
   cta: "More about Q-Pall"
   cta2: "Working at Q-Pall"
   img_alt: "Production hall with injection moulding machines and robots at the Q-Pall factory in Balk"
@@ -160,9 +160,6 @@ cases:
     - {id: news-auchan, client: "Auchan · retail, France", title: "50,000 smart Euro pallets", text: "Auchan rolled out heavy-duty Euro pallets made of recycled plastic throughout France, each with IoT technology from IBM."}
     - {id: news-mega-order, client: "Drankenpallet Beheer Nederland", title: "One million pallets from Balk", text: "The largest Dutch order since 2005: at least one million recycled plastic pallets for the beverage industry."}
     - {id: news-stackup, client: "Kwakman Afbouw · construction", title: "70% less walking", text: "Together we developed the Stack-Up Pallet for the building site: less carrying, less waste and faster finishing work."}
-    - {id: news-covid, client: "Vaccine transport · pharma", title: "Pallets for COVID vaccines", text: "Through partner Goplasticpallets.com, Q-Pall supplied the 1208 HR 5R for vaccine shipments to America, China and South Korea, among others."}
-    - {id: news-goodwood, client: "Goodwood Festival of Speed", title: "Electric cars on a pallet", text: "At the festival the heavy-duty QP1210 HR 5R carried electric cars, thanks to a static load of 7,500 kg."}
-    - {id: news-goplastic, client: "Goplasticpallets.com · United Kingdom", title: "Ten years of partnership", text: "In 2022, Q-Pall and its UK partner Goplasticpallets.com celebrated ten years of working together."}
 faq:
   - q: "Why choose plastic pallets?"
     a: "Plastic pallets last much longer than wooden pallets, do not absorb moisture and have no splinters or nails. They have fixed dimensions and a constant weight, which matters for automation. They are also exempt from ISPM 15 for export. Read more in [plastic or wood](@guide-wood)."

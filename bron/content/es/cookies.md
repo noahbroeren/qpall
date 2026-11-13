@@ -36,6 +36,10 @@ Si no da su consentimiento, estos servicios no instalan cookies. El sitio web fu
 
 A estos servicios también se aplican sus propias condiciones de privacidad y cookies.
 
+## Base jurídica
+
+Utilizamos el almacenamiento necesario sobre la base de nuestro interés legítimo: un sitio web que funcione correctamente. Las cookies de estadísticas y marketing solo se instalan con su consentimiento (artículo 6, apartado 1, letra a, del RGPD). Con Google tenemos un contrato de encargo del tratamiento.
+
 ## Cambiar su elección
 
 Puede cambiar o retirar su elección en cualquier momento a través de **Configuración de cookies**, al pie de cada página. Los datos almacenados se eliminan desde la configuración de su navegador. Más información sobre cómo tratamos los datos personales en nuestra [política de privacidad](@privacy).

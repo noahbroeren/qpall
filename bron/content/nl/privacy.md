@@ -34,6 +34,19 @@ We bewaren uw gegevens niet langer dan nodig is voor het doel waarvoor ze zijn v
 
 We verkopen uw gegevens nooit. We delen gegevens alleen met partijen die ons helpen onze diensten te leveren, zoals onze hostingprovider en vervoerders, of als de wet ons daartoe verplicht. Met deze partijen maken we afspraken over de beveiliging van uw gegevens. Formulieren op deze website worden verwerkt via onze hostingprovider Netlify en vastgelegd in ons CRM-systeem HubSpot.
 
+Voor deze website werken we onder meer met de volgende partijen:
+
+| Partij | Waarvoor |
+|---|---|
+| Netlify | Hosting van de website en verwerking van de formulieren |
+| HubSpot | Ons CRM-systeem: opvolging van uw vraag of aanvraag |
+| Brevo | Verzenden van de bevestigingsmail na een offerteaanvraag |
+| SimplyBook.me | Een tijdslot boeken voor laden of lossen |
+| Cookiebot | Vastleggen van uw cookiekeuze |
+| Google, LinkedIn en Leadinfo | Statistieken en marketing, alleen met uw toestemming; zie de [cookieverklaring](@cookies) |
+
+Sommige van deze partijen verwerken gegevens buiten de Europese Economische Ruimte, bijvoorbeeld in de Verenigde Staten. Daarvoor gelden passende waarborgen, zoals het EU-VS Data Privacy Framework of de standaardcontractbepalingen van de Europese Commissie.
+
 ## Uw rechten
 
 U heeft het recht om uw gegevens in te zien, te laten corrigeren of te laten verwijderen. U kunt bezwaar maken tegen de verwerking of vragen om de verwerking te beperken. Ook kunt u uw gegevens laten overdragen. Heeft u toestemming gegeven, dan kunt u die altijd weer intrekken. Stuur uw verzoek naar info@qpall.com. Heeft u een klacht? Dan kunt u die indienen bij de Autoriteit Persoonsgegevens.
@@ -44,4 +57,4 @@ We nemen passende technische en organisatorische maatregelen om uw gegevens te b
 
 ## Wijzigingen
 
-We kunnen deze privacyverklaring aanpassen. De meest actuele versie staat altijd op deze pagina.
+We kunnen deze privacyverklaring aanpassen. De meest actuele versie staat altijd op deze pagina. Deze versie is van 13 november 2026.

@@ -36,6 +36,10 @@ If you do not give your consent, these services set no cookies. The website stil
 
 These services are also subject to their own privacy and cookie terms.
 
+## Legal basis
+
+We use necessary storage on the basis of our legitimate interest: a website that works properly. Cookies for statistics and marketing are only placed with your consent (Article 6(1)(a) GDPR). We have a data processing agreement with Google.
+
 ## Changing your choice
 
 You can change or withdraw your choice at any time via **Cookie settings** at the bottom of every page. You can delete stored data via your browser settings. Read more about how we handle personal data in our [privacy statement](@privacy).

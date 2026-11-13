@@ -23,7 +23,7 @@ A mould is the tool in which we injection-mould a pallet. Instead of driving pal
 - **Nantes (France)**, in Pays de la Loire.
 - **Lleida (Spain)**, in Catalonia.
 
-Our head office, European operations centre and storage are in **Veghel**, in North Brabant. Collecting or delivering yourself? [Register your transport in advance](@transport).
+Our head office and European operations centre are in **Veghel**, in North Brabant. Collecting or delivering yourself? [Register your transport in advance](@transport).
 
 ## What it means for you
 

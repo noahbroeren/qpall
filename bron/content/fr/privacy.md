@@ -34,6 +34,19 @@ Nous ne conservons pas vos données plus longtemps que nécessaire au regard de 
 
 Nous ne vendons jamais vos données. Nous ne partageons des données qu’avec des parties qui nous aident à fournir nos services, comme notre hébergeur et nos transporteurs, ou si la loi nous y oblige. Nous concluons avec ces parties des accords relatifs à la sécurité de vos données. Les formulaires de ce site sont traités via notre hébergeur Netlify. Les formulaires sont également enregistrés dans notre système CRM HubSpot.
 
+Pour ce site, nous travaillons notamment avec les partenaires suivants :
+
+| Partenaire | Finalité |
+|---|---|
+| Netlify | Hébergement du site et traitement des formulaires |
+| HubSpot | Notre CRM : suivi de votre question ou demande |
+| Brevo | Envoi de l’e-mail de confirmation après une demande de devis |
+| SimplyBook.me | Réservation d’un créneau de chargement ou de déchargement |
+| Cookiebot | Enregistrement de votre choix en matière de cookies |
+| Google, LinkedIn et Leadinfo | Statistiques et marketing, uniquement avec votre consentement ; voir la [politique cookies](@cookies) |
+
+Certains de ces partenaires traitent des données en dehors de l’Espace économique européen, par exemple aux États-Unis. Des garanties appropriées s’appliquent alors, comme le Data Privacy Framework UE-États-Unis ou les clauses contractuelles types de la Commission européenne.
+
 ## Vos droits
 
 Vous avez le droit d’accéder à vos données, de les faire rectifier ou de les faire effacer. Vous pouvez vous opposer au traitement ou nous demander d’en limiter le traitement. Vous disposez également d’un droit à la portabilité des données. Lorsque vous avez donné votre consentement, vous pouvez le retirer à tout moment. Envoyez votre demande à info@qpall.com. Vous souhaitez introduire une réclamation ? Vous pouvez l’adresser à l’autorité néerlandaise de protection des données (Autoriteit Persoonsgegevens).
@@ -44,4 +57,4 @@ Nous prenons des mesures techniques et organisationnelles appropriées pour prot
 
 ## Modifications
 
-Nous pouvons modifier la présente politique de confidentialité. La version la plus récente est toujours disponible sur cette page.
+Nous pouvons modifier la présente politique de confidentialité. La version la plus récente est toujours disponible sur cette page. Cette version date du 13 novembre 2026.

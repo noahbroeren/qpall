@@ -36,6 +36,10 @@ Ohne Ihre Einwilligung setzen diese Dienste keine Cookies. Die Website funktioni
 
 Für diese Dienste gelten zusätzlich deren eigene Datenschutz- und Cookie-Bestimmungen.
 
+## Rechtsgrundlage
+
+Notwendige Speicherung nutzen wir auf Grundlage unseres berechtigten Interesses an einer gut funktionierenden Website. Cookies für Statistik und Marketing setzen wir nur mit Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Mit Google haben wir einen Auftragsverarbeitungsvertrag geschlossen.
+
 ## Auswahl ändern
 
 Sie können Ihre Auswahl jederzeit über **Cookie-Einstellungen** unten auf jeder Seite ändern oder widerrufen. Gespeicherte Daten löschen Sie über die Einstellungen Ihres Browsers. Mehr zum Umgang mit personenbezogenen Daten lesen Sie in unserer [Datenschutzerklärung](@privacy).

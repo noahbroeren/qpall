@@ -126,7 +126,7 @@ about:
   eyebrow: "Sobre Q-Pall"
   title: "Toda la cadena **en nuestras manos**"
   text: "Desde 2005, Q-Pall desarrolla y fabrica exclusivamente palets de plástico. Diseño, moldes, producción, distribución y venta los gestionamos nosotros mismos, desde nuestra sede central en Veghel y cinco fábricas en Europa. Así reaccionamos con rapidez y controlamos la calidad."
-  points: ["Sede central y almacén en Veghel", "Parte del AVK Group", "Distribuidores en Europa y Estados Unidos"]
+  points: ["Sede central en Veghel", "Cinco plantas de producción en Europa", "Distribuidores en Europa y Estados Unidos"]
   cta: "Más sobre Q-Pall"
   cta2: "Trabajar en Q-Pall"
   img_alt: "Nave de producción con inyectoras y robots en la fábrica de Q-Pall en Balk"
@@ -160,9 +160,6 @@ cases:
     - {id: news-auchan, client: "Auchan · distribución, Francia", title: "50.000 europalets inteligentes", text: "Auchan implantó en toda Francia europalets heavy duty de plástico reciclado, cada uno con tecnología IoT de IBM."}
     - {id: news-mega-order, client: "Drankenpallet Beheer Nederland", title: "Un millón de palets desde Balk", text: "El mayor pedido neerlandés desde 2005: al menos un millón de palets de plástico reciclado para el sector de las bebidas."}
     - {id: news-stackup, client: "Kwakman Afbouw · construcción", title: "70% menos desplazamientos", text: "Juntos desarrollamos el Stack-Up Pallet para la obra: menos cargas, menos residuos y acabados más rápidos."}
-    - {id: news-covid, client: "Transporte de vacunas · farmacia", title: "Palets para las vacunas COVID", text: "A través de su socio Goplasticpallets.com, Q-Pall suministró el 1208 HR 5R para el transporte de vacunas a, entre otros, Estados Unidos, China y Corea del Sur."}
-    - {id: news-goodwood, client: "Goodwood Festival of Speed", title: "Coches eléctricos sobre un palet", text: "En el festival, el palet heavy duty QP1210 HR 5R soportó coches eléctricos gracias a una carga estática de 7.500 kg."}
-    - {id: news-goplastic, client: "Goplasticpallets.com · Reino Unido", title: "Diez años de colaboración", text: "En 2022, Q-Pall y su socio británico Goplasticpallets.com celebraron diez años de colaboración."}
 faq:
   - q: "¿Por qué elegir palets de plástico?"
     a: "Los palets de plástico duran mucho más que los de madera, no absorben humedad y no tienen astillas ni clavos. Tienen dimensiones fijas y un peso constante, algo importante para la automatización. Además, están exentos de la norma ISPM 15 para la exportación. Más información en [plástico o madera](@guide-wood)."

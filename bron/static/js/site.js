@@ -888,6 +888,19 @@
   $$('[data-ext-load]').forEach(function (b) { b.addEventListener('click', function () { saveConsent(true, consent && consent.analytics); }); });
   if (!(PROD && html.getAttribute('data-gtm'))) applyConsent(); else if (CB()) fromCookiebot();
 
+  /* ---------- Cookiebot cookie declaration on the cookie statement page (update 54) ---------- */
+  // Cookiebot only works on the registered domain (qpall.com), so the list loads on the production hosts only; elsewhere
+  // the short note in the box stays.
+  var decl = $('[data-cookie-decl]');
+  if (decl && PROD) {
+    decl.innerHTML = '';
+    var cd = d.createElement('script');
+    cd.id = 'CookieDeclaration'; cd.async = true; cd.type = 'text/javascript';
+    cd.setAttribute('data-culture', decl.getAttribute('data-culture') || 'NL');
+    cd.src = 'https://consent.cookiebot.com/' + decl.getAttribute('data-cookie-decl') + '/cd.js';
+    decl.appendChild(cd);
+  }
+
   /* ---------- carrousel vergelijkbare pallets ---------- */
   $$('[data-carousel]').forEach(function (car) {
     var track = $('.car-track', car), sec = car.closest('section') || car;

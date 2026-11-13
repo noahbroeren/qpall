@@ -52,7 +52,7 @@ Per i nuovi pallet puntiamo soprattutto su:
 * **Meno perdite di materiale.** Limitiamo scarti e perdite in produzione.
 * **Riutilizzo di componenti e scarti di produzione.** Il materiale residuo torna nel processo.
 
-Così riduciamo il consumo di acqua ed energia, l’uso di materiali, le emissioni di CO₂ e i rifiuti. Anche il nostro [edificio di Veghel](@news-hq), che ospita la sede centrale, il centro operativo europeo e il magazzino, dispone tra l’altro di una pompa di calore e di pannelli solari.
+Così riduciamo il consumo di acqua ed energia, l’uso di materiali, le emissioni di CO₂ e i rifiuti. Anche il nostro [edificio di Veghel](@news-hq), che ospita la sede centrale e il centro operativo europeo, dispone tra l’altro di una pompa di calore e di pannelli solari.
 
 ## Valutati in modo indipendente
 

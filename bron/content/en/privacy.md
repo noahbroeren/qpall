@@ -34,6 +34,19 @@ We do not keep your data for longer than is necessary for the purpose for which 
 
 We never sell your data. We only share data with parties that help us provide our services, such as our hosting provider and carriers, or if the law requires us to do so. We make agreements with these parties about the security of your data. Forms on this website are processed via our hosting provider Netlify and recorded in our CRM system HubSpot.
 
+For this website we work with, among others, the following parties:
+
+| Party | Purpose |
+|---|---|
+| Netlify | Hosting the website and processing the forms |
+| HubSpot | Our CRM system: following up your question or request |
+| Brevo | Sending the confirmation e-mail after a quote request |
+| SimplyBook.me | Booking a time slot for loading or unloading |
+| Cookiebot | Recording your cookie choice |
+| Google, LinkedIn and Leadinfo | Statistics and marketing, only with your consent; see the [cookie statement](@cookies) |
+
+Some of these parties process data outside the European Economic Area, for example in the United States. Appropriate safeguards apply, such as the EU-US Data Privacy Framework or the standard contractual clauses of the European Commission.
+
 ## Your rights
 
 You have the right to access, rectify or erase your data. You can object to the processing or ask us to restrict the processing. You also have the right to data portability. Where you have given consent, you can withdraw it at any time. Send your request to info@qpall.com. Do you have a complaint? You can lodge it with the Dutch Data Protection Authority (Autoriteit Persoonsgegevens).
@@ -44,4 +57,4 @@ We take appropriate technical and organisational measures to protect your data. 
 
 ## Changes
 
-We may amend this privacy statement. The most recent version is always available on this page.
+We may amend this privacy statement. The most recent version is always available on this page. This version dates from 13 November 2026.

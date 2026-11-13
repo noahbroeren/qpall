@@ -23,7 +23,7 @@ Ein Werkzeug ist die Form, in der wir eine Palette spritzgießen. Statt Paletten
 - **Nantes (Frankreich)**, in der Region Pays de la Loire.
 - **Lleida (Spanien)**, in Katalonien.
 
-Unser Hauptsitz, unser europäisches Operations-Center und unser Lager befinden sich in **Veghel** in Nordbrabant. Sie holen selbst ab oder liefern selbst an? [Melden Sie Ihren Transport vorab an](@transport).
+Unser Hauptsitz und unser europäisches Operations-Center befinden sich in **Veghel** in Nordbrabant. Sie holen selbst ab oder liefern selbst an? [Melden Sie Ihren Transport vorab an](@transport).
 
 ## Was das für Sie bedeutet
 

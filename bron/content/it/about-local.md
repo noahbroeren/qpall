@@ -23,7 +23,7 @@ Lo stampo è l’attrezzatura in cui stampiamo a iniezione un pallet. Invece di 
 - **Nantes (Francia)**, nei Paesi della Loira.
 - **Lleida (Spagna)**, in Catalogna.
 
-La nostra sede centrale, il centro operativo europeo e il magazzino si trovano a **Veghel**, nel Brabante Settentrionale. Ritirate o consegnate in proprio? [Registrate in anticipo il vostro trasporto](@transport).
+La nostra sede centrale e il centro operativo europeo si trovano a **Veghel**, nel Brabante Settentrionale. Ritirate o consegnate in proprio? [Registrate in anticipo il vostro trasporto](@transport).
 
 ## Cosa significa per voi
 

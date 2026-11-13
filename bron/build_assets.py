@@ -355,6 +355,9 @@ def write_netlify(OUT):
 [functions]
   directory = "netlify/functions"
 
+# Edge function netlify/edge-functions/noindex-test-hosts.js (update 54): noindex on every host other than qpall.com and
+# www.qpall.com (staging.qpall.com, *.netlify.app). Its paths are set in the function itself (inline config).
+
 [[headers]]
   for = "/*"
   [headers.values]
@@ -409,3 +412,7 @@ def write_netlify(OUT):
   force = true
 '''
     open(os.path.join(OUT, 'netlify.toml'), 'w').write(toml)
+    # the edge function itself: netlify/edge-functions/ (Netlify's default folder, next to netlify/functions)
+    ed = os.path.join(OUT, 'netlify', 'edge-functions')
+    os.makedirs(ed, exist_ok=True)
+    shutil.copy(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'edge-functions', 'noindex-test-hosts.js'), ed)

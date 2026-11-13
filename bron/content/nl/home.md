@@ -126,7 +126,7 @@ about:
   eyebrow: "Over Q-Pall"
   title: "De hele keten **in eigen hand**"
   text: "Q-Pall ontwikkelt en produceert sinds 2005 uitsluitend kunststof pallets. Ontwerp, matrijzen, productie, distributie en verkoop regelen we zelf, vanuit ons hoofdkantoor in Veghel en vijf fabrieken in Europa. Zo schakelen we snel en houden we de kwaliteit in eigen hand."
-  points: ["Hoofdkantoor en opslag in Veghel", "Onderdeel van de AVK Group", "Dealers in Europa en de Verenigde Staten"]
+  points: ["Hoofdkantoor in Veghel", "Vijf productielocaties in Europa", "Dealers in Europa en de Verenigde Staten"]
   cta: "Meer over Q-Pall"
   cta2: "Werken bij Q-Pall"
   img_alt: "Productiehal met spuitgietmachines en robots in de Q-Pall-fabriek in Balk"
@@ -160,9 +160,6 @@ cases:
     - {id: news-auchan, client: "Auchan · retail, Frankrijk", title: "50.000 slimme europallets", text: "Auchan rolde in heel Frankrijk heavy duty europallets van gerecycled kunststof uit, elke pallet met IoT-technologie van IBM."}
     - {id: news-mega-order, client: "Drankenpallet Beheer Nederland", title: "Een miljoen pallets uit Balk", text: "De grootste Nederlandse order sinds 2005: minimaal een miljoen pallets van gerecycled kunststof voor de drankenbranche."}
     - {id: news-stackup, client: "Kwakman Afbouw · bouw", title: "70% minder loopbewegingen", text: "Samen ontwikkelden we de Stack-Up Pallet voor de bouwplaats: minder sjouwen, minder afval en een snellere afbouw."}
-    - {id: news-covid, client: "Vaccintransport · farmacie", title: "Pallets voor COVID-vaccins", text: "Via partner Goplasticpallets.com leverde Q-Pall de 1208 HR 5R voor vaccintransporten naar onder meer Amerika, China en Zuid-Korea."}
-    - {id: news-goodwood, client: "Goodwood Festival of Speed", title: "Elektrische auto's op een pallet", text: "De heavy duty QP1210 HR 5R droeg op het festival elektrische auto's, dankzij een statische belasting van 7.500 kg."}
-    - {id: news-goplastic, client: "Goplasticpallets.com · Verenigd Koninkrijk", title: "Tien jaar samenwerking", text: "In 2022 vierden Q-Pall en de Britse partner Goplasticpallets.com tien jaar samenwerking."}
 faq:
   - q: "Waarom kiezen voor kunststof pallets?"
     a: "Kunststof pallets gaan veel langer mee dan houten pallets, nemen geen vocht op en hebben geen splinters of spijkers. Ze hebben een vaste maat en een constant gewicht, wat belangrijk is voor automatisering. Bovendien zijn ze vrijgesteld van ISPM 15 voor export. Lees meer in [kunststof of hout](@guide-wood)."

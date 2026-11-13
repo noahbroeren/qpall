@@ -51,7 +51,7 @@ PAGE_VISUAL = {
     'about-load': ('cutout', 'heavy'), 'guide-choose': ('cutouts',), 'guide-sizes': ('cutouts',),
     'ultra': ('card', 'qp1210hp6r-ao'), 'guide-prices': ('card', 'qp1208lb9fr'), 'guide-ispm': ('card', 'qp1208lb9fr'),
     'guide-wood': ('card', 'europal800rr'),
-    'about': ('photo', 'hq-corner', '50% 50%'), 'about-local': ('photo', 'local', '40% 50%'),
+    'about': ('photo', 'hq-corner', '50% 50%'), 'about-local': ('photo', 'mould', '50% 50%'),
     'about-sustainability': ('photo', 'seaturtle', '55% 50%'), 'about-custom': ('photo', 'custom-logo', '50% 50%'),
     'about-glossary': ('photo', 'mould', '50% 40%'), 'careers': ('photo', 'team', '50% 45%'), 'job-inside-sales': ('photo', 'office-sales', '50% 40%'), 'about-team': ('photo', 'office', '50% 50%'),
     'dealers': ('photo', 'hq-aerial', '50% 50%'), 'contact': ('photo', 'hq-terrace', '50% 50%'),

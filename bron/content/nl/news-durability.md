@@ -52,7 +52,7 @@ Bij nieuwe pallets letten we vooral op:
 * **Minder materiaalverlies.** We beperken uitval en verlies in de productie.
 * **Hergebruik van onderdelen en productieschroot.** Restmateriaal gaat terug in het proces.
 
-Zo verminderen we het water- en energieverbruik, het materiaalgebruik, de CO₂-uitstoot en het afval. Ook ons [pand in Veghel](@news-hq), met hoofdkantoor, Europees operationeel centrum en opslag, heeft onder meer een warmtepomp en zonnepanelen.
+Zo verminderen we het water- en energieverbruik, het materiaalgebruik, de CO₂-uitstoot en het afval. Ook ons [pand in Veghel](@news-hq), met hoofdkantoor en Europees operationeel centrum, heeft onder meer een warmtepomp en zonnepanelen.
 
 ## Onafhankelijk beoordeeld
 

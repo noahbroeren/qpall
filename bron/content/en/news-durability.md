@@ -52,7 +52,7 @@ For new pallets, we focus mainly on:
 * **Less material loss.** We limit rejects and losses in production.
 * **Reuse of parts and production scrap.** Leftover material goes back into the process.
 
-This reduces water and energy consumption, material use, CO₂ emissions and waste. Our [building in Veghel](@news-hq), home to our head office, European operations centre and storage, also has a heat pump and solar panels, among other things.
+This reduces water and energy consumption, material use, CO₂ emissions and waste. Our [building in Veghel](@news-hq), home to our head office and European operations centre, also has a heat pump and solar panels, among other things.
 
 ## Independently assessed
 

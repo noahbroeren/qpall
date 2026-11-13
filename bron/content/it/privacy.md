@@ -34,6 +34,19 @@ Non conserviamo i vostri dati più a lungo di quanto necessario per la finalità
 
 Non vendiamo mai i vostri dati. Condividiamo i dati solo con soggetti che ci aiutano a fornire i nostri servizi, come il nostro fornitore di hosting e i trasportatori, oppure se la legge ci obbliga a farlo. Con questi soggetti stipuliamo accordi sulla sicurezza dei vostri dati. I moduli di questo sito web vengono elaborati tramite il nostro fornitore di hosting Netlify. I moduli vengono inoltre registrati nel nostro sistema CRM HubSpot.
 
+Per questo sito collaboriamo, tra gli altri, con i seguenti soggetti:
+
+| Soggetto | Finalità |
+|---|---|
+| Netlify | Hosting del sito e gestione dei moduli |
+| HubSpot | Il nostro CRM: seguito della vostra domanda o richiesta |
+| Brevo | Invio dell’e-mail di conferma dopo una richiesta di preventivo |
+| SimplyBook.me | Prenotazione di una fascia oraria per carico o scarico |
+| Cookiebot | Registrazione della vostra scelta sui cookie |
+| Google, LinkedIn e Leadinfo | Statistiche e marketing, solo con il vostro consenso; vedere la [cookie policy](@cookies) |
+
+Alcuni di questi soggetti trattano dati al di fuori dello Spazio economico europeo, ad esempio negli Stati Uniti. In tal caso si applicano garanzie adeguate, come il Data Privacy Framework UE-USA o le clausole contrattuali tipo della Commissione europea.
+
 ## I vostri diritti
 
 Avete il diritto di accedere ai vostri dati, di rettificarli o di cancellarli. Potete opporvi al trattamento o chiederci di limitarlo. Avete inoltre il diritto alla portabilità dei dati. Se avete prestato il consenso, potete revocarlo in qualsiasi momento. Inviate la vostra richiesta a info@qpall.com. Avete un reclamo? Potete presentarlo all’autorità olandese per la protezione dei dati (Autoriteit Persoonsgegevens).
@@ -44,4 +57,4 @@ Adottiamo misure tecniche e organizzative adeguate per proteggere i vostri dati.
 
 ## Modifiche
 
-Possiamo modificare la presente informativa sulla privacy. La versione più recente è sempre disponibile su questa pagina.
+Possiamo modificare la presente informativa sulla privacy. La versione più recente è sempre disponibile su questa pagina. Questa versione è del 13 novembre 2026.

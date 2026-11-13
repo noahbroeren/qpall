@@ -126,7 +126,7 @@ about:
   eyebrow: "À propos de Q-Pall"
   title: "Toute la chaîne **entre nos mains**"
   text: "Depuis 2005, Q-Pall développe et produit exclusivement des palettes plastique. Conception, moules, production, distribution et vente : nous gérons tout nous-mêmes, depuis notre siège de Veghel et cinq usines en Europe. Nous réagissons ainsi rapidement et gardons la qualité sous contrôle."
-  points: ["Siège et stockage à Veghel", "Membre d’AVK Group", "Distributeurs en Europe et aux États-Unis"]
+  points: ["Siège à Veghel", "Cinq sites de production en Europe", "Distributeurs en Europe et aux États-Unis"]
   cta: "En savoir plus sur Q-Pall"
   cta2: "Travailler chez Q-Pall"
   img_alt: "Hall de production avec presses à injecter et robots dans l’usine Q-Pall à Balk"
@@ -160,9 +160,6 @@ cases:
     - {id: news-auchan, client: "Auchan · distribution, France", title: "50.000 palettes Europe intelligentes", text: "Auchan a déployé dans toute la France des palettes Europe heavy duty en plastique recyclé, chacune équipée de la technologie IoT d’IBM."}
     - {id: news-mega-order, client: "Drankenpallet Beheer Nederland", title: "Un million de palettes produites à Balk", text: "La plus grosse commande néerlandaise depuis 2005 : au moins un million de palettes en plastique recyclé pour le secteur des boissons."}
     - {id: news-stackup, client: "Kwakman Afbouw · construction", title: "70 % de déplacements en moins", text: "Ensemble, nous avons développé la Stack-Up Pallet pour les chantiers : moins de manutention, moins de déchets et des finitions plus rapides."}
-    - {id: news-covid, client: "Transport de vaccins · pharmacie", title: "Des palettes pour les vaccins COVID", text: "Via son partenaire Goplasticpallets.com, Q-Pall a fourni la 1208 HR 5R pour le transport de vaccins vers notamment les États-Unis, la Chine et la Corée du Sud."}
-    - {id: news-goodwood, client: "Goodwood Festival of Speed", title: "Des voitures électriques sur palette", text: "Au festival, la palette heavy duty QP1210 HR 5R a porté des voitures électriques grâce à une charge statique de 7.500 kg."}
-    - {id: news-goplastic, client: "Goplasticpallets.com · Royaume-Uni", title: "Dix ans de partenariat", text: "En 2022, Q-Pall et son partenaire britannique Goplasticpallets.com ont fêté dix ans de collaboration."}
 faq:
   - q: "Pourquoi choisir des palettes plastique ?"
     a: "Les palettes plastique durent bien plus longtemps que les palettes bois, n’absorbent pas l’humidité et n’ont ni échardes ni clous. Leurs dimensions sont fixes et leur poids constant, ce qui compte pour l’automatisation. Elles sont en outre exemptées de la norme ISPM 15 à l’export. Pour en savoir plus, lisez [plastique ou bois](@guide-wood)."

@@ -34,6 +34,19 @@ No conservamos sus datos durante más tiempo del necesario para la finalidad par
 
 Nunca vendemos sus datos. Solo compartimos datos con las partes que nos ayudan a prestar nuestros servicios, como nuestro proveedor de alojamiento web y los transportistas, o cuando la ley nos obliga a ello. Con estas partes establecemos acuerdos sobre la seguridad de sus datos. Los formularios de esta web se procesan a través de nuestro proveedor de alojamiento Netlify. Los formularios también se registran en nuestro sistema CRM HubSpot.
 
+Para este sitio web trabajamos, entre otros, con las siguientes partes:
+
+| Parte | Para qué |
+|---|---|
+| Netlify | Alojamiento del sitio web y gestión de los formularios |
+| HubSpot | Nuestro CRM: seguimiento de su consulta o solicitud |
+| Brevo | Envío del correo de confirmación tras una solicitud de presupuesto |
+| SimplyBook.me | Reserva de una franja horaria para carga o descarga |
+| Cookiebot | Registro de su elección sobre cookies |
+| Google, LinkedIn y Leadinfo | Estadísticas y marketing, solo con su consentimiento; consulte la [política de cookies](@cookies) |
+
+Algunas de estas partes tratan datos fuera del Espacio Económico Europeo, por ejemplo en Estados Unidos. En ese caso se aplican garantías adecuadas, como el Marco de Privacidad de Datos UE-EE. UU. o las cláusulas contractuales tipo de la Comisión Europea.
+
 ## Sus derechos
 
 Tiene derecho a acceder a sus datos, rectificarlos o suprimirlos. Puede oponerse al tratamiento o solicitarnos que lo limitemos. También tiene derecho a la portabilidad de los datos. Si ha dado su consentimiento, puede retirarlo en cualquier momento. Envíe su solicitud a info@qpall.com. ¿Tiene una reclamación? Puede presentarla ante la autoridad neerlandesa de protección de datos (Autoriteit Persoonsgegevens).
@@ -44,4 +57,4 @@ Adoptamos las medidas técnicas y organizativas adecuadas para proteger sus dato
 
 ## Cambios
 
-Podemos modificar esta política de privacidad. La versión más reciente está siempre disponible en esta página.
+Podemos modificar esta política de privacidad. La versión más reciente está siempre disponible en esta página. Esta versión es del 13 de noviembre de 2026.

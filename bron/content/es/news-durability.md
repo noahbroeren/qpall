@@ -52,7 +52,7 @@ En los nuevos palets nos fijamos sobre todo en:
 * **Menos pérdidas de material.** Limitamos los rechazos y las pérdidas en la producción.
 * **Reutilización de piezas y restos de producción.** El material sobrante vuelve al proceso.
 
-Así reducimos el consumo de agua y energía, el uso de materiales, las emisiones de CO₂ y los residuos. Nuestro [edificio de Veghel](@news-hq), que alberga la sede central, el centro operativo europeo y el almacén, cuenta además con bomba de calor y paneles solares, entre otras cosas.
+Así reducimos el consumo de agua y energía, el uso de materiales, las emisiones de CO₂ y los residuos. Nuestro [edificio de Veghel](@news-hq), que alberga la sede central y el centro operativo europeo, cuenta además con bomba de calor y paneles solares, entre otras cosas.
 
 ## Evaluación independiente
 

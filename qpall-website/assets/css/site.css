@@ -2450,3 +2450,16 @@ h1,h2,h3,h4,.pc-title,.btn,.eyebrow{text-wrap:balance}
 }
 /* search without results: the quote link lines up with the message */
 .search-res .sr-empty .sr-help{display:block;margin:8px 0 0;padding:0;background:none}
+
+/* team page (update 54): the longer introduction per person in paragraphs, the last one as an invitation */
+.team-card .tc-bio+.tc-bio{margin-top:10px!important}
+.team-card .tc-cta{font-weight:600;color:var(--navy)}
+/* one person per row: photo beside the text, so the longer introduction reads comfortably */
+.team-grid{grid-template-columns:minmax(0,1fr)}
+@media (min-width:721px){
+  .team-card{flex-direction:row;align-items:flex-start;gap:28px}
+  .team-card .tc-photo{flex:none}
+}
+/* Cookiebot's cookie list on the cookie statement page */
+.cookie-decl{margin:14px 0 28px;font-size:.92rem}
+.cookie-decl table{width:100%}

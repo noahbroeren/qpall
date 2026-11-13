@@ -7,6 +7,9 @@
 [functions]
   directory = "netlify/functions"
 
+# Edge function netlify/edge-functions/noindex-test-hosts.js (update 54): noindex on every host other than qpall.com and
+# www.qpall.com (staging.qpall.com, *.netlify.app). Its paths are set in the function itself (inline config).
+
 [[headers]]
   for = "/*"
   [headers.values]
@@ -15,7 +18,6 @@
     Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "camera=(), microphone=(), geolocation=()"
     Strict-Transport-Security = "max-age=31536000; includeSubDomains"
-    X-Robots-Tag = "noindex, nofollow"
 
 [[headers]]
   for = "/assets/fonts/*"

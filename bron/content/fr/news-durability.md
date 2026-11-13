@@ -52,7 +52,7 @@ Pour les nouvelles palettes, nous misons surtout sur :
 * **Moins de pertes de matière.** Nous limitons les rebuts et les pertes en production.
 * **La réutilisation de pièces et de chutes de production.** Les restes de matière retournent dans le processus.
 
-Nous réduisons ainsi la consommation d’eau et d’énergie, l’utilisation de matière, les émissions de CO₂ et les déchets. Notre [bâtiment de Veghel](@news-hq), qui accueille le siège, le centre opérationnel européen et le stockage, dispose notamment d’une pompe à chaleur et de panneaux solaires.
+Nous réduisons ainsi la consommation d’eau et d’énergie, l’utilisation de matière, les émissions de CO₂ et les déchets. Notre [bâtiment de Veghel](@news-hq), qui accueille le siège et le centre opérationnel européen, dispose notamment d’une pompe à chaleur et de panneaux solaires.
 
 ## Une évaluation indépendante
 

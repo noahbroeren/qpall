@@ -34,6 +34,19 @@ Wir speichern Ihre Daten nicht länger, als es für den Zweck erforderlich ist, 
 
 Wir verkaufen Ihre Daten niemals. Wir geben Daten nur an Parteien weiter, die uns bei der Erbringung unserer Dienstleistungen unterstützen, etwa an unseren Hosting-Anbieter und an Transportunternehmen, oder wenn wir gesetzlich dazu verpflichtet sind. Mit diesen Parteien treffen wir Vereinbarungen über die Sicherheit Ihrer Daten. Formulare auf dieser Website werden über unseren Hosting-Anbieter Netlify verarbeitet. Formulare werden zusätzlich in unserem CRM-System HubSpot erfasst.
 
+Für diese Website arbeiten wir unter anderem mit folgenden Partnern zusammen:
+
+| Partner | Wofür |
+|---|---|
+| Netlify | Hosting der Website und Verarbeitung der Formulare |
+| HubSpot | Unser CRM-System: Bearbeitung Ihrer Frage oder Anfrage |
+| Brevo | Versand der Bestätigungsmail nach einer Angebotsanfrage |
+| SimplyBook.me | Buchung eines Zeitfensters zum Laden oder Entladen |
+| Cookiebot | Speicherung Ihrer Cookie-Auswahl |
+| Google, LinkedIn und Leadinfo | Statistik und Marketing, nur mit Ihrer Einwilligung; siehe die [Cookie-Richtlinie](@cookies) |
+
+Einige dieser Partner verarbeiten Daten außerhalb des Europäischen Wirtschaftsraums, zum Beispiel in den Vereinigten Staaten. Dafür gelten geeignete Garantien, etwa das EU-US Data Privacy Framework oder die Standardvertragsklauseln der Europäischen Kommission.
+
 ## Ihre Rechte
 
 Sie haben das Recht auf Auskunft, Berichtigung und Löschung Ihrer Daten. Sie können der Verarbeitung widersprechen oder uns bitten, die Verarbeitung einzuschränken. Außerdem haben Sie das Recht auf Datenübertragbarkeit. Wenn Sie eine Einwilligung erteilt haben, können Sie diese jederzeit widerrufen. Senden Sie Ihre Anfrage an info@qpall.com. Sie möchten sich beschweren? Sie können Ihre Beschwerde bei der niederländischen Datenschutzbehörde (Autoriteit Persoonsgegevens) einreichen.
@@ -44,4 +57,4 @@ Wir treffen geeignete technische und organisatorische Maßnahmen, um Ihre Daten 
 
 ## Änderungen
 
-Wir können diese Datenschutzerklärung anpassen. Die aktuelle Fassung finden Sie immer auf dieser Seite.
+Wir können diese Datenschutzerklärung anpassen. Die aktuelle Fassung finden Sie immer auf dieser Seite. Diese Fassung stammt vom 13. November 2026.

@@ -126,7 +126,7 @@ about:
   eyebrow: "Über Q-Pall"
   title: "Die ganze Kette **in eigener Hand**"
   text: "Seit 2005 entwickelt und produziert Q-Pall ausschließlich Kunststoffpaletten. Konstruktion, Werkzeuge, Produktion, Vertrieb und Verkauf übernehmen wir selbst – von unserem Hauptsitz in Veghel und fünf Werken in Europa aus. So reagieren wir schnell und behalten die Qualität in eigener Hand."
-  points: ["Hauptsitz und Lager in Veghel", "Teil der AVK Group", "Händler in Europa und den USA"]
+  points: ["Hauptsitz in Veghel", "Fünf Produktionsstandorte in Europa", "Händler in Europa und den USA"]
   cta: "Mehr über Q-Pall"
   cta2: "Karriere bei Q-Pall"
   img_alt: "Produktionshalle mit Spritzgießmaschinen und Robotern im Q-Pall-Werk in Balk"
@@ -160,9 +160,6 @@ cases:
     - {id: news-auchan, client: "Auchan · Handel, Frankreich", title: "50.000 smarte Europaletten", text: "Auchan führte in ganz Frankreich Heavy-Duty-Europaletten aus recyceltem Kunststoff ein, jede mit IoT-Technologie von IBM."}
     - {id: news-mega-order, client: "Drankenpallet Beheer Nederland", title: "Eine Million Paletten aus Balk", text: "Der größte niederländische Auftrag seit 2005: mindestens eine Million Paletten aus recyceltem Kunststoff für die Getränkebranche."}
     - {id: news-stackup, client: "Kwakman Afbouw · Bau", title: "70 % weniger Laufwege", text: "Gemeinsam haben wir die Stack-Up Palette für die Baustelle entwickelt: weniger Schleppen, weniger Abfall und ein schnellerer Innenausbau."}
-    - {id: news-covid, client: "Impfstofftransport · Pharma", title: "Paletten für COVID-Impfstoffe", text: "Über den Partner Goplasticpallets.com lieferte Q-Pall die 1208 HR 5R für Impfstofftransporte unter anderem in die USA, nach China und Südkorea."}
-    - {id: news-goodwood, client: "Goodwood Festival of Speed", title: "Elektroautos auf einer Palette", text: "Auf dem Festival trug die Heavy-Duty-Palette QP1210 HR 5R Elektroautos, dank einer statischen Belastbarkeit von 7.500 kg."}
-    - {id: news-goplastic, client: "Goplasticpallets.com · Vereinigtes Königreich", title: "Zehn Jahre Partnerschaft", text: "2022 feierten Q-Pall und der britische Partner Goplasticpallets.com zehn Jahre Zusammenarbeit."}
 faq:
   - q: "Warum Kunststoffpaletten?"
     a: "Kunststoffpaletten halten deutlich länger als Holzpaletten, nehmen keine Feuchtigkeit auf und haben keine Splitter oder Nägel. Sie haben feste Abmessungen und ein konstantes Gewicht – wichtig für die Automatisierung. Außerdem sind sie für den Export von ISPM 15 befreit. Mehr dazu unter [Kunststoff oder Holz](@guide-wood)."

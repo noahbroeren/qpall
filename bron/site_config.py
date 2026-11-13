@@ -13,7 +13,7 @@ PRICE_VALID_UNTIL = '2026-12-31'
 BUILD_DATE = _os.environ.get('QP_DATE', '2026-10-15')   # <lastmod> in sitemap.xml
 # Go-live date of the new site: datePublished of the seven knowledge-base guides (new on this site, 6 languages).
 # SET THIS ON THE DAY OF GOING LIVE (e.g. '2026-11-16'), then build. Until then the guides use BUILD_DATE.
-LAUNCH_DATE = _os.environ.get('QP_LAUNCH') or None
+LAUNCH_DATE = _os.environ.get('QP_LAUNCH') or '2026-11-13'     # go-live (update 54)
 # Google Tag Manager container (set up by iClicks), e.g. 'GTM-ABC1234'. Empty = no GTM. GTM loads only after the visitor
 # accepts statistics cookies. The site always pushes these dataLayer events (no cookies, nothing sent without GTM):
 #   generate_lead  lead_type 'offerte' (quote form) or 'contact' (contact form): on the thank-you page after sending
@@ -24,6 +24,9 @@ GTM_ID = 'GTM-MNRQ33'            # container van iClicks (update 19); bevat o.a.
 # voor qpall.com ingericht (Cookiebot controleert het domein). Op productie vraagt Cookiebot (uit de container) om
 # toestemming en verbergt de site de eigen cookiemelding; komt Cookiebot niet binnen 5 s, dan toont de site toch de eigen melding.
 PROD_HOSTS = ['qpall.com', 'www.qpall.com']
+# Cookiebot of qpall.com (same account as the banner in the GTM container): the automatic cookie declaration (cd.js) on
+# the cookie statement page, loaded on the production hosts only (Cookiebot only works on the registered domain). Update 54.
+COOKIEBOT_ID = '186ec185-a6bb-4165-9a1c-4f5966c1a301'
 # HubSpot (portal 25981072, EU): de trackingcode (embed code van HubSpot) staat op elke pagina net voor </body>, eerst als
 # type="text/plain". site.js zet hem aan na toestemming voor marketing, op de hostnamen in HUBSPOT_HOSTS (update 24: ook
 # de testsites, zodat bezoeken en formulieren daar te testen zijn). Op productie laadt de GTM-container dezelfde code al
@@ -111,16 +114,82 @@ DEALERS = [
 # (/over-q-pall/team/) and as author of the knowledge-base articles (Person schema, same @id in every language).
 # Photos: input/team/ (originals + cut-outs) -> static/img/team/<key>.webp (transparent cut-out, square, same framing).
 # 'linkedin': personal LinkedIn URL (sameAs in the Person schema) - leave empty until known.
+# Team texts (Noah, 13 Nov 2026): long version on the team page, short bio for author boxes and the Person schema.
+SABINE_ROLE = {l: 'Business Development Manager' for l in ('nl', 'en', 'de', 'fr', 'it', 'es')}
+JOHN_ROLE = {l: 'Marketing & Business Development' for l in ('nl', 'en', 'de', 'fr', 'it', 'es')}
+
+SABINE_BIO = {
+ 'nl': 'Sabine Oudshoorn is Business Development Manager bij Q-Pall en werkt al ruim twintig jaar met kunststof pallets. Ze helpt bedrijven in Nederland, Frankrijk, Spanje, het Verenigd Koninkrijk en daarbuiten aan de pallet die past bij hun praktijk: van stellingen en automatisering tot export en hygiëne.',
+ 'en': 'Sabine Oudshoorn is Business Development Manager at Q-Pall and has worked with plastic pallets for more than twenty years. She helps companies in the Netherlands, France, Spain, the United Kingdom and beyond find the pallet that fits their daily operations: from racking and automation to export and hygiene.',
+ 'de': 'Sabine Oudshoorn ist Business Development Manager bei Q-Pall und arbeitet seit mehr als zwanzig Jahren mit Kunststoffpaletten. Sie hilft Unternehmen in den Niederlanden, Frankreich, Spanien, dem Vereinigten Königreich und darüber hinaus, die Palette zu finden, die zu ihrer Praxis passt: vom Regal und der Automatisierung bis zu Export und Hygiene.',
+ 'fr': 'Sabine Oudshoorn est Business Development Manager chez Q-Pall et travaille depuis plus de vingt ans avec les palettes plastique. Elle aide les entreprises aux Pays-Bas, en France, en Espagne, au Royaume-Uni et au-delà à trouver la palette adaptée à leur réalité : du rayonnage et de l’automatisation à l’export et à l’hygiène.',
+ 'it': 'Sabine Oudshoorn è Business Development Manager di Q-Pall e lavora con i pallet in plastica da oltre vent’anni. Aiuta le aziende nei Paesi Bassi, in Francia, in Spagna, nel Regno Unito e oltre a trovare il pallet adatto alla loro realtà quotidiana: dalle scaffalature e dall’automazione all’export e all’igiene.',
+ 'es': 'Sabine Oudshoorn es Business Development Manager en Q-Pall y trabaja con palets de plástico desde hace más de veinte años. Ayuda a empresas de los Países Bajos, Francia, España, el Reino Unido y otros países a encontrar el palet que se ajusta a su día a día: desde estanterías y automatización hasta exportación e higiene.'}
+
+JOHN_BIO = {
+ 'nl': 'John van Boesschoten is bij Q-Pall verantwoordelijk voor marketing en business development en heeft bijna dertig jaar ervaring in de markt voor slimme, circulaire pallets en boxen. Hij helpt bedrijven in Duitsland, Zwitserland, Oostenrijk, Italië en Scandinavië met hun palletstromen, de kosten per omloop en de overstap van houten naar kunststof pallets.',
+ 'en': 'John van Boesschoten is responsible for marketing and business development at Q-Pall and has almost thirty years of experience in the market for smart, circular pallets and boxes. He helps companies in Germany, Switzerland, Austria, Italy and Scandinavia with their pallet flows, the cost per trip and the switch from wooden to plastic pallets.',
+ 'de': 'John van Boesschoten verantwortet bei Q-Pall Marketing und Business Development und hat fast dreißig Jahre Erfahrung im Markt für smarte, kreislauffähige Paletten und Boxen. Er unterstützt Unternehmen in Deutschland, der Schweiz, Österreich, Italien und Skandinavien bei ihren Palettenkreisläufen, den Kosten pro Umlauf und dem Umstieg von Holz- auf Kunststoffpaletten.',
+ 'fr': 'John van Boesschoten est responsable du marketing et du développement commercial de Q-Pall et compte près de trente ans d’expérience sur le marché des palettes et caisses intelligentes et circulaires. Il accompagne les entreprises en Allemagne, en Suisse, en Autriche, en Italie et en Scandinavie sur leurs flux de palettes, le coût par rotation et le passage du bois au plastique.',
+ 'it': 'John van Boesschoten è responsabile del marketing e del business development di Q-Pall e ha quasi trent’anni di esperienza nel mercato dei pallet e dei contenitori intelligenti e circolari. Affianca le aziende in Germania, Svizzera, Austria, Italia e Scandinavia sui flussi di pallet, sul costo per ciclo e sul passaggio dai pallet in legno a quelli in plastica.',
+ 'es': 'John van Boesschoten es responsable de marketing y desarrollo de negocio en Q-Pall y suma casi treinta años de experiencia en el mercado de palets y cajas inteligentes y circulares. Asesora a empresas de Alemania, Suiza, Austria, Italia y Escandinavia sobre sus flujos de palets, el coste por rotación y el cambio de palets de madera a palets de plástico.'}
+
+SABINE_ABOUT = {
+ 'nl': ['De juiste kunststof pallet kiezen begint bij begrijpen hoe een bedrijf werkt. Waar wordt de pallet gebruikt? Wat moet hij dragen? En welke eisen stellen opslag, transport en handling? Met ruim twintig jaar ervaring bij Q-Pall helpt Sabine Oudshoorn klanten om die vragen te vertalen naar een passende oplossing.',
+        'Als Business Development Manager werkt Sabine met bedrijven in Nederland, Frankrijk, Spanje, het Verenigd Koninkrijk en daarbuiten. Ze kijkt verder dan afmetingen en draagvermogen, want juist de dagelijkse praktijk telt: van gebruik in stellingen en geautomatiseerde processen tot export en omgevingen waar hygiëne extra aandacht vraagt.',
+        'Sabine combineert haar kennis van kunststof pallets met een persoonlijke, praktische aanpak. Ze denkt mee, vraagt door en maakt de mogelijkheden helder. Zo kiest u een pallet die past bij uw logistieke proces, die betrouwbaar presteert en efficiënt in gebruik is.',
+        'Benieuwd welke kunststof pallet bij uw toepassing past? Sabine denkt graag met u mee.'],
+ 'en': ['Choosing the right plastic pallet starts with understanding how a business works. Where will the pallet be used? What does it have to carry? And what do storage, transport and handling demand of it? With more than twenty years of experience at Q-Pall, Sabine Oudshoorn helps customers turn those questions into the right solution.',
+        'As Business Development Manager, Sabine works with companies in the Netherlands, France, Spain, the United Kingdom and beyond. She looks beyond dimensions and load capacity, because daily practice is what counts: from use in racking and automated processes to export and environments where hygiene needs extra attention.',
+        'Sabine combines her knowledge of plastic pallets with a personal, practical approach. She thinks along, asks the right questions and makes the options clear. That way you choose a pallet that fits your logistics process, performs reliably and is efficient to use.',
+        'Wondering which plastic pallet suits your application? Sabine is happy to help.'],
+ 'de': ['Die richtige Kunststoffpalette zu wählen, beginnt damit, zu verstehen, wie ein Unternehmen arbeitet. Wo wird die Palette eingesetzt? Was muss sie tragen? Und welche Anforderungen stellen Lagerung, Transport und Handling? Mit mehr als zwanzig Jahren Erfahrung bei Q-Pall hilft Sabine Oudshoorn Kunden, diese Fragen in eine passende Lösung zu übersetzen.',
+        'Als Business Development Manager arbeitet Sabine mit Unternehmen in den Niederlanden, Frankreich, Spanien, dem Vereinigten Königreich und darüber hinaus. Sie schaut über Maße und Tragfähigkeit hinaus, denn entscheidend ist die tägliche Praxis: vom Einsatz im Regal und in automatisierten Prozessen bis zum Export und zu Bereichen, in denen Hygiene besondere Aufmerksamkeit verlangt.',
+        'Sabine verbindet ihr Wissen über Kunststoffpaletten mit einem persönlichen, praxisnahen Ansatz. Sie denkt mit, fragt nach und zeigt die Möglichkeiten klar auf. So wählen Sie eine Palette, die zu Ihrem logistischen Prozess passt, zuverlässig funktioniert und effizient im Einsatz ist.',
+        'Sie möchten wissen, welche Kunststoffpalette zu Ihrer Anwendung passt? Sabine berät Sie gern.'],
+ 'fr': ['Choisir la bonne palette plastique commence par comprendre le fonctionnement d’une entreprise. Où la palette est-elle utilisée ? Que doit-elle porter ? Et quelles exigences imposent le stockage, le transport et la manutention ? Forte de plus de vingt ans d’expérience chez Q-Pall, Sabine Oudshoorn aide les clients à traduire ces questions en une solution adaptée.',
+        'En tant que Business Development Manager, Sabine travaille avec des entreprises aux Pays-Bas, en France, en Espagne, au Royaume-Uni et au-delà. Elle regarde au-delà des dimensions et de la capacité de charge, car c’est la pratique quotidienne qui compte : de l’utilisation en rayonnage et dans des processus automatisés à l’export et aux environnements où l’hygiène demande une attention particulière.',
+        'Sabine associe sa connaissance des palettes plastique à une approche personnelle et pratique. Elle réfléchit avec vous, pose les bonnes questions et rend les possibilités claires. Vous choisissez ainsi une palette adaptée à votre processus logistique, fiable et efficace à l’usage.',
+        'Vous vous demandez quelle palette plastique convient à votre application ? Sabine vous conseille volontiers.'],
+ 'it': ['Scegliere il pallet in plastica giusto inizia dal capire come lavora un’azienda. Dove viene usato il pallet? Che cosa deve portare? E quali requisiti impongono stoccaggio, trasporto e movimentazione? Con oltre vent’anni di esperienza in Q-Pall, Sabine Oudshoorn aiuta i clienti a tradurre queste domande nella soluzione adatta.',
+        'Come Business Development Manager, Sabine lavora con aziende nei Paesi Bassi, in Francia, in Spagna, nel Regno Unito e oltre. Guarda oltre dimensioni e portata, perché conta la pratica quotidiana: dall’uso su scaffalature e in processi automatizzati all’export e agli ambienti in cui l’igiene richiede un’attenzione particolare.',
+        'Sabine unisce la sua conoscenza dei pallet in plastica a un approccio personale e pratico. Ragiona con voi, fa le domande giuste e chiarisce le possibilità. Così scegliete un pallet adatto al vostro processo logistico, affidabile ed efficiente nell’uso.',
+        'Volete sapere quale pallet in plastica è adatto alla vostra applicazione? Sabine vi consiglia volentieri.'],
+ 'es': ['Elegir el palet de plástico adecuado empieza por entender cómo trabaja una empresa. ¿Dónde se usa el palet? ¿Qué tiene que soportar? ¿Y qué exigen el almacenamiento, el transporte y la manipulación? Con más de veinte años de experiencia en Q-Pall, Sabine Oudshoorn ayuda a los clientes a convertir esas preguntas en la solución adecuada.',
+        'Como Business Development Manager, Sabine trabaja con empresas de los Países Bajos, Francia, España, el Reino Unido y otros países. Mira más allá de las medidas y la capacidad de carga, porque lo que cuenta es el día a día: desde el uso en estanterías y procesos automatizados hasta la exportación y los entornos en los que la higiene requiere especial atención.',
+        'Sabine combina su conocimiento de los palets de plástico con un enfoque personal y práctico. Piensa con usted, pregunta lo necesario y aclara las posibilidades. Así elige un palet que se ajusta a su proceso logístico, que rinde de forma fiable y que es eficiente en el uso.',
+        '¿Quiere saber qué palet de plástico se adapta a su aplicación? Sabine le asesora con mucho gusto.']}
+
+JOHN_ABOUT = {
+ 'nl': ['Kansen zien is één ding, ze in de praktijk laten werken is een tweede. Daar ligt de kracht van John van Boesschoten. Bij Q-Pall is hij verantwoordelijk voor marketing en business development, met zijn voeten stevig in de dagelijkse logistieke praktijk. Met bijna dertig jaar ervaring in de markt voor slimme, circulaire pallets en boxen verbindt hij marktkennis aan concrete oplossingen voor klanten.',
+        'John helpt bedrijven in Duitsland, Zwitserland, Oostenrijk en Italië en ondersteunt de commerciële activiteiten in Scandinavië. Hij denkt mee over de inrichting van palletstromen, de kosten per omloop en de overstap van houten naar kunststof pallets. Daarbij kijkt hij naar het hele gebruik: van handling en transport tot hergebruik en de aansluiting op geautomatiseerde processen.',
+        'Zijn vertrekpunt is steeds de vraag waar het beter kan. Welke eisen stelt uw logistieke proces? Waar ontstaan onnodige kosten? En hoe kan een andere palletkeuze bijdragen aan efficiënter en duurzamer werken? John maakt de mogelijkheden concreet en helpt u een onderbouwde keuze te maken die ook op de werkvloer resultaat oplevert.',
+        'Wilt u meer uit uw palletstromen halen? John denkt graag met u mee.'],
+ 'en': ['Spotting opportunities is one thing; making them work in practice is another. That is where John van Boesschoten’s strength lies. At Q-Pall he is responsible for marketing and business development, with his feet firmly in day-to-day logistics. With almost thirty years of experience in the market for smart, circular pallets and boxes, he links market knowledge to concrete solutions for customers.',
+        'John helps companies in Germany, Switzerland, Austria and Italy and supports the commercial activities in Scandinavia. He works with customers on how they organise their pallet flows, the cost per trip and the switch from wooden to plastic pallets. He looks at the whole life of the pallet: from handling and transport to reuse and the fit with automated processes.',
+        'His starting point is always the question of where things can be done better. What does your logistics process demand? Where do unnecessary costs arise? And how can a different choice of pallet help you work more efficiently and more sustainably? John makes the options concrete and helps you make a well-founded choice that delivers results on the shop floor too.',
+        'Want to get more out of your pallet flows? John is happy to help.'],
+ 'de': ['Chancen erkennen ist das eine, sie in der Praxis zum Laufen zu bringen das andere. Genau darin liegt die Stärke von John van Boesschoten. Bei Q-Pall verantwortet er Marketing und Business Development und steht dabei mit beiden Beinen in der täglichen Logistikpraxis. Mit fast dreißig Jahren Erfahrung im Markt für smarte, kreislauffähige Paletten und Boxen verbindet er Marktkenntnis mit konkreten Lösungen für Kunden.',
+        'John betreut Unternehmen in Deutschland, der Schweiz, Österreich und Italien und unterstützt die Vertriebsaktivitäten in Skandinavien. Er berät zur Gestaltung von Palettenkreisläufen, zu den Kosten pro Umlauf und zum Umstieg von Holz- auf Kunststoffpaletten. Dabei betrachtet er den gesamten Einsatz: vom Handling und Transport bis zur Wiederverwendung und zur Anbindung an automatisierte Prozesse.',
+        'Sein Ausgangspunkt ist immer die Frage, wo es besser geht. Welche Anforderungen stellt Ihr logistischer Prozess? Wo entstehen unnötige Kosten? Und wie kann eine andere Palettenwahl zu effizienterem und nachhaltigerem Arbeiten beitragen? John macht die Möglichkeiten konkret und hilft Ihnen, eine fundierte Entscheidung zu treffen, die auch in der Praxis Ergebnisse bringt.',
+        'Sie möchten mehr aus Ihren Palettenkreisläufen herausholen? John berät Sie gern.'],
+ 'fr': ['Repérer des opportunités est une chose, les concrétiser sur le terrain en est une autre. C’est là que réside la force de John van Boesschoten. Chez Q-Pall, il est responsable du marketing et du développement commercial, les pieds bien ancrés dans la réalité logistique quotidienne. Fort de près de trente ans d’expérience sur le marché des palettes et caisses intelligentes et circulaires, il relie la connaissance du marché à des solutions concrètes pour les clients.',
+        'John accompagne les entreprises en Allemagne, en Suisse, en Autriche et en Italie et soutient les activités commerciales en Scandinavie. Il réfléchit avec les clients à l’organisation de leurs flux de palettes, au coût par rotation et au passage des palettes bois aux palettes plastique. Il prend en compte toute l’utilisation : de la manutention et du transport à la réutilisation et à l’intégration dans des processus automatisés.',
+        'Son point de départ est toujours la même question : où peut-on faire mieux ? Quelles exigences votre processus logistique impose-t-il ? Où naissent des coûts inutiles ? Et comment un autre choix de palette peut-il vous aider à travailler de façon plus efficace et plus durable ? John rend les possibilités concrètes et vous aide à faire un choix fondé, qui donne aussi des résultats sur le terrain.',
+        'Vous souhaitez tirer davantage de vos flux de palettes ? John vous conseille volontiers.'],
+ 'it': ['Vedere le opportunità è una cosa, farle funzionare nella pratica è un’altra. È qui che sta la forza di John van Boesschoten. In Q-Pall è responsabile del marketing e del business development, con i piedi ben piantati nella pratica logistica quotidiana. Con quasi trent’anni di esperienza nel mercato dei pallet e dei contenitori intelligenti e circolari, collega la conoscenza del mercato a soluzioni concrete per i clienti.',
+        'John segue le aziende in Germania, Svizzera, Austria e Italia e supporta le attività commerciali in Scandinavia. Ragiona con i clienti sull’organizzazione dei flussi di pallet, sul costo per ciclo e sul passaggio dai pallet in legno a quelli in plastica. Considera l’intero utilizzo: dalla movimentazione e dal trasporto al riutilizzo e all’integrazione con i processi automatizzati.',
+        'Il suo punto di partenza è sempre la domanda su dove si possa fare meglio. Quali requisiti impone il vostro processo logistico? Dove nascono costi inutili? E come può una scelta di pallet diversa contribuire a un lavoro più efficiente e sostenibile? John rende concrete le possibilità e vi aiuta a fare una scelta motivata, che dà risultati anche in reparto.',
+        'Volete ottenere di più dai vostri flussi di pallet? John vi consiglia volentieri.'],
+ 'es': ['Ver oportunidades es una cosa; hacer que funcionen en la práctica es otra. Ahí reside la fuerza de John van Boesschoten. En Q-Pall es responsable de marketing y desarrollo de negocio, con los pies bien asentados en la logística del día a día. Con casi treinta años de experiencia en el mercado de palets y cajas inteligentes y circulares, une el conocimiento del mercado con soluciones concretas para los clientes.',
+        'John atiende a empresas de Alemania, Suiza, Austria e Italia y apoya la actividad comercial en Escandinavia. Asesora sobre la organización de los flujos de palets, el coste por rotación y el cambio de palets de madera a palets de plástico. Para ello tiene en cuenta todo el uso: desde la manipulación y el transporte hasta la reutilización y la integración en procesos automatizados.',
+        'Su punto de partida es siempre la pregunta de dónde se puede mejorar. ¿Qué exige su proceso logístico? ¿Dónde surgen costes innecesarios? ¿Y cómo puede otra elección de palet ayudarle a trabajar de forma más eficiente y sostenible? John concreta las posibilidades y le ayuda a tomar una decisión fundamentada que también da resultados en el día a día.',
+        '¿Quiere sacar más partido a sus flujos de palets? John le asesora con mucho gusto.']}
 BD_ROLE = {l: 'Business Development' for l in ('nl', 'en', 'de', 'fr', 'it', 'es')}
 TEAM = [
     {'key': 'sabine-oudshoorn', 'name': 'Sabine Oudshoorn', 'photo': '/assets/img/team/sabine-oudshoorn.webp', 'linkedin': '',
-     'role': BD_ROLE,
-     'bio': {'nl': 'Sabine Oudshoorn werkt bij Q-Pall op Business Development. Ze helpt bedrijven in heel Europa bij de keuze van de juiste kunststof pallet: van maat en draagklasse tot de inzet in stellingen, bij export of in hygiënische omgevingen.',
-             'en': 'Sabine Oudshoorn works in Business Development at Q-Pall. She helps companies across Europe choose the right plastic pallet: from size and load class to use in racking, for export or in hygienic environments.',
-             'de': 'Sabine Oudshoorn arbeitet bei Q-Pall im Business Development. Sie hilft Unternehmen in ganz Europa, die passende Kunststoffpalette zu finden: von Größe und Lastklasse bis zum Einsatz im Regal, im Export oder in hygienischen Bereichen.',
-             'fr': "Sabine Oudshoorn travaille au Business Development de Q-Pall. Elle aide les entreprises de toute l'Europe à choisir la bonne palette plastique : dimensions, classe de charge, utilisation en rayonnage, à l'export ou en environnement hygiénique.",
-             'it': "Sabine Oudshoorn lavora nel Business Development di Q-Pall. Aiuta le aziende di tutta Europa a scegliere il pallet in plastica giusto: dalle dimensioni alla classe di carico, fino all'uso su scaffalature, per l'export o in ambienti igienici.",
-             'es': 'Sabine Oudshoorn trabaja en Business Development en Q-Pall. Ayuda a empresas de toda Europa a elegir el palet de plástico adecuado: desde el tamaño y la clase de carga hasta su uso en estanterías, en exportación o en entornos higiénicos.'},
+     'role': SABINE_ROLE,
+     'bio': SABINE_BIO, 'about': SABINE_ABOUT,
      'knows': {'nl': ['Kunststof pallets', 'Palletmaten', 'Draagvermogen van pallets', 'Hygiënische pallets', 'Exportpallets'],
                'en': ['Plastic pallets', 'Pallet sizes', 'Pallet load capacity', 'Hygienic pallets', 'Export pallets'],
                'de': ['Kunststoffpaletten', 'Palettenmaße', 'Tragfähigkeit von Paletten', 'Hygienepaletten', 'Exportpaletten'],
@@ -128,13 +197,8 @@ TEAM = [
                'it': ['Pallet in plastica', 'Dimensioni dei pallet', 'Portata dei pallet', 'Pallet igienici', 'Pallet da export'],
                'es': ['Palets de plástico', 'Medidas de palets', 'Capacidad de carga de palets', 'Palets higiénicos', 'Palets de exportación']}},
     {'key': 'john-van-boesschoten', 'name': 'John van Boesschoten', 'photo': '/assets/img/team/john-van-boesschoten.webp', 'linkedin': '',
-     'role': BD_ROLE,
-     'bio': {'nl': 'John van Boesschoten werkt bij Q-Pall op Business Development. Hij denkt met klanten mee over hun palletstromen, de kosten per omloop en de overstap van houten naar kunststof pallets.',
-             'en': 'John van Boesschoten works in Business Development at Q-Pall. He works with customers on their pallet flows, the cost per trip and the switch from wooden to plastic pallets.',
-             'de': 'John van Boesschoten arbeitet bei Q-Pall im Business Development. Er berät Kunden zu ihren Palettenkreisläufen, den Kosten pro Umlauf und dem Umstieg von Holz- auf Kunststoffpaletten.',
-             'fr': 'John van Boesschoten travaille au Business Development de Q-Pall. Il accompagne les clients sur leurs flux de palettes, le coût par rotation et le passage des palettes bois aux palettes plastique.',
-             'it': 'John van Boesschoten lavora nel Business Development di Q-Pall. Affianca i clienti sui loro flussi di pallet, sul costo per ciclo e sul passaggio dai pallet in legno a quelli in plastica.',
-             'es': 'John van Boesschoten trabaja en Business Development en Q-Pall. Asesora a los clientes sobre sus flujos de palets, el coste por rotación y el cambio de palets de madera a palets de plástico.'},
+     'role': JOHN_ROLE,
+     'bio': JOHN_BIO, 'about': JOHN_ABOUT,
      'knows': {'nl': ['Kunststof pallets', 'Kunststof versus houten pallets', 'Palletprijzen en kosten per omloop', 'PPWR', 'Gerecycled kunststof'],
                'en': ['Plastic pallets', 'Plastic versus wooden pallets', 'Pallet prices and cost per trip', 'PPWR', 'Recycled plastic'],
                'de': ['Kunststoffpaletten', 'Kunststoff- versus Holzpaletten', 'Palettenpreise und Kosten pro Umlauf', 'PPWR', 'Recycelter Kunststoff'],
@@ -164,7 +228,7 @@ COUNTRY = {
     'UK': {'nl': 'Verenigd Koninkrijk', 'en': 'United Kingdom', 'de': 'Vereinigtes Königreich', 'fr': 'Royaume-Uni', 'it': 'Regno Unito', 'es': 'Reino Unido'},
 }
 
-# production locations. 'V' Veghel = headquarters and storage (no production).
+# production locations. 'V' Veghel = head office (no production; 'Hoofdkantoor', Noah 13 Nov 2026).
 LOCATIONS = {
     'B': {'name': 'Balk', 'cc': 'NL'},
     'R': {'name': 'Ribe', 'cc': 'DK'},
@@ -188,7 +252,7 @@ SHOW_PRICES = False
 # and Netlify sends "X-Robots-Tag: noindex, nofollow" for every file (pages, PDFs), so nothing (prices
 # included) ends up in Google. Set to False when the site goes live on qpall.com and the prices
 # have been approved, then rebuild.
-NOINDEX_ALL = True
+NOINDEX_ALL = False     # live (Noah, 13 Nov 2026, update 54); test hosts get noindex from the edge function
 
 # Pallets worden alleen per volle stapel verkocht. Het aantal per stapel verschilt per pallet (update 12):
 # data/stapels.json, gemaakt door tools/stapels.py uit input/stapels/palletmaten voor calculator.docx.

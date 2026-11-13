@@ -126,7 +126,7 @@ about:
   eyebrow: "Chi siamo"
   title: "Tutta la filiera **sotto controllo**"
   text: "Dal 2005 Q-Pall sviluppa e produce esclusivamente pallet in plastica. Progettazione, stampi, produzione, distribuzione e vendita sono tutti nelle nostre mani, dalla sede centrale di Veghel e da cinque stabilimenti in Europa. Così reagiamo in fretta e garantiamo la qualità."
-  points: ["Sede centrale e magazzino a Veghel", "Parte di AVK Group", "Rivenditori in Europa e negli Stati Uniti"]
+  points: ["Sede centrale a Veghel", "Cinque siti produttivi in Europa", "Rivenditori in Europa e negli Stati Uniti"]
   cta: "Scoprite Q-Pall"
   cta2: "Lavora con noi"
   img_alt: "Reparto produttivo con presse a iniezione e robot nello stabilimento Q-Pall di Balk"
@@ -160,9 +160,6 @@ cases:
     - {id: news-auchan, client: "Auchan · distribuzione, Francia", title: "50.000 europallet intelligenti", text: "Auchan ha introdotto in tutta la Francia europallet heavy duty in plastica riciclata, ciascuno con tecnologia IoT di IBM."}
     - {id: news-mega-order, client: "Drankenpallet Beheer Nederland", title: "Un milione di pallet da Balk", text: "Il più grande ordine olandese dal 2005: almeno un milione di pallet in plastica riciclata per il settore delle bevande."}
     - {id: news-stackup, client: "Kwakman Afbouw · edilizia", title: "70% di spostamenti in meno", text: "Insieme abbiamo sviluppato lo Stack-Up Pallet per il cantiere: meno sforzi, meno rifiuti e finiture più rapide."}
-    - {id: news-covid, client: "Trasporto vaccini · farmaceutico", title: "Pallet per i vaccini COVID", text: "Tramite il partner Goplasticpallets.com, Q-Pall ha fornito il 1208 HR 5R per il trasporto di vaccini verso, tra gli altri, Stati Uniti, Cina e Corea del Sud."}
-    - {id: news-goodwood, client: "Goodwood Festival of Speed", title: "Auto elettriche su un pallet", text: "Al festival il pallet heavy duty QP1210 HR 5R ha sostenuto auto elettriche, grazie a una portata statica di 7.500 kg."}
-    - {id: news-goplastic, client: "Goplasticpallets.com · Regno Unito", title: "Dieci anni di collaborazione", text: "Nel 2022 Q-Pall e il partner britannico Goplasticpallets.com hanno festeggiato dieci anni di collaborazione."}
 faq:
   - q: "Perché scegliere pallet in plastica?"
     a: "I pallet in plastica durano molto più a lungo dei pallet in legno, non assorbono umidità e non hanno schegge né chiodi. Hanno dimensioni fisse e un peso costante, un aspetto importante per l’automazione. Inoltre sono esenti da ISPM 15 per l’esportazione. Approfondite in [plastica o legno](@guide-wood)."
